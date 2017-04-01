@@ -5,7 +5,7 @@ from datetime import datetime
 # python -c "from count_words import *; count_words()"
 
 input_file = 'jobslinks.csv'
-output_file = 'jobswords.csv'
+output_file = '/home/saigesp/git/domestikrawler/a6b6f6d32d824dea8ab086c0dc8fe50e/jobswords.csv'
 
 def cleanString(texto):
 	texto = texto.decode('latin-1').encode('utf-8')
@@ -40,25 +40,8 @@ def cleanString(texto):
 def count_words():
 	seen = {
 		'total':				0,
-		'flash':				0,
-		'motion graphics':		0,
-		'grafico':				0,
-		'web':					0,
-		'data':					0,
-		'director de arte': 	0,
+		'noprogramador':		0,
 		'programador':		 	0,
-		'wordpress':		 	0,
-		'maquetador':		 	0,
-		'ux':				 	0,
-		'ui':				 	0,
-		'video':			 	0,
-		'ios':				 	0,
-		'android':			 	0,
-		'game':				 	0,
-		'mobile':			 	0,
-		'ecommerce':			0,
-		'frontend':				0,
-		'industrial':			0,
 	}
 
 	with open(input_file, 'rt') as read_csv, open(output_file, 'w') as write_csv:
@@ -71,62 +54,62 @@ def count_words():
 		writer.writerow(data)
 		for row in reader:
 			seen['total'] += 1
-			if 'flash' in cleanString(row[2]): seen['flash'] += 1
-			if 'wordpress' in cleanString(row[2]): seen['wordpress'] += 1
-			if 'grafic' in cleanString(row[2]): seen['grafico'] += 1
-			if 'graphic' in cleanString(row[2]): seen['grafico'] += 1
-			if 'maquetador' in cleanString(row[2]): seen['maquetador'] += 1
-			if 'director de arte' in cleanString(row[2]): seen['director de arte'] += 1
-			if 'art director' in cleanString(row[2]): seen['director de arte'] += 1
-			if 'web' in cleanString(row[2]): seen['web'] += 1
-			if 'ios' in cleanString(row[2]): seen['ios'] += 1
-			if 'android' in cleanString(row[2]): seen['android'] += 1
-			if 'data' in cleanString(row[2]): seen['data'] += 1
-			if 'ux' in cleanString(row[2]): seen['ux'] += 1
-			if 'ui' in cleanString(row[2]): seen['ui'] += 1
-			if 'game' in cleanString(row[2]): seen['game'] += 1
-			if 'video' in cleanString(row[2]): seen['video'] += 1
-			if 'programador' in cleanString(row[2]): seen['programador'] += 1
-			if 'programacion' in cleanString(row[2]): seen['programador'] += 1
-			if 'desarrollador' in cleanString(row[2]): seen['programador'] += 1
-			if 'develo' in cleanString(row[2]): seen['programador'] += 1
-			if 'motion graphics' in cleanString(row[2]): seen['motion graphics'] += 1
-			if 'mobile' in cleanString(row[2]): seen['mobile'] += 1
-			if 'ecommerce' in cleanString(row[2]): seen['ecommerce'] += 1
-			if 'front' in cleanString(row[2]): seen['frontend'] += 1
-			if 'industr' in cleanString(row[2]): seen['industrial'] += 1
+			if 'wordpress' in cleanString(row[2]): seen['programador'] += 1
+			elif 'web' in cleanString(row[2]): seen['programador'] += 1
+			elif 'app' in cleanString(row[2]): seen['programador'] += 1
+			elif 'ios' in cleanString(row[2]): seen['programador'] += 1
+			elif 'softw' in cleanString(row[2]): seen['programador'] += 1
+			elif 'android' in cleanString(row[2]): seen['programador'] += 1
+			elif 'programador' in cleanString(row[2]): seen['programador'] += 1
+			elif 'programacion' in cleanString(row[2]): seen['programador'] += 1
+			elif 'desarroll' in cleanString(row[2]): seen['programador'] += 1
+			elif 'develo' in cleanString(row[2]): seen['programador'] += 1
+			elif 'mobile' in cleanString(row[2]): seen['programador'] += 1
+			elif 'ecommerce' in cleanString(row[2]): seen['programador'] += 1
+			elif 'front' in cleanString(row[2]): seen['programador'] += 1
+			elif 'html' in cleanString(row[2]): seen['programador'] += 1
+			elif 'css' in cleanString(row[2]): seen['programador'] += 1
+			elif 'java' in cleanString(row[2]): seen['programador'] += 1
+			elif 'php' in cleanString(row[2]): seen['programador'] += 1
+			elif 'datos' in cleanString(row[2]): seen['programador'] += 1
+			elif 'data' in cleanString(row[2]): seen['programador'] += 1
+			elif 'flash' in cleanString(row[2]): seen['programador'] += 1
+			elif 'ui' in cleanString(row[2]): seen['programador'] += 1
+			elif 'ux' in cleanString(row[2]): seen['programador'] += 1
+			elif 'director' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'direcc' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'arte' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'arti' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'art director' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'graphic' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'grafi' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'tipog' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'industr' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'maqueta' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'copy' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'ejecuti' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'fotog' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'motion' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif '3d' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'edit' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'packa' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'indesi' in cleanString(row[2]): seen['noprogramador'] += 1
+			elif 'multim' in cleanString(row[2]): seen['noprogramador'] += 1
 
 			date = row[0].split('-')
 			yyyymm = date[0]+date[1]
 			
+			print(row[0],cleanString(row[2]))
 			if not last_date == yyyymm:
 				last_date = yyyymm
-				data = [yyyymm]
+				data = [str(int(yyyymm)+1)]
 				for key in seen:
 					data.append(seen[key])
 				writer.writerow(data)
 				seen = {
 					'total':				0,
-					'flash':				0,
-					'motion graphics':		0,
-					'grafico':				0,
-					'web':					0,
-					'data':					0,
-					'director de arte': 	0,
+					'noprogramador':		0,
 					'programador':		 	0,
-					'wordpress':		 	0,
-					'maquetador':		 	0,
-					'ux':				 	0,
-					'ui':				 	0,
-					'video':			 	0,
-					'ios':				 	0,
-					'android':			 	0,
-					'game':				 	0,
-					'mobile':			 	0,
-					'ecommerce':			0,
-					'frontend':				0,
-					'industrial':			0,
 				}
-				print(yyyymm)
 
 		print(seen)
