@@ -1,0 +1,19 @@
+
+En We Choose Fun necesitamos incorporar un programador web front-end / back-end para trabajar en nuestro estudio. Buscamos a:
+ - Un programador / desarrollador
+ - Para trabajar en nuestro estudio en Barcelona (&lt;M&gt; Bogatell).
+ - Con sólidos conocimientos de programación web front-end / back-end
+Lenguajes, frameworks y otros conocimientos deseados:
+ - PHP / MySQL
+ - HTML / CSS
+ - JavaScript
+ - CodeIgniter
+ - JQuery
+ - APIs de Facebook, Twitter, ... 
+Otros conocimientos que nos harían muy felices:
+ - Desarrollo de instalaciones interactivas - openFrameworks, Cinder, sensores, actuadores, ...
+ - Desarrollo para plataformas móviles - iPhone, Android.
+Ofrecemos:
+ - Tipo de incorporación y retribución: a valorar junto al candidato: media jornada / jornada completa. 
+ - Desde el primer día trabajará con los clientes y en el tipo de proyectos de nuestro portfolio.
+

@@ -1,0 +1,9 @@
+
+Nos urge incorporar a nuestro equipo 2 personas con el siguiente perfil:
+- Residentes en Valencia (provincia)
+- Que dominen el lenguaje PHP 5.3
+- Con conocimientos de Symfony2
+- Con conocimientos de MySQL5
+- Familiarizados con GIT
+- Familiarizados con TDD
+Estas personas se contratarán para un proyecto de 2 meses de duración.

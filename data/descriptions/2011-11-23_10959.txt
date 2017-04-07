@@ -1,0 +1,11 @@
+
+Profesionalia,  empresa especializada en comunidades profesionales, desarrollo web y e-learning busca:
+ Maquetador-a web/SEO/SEM Junior 
+Misión:
+Como miembro del equipo de desarrollo web deberás aplicar todos los conocimientos para conseguir un código limpio y que supere las validaciones WC3 y XHTML 4. Además de aplicar todo lo necesario para la indexación de la pagina web en los principales navegadores sin dejar de lado el rendimiento y la velocidad de la carga de la aplicación web.
+Las responsabilidades diarias incluyen realizar las maquetaciones web el tiempo estipulado, aplicar las mejores soluciones para la usabilidad y accesibilidad, mantener el código limpio y el posicionamiento web, formando parte de un equipo dinámico y con autonomía.
+Requisitos mínimos:	- Experiencia en XHTML, CSS y estándares web.
+ -Experiencia en Javascript, Jquery u otros frameworks.
+- Experiencia en Photoshop, Fireworks y Flash.
+- Experiencia en Accesibilidad, Usabilidad y optimización del código.
+- Experiencia en contenidos y conocimientos en Worpdress, Drupal

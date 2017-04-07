@@ -1,0 +1,15 @@
+
+Oferta para recién titulados de Grado  en Ingeniaría Informática.
+Jornada completa de 9.00 h a 13.30 h i de 15.00 h a 18.30 h.
+Residencia en Granollers o cercanías.
+Capacidad de trabajar mediante patrón MVC.
+Conocer lógica, sintaxis y funcionamiento de los siguientes lenguajes de programación:
+- PHP 5.3.8
+- Zend Framework 1.11
+- Consultas SQL (MySQL)
+- jQuery 1.7
+- CSS3
+- HTML5
+Se valorará formación y dominio de otros lenguajes: ActionScript 3.0, MooTools 1.4, Symfony 2.0 o CakePHP 2.0 (en este orden).
+Así cómo experiencia en integración de APIs: Facebook Graph, Rest and Streaming Twitter, YouTube, Vimeo, Flikr y Google+. 
+También se tendrá en cuenta si el candidato ha trabajado con CMS: Drupal, Liferay, Joomla o WordPress y desarrollado o implementado Plugins, widgets o gadgets para los mismos.

@@ -1,0 +1,13 @@
+
+
+Analista funcional / Pruebas 
+Duración: aprox. 3 semanas al inicio de cada fase (1 fase cada 3 meses) 
+Ubicación: Málaga o Sevilla 
+PC y software propios (preferible portátil) y teléfono móvil
+Trabajar con una compañera, que está en Málaga haciendo la especificación funcional con el cliente
+Realizar la labor de ASI (análisis sistemas Métrica3): Casos de uso, y diseño de las pruebas de aceptación
+Analisis de pruebas en Sevilla 
+Probar los desarrollos en su versión alfa 
+Monitorizar la aplicación de reservas del entorno de producción y hacer reporte semanal de su funcionamiento.
+Entorno JAVA
+

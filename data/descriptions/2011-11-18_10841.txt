@@ -1,0 +1,10 @@
+
+Maquetador HTML , css3, javascript, etc.
+Requisitos:
+Disponibilidad Inmediata
+Ubicación: Sevilla
+PC y software propios
+Implementar diseños ya realizados en PSD
+Alto nivel de CSS3
+Alto nivel en cross-browsing para asegurar el resultado final en todos los navegadores (el portal de amplio espectro de usuarios)
+

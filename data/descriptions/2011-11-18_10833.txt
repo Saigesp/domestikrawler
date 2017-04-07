@@ -1,0 +1,39 @@
+
+Desarrollador Web/PHP/Wordpress
+Empresa Ibercover
+Localidad Toledo
+Buscamos:
+Buscamos un desarrollador/programador con ganas de aprender y sacar adelante distintos proyectos web, principalemente en PHP/MySQL/HTML/CSSI/Javascript/jQuery pero dispuesto a encarar nuevos desafíos y aprender cosas nuevas.
+Valoramos la experiencia pero también el talento, la inteligencia y la determinación. Consideramos que la experiencia es un indicador de capacidad para cumplir con los objetivos, pero la dedicación, las ganas de aprender y el entusiasmo por hacer cosas bien  y destacar son también características fundamentales.
+Las cosas como son. En principio tenemos dos proyectos concretos para clientes de alto nivel que nos ocuparán el resto de este año y posiblemente buena parte del siguiente. Alta probabilidad de más proyectos de características similares que permitan dar continudad al trabajo.
+Ofrecemos:
+Posibilidad de teletrabajo, en nuestras oficinas o mixto.
+Horarios flexibles.
+Salario según capacidad, conocimientos, habilidades, aptitudes y experiencia.
+Requerimos:
+Necesitamos gente que sepa programar en PHP en entorno web lo suficiente para desarrollar módulos, plugins, extensiones en base a especificaciones.
+Ejemplos reales de cosas que podríamos necesitar: plugins para Wordpress, módulos de Drupal, cambios en un theme, maquetación con HTML/CSS, desarrollo de una funcionalidad concreta en jQuery, encontrar una librería o un plugin para solucionar una necesidad específica e implementarla, etc...
+En otras palabras, cosas diferentes, en principio no demasiado complicadas pero que requieren investigar, leer, entender, encontrar y producir soluciones adecuadas a problemas o necesidades concretas.
+Por eso es importante que el candidato adecuado sea capaz de leer fluidamente en inglés y esté acostumbrado a buscar soluciones con agilidad.
+Tecnologías con las que probablemtne tenga que trabajar:
+PHP
+HTML
+CSS
+Javascript
+jQuery
+MySQL
+Wordpress
+Redes sociales
+APIs
+Salario:
+18.000-24.000 €
+Experiencia:
+1 a 3 años
+Idiomas:
+Inglés
+Condiciones:
+Tipo de contrato: Por obra
+Jornada: Completa
+Teletrabajo
+¿Te interesa? Apúntate aquí http://bit.ly/nxsx8J
+

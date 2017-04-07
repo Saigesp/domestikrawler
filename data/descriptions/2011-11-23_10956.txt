@@ -1,0 +1,11 @@
+
+Profesionalia,  empresa especializada en comunidades profesionales, desarrollo web y e-learning busca:
+ Analista/Programador Web Junior 
+Misión:
+Como miembro del equipo de desarrollo web deberás involucrarte en el ciclo de la creación de aplicaciones web de principio a fin del proceso, buscando en todo momento soluciones creativas.
+Las responsabilidades diarias incluyen el desarrollo y debug del código, resolución de problemas en las aplicaciones, realización de pruebas de carga, formando parte de un equipo dinámico y con autonomía
+Requisitos mínimos:	- Experiencia entre 1-2 años en un puesto similar.
+ -Experiencia en PHP, MySql
+- Experiencia en POO,  JSON, XML
+- Experiencia en  XHTML, CSS, Javascript, Jquery 
+- Experiencia en sistemas de control de revisiones, SVN, TRAC, GIT

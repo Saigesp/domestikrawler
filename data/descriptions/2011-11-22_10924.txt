@@ -1,0 +1,11 @@
+
+Buscamos un PHP developer.
+Nos gustaría:
+Que hayas trabajado con Symfony.
+Que si no trabajaste con Symfony, hayas implementado algún framework MVS.
+Que tengas experiencia en desarrollo de frontend potentes.
+Que puedas y quieras participar en el análisis de funcionalidades.
+Que tengas experiencia en desarrollo de sites de alto tráfico.
+Que hayas trabajado con metodologías ágiles e implementación continua.
+Ofrecemos:
+Buen sueldo!

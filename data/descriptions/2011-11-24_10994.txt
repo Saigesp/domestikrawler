@@ -1,0 +1,47 @@
+
+El candidato deberá:
+BBDD MySQL
+- Analizar y diseñar Bases de Datos con integridad referencial.
+- Manipular y trabajar con SQL a nivel alto.
+- Programar triggers, y Stored Procedures.
+PHP
+- Programar con patrones de diseño: principalmente MVC y Singleton.
+- Trabajar con alguno de los principales Frameworks:
+- ZendFramework
+- CakePHP
+- Symfony
+- CodeIgniter
+- Serializar objetos para reutilizarlos posteriormente.
+- Consumir Web Services en diferentes formatos: XML, JSON, ...
+ENTORNOS DE DESARROLLO
+- Trabajar con alguno de los siguientes IDE´s
+- NetBeans
+- Eclipse
+- Utilizar sistemas de control de versiones
+- SubVersion
+- GIT
+SERVIDOR APACHE
+- Configurar adecuadamente modrewrite, open_basedir, virtual hosts, y .htaccess.
+DESARROLLO DE VISTAS
+- Ser experto en HTML, utilizando correctamente los tag´s y su aplicación semántica.
+- Dominar la creación de layouts.
+- Maquetar con CSS y prestar atención a la correcta visualización del proyecto en los principales navegadores.
+- Tener nociones de SEO.
+- Programar con JavaScript, con y sin librerías; y orientado a objetos.
+- Trabajar a diario con las siguientes librerías:
+- Mootools
+- JQuery
+- Utilizar AJAX y JSON cuando sea necesario.
+METODOLOGÍA DE TRABAJO
+- Trabajar orientado a la calidad del código del proyecto.
+- Documentar adecuadamente el proyecto.
+VALORAREMOS POSITIVAMENTE
+- Haber trabajado con API de terceros:
+- Facebook
+- Twitter
+- Youtube
+Queremos incorporar una persona que, como nosotros, disfruta desarrollando y sacando el máximo partido a las tecnologías de desarrollo web.
+Es importante que te guste programar y ampliar tus conocimientos constantemente. El testeo y la calidad de cada proyecto es fundamental.Valoramos que los proyectos estén bien estructurados, documentados, y que sean fáciles de mantener y ampliar.
+Trabajarás en equipo con nuestros desarrolladores y diseñadores, colaborando con ellos en un espacio de trabajo óptimo. Serás responsable del desarrollo de distintos proyectos.
+Por último, nos gusta la proactividad; que tengas iniciativa propia y capacidad de encontrar soluciones a los distintos obstáculos que, a buen seguro, aparecerán.
+Si cumples con una amplia mayoría de los requisitos y confías en tu compromiso y capacidad para asumir rápidamente los conocimientos restantes, te invitamos a que presentes tu candidatura igualmente. 
