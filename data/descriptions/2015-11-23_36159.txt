@@ -1,0 +1,19 @@
+
+Friend2Friend somos una start-up tecnológica que ofrece soluciones de Social Media Marketing a grandes marcas y agencias de publicidad (http://friend2friend.com/).
+Nuestra sede está en Mountain View (US) y en Barcelona tenemos la oficina Europea, desde donde nos encargamos de la parte creativa y de desarrollo de la tecnología.
+Estamos buscando un desarrollador frontend con sólidos conocimientos de diseño a jornada completa, con un nivel elevado de inglés, para entrar a formar parte de nuestro equipo en nuestra oficina de Barcelona (no a distancia).
+La misión será que nos ayude a construir la tecnología Friend2Friend y a desarrollar/diseñar a nivel frontend campañas para marcas de primer nivel como Universal Pictures, Nickelodeon, GoPRO, Samsung, Microsoft, Gas Natural Fenosa, Ikea, Calvin Klein, y más...
+El requisito es tener conocimientos avanzados de HTML5 y CSS3/LESS, Bootstrap, UX y UI, con un buen nivel de inglés. Valoraremos positivamente haber trabajado en otras start-ups, tener conocimientos de usabilidad, diseño de aplicaciones en redes sociales o móviles, nociones de copywriting y ser un usuario activo en Facebook, Twitter y LinkedIn.
+Responsabilidades:
++ Ser partícipe en las fases iniciales de diseño y conceptualización de los proyectos.
++ Preparar wireframes explicativos y plasmar los conceptos en propuestas gráficas (Photoshop e Illustrator).
++ Desarrollar en HTML5 y CSS3 (trabajamos con LESS y Bootstrap), teniendo en cuenta estándares, compatibilidad entre navegadores y dispositivos móviles. Se valorarán conocimientos de JavaScript y librerías (jQuery).
++ Ayudar en el desarrollo y diseño de nuestras herramientas y plataforma tecnológica.
++ Trabajar en un equipo internacional junto con otros creativos y programadores para llevar a cabo campañas potentes con clientes de todo el mundo.
++ Responsabilidad en la gestión de los proyectos, y pro-actividad.
+¿Qué ofrecemos?
++ Trabajar en una start-up internacional puntera desarrollando soluciones tecnológicas y campañas para las mejores marcas del mundo.
++ Aprender de un equipo muy dinámico con perfiles técnicos muy especializados.
++ Proyectos variados, 80% internacionales.
++ Gente joven y buen ambiente.
++ Mesa de ping-pong :)

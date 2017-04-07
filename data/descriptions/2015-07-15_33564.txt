@@ -1,0 +1,23 @@
+
+Desde 4andgo nos dedicamos al diseño y desarrollo de aplicaciones móviles multiplataforma, gestionando algunas de las aplicaciones más descargadas en España. Nos centramos en el desarrollo nativo y buscamos contínuamente la innovación y la eficiencia en nuestros trabajos.
+Estamos buscando un programador que tenga experiencia en el desarrollo de aplicaciones iOS/Android que tendrá la oportunidad de incorporarse a un equipo de desarrollo áltamente cualificado con amplia trayectoria en el sector. La persona que se incorpore debe demostrar interés por las tecnologías móviles, capacidad autodidacta y compromiso con su trabajo
+Ofrecemos una gran oportunidad de progresión profesional en el mundo de las aplicaciones móviles así como un ambiente de trabajo dinámico y divertido en el que no faltarán lo retos ni las oportunidades de éxito.
+Estudios mínimos
+Ingeniero Superior - Ingeniero en Informática
+Experiencia mínima
+Al menos 2 años programando apps en iOS y/o Android
+Requisitos mínimos
+· Ingeniero técnico o superior en Informática
+· 2-3 años en el desarrollo aplicaciones iOS (ya sea mediante Objective-C o Swift), con amplio conocimiento de componentes y tecnologías a implementar propios de la plataforma
+· 2-3 años en el desarrollo aplicaciones Android (Java), con amplio conocimiento de componentes y tecnologías a implementar propios de la plataforma
+· Experiencia en el desarrollo de aplicaciones dinámicas, integrando servicios dinámicos (SOAP y REST) en dispositivos móviles, así como las posibles interacciones con bases de datos SQLite y/o Core Data.
+Se valorará positivamente
+· Control de versiones Git y SVN
+· Conocimientos de Testing automático e integración contínua aplicado a productos móviles
+· Cursos o seminarios técnicos en el desarrollo iOS o Android
+· Conocimientos de diseño y usabilidad aplicados a interfaces de usuario
+· Experiencia en las subidas de aplicaciones a sus respectivos mercados
+· Portfolio actualizado de apps
+Para apuntarse a la oferta, nos podéis enviar vuestros CV a la dirección info@4andgo.com
+ http://www.4andgo.com
+iOS, Android, Windows Phone

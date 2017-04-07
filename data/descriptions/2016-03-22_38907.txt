@@ -1,0 +1,19 @@
+
+PERFIL DE LOS CANDIDATOS:
+- Preferible Grado/Ingeniería Telecomunicaciones o Informática con conocimientos de electricidad y electrónica.
+- Al menos dos años de experiencia.
+- Personas resolutivas y autónomas con ganas de formar parte de un proyecto innovador.
+- Personas ágiles que aseguren la entrega del producto en el tiempo y forma estimados.
+FUNCIONES:
+- Desarrollo de un servicio web para la recogida y procesado de datos de sensores.
+- Desarrollo de una aplicación web adaptable para escritorio y móvil/tableta.
+- Desarrollo de motor de tratamiento de los datos recogidos.
+REQUISITOS:
+- HTML5, Javascript/JQuery,CSS
+- Frameworks de frontend: Bootstrap, Materialize o similar.
+- Frameworks de backend: Symphony, Ruby on Rails, Django o similar.
+- PHP, Python, Ruby o Node.js.
+- Bases de datos: MySQL, PostgreSQL o MongoDB.
+- Administración de sistemas Linux.
+- Experiencia en gestión ágil de proyectos.
+- Conocimientos básicos de electrónica (Arduino o similar) y electricidad.

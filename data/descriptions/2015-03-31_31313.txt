@@ -1,0 +1,7 @@
+
+Importante empresa situada en Las Rozas (Madrid) precisa incorporar de manera estable un/a maquetador/a con 2 años de experiencia que se ocupará del desarrollo de la maquetación de aplicaciones existentes y nuevas funcionalidades en aplicaciones de entorno web (intranet/internet):
+1 - Maquetación de pantallas en HTML, html 5, css 3.
+Bootstrap como framework de maquetación, pantallas disponibles en Adobe Illustrator. Testeo y adaptación de lo maquetado para que funcione en los navegadores más populares (incluyendo Chrome, Firefox, Internet Explorer. Repaso y optimización de maquetaciones y css's anteriores.
+2 - Mantenimiento de aplicaciones web en Java.
+3 - Desarrollo de nuevas aplicaciones o funcionalidades y mantenimiento de aplicaciones web en J2EE utilizando los frameworks de Spring, Hibernate y GWT.
+Será muy valorable poseer conocimientos de jquery, javascript, Java y Eclipse para integrar desarrollos en las pantallas y programación/mantenimientos.

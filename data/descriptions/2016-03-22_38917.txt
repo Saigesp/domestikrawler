@@ -1,0 +1,29 @@
+
+Buscamos un Programador de Android Nativo Freelance que sepa crear aplicaciones de Background Service o Servicio espía para el desarrollo de nuestra aplicación, con gran posibilidad de poder incorporarse al equipo en un futuro.
+StopApp ayuda a los usuarios de smartphone a entender cómo utilizan sus dispositivos, enseñándoles cómo aprovechar su tiempo digital y aumentando su productividad.
+Nuestro equipo está compuesto por cuatro perfiles diferentes: Un business developer, un perfil de comunicación y RRPP, un desarrollador Android y un creativo centrado en la ideación y diseño del producto.
+Hasta la fecha, disponemos de la arquitectura, diseño, estrategia y diagramas de flujo.
+Qué buscamos?
+- Un Programador experimentado en programar en Android Nativo (Java).
+- Conocimiento y experiencia en crear apicaciones en iOS (para el futuro).
+- Que sepa hacer aplicaciones en Background Service o servicio espía.
+- Querer formar parte de un muy equipo muy potente y de un proyecto con enormes posibilidades.
+- Que tenga tacto y cuidado a la hora de calcar el diseño en la aplicación, y se parezca la máximo posible al diseño que nosotros le entregaremos.
+- Entender diagramas de flujo (userflow) y sepa manejarse por sí sólo con archivos PSD (Photoshop) para sacar colores, iconos o tipografías.
+- Experiencia creando cuentas Premium en Android.
+- Conocimientos de control de versiones.
+- Conocimientos de herramientas de marketing orientado a Android.
+- Persona responsable y organizada, orientada a resultados con actitud proactiva y con facilidad de adaptarse a nuestra forma de trabajo.
+- Experiencia en la implementación de iconos o capas animadas en Android.
+- Buena comunicación, tanto a nivel oral como escrita.
+- Si no es posible que trabaje junto con nosotros, imprescindible disponibilidad amplia durante la semana de comunicarse con nosotros vía Hangout.
+- Saber realizar una documentación correcta del desarrollo.
+- Energía, flexibilidad, proactividad...
+- Ambición por resolver problemas reales y enfrentarse a situaciones nuevas.
+- Que tenga muchas ganas de aprender.
+Qué ofremos?
+- Buena cantidad de dinero para el desarrollo completo de la aplicación en Android.
+- Ambiente de trabajo ambicioso, flexible y con ganas de hacer grandes cosas.
+- Posibilidad de trabajar en una oficina junto con nuestro equipo (Por confirmar, sino trabajaría al igual que nosotros desde casa).
+- Cursos de aprendizaje de nuevas tecnologías.
+

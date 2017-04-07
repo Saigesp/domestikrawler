@@ -1,0 +1,19 @@
+
+eDiversa, empresa dedicada al intercambio electrónico de documentos busca full stack developer para desarrollar proyectos digitales.
+La/el candidat@ deberá dominar las herramientas requeridas y tener experiencia contrastable como programador. La persona seleccionada deberá ser organizada y deberá saber trabajar en equipo y sobretodo, tener mucha capacidad para aprender.
+Requerido:
+•	Programación en PHP5 + Javascript + jQuery + Ajax
+•	Experiencia en HTML5/CSS3
+•	Experiencia en MySQL
+Valorado:
+•	Experiencia en control de versiones Git
+•	Experiencia de herramientas testing web como por ejemplo Selenium
+•	Programación en Python
+•	Programación en Perl
+Ofrecemos:
+•	Trabajo estable y buen ambiente laboral
+•	Incorporación inmediata
+•	22.000€/28.000€
+•	Jornada completa
+•	Sede en Barcelona centro
+

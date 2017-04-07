@@ -1,0 +1,19 @@
+
+Buscamos a un Desarrollador Backend – LARAVEL con al menos 2 años de experiencia para el desarrollo de proyectos avanzados  a medida. Buscamos a una persona con capacidad de trabajo en equipo, asumir nuevos retos, con iniciativa y responsabilidad en el trabajo.  ¿Eres tú? 
+Funciones:
+1.	Gestión del proyecto mediante la utilización de metodologías ágiles, SCRUM
+2.	Análisis de los requerimientos de las aplicaciones.
+3.	Diseño de bases de datos
+4.	Desarrollo de aplicaciones backend
+5.	Manejo de repositorios
+6.	Resolución de incidencias del cliente.
+Requisitos mínimos:
+- Experiencia mínima de 2 años como Programador PHP en proyectos basados en web con Framework CakePHP ,Laravel...
+- Diseño y gestión de Base de Datos (MySQL, PostgreSQL,etc.)
+- Conocimiento de HTML, CSS y JavaScript.
+Se valorará:
+- Titulación en Ingeniería Superior o Técnica en Informática.
+- Inglés Técnico.
+- Experiencia en proyectos web de envergadura 
+- Persona acostumbrada a trabajar en equipo y comprometida con las entregas, organizada y metódica, con capacidad analítica ofreciendo diferentes soluciones.
+Ofrecemos la posibilidad de trabajar por proyectos, nos ajustamos a tus necesidades y a tu tiempo, disfrutamos de horario flexible.

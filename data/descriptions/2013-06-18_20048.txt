@@ -1,0 +1,6 @@
+
+- Ingeniero técnico o superior de software o telecomunicaciones, con más de 2 años de experiencia en el desarrollo de aplicaciones web en entorno LAMP (PHP+MySQL) 
+- Conocimientos avanzados de Javascript, jQuery y HTML5/CSS 
+- Conocimientos de bases de datos MySQL - diseño, explotación, optimización 
+- Se valorarán conocimientos de Maven y PHPUnit 
+- Se valorarán conocimientos de Java

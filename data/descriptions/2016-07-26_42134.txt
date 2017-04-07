@@ -1,0 +1,37 @@
+
+Buscamos una persona con experiencia en el desarrollo web, tanto frontend como backend, con motivación para afrontar retos de distinta índole, seria, proactiva, resolutiva y con pasión por su trabajo, para incorporación inmediata.
+Responsabilidades:
+-	Desarrollo de aplicaciones web en lenguaje PHP.
+-	Maquetación de sitios web en formato responsive.
+-	Desarrollo de sitios web con base Wordpress altamente personalizados.
+-	Labores de mantenimiento de distintos sitios web.
+-	Colaboración en la definición y análisis de funcionalidades.
+-	Testeo y garantía de calidad y prestaciones del código entregado.
+-	Identificación y resolución de posibles fallos en el código.
+Requisitos:
+Experiencia mínima de 3 años demostrable en la utilización a modo profesional de:
+-	PHP, con orientación a objetos y MVC.
+-	HTML5.
+-	CSS3.
+-	Preprocesadores (LESS / SASS).
+-	Maquetación responsive, Bootstrap o similar.
+-	JavaScript / jQuery.
+-	MySQL.
+-	Wordpress, a nivel interno: creación / modificación de plantillas tanto a nivel estético como funcional.
+-	Control de versiones (SVN/GIT).
+-	Entorno LAMP.
+Se valorará adicionalmente, no siendo obligatorio:
+-	Conocimientos de SEO.
+-	Conocimientos de SEM.
+-	Experiencia en desarrollo de aplicaciones móviles híbridas basadas en HTML5 (Phonegap, Cordova, Ionic, jQuery Mobile).
+-	Experiencia en desarrollo de aplicaciones móviles nativas.
+-	Capacidad de diseño y manejo de herramientas como Photoshop, Illustrator, In Design.
+-	Posibilidad de incorporación inmediata.
+-	Conocimientos de accesibilidad web.
+Ofrecemos:
+-	Ambiente de trabajo agradable.
+-	Posibilidad de trabajar en gran variedad de tipo de proyectos y aprendizaje de nuevas tecnologías.
+-	Flexibilidad horaria.
+-	Contrato de prueba + indefinido.
+-	Posibilidad de Ticket Restaurant / otros beneficios.
+-	Incentivos por rendimiento.

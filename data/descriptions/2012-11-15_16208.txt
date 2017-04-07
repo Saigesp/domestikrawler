@@ -1,0 +1,12 @@
+
+Precisamos incorporar dos programadores para desarrollo de video juegos utilizando tecnologia flash con experiencia en action script 3 y ademas con conocimientos otros lenguajes de programacion como java o c#. 
+Tecnologias: 
+Adobe InDesign, Adobe Flash, Adobe AIR, AS3, HTML5, CSS3, JavaScript, tablets, smartphones, Smart TVs, desktop y web. 
+Tecnologias Generales: 
+Web Services 
+Ajax, Javascript/JQuery 
+Hojas de estilo (CSS) 
+Se valorara: 
+- Nivel medio de ingles. 
+- Ser autodidacta ya que utilizamos tecnologias que saldran en breve al mercado y valoramos capacidad de aprendizaje y adaptacion rapida
+- Tambien si has hecho algun proyecto personal que puedas mostrarnos se tendra en cuenta ya que buscamos gente a la que le APASIONE la tecnologia. 

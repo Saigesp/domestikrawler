@@ -1,0 +1,28 @@
+
+BQ es una de las principales tecnológicas europeas. Su objetivo es ayudar a las personas a entender la tecnología, animarles a utilizarla e inspirarles a crearla. Para ello, apuesta por la educación en tecnología, la filosofía DIY y el Open Source. BQ aplica esta filosofía a sus productos (smartphones, impresoras 3D o robótica, entre otros) y a sus soluciones software, trabajando para hacer de la tecnología una herramienta que mejore el mundo y la vida de sus usuarios.
+Aprende más sobre bq en: http://www.bq.com/es/
+En BQ nos basamos en una filosofía de mejora continua y calidad total en todos nuestros departamentos. Ello implica una constante investigación para aportar nuevas ideas y generar un mayor valor en nuestros servicios y procesos.
+Contamos con nuestro elemento más preciado: nuestro personal, que con unas extraordinarias competencias trabaja con ilusión, haciendo uso de bases de datos, software libre, herramientas de integración continua, diferentes lenguajes de programación y se maneja con soltura en la nube y en su relación con proveedores de servicios.
+Trabajamos cada día por seguir creciendo, aportando nuevos proyectos y formas de trabajar novedosas, ya que intentamos estar siempre en contacto con la realidad del mercado y lo que este nos demanda.
+En BQ buscamos completar nuestro equipo de Las Rozas de Madrid con un Desarrollador FrontEnd, que por supuesto debe ser alguien que comparta nuestra misma ilusión y ganas de aprender y de aportar.
+Esta persona tendrá la oportunidad de definir arquitecturas MVC JavaScript, de participar activamente en el desarrollo de las aplicaciones web y liderar y coordinar técnicamente el equipo de desarrollo cuando sea requerido. Además, nos apoyará a mejorar la calidad técnica de los proyectos y aportar experiencia al equipo, trabajando también con metodologías de desarrollo como eXtreme programming.
+REQUISITOS DEL PUESTO: 
+a.	Estudios mínimos
+Ciclo Formativo de Grado Superior
+b.	Conocimientos 
+•	Experiencia sólida y demostrable en proyectos utilizando Frameworks Javascript MVC (Backbone.js/Angular.js) 
+•	Capacidad para diseñar arquitecturas Front-end 
+•	Conocimientos en HTML5/CSS3/SASS 
+•	Experiencia en metodologías de desarrollo eXtreme Programming (integración continua, Test-Driven Development (TDD), refactorización constante, pair programming, code review, etc.) 
+•	Experiencia en desarrollo de aplicaciones web (Single Page Application) multidispositivo 
+•	Uso de algunas de las siguientes herramientas: Yeoman, Grunt, Npm, Bower, RequireJS, NodeJS
+c.	Idiomas 
+Inglés técnico nivel medio alto
+d.	Requisitos deseados 
+•	Unit testing: Mocha.js, Sinon.js, Chai.js 
+•	Conocimientos en Polymer.
+•	Aplicación de metologías ágiles: Scrum, Kanban.
+e.	Perfil personal del candidato 
+Ser capaz de trabajar con una mínima supervisión y con capacidad para tomar la iniciativa.
+f.	Experiencia en el puesto y experiencia en general 
+Experiencia de al menos 2 años en tecnologías de JavaScript

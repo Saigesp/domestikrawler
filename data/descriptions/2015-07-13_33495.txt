@@ -1,0 +1,24 @@
+
+En Grup empresarial Ribé Salat estamos buscando desarrolladores en entornos Microsoft (.NET) para trabajar en importantes proyectos internacionales con metodologías de trabajo Agile (SCRUM).
+Buscamos incorporar en la División Banca/Seguro perfiles .Net Development para integrarse en uno de nuestros equipos.
+Ofrecemos:
+- Atractiva carrera profesional, en función de la experiencia y potencial de futuro, y diversidad de proyectos punteros tanto nacional como internacional.
+- Ofrecemos a todos nuestros consultores la oportunidad de ampliar su formación, tanto en habilidades personales como técnicas.
+- Tenemos un atractivo paquete de beneficios sociales para todos los nuevos consultores.
+- Flexibilidad horaria + jornada intensiva todos los viernes del año y en verano (agosto).
+Imprescindible conocimientos en:
+- Experiencia en C#, .NET, ASP.NET
+- Experiencia en Tecnologías .Net de Microsoft, VE2005,VE2008, V2010.
+- Experiencia con SQL Server.
+- Experiencia en desarrollo Web.
+Se valorará:
+- Persona proactiva, dinámica y con ganas de crecer.
+- Capacidad de aportar nuevas ideas y soluciones.
+- Estar siempre a la última a nivel tecnológico.
+- Otros lenguajes de programación JAVA, JQuery, Bootstrap, CSS3, HTML5. 
+- Conocimientos de metodologías Scrum y Kanban.
+- Conocimientos sector financiero/ seguros.
+Estudios: indiferente, valorable Diplomatura/ Licenciatura.
+Experiencia mínima de 2 años.
+Buscamos a una persona muy enfocado a negocio, con habilidades comunicativas y capacidad de trabajo en equipo.
+

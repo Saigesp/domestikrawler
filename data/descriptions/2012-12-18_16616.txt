@@ -1,0 +1,18 @@
+
+Job Description
+Are you a programming lover?
+Come and help us build a bigger and better Uolala! Uolala is an exciting new social network which allows members to create and attend events in order to meet people who share the same interests. 
+You’ll be part of a tiny team that will have a huge impact on the world.
+Would you like to join this venture?
+Responsibilities
+· General server administration: Configuration, installation, monitoring etc. This is the easy part!
+· Integration of the Amazon S3 and Mailchimp/Mandrill API with Uolala.
+· Getting involved in every part of our site: Design, development and deploying new features.
+· Design and build new tools to manage a rapidly growing number of users and to improve our back office workflows.
+· Find bottlenecks and make platform optimizations.
+· Use techniques to manage a very large Database. We love speed!
+· Develop an API of Uolala.
+Minimum requirements
+· Experience developing ASP.NET applications
+· Experience with javascript &amp; AJAX.
+· Experience with MySQL Database.

@@ -1,0 +1,24 @@
+
+Buscamos programador con experiencia en el desarrollo de videojuegos o aplicaciones gráficas basadas en entornos 3D. Idealmente con experiencia con Unity 3D
+Responsabilidades principales:
+El candidato se incorporará al equipo de I+D enfocado en el desarrollo de una app para iPad en el que se gestionarán diversas librerías y recursos 3D en tiempo real. Deberá realizar tareas como:
+-Planificación de recursos y tiempos de las tareas técnicas.
+-Arquitectura y optimización de rendimiento.
+-Desarrollo de la app.
+Experiencia mínima:
+- Mínimo 2-3 años de experiencia en proyectos de programación gráfica (videojuegos, UI, etc…)
+Requisitos imprescindibles:
+Acostumbrado a ser autodidacta. Proactivo cuando se trabaja en una tarea para la que se poseen conocimientos básicos. Hábil a la hora de entender código ajeno.
+- Conocimientos básicos sólidos de OO.
+- Experiencia demostrable en desarrollo de videojuegos o aplicaciones gráficas basadas en entornos 3D en tiempo real.
+- Conocimientos de C#
+Muy valorable:
+- Al menos 1 título comercial publicado
+- Conocimientos avanzados de C#
+- Experiencia con Unity 3D
+- Experiencia en desarrollo para iPad
+Ofrecemos:
+-Incorporación inmediata
+-Contrato por obra y servicio.
+-Buen ambiente de trabajo.
+-La remuneración dependerá en función de la experiencia y el perfil del candidato.

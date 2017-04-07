@@ -1,0 +1,25 @@
+
+(Redacción en Español debajo)
+Made of Genes is a start-up founded in 2015 with the objective to rethink healthcare and wellness services through the possibilities of genomic analysis. We are winners of the prestigious Telefónica - Wayra Global Call 2015, and we are part of the IBM Global Entrepreneur program.
+If you want to join a fast-growing, trend-setting company, this is your chance.
+We are looking for a web designer/developer, with experience in coding with Angular JS, to join our front-end team in the implementation of the web tool of Made of Genes.
+Minimum Requirements
+Experience in web programming using HTML 5, CSS 3 and Javascript
+Experience with AngularJS and JQuery frameworks
+Experience with Git/Bitbucket
+Fluency in Spanish and/or English
+Other Experience
+Knowledge of Agile development (Jira) will be also valued
+Skills for UI/UX and Interface Design
+--------------
+Made of Genes es una start-up fundada en 2015 con el objetivo de replantear los servicios de salud y bienestar a través de las posibilidades que abre el análisis genómico. Somos parte de Telefónica Open Future - Wayra así como del programa Global Enterpreneur de IBM.
+Si quieres unirte a una empresa de rápido crecimiento que marca tendencia en el sector, esta es tu oportunidad.
+Buscamos un diseñador/programador web con experiencia en AngularJS, para unirse a nuestro equipo front-end en la implementación de la herramienta web de Made of Genes.
+Requisitos mínimos
+Experiencia en programación web utilizando HTML 5, CSS 3 y Javascript
+Experiencia con AngularJS y marcos JQuery
+Experiencia con Git / Bitbucket
+Fluidez en Español y / o Inglés
+Otra Experiencia
+Práctica previa en Agile Development (Jira) será valorados
+Talento para el diseño de UI/UX serán valorados

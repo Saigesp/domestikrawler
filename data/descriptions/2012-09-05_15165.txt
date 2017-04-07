@@ -1,0 +1,14 @@
+
+Compañía con más de 20 años de dedicación exclusiva al sector del Transporte y la Logística, desarrollando e implementando soluciones de Software para la gestión integral de sus operaciones (ERP/TMS/WMS vertical). Precisa incorporar un/a TÉCNICO/A DE SISTEMAS
+REQUISITOS	
+- Experiencia en Administración de Windows Server, Avtive Directory (usuarios, impresoras, permisos…).
+- Mínimo2 años de experiencia profesional como técnico de sistemas
+- Experiencia en SQL Server
+- Virtualización (VMWARE)
+- Office
+- Carnet de conducir propio para desplazamientos puntuales, no habituales, a clientes (en cuyo caso, evidentemente se pagará el kilometraje correspondiente)
+VALORABLES
+- Titulación técnica de Microsoft
+- Inglés
+- Programación de Routersy redes
+- Otros sistemas operativos (p.ej. Linux)

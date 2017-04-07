@@ -1,0 +1,8 @@
+
+Buscamos a Python/Django developer para unirse a nuestro equipo. El candidato trabajaría en la finalización de una red social para profesionales (optimización, testing, creación de nuevos módulos, implementación de sistemas de pago, etc.).  
+Requerimientos:
+- Python / Django
+- Experiencia con la programación y el desarrollo profesional
+- Conocimiento de HTML, XML, CSS, JavaScript (Bootrsrap, Sass, Backbone).
+- Cierta experiencia en administración de sistemas Linux, servidores web y de base de datos.
+- Ganas de aprender, mejorar...

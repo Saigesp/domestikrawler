@@ -1,0 +1,55 @@
+
+SE OFRECE:
+-	Formar parte de una empresa con grandes posibilidades de desarrollo y presencia internacional.
+-	Posibilidad de asumir grandes responsabilidades y crecer profesionalmente.
+-	 Posibilidad de ser socio de ambas compañías.
+FUNCIONES:
+-	Responsable de programación. Programador Senior.
+-	Ejecutar y llevar a buen puerto el plan actual de I+D tecnológico. Con varios proyectos de reciente lanzamiento.  Asegurando su correcta ejecución en calidad, plazo y coste.
+-	Bajo la dirección del CEO, desarrollar un plan de I+D tecnológico a corto, medio y largo plazo.
+-	Ejecutar y llevar a buen puerto dichos planes.
+-	Asesorar en las áreas tecnológicas al CEO pensando en nuevos e innovadores productos tecnológicos para DADA Company.
+-	Bajo la dirección del CEO decidir la estratégia de producción tecnológica, tanto en plataformas de desarrollo como en procesos de producción.
+-	Liderar y desarrollar plataformas para la automatización y optimización del desarrollo de producto de DADA Company.
+-	Liderar y desarrollar plataformas tecnológicas para la distribución y monetización del producto de DADA Company.
+-	Gestión integral del producto final de DADA Company:
+o	Asegurar la calidad del ciclo de vida de dicho producto, desde el proceso de creacción del mismo, pasando por los trámites técnicos del lanzamiento comercial, servicio técnico a usuarios finales, siguiendo con el modelo de mejora continua asegurando la continuidad y adaptación del producto al mercado en continua evolución.
+REQUISITOS:
+Experiencia y saber hacer:
+-	Experiencia en programación de software gráfico interactivo en plataformas iOS. Android. (Mínimo dos trabajos publicados).
+o	Experiencia a lo largo de todo el proceso de creación de una aplicación iOS. 
+o	Experiencia en ios Dev Center, Itunes connect, Xcode, firma de aplicaciones, certificados, provisión de distribución, etc..
+o	Experiencia con frameworks gráficos para iOS: OpenGL, Cocos2d, etc…
+o	Experiencia con las propias librerías de programación de Apple para iOS.
+o	Experiencia en Objective C y preferible conocimientos de C++.
+-	Experiencia en programación de software gráfico interactivo en plataformas Android. (Mínimo dos trabajos publicados).
+o	Experiencia a lo largo de todo el proceso de creación de una aplicación Android. 
+o	Experiencia con Google dev, firma de packajes.
+o	Experiencia en publicación en Google Play, Amazon Appstore.
+o	Experiencia con Eclipse, con el sdk de Android.
+o	Experiencia en librerías gráficas, OpenGL, cocos2d, etc…
+o	Experiencia con el SdK nativo de Android.
+o	Experiencia en Java y en el API de Android.
+-	Experiencia en incorporación e uso de diferentes librerías de marketing y estadística para aplicaciones móviles.  Ej: Flurry, Admob, etc..
+-	Experiencia en incorporación de diferentes librerías de comunicación con el usuario. Envío de mensajes Push: Xtify, etc…
+-	Experiencia en programación de plataformas Web para la distribución y monetización de aplicaciones móviles.
+o	Generar servicios Push web.
+-	Profundo conocimiento de la tecnología y mercado de los dispositivos móviles de nueva generación.
+-	Interés vocacional en tecnología y mercado de los dispositivos móviles de nueva generación.
+-	Experiencia en gestión de la Ingeniería del Software:
+o	Aplicada a  proceso de desarrollo: Experiencia a lo largo de todas las fases del ciclo de desarrollo de un proyecto software.
+o	Aplicada a proceso de estratégia empresarial: Experiencia en planificación estratégica del área tecnológica de una empresa.
+-	Experiencia en procesos técnicos/tecnológicos en proyectos de I+D.
+o	Experiencia en la realización de proyectos de I+D de ámbito Nacional (Avanza, CDTI) y en marcos europeos (VII programa Marco, ITEA, MEDIA…)
+o	Experiencia en justificaciónes técnicas de dichos proyectos.
+-	Nivel C1 de ingles
+Habilidades y saber estar:
+-	Una actitud emprendedora y la comprensión de la cultura de una start up.
+-	Con predisposición para el sector.
+-	Con ambición y compromiso.
+-	Con visión estratégica y visión de futuro.
+-	Con habilidades interpersonales, capacidad de crear relación de confianza.
+-	Con alto nivel de integridad personal y profesional.
+-	Con fuerte capacidad de liderazgo y habilidades de comunicación.
+-	Con gran capacidad de aprendizaje rápido y autosuficiente.
+

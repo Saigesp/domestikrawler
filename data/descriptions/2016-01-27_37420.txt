@@ -1,0 +1,12 @@
+
+En Biduzz, startup orientada a la comercialización de productos turísticos y de ocio, estamos buscando programador PHP con experiencia mínima de 5 años para incorporación inmediata. Salario entre 18.000 y 21.000 euros.
+Se requiere: 
+- Ingeniería técnica superior o similar
+- PHP/MySQL
+- HTML/CSS
+- Javascript, jQuery
+- Webservices (XML, JSON)
+- Control de versiones (Subversion)
+- Conocimientos de sistemas GNU/Linux
+- Idioma: Inglés nivel medio
+- Persona proactiva y responsable. Con iniciativa y capaz de proponer alternativas.

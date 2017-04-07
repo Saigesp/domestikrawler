@@ -1,0 +1,44 @@
+
+En Movetia somos expertos en conceptualizar, diseñar y desarrollar tecnológicamente productos y servicios que conectan datos, empresas y personas en cualquier tipo de soporte digital. Impulsamos la transformación digital, la ubicuidad de los usuarios y la necesidad de gestionar datos y procesos en cualquier soporte y situación.
+
+Trabajamos con una metodología propia que ya está ofreciendo fiabilidad, innovación y resultados a algunas de las empresas más relevantes de España, especialmente entidades financieras. Fundados en 2011, disponemos de más de 50 profesionales en nuestras oficinas de Barcelona y Madrid.
+Estamos buscando un Maquetador Front End Senior que le motive combinar el arte del diseño con el arte de la programación. Tus responsabilidades serán traducir el diseño UX/UI en código, cubriendo el gap que hay entre los dos mundos trabajando codo con codo con el equipo de diseñadores.
+Buscamos:
+- Personas con pasión por la tecnología (y por lo que la tecnología puede aportar al mundo).
+- Capaces de trabajar en equipo junto a consultores, diseñadores e ingenieros.
+- Interesados en las nuevas tendencias y la innovación digital.
+- Perfiles capaces de conectar la creatividad de ideas con la pasión de hacerlas realidad.
+- Vocación de transformar y servir a grandes organizaciones.
+- Personas con ganas de colaborar y con grandes habilidades comunicativas.
+Formación y experiencia: 
+- Mínimo 2 años de experiencia en puesto similar.
+- Una actitud proactiva y positiva.
+- Excelente nivel de conocimiento de web Markup, incluyendo HTML5, CSS3, frameworks cómo Bootstrap y implementación con CMS.
+- Alto conocimiento en Javascript
+- Conocimientos en frameworks de desarrollo Javascript (AngularJS, Jquery, React, Backbone,etc.)
+- Se valorará muy positivamente la utilización de herramientas cómo Grunt, Bower, etc.
+- Conocimiento avanzado en compatibilidad cross-browser: sus problemáticas y las posibles alternativas para solventarlas.
+- Conocimiento avanzado en herramientas de versionado, cómo Git / Mercurial / SVN.
+- SEO Friendly: conocimientos básicos.
+- Manejo asíncrono de solicitudes, actualizaciones de página parcial y AJAX.
+- Conocimientos en CMS: WordPress, Drupal, Django, Symfony.
+- Conocimientos en documentación y metodologías de trabajo.
+Principales responsabilidades:
+- Asegurar la correcta integración de los componentes web HTML con el gestor de contenidos.
+- Desarrollar nuevos componentes y páginas.
+- Construir código reusable y librerías para un futuro uso.
+- Documentar el desarrollo.
+- Asegurar las posibilidades técnicas de los diseños UX/UI.
+- Optimizar la aplicación para obtener máxima velocidad y escalabilidad.
+- Asegurar que la solución técnica aplicada, cumple los requerimientos de calidad y de usuario.
+- Colaborar con otros miembros del equipo cómo backend y IT. Trabajo en contacto continuo con stakeholders cómo Product Managers y Product Owners.
+¿Qué ofrecemos?
+- Incorporación a una empresa dinámica en crecimiento.
+- Participación en proyectos innovadores con tecnologías de última generación.
+- Formar parte de un equipo joven, multifuncional y autónomo.
+- Tecnología de vanguardia para ayudarte a hacer el trabajo.
+- Cursos de formación especializados.
+- Actividades de Team building.
+- Julio y agosto intensivo.
+- Capacidad de crecimiento profesional dentro de la compañía.
+- Salario según experiencia, conocimientos y valía.

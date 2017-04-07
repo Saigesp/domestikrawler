@@ -1,0 +1,17 @@
+
+El candidato debe contar con conocimiento especializado en: 
+-	Unity 3D
+-	Open GL
+-	Direct X
+-	Desarrollo de aplicaciones para dispositivos móviles (Ios-Android) 
+Adicionalmente se valorará positivamente tener conocimientos básicos de: 
+-	Quest 3D
+-	Bases de Datos (Mysql, Access). 
+Otras competencias relacionadas con sistemas de visualización en tiempo real serán valoradas
+Nuestra Compañía ofrece:
+- Incorporación a una organización líder en el sector de I+D+i para la industria de los “media” 
+- Contrato por Obra o Servicio en primer momento
+- Remuneración competitiva, en función de la valía del candidato.
+- Buen ambiente laboral. Equipo joven, dinámico, guiado por profesionales con experiencia
+El candidato que se ajuste al perfil será el responsable del desarrollo de herramientas y aplicaciones de visualización en tiempo real para diferentes plataformas, con acceso a bases de datos. Se integrará en un gran equipo humano y de profesionales en una organización dinámica y retadora.
+

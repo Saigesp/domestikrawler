@@ -1,0 +1,18 @@
+
+Precisamos incorporar para nuestra oficina de San Sebastián, un  Programador/a para participar en el desarrollo de diversos proyectos webs, microsites y CMS’s.
+Requisitos imprescindibles:
+Experiencia demostrada en las siguientes tecnologías:
+- Programación en lenguaje ASP .NET y C#
+- Desarrollo aplicaciones PHP
+- SQL Server 
+-  JavaScript, CSS, HTML, XML.
+- JQuery
+Formación técnica:
+- Experiencia en diferentes ámbitos de IT, interlocución con cliente, ciclo de Desarrollo del Software,    generación de Informes, aspectos de seguridad.
+- Acostumbrado a trabajar en equipo
+- Alta capacidad resolutiva e inquietud tecnológica.
+- Implicación en los proyectos y en su calidad.
+Conocimientos valorables:
+- Conocimientos en entornos como Zend, Drupal, Wordpress y Magento.
+- Otros lenguajes de programación como Java, Objective C o lenguajes de desarrollo de apps mobile.
+- Nivel alto de inglés

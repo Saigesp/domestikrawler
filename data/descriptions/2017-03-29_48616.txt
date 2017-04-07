@@ -1,0 +1,31 @@
+
+Altamira TI, consultora tecnológica especializada en las Tecnologías de la Información y los Recursos Humanos, necesita incorporar para uno de sus proyectos un Supervidor, Especialista en CSIRT.
+El cual como analista de seguridad, supervisor y especialista en amenazas será el encargado de mantener y mejorar el nivel de seguridad de la infraestructura, centrándose en la inteligencia operativa y estratégica de amenazas para proporcionar soluciones preventivas y de control. Además, el candidato será parte del CSIRT y tendrá que reaccionar, gestionar y escalar los incidentes de seguridad.
+SE OFRECE 
+Estabilidad laboral, proyección profesional y Plan de Carrera personalizado. 
+Incorporación a un equipo altamente cualificado y dentro de un entorno tecnológico avanzado en el que están integradas las últimas soluciones del mercado.
+FUNCIONES: 
+• Capacidad de utilizar el conocimiento para trabajar con otros equipos para crear nuevas herramientas de monitoreo y detección.
+• Evaluación e implementación de nuevas soluciones de seguridad para abordar amenazas en constante evolución.
+• Gestión de infraestructuras SIEM de extremo a extremo (conector, registrador, ESM). Coordinación con equipos globales en relación con la arquitectura y el contenido de SIEM. Nuevas fuentes de datos a bordo en la infraestructura SIEM.
+• Realizar exploraciones de vulnerabilidad. Interpretar los resultados y dar prioridad a los resultados con el conocimiento del paisaje de amenazas cibernéticas.
+• El trabajo abarcará elementos operativos tales como exploración externa, gestión de pruebas de penetración y participación en turnos de llamada.
+CONOCIMIENTOS Y EXPERIENCIA NECESARIA EN : 
+•	CSIRT (experiencia al menos de 3 años)
+•	Experiencia de inteligencia de amenazas probada y aplicaciones prácticas 
+•	Bien versado en las mejores prácticas de seguridad
+•	Experiencia SIEM
+•	Amplia gama de herramientas de seguridad como Qualys, McAfee suite, sandboxing solutions
+•	Experiencia de varios años en un rol de gestión de la Seguridad de la Información en un entorno grande y complejo
+DESEABLES:
+•	SQL, Microsoft SSRS (SQL Server Reporting Services)
+•	CISSP, CISM o calificación de seguridad relevante
+•	Symantec DLP
+•	ArcSight experience
+ESTUDIOS: 
+Se requiere Formación Superior en informática o Ciclos formativos técnicos.
+Es necesaria una sólida formación técnica en seguridad informática. La posición requiere análisis de riesgos antes de tomar decisiones que puedan afectar la seguridad del Cliente
+EXPERIENCIA: 
+El candidato deberá contar  con 3 años de experiencia en inteligencia de amenazas y experiencia CSIRT, incluyendo el manejo y desarrollo de contenido para herramientas de monitoreo de seguridad cibernética incluyendo detección / prevención de intrusiones, listas blancas y soluciones de sandboxing. 
+CONDICIONES 
+Se tratarán personalmente.

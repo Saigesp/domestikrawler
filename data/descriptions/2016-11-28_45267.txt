@@ -1,0 +1,19 @@
+
+En techpump, buscamos incorporar a nuestro Centro Tecnológico ubicado en Gijón (Asturias), un Programador PHP.
+APTITUDES Y CONOCIMIENTOS
+Experiencia de al menos 1 año en la programación en entornos LAMP/LEMP (Linux, Apache/Nginx, MySQL y PHP) y con conocimiento de frameworks MVC. Nosotros utilizamos Laravel y Symfony.
+    Experiencia en programación con Javascript utilizando la librería JQuery.
+    Conocimientos del mundo GNU/Linux, nosotros trabajamos con Ubuntu.
+    Gusto por los métodos ágiles de programación y patrones de diseño.
+    Capacidad para trabajar con sistemas de control de versiones. Nosotros utilizamos GIT. 
+También valoramos:
+    Experiencia en desarrollo de webs para móviles.
+    Conocimiento de varios lenguajes de programación.
+    Conocimientos de programación de aplicaciones Android/iOS.
+    Experiencia con webs/aplicaciones de alto tráfico. 
+PERFIL
+    Persona apasionada por su trabajo, con talento, resolutiva, organizada y dispuesta a trabajar en equipo.
+    Capacidad para la organización de cada parte de la programación de un proyecto y con facilidad para aprender y adaptarse a nuevos conceptos y tecnologías. 
+Te ofrecemos formar parte de un proyecto desafiante, innovador, y de crecimiento continuo, con un equipo de profesionales altamente capacitados, y un buen ambiente de trabajo. Todo ello en nuestras oficinas ubicadas en pleno centro de Gijón.
+Creemos en el desarrollo profesional a través del aprendizaje continuo. Podrás crecer todo lo que desees, con estabilidad y un salario competitivo.
+¿Te atreves?

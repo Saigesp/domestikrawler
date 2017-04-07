@@ -1,0 +1,17 @@
+
+Hola,
+En BeIdea estamos buscando desarrolladores freelance que nos quieran ayudar en algunos proyectos o en futuros. Actualmente tenemos bastante carga de trabajo y nos gustaría tener una red de desarrolladores con experiencia que nos puedan ayudar, de momento de forma temporal.
+Sí tienes conocimientos avanzados en:
+PHP (5.3) POO
+MySQL
+Apache / Nginx
+Sí sabes mucho... pero no sólo instalarlo, si no desarrollar extensiones, templates y lo que haga falta para sacarle todo el jugo a alguna de las siguientes herramientas:
+Frameworks PHP como: CodeIgniter, Symfony o Zend Framework
+CMS como: WordPress, Drupal o Joomla
+Carritos de compra: Magento o Prestashop
+Y como menos importante pero muy valorable sabes trabajar con alguna de estas otra herramientas:
+jQuery / jQuery UI / jQuery Mobile
+PhoneGap / AppAccelerator
+NodeJS (y todas sus extensiones)
+MongoDB (o cualquier otro sistema NoSQL)
+Se valorará residencia en área de Barcelona (pero no es esencial).

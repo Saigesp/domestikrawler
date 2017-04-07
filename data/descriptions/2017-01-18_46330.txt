@@ -1,0 +1,13 @@
+
+Buscamos desarrollador Javascript para incorporación a nuestro equipo de multimedia. 
+En Indissoluble diseñamos y producimos espacios con contenido. Damos forma a entornos que cuentan historias y transmiten el carácter único de nuestros clientes.
+Desarrollamos proyectos que van de la arquitectura al objeto. Diseño del espacio, desarrollo de contenidos, diseño y producción de interactivos y nuevas tecnologías.
+Requisitos:
+Experiencia demostrable en desarrollo de interactivos en entorno JS (node.js, tree.js, etc.) 
+Se valorará positivamente experiencia en:
+Experiencia en el desarrollo con Arduino, Phidgets y electronica base.
+Experiencia con Unity 3D (JS y/o C#)
+Experiencia en el desarrollo de instalaciones interactivas, realidad virtual y realidad aumentada
+Conocimientos de sistema de RFIDAnimación y modelado con software 3D (C4D o 3Ds Max)
+Animación con After Effects
+

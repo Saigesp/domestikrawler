@@ -1,0 +1,9 @@
+
+Buscamos un desarrollador con ampia experiencia en personalización y optimización de wordpress. 
+Debe tener conocimientos en:
+Crear post personalizados.
+Optimizar y unificar las llamadas a javascript.
+Optmizar las consultas a las bases de datos.
+Gestión adecuada de permisos.
+Integración con CDN's
+Buscamos un freelance, pero sin descartar la posibilidad de incorporarse a plantilla-

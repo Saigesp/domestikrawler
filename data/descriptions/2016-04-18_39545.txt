@@ -1,0 +1,9 @@
+
+INTERTEXT es una agencia de traducción e interpretación referente en España gracias a sus 25 años de experiencia.
+Desde la compañía necesitamos un desarrollador freelance para migrar una web existente a Wordpress manteniendo al máximo la apariencia actual e incluyendo toda la información, metadatos, formularios etc.
+-Requisitos:
+Experiencia previa y portfolio.
+Nivel muy alto en Wordpress, capacidad para empezar una plantilla desde 0 si fuese necesario.
+Nivel muy alto en maquetación responsive.
+-Ofrecemos:
+Posibles proyectos futuros.

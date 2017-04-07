@@ -1,0 +1,35 @@
+
+Empresa wuaki.tv
+Localidad Barcelona
+Wuaki.tv is a Spanish company that offers the best multimedia content with the best quality possible. We are your videoclub at home, the best movies and tv series at the best price, only 1 click away from you. We are independent, we do not belong to any corporation. Our only priority is to serve our customers. At Wuaki.tv we select the best movies and tv series for you, from national productions to Hollywood blockbusters. We have the classics and the new releases. We are in your computer (www.wuaki.tv), tv, dvd, blue ray, set-top box (if they are connected devices, i.e. they have internet connection, and our application is installed)
+Buscamos:
+Perfil con alta capacidad de análisis de negocio en base los datos de disponible de clientes, actividad y campañas de marketing y comerciales
+   * Capacidad de utilizar sql para hacer consultas a bbdd de clientes y transacciones
+   * Data mining y segmentación de clientes
+   * Análisis de life time de clientes, patrones de compra, etc
+   * Preparar repotings de negocio para varias áreas de negocio (Marketing &amp; Ventas, Producto, Cutomer Service,...)
+Conocimiento de online marketing, especificamente para:
+  * Gestionar y analizar campañas CPC, CPL (análisis de rentabilidad y priorización de campañas y proveedores)
+  * Utilizar la información de  Google Analytics para los análisis de campañas
+  * Recomendar la optimización de campañas de email marketing
+Conocimineto profesional del sector audiovisual y gustarle el cine
+Ofrecemos:
+Wuaki.tv, es un proyecto empresarial muy novedoso y que está en un fuerte proceso de crecimiento, líder en su sector en España
+Un ambiente de trabajo dinámico y con muchas ganas de trabajar y divertirse.
+Requerimos:
+- Dominio de consultas de BBDD: queries sobre SQL para extracción de datos
+- Datamining con herramientas simples (excel, acces) o con herramientas específicas para ello
+- Capacidad de definir y crear reportings (automatización)
+- Haber trabajado y saber aprovechar la herramienta Google Analytics
+- Dominio del inglés y el español
+Deseamos:
+- Haber trabajado con herramientas de Business Intelligence
+- Conocer el sector audiovisual
+- Alguien con ganas de trabajar y ayudarnos a mejorar el proyecto cada día
+Experiencia:
+5 a 8 años
+Idiomas:
+Inglés y español
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa

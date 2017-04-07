@@ -1,0 +1,17 @@
+
+¿Quieres una oportunidad para demostrar todo de lo que eres capaz? En CIPT+A estamos buscando a un/a crack de la programación para desarrollar y mantener los proyectos digitales para nuestro grupo de empresas.
+Imprescindible: 
+Desarrollo web con HTML5 con CSS3, PHP, MySQL y JS. 
+Maquetación responsive con Media Queries, Pure o Bootstrap. 
+Conocimientos en WordPress y Prestashop o Magento: instalación y configuración módulos, creación y modificación de templates, desarrollo y programación de plugins.
+Herramientas de gestión de repositorio de código como GIT o SVN.
+Android: desarrollo de aplicaciones nativas con Android SDK, Android Studio y las diferentes versiones de su API. 
+iOS: experiencia en proyectos y dominio de Swift con capacidad en el uso de Xcode. 
+Conocimiento de control de versiones, publicación en Play Store y App Store.
+Herramientas de diseño y retoque fotográfico (al menos Photoshop e Illustrator) 
+Muuuuuuuy interesados en: 
+Pre-procesadores css (LESS, SASS o STYLUS). 
+Conexión con servicios web REST/JSON 
+Frameworks mvc javascript (BACKBONE o ANGULAR JS).
+Gestión de Social Media 
+Por si importa: trabajo estable dentro de un ambiente creativo e innovador, incorporación inmediata y contrato según valía en unas oficinas chulísimas. 

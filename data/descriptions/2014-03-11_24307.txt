@@ -1,0 +1,8 @@
+
+¡Hola! Somos Fcktoría y buscamos 2 Programadores senior de php que se unan a nuestro equipo para trabajar codo con codo con nosotros en nuestra oficina de Madrid. Ya tenemos otros dos así que los elegidos tendrán que aprender a convivir con ellos, con el resto del equipo y con nuestra sana costumbre de mandar al sillón de pensar a todo aquel que veamos que lo necesita. No os preocupéis, es cómodo.
+Requisitos:
+- Conocimientos avanzados de Javascript, jquery, jsp y java en general. 
+- Experiencia en maquetación css y html5. 
+- Experiencia en integración de plataformas de pago. 
+- Experiencia en trabajos con bases de datos MySQL, SQL Server y Oracle.
+Se valorará haber trabajado en proyectos de gestión de reservas y administraciones back office.

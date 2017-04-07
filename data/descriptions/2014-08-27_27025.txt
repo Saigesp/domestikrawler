@@ -1,0 +1,24 @@
+
+Required
+- Minimum studies: Bachelors in Computer science.
+- 6+ years of coding clean, object-oriented, namespaced PHP frameworks.
+- Demonstrated experience in the gaming sector.
+- Solid MySQL.
+- Software design and architecture patterns.
+- Cloud/auto-scaling environment experience.
+- Experience with RESTful APIs.
+- Knowledge of GitHub.
+- Experience integrating code with different Web APIs.
+- Experience in test driven development (TDD).
+- Familiar with agile methodologies.
+- Experience in JavaScript (jQuery or similar).
+A plus
+- Medium/High level of English.
+- Experience modeling and building complex and large data management systems and applications based on relational and/or NoSQL databases.
+- Management experience in a software engineering organization.
+- Social games published.
+- Strong communication and interpersonal skills.
+- Strong technical leadership skills.
+- Scrum Master.
+- Knowledge using Javascript Frameworks (Angular, BackBone, etc..).
+- NLP Knowledge (Natural language processing).

@@ -1,0 +1,16 @@
+
+Digiworks precisa incorporar desarrollador front end para prestar servicio en proyecto de duración determinada
+Requerido:
+- Experiencia en desarrollo front end mediante REST
+- Experiencia en desarrollo front end mediante AngularJS
+- Zona de Alfaz del Pi y alrededores (provincia de Alicante al menos)
+- Trabajar in situ en nuestras oficinas de Alfaz del Pi
+Deseable:
+- Angular 2.0
+- Conocimientos en desarrollo Angular con JavaScript supersets (TypeScript, AtScript, ...)
+- Experiencia en JavaScript Design Patterns
+- Experiencia en desarrollo mediante Angular Design Patterns
+- Experiencia en Unit Testing (Angular Dependency Injection, Karma, Jasmine, ...)
+Observaciones:
+- Proyecto de duración determinada
+- Importante disponibilidad para trabajar in situ en conjunto con el equipo de Digiworks en nuestras oficinas de Alfaz del Pi con posibilidad de trabajar de forma remota eventualmente.

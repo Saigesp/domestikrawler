@@ -1,0 +1,7 @@
+
+Importante grupo empresarial,  solicitan 3 Programadores para trabajar en sus oficinas de Madrid. Se exige que los candidatos cumplan los siguientes requisitos:
+- Tienen que tener una experiencia mínima de 2 años en programación front en Javascript, AngularJS y JQuery. 
+- También se necesita una experiencia en tecnologías J2EE y MVC dde mínimo 3 años.
+Valorable: 
+Experiencia en maquetación HTML5 y CSS3.
+Se ofrece contrato Indefinido con una jornada a tiempo completo, en las oficinas que el cliente tiene en Madrid.

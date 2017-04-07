@@ -1,0 +1,10 @@
+
+Buscamos persona para colaborar con el equipo de IT de la agencia.
+Buscamos apoyo en proyectos web con conocimiento de las siguientes tecnologías:
+Desarrollador backend/frontend con conocimientos de:
+Python / Django Framework
+HTML5 / CSS3
+Diseño responsive con Twitter Boostrap o similares
+Javascript y frameworks MVC como Angular JS, Backbone, etc.
+Y apoyo en desarrollo de aplicaciones móbiles
+Desarrollo de aplicaciones Android y iOS con frameworks tipos AppGyver Steroids, PhoneGap o similares.

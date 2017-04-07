@@ -1,0 +1,28 @@
+
+Startup de Internet ubicada en el 22@ de Barcelona (Poblenou, Zona Glòries) busca un Developer PHP con buenos conocimientos de backend y experiencia en PostrgreSQL.
+Estará integrado/a dentro del departamento de R&D, dependiendo directamente del CTO (Director de Tecnología). 
+Perfil del Candidato: 
+- Experiencia en PHP 7.x
+- Experiencia en Frameworks de PHP. Preferiblemente CodeIgniter y Slim.
+- Conocimientos de Unix shell, SQL, JSON, REST, git
+- Programación orientada a objetos.
+- Metodologías àgiles. Usamos Jira.
+- Pasión por tu trabajo y por aprender constantemente las novedades de tu profesión.
+- Capacidad de organización, trabajo en equipo y comunicación en ambientes dinámicos.
+- Mínimo 3 años de experiencia profesional
+También se valorará:
+- Conocimientos de HTML5 y CSS en proyectos responsive. 
+- Conocimiento de arquitectura AWS.
+Funciones:
+- Implementación de nuevas funcionalidades en backend y API´s
+- Mejora y optimización de base de datos (PostgreSQL)
+- Debugar y solucionar creativamente los desafíos técnicos
+- Análisis de flujos y propuesta de mejoras
+- Creación de procesos de comunicación con SW de terceros.
+Qué ofrecemos:
+- Contrato indefinido. 
+- Horario de jornada completa con flexibilidad. 
+- Salario competitivo y a convenir contigo. 
+- Ubicación: Barcelona, Zona Glòries (Poblenou). 
+- Posibilidades de crecimiento sólo limitadas por tus intereses. 
+- Ambiente joven y dinámico.

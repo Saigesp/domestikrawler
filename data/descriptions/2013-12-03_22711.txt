@@ -1,0 +1,22 @@
+
+We are looking for a Front End developer to join the talented and dynamic team of our Barcelona office. As a central player of our technical team, you will implement the designs we produce in-house into smooth multi-screen interfaces, responsive email creatives, and you will interact with our backend development team to produce consistent and powerful products. 
+Part of the job will be devoted to develop from scratch or by iterations our clients’ campaigns, from responsive email creative, to mobile friendly mini-websites, or smart HTML banners. To help you in this task you will have to manage outsourcing resources and guide them in order to follow the best practices you are following. The second major component of your mission will be to implement the front-end side of some of our key applications, like the interface of our homegrown tracking and campaign management technology.
+Responsibilities : 
+- Mobile friendly Email creative and landing page coding, using HTML, CSS and Javascript (responsive design)
+- Implementation of marketing projects for our clients (Landing pages, mini-sites, newsletters...)
+- Full front-end management of key internal applications, as well as our own corporate website: start from the design and deliver highly compatible slick interfaces, written with clean code that any teammate can read
+- Liaise with the marketing team to get feedback on our developments and find ways to further improve the existing
+- Work with external resources to outsource low value yet time consuming tasks
+- Monitor and share the latest Frontend technologies
+Background and Skills
+Skills
+- 3-5 years experience in HTML, CSS, JavaScript, AJAX.
+- Responsive, fluid layout and scale-up implementation techniques.
+- Cross-browser and cross-device compatibility.
+- Knowledge of some JS frameworks
+- Some knowledge of Symfony’s templating engine (Twig) can be a plus.
+- True interest and some proven abilities in mobile interface implementation (mobile websites - native apps a plus)
+Background
+- Excellent level of English (mandatory)
+- You write clean, indented, maintainable code
+

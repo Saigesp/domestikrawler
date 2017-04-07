@@ -1,0 +1,7 @@
+
+Buscamos maquetador web front end con experiencia en:
+- XHTML, HTML5 y CSS3
+- Maquetación para dispositivos móviles y responsive design.
+- Photoshop, Dreamweaver, Illustrator, ...
+-Se valorarán conocimientos de programación en JQuery y PHP
+Presencial en Barcelona a jornada completa.

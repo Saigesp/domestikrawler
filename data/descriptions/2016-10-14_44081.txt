@@ -1,0 +1,17 @@
+
+Inspyrame es el estudio creativo del IBES Group, que abarca los sectores de la Publicidad, Marketing, Merchandising, Eventos, Audiovisuales y Comunicación. Está compuesto por un equipo joven y con muy buen ambiente de trabajo.
+Buscamos un desarrollador / maquetador para trabajar en diferentes proyectos.
+REQUISITOS:
+- Nivel alto en CMS (Wordpress, Prestashop, Joomla, Drupal, Magento...).
+- Capacidad de crear plantillas en Wordpress y Prestashop.
+- Amplia experiencia en jQuery, Javascript y Ajax.
+- Amplia experiencia en PHP y MySql.
+- Nivel alto de conocimientos de Html5 y CSS3.
+- Conocimientos en programas de diseño: Photoshop, Illustrator y Indesign.
+SE VALORARÁ POSITIVAMENTE:
+- Capacidad de diseño e interacción con el departamento de creatividad.
+- Experiencia utilizando Frameworks de PHP, Symfony 2, Laravel, Yii Framework...
+LUGAR DE TRABAJO:
+Sant Cugat del Vallés, Barcelona.
+SUELDO:
+A convenir con el candidato.

@@ -1,0 +1,4 @@
+
+Se necesita programador y maquetador para incorporarse inmediatamente a un proyecto empresarial de larga duración. 
+Programación en ASP.NET 4.5 y SQL Server, se ocupará del mantenimiento de un sitio web existente y de desarrollos puntuales de módulos que se le darán definidos. 
+Debe contar con un buen nivel de maquetación en HTML5, CSS3 y RWD o contar con la posibilidad de apoyarse en un maquetador en momentos puntuales.

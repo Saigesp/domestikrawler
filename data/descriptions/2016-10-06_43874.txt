@@ -1,0 +1,15 @@
+
+PROGRAMADOR FRONT END JUNIOR
+En Fullsix buscamos a un programador Front-end junior para incorporarse a nuestro equipo.
+FUNCIONES:
+Desarrollo de páginas web y mantenimiento.
+Mantener y preservar la calidad de los diseños en el desarrollo HTML.
+ 
+REQUISITOS
+Nuestro candidato debe tener: 
+- Conocimientos de Html5, CSS3, Javascript, Jquery
+ - Experiencia en desarrollos responsive y CrossBrowser.
+- Debe desenvolverse con soltura en Photoshop y Sketch para maquetar a partir de los diseños que nos pasará el equipo de diseño.
+- Buscamos a una persona creativa y dispuestas a afrontar retos.
+- Mínimo 1 año de experiencia.
+ En Fullsix encontrarás un gran equipo de programación formado por programadores front y back. Tenemos muy buen ambiente y nos gusta trabajar juntos en equipo, nunca estarás solo ante el peligro :)

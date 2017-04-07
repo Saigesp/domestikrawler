@@ -1,0 +1,5 @@
+
+Agencia de Barcelona busca experto en programación de Apps con PhoneGap Build. 
+Imprescindibles conocimientos de HTML, CSS, JavaScript, Apache Cordova y jQuery.
+
+

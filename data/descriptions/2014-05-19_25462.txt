@@ -1,0 +1,18 @@
+
+El equipo de OnTheGoSystems es autor y responsable de muchos conocidos plugins para WordPress, como WPML, Toolset, Types, Views, CRED, Access entre otros. Nuestros plugins funcionan en cientos de miles de páginas web, probablemente en todos los idiomas de la Tierra.
+En la actualidad, más de 500.000 sitios comerciales usan nuestros productos. Tu trabajo influirá en cientos de nuestros clientes en todo el mundo.
+Buscamos un desarrollador experto en plugins para WordPress para que se una a nuestra familia. Prometemos retos, un trabajo interesante y un ambiente de trabajo inmejorable.
+Requerimientos:
+- Capacidad de comunicación y netiqueta
+- Habilidad para trabajar en equipo, motivación y orientación a resultados
+- Sólida experiencia con algún framework MVC - si no es Ruby on Rails, deseo de aprenderlo
+- Amplios comocimientos en HTML, CSS y javascript
+- Buen entendimiento de SQL
+- Capacidad de identificar problemas de rendimiento tanto en CPU como en I/O
+- Interés en la calidad del código
+- Autodidacta - ocasional lectura de libros técnicos o seguimiento de blogs y sitios especializados en desarrollo de software
+- Comodidad para trabajar en entornos Linux: SSH, MySQL, Apache
+- Experiencia previa con Puthon, PHP y desarrollo de plugins para WordPress se valorará muy positivamente.
+Si no tienes experiencia con Rubi on Rails pero te consderas un programador bien preparado, puedes optar al puesto. Nosotros nos encargaremos de tu formación.
+Sobre nosotros:
+OnTheGoSystems se fundó en 2007 y es una empresa global con empleados en todo el mundo.

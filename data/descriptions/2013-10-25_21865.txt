@@ -1,0 +1,16 @@
+
+Kukupia es una empresa joven e innovadora en el desarrollo de productos electrónicos relacionados con la salud y los smartphones. Actualmente nos encontramos en la aceleradora Lanzadera y necesitamos incorporar un nuevo desarrollador a nuestro equipo.
+Buscamos:
+- Una persona con iniciativa, autodidacta y capacidad de liderazgo en el desarrollo de software. 
+- Imprescindible conocer en profundidad y tener experiencia en alguno de los entornos iOS y/o Android así como en procesamiento de audio (Ffmpeg, Lame, OpenAl, Matlab, ...)
+Otras aptitudes que valoraremos positivamente son:
+- Experiencia en programación de DSPs a bajo nivel.
+- Experiencia con integración de software en sistemas embebidos.
+- Conocimientos tecnologías inalámbricas, Bluetooth, Wi-Fi, Zigbee…
+- Conocimientos de bases de datos.
+- Conocimientos de tecnologías web (PHP, JAVA, .NET) y servidor (Linux, Shell script, ...).
+Ofrecemos:
+- Incorporación inmediata.
+- Expectativas de crecimiento.
+- Excelente ambiente de trabajo rodeados de emprendedores.
+- Salario a convenir en función de experiencias y conocimientos demostrados.

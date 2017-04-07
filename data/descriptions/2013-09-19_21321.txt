@@ -1,0 +1,11 @@
+
+Misión
+Maquetación y mantenimiento de webs corporativas, intranets.
+Programación en php en general.
+Coordinación y cooperación con el Departamento de Diseño y proveedores. 
+Gestión y resolución de incidencias.
+Funciones:
+Analizar los requerimientos técnicos del proyecto.
+Creación y mantenimiento de páginas webs  en base HTML / Wordpress y otros CMS.
+Dar formación de las diferentes plataformas desarrolladas.
+

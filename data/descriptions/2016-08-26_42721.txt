@@ -1,0 +1,16 @@
+
+Buscamos a un desarrollador web polivalente para el mantenimiento y mejora de un portal web con un importante volumen de tráfico. Necesitamos a una persona que esté interesada en un contrato a media jornada o una colaboración freelance de forma presencial en el centro de Madrid. 
+La principal misión de este profesional será el mantenimiento de la página web para su correcto funcionamiento y la optimización y actualización de mejoras que le sean sugeridas por el resto del equipo. A medio plazo tendrá que asumir y liderar la migración de la página web a un nuevo cms. Contará con el apoyo y asesoramiento de otros profesionales senior. 
+Se busca a una persona polivalente con conocimientos de SEO, frontend y backend. Preferimos una persona flexible con ganas de aprender y mejorar sus conocimientos con un portal en alto crecimiento, aunque no tenga mucha experiencia, que un profesional muy especializado en un área concreta. 
+Hay posibilidades para tomar participaciones de la empresa y crecimiento profesional a medio plazo en este u otros proyectos de la empresa.
+Requisitos mínimos: 
+- Experiencia en maquetación y diseño web.
+- Experiencia en desarrollo web con PHP, Python, ASPNet, ...
+- Experiencia con HTML5, CSS3, SCSS, JavaScript, JQuery...
+- Experiencia en diseño y administración de BBDD MsSQL Server, MySQL.
+- Conocimientos básicos de SEO y gestión de contenidos.
+Requisitos deseados: 
+- Experiencia en mantenimiento de foros en Vbulletin. 
+- Experiencia en desarrollos para CMS Prestashop, Joomla, WordPress.
+- Experiencia en los frameworks: Laravel 5, AngularJs, Django, CherryPy.
+- Experiencia en el uso de control de versiones Git

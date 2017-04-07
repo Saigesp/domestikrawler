@@ -1,0 +1,14 @@
+
+Necesitamos desarrollador PSD-to-Wordpress para un proyecto de 1 mes dedicación full-time.
+Nosotros diseñamos en PSD y queremos crear un theme de cero o bien tunear una plantilla comprada.
+El theme creado tiene que tener las opciones de administrador para que el contenido se pueda gestionar por personal no técnico.
+Importante: La persona debe incorporarse al equipo de trabajo en Barcelona de forma presencial, abstenerse teletrabajadores, programadores en otras provincias o empresas. Se descartarán las candidaturas que no cumplan los requisitos.
+Qué buscamos:
+- Maquetador HTML5 + CSS3 + Javascript + Jquery
+- Programador php con conocimientos avanzados de wordpress
+- Experto en desarrollo responsive
+- Dominio de crossbrowser
+Valoramos:
+- Capacidad de crear plugins personalizados
+- Modificación de plugins desarrollados
+- Crear backoffice Wordpress personalizados

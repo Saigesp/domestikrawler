@@ -1,0 +1,8 @@
+
+Formando parte del departamento de arte se responsabilizará del desarrollo gráfico de diferentes interfaces para juegos y aplicaciones multiplataforma generando soluciones visuales innovadoras y elegantes en entornos on line: web, Iphone y Android.
+ Requerimientos:
+- Valorable titulación en Bellas Artes o Diseño Gráfico.
+- Profundos conocimiento práctico en el manejo de programas tanto vectoriales como bitmaps (Photosop, Illustrator,..) para la producción de soluciones on line.
+- Conocimientos básicos en ilustración, 3D y animación
+- Amplios conocimientos de usabilidad y diseño de interacción. (UI/UX)
+- Experiencia demostrable en proyectos de videojuegos , app o web.

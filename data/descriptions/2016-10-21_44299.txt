@@ -1,0 +1,9 @@
+
+Buscamos un asistente desarrollador en prácticas para ayudar en el desarrollo de un marketplace musical orientado a la venta de licencias de música para uso comercial.
+Es una aplicación web construida con ASP.net MVC y que se ejecuta sobre Azure, la plataforma cloud de Microsoft.
+¿Qué deberías saber?
+C#, ASP.net MVC, HTML, Javascript, Conocimientos de SQL
+¿Qué vas a aprender?
+(Y si ya sabes algo de esto mejor que mejor) Administrar Web Apps de Azure, usar Entity Framework para acceder a la base datos, kendoUI para controles de usuario avanzados, Web Jobs en Azure para gestionar procesos largos y escalar horizontalmente, Redis cache para acelerar la web, ffmpeg para transformar los audios, uso de async/await para aprovechar al máximo la CPU, integrarnos con servicios externos (Docusign, Spotify, Paypal), y mucho sobre la industria musical.
+Viel Music Iberia SL es una productora y editorial musical que además de representar y crear diversos catálogos musicales, concentra varios servicios musicales a través de diferentes plataformas tecnológicas, contando con representantes en Reino Unido, Dinamarca, Noruega, Hong Kong y Argentina.
+*Imprescindible título homologado/Convenio con universidad

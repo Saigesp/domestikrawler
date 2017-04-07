@@ -1,0 +1,7 @@
+
+A las buenas, busco un diseñador freelance para desarrollar un MVP. Mi objetivo es hacer una landing con 5 apartados y un formulario.  Ha de ser responsive. Tengo una idea de la estructura y necesitaria diseño (prototipos) y maquetacion html.
+
+También tendría que maquetarse un formulario para mailchimp. 
+No iría con wp ni drupal. La idea es lanzar algo para ver si puede haber mercado o no. En el caso de que avance, ya se pediría otro presupuesto. 
+Me interesarían ver ejemplos de trabajos, precios por horas, condiciones... 
+Muchas  gracias.

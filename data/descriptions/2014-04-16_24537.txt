@@ -1,0 +1,3 @@
+
+Somos un medio de temática LGBT, liderado por una entidad sin ánimo con base en Madrid, dirigido a jóvenes LGBT en riesgo de exclusión social en Marruecos y países norteafricanos.
+Necesitamos desarrollar un site de chat, tipo IRC o cualquier otro formato para nuestra web. El cometido de este chat es brindar asesoría en temas de salud sexual (prevención contra el VIH/Sida y ITS's) así como información comunitaria de interés, a través de personal voluntario formado para esta función.

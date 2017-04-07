@@ -1,0 +1,5 @@
+
+Buscamos un desarrollador con experiencia en desarrollos web, en especial en la parte frontend con AngularJS.
+Tenemos diversos proyectos con esta tecnología y buscamos un freelance con quien trabajar que resida en Madrid para poder visitar a los clientes y enseñar los avances.
+También trabajamos en la parte backend con Python y Django con lo que conocimiento de estas tecnologías es un plus.
+Usamos git como control de versiones por lo que valoramos mucho que ya se halla trabajado con este sistema.

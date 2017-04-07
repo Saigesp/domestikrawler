@@ -1,0 +1,8 @@
+
+Altran España es una compañía perteneciente al grupo Altran, líder global en Tecnología con una red internacional de 21.000 profesionales y 500 grandes clientes en todo el mundo. Altran está presente en Europa, América y Asia.
+Presente desde 1992, está especializada en Consultoría de Innovación, Ingeniería y Tecnología, Organización y Sistemas de la Información y Estrategia y Negocio.
+Altran España ha sido reconocida con la certificación de TOP EMPLOYERS 2014 a sus políticas en Recursos Humanos.
+Buscamos incorporar en nuestra División de Telecomunicaciones a un/a Programador/a con al menos tres años de experiencia para formar parte de un equipo de SW. 
+Entre los requisitos necesarios para poder desarrollar la actividad, tendría que tener la experiencia en desarrollo de aplicaciones web en .NET (c#). Valorable ASP 3.0
+Entre sus competencias tiene que tener una solida experiencia en tecnologías .NET( ASP.net, C#, Ajax, Webservices), JQuery, SQL Server, ASP, XML y Javascript.
+Nos gustará que contase también con experiencia con herramientas Microsoft (VStudio, Sql Server Management Studio, TFS), conocimiento y/o participación en equipos con metodologías agiles y buena base de OOP.

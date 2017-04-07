@@ -1,0 +1,6 @@
+
+Buscamos un profesional con experiencia en desarrollo para entornos Web en PHP. Estupendo si cumples además con algunos otros requisitos (aunque no son imprescindibles):
+- Conocimientos de maquetación HTML: Dreamweaver, CSS...
+- Base de datos MYSQL
+- XML, XLS, JavaScript, AJAX...
+Envíanos tu CV y estaremos encantados de verte en una entrevista personal.

@@ -1,0 +1,13 @@
+
+Agencia de programación de Barcelona, busca un programador web junior para incorporación inmediata en la empresa. Buscamos un perfil proactivo, responsable, con ganas de trabajar en un proyecto solido y estable. 
+Se requiere conocimientos en:
+- Php
+- Html
+- Css 
+- Javascript
+- JQuery
+Se valorara experiencia en:
+- Frameworks
+- Wordpress
+- AS3
+- Facebook App

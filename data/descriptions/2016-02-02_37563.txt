@@ -1,0 +1,7 @@
+
+Buscamos freelance para migrar proyecto web basado en PyroCMS de un servidor a otro.
+Buscamos un profesional o empresa que domine PHP, Codeigniter, base de datos basada en MySql.
+El trabajo consistiría en hacer copia de los contenidos que están actualmente online, tanto de su front como backend y subirlos a un nuevo servidor de nuestra empresa, conservando todos los aspectos de edición y gestión que el CMS ofrece en la actualidad.
+Todos los datos relativos a conexiones, etc, deberán ser tratados con absoluta confidencialidad.
+Los interesados pueden ampliar información mediante email.
+

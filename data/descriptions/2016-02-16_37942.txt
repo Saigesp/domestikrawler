@@ -1,0 +1,17 @@
+
+Buscamos a una persona freelance con capacidad de desarrollo en PHP para trabajar periódicamente en nuestros proyectos web y e-learning.
+Imprescindible:
+-Experiencia en PHP.
+-Conocimientos de desarrollo de temas Wordpress, Prestashop y Moodle (adaptar el CMS para las necesidades de cada proyecto, desarrollo de plugins, programar y trabajar sobre las plantillas, etc.)
+-Experiencia en diseño web responsive.
+Se valorará:
+-Otros frameworks como CakePHP.
+-Nivel avanzado en paquete Adobe Creative Suite. 
+-HTML5.
+-CSS3.
+-Javascript, jQuery y jQuery Mobile.
+Requisitos como freelance:
+-Preferentemente residencia en alrededores Arrasate-Mondragón y/o País Vasco.
+-Disponibilidad para asistir a reuniones de proyecto en nuestra oficina de Arrasate-Mondragón.
+-Entrega en los plazos previstos.
+-Estar dado de alta en autónomos para poder emitir facturas.

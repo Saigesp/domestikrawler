@@ -1,0 +1,19 @@
+
+Buscamos un desarrollador web full-stack con al menos tres años de experiencia.
+Somos una empresa de inversión internacional en pleno crecimiento y necesitamos desarrollar nuestra propia plataforma interna para la gestión de equipos y productos.
+La persona seleccionada será responsable de la planificación y desarrollo de la aplicación web.
+El candidato ideal: 
+- Trabaja de forma autónoma y es proactivo 
+- Piensa “out of the box”, es creativo 
+- Le encanta encontrar soluciones a los problemas 
+- Tiene experiencia en el desarrollo de aplicaciones web 
+- Tiene un nivel de inglés medio
+Experiencia: 
+- JavaScript, jQuery, CSS3 and HTML5, daba bases 
+- Desarrollo back-end development Linux, Apache, MySQL, PHP 
+- Nivel medio de inglés
+Se ofrece: 
+- Contrato a jornada completa (Presencial en oficina Barcelona) 
+- Ownership de los proyectos 
+- Ambiente de trabajo internacional
+Se valora mucho que el candidato tenga proyectos propios (que podamos ver), que sea autodidacta, que se interese por actualizarse día a día y aportar nuevas ideas o conocimientos al equipo.

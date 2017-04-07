@@ -1,0 +1,38 @@
+
+Queremos incorporar a una persona con ganas de crear cosas nuevas para que sean utilizadas por miles de usuarios.
+Nuestro objetivo es liderar el mercado de limpieza en Internet y expandirnos. Si te gustan los retos y ser parte (y no simplemente un empleado más) de un proyecto con mucho potencial nos encantará conocerte.  
+
+Tus responsabilidades  
+•	Formar parte de un equipo tecnológico que está digitalizando un mercado. Tenemos un roadmap de producto muy extenso para crear a diario una tecnología puntera. 
+•	Optimizar el proceso de reserva y la experiencia de usuario, queremos hacer la vida fácil.  
+•	Desarrollar nuevas funcionalidades en nuestra herramienta de gestión, es a la vez cerebro y corazón de Clintu, usada a diario por clientes y limpiadoras.  
+•	Crear nuevas plataformas (web y app). 
+•	Identificar, evaluar  y sobretodo implementar nuevas soluciones tecnológicas.  
+
+Lo que ofrecemos  
+•	Sueldo a convenir  + plan options a los 6 meses 
+•	Contrato indefinido   
+•	Formar parte de un equipo joven y en crecimiento  
+•	Ambiente inmejorable y un proyecto chulo   
+•	Oficina con mucha luz cerca de Francesc Macia con café, té, cerveza, ... a tu disposición 
+•	Te montas tu horario cómo más te convenga  
+•	A veces hacemos barbacoas y también vamos a jugar a futbol o a bolos  
+•	Puedes ir vestid@ como quieras 
+
+Requisitos técnicos  
+•	Experiencia en desarrollo PHP con algún framework MVC (laravel…)
+•	Experiencia con API-REST y NodeJS
+•	Experiencia en frameworks MVC javascript (Angular…) 
+•	Se valorará conocimiento de BBDD NoSQL
+•	Administración de BBDD MySQL
+•	HTML5, CSS3 y Sass 
+•	Conocimientos de sistemas de control de versiones, preferiblemente GIT. 
+•	Detectar necesidades en los procesos y proponer soluciones tecnológicas para optimizarlos 
+
+Habilidades personales     
+•	Mentalidad de mejora continua tanto con los productos como contigo mismo (nuevas herramientas, tecnologías...) 
+•	Habilidad para pensar más allá de código, en la arquitectura y experiencia del usuario 
+•	Capacidad para comunicarte y coordinarte con tus compañeros 
+•	Ganas de conocer  e implementar nuevas tecnologías
+•	Persona resolutiva, con curiosidad y buen humor  
+

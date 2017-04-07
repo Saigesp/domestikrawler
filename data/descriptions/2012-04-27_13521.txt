@@ -1,0 +1,20 @@
+
+Club Funmoney es una plataforma online que ofrece a las empresas las herramientas y servicios necesarios para crear programas de fidelización de forma eficiente.
+Buscamos un programador con experiencia en:
+- Programación en PHP orientada a objetos (nivel alto).
+- Programación en SQL (nivel alto).
+- Programación Javascript (nivel alto).
+- Programación en HTML4 i HTML5 (nivel medio).
+- Maquetación CSS (nivel medio).
+- Flash (nivel medio).
+- Programación en Action Script (nivel medio). Se tendrá en cuenta conocimientos en 3D, papervisión, air, ...
+A valorar:
+- Programas tipo: adobe, video, ftp,...
+- Conocimientos de hardware PC / LINUX.
+- Conocimientos de software PC / LINUX / MAC.
+- Conocimientos sobre servidores.
+- Conocimientos sobre cloud computing.
+- Conocimientos / Programación sobre aplicaciones de redes sociales (Facebook, twitter, ...).
+Para incorporación inmediata a nuestro equipo de desarrollo.
+Jornada completa.
+Para contrato fijo tras período de prueba.

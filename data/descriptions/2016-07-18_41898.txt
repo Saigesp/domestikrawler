@@ -1,0 +1,17 @@
+
+Buscamos para nuestro departamento de IT un programador con experiencia mínima de 1-2 años. Se unirá al departamento de IT y colaborará en el mantenimiento y gestión de la plataforma de Backoffice, desarrollo de nuevos proyectos internos, mejora del Front-end, etc...  
+Se precisan conocimientos: 
+- Maquetación y desarrollo de Front-end integrado con Symfony,  
+- Twig u otro tipo de plantillas HTML similares (Blade, Handlebars, Smarty ,….)
+- Less / Sass (preprocessor de estilos)- Bootstrap (usando mixins, override)
+-  jQuery / Angular / React
+- Conocimiento framework MVC básico  (routing  y controladores principalmente)
+- Experiencia integrando Web Services    
+Se valorarán conocimientos de:   
+- Conocimiento sistema de versiones GIT
+- Uso de Bower, Grunt / Yeoman
+- Conocimientos de  testing
+- Conocimientos / Interés por  de wireframing / UX      
+Se ofrece contrato indefinido.    
+Retribución según valía y experiencia aportada.    
+Ambiente joven y dinámico, trabajo en Madrid, zona Ríos Rosas, abstenerse ofertas en remoto.

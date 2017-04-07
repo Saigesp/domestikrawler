@@ -1,0 +1,26 @@
+
+IN2, Ingeniería de la Información somos una empresa que ofrece servicios de alto nivel tecnológico en el ámbito de los sistemas de información.
+La visión de IN2 es ser una empresa Innovadora, de Soluciones Tecnológicas en ámbitos concretos de mercado, de Alta Calidad, Rentable, de Prestigio y Marca conocida, que cree firmemente que su principal activo son las personas y sabe colaborar con sus "partners" en la consecución de sus objetivos.
+Nuestro Objetivo es ofrecer Servicios de Alto Valor en Proyectos y Estrategias sobre Tecnologías de la Información. 
+En la actualidad precisamos incorporar Programadores Junior con experiencia demostrable de 1 año aproximadamente, para trabajar en nuestra compañía, con las siguientes tecnologías:
+- Spring (Webflow, Security, MVC, Data; Mobile)
+- Hibernate & SQL (Oracle 11g R2)
+- HTML5, CSS3, Javascript avanzado
+- Eclipse 
+Ofrecemos:
+- Horario: de 9 a 14h
+- Plan Formativo y de Carrera
+- Salario en función con la experiencia
+Requisitos:
+- Estudios mínimos: Formación Profesional Grado Superior
+- Experiencia mínima: Al menos 1 año
+- Imprescindible residente en: Provincia Puesto Vacante
+- Imprescindible aportar experiencia en las siguientes tecnologías:
+Spring (Webflow, Security, MVC, Data; Mobile)
+Hibernate & SQL (Oracle 11g R2)
+HTML5, CSS3, Javascript avanzado
+Eclipse
+Supondrá un valor añadido aportar experiencia o conocimientos en:
+- Dojo Framework & Dojo Mobile
+- Maven
+- Websphere Application Server

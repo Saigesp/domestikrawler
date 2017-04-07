@@ -1,0 +1,27 @@
+
+Si te apasiona el mundo del desarrollo PHP y programación web tenemos una oportunidad de empleo para ti en nuestra agencia de marketing digital. 
+Buscamos un desarrollador en PHP con al menos 3 años de experiencia.
+Buscamos una persona que hable lenguaje código, analítica, metódica, responsable en el trabajo, alegre y con ganas de aprender, no sólo en su área de trabajo, sino también marketing y comunicación, porque lo que hacemos en la Agencia son proyectos de marketing.
+Estamos intentando trabajar con metodologías ágiles, pero esto ya te lo contaremos cuando vengas a la entrevista.
+
+REQUISITOS: 
+•	Experiencia en desarrollo de aplicaciones con PHP5 usando frameworks: Laravel o Symphony.
+•	Haber trabajado con alguna de las dos plataformas anteriores: Wordpress o Prestashop.
+•	Conocimientos avanzados de SQL y modelos de bases de datos relacionales.
+•	Conocimientos básicos de XHTML, CSS y Javascript.
+•	Nivel medio/alto de inglés.
+•	Nivel Medio / Alto de Office.
+COMPETENCIAS A DESARROLLAR: 
+•	Gestión de proyectos web junto con asesor de marketing y, en su caso, desarrollador front-end.
+•	Implementación de nuevas funcionalidades en el back-end de los desarrollos web [Wordpress y Prestashop fundamentalmente]. Drupal también podría valer.
+•	Mejora de módulos y creación de módulos ad-hoc para cubrir diferentes funcionalidades nuevas a nivel web para las plataformas antes citadas.
+•	Uso de frameworks tipo Laravel o Symphony.
+•	Conexión con diferentes APIs de herramientas de marketing: Google Analytics, Mailchimp, Google Tag Manager, etc.
+•	Mejora y optimización de la base de datos (MySQL).
+•	Desarrollo de apps móviles utilizando frameworks tipo Phonegap para proyectos de clientes e internos.
+CALENDARIO: 
+•	Incorporación inmediata.
+•	Contrato indefinido.
+•	8 horas de lunes a viernes.  Horario flexible
+CONDICIONES: 
+•	Alta en Seguridad Social

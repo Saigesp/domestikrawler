@@ -1,0 +1,27 @@
+
+New Relic
+Senior Java Engineer - Data Visualization Team
+Barcelona, Spain
+
+At New Relic, we provide our customers with instant and deep insight into their application’s behavior and performance. With our SaaS-based application performance monitoring (APM) solution, we have our customer’s backs by transparently instrumenting their application and reporting issues, often before the customer knows that there is a problem. We give our customers as much information as possible to help them tune their site’s reliability and performance.
+You'll be part of the Data Visualization Team of New Relic, whose mission is to deliver the self-serve components and services that engineers need to smoothly add data visualizations to their products. As an engineer on the Dataviz Team, you will:
+Build the charting service that unifies the way we query for and render charts across all our products while providing product teams with the means to stand up their own charting services for any product-specific charting needs.
+Build the streaming service to enable our data visualizations to pull real-time data across our products.
+Work with some of the smartest, nicest people you'll meet. People who work here say the problems they work on are enormously challenging, and that the team culture is the most supportive they've seen. 
+At New Relic, you will work with some of the best engineers and take on some of the most complex problems in the industry. As a member of Barcelona team you will help shape and grow our European development center. We’re a fast growing software company that cares about our culture. We value work/life balance, personal respect, code ownership by engineers, and experimentation. If all this sounds like your dream job, read on:
+How to know if you’re the right candidate: 
+-You have a high level of expertise developing, shipping and maintaining high throughput Java services (Java 8, Lambdas, Spring boot, Gradle...)
+-Your experience working with REST API development and Thrift will be a great plus for this role, although not mandatory.
+-You understand the value that build and test automation brings to a development team's efficiency and reliability and are passionate about applying these techniques to your projects.
+-You have experience deploying, leading, and interfacing with distributed systems technologies
+-You thrive in a fast paced environment focused on delivering production code at a regular cadence using Agile techniques, tools and methodologies
+-You have a collaborative work style that includes colleagues in important decisions and leads to shared code ownership.
+-You have great collaborative skills.
+-You speak fluent English.
+-You have the right to work in Spain (EEA, http://europa.eu/about-eu/countries/).
+
+A little about us:
+New Relic is a software analytics company that, on behalf of our customers, makes sense of billions of metrics about millions of applications, all in real time. Our comprehensive SaaS-based solution for web and mobile applications consolidates the performance monitoring data into a single, powerful interface. Our customers use New Relic every day to optimize millions of applications.
+Our Barcelona office was established on October 2014 with our acquisition of Ducksboard, a privately held startup. This is a unique opportunity to work at a startup within a NYSE company where the entire office fits around the lunch table. We are passionate about data visualizations in real time, APIs, intuitive UX and beautiful design. We have no dogma but do whatever makes sense to deliver state of the art products. Our mission is to bring a complete data visualization solution compatible with all New Relic products. This comes with a multitude of opportunities for technical growth across different languages and platforms.
+We provide competitive compensation, stock options and big-company benefits (medical, etc.) all while maintaining the energy, agility, and fun of a start-up. We can help with relocation.
+ 

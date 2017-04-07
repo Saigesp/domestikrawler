@@ -1,0 +1,18 @@
+
+QUODEM es una compañía orientada a ofrecer soluciones de marketing y desarrollo de negocio basadas en las tecnologías de la información. Líder en proyectos de consultoría de marketing digital en el sector salud. 
+Buscamos a un Maquetador/ Desarrollador para afrontar un reto de gestión de contenidos y desarrollos a medida en front-end (javascript y jQuery) para un proyecto de ámbito internacional.
+Formación mínima:
+Bachiller y Formación complementaria (Masters/Certificaciones) relacionados con las habilidades solicitadas o Ciclo formativo superior relacionado con la informática ó diseño gráfico.
+Habilidades profesionales (Imprescindible):
+Nivel de inglés alto.( abstenerse candidatos que no dispongan de un alto nivel de inglés)
+Experiencia con gestores de contenido (CMS).
+Conocimientos básicos de programación.
+Experiencia con Javascript y jQuery
+Conocimiento de CSS3, HTML4 y 5.
+Experiencia en edición de imágenes.
+Serán altamente considerados conocimientos en:
+Experiencia con Adobe Photoshop.
+Conocimientos de lenguajes de programación orientada a objetos.
+Experiencia con SDL Tridion.
+Conocimiento de XSL/XSLT.
+Experiencia con servicios AJAX.

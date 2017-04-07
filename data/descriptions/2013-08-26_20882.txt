@@ -1,0 +1,3 @@
+
+Necesitamos programador/maquetador de entorno LAMP/WAMP.
+Su principales funciones estarán orientadas al desarrollo de módulos front-end de manera cooperativa con nuestro equipo, por lo que necesitamos una persona con buen dominio de maquetación HTML/CSS y JQuery, que sea respetuoso y ordenado con el código, que domine la orientación a objetos pero principalmente que sea creativa.

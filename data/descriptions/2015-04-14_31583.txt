@@ -1,0 +1,22 @@
+
+Importante empresa del sector ingeniería precisa incorporar a su plantilla un/a programador/a VB.NET junior con conocimientos de SQL y sistemas. Sus principales funciones serán:
+    Mantenimiento de aplicaciones y mejora de infraestructuras IT
+    Servicio de soporte
+    Participación en proyectos de informática para los clientes de la empresa
+    Servicio de mantenimiento
+Se ofrece contrato a jornada completa, plan de formación y proyección profesional dentro de la empresa
+Requisitos:
+    Experiencia en puesto similar de al menos 1 año
+    Imprescindible experiencia y conocimientos en programación VB.NET
+    Conocimientos en SQL
+    Experiencia en entornos Windows Server
+    Disponibilidad para realizar guardias
+    Nivel de Inglés alto
+Se valorará:
+    Virtualización VMWAre
+    Microsoft Exchange 2010
+    Sharepoint 2010
+    Networking (switching)
+    Seguridad IT
+    Francés
+

@@ -1,0 +1,26 @@
+
+Buenas, tengo un portal web a medio hacer. El sitio es un punto de encuentro para gente que va a emigrar a otro pais, y donde mostramos: Escuelas de idiomas de las ciudades, trabajos, alojamientos y planes de ocio en cada una de las ciudades elegidas. Ademas cuenta con un foro, un blog y algunas paginas estaticas sobre las ciudades. 
+Casi todo el trabajo HTML y del Blog en WordPress está realizado, falta la fase de implementación en PHP.
+La tecnologia pensada es en CakePHP y este es listado de las funcionalidades requeridas.
+* PHP, Jquery, HTML, SQL, WordPress Son tecnologias requeridas
+1) FASE DE ANALISIS Y DISEÑO DE BASE DE DATOS 
+2) FASE DE IMPLEMENTACIÓN DE BACKEND 
+3) FASE DE IMPLEMENTACIÓN
+- login,registro
+- dashboard usuario
+- alojamiento, escuelas de idiomas, trabajo, ocio (scrapping, filtro) 
+- like, comentarios, subir imagen (por parte del usuario)
+- feed fb, tw feed, compartir fb y tw 
+- buscador, y plugins de interaccion con los listados devueltos por las webs de alojamiento, escuelas idiomas, tabajo y ocio
+- footer (Discover, Travel News, Mail List, About us)
+Implementacion de las paginas HTML:
+- About us
+- Faqs 
+- Contact 
+- Home 
+- Alojamiento
+- Ocio 
+- Escuelas de inglés 
+- Ocio
+- Foro
+4) FASE DE PRUEBAS Y CORRECCIONES

@@ -1,0 +1,14 @@
+
+Perfil Profesor Apartado Creativo del curso
+El curso Consta de varios módulos de los cuales el profesor elegido se encargaría de los siguientes:
+- General, cuyo contenido es aportar el Conocimiento básico y esencial de 3D Studio Max y Unreal engine 4. 
+- Especifico, para la creación y renderización de entornos en Unreal Engine 4, lo cual incluye:
+   · Modelado poligonal con 3D Studio Max orientado a la creación de modelos Low Polys orientados a la ejecución tiempo real
+   · Escultura digital con Zbrush para la creación de High Polys de alto nivel de detalle
+   · Proyección de modelos High Polys en modelos Low polys para la creación de los diferentes mapas de normales, oclusion, diffuse etc..
+   · Organización y despliegue del mapa de coordenadas de los diferentes modelos Low Polys
+   · Texturizado con Photoshop, Xnormal, Substance Painter y Designer. 
+   · Preparación del modelo Low Poly en Unreal Engine, incluyendo la importación de este y la creación y organización de su material y texturas.
+   · Preparación y creación de la iluminación y visualización de los entornos.
+   · Proceso de creación de niveles desde su prototipado hasta su acabado definitivo. 
+

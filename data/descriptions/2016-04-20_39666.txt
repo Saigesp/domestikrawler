@@ -1,0 +1,34 @@
+
+Descripción del rol
+¿Eres apasionado/a del desarrollo Web? Nuestro proyecto está comprometido con aplicar las más modernas tecnologías y metodologías de desarrollo de la Web.
+Como desarrollador JavaScript, participarás en la implementación de un framework transversal y también en desarrollo específico de producto.
+Además, conjuntamente con el reto tecnológico, te integrarás en un equipo de trabajo bajo gestión gestión ágil, con conceptos de SCRUM y Extreme Programming.
+Nosotros te aportaremos un entorno retador y una oportunidad para llevar tus conocimientos a nuevos límites, para que puedas seguir en la cresta del desarrollo Web cada día.
+Requisitos mínimos para el rol
+Nos interesa que hayas trabajado con JavaScript para crear aplicaciones Web. Tienes que estar familiarizado con conceptos como:
+- Data-binding.
+- Plantillas en cliente.
+- Almacenamiento en cliente.
+- MVC, MVVM o MVW (Model-View-Whatever).
+- Patrones de diseño como module pattern.
+- Single page applications.
+- HTML5 y sus estándares relacionados.
+- Programación orientada a objetos mediante prototipos.
+Algo que valoramos especialmente es que sepas desenvolverte adecuadamente con JavaScript sin frameworks cuando los estándares sean suficientes.
+Leer y escribir en inglés es un plus.
+Conocimientos deseables para el rol
+Los siguientes conocimientos y conceptos serán muy valorables si los dominas o conoces.
+- Características incorporadas en el estándar ECMA-Script 5 en adelante.
+- Programación asíncrona o con continuaciones basadas en el patrón Promise.
+- Selectores CSS avanzados.
+- CSS Flex model.
+- Animaciones CSS, tanto mediante transiciones como keyframes.
+- Conocimiento y experiencia en consumo de servicios Web basados en REST.
+Tecnologías
+- Angular 1.x (preferiblemente a partir de 1.4)
+- Angular Material (u otros frameworks de UI como Twitter Bootstrap y similares).
+- Angular UI Router.
+- Experiencia con gestores de paquetes. Nosotros utilizamos JSPM y SystemJS, pero haber utilizado Bower, RequireJS y otras combinaciones es igualmente de valorable.
+- SCSS/SASS
+- GruntJS o GulpJS.
+- Dominio básico de GIT.

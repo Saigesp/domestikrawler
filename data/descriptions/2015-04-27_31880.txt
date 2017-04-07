@@ -1,0 +1,2 @@
+
+Busco un programador en PHP para implementar mejoras sobre un proyecto basado en la ubicación por geolocalización de establecimientos ecológicos. El proyecto está bastante definido, pero es necesario implementar nuevas funcionalidades.

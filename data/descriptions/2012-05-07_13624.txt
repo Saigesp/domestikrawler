@@ -1,0 +1,13 @@
+
+Nuestro cliente es una empresa dedicada al desarrollo de sensores inalámbricos situada en Barcelona ciudad. Precisa incorporar un/a PROGRAMADOR/A JAVA para desarrollar aplicaciones web interactivas basadas en GW (J2EE, Javascript, html, css) desde el incio, así como el desarrollo de los componentes del backend (JAVA, Hibernate, spring)
+Requisitos
+- Ingeniería informática o CFGS
+- Experiencia de al menos 2 años desarrollando en JAVA
+- Inglés fluido
+- Experiencia en GWT
+- Experiencia y/o conocimientos en Spring, Hibernate
+- Persona tecnológicamente inquieta, proactiva y autónoma
+Valorable:
+- Experiencia en Google Web toolkit
+Contrato indefinido, jornada completa
+

@@ -1,0 +1,27 @@
+
+Company:
+Our client is a company active in Technology Consulting and Management. The company is located in Geneva, Switzerland. To strengthen their growing team they are looking for a J2EE/Swing Developer.
+Job Description: 
+Your main responsibilities:
+-to design an interface which enables the exchange between business teams (Bank) and the development team
+-to analyze  business requirements and to define the required functions of the application
+-to plan and design technical solutions 
+-to develop the application and to contribute to the progress of the overall project
+-to update technical documentation
+Your Profile: 
+-Master in Computer Science (or equivalent)
+-4-5 years of experience in the banking world is essential (ideally trading)
+-Very Good skills in Java J2EE, EJB (and Weblogic)
+-Very good knowledge of SWING and component libraries (Openswing, SwingX, JGoodies etc.)
+-Experience both with functional analysis and development
+-Language Skills: French (fluent), English (good knowledge)
+-Curious and open-minded
+-Enthusiastic team player but also able to work on your own
+-Good communication skills 
+-Willing to develop a project almost from scratch and to move towards project management
+-Willing to move to Switzerland
+Offer: 
+-Challenging work environment
+-indefinite contract
+-Very competitive salary 
+

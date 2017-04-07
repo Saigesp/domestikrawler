@@ -1,0 +1,12 @@
+
+Buscamos una persona para integrar en nuestro equipo, con conocimientos y experiencia en desarrollo de aplicaciones móviles iOS, con objectiveC. 
+Buzinger es una empresa tecnológica, donde desarrollamos proyectos y soluciones móviles. Somos un equipo joven, multidisciplinar  y apasionados por la tecnología, que formamos un equipo de trabajo excepcional.  
+Necesitamos: 
+* Una persona con experiencia de al menos 2 años desarrollando aplicacion iOS
+* ObjectiveC, deseable también Swift
+* Conocimientos de Integración continua, metodología scrum 
+* Se valorará conocimientos de Android 
+Ofrecemos:
+* la posibilidad de unirte a nosotros de forma indefinida
+* trabajar en un proyecto con grandes expectativas
+* sueldo a convenir según valía

@@ -1,0 +1,15 @@
+
+Buscamos Back-end Developer para proyecto presencial en Madrid.  
+El candidato requiere de: 
+Preferimos que sepas programar en los lenguajes o frameworks mencionados, que aprendas rápido, y que seas capaz de buscar soluciones creativas cuando hay problemas.  
+Experiencia demostrable en:  
+Conocimientos avanzados de PHP.
+Conocimientos avanzados de CodeIgniter.
+Conocimientos Expression Engine.
+Experiencia en diseño de WebServices.
+Experiencia demostrable en diseño de BD MySQL.
+Experiencia en cuanto diseño escalable server-side.
+Optimización de servidores y recursos.
+El sueldo se adaptará al perfil optado y según valía. La forma de pago dependerá de la necesidad de cada uno. Se puede optar a contrato o a facturación como autónomo.  
+Horario invierno: de 9 a 14 y de 16 a 19.
+Horario de verano: de 8 a 15:00 

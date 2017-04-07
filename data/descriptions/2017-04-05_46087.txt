@@ -1,0 +1,36 @@
+
+¿Quiénes somos?
+Pixel and Pixel es una agencia digital con más de 15 años de historia y una marcada obsesión por la creatividad, la innovación y el cuidado diseño de todos sus proyectos. Actualmente somos una plantilla de 32 pixeles.
+¿Qué estamos buscando?
+- Una persona con conocimientos avanzados en animación con CSS, HTML 5, canvas y WegGL.
+- Experiencia demostrable en la creación de microsites, campañas de banner rich media o cualquier otro proyecto de programación y animación creativa (¡¡sorpréndenos!!).
+- Alguien que conoce a la perfección las limitaciones de los diferentes navegadores y dispositivos ya que tiene experiencia en exprimir al máximo el potencial de cada uno de ellos.
+¿Qué te ofrecemos?
+- La oportunidad de participar en el proceso de creación de campañas y acciones para marcas nacionales e internacionales de primer nivel. 
+- Un verdadero reto diario / cero horas de aburrimiento. 
+- La posibilidad de formar parte de una agencia consolidada donde creatividad, arte y programación se encuentran bajo el mismo techo. 
+- Excelente ambiente de trabajo.  Formar parte de un consolidado equipo de programación compuesto en la actualidad por 5 miembros.
+- Trabajar en una agencia de referencia en cuanto a innovación y creatividad se refiere. 
+- Incorporación inmediata.
+Algunos de nuestros clientes: 
+Netflix, Mercedes-Benz, Red Bull, Mazda, NH Hoteles, Havaianas, Mutua Madrileña, Google, EA Games...
+Imprescindible: 
+- HTML5 
+- CSS3 
+- Javascript 
+- Experiencia en desarrollos con Diseño Web Adaptativo (Responsive Web Design - RWD)
+- Mínimo 3 años de experiencia
+También valoraremos:
+- Frameworks Javascript (jQuery, Prototype, Angular, …) 
+- Otros frameworks (Bootstrap). 
+- Experiencia en el desarrollo de banners Rich-Media para distintas plataformas de Ad-Serving (DoubleClick, Syzmek, Flashtalking, …). 
+- Wordpress. 
+- Unity
+- Inglés
+Nuestros últimos proyectos:
+Mercedes AMG VRace
+ www.amgvrace.com
+Havaianas:
+ http://original.havaianas-store.com
+Netflix. "Oh blanca navidad"
+ http://lacriaturacreativa.com/2016/12/netflix-lo-peta-esta-felicitacion-narcos-plena-puerta-del-sol/

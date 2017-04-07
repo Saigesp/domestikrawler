@@ -1,0 +1,31 @@
+
+¿Qué buscamos?
+Un perfil de maquetador/desarrollador front, capaz de desarrollar proyectos de maquetación de principio a fin con un nivel alto de calidad. 
+Somos pequeños pero guerreros, buscamos construir un equipo estable ¡Somos una cooperativa!
+Buscamos una persona que quiera arrimarse a nosotros, en un primer momento como colaborador freelance. Una persona con ganas, ganas ¡ganas! Con capacidad para aprender y apoyarnos. ¡Somos un equipo! ;).
+Una persona simpática, y a ser posible con la risa fácil, aunque esto último no es requisito indispensable.
+¿Qué pedimos?:
+-	Obviamente, que te guste maquetar. Y no sólo eso, que nos propongas soluciones a nuestros prototipos. 
+-	Que estés acostumbrado a trabajar en equipo y lo valores.
+-	Que seas independiente en tu trabajo, con capacidad para autogestionar tus tareas: buscamos un compañero no un subordinado.
+-	Que prestes atención a los detallitos en los que nadie se fija. La calidad es importante.
+¿Y a nivel técnico?:
+-	¿Nos enseñas tu portfolio?
+-	Nos gustaría ver proyectos basados en HTML5, CSS3 y Media Queries. 
+-	¿Has trabajado en proyectos para dispositivos Móviles y tablets (Responsive design)? Somos muy curiosos. Nos gustaría verlos.
+-	Desarrollo cross browser (problemas de compatibilidad con exploradores). Sí, sí, incluido Internet Explorer.
+-	Que tengas sensibilidad por el diseño visual ¡A nosotros nos encanta!
+-	Conocimientos de Javascript y uso de frameworks (jQuery, Prototype, Parallax, etc.). 
+-	Poder manejarte tuneando plantillas para Wordpress y Joomla.
+-	Que sepas trabajar con Photoshop e Illustrator para el tratamiento de los diseños para su posterior maquetación.
+¿Qué ofrecemos?:
+-	Trabajos, proyectos muy molones y de muy diferente naturaleza (si, no lo decimos nosotros…).
+-	Formar parte de un equipo con gente realmente cercana. Nos ayudamos mucho.
+-	Flexibilidad para trabajar desde casa/oficina.
+-	Valoramos muy positivamente la posibilidad de tenerte cerca a nivel personal. Nos encanta tomar café junticos y el pintxo de los viernes.
+Valoramos:
+-	Tus conocimientos de optimización SEO de una web. A nivel técnico, queremos un maquetador, no un SEO.
+-	Tus conocimientos de optimización de tiempos de carga de web. 
+- 	Nos dedicamos a la usabilidad y experiencia de usuario. ¿Qué nos puedes decir sobre ello?
+-	Que aportes tu experiencia y conocimientos sin miedo y compartiendo todo lo que veas mejorable.
+¿Hablamos? ¿Nos enseñas tu porfolio? 

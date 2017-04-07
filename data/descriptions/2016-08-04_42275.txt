@@ -1,0 +1,10 @@
+
+At Ironhack we are looking for a Lead Instructor for our Web Development Bootcamp who is not only passionate about coding, but also about sharing his/her knowledge with the next generation of developers. 
+The Lead Instructor is someone who has a deep understanding of programming and good development practices gathered from his/her educational journey and real-world experience. You need to be a strong communicator and very patient -- you’ll need to be able to explain abstract concepts to first-time developers.
+- The Lead instructor will be responsible for:
+- Leading Campus knowledge.
+- Overseeing the whole academic experience of an Ironhack bootcamp (from student selection to graduation)
+- Teaching at our Campus
+- Creating engaging content for our Web Development courses that may include lessons, exercises and/or mini-projects
+- Managing Junior Instructors (JD) and Teaching Assistants (TA)
+- Screening our prospective students through technical interviews and coding challenges

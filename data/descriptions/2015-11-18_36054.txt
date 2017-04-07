@@ -1,0 +1,23 @@
+
+¿QUIENES SOMOS? 
+Digital On es una compañía de tecnología con más de 15 años especializada en el desarrollo de prototipado (wireframes), diseño, maquetación y programación de páginas web, aplicaciones en Internet, e-commerce y apps.
+Nuestros principales clientes son startups que necesitan realizar desarrollos a medida, con un alto componente de innovación.
+¿QUE BUSCAMOS? 
+Buscamos talento con ganas de aprender nuevos lenguaje de programación, trabajo ágil y colaborativo, y que quiera divertirse trabajando, generando así un gran ambiente productivo con sus compañeros de equipo.  Nos interesa conocer lo que eres capaz de realizar y tus próximos retos, más que tus años de experiencia.
+Conocimientos y aptitudes:
+- Disfrutas programando y te encanta el desarrollo web a medida  
+- Tienes experiencia demostrable habiendo programado de manera autónoma más de 3 proyectos web en Laravel o Codeigniter
+- Programación orientada a objetos, patrones de diseño, MVC, etc.
+- No solicitamos que seas fullstack, pero sí que tengas gusto por el diseño y que tengas conocimientos de Javascript en algunas de estas tecnologías (Jquery, Foundation, React, Angular…).
+- Formación Profesional Grado Superior – Informática, será valorado. 
+A nivel competencial buscamos a una persona con motivación por lo que realiza y acostumbrada a trabajar por proyectos, proactividad, autonomía, mostrando una alta capacidad de aprendizaje, atención al detalle y pasión por las nuevas tecnologías. 
+Funciones: 
+-Análisis funcional de cada proyecto a desarrollar.
+-Programación de sitios web con php.
+-Análisis de base de datos relacionales (mysql)
+-Control de proyectos asignados conforme hitos y fases de entrega.
+¿QUE OFRECEMOS?  
+Te ofrecemos que formes parte de una empresa dinámica y abierta donde el mayor valor está en los empleados. Nosotros nos encargaremos de hacer que te sientas cómodo, que trabajes y que aprendas y te ofrecemos un plan formativo para que te formes y desarrolles tu carrera profesional en aquellas áreas que más te gusten.
+Flexibilidad horaria, no tenemos ningún problema en que cada empleado ajuste su horario a sus necesidades ya que trabajamos por proyectos, siendo posible realizar teletrabajo.
+Plan retributivo flexible a la carta según necesidades (parking, gym, ticket restaurant, ticket guardería, abono transporte…)
+

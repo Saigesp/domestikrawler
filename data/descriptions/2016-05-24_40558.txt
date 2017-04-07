@@ -1,0 +1,26 @@
+
+Responsable de implementar y gestionar los procesos de tráfico de las campañas. Este puesto será responsable de la supervisión del aspecto técnico de una campaña, de su correcta activación, cumplimiento e informes. 
+Este puesto también requiere la interacción diaria con los comerciales, gestores de cuentas y técnicos para asegurar la correcta implementación y funcionamiento de las campañas.
+Responsabilidades:
+Programar y poner en marcha campañas de publicidad interactiva en forma oportuna y precisa mediante el sistema de publicación de anuncios (Smart adServer, DFP etc.)
+Revisar todas las creatividades recibidas para el cumplimiento de las especificaciones técnicas y restricciones de contenido.
+Trabajar directamente con los clientes / agencias  para la recepción de los materiales y solucionar problemas técnicos para la correcta implementación de las campañas.
+Monitorizar y analizar el rendimiento de la campaña para garantizar la satisfacción del cliente y proporcionar sugerencias para la optimización de la pantalla y las campañas de anuncios.
+Investigar proactivamente (discrepancias entrega, problemas técnicos, etc.) con los clientes, agencias, plataformas de terceros, y/o las partes internas y ofrecer soluciones a estos problemas.
+Trabajar en estrecha colaboración con los ejecutivos de cuenta asignados y Operaciones del anunciante, comunicar cualquier/todos los cambios en las campañas, cuestiones técnicas, retrasos de lanzamiento, desactivaciones, problemas de entrega, sugerencias de optimización, etc. para pantalla y campañas de anuncios programáticos.
+Definir e implementar los criterios de etiquetado dentro de los site y secciones.
+Perfil requerido
+Requisitos:
+Experiencia en Publicidad Operaciones / Tráfico en una empresa de Internet es necesario, muy preferido experiencia del lado del editor.
+Conocimiento práctico del HTML necesario.
+Conocimiento práctico del Flash, CSS y JavaScript preferible.
+Fluidez con las herramientas de terceros, proveedores de medios (Sizmek, Flashtalking, Pointroll, etc.).
+Experiencia de trabajo con plataformas programáticas y video on-line (Google AdX, Rubicon, App Nexus, etc.) preferido.
+Se valorara:
+Experiencia de trabajo con un DMP 
+Habilidades de Microsoft Excel e Inglés avanzado 
+Capacidad para trabajar de forma independiente con poca supervisión, la resolución de problemas y la capacidad de análisis y el ingenio.
+Debe demostrar actitud de servicio al cliente con los dos contactos internos y externos; flexible y paciente, cortés y profesional.
+Capacidad de priorizar las responsabilidades; gestión del tiempo excelente.
+Capacidad de adaptarse y funcionar eficazmente en ambiente de equipo de ritmo rápido, en constante evolución
+

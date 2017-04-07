@@ -1,0 +1,27 @@
+
+Join trivago in Germany and ride the wave of success with us. On our website, travellers compare prices of over 700,000 hotels worldwide from more than 200 booking sites. Over 45 million users visit trivago every month as an independent source of information to find their ideal hotel.
+Do you want to help us deliver requests in less than 50ms? Are you constantly seeking new challenges? Then we are the right company for you! Help shape the technical future of the world’s largest online hotel search. Work with top-notch technologies in a company that promises a unique work environment and fantastic career perspectives. Enjoy the freedom to question the status quo, to broaden your horizon and to develop new things!
+Your tasks:
+•	You are responsible for the development of our high traffic web applications (e.g. price comparison, community or B2B applications).
+•	You demonstrate excellent technical skills while creating and implementing new website features.
+•	You set up efficient and high performing database queries in MySQL.
+•	You breathe new life into our front-end development utilizing event based and asynchronous JavaScript.
+•	You keep an eye on new technologies to ensure trivago stays a trend setter and not a trend follower.
+Your profile:
+•	You hold an academic degree in the field of IT or have completed a comparable apprenticeship successfully.
+•	You know PHP like the back of your hand and you are an experienced user of JavaScript.
+•	Dependency injection sounds familiar to you.
+•	You’re experienced in software engineering, ideally in a high performance environment.
+•	You’re comfortable speaking English. Basic understanding of German would be a plus.
+•	You love technical challenges and have a hunger to learn new things.
+•	You’re results-oriented and have excellent organizational skills.
+What we offer:
+•	A permanent contract and competitive salary.
+•	A free choice of computer and equipment.
+•	A pleasant working environment within a dynamic and international team.
+•	Independent work in an innovative, rapidly growing company.
+•	Fast personal development and a steep learning curve.
+•	Flat hierarchies and short decision paths.
+•	Cross-functional opportunities in project and teamwork.
+•	Regular team events, a wide range of sport activities, a fridge full of beer and non-alcoholic beverages as well as fresh fruit every day.
+Apply online through our webpage. 

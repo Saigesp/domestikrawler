@@ -1,0 +1,17 @@
+
+Bluecell.co necesita un desarrollador front end con conocimientos en:
+- Html5
+- Javascript 
+- Nodejs 
+- Git
+- jquery 
+- Ajax
+- preferiblemente uso de preprocesadores CSS
+- Conocimientos básicos de PHP.
+Buen ambiente, capacidad de progresar, y unirse a un equipo de 7 desarrolladores (3 front y 4 back) integrado en una estructura de 50 perfiles digitales. 
+Experiencia mínima de 2 años demostrable.
+Requisitos deseables: experiencia o conocimiento de los siguientes ámbitos:
+- Interoperabilidad/Integración: Mensajería, Websockets.
+- Frameworks Javascript: Flight, Angular2.
+- Herramientas IC JS: Webpack, npm
+- Otras tecnologías / herramientas: docker, mongoDB.

@@ -1,0 +1,5 @@
+
+Se busca persona que sepa realizar un código Javascript y lo necesario para lanzar un "Pop-under" publicitario.
+Debe funcionar siempre como "Pop-under" en todos los navegadores.
+Se pedirá presupuesto y se acordará un precio por el trabajo. Se pagará un adelanto y el total al finalizar.
+Gracias y un saludo.

@@ -1,0 +1,22 @@
+
+Buscamos Diseñador Gráfico - Maquetador/programador web con un nivel alto de Wordpress, que controle de PHP, JavaScript (jQuery), HTML5 y CSS3, diseño responsive y con cierta sensibilidad en diseño.
+Buscamos un diseñador gráfico que sepa programar para que pueda realizar tanto proyectos de branding, diseño gráfico, publicidad como diseño y programación de website de diseño a medida con integración de Wordpress como gestor de contenidos.
+A nivel de diseño se valorará el book de trabajos realizados.
+A nivel de programación se requiere:
+El/la candidata/a ideal debe poseer conocimientos en: 
+- CSS3 
+- HTML5 
+- IQuery 
+- WordPress 
+- PHP 
+- Responsive Web Design (RWD) 
+- MySQL
+En cuanto a experiencia, valoraremos: 
+- Amplia expreiencia en diseño gráfico demostrable mediante book de trabajos realizados. 
+- Creación de themes para WordPress 
+- HTML: Código limpio y semántico 
+- CSS3 
+- Responsive Web Design 
+- Diseño web: Buscamos una persona que sepa hacer buenos acabados, actualizado y con conocimientos de diseño. 
+- Programación en PHP/mySQL: al menos debes saber hacer lo fundamental para trabajar. Mucho mejor si eres experto/a.
+Es necesario residencia en Granada dado que el puesto es presencial y experiencia demostrable en desarrollo.

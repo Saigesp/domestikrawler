@@ -1,0 +1,22 @@
+
+¿Te gustaría que tus desarrollos los utilicen millones de personas en más de 90 países? ¿Quieres trabajar en proyectos muy avanzados tecnológicamente, y con partners como Apple, Google, Samsung, Microsoft, LG, Amazon y otros? ¿Te gustaría formar parte del equipo de desarrollo de una pequeña multinacional española y, encima, disfrutar de la enorme calidad de vida de una ciudad como Logroño? Entonces sigue leyendo... :)
+En Red Karaoke buscamos a un/a developer de apps móviles especializado en Android, con sede en Logroño. Estamos pensando en alguien con una experiencia de 1-2 años (como mínimo, si es más mejor) en desarrollo de aplicaciones nativas para Android.
+Necesitamos que tengas conocimientos y dominio de: 
+- Android SDK 
+- Android Studio
+- GIT 
+- Proguard obfuscation
+- MVC 
+- Dominio de inglés
+Aunque, por pedir… también agradeceríamos que nos hicieses saber si además tienes alguna noción de:
+- Programación de aplicaciones iOS.
+- Programación de aplicaciones para SmartTV.
+- Experiencia de desarrollo en C#.
+- Programación web (PHP, Javascript, HTML5, CSS, etc)
+- Conocimientos en procesamiento de audio y video.
+- Nociones de diseño gráfico.
+Si aceptas el reto, formarás parte de una startup digital con una marca consolidada y de reconocido prestigio, con un gran crecimiento, y con un marcado carácter internacional (sólo el 10% de nuestros clientes viven en España).
+
+Nos lo pasamos bien y nos gusta venir a la oficina, así que el puesto requiere vivir en Logroño. Eso si, trabajarás junto a un equipo con una amplia experiencia en el sector digital.
+
+Si te gustan los retos, estás cómodo/a en un entorno flexible y creativo, y te gusta trabajar en mercados internacionales desde una ciudad tan agradable como Logroño, éste puesto puede ser para ti. ¡Te esperamos!

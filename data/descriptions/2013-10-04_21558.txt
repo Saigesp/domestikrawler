@@ -1,0 +1,33 @@
+
+¿No sería genial trabajar en una startup de base tecnológica, con un ambiente genial en una oficina tipo Loft, junto a un perro labrador llamado Dante y el respaldo tanto de The Founder Institute como de ángeles inversores? dogaboo es una startup de Madrid y estamos trabajando para solucionar el problema que tienen los dueños de perros a la hora de encontrar quién cuide de sus mascotas cuando ellos no pueden. 
+Antes de seguir leyendo la oferta… al menos deberían gustarte los perros…
+Buscamos:
+Cracks del Back y del Front que nos ayuden a crear la plataforma más alucinante para servicios a mascotas que jamás ha existido. Este puesto reportará directamente al CEO y fundador.
+Serán responsables, nada más y nada menos que, de toda la sección tecnológica de nuestra startup y heredarán la versión Beta inicial de dogaboo, desarrollada bajo tecnologías como Ruby On Rails, RSpec, HTML5, CSS3, JavaScript (jQuery, Backbone), Heroku, GitHub, Amazon S3/CloudFront, entre otras.
+Ofrecemos:
+• Salario competitivo (€+%) 
+• Jornada completa de 9:30 a 18:30. Los viernes salimos a las 15:00.
+• Jornada laboral intensiva en julio y agosto.
+Requerimos:
+• Supervisar el desarrollo y la implementación de la web y aplicaciones móviles
+• Compartir, comprender y transmitir nuestra visión a todos los productos y servicios que desarrollemos
+• Coordinar equipos de desarrollo y proveedores de tecnología
+• Jugar un papel clave con nuestros equipos de Marketing y Calidad
+• Aprendizaje continuo para incorporarlo al desarrollo de producto
+• Saber priorizar, desarrollar y modificar funcionalidades basadas en la opinión de los clientes y del mercado
+• … y muchas cosas más, somos una startup!
+Deseamos:
+• Experiencia en desarrollo de productos Web de los cuales estés muy orgulloso, y preferiblemente desarrollados bajo un entorno emprendedor.
+• Experiencia en la implementación y análisis de pruebas A/ B.
+• Desarrollo de aplicaciones móviles es un plus.
+• Espíritu emprendedor – querer entrar desde el nacimiento de una futura gran compañía con el respaldo una entidad como The Founder Institute y de ángeles inversores.
+• Pasión por las tecnologías web, la usabilidad y técnicas de desarrollos ágiles como SCRUM, TDD, XP, etc.
+• Adaptabilidad y flexibilidad para trabajar en un entorno emprendedor.
+• Liderazgo para gestionar un equipo más grande según vayamos creciendo.
+• Bueno… y al menos deberían gustarte los perros!!
+Experiencia: + de 3/4 años
+Idiomas: español, inglés
+Condiciones:
+•	Sueldo a convenir en función de la experiencia y valía.
+•	Jornada completa empezando ASAP.
+•	Ofrecemos un entorno dinámico y creativo en una startup en crecimiento, a la par que excelentes posibilidades de aprendizaje.

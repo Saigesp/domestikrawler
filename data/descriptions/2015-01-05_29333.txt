@@ -1,0 +1,23 @@
+
+Responsibilities
+- Develop new and maintain existing features for website and (iOS and Android) Back Office.
+- Build technology to support internal operations which includes marketing and customer service.
+- Pair with senior developers.
+Skills & Requirements
+Technical Requirements
+- Knowledge of Ruby on Rails technology
+- Good knowledge of JavaScript, HTML and CSS
+- Some experience architecting and building web applications.
+- Knowledge of testing methodologies including unit, feature and performance and can maintain a continuous integration process.
+- Understands technical debt and how to make tradeoffs with it.
+- Works with existing code bases and gradually refactors them over time to make them better.
+- Ability to work using Scrum based development processes.
+- PLUS: iOS programming
+- PLUS: Android programming
+- PLUS: UX Design experience
+Qualifications
+- Energy. You really want to work with us to build a company that supports our mission.
+- If possible 1 years’ experience developing in Ruby on Rails.
+- Undergraduate engineering or computer science degree.
+- Strong written and verbal communication skills.
+- Ability to self-manage.

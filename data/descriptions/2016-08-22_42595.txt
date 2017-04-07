@@ -1,0 +1,9 @@
+
+The IT and Data System administrator provides technical leadership to Life Length’s IT system design, security, strategies and maintenance, improving and consolidating operational and scientific advancement. This person is responsible for significant management and technical duties and must execute the work under his/her own initiative with minimal supervision. In addition, the work involves software development -supervised by Life Length´s IT and Data Manager, and data support to the rest of the laboratory and the commercial staff as required. Other duties include but are not limited to:
+•	Maintaining the organization's effectiveness and efficiency by defining, delivering and supporting strategic plans for implementing system information technologies.
+•	Provide on-going consultation and related technical assistance.
+•	Preservation of assets by implementing disaster recovery and back-up procedures as well as information security and control of structures –including server management.
+•	Pro-active feedback and recommendations on information technology system strategies, policies, and procedures by evaluating organization outcomes; identifying problems; analyzing trends and anticipating requirements.
+•	Design and maintenance of the company IT system structure.
+•	Network security management.
+•	As a secondary task the IT system administrator is also expected to design, develop, backup, integrate and test software.

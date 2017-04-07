@@ -1,0 +1,32 @@
+
+Desde la empresa internacional ITRS, recientemente instalada en Málaga, precisamos una persona con alta experiencia en Drupal y frontend para colaboraciones como freelance en la optimizacion de la página ITRS y la posible contratación para la creacion de las nuevas websites correspondientes a los nuevos procesos de software  y nueva tecnologia (Real Time & monitoring Data) que se están creando tanto para el sector de Banca como para otro tipos de sectores.
+Desde ITRS precisamos a personas con amplia experiencia en gestión de páginas web para grandes clientes y capacidad creativa e iniciativa alta, alguno de los requisitos son:
+Functions		
+He/she will program websites of ITRS, optimization and maintenance of websites.
+Work will include front-end design work, implementation on Drupal and customization of existing Drupal modules.
+Creation and development of the new websites of the company in collaboration with Marketing.
+
+Requirements
+
+ Minimum:
+ .- Advanced experience with the Drupal 7 content management system
+.- Ability to create or customize Drupal modules in PHP
+.- HTML5 and CSS3
+.- JavaScript (jQuery)
+.- PHP programming
+.- Graphic design experience using Adobe Creative Cloud tools (Illustrator, Photoshop, InDesign, etc)
+.- Responsive web design
+.- Experience configuring and customizing other Content Management Systems
+.- High level of English
+Desired:
+ .- Experienced in asynchronous programming with NodeJS
+.- Video editing experience
+.- SEO and web marketing skills
+.- Fluency in additional languages
+Skill:
+Graphic desing – Adobe creative Cloud tools	 	 
+ Drupal 7 / HTML5 / CSS3	 	 	
+Content Management Systems	 	 	
+JavaScripts (jQquery, etc)			
+Marketing skill		
+El salario será competitivo y valorado de forma individual dependiendo de la experiencia aportada. Posibilidad de colaborar en proyecto de investigación a nivel internacional centrado en Big Data y Real Time. Posibilidad de trabajo en remoto

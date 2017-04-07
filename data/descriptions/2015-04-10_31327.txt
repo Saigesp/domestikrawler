@@ -1,0 +1,21 @@
+
+Hola chic@s,
+Soy Gina, fundadora de Talentians (la primera red colaborativa para captar talento que ofrece compensaciones económicas a cambio de buenas recomendaciones)
+Estamos creando nuestro “Dream Team”, y queremos que esté formado por “jugadores” que sean ágiles, creativos, espabilados,  que aporten ideas frescas, con actitud proactiva y emprendedora. 
+En este caso necesitamos a una persona que sea nuestra referencia tecnólogica en el proyecto, diseñando y desarrollando nuevas funcionalidades así como manteniendo y supervisando la plataforma ya desarrollada. Aquí tenéis más detalles: 
+Tareas:
+•	Diseño, desarrollo y mantenimiento proyecto web. 
+•	Creación de nuevas funcionalidades sobre plataforma existente.
+•	Participación en las fases iniciales de análisis y evaluación de soluciones para nuevos proyectos.
+•	Implementación de herramientas web para la mejora de procesos.
+•	Desarrollos de integraciones con terceros.
+Requisitos: 
+•	Experiencia y familiaridad en desarrollar con PHP y MySQL
+•	Conocimiento general de entorno Web.
+•	Conocimiento general de HTML + CSS.
+•	Capacidad y predisposición para aprender entornos de Model - View - Controller.
+•	Nivel alto de inglés.
+Por nuestra parte deciros que somos una startup del sector digital, con gran potencial de crecimiento, con todo lo bueno y lo menos bueno que esto conlleva. Habrá nuevos retos cada día, probaremos diferentes métodos para llegar al mercado, quizás cambios de rumbo, tendremos que hacer tareas distintas, salirnos del camino para volver a él... aquí nada está escrito, la historia de Talentians la escribiremos entre todos. Y, con este equipo, queremos jugar en la Champions! ;) 
+Las condiciones salariales las hablaremos en la entrevista, ya que creo que cada persona necesita una oferta específica y concreta, no todos somos iguales… 
+Por cierto, nuestras oficinas están en Barcelona, a 10 minutos andando del mar y rodeados de otras empresas tecnológicas como la nuestra
+

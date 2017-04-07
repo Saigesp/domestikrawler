@@ -1,0 +1,6 @@
+
+Nuestro cliente es un Start-up que ha desarrollado una plataforma social, es un proyecto muy ambicioso respaldado por grandes marcas. Necesitan incorporar un/a Arquitecto/a PHP
+Requisitos:
+- Ciclo Formativo grado Superior en Informática o Ingeniería técnica
+- Mínimo 3 años de experiencia en Arquitecturas LAMP
+- Experiencia en proyectos de comercio electrónico

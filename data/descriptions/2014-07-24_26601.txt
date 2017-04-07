@@ -1,0 +1,20 @@
+
+Buscamos alguien con iniciativa y pasión por el desarrollo web. Hacemos mucha fuerza en el diseño, sin usar plantillas. Esto nos ha permitido destacar por nuestros diseños, lo que nos obliga a ser muy buenos desarrolladores de JavaScript y CSS.
+No buscamos sólo un desarrollador capaz de implementar las funcionalidades que se le pidan, sino alguien que quiera formar equipo. Disfrutamos aprendiendo cada día, no tenemos límites al probar cosas nuevas.
+Necesarios conocimientos de PHP entre medio-alto y avanzado para hacer nuestras plantillas de Wordpress y Prestashop. Se valorará muy positivamente la experiencia previa de trabajo directo con clientes.
+Buscamos un candidato que sea extrovertido, con ganas de crecer, que le gusten los retos y disfrute con su trabajo. 
+Requisitos mínimos:
+- FP2, Lic. Física o Ingeniero técnico o superior
+- Experiencia como developer
+- Conocimiento de lenguajes de PHP, jQuery, AJAX y CSS3
+- Amor por los detalles de maquetación en CSS y JS
+- Conocimientos de MySQL
+- Capacidad de síntesis y análisis
+- Experiencia de consultoría y/o relación directa con cliente final
+- Trabajo en equipo e iniciativa
+- Inglés técnico
+Requisitos deseados:
+- Conocimientos avanzados de Wordpress y Prestashop
+- Conocimientos de Javascript (AngularJS, EmberJS, NodeJS, etc)
+- Experiencia en metodologías de desarrollo ágil (SCRUM o TOC) 
+Es imprescindible trabajar en nuestras oficinas (Madrid).

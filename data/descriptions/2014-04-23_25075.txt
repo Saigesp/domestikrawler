@@ -1,0 +1,5 @@
+
+Hola, busco freelance que pueda resolver la siguiente interface:
+Una geósfera/bola del mundo con propiedades de rotación que permita hacer clic sobre diferentes países para visualizar pequeñas fichas de información con texto, imagen y vídeo.
+No importa con qué está hecho sino que sea compatible en diferentes dispositivos.
+Por favor envía referencias, timing y coste aproximado.

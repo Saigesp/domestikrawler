@@ -1,0 +1,23 @@
+
+Somos Zama, una agencia creativa digital en el centro de Madrid. Nacimos hace 3 años y estamos en constante crecimiento. Buscamos nuevas incorporaciones a nuestro equipo, a ser posible de carácter cercano, responsable y proactivo.
+Impartimos cursos de formación en gestores de contenidos (Wordpress) por lo que prácticamente todos nuestros proyectos web se desarrollan bajo esta plataforma.
+¿Qué necesitamos de ti?
+Experiencia mínima de 2 años en puesto similar.
+Experto en maquetación web basada en CMS (Wordpress).  
+Maquetación a medida 100% responsive/adaptativa. 
+ Nivel de maquetación Pixel Perfect.  
+HTML 5  
+CSS 3  
+Javascript (principalmente jQuery)  
+Comprender y saber trabajar con código PHP (querys, foreach, loops).  
+Código limpio, semántico y siguiendo los estándares marcados por el W3C.  
+¿Qué valoramos positivamente?
+Buen manejo de Photoshop.
+Experiencia con woocommerce. 
+Experiencia en diseño web y usabilidad.
+Habilidades de optimización SEO.
+Automatizadores de tareas y experiencia en optimización de rendimiento.  
+Preprocesadores Less/Sass  Bootstrap.
+¿Cuál es nuestro horario de trabajo?
+L-J de 9.00 - 14.00 h. y de 16.00 a 19.00 h.
+V de 8.00 - 15.00 h.

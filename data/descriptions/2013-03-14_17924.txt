@@ -1,0 +1,25 @@
+
+Empresa internacional de e-commerce busca un desarrollador freelance en Barcelona para trabajar en un proyecto de desarrollo web móviles desde nuestras oficinas por la duración de 4 meses (es imprescindible trabajar onsite).
+El/la programador/a deberá realizar la implementación de una web optimizada para móviles basados en requerimientos bien definidos. El desarrollo consiste en crear plantillas html con un lenguaje propietario, crear una API de javascript basada en jquery y maquetaccion de un layout adaptive.
+
+El proyecto se desarrolla sobre una plataforma Linux con servidor de aplicaciones Apache Tomcat con aquitectura Java J2EE base de datos  Oracle y el entorno de desarrollo basado en  Eclipse. 
+Experiencia mínima: 3 años en desarrollo frontend. 1 proyecto demostrable en entorno móvil.
+
+Requisitos:
+- Alto nivel de javascript y desarrollo de aplicaciones web dinamicas 
+- Sólidos conocimientos en html/css optimizados para móvil
+- Avanzados conocimientos de AJAX , jquery y jquery mobile
+- Conocimientos de plataformas cms/ecommerce
+- Experiencia con SVN y eclipse
+- Experiencia usando Jira
+- Acostumbrado/a a trabajar en equipo
+- Ingles hablado y escrito
+
+También se valorará  experiencia en:
+- Frameworks JAVA J2EE
+- JSP y JSF y  otros sistemas de plantillas.
+- MVC Struts o Spring MVC
+- BBDD Oracle
+- Conocimentos de WebServices  y RESTful services
+
+El puesto requerirá de un acuerdo de colaboración cuyos términos están sujetos a un acuerdo con la empresa.

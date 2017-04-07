@@ -1,0 +1,6 @@
+
+Empresa de comercio electrónico de material deportivo en Zaragoza busca un diseñador frontend con amplios conocimientos de HTML+CSS+Javascript para encargarse del diseño y maquetación de nuestros portales web.
+Buscamos a alguien que sea capaz de realizar un diseño atractivo, pero sobre todo que sea capaz de trasladar eso a la web de forma responsiva para su perfecta visualización en cualquier dispositivo. Deberá cumplir estándares de código, estar al día en tecnologias móviles, estar concienciado con la usabilidad web etc. Además, será el encargado de diseñar nuestras páginas de lanzamiento de campañas, y nuestros boletines.
+Además de HTML, CSS y Javascript (jQuery), nos vendría bien que el candidato tuviera nociones de PHP para facilitar la publicación de sus diseños en colaboración con nuestro equipo de desarrollo. Se valorarán conocimientos en desarrollo de aplicaciones móviles, aunque no es imprescindible.
+Estamos ubicados en el polígono Plaza, por lo que se valora que el candidato disponga de carnet de conducir.
+

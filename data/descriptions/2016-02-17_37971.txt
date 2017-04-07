@@ -1,0 +1,29 @@
+
+Description
+Desarrollador Java para unirse a un grupo de investigación y desarrollo. Estaría trabajando en el desarrollo de la nueva generación de sistemas de gestión de traducción basada en Web para compañía de primer nivel.
+Responsibilities
+	•	Ayudar a mantener y refactorizar componentes de back-end de Java expuestos a través de aplicaciones web existentes.
+	•	Diseño y desarrollo de nuevos componentes de back-end.
+	•	La documentación de todos los nuevos módulos y componentes desarrollados.
+Requirements
+	•	Computer Science or Software Engineering Degree/Diploma.
+	•	5+ years of experience as a software developer.
+	•	Superior coding and design skills.
+	•	A passion for innovation and creating cutting edge applications.
+	•	Experience designing and developing service oriented applications using Java Enterprise.
+	•	Expert knowledge of Java programming language.
+	•	Experience with Hibernate and/or other JPA implementations.
+	•	Good database design and implementation skills.
+	•	Experience with Java Frameworks such as Spring.
+	•	Working knowledge of MSSQL 2005-2012 databases.
+	•	Solid object oriented programming background.
+	•	A solid understanding of the software development process and best practices in an agile environment.
+	•	Ability to learn quickly and adapt fast to new environments and development frameworks.
+	•	Ability to assimilate and refactor legacy code.
+	•	Excellent written and oral communication.
+	•	Experience with Eclipse.
+The following would be an asset:
+	•	Experience with Java Server Pages (JSP).
+	•	Experience as a Web developer.
+	•	Experience in JavaScript.
+	•	Experience with REST APIs

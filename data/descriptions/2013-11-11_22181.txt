@@ -1,0 +1,29 @@
+
+At Wonnova Gamification we are looking for a senior PHP ninja developer. 
+We need you, and we expect you to help us grow as your input will be crucial for our product. We can guarantee you will get some tough challenges, pride of what you do and great people to work with.
+We are looking for someone who:
+•	•	has a very good knowledge of PHP5 and OOP,
+•	has good knowledge of JSON and RESTful APIs 
+•	has a very good knowledge SQL and MySQL,
+•	has good knowledge of one or more PHP frameworks,
+•	is experienced with design patterns and unit testing,
+•	has wide experience in developing high availability web applications with at least 5 years of experience ,
+•	has analytical thinking skills and likes clean code,
+•	has fluency in English and/or Spanish,
+•	is a team player, interested in Gamification, open-minded, passionate and reliable.
+Bonus points if you have notions of:
+•	Agile/Scrum
+•	Javascript (AJAX, jQuery) /HTML /CSS
+•	Git
+•	JIRA
+•	Doctrine
+What we offer:
+•	Constant professional and personal development,
+•	A fast-paced, challenging and continuous learning environment,
+•	A dynamic company culture with innovation at its core,
+•	Flexible schedules and telecommuting ,
+•	Attractive package 
+Location:
+•	Zaragoza (Spain) preferred
+•	Anywhere else
+If you are still reading this you might be the one! Apply now!

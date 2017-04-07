@@ -1,0 +1,11 @@
+
+Somos una consultora dedicada al desarrollo web y las nuevas tecnologías. Contamos con más de 300 profesionales, con sede en Madrid, Alicante y MéxicoDF. Ofrecemos soluciones para importantes clientes del sector banca, seguros y energía. 
+Buscamos, para un importante cliente del sector seguros, un Maquetador Senior, para realizar labores de maquetación y supervisión del área de maquetación. 
+Requisitos mínimos:
+- Experiencia en maquetación
+- Alto nivel en HTML5, CSS3, RWD
+- Altos conocimientos de JavaScript (jQuery) 
+- Conocimientos de accesibilidad.
+- Experiencia en gestión y supervisión de tareas de maquetación.
+- Interlocución con el cliente. 
+- Experiencia mínima de 3-5 años en maquetación. 

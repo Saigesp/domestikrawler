@@ -1,0 +1,25 @@
+
+Buscamos 2 perfiles Senior Front-end Developer para incorporarse a un grupo de trabajo joven, dinámico y altamente cualificado. El candidato seleccionado deberá ser apasionado por las nuevas tecnologías web, la experiencia de usuario, las apps y la innovación.
+Formación:
+Diplomado en Ingeniería Técnica en Informática o Telecomunicaciones
+Perfil de Programador Senior o Analista Programador con  2 años en funciones de desarrollo.
+Requisitos mínimos:
+• Experiencia en desarrollo Java (4 o superior) 
+• Experiencia en frameworks de desarrollo (Struts, Spring o similares) 
+• Conocimiento en Javascript
+• Conocimiento en JQuery / Bootstrap
+• Experiencia en Base de Datos Oracle
+• Experiencia en integración Webservice y  desarrollo de clientes con WSDL
+• Experiencia SSL, LDAP, Eclipse, SVN, Maven 
+• Conocimiento y/o experiencia en Portlets y Liferay
+• Nivel alto en Aplicaciones Javascript basada en POO. 
+• Experiencia en desarrollo de aplicaciones web REST complejas en Javascript 
+• Habilidad para desarrollar código reusable en aplicaciones de alto rendimiento. 
+• Experiencia con sistemas de templates. 
+• Experiencia en Aplicaciones a tiempo real. 
+• Experiencia en desarrollos TDD y/o BDD en JS.
+Se valorará: 
+• Persona pro activa, dinámica y con ganas de crecer. 
+• Capacidad de aportar nuevas ideas y soluciones. 
+• Estar siempre a la última a nivel tecnológico. 
+

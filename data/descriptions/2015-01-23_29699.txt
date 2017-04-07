@@ -1,0 +1,20 @@
+
+We are looking for a talented developer who is enthusiastic about building clean and elegant solutions to challenging problems in  the rapidly evolving field of BigData.
+Teraki is offering the right opportunity to immerse into this exciting field at the right time: We are tech driven startup enabling disruptive Internet of Things/M2M applications. In order to so we rely on newest Big Data processing and management techniques. We will integrate these solutions in a PaaS product focused on the B2B market and are searching for an experienced software developer to take over a leading role in its development. He/she should be acquainted with current software engineering tools to manage the software development process in a team of data scientists and further software programmers.
+As a Developer at Teraki, you will:
+- Develop the backend of the platform product based on Java/C/C++ and built on top of NoSQL databases
+- Further develop the frontend of the platform based on Java/Javascript
+- Join on-site software development projects at companies positioned in the European market
+Requirements:
+- Knowledge of Java, C/C++, Python
+- Knowledge in NoSQL databases, in particular Cassandra/OpenTSDB
+- Team player but able to implement solutions on his/her own
+Assets:
+- Experience in Time Series visualization tools (e.g. Grafana)
+- Experience in Embedded Linux, Microcontroller programming
+- Experience in Apache Spark/Storm.
+About Us
+Teraki is a strongly growing startup aiming to become the standard solution for IoT/M2M data acquisition and processing. We are a startup with a Tech heart and a business mindset relying on newest research results. For that we rely on a close collaboration with the Technical University Berlin to provide state of the art Tech solutions. We are a fast growing team based of 2 experienced researchers and with an experienced B2B about to join the team. We count with the core support of two established startup accelerator programs: Exist Gründungsstipendium (Germany) and Startupbootcamp (Internet of Things and Data) in Barcelona. Our main office is situated in Berlin but until April 2015 we are located in Barcelona.
+Location/Start
+Start: february
+Location: Barcelona until 10th of april. For Full-Time position a relocation to Berlin is necessary.

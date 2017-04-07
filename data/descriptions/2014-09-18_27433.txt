@@ -1,0 +1,16 @@
+
+Somos una compañía de desarrollo de software especializada en el sector de la alimentación. En proceso de expansión, queremos convertirnos en el líder del mercado B2B.
+Necesitamos un maquetador Web/móvil que se desenvuelva con mucha soltura en la maquetación y desarrollo Front-end.  
+El candidato o candidata seleccionad@ será capaz de trasladar diseños de papel a pantalla y, ocasionalmente, apoyar al equipo de diseño. Deberá contar con una excelente capacidad de comunicación, disposición a mantenerse actualizado con las tendencias técnicas, de diseño y UI/UX actuales y mostrar una gran capacidad para trabajar conjuntamente con el resto del equipo. 
+Requisitos: 
+ - Estudios universitarios o FP en artes gráficas y experiencia demostrable. 
+ - Experto en el manejo de Adobe Photoshop, Adobe Illustrator (Adobe Suite) u otros programas de edición gráfica. 
+ - Experto en desarrollo front-end en HTML5, CSS3, LESS y JavaScript.  (opcional SASS  )
+ -  Experiencia en diseño adaptativo (responsive design) y creación de versiones web para móviles. 
+ -  Buen conocimiento y apreciación de la importancia de UI/UX
+ -  Capacidad para trabajar conjuntamente con nuestros desarrolladores para asistir y coordinar el proyecto de implementación de tus diseños. 
+ - Conocimientos y experiencia en diseño gráfico avanzados, apreciación del valor de la marca, estética y usabilidad.
+Valorable: 
+-  Conocimientos de herramientas de Integración Continua para desarrollo. (Subversion y Maven.)
+- Nociones de prototipado y wireframing
+En nuestra empresa valoramos tanto las relaciones humanas como el talento. Si eres un maquetador web brillante, majo, y rápido como las balas,  te estamos esperando. ♥

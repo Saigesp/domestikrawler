@@ -1,0 +1,49 @@
+
+Empresa
+Groupiest es un plataforma de marketing de contenidos para empresas en forma de aplicación web. La aplicación web utiliza tecnologías de Big Data para proporcionar contenido web relevante para empresas.
+Trabajarás con un equipo cualificado pero muy amigable en un entorno startup perfecto para desarrollar tus habilidades. Somos fans de las metodologías ágiles, la formación continua y el rigor utilizando tecnologías punteras.
+Funciones
+Desarrollo de nuevas funcionalidades de la aplicación web especialmente en PHP.
+Estudios mínimos
+- Un ciclo formativo de grado superior de informática:
+· Desarrollo de aplicaciones web.
+· Administración de sistemas informáticos.
+· Desarrollo de aplicaciones multiplataforma.
+· Desarrollo de aplicaciones informáticas.
+- O estudios universitarios de informática:
+· Ingeniería técnica en informática
+· Ingeniería superior en informática
+· Grado de informática
+Experiencia mínima
+Experiencia mínima de 1 año en desarrollo web profesional. Se valorará experiencia en aplicaciones web y equipos de desarrollo.
+Conocimientos mínimos
+- Desarrollo Web
+- PHP orientado a objetos
+- Conocimientos de algún framework MVC
+- HTML5 básico
+- CSS Básico
+- Javascript intermedio
+- Bases de datos
+- MySQL
+- Conocimientos de bases de datos noSQL
+- Sistemas
+- Administración básica de Linux
+- Conocimientos valorables
+- Desarrollo Web
+- AngularJS
+- Bootstrap
+- CSS LESS
+- Bases de datos
+- MongoDB
+- Sistemas
+- Amazon Web Services
+- Puppet
+Idiomas
+- Castellano: Avanzado Imprescindible.
+- Inglés: Nivel de First Certificate.
+- Catalán: valorable.
+Jornada
+- Jornada completa con horario flexible.
+- ¿Tienes un examen? ¿Quieres ir a un curso? Recupera las horas cuando te vaya mejor.
+Sueldo
+13.000 – 18.000 € brutos anuales.

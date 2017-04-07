@@ -1,0 +1,16 @@
+
+El Data Governance reportará al Director de Analítica  y desempeñará las siguientes funciones: 
+•	Definición de la arquitectura global de los datos, así como la definición, organización y supervisión de la integración de los distintos sistemas y fuentes.
+•	Control de permisos y explotación de los datos.
+•	Definición de Datamart y del cuadro de mandos de los KPI.
+•	Definición de planes de actuación de mejora.
+•	Realización de auditorías y procesos de gestión.
+•	Definición, normalización, responsabilidad sobre los datos relevantes y válidos para análisis e identificación de prioridades en cuanto a las operaciones Data.
+PERFIL REQUERIDO
+•	Licenciatura o grado en ingeniería informática o matemáticas. 
+•	Experiencia necesaria con Bases de Datos NoSQL y relacionales y en herramientas de visualización y reporting (QlikView, QlickSense, SAS Va, SAP BO).
+COMPETENCIAS PERSONALES 
+•	Se requiere una persona dinámica, asertiva, con atención al detalle, comprometida y proactiva.
+•	Se precisa capacidad crítica para gestionar la complejidad y flexibilidad de las necesidades de los diferentes negocios.
+•	Se pretende a una persona con autonomía de gestión, resolutiva y con capacidad de liderazgo para el trabajo en equipo.
+

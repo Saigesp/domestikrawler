@@ -1,0 +1,20 @@
+
+Deberá tener experiencia. Imprescindible portfolio. Enviar direcciones de trabajos y una breve descripción de cada uno.
+Las labores que realizará serán básicamente de mantenimiento de las diferentes webs de la empresa y la elaboración de los nuevos proyectos que surjan.
+Tareas que desempeñará:
+-Mantenimiento web: deberá amoldarse, interpretar y saber continuar los proyectos que ya tenemos.
+-PHP, Mysql, phpmyadmin, seguridad, BBDD, implementación en servidores...
+-Creación de CMS desde cero: gestión de contenidos, votaciónes, comentarios, video
+-Html semántico 
+-Css 2.0
+-Asesoramiento para amortizar y llevar a cabo los proyectos de la manera más eficaz posible.
+-Resolución de problemas: capacidad de acción / reacción a la hora de solucionar los posibles problemas que se puedan presentar.
+Se valorará:
+-Conocimientos de diseño
+-Conocimientos de actionscript
+-HTML5 / Css 3.0
+-Estar al día con las últimas tecnologías
+-Elaboración de aplicaciónes moviles (iphone/android...)
+*ABSTENERSE DISEÑADORES Y EMPRESAS 
+Ofrecemos:
+-Un buen ambiente de trabajo

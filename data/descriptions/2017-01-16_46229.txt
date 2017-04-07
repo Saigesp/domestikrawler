@@ -1,0 +1,22 @@
+
+Para proyecto presencial de 1 año (con posibilidad de continuidad) buscamos maquetador web con experiencia y dominio de HTML, CSS.
+* Ofrecemos integración en el equipo web de una gran empresa con un gran ambiente de trabajo. 
+* El lugar de trabajo es en Madrid capital con acceso desde bus y metro. 
+* El horario de trabajo es de 8 horas con horario flexible de entrada y salida. 
+* Incorporación inmediata.
+Perfil maquetador/a web con experiencia en:
+- Maquetación responsive 
+- HTML 5 
+- CSS3 
+- JavaScript (JQuery, Programación modular,...) 
+- Conocimientos de frameworks: Bootstrap
+- Capacidad de diseñar por si solo/a, gusto estético. 
+- Manejo de Adobe Photoshop, Adobe Animate y suite de Adobe en general.
+Se valorará: 
+- SASS 
+- Conocimientos de control de versiones GIT. 
+- GULP 
+Cometido: 
+- Maquetación de landings, microsites y emails 
+- Capacidad de abordar la maquetación desde 0 de proyectos grandes (webs corporativas, portales…)
+- Elaboración de banners (html5 y gif animado)

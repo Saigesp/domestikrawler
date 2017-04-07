@@ -1,0 +1,10 @@
+
+Hola!!
+En WonderBits buscamos freelance o trabajador fulltime para varios proyectos, con tecnologías como C# en ASP.NET MVC, NodeJS, AngularJS, ElasticSearch y Android.
+Si te interesa aprender estas tecnologías o dominas bien alguna de las que nombramos, no dudes en ponerte en contacto con nosotros.
+Horario flexible, posibilidad de trabajar desde casa con reuniones periódicas (en caso de freelance), SCRUM y pair programming, por ello preferimos a alguien de Valencia o alrededores con movilidad.
+El contrato fulltime en un principio lo ofertamos para alguien con el perfil de C# ASP.NET MVC y otro para NodeJS+AngularJS+ElasticSearch.
+No aceptamos proyectos de agencias por lo que nosotros mismos los gestionamos directamente con el cliente, estimamos y corremos con el desarrollo y diseño, no vamos a pedir lo imposible :)
+Condiciones de sueldo negociables, dependiendo de en qué proyectos te involucres, nivel de conocimientos y disponibilidad.
+¡Te esperamos!
+

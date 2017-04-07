@@ -1,0 +1,15 @@
+
+Buscamos un Programandor ABAP, para cubrir una baja maternal, que se responsabilizará de participar en los equipos de proyectos en la ejecución de las tareas asignadas, realizar el diseño técnico del proyecto, parametrizar analizando funcionalmente las soluciones a implementar con la finalidad de garantizar el correcto funcionamiento del producto en base a las políticas y procedimientos establecidos y las directrices del jefe de equipo.
+Funciones
+•	Gestión de Requisitos.
+•	Diseño de la solución.
+•	Implementación de la solución.
+•	Resolución del mantenimiento correctivo.
+•	Gestión de la Calidad Técnica.
+Requisitos
+•	Formación técnica idealmente en informática.
+•	Experiencia de al menos un año en un puesto similar.
+•	Conocimiento de ABAP.
+•	Conocimientos de Web Dynpro ABAP y/o JAVA.
+•	Conocimientos de lenguajes de orientación a objetos.
+

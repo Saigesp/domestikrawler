@@ -1,0 +1,22 @@
+
+Buscamos alguien con mucha iniciativa y pasión por el desarrollo web. 
+No buscamos sólo un desarollador capaz de implementar las funcionalidades que se le pidan, sino que esperamos que, 
+como parte del equipo, vele por la continua y mejora del Proyecto como un fin suyo. 
+Conocimientos y experiencia requeridas: 
+- PHP5, con arquitectura MVC. 
+- Experiencia en Modelado y diseño de Base de Datos MySQL
+- Conocimientos HTML (se valorará HTML5), JavaScript, JQuery y Ajax para el Frontend. 
+- Integración con sistemas terceros. 
+- Webservices. 
+- Rest. 
+- Uso de patrones de diseño / estándares de diseño. 
+- Control de versiones: SVN. 
+- Conocimientos en software de control de proyectos tipo JIRA
+Se valorará conocimientos o experiencia previa en: 
+- Integración con WordPress
+- SmartFox Server / JAVA
+- SEO. 
+- Trabajo / implantación de diseños Web Responsive. 
+- Redmine. 
+- Metodologías ágiles. 
+- Inglés. 

@@ -1,0 +1,9 @@
+
+Hacemos webs, apps móviles, tiendas online, aplicaciones web en general. 
+Buscamos diseñadores con experiencia para trabajar en varios proyectos de distinta duración. Nos gustaría encontrar 4 ó 5 buenos diseñadores con los que colaborar habitualmente, ir ganando fluidez operacional y alineando formas de trabajar.
+Necesitamos gente capaz de conceptualizar ideas y plasmarlas en interfaces visuales a partir de la información disponible y algunos requisitos técnicos.
+Habilidades fundamentales:
+- Comprensión de interfaces web, móviles, táctiles multi-dispositivo.
+- Comprensión experiencia de usuario, diseño de interacción, usabilidad, arquitectura de información.
+- Prototipado.
+Preferimos gente capaz de escribir código: HTML, CSS y SASS. No es imprescindible si eres muy bueno en lo anterior, pero es un gran valor agregado que tendremos en cuenta.

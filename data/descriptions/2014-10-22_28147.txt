@@ -1,0 +1,26 @@
+
+El programador / desarrollador requiere de ímpetu y proactividad para generar una programación ágil, limpia, óptima y robusta.
+Su rol será gestionar el día a día de los proyectos y reportar de forma directa con el CTO. El rol también requiere de gestión de plataforma y servidor.
+El candidato recibirá una formación de 7-10 días para adaptarse a la plataforma y comprender la estructuración del código y el modelo de datos.
+Se busca un perfil con un alto nivel de autonomía y habilidad para trabajar en equipo.
+Debe tener las siguientes habilidades principales
+•	Mínimo de 3 años de experiencia en el ámbito.
+•	Nivel alto en PHP/MySQL
+•	Nivel alto en JavaScript, HTML5, CSS, AJAX.
+•	Experiencia en  Wordpress y Woocomerce
+•	Desarrollo ágil de experiencia.
+•	Gestión de servidores Linux
+•	Recomendado: Experiencia en AWS de Amazon.
+Responsabilidades principales
+•	Gestión de proyectos – día a día – responsabilidad de asegurar que el trabajo va en tiempo y presupuesto. Si siente que esto no está sucediendo, queda bajo su responsabilidad de informar al CTO y a la dirección.
+•	Responsabilidad y reporte al director técnico.
+•	Cumplimiento de fechas de entrega ajustadas.
+•	Trabajo colaborativo con el equipo de diseño para cumplir los requerimientos con soluciones elegantes.
+•	Testeo exhaustivo de las soluciones presentadas antes de ser publicadas.
+Cualidades personales
+• Atención al detalle.
+• Buenas capacidades para el trabajo en equipo.
+• Entusiasmo, adaptabilidad y siempre pensar más allá para conseguir nuestra visión 
+• Organización y eficiencia.
+• Habilidades comunicativas.
+• Confianza y competencia con todo aquel que trabaje como parte del equipo creativo y de programación.

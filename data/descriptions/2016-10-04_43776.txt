@@ -1,0 +1,31 @@
+
+At Nubelo we are seeking a very experienced iOS/Android Developer for one of our most important clients, a Startup.  This professional will be interested in developing new products or functionalities within the mobile app. 
+We are looking for a candidate who likes dealing with new technologies, research new technologies to implement or new ways to make awesome things!
+Qualifications
+•	With experience of at least 3 years to develop Android applications. With knowledge of Android development tools.
+•	Independent and “resources”.
+•	Experience with “backend as a service” REST APIs
+•	Responsible for the quality of results and deadlines.
+•	Perfect command of “programmation object” of different “design patterns” and especially with MVC.
+•	Training computer or the like engineer, and / or superior training cycle.
+•	Desirable experience in agile methodologies.
+•	Experience with GitHub - Fork & Pull request collaboration models
+•	Curious about the latest developments in the mobile arena. Eager to try new frameworks on personal projects.
+•	You write clean and testable code.
+Missions
+You will have the following responsibilities:
+•	You will strive to improve the way we do the things we do, knowing we can always do better.
+•	Work on different projects for different clients. Projects can range from several weeks to several months.
+•	Ensure the development of new projects and the maintenance of existing projects.
+•	Designing Android native applications on phones and tablets, in terms of architecture and code organization and Android SDK.
+•	Challenge the designers on best practices and usability of interfaces in the Google universe.
+•	To estimate the workload.
+•	Meet commitments and deadlines.
+•	Keep abreast of developments in the field of mobility solutions and Google.
+Is offered:
+•	Young, dynamic and multidisciplinary professional environment  and a great opportunity in a high growth sector  
+•	Career development and possibility to face responsibility positions depending on the performance of the company
+•	Competitive salary with incentives and bonus based on objectives
+•	Location: Barcelona
+•	Salary between 30.000 – 45.000€ P/Y
+

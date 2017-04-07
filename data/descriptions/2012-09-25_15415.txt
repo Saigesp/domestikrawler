@@ -1,0 +1,8 @@
+
+Buscamos un programador freelance para modificar una Interfaz Gráfica de Usuario según las necesidades de nuestros clientes.
+La Interfaz Gráfica de Usuario permite la interacción de clínicos para delimitar regiones de interés en imágenes biomédicas. 
+La Interfaz Gráfica de Usuario consiste en una aplicación de escritorio.
+La primera versión de la aplicación se encuentra en QT y permite la interacción con imágenes biomédicas en formato DICOM.
+Disponemos de todos los códigos en QT para la modificación de las aplicaciones y documentación relativa a la aplicación con las librerías necesarias.
+Necesario crear ejecutables del aplicativo para Windows, Linux o macOS.
+

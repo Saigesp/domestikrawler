@@ -1,0 +1,8 @@
+
+Buscamos profesionales front-end, back-end, para desarrollar eCommerce en Magento, Prestashop y WooCommerce.
+Se trata de crear, configurar y adaptar estos CMS a nuestros clientes, necesidades y su imagen corporativa. Especialmente para realizar integraciones con nuestra plataforma Gateway 3D:
+ http://son.es/gateway3d/
+Es imprescindible tener la capacidad suficiente para desarrollar dos plugins:
+uno para Prestashop y otro para WordPress / WooCommerce.
+Todos los detalles de la integración:
+ http://developers.gateway3d.com/Personalise-iT_Integration

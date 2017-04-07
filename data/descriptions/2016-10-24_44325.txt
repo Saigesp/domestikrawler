@@ -1,0 +1,16 @@
+
+¿Te apasionan los retos? ¿Te gusta dar forma a tus ideas? Inhours busca candidatos como tú.
+Somos una Startup en pleno crecimiento, estamos a punto de lanzar nuestra nueva plataforma Meet your Talent donde jóvenes con talento podrán mostrar su potencial, sus competencias y sus ganas de desarrollarse en un mundo virtual que les conectará con las mayores empresas empleadoras del país. ¿Cómo? A través de la gamificación.
+Necesitamos un programador apasionado por el proyecto que dé apoyo a nuestro equipo técnico desarrollando y manteniendo la nueva plataforma y aportando ideas de mejora.
+Funciones:
+- Apoyo en la programación de la nueva plataforma.
+- Solución de incidencias.
+- Actividades de mejora del funcionamiento de la web.
+- Ideación de nuevos sistemas.
+Requisitos:
+- Imprescindible: conocimiento lenguaje Python, Git y SQL
+- Valorable: Conocimiento de DJango y lenguaje de maquetación web: HTML, CSSi, Javascript (otros son valorados).
+- Experiencia previa valorable.
+- No es en absoluto un requisito pero sería interesante aportar conocimiento de desarrollo de apps móviles.
+- Necesario convenio de prácticas con la universidad o centro de estudios.
+Se ofrece: Formar parte de la familia Inhours, un equipo dinámico, multidisciplinar, diferente, divertido, profesional y donde reina el trabajo en equipo.

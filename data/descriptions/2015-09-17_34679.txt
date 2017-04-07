@@ -1,0 +1,19 @@
+
+Estamos buscando un diseñador/maquetador para WEB y Mobile con elevado grado de iniciativa y creatividad. 
+Tareas:
+- Diseño y maquetación en HTML de landing pages y sitios web
+- Creación de piezas display (banners) y email marketing
+- Apoyo en el diseño de material corporativo (flyers, logos, stands, ...)
+Requisitos: 
+- Experiencia demostrable en el desarrollo de landing pages
+- Conocimientos avanzados de usabilidad y diseño de la interacción 
+- Orientado a resultados 
+- Autonomía 
+- Manejo de Adobe CS6 / CC (principalmente Ilustrator, Photoshop y Fireworks)
+- Dominio de HTML, CSS y JS 
+- Conocimiento básico de PHP.
+Se valorará: 
+- Inglés
+- Experiencia previa en markting digital
+- Conocimiento de desarrollo con librerías y frameworks basados en JavaScript (Bootstrap, jQuery, AngularJS, etc.)
+No se tendrán en cuenta candidaturas que no cumplan los requisitos ni de trabajo en remoto.

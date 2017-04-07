@@ -1,0 +1,11 @@
+
+Web Financial Group, el proveedor independiente líder en tecnología de servicios y soluciones financieras.
+Webfg, que tiene con oficinas en Madrid, Londres, Milán, Munich, Paris, Nueva York y Bombay, ha ido consolidando durante los últimos años su carácter de empresa tecnológica de referencia a nivel internacional, y cuenta entre sus clientes con más de 120 entidades financieras líderes en el panorama internacional así como algunos de los medios y empresas de gran influencia en su región, entre los que se cuentan, por ejemplo, la cadena de televisión BBC, el diario económico City AM, el periódico Jornal de Negócios o la cotizada Yahoo!, entre muchos otros. 
+Asimismo, Webfg es propietaria de una de las redes comerciales de publicidad más grandes de Europa, que actualmente ha iniciado su expansión en EEUU y que aglutina a más de un centenar de soportes afiliados, y de dos agencias de noticias, que producen información financiera a los clientes de la corporación en cuatro idiomas distintos de manera continua. 
+Fruto de la expansión del último año, la compañía actualmente emplea a un equipo de casi 200 personas trabajando en tres continentes. Actualmente, más de 80 millones de personas y profesionales utilizan al mes las herramientas financieras del grupo a través de sus diferentes plataformas y servicios. 
+La persona candidata sera la responsable de liderar el diseño, integración  y usabilidad de canales y soluciones creadas por el área de desarrollo para una red de portales de información económica.
+· Experiencia demostrable (altamente valorable en medios de comunicación)
+· Usabilidad, arquitectura de la información 
+· Maquetación HTML5, CSS3 y crossbrowsing 
+· SCSS/Stylus/jeet
+· bootstrap

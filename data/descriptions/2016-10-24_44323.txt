@@ -1,0 +1,12 @@
+
+MADSENSE es una empresa especializada en las últimas tecnologías de la información.
+Con sede en Valencia, ofrece capacidades de desarrollo a empresas internacionales.
+Buscamos a gente dinámica que desea superar retos en las últimas tecnologías del mercado.
+Perfil del Candidato:
+- IDE: Visual Studio 2015
+- Platforms: Windows, iPhone, Android, Azure
+- Frameworks: Entity Framework, LINQ, jQuery, Bootstrap
+- Technologies: ASP.NET Core, Xamarin Forms, HTML5, WPF, WebAPI, WCF
+- Programming Languages: .NET C#, Javascript, Java, Swift, Objective-C
+- Design Patterns: DI, MVVM, MVC, Repository, State Machine
+- Languages: Spanish & English

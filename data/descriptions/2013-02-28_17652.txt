@@ -1,0 +1,11 @@
+
+En Akamon (http://www.mundijuegos.com) estamos buscando un programador de backend para algunos de nuestros nuevos juegos (web &amp; mobile).
+Si te interesa empezar un nuevo reto diseñando y creando una aplicación robusta, de alta disponibilidad y escalable danos la oportunidad de conocerte.
+La experiencia y/o conocimientos que buscamos nosotros son:
+- Conocimiento de bases de datos relacionales y no-relacionales
+- Experiencia implementado APIs
+- Gran conocimiento de los protocolos de internet, de las aplicaciones web y de los servicios y servidores.
+- Proactivo y motivado para afrontar nuevos retos y oportunidades.
+- Experiencia con control de versiones y buenas prácticas de desarrollo
+- Experiencia en el desarrollo de juegos multijugador (web o mobile)
+Solo remarcar que no pedimos un lenguaje de programación en concreto y, que si nos demuestras tu valúa, cumpliremos tus expectativas salariales.

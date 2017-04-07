@@ -1,0 +1,9 @@
+
+¿Estás buscando un nuevo reto profesional? Ésta es tu oportunidad para cambiar. 
+Actualmente desde Akuaro estamos buscando grandes profesionales del mundo PHP, seria para trabajar tanto en la parte de backend como de frontend, que le guste conocer las últimas tecnologías y trabajar con metodologías ágiles. Personas con experiencia de al menos 3 años en frameworks como Symfony y que hayan trabajado con librerías de Javascript. Habituado a trabajar en inglés tanto escrito como conversación. 
+Oportunidad muy interesante para unirte a cliente final en Barcelona (Ciudad), en la que pertenecerás a equipo internacional. 
+- Experiencia de 4 años en PHP. 
+- Experiencia en diferentes ApiRest. 
+- Conocimiento de framework Symfony de 2 años.
+- Conocimiento de librerías Javascript. 
+- Inglés: conversación. 

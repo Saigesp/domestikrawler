@@ -1,0 +1,40 @@
+
+Para una agencia de marketing digital multinacional buscamos Programadores Senior Full Stack.
+Requisitos:
+Lenguajes de programación:
+	.NET
+	HTML5, CSS3, Bootstrap
+	JavaScript, jQuery, AJAX
+	Java, J2EE, JPA, JSP, JSTL, JDBC
+	PHP, PHP Frameworks
+	SQL, PL/SQL
+Bases de datos
+	MySQL, Oracle, SQL Server
+Web/app servers:
+	Apache, Tomcat, IIS, Ngnix, HAProxy, Weblogic
+CMS: 
+	Sitecore, Kentico, CQ5, OpenCms, Drupal 
+ETL:
+	Pentaho
+Redes Sociales:
+	API Facebook, Twitter, Instagram, ...
+Build atuomation:
+	Maven, Ant, Gradle, Archiva
+Control de versiones:
+	Git
+IDE:
+	Netbeans, Eclipse
+Automated Tools
+	Caspio, Traction (SaaS databases, automated form generation)
+	Selligent, Neolane (Email marketing tools)
+	Tableau (Dashboards)
+Varios
+	Amazon AWS (hosting with autoscalling, ELB, EC2, RDS, S3)
+	Linux (Bash scripting, cron, basic maintenance)
+	Analytic tagging (Omniture, Google analytics)
+	Woopra (track users’ activity)
+	Xeerpa (social network profiling)
+	SEO
+Idiomas:
+	Inglés competencia profesional básica
+

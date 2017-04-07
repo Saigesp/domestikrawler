@@ -1,0 +1,17 @@
+
+We are hiring software developers to join Passnfly and grow our IT department. 
+Experienced Software Developer (Web Backend)
+Responsibilities:
+• Contribute to development of Web-based services in Python or PHP.
+• Contribute to development of Web applications in HTML, CSS, Javascript, etc. 
+• Contribute to evolution of SAST development methodology and platform. 
+• Help operate and maintain SAST services. 
+• Analyse existing technology and suggest improvements. 
+• Advise on architecture and technical strategy. 
+• Contribute to SAST documentation and knowledge base. 
+• Analyse customer requirements and assess implementation effort. 
+• Design and perform tests and code reviews.
+Background and experience:
+• Knowledge of a wide spectrum of programming languages and technologies, in particular Java or Php or Python, XML, SQL Alchemy, AJAX, HTML, SQL, JSON, Javascript 
+• Experience with industry best practices in software design and collaboration, software design patterns, version and release management (github or cvs), unit testing. 
+• Minimum 1 years of experience

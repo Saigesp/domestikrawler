@@ -1,0 +1,26 @@
+
+COMA es una agencia de marketing digital líder en Alemania. Cuenta con clientes destacados como Franziskaner Weissbier, Saturn, Vodafone, Tempo, Rossmann, Festool and Deutscher Alpenverein DAV. 
+La sede central se encuentra en Múnich, donde trabaja un equipo multidisciplinario de 30 personas, todas ellas expertas en cada una de las áreas y con un ambiente de trabajo y un sentido de equipo excelentes.
+Para las nuevas oficinas de Valencia estamos buscando un Desarrollador Frontend, con experiencia en HTML, CSS y JS para que participe en proyectos de gran calidad (aplicaciones móvil, aplicaciones web, redes sociales...)  en los que se aplican las últimas tecnologías, como los servicios de video streaming, análiticas de datos, servicios en la nube, etc.
+DESCRIPCIÓN DEL PUESTO
+Desarrollador frontend con experiencia de al menos 4 años de experiencia y estudios de Ingeniería Técnica.
+REQUERIMIENTOS MÍNIMOS
+- CSS3, HTML5 
+- LESS, Gulp, NPM
+- jQuery
+- Responsive Web Design (RWD) 
+- Design  Mobile 
+- Manejo de control de versiones GIT
+- Inglés nivel conversación (Al menos nivel B2)
+- Habilidad para ajustarse a los tiempos de entrega.
+- Habilidad para trabajar en entornos tanto de independencia como de trabajo en equipo.
+- Pasión por aprender y mejorar cada día y por los proyectos web
+CONOCIMIENTOS VALORABLES
+- SEO
+- Tracking (Google Tag Manager, Analytics)
+- Wordpress
+- PHP y MySQL
+- Conocimiento básico de alemán
+BENIFICIOS SOCIALES
+Posibilidad de trabajar ocasionalmente en nuestras oficias de Munich.
+

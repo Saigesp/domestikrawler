@@ -1,0 +1,14 @@
+
+C3PO, S.A. nació hace más de 18 años y desde entonces, hemos trabajado para convertirnos en una empresa líder y de referencia en el sector. Nuestro principal activo son las personas y de su calidad y motivación depende el éxito de la empresa.
+En estos momentos buscamos un Programador Junior C/C++.
+Se requiere experiencia en:
+C/C++
+Entono Linux
+Ing. Informática o Telemática
+Se valorará positivamente experiencia en:
+Criptografia / PKI
+Automake
+Distribuciones linux
+Programación Windows en C
+Librerias STL/Boost
+ 

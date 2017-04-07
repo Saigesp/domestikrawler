@@ -1,0 +1,20 @@
+
+50x es una empresa creada por directivos procedentes de Google. Llevamos la construcción, operación y optimización de sus plataformas de e-commerce. 
+Como desarrollador Backend, entrarás a formar parte de un equipo muy cualificado en continua formación, diseñando, construyendo y manteniendo plataformas ecommerce y servicios que usan miles de usuarios a diario. Trabajamos en una de las áreas con mayor demanda laboral actualmente: plataformas Magento, AWS, usando metodologías ágiles y testing automático
+Nuestro candidato ideal sería:
+-       Perfil junior con un año de experiencia desarrollando en PHP.
+-       Que maneje bases de datos MySQL o SQLServer.
+-       Y que haya desarrollado en entornos LAMP / LEMP. 
+Además, nos encantaría que:
+-       Conociera Magento.
+-       Conociera Zend Framework.
+-       Haya utilizado Git (Github o Bitbucket).
+-       Tenga conocimientos de desarrollo HTML+CSS+JS.
+-       Haya oído hablar de AWS.
+-       Tenga ganas de trabajar con metodologías ágiles.
+-       Al menos, tengas un nivel básico hablado de inglés. 
+Deberías incluir esto en tu solicitud:
+-       Enlaces a perfiles públicos que estés usando (GitHub, Twitter, etc).
+-       Resumen laboral/académico (En formato Currículum o Linkedin).
+-       Cualquier otra información que consideres importante.
+

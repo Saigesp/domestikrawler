@@ -1,0 +1,28 @@
+
+Estamos creando un nuevo producto enfocado en distribucion de video online (VOD) y buscamos a un Ingeniero Front-End con talento para formar parte del equipo de desarrollo, trabajará con el director del proyecto, diseñadores gráficos y otros Ingenieros Front End y Back End, y contribuirá con ideas para su diseño y desarrollo.
+Tareas:
+-     Contribuir al desarrollo de la Interfaz de usuario de la aplicación: HTML5, Javascript, CSS3 y PHP.
+-     Desarrollar las aplicaciones para Facebook
+-     Pueda detectar necesidades o deficiencias en el API, que sea capaz de poder especificarlas y aportar soluciones.
+-     Tener siempre en mente la Usabilidad
+-     Desarrollos Cross-browser (Firefox, Chrome, Explorer, Safari)
+-     Desarrollos Multiplataforma (Windows, Mac, Linux)
+-     Desarrollará módulos en CMS de terceros utilizando nuestra API
+-     Crear prototipos de nuestra aplicación web, CMS, apicaciones para redes sociales (Facebook, Google+)
+Habilidades:
+-     PHP
+-     MVC
+-     CSS 3
+-     HTML5
+-     Facebook API
+-     DOM
+-     Javascript
+-     JSON
+-     Accesibilidad
+-     Usabilidad
+-     Estándares W3C
+-     Web 2.0
+-     Conocimientos de Yii o algún otro framework de PHP
+-     REST
+-     Desarrollo cross browser
+-     Buena comunicación y trabajo en equipo

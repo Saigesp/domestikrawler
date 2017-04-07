@@ -1,0 +1,17 @@
+
+Cink es una compañía del grupo LLORENTE & CUENCA especialista en resolver retos estratégicos de innovación tecnológica, prototipado y transformación digital que ofrece servicios a clientes multinacionales ayudándolos en la definición de servicios digitales de nueva generación y promoviendo el cambio hacia una cultura digital.
+Buscamos incorporar a un frontend developer para nuestra oficina ubicada en Barcelona.
+El profesional que se incorpore a la Compañía debe cumplir los siguientes requisitos.
+•	Profesional centrado en el desarrollo de frontend y habituado a trabajar con un stack básico de HTML5 y CSS3.
+•	Se valorará conocimientos y manejo de otros componentes del frontend como JQuery, Bootstrap o Javascript. Se podrá terminar desarrollando parte de la actividad en Wordpress por lo que se valorará que el profesional esté habituado a trabajar con este framework.
+•	Responsables, con afán de superación.
+•	Comprometidos con la Compañía y con el trabajo que desarrollan.
+•	Clara orientación a cliente.
+•	Orientación a trabajar por objetivos y resultados
+Las funciones que se desarrollarán son:
+•	Asistir en el diseño y realizar maquetas (prototipos) de interfaces para nuevos productos.
+•	Asegurar la viabilidad técnica de los diseños, teniendo en cuenta aspectos básicos de experiencia de usuario.
+•	Crear nuevas interfaces para proyectos usando el stack mencionado anteriormente. Estas interfaces podrían ser tanto estáticas como dinámicas (con la ayuda de Javascript).
+•	Crear código limpio y reusable, así como librerías de cara a reusarlas en el futuro.
+•	Colaborar con el resto de miembros del equipo de desarrollo para consensuar diseños y necesidades de los productos. 
+

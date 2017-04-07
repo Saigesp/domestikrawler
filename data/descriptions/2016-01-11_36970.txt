@@ -1,0 +1,34 @@
+
+Como parte de un equipo de trabajo joven y dinámico, el candidato se involucrará en proyectos en los cuales estará expuesto a una gran diversidad de lenguajes de programación y diferentes tipos de funcionalidades. 
+En su mayoría, se centrarán en el desarrollo de plataformas online dirigidas al sector de la salud, para la captación y gestión de datos, herramientas de análisis y comunicación e interactividad entre usuarios. Los diferentes proyectos incluirán conceptualización, desarrollo de interface, seguridad, programación y gestión de bases de datos.
+El candidato seleccionado deberá ser capaz de especificar y desarrollar aplicaciones en su totalidad, desde su concepción inicial hasta su posterior implementación y mantenimiento. 
+Deberá estar al tanto de tecnologías web tipo API/Rest, Javascript (node.js, Backbone.js), PHP y base de datos: MySQL.
+Buscamos una persona con una sólida base tecnológica, que tenga capacidad de encontrar la mejor solución técnica. Con capacidad de gestión de proyectos abarcando los siguientes aspectos:
+ · Coordinación del Equipo de Trabajo
+ · Gestión de Actividades, Hitos y Planificación
+ · Gestión de los Riesgos
+Personal a cargo
+ 1 - 5
+Estudios mínimos
+ Ingeniería técnica - Informática
+Experiencia mínima
+ Más de 5 años
+Conocimientos necesarios
+ Análisis 
+API 
+Backbone.js 
+Escalabilidad 
+Gestión de proyectos 
+JavaScript 
+MySQL 
+node.js 
+PHP 
+Seguridad 
+Requisitos mínimos
+ - Experiencia previa de al menos 5 años.
+ - Habituado a usar herramientas de control de versiones.
+ - Capacidad de aprender nuevas tecnologías y aceptar responsabilidades.
+ - Ir más allá de 'código que funcione', ser capaz de evaluar escalabilidad, rendimiento, mejoras, estándares del sector y últimas novedades tecnológicas.
+ - Capacidad analítica y atención a los detalles.
+ - Experiencia demostrable en otros proyectos de éxito en Internet.
+ - Estándares web y buenas prácticas.

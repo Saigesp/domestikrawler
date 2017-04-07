@@ -1,0 +1,24 @@
+
+We're looking for the right person to make our source code grow and thrive in its best state possible. Here's your opportunity to make a stand in the entrepreneurship world with Blinkfire Analytics, Inc, working with state-of-the-art technologies to build a challenging product that deals with big data, computer vision, social networks and every major sport you know. Sounds like fun to you?
+You'll have to wear a lot of hats here, but here's a few of the things we'll expect:
+- You are passionate about software development with solid, high quality coding skills. You write scalable, maintainable, efficient and well documented code. 
+- Skills for a computer science engineering from the database all the way to the browser. 
+- A thorough understanding of software Design Patterns and Agile methodologies. It is completely natural for you to produce a development sprint from the planning meeting and sprint backlog to the retrospective. 
+- You find your way to get things done always considering the trade-off between the technical debt and a goal-oriented approach. 
+- Degree in Computer Science or similar
+Skills & Requirements - Experience is always a plus but we believe in talent and potential as well. We would like to see: 
+- Experience in NoSQL databases and their processing technologies such as MapReduce/BigTable, Cassandra, or Hadoop/Hbase and familiarity with Relational Databases 
+- Experience in Machine Learning and Clustering algorithms and implementation. 
+- Experience in MVC frameworks like Django, Rails, Symphony or similar. 
+- You are comfortable using Git and collaborating with team members. 
+- Proven professional Python/Ruby experience. Do you have an online portfolio in Github or collaborated in open-source projects? 
+- Front End experience in Javascript, jQuery, CSS, and frameworks like Angular or NodeJS. 
+- Good knowledge of web standards, HTML5 and progressive enhancement. 
+- Full professional proficiency in English. 
+- EU/EFTA citizenship or work permit otherwise.
+About Blinkfire Analytics, Inc - Join us and you will have the opportunity to:
+- Work with the latest, top-notch Google Cloud technologies (App Engine, schemaless datastores, Angular, MapReduce) as well as other similar open-source frameworks and technologies. 
+- Take your place within a team of proven professionals in the sector spread across the globe. 
+- Have a flexible work schedule and a Mediterranean lifestyle in the beautiful city of Valencia, Spain - where we value work-life balance. Not sold yet? 
+- Work in a Silicon Valley environment in a well funded startup ($900k in the seed round) with frequent interaction between our offices in Valencia and Chicago. 
+- Earn a competitive salary + stock options.

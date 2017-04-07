@@ -1,0 +1,23 @@
+
+MarketGoo is looking for a Web Developer to join our team to solve problems as we build a world class platform to support thousands of website marketing products for our customers and partners.
+We’re seeking a software engineer who is passionate about building elegant web products. You should be comfortable with the entire web stack, from implementing visual designs to tuning database queries. The ideal candidate will have deep experience with full-stack web development, coupled with a strong computer science background. You’ll be working with a small team building all parts of the MarketGoo product websites. We care deeply about the visual design and user experience. This position is based in Madrid, Spain.
+Requirements
+- Based in Madrid, Spain
+- Fluent in written and spoken English
+- Get excited by the flexibility and dynamic nature of a startup environment.
+- Fluent at PHP – Knowledge of Python or Ruby a plus.
+- Confident building JavaScript-heavy PHP apps.
+- Well-versed with modern HTML5 and CSS3.
+- Ability to take ownership of all parts of a web project.
+- Knowledge of relational databases and SQL, preferably MySQL.
+- Knowledge of Redis and MongoDB NoSQL-databases a plus.
+- Knowledge of Backbone, Ember or Angular JS frameworks is a plus.
+- Understand how to optimize browser and PHP performance issues.
+- Understanding of general user experience and UI design principles.
+Giving Back
+For the Software Developers who join the MarketGoo team they will be rewarded with:
+- A competitive salary.
+- A beautiful office space and flexible hours to help you balance your work with your life.
+More about MarketGoo
+MarketGoo helps SMBs grow their businesses online by providing easy website marketing tools. We partner with hosting companies, agencies and providers. Founded in 2012 by Wences García and Jose Miguel Perez. We have received some institutional funds but are privately funded.
+MarketGoo is a fast-growing, yet humble small company, with thousands of customers worldwide, dozens of partners and with a relevant position in the online marketing space for SMBs.

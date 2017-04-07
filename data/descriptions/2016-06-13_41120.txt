@@ -1,0 +1,27 @@
+
+# About Akvo
+Akvo builds open source internet and mobile software and hardware which is designed to support international development partnership networks and make cooperation and aid activity more effective and transparent. We are a rapidly growing, entrepreneurial non-profit foundation with a big mission. Our tools are already positively disrupting the ways that development aid is allocated and reported in a sector that has been historically averse to change.
+Our software services are backed by a global partner support and training team. The Akvo head office is in Amsterdam, with a development team distributed across Europe, India and our regional hubs.
+Akvo has a strong participatory work culture with highly collaborative teams with a strong sense of ownership of their tasks. Akvo is committed to a DevOps culture and environment where building, testing and releasing software can happen rapidly, frequently and more reliably.
+# Summary of the role
+Akvo seeks a full-stack developer with at least four to eight years of experience and proven Android development skills to join our team in Barcelona. Akvo tools are used to collect data in the field worldwide, both in surveys and monitoring but also, more recently using external hardware sensors and using camera and geolocation information.
+You will be a part of a team that takes ownership and responsibility of the product and the product quality throughout the entire development process. You are familiar with agile development techniques and like using them (e.g. Scrum, XP, TDD, BDD, pairing, continuous integration, build automation, etc.). SOLID development principles and good software design thinking is a must.
+# Main tasks and responsibilities
+To design, implement, test and maintain software features across Akvo products, with a strong focus on the Akvo Flow mobile application. The main focus of this role will be on Android development, but there will also be ample opportunity to work in other parts of the product, so an experience of full stack development is also wanted in this position.
+# Required technical skills and competencies
+- Passionate developer with full stack and Android experience
+- An eye for detail and a feeling for what makes a UI responsive and delightful
+- Used to working in a fast moving team with agile best practices
+- A love for clean code and a well trained nose to find and remove code smells
+- Experience from working in Linux
+- Used to working with Git
+- Experience with relational and non-relational database models, being aware of their strengths and limitations in different scenarios
+- Experience with standard encoding and serialization formats (UTF-8, JSON, XML, etc)
+- Good written and spoken communication in English
+- A Bachelor or Master of Science degree in Computer Science or a related field
+# Nice to have
+- Previous working experience within a distributed team, using collaboration tools like GitHub, Trello, Skype, Dropbox, etc
+- Involvement in open source projects and test-driven development
+- Experience coding in JavaScript and React
+- Experience in Google App Engine and/or Amazon Web Services
+You’ll need the relevant permits to work in Europe, and we will not be able to assist with any expenses associated with relocation to Spain. You’ll be required to be physically based in Barcelona, working remotely and also in a co-working space together with our other local developers.

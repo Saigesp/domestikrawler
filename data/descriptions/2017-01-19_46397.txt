@@ -1,0 +1,29 @@
+
+Our Start Up Quipu is looking for a Frontend Developer to join their team in Barcelona!
+Quipu is an invoicing and friendly accounting cloud-based software. It's specially developed for startups and designed for dummies on finance, saving your time for value creation matters.
+We are concerned about the freelances and SMB spend as less time as possible in the administrative tasks. 
+We automatise workflows so that we can provide real time data for a better and faster decision making.
+Forget about spreadsheets and paperwork: GET QUIPU NOW!
+What you will do
+You will work side by side with the product designer and the development team, including the CTO, by being the first full-time frontend developer in the history of the company. We need a pragmatic thinker and a keen problem solver ready to take on big challenges.
+The main role will be acting as a bridge between design and the rest of development, being able to understand the vision of the CEO and the designer and implementing the corresponding visual elements in an elegant, reusable, scalable way by using HTML & CSS over the EmberJS framework, which we use for our new, in construction front-end clients.
+The whole development team works in 2-week sprints by following Scrum, and although we obviously follow a product roadmap based on the company’s business needs, we strongly encourge your own initiative and ideas!
+What you will find
+We offer the freedom to lead important and critical development parts of our product, not only implementing clever and efficient solutions but also thinking about the big-picture. We expect incredible knowledge hunger too but, above all, critical thinking and the ability to be a problem-solver.
+We are focused on code quality, efficiency, readibility and, last but not least, scalability. Of course, everything leaned to solve our customer needs!
+We also give the chance to learn from other really good and experienced developers and be near itnig, an energetic startup accelerator.
+BENEFITS
+- Provide you with continuous challenge and space for learning.
+- Participation in the technological and business decision making.
+- Agile tasks distribution, with daily deploys.
+- Flexible schedule (but should be based in Barcelona).
+- Broad and diverse start-up ecosystem that provides much more than a job experience.
+Miscellaneous:
+- Ping pong championships - we have our own ping pong table at the office!
+- Itnig Breakfasts every Tuesday
+- Summer BBQs
+- Team Lunch on Fridays
+- Afterwork Beers
+- Afterwork activities such as Laser tag, Poker, Table games or LAN Parties
+- Conferences, events and workshops onsite
+Don't miss the opportunity to contribute to our challenging project as part of a great team of developers!

@@ -1,0 +1,18 @@
+
+FUNCIONES
+•	Desarrollo web front y back end
+•	Automatización de procesos
+•	Administraciónn de BBDD
+•	Desarrollo de herramientas online de reporting y análisis
+REQUISITOS Y COMPETENCIAS PERSONALES
+•	Cloud computing. Se valorará experiencia en Microsoft Azure.
+•	Servidores Windows Server y Ubuntu.
+•	Bases de datos MySQL y SQL Server.
+•	Transact SQL. 
+•	Configuración y gestión de Apache e IIS
+•	Programación .NET | c# | ASP.NET y PHP. Se valorará experiencia con Wordpress y CodeIgniter
+•	Programación Javascript con o sin framework Jquery
+•	Codificación HTML5 + CSS3
+•	Conocimientos sobre estabilidad, rapidez y seguridad en entornos Internet.
+•	Capacidad de aprendizaje, dinámico y trabajo en equipo.
+

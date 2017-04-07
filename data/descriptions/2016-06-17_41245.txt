@@ -1,0 +1,20 @@
+
+NonStop Desarrollo de Software - empresa especializada en marketing online y soluciones tecnológicas busca Desarrollador web (front/back) con experiencia mínima de 3 años, para incorporarse inmediatamente a su departamento.
+Requisitos mínimos:
+-          PHP5
+-          HTML5
+-          CSS3
+-          JAVASCRIPT / JQUERY
+-          MYSQL
+-          Experiencia demostrable imprescindible en puestos similares
+-          Gestión de clientes 
+El candidato tiene que ser una persona organizada, con iniciativa y atención a los detalles y gran    capacidad de trabajo en equipo.
+Se ofrece:
+-          Entorno de trabajo joven y dinámico.
+-          Desarrollo profesional
+-          Estabilidad laboral.
+-          Incorporación inmediata
+-          Contrato indefinido
+-          Jornada completa
+-          Horario:  L-J 09:00h-18:00h   <->   V 09:00h-15:00h
+-          Ambiente agradable, con grandes posibilidades de desarrollo profesional.

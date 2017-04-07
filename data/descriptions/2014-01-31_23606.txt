@@ -1,0 +1,9 @@
+
+Buscamos un programador freelance con los siguientes conocimientos:
+- Objective-C, IOS y Android development (conexión con OS nativos)
+- Software: Xcode, Eclipse, Git
+- Conocimiento de API (Facebook, Twitter) - Facebook tabs
+- HTML5 javascript canvas
+- PHP mysql
+- ActionScript, JavaScript, HTML, SQL, C#
+Se trabajará, en principio, por proyecto. Pasando una factura al finalizar el mismo.

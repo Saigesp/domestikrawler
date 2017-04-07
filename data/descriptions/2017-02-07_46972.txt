@@ -1,0 +1,19 @@
+
+Buscamos un diseñador front-end para incorporarse de forma inmediata al equipo de publicidad de un grupo editorial con gran prestigio a nivel nacional. Posibilidad de trabajar con marcas de gran consumo a nivel internacional.
+Funciones:
+	Diseño y maquetación front-end de web responsive.
+	Definición y desarrollo de flujos de navegación.
+	Diseñar de cero el aspecto gráfico y visual de interfaces para plataforma web y mobile.
+Requisitos:
+	Importante dominio HTML5 y CSS3.
+	Experiencia en diseño web UI/UX.
+	Capacidad para plasmar conceptos gráficamente.
+	Pixel-perfect.
+	Dominio entorno Adobe Creative Suite.
+	Al menos tres años de experiencia demostrable en diseño de interfaces de usuario multidispositivo/multiplataforma (arquitectura de información, diseño de interacción, diagramas de flujos, wireframes, mockups).	
+	Debe ser perfeccionista y meticuloso en los detalles, acostumbrado a trabajar en equipo.
+	Aportar Portfolio.
+Se valorará:
+	Conocimientos de Javascript, jQuery.
+	Infografía e ilustración.
+	Motion graphic, animate o After Effect.

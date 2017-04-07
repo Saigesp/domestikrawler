@@ -1,0 +1,25 @@
+
+En silver.solutions estamos buscando un desarrollador back-end con conocimientos y experiencia en PHP/Symfony para trabajar tanto en el desarrollo de nuestras aplicaciones internas como en proyectos externos para diferentes clientes. Puedes llegar a ser un valioso miembro en nuestro equipo de desarrolladores aportando nuevas ideas y el entusiasmo para implementarlas. En silver.solutions estaremos encantados de trabajar junto contigo en el concepto, modelo, y desarrollo de nuevas funcionalidades para mejorar nuestra tienda on-line. También tendrás la oportunidad de trabajar activamente en importantes proyectos para diferentes clientes. 
+Tareas
+* Futuro desarrollo de nuestro innovador software silver.e-shop
+* Realización de importantes y exigentes proyectos para clientes internacionales
+* Construcción de la arquitectura del software
+*Desarrollo Ágil de software, Scrum, BDD. 
+*Programación orientada a objetos 
+*Test y revisión del código para asegurar su máxima calidad. [/list]
+Requisitos: 
+*Conocimientos avanzados en el desarrollo de aplicaciones web con PHP 5 orientado a objetos
+*Experiencia en frameworks modernos, ejem: Symfony 2 
+*Experiencia en Test Driven Development
+*Experiencia en Bases de datos (MySql), XML/XSLT, Unix/Linux
+*Manejo de herramientas de control de versiones, GIT.
+*Exigencia máxima de responsabilidad y la calidad del trabajo realizado
+*Buena comunicación y capacidad de trabajo en equipo 
+*Requisitos de idiomas: Inglés o Alemán fluido [/list]
+Que ofrecemos: 
+*La conocida libertad para el desarrollo y la creatividad de una startup junto con una estructura de una empresa con años de experiencia.
+*Ofrecemos cursos de programación, Hackaton days (donde se fomenta y desarrolla el trabajo en equipo), y tiempo para proyectos internos. 
+*Un equipo de trabajo profesional e internacional. 
+*Una atmósfera de trabajo positiva, donde encontraras un ambiente de trabajo agradable y con un alto nivel de responsabilidad.
+*Jerarquía plana, Managers y gerentes de la empresa hacen posible conciliar una vida laboral y familiar. La igualdad y confianza es un requisito muy importante
+*Eventos de empresa, el mejor café expreso de la zona!  [/list]

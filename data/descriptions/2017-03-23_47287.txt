@@ -1,0 +1,24 @@
+
+Con el lanzamiento de nuestro Global Cloud Marketplace, Ingram Micro Cloud está cambiando la forma en que se realizan los negocios en la nube. Somos un proveedor de servicios en la nube (mCSP), que permite a las organizaciones configurar, proporcionar y administrar las tecnologías de la nube con confianza y facilidad.
+Como parte del Equipo de Ingeniería Global, el ingeniero de configuración y testeo apoyará la implementación de productos y soluciones en el Global Cloud Marketplace. Esto requerirá el diseño y la configuración de los productos \ servicios de Vendor en la plataforma de comercio electrónico, así como trabajar con diferentes equipos para impulsar los procesos de pruebas y corrección de errores, proporcionar soporte de segundo nivel o realizar demostraciones para los diferentes grupos de interés.
+
+Responsabilidades:
+Evaluar y diseñar soluciones para el Global Cloud Marketplace
+Identificar, analizar, comprender y documentar los requisitos del negocio
+Implementar nuevos productos en Odin Automation y Global Cloud Marketplace
+Proporcionar apoyo durante QA / UAT antes del lanzamiento y soporte de segundo nivel después del lanzamiento.
+Habilidades requeridas:
+- 3+ años de experiencia en Hosting Services
+- 2+ años de experiencia en una gestión de comercio electrónico
+- Fuertes habilidades analíticas y de resolución de problemas
+- Alto nivel de inglés (escrito y verbal)
+Habilidades fundamentales:
+- Comunicador claro (escrito y verbal)
+- Capacidad para escuchar, moderar, presentar, comunicar, mediar y negociar
+- Listo para trabajar en una empresa global, con diferentes culturas y zonas horarias
+- Cómodo ofreciendo demos, presentaciones y sesiones de entrenamiento
+Habilidades adicionales:
+- Alto conocimiento técnico de la plataforma Odin Automation (big plus)
+- Habilidades de base de datos con SQL Server, PostgreSQL, Oracle, MySQL, etc.
+- Conocimientos de entorno de Microsoft Office 365
+- Odin, LPI / RedHat, certificaciones de Microsoft

@@ -1,0 +1,18 @@
+
+Vall d'Hebron Research Institute (VHIR) is a public sector institution, located in Barcelona (Spain) that promotes and develops innovative biomedical research at the University Hospital Vall d'Hebron. VHIR is oriented towards finding solutions to the health problems of the citizens and has the will to contribute to the scientific, educational, social and economic development within its area of competence.
+VHIR is looking for a Programmer Analyst to develop and implement the IT tools at VHIR.
+JOB DESCRIPTION
+Education and qualifications:
+- Bachelor's degree or Degree in Computer Engineering.
+Experience and Knowledge:
+- Minimum 4 years’ experience participating in projects as a Programmer Analyst.
+- Participation in projects within the field of BI. Experience in Microstrategy or similar tools.
+- Experience in .NET technology (C # and VB)
+- Experience in SharePoint development and administration (2010-13)
+- Knowledge of SQL Server (2008 or 2012).
+- Responsible, well-organized and methodical person.
+- Command of Catalan, Spanish and English, both written and spoken.
+Main responsibilities and duties:
+- Carry out the analysis and the development of projects in progress in the Computer Unit of VHIR, in accordance with the norms and standards established, levels of safety and quality.
+- Support in the maintenance and evolutionary development of the projects of the Unit.
+- Develop and maintain technical documentation of computer applications, diagrams and manuals.

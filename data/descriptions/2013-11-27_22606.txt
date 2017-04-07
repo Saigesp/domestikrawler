@@ -1,0 +1,21 @@
+
+itnig is making a Recruitment  Process for FXstreet!
+FX street is looking for a motivated and experienced engineer to join its IT Team in Barcelona
+As part of our team, you will work with SCRUM and eXtremme programming methodologies.
+Our work requires smart engineers with a high self study capacity and some knowledge in: Sql Azure, Cloud Computing and C# latest versions.
+Desired Skills and Experience
+Object Oriented Language (C#, C++, Java)
+C#
+SQL
+Javascript
+Design patterns aware
+Test Driven Development
+SCRUM
+Inversion of Control
+Capacity to learn and study
+What about FXstreet?
+FXstreet.com is your meeting place, the crossroads where you can find everything you need to make the best decisions in the currency markets. Anytime, 24/5. Based on unbiased, high quality and free information.
+
+Why do you should join in us?
+Besides you professional and personal growth, you will work with a pretty professional team, a horizontal organization and trying to and trying to offer to the decision makers the best and more accurate information to operate in the exchange markets.
+

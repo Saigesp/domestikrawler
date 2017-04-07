@@ -1,0 +1,27 @@
+
+Quiénes somos:
+En DO somos un equipo de creativos y estrategas de marketing con más de 10 años en la espalda, trabajando desde 2006 para clientes del sector cine, moda, licensing y farma. Nos dedicamos a crear estrategias y productos digitales, desde audiovisuales hasta webs, e-commerces y apps.
+Qué buscamos:
+Estamos buscando un Webmaster / fullstack web developer que controle backend y frontend para desarrollar proyectos e-commerce y aplicaciones.
+Qué esperamos de ti:
+Conocimientos de Frontend:
+- HTML5 + CSS3, Bootstrap
+- Javascript y JQuery
+- Angular2 (o AngularJS)
+Conocimientos de Backend:
+- CMS Wordpress
+- Magento, Prestashop y WooCommerçe
+- Entorno LAMP (Linux, Apache, MySql y PHP) nivel avanzado y administración de servidores SSH.
+- Web services y API's (REST, JSON-RPC…)
+- Control de versiones Git
+Conocimientos valorables:
+- Frameworks PHP (Symfony, Laravel…)
+- Entorno MEAN (Mongo, Express, Angular2 y Node)
+- TDD, BDD (Pruebas unitarias)
+- Debugar PHP
+- Metodología Agile (Scrum) 
+Aptitudes:
+- Estar familiarizado en la creación de CMS y actualización de módulos
+- Facilidad para trabajar con equipos multidisciplinarios
+- Capacidad de adaptación a los cambios
+- Inglés a nivel de conversación

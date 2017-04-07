@@ -1,0 +1,44 @@
+
+¿Quieres iniciarte en el desarrollo de una tecnología donde solo unos pocos lo están haciendo para diferenciarte en el mercado? Si es así, tienes un sitio en Levelbots :).
+Levelbots es una startup centrada en el comercio conversacional a través del desarrollo de Chatbots con sede en Sevilla. Estamos buscando ampliar nuestro equipo con nuevos talentos. Nuestro producto estrella es Ask Vicente. Cuando no sepas dónde comer, pregúntale ;)
+Estamos buscando a un becario con conocimientos en Node.js, BBDD SQL/NOSQL, CSS3, HTML5 y JavaScript, Express.js (Otros frameworks), PHP. Se valorará positivamente haber participado anteriormente en el desarrollo e integración de APIs.
+Ofrecemos trabajar en un ambiente muy dinámico y orientado a objetivos. La proactividad, la voluntad de aprender y la actitud en la resolución de problemas son claves para nuestro equipo. Proporcionamos formación en chatbots y la posibilidad de poner esos conocimientos en práctica con proyectos reales.
+Muy importante:
+Tener capacidad y ganas de aprender.
+Responsabilidades del puesto de trabajo:
+-	Diseñar, desarrollar y mantener nuestro back-end y servicios web.
+-	Desarrollar e implementar nuestro front-end coordinándose con otros miembros de nuestro equipo.
+-	Ayuda en el desarrollo de chatbots para distintas plataformas de mensajería instantánea.
+-	Asegurar la escalabilidad, fiabilidad y la disponibilidad de nuestros sistemas.
+-	Escribir código limpio y sostenible.
+Horario:
+Media jornada
+09:30 am -16:00 pm.
+*El horario podría sufrir alguna modificación según las circunstancias. (flexibilidad horaria).
+Lugar de trabajo:
+Calle Arquitectura Nº 2, Torre 11. 
+Planta 7, Módulo 14.
+Sevilla, Sevilla 41015.
+España.
+Contrato:
+-Prácticas formativas.
+-Posibilidad de contratación.
+-Incorporación inmediata.
+Requisitos:
+Estudios mínimos
+-	Estudiante de grado superior de desarrollo de aplicaciones informáticas.
+-	Estudiante de ingeniería informática con posibilidad de convenio en prácticas. 
+Experiencia mínima:
+-	Experiencia en el desarrollo Front-end y back-end con Python, Node.js, Express.js (Otros frameworks), HTML, CSS y JavaScript, PHP.
+-	Experiencia con frameworks MVC.
+-	Experiencia con bases de datos SQL / NoSQL.
+-	Experiencia construyendo y usando APIs RESTful JSON/XML.
+-	Experiencia con Git.
+Metodología de trabajo:
+-	BYOD: Bring your own device.
+-	Un mes en periodo de prueba.
+Valorable:
+-	Metodología lean canvas y conocimiento del ecosistema startup. 
+-	Flexibilidad, proactividad, creatividad, compromiso.
+-	Nivel B1 de inglés.
+-	Vivir en Sevilla.

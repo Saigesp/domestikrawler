@@ -1,0 +1,29 @@
+
+Social Point is a world leader in strategy and action games with deep social engagement. Our talented team of more than 220 Social Pointers develop games that are played and loved by more than 50 million people all over the world and are consistently in the top ranking titles on iOS and Android. Join us, and help us make 2015 the breakout year in mobile social gaming.
+As member of the technical team your job will involve creating all kind of special effects based on particles systems, trails, models and other 3d elements.
+You will work closely with the technical team members during the game developments and for the company R+D. At same time, you’ll work in synchronicity with the art leads to ensure the highest quality and spectacularity of all the special effects inside each project.
+Responsibilities:
+Design and create the necessary special effects for each project.
+Maintain a consistent style with the project working hand in hand with the lead artist and the Art director.
+Collaborate with the Technical artists, Designers and other team members in order to maximize the projects visual spectacularity using particle systems and other elements.
+Supervision and optimization of all the special effects used on each project.
+Requirements:
+In depth knowledge of unity particle system creation and other special effects.
+Experience creating particle systems and other effects using 3DSMax + Particle flow.
+In depth knowledge of the real time techniques used on video-game development.
+High creative skills
+Positive and proactive attitude.
+Good communication skills
+Mid-level English
+Highly motivated and passionate about videogames.
+In depth knowledge of 3DSMax
+In depth knowledge of Photoshop
+Bonus:
+Previous experience on the game development industry as VFX artist.
+GLSL, CG and/or HLSL knowledge
+VRAY knowledge.
+FumeFx knowledge.
+Rayfire and /or Krakatoa knowledge
+Basic knowledge of other real-time 3d engines like: UDK or Cryengine.
+Movie VFX knowledge.
+After effects knowledge

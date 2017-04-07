@@ -1,0 +1,18 @@
+
+·	*Qué buscamos
+Un Desarrollador de aplicaciones nativas en iOS y Android con ganas de incorporarse al equipo de desarrollo de The Cocktail. Alguien con experiencia en el campo de la programación, apasionado por Internet, con una vida digital muy activa, que sepa trabajar en equipo y sienta gusto por lo que hace.
+·	*Qué ofrecemos
+Nuestro equipo está formado por Diseñadores de UX, Gestores de Comunidad, Programadores, Analistas de métricas Web, Administradores de Sistemas, expertos en Marketing Online y demás apasionados por Internet.
+Trabajamos en un entorno joven y distendido, con un alto nivel de profesionalidad, donde se fomenta la responsabilidad individual. Nunca te irás a casa sin haber aprendido algo nuevo de tus compañeros.
+·	*Qué esperamos de ti*
+-Experiencia mínima de al menos un año en la programación de aplicaciones nativas en iOS.
+-Conocimiento en sistema operativo móvil iOS: Objective-C o Swift, Xcode, Cocoa Touch, Core Data Android y sistema operativo Android: Android Studio, Java
+-Que tengas una gran capacidad para trabajar de forma autónoma, organizar tus tareas y tu tiempo.
+-Que seas inconformista y autoexigente.
+-Que tengas una gran atención por el detalle y disfrutes con tu trabajo.
+Deseable*
+-Experiencia en integración con servicios web (SOAP, REST, JSON) y APIs de terceros: geoip, oauth, etc.
+-Conocimientos de lenguaje Ruby, Rubymotion
+-Desarrollo de apps híbridas (Phonegap/Apache Cordova, Ionic Framework)
+-Tecnologías de proximidad: Beacons, NFC
+-Que no seas alérgico a los perros, tenemos a Maggie en la oficina.

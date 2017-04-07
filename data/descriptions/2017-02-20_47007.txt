@@ -1,0 +1,22 @@
+
+Instagrafic tiene la misión de cambiar el mercado de la impresión de fotos utilizando las nuevas tecnologías.
+NO somos una aplicación. No somos otro canal que debes aprender a usar para imprimir tus fotos. Apostamos por un sistema invisible con el que los clientes puedan enviar TODAS sus fotos desde las apps que ya utilizan: Whatsapp, Facebook, Google Fotos, y muchas más.
+Hemos construido una plataforma capaz de recoger envíos masivos de fotos y convertirlos en productos personalizados, listos para enviar a imprenta. Ésta funciona mediante una cadena de algoritmos de tratamiento de imagen, workers automatizados y bots.
+Con todo, desde principios de 2016 hemos impreso más de 1,2M de fotos de más de 4000 clientes.
+Como Backend Developer, tu objetivo será ayudar al equipo técnico a lanzar nuevas versiones de la plataforma para que Instagrafic sea totalmente automático desde el "hola" del cliente, hasta que reciba sus fotos.
+Buscamos a una persona con las siguientes capacidades:
+- Desarrollo en PHP 7
+- Conocimientos de MySQL 
+- Patrones de diseño MVC y frameworks 
+- Control de versiones GIT.
+Se considerará un PLUS si:
+- Tienes experiencia y/o conocimientos de front-end.
+- Tienes experiencia con Amazon Web Services.
+- Nociones de uso de frameworks para web-apps (VUE.js, Angular.js, react.js, backbone.js, react.js...)
+- Tienes buen nivel de inglés.
+¿Qué ofrecemos a cambio?
+- Un equipo joven (media de edad de 24 años), y dinámico con muchas ganas de mejorar.
+- Contrato indefinido (con 3 meses de prueba).
+- Dietas incluidas.
+- ¡TODAS las fotos impresas que quieras!
+

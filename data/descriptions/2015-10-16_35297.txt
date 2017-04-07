@@ -1,0 +1,16 @@
+
+Desde Cegos España buscamos programador para una importante empresa del sector público. Empresa pionera en tecnología que desarrolla proyectos de ingeniería, consultoría y asesoría técnica en diversos sectores. 
+Titulación mínima requerida: FP2 ó Ciclo CGSuperior.
+Funciones:
+•	Desarrollo de aplicaciones en arquitectura JEE contra base de datos ORACLE. Realizar la distribución equilibrada de la actividad entre los programadores disponibles.
+Conocimientos requeridos mínimos: 
+•	Experiencia de 1 a 3 años en desarrollo aplicaciones Java como AP
+•	Lenguaje de Programación JAVA
+•	Frameworks JAVA (Struts2, Spring, Hibernate) 
+•	Base de Datos ORACLE 11g. 
+•	ID Eclipse. 
+•	Herramienta de control de versiones 
+•	Jasper Report
+Retribución según años de experiencia: desde 26.700€ a 29.500€ + tickets restaurante.
+Contrato 1 año renovable. 
+

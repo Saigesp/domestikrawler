@@ -1,0 +1,37 @@
+
+Our client is a professional services organization focused on solving business problems caused by the proliferation and diversification of data in large enterprises.
+Duties:
+• Key design lead in projects. Gathers and qualifies functional and technical requirements.
+• Functions as lead solution architect.  May collaborate with a dedicated architect in larger implementations.
+•Installation and configuration of PIM solutions in client environment.
+•Performs product data modeling and instantiation.
+• Collaborates with test leads to document, plan and execute solution testing.
+• Trains client personnel for solution adoption and transfer of ownership.
+• Mentors junior consultants in PIM methodology and implementation.
+• Leads client in definition of processes and workflows for product and media assets management.
+Experience Requirements:
+•Experience with Product Information Management (PIM) principles, data and technologies. 
+•Experience with PIM software (Informatica PIM, Stibo, Riversand and Oracle)
+•Experience with digital media assets for retail products or consumer packaged goods, such as product marketing images, videos and content.
+•Experience in data modeling. 
+•Experience with relational databases and SQL, especially Oracle and MS SQL Server.
+•Exposure to e-commerce solutions desired (Demandware, Hybris, Magento, WebSphere Commerce, etc.) 
+•Industry experience in retail, manufacturing, distribution and consumer packaged goods (CPG) a big plus.
+•Experience with the Java or C# programming languages a plus, but not required.
+•Understanding of data integration, both real-time and batch.
+•Understanding of data quality.
+•Critical thinking skills and a strong analytical mindset.
+Employment Requirements:
+•Design, configuration and/or development experience with PIM and/or MDM products, especially Informatica.
+•Must have either EU citizenship or residency that allows work in other EU countries.
+•Must be fluent in English.  Proficiency in a second European language such as French, German and Spanish is considered a strong plus.
+•Must be able to travel up to 100% (defined as Mon-Fri).
+•Must maintain a highly professional appearance and demeanor at all times.
+•University degree from a 4-5 year program. 
+Compensation & Benefits:
+• Full-time position
+•Competitive base salary plus attractive bonus program that does not limit bonus potential
+•Full benefits
+•Paid training and technical certification
+
+

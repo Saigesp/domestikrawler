@@ -1,0 +1,15 @@
+
+Consultora especializada en Marketing desea incorporar a su plantilla un Programador PHP (Back-End)
+Buscamos una persona proactiva, dinámica, con ganas de innovar desarrollando aplicaciones web, con facilidad para el trabajo en equipo y capacidad para responsabilizarse de su trabajo.
+Nos interesa una persona que se emocione con su trabajo y que esté dispuesto/a a dar lo mejor de sí mismo/a.
+Requisitos mínimos:
+Experiencia profesional de al menos 2 años con PHP, Javascript, HTML, CSS.
+Se valorará: 
+- Experiencia con PHP POO. 
+- Experiencia con Jquery. 
+- Experiencia con Web/.NET/SQL. 
+- Conocimientos de inglés.
+Contrato: temporal 
+Jornada: Completa 
+Incorporación: Inmediata
+Si te sientes identificado, ven con nosotros, en caso contrario no te preocupes, valoramos igualmente tu experiencia.

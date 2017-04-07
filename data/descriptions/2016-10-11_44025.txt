@@ -1,0 +1,13 @@
+
+Grupo empresarial de rápido crecimiento del sector seguros busca programador freelance para el desarrollo de un programa de gestión modular.
+Características: 
+- Contrato por proyecto (freelance)
+- Incorporación a un proyecto de digitalización de procesos y de transformación digital 
+- Trabajarás desde tu casa, con plazos y entregables, en un proyecto interesante y a la vanguardia del sector.
+- Capacidad de trabajo en equipo, con otros freelance y empresas.
+Necesario conocimientos y experiencia en: 
+- .NET
+- HTML5, CSS3 y JavaScript
+- Tomcat, JBoss o equivalente
+- Java 8
+- Servidor SQL Server 2008 R2 o superior

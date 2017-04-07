@@ -1,0 +1,21 @@
+
+eBay Enterprise is leading provider of ecommerce and interactive marketing services for the world’s premier brands and retailers, eBay Enterprise powers every aspect of an online business. Offering technology solutions, fulfillment, customer care, and interactive marketing, eBay Enterprise enables companies of all sizes to benefit from a broader operating scale than they would be able to justify building, maintaining, and continually improving on their own. With eBay Enterprise’s buy anywhere, fulfill anywhere approach to commerce our clients have the leading tools to get ahead, and stay there. 
+eBay Enterprise operates three facilities in Europe. The location in Spain provides e-commerce technology and technical support for our clients based in Europe. All three offices offer a lively, dynamic, entrepreneurial feel and are expected to continue to grow as they have done in previous year. Career development and the ability to see many aspects of the international operations of eBay Enterprise create an invested involvement in the success of the International division of eBay Enterprise.
+As a Web Developer with eBay Enterprise you should have high knowledge of HTML5, CSS, SASS, JavaScript, JQuery, PHP coding, SEO, accessibility, experience in working with dynamic content websites, agile methodologies and be aware of all best practices for web developing and eCommerce.
+The main tasks include developing and coding templates in HTML5, CSS and JavaScript and implementing them into frontend/backend environments. Tasks such as content repurposing, eShop configuration are sometimes required.
+· Implement client side e-commerce websites using HTML5, CSS, SASS, JavaScript (jQuery and Ajax) and PHP;
+· Management and styling of templates (create unobtrusive and semantic code);
+· Implement client side JavaScript functionalities using the existing API and making sure we are aligned with the web development best practices;
+· Maintaining online e-commerce sites;
+· Create documentation; 
+· Understanding existing or new shops and contribute to improve, optimize and develop new features 
+Job Requirements
+· Good knowledge of HTML5, CSS, SASS (semantic and W3C compliant code, crossbrowser) JavaScript (DOM, AJAX Technologies), PHP coding and familiar with JavaScript library jQuery
+· Experience working with eCommerce platforms as Magento
+· Experience working with template systems (e.g.: smarty) and content management systems
+· Experience and/or interest in web, new technologies and capable of proposing innovative features and improvements
+· Experience working with an IDE (aptana, eclipse) with version control systems (CVS, SVN) and ticketing tools (jira, QC)
+· A smart, enthusiastic, learning person with multitasking abilities who gets things done and like to do them well
+· Experience working with agile methodologies
+· Spoken and written English and Spanish
+· A Bachelor’s Degree in Computer Science or equivalent + proven experience in eCommerce, web and web services

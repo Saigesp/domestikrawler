@@ -1,0 +1,14 @@
+
+Necesitamos un Programador Front-end por 2 meses, media jornada, para desarrollar dos interesantes proyectos en nuestra startup. 
+Buscamos una persona con amplios conocimientos de HTML/CSS y JavaScript, encargado de convertir diseño en código y funcionalidades, teniendo en cuenta la optimización para web y móvil (HTML5).
+Buscamos una persona apasionada de Internet y del desarrollo web, con alta orientación al trabajo en equipo.
+Requisitos mínimos:
+- Maquetación HTML5/CSS3.
+- Conocimientos de JavaScript, jQuery.
+- Diseño web adaptativo (responsive) y desarrollo para dispositivos móviles.
+- Experiencia con el Framework Bootstrap.
+Valoramos:
+- Experiencia con PhoneGap.
+- Metodología Agile.
+- Manejo de sistemas de control de versiones (Git).
+- Adobe Fireworks.

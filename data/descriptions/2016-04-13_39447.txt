@@ -1,0 +1,20 @@
+
+En boream estamos buscando un Programador Frontend, con experiencia en desarrollos con fuerte componente JavaScript.
+Características de la oferta:
+* Incorporación a proyectos de primer nivel, que te permitirá seguir creciendo como profesional. 
+* Formación en las tecnologías del sector. 
+* Trabajo presencial en Madrid. 
+* Oferta salarial según valía.
+Necesitamos que tengas soltura (al menos 3 años de experiencia) con lo siguiente: 
+* HTML5 + CSS3, multidispositivo aplicando técnicas RWD.  
+* Uso de preprocesadores CSS de tipo Sass o Less.   
+* Aplicación de frameworks como Bootstrap o Foundation.  
+* Nivel de Javascript alto, desarrollando habitualmente con jQuery 
+* Automatización de tareas con Grunt/Gulp, así como control de versiones en GIT
+Genial si pilotas o conoces algo de esto otro:
+* Experiencia con soluciones SPA con frameworks de tipo AngularJS o ReactJS. 
+* Uso de otros frameworks de actualidad como IONIC. 
+* Utilización de librería Polymer y su catalogo de webcomponents. 
+* Definición y desarrollo de Testing automático.  
+* Desarrollo de apps Híbridas con Phonegap o similar. 
+* Conocer y tener experiencia en metodologías ágiles tipo Scrum.

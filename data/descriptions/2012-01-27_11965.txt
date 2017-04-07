@@ -1,0 +1,10 @@
+
+Se necesita programador para incorporar a proyecto de desarrollo de aplicación.
+Requisitos: Visual Basic .NET (Entorno de desarrollo Visual Studio 2010)
+- SQL Server 2008 (lenguaje SQL y procedimientos almacenados)
+- Control de versiones con Subversion (Tortoise-VisualSVN)
+- Capacidad de análisis y resolutivo
+Recomendado: Otras tecnologías .NET
+- C# y ASP.NET
+- ADO.NET y LINQ
+Se valorará conocimientos de PHP / ASP.

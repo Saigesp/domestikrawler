@@ -1,0 +1,17 @@
+
+Profesional con amplia experiencia en desarrollo de aplicaciones web, definición de soluciones escalables y acostumbrado a multitareas.
+A nivel técnico:
+- Experiencia en entornos Linux y administración de servidores 
+	Varnish, Nginx, MySQL, Amazon Web Services (AWS)
+- HTML5 + CSS3
+- JS Frontend (jquery, angular, backbone...) 
+- PHP (Laravel, Zend Framework 2, Silex...) 
+- Prestashop
+- GIT 
+- Experiencia en el desarrollo de RESTful API's
+Funciones:
+1. Desarrollo e implantación de herramientas internas y a medida de gestión de pedidos, CRM, bases de datos...
+2. Desarrollo e implantación de nuevos e-commerce.
+3. Desarrollo e implantación de pasarelas de pago integradas en los procesos de compra.
+4. Capacidad para administrar el stack de aplicaciones y servidores.
+

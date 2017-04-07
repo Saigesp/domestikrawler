@@ -1,0 +1,21 @@
+
+Requisitos y funciones básicas a desempeñar por el candidato
+• Diseño de interfaz de la web (los psd, jpg)
+• Maquetación HTML/CSS
+• Wordpress de nivel alto. Capacidad de crear themes, saber utilizar plugins y widgets, cesión de trabajos al desarrollador para arreglos en líneas de código, etc.
+• Newsletters,Banners ....
+Funciones muy deseadas
+• Arquitectura de la información
+• Diseño de interfaz junto a un análisis para el diseño de la experiencia de usuario (UX)
+• Maquetación HTML5/CSS3 &amp;amp;amp;amp;amp;amp;amp; responsive para multidispositivos  (smarthphone, tablets, etc.)
+• Capacidad de adaptación de código javascript (JQuery).
+• Crear scripts Jquery.
+• Presentaciones interactivas.
+Otras habilidades  valoradas:
+• Tirar código: PHP, ASP, JAVA, Objetive-C
+• Gestionar servidores
+• Gestionar backups, caídas de webs, etc.
+• Creación de correos, instalación de correos, etc.
+Experiencia:
+Se requiere un mínimo de 5 años de experiencia en proyectos digitales, e-commerce, diseño web, etc…
+

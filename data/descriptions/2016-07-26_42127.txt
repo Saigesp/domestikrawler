@@ -1,0 +1,9 @@
+
+Se busca experto en Unreal Engine 4 con capacidad de impartir formación sobre este software, sobre todo en los campos de:
+-IA
+-Shaders
+-Blueprints
+-Persona
+Incorporación inmediata y contrato de larga duración. 6 horas diarias de lunes a viernes, con amplio margen de libertad y mejora de condiciones.
+Se valorará si además se tienen conocimientos para captura de movimiento utilizando sistemas como Kinect V2, Neuron, u otro método para generar un FBX para importar animación a UE4.
+Igualmente se valorarán conocimientos en Substance y Zbrush para creación de texturas avanzadas.

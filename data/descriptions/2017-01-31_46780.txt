@@ -1,0 +1,4 @@
+
+¡Hola!
+Buscamos a un programador con experiencia en NodeJS, MongoDB, HTML5 y CSS3 para incorporar en el equipo de desarrollo de Xeerpa. Si te apetece participar de un interesante proyecto haciendo uso de las tecnologías más avanzadas, y en un ambiente Startup estaremos encantados de contar contigo.
+Xeerpa ayuda a las Marcas a conocer con detalle a cada uno de sus clientes, interpretando la gran cantidad de datos que ellos mismos comparten en Redes Sociales. Nuestra tecnología Big Data está en la vanguardia mundial de las soluciones aplicadas al Marketing.

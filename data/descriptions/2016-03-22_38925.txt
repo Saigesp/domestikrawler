@@ -1,0 +1,17 @@
+
+Requisitos a tener en cuenta:
+-	Experto en JAVASCRIPT y en AngularJS. JavaScript orientado a objetos así como sus librerías y framework (incluyendo MVC). Experiencia demostrable
+-	Se valorarán conocimientos. No son indispensables pero si valorables y nos gustaría que nos indicara en porcentaje el conocimiento de cada uno de ellos:
+o	JQuery
+o	HTML5
+o	CSS3
+o	LESS y / o SASS
+o	TDD / Automatización de pruebas
+o	Responsive Design
+o	Conocimiento de otros lenguajes: PHP, C#
+o	Conocimientos de base de datos: SQL Server, MySql, Oracle, MongoDB
+o	Utilización de metodologías Ágiles: SCRUM
+Participará en el desarrollo de aplicaciones REST en colaboración con otros perfiles de desarrollo.
+Se encargará de la parte front-end de los proyectos colaborando con los desarrolladores de las diferentes API desarrolladas para proyectos con grandes organizaciones.
+En algunos proyectos será el responsable de los mismos, encargándose de coordinar al equipo de trabajo y siendo el interlocutor del cliente.
+

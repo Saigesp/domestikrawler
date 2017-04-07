@@ -1,0 +1,16 @@
+
+Buscamos programador junior para proyectos de nuestros clientes. Se encargará de prestar soporte al equipo senior en el desarrollo de nuevos proyectos así como la gestión/administración posterior de estos.
+
+Experiencia y conocimientos en tecnologías web:
+
+- HTML, CSS y Javascript
+- PHP
+- MySQL
+
+Valoramos positivamente la experiencia en:
+
+- Conocimientos de desarrollo con frameworks PHP.
+- Uso de herramientas de diseño (Adobe Photoshop)
+- Gestión de CMS (Magnolia, Adobe CQ5)
+- Herramientas de tracking (Google Analitycs, Adobe Omniture)
+ 

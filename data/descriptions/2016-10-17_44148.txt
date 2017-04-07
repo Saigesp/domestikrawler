@@ -1,0 +1,18 @@
+
+SOBRE DISTRIVET:  
+Distrivet S.A. es una empresa con más de 30 años de experiencia que se dedica a la distribución de productos zoosanitarios para el profesional de salud y cuidad animal. La empresa es líder del sector y se encuentra en un proceso de gran crecimiento y expansión gracias a su almacén robotizado y alta inversión en innovación.  
+FUNCIONES: 
+Juntamente con el equipo de informática y en dependencia del responsable del departamento: 
+- Desarrollo del  ERP corporativo (Navision Dynamics) y adaptación de este a las necesidades de la empresa. 
+- Mantenimiento y soporte en el sistema de gestión de la compañía. 
+- Desarrollo de nuevas funcionalidades web/e-commerce e integración de estas con el ERP. 
+CONOCIMIENTOS: 
+-	Experiencia en programación Microsoft dynamics NAV (Navision) 
+-	Experiencia programación y maquetación web (HTML5/CSS3/ Javascript/ PHP/ MySQL)
+-	Conocimientos de Prestashop y Wordpress
+¿QUÉ OFRECEMOS?
+-	Aprendizaje rápido y en equipo.
+-	Incorporación a una empresa sólida y de alto crecimiento.
+-	Retribución en función de la experiencia.
+-	Entorno joven y dinámico.
+

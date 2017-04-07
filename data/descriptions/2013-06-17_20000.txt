@@ -1,0 +1,7 @@
+
+Hola! Somos Mr. Roboto (http://mr.roboto.es), un pequeño estudio de videojuegos afincado en Madrid. Estamos empezando nuestro segundo proyecto y necesitamos a un programador más para abordar una parte concreta del proyecto.
+Concretamente, sería diseñar e implementar una librería de reconocimiento de gestos mediante algoritmos como 3$ o P$. 
+Es aproximadamente un mes de trabajo pagado. 
+Si os interesa o queréis más información no dudéis en mandarnos un email a hello@mr.roboto.es
+Gracias!
+

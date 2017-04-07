@@ -1,0 +1,18 @@
+
+Actualmente buscamos una persona con conocimientos en Business Intelligence y Data Mining para que nos apoye en picos de trabajo como freelance o a tiempo completo.
+Si te interesa simplemente apúntate y si conoces a alguien que podría encajar te agradecemos mucho si lo compartes.
+Necesitamos a una persona con conocimientos en: 
+- Amazon Redshift
+- Amazon DynamoDB o MongoDB
+- Amazon Kinesis
+- Herramientas de ETL y Reporting
+- PHP, MySQL y POSTGRESQL
+Buscamos a una persona flexible, con capacidad de aprendizaje y capaz de mantenerse al día en las últimas tendencias en desarrollo, tecnología y marketing digital.
+Valoramos:
+- Multidisciplinaridad y visión global: que pueda abstraerse del ámbito de la programación para entender los conceptos de negocio que afectan a lo que se está creando.
+- Experiencia en algún framework moderno de PHP (Symfony2, Laravel, etc)
+- Experiencia o capacidad para aprender el funcionamiento de un proyecto construido en Zend Framework1 
+- Capacidad para entender y modificar código desarrollado por otras personas
+- Experiencia o capacidad para desarrollar sobre CMS como Wordpress o Drupal
+- Cualquier cosa que te hagas una persona más polivalente: habilidades de frontend development, ux/ui, gestión de sistemas, business intelligence...
+Somos un equipo joven, intercultural y con mucha motivación. Si eres una persona con una mente abierta, profesional y creativa, ¡te queremos! 

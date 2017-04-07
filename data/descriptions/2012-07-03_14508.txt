@@ -1,0 +1,12 @@
+
+Buscamos un programador en tecnología móvil que sepa programar Titanium o PhoneGap.
+También que sepa programación C#.
+En concreto buscamos alguien que sepa capaz de afrontarse a un reto desconocido y resolverlo. Nuestras apps son de lo mas variadas y nunca sabemos hacia donde van a tirar.
+Sabes utilizar el GPS y Google Maps en Titanium?
+Aprendes un lenguaje de programación en un par de días? Eres el perfil que buscamos.
+Ofrecemos un contrato en practicas con posibilidad de entrar en plantilla. Para comenzar es un proyecto actual de mes y medio y según el resultado se incorporara en plantilla.
+Requisitos: 
+Haber desarrollado algo en iphone or android.
+Saber o bien Titanium o PhoneGap.
+Conocer HTML5.
+Saber c# o Java.

@@ -1,0 +1,24 @@
+
+From K-LAGAN we are looking for a SYSTEMS ADMINISTRATOR - WEB INFRASTRUCTURE for exciting project located in Barcelona city.
+The successful candidate will be responsible for provisioning, installing/configuring and maintaining systems hardware and software and related infrastructures. 
+Main responsibilities:
+- Assist project teams with technical issues regarding infrastructure matters.
+- Research and development of new technologies to improve the platform.
+- Supply, install/configure and maintain the hardware and software systems of the company. 
+- Configure servers and network to meet the needs of the organization.
+- Recommend automated approaches for system administration tasks. 
+- Contribute to and maintain system standards.
+- Perform daily backup operations, ensuring all required file systems and system data are successfully backed up to the appropriate media.
+- Enforce the security of the platform.
+Requirements:
+- Computer Engineering (or similar).
+- Minimum 3 years of experience in the area of systems.
+- High experience in configuration management tools like puppet, chef, ansible.
+- Knowledge of installation, configuration and administration of Unix operating systems.
+- Hand-on knowledge of network architectures L2 and L3 switches, routers, firewalls and load balancers, Certified (CISCO, F5, haproxy...).
+- Experience with TCP/IP protocol and common protocols (HTTP, proxies, TLS, HTTPS, SSH, SMTP, DNS, NFS).
+- Experience in Cloud computing.
+- Experience working in high traffic web environments.
+- Advanced level of English.
+K-LAGAN is a strategic engineering company and technological and industrial consultancy nationally and internationally. We work towards a common goal: to build tomorrow's enterprise and help individuals and companies around the world develop their potential to the fullest, by being a healthy, responsible and committed to society and the environment business.
+At K-LAGAN we care for people and their future. We are a participative company and our working model is based on mutual cooperation and long-term relationships. We prioritize motivation, continuous learning and wellbeing of our employees. Moreover, our privileged position in the market allows us to offer our professionals interesting career plans with different alternatives for their development and growth.

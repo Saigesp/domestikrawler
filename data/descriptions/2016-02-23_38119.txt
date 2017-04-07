@@ -1,0 +1,13 @@
+
+Playcom Agency somos una agencia de marketing online que colabora con deportistas, celebrities y empresas de gran consumo.
+Nos dedicamos a la gestión íntegra de la comunicación Social Media de las marcas para cubrir todas las necesidades comunicativas de ésta con sus seguidores.
+Buscamos un programador Web con muchas ganas de aprender e involucrarse en los proyectos, con dinamismo para desarrollar sus conocimientos trabajando en equipo. 
+Persona con los siguientes conocimientos:
+
+Nivel experto de PHP y MYSQL.
+Nivel avanzado de CSS
+Nivel medio de jquery y javascript
+Nivel experto de Prestashop
+Se considerará conocimientos de doctrine.
+Se valorará adjuntar páginas webs realizadas por la persona en el currículum.
+1 año de experiencia

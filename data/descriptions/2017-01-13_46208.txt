@@ -1,0 +1,10 @@
+
+La Empresa ARATECH busca para su oficina en Madrid un programador para la siguiente tecnología:
+Angular JS (Imprescindible).
+- Conocimientos sólidos de Javascript. 
+- Patrones de diseño e ingeniería del software
+- Conocimientos sólidos en maquetación responsive (bootstrap)
+- Conocimientos sólidos en el uso de procesador de estilos (sass / less)
+- Experiencia utilizando sistemas de control de versiones (Git)
+- Experiencia utilizando herramientas para mantener los vendors como bower o composer
+Formaría parte de un equipo de desarrollo con un gran componente tecnológico.

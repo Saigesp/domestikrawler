@@ -1,0 +1,20 @@
+
+En Iwantic, primera agencia española especializada en selección de perfiles digitales, reclutamos a los candidatos más brillantes para los empleos que están cambiando el mundo.
+En este momento, estamos buscando un QA Test Manager para una gran start-up del sector Internet en Barcelona.
+Formarás parte del equipo de I+D, al cargo de todas las actividades involucradas en el proceso de testing integral: estrategia, planificación, evaluación de la calidad y resolución de incidencias.
+Funciones:
+ -Establecer la estrategia.
+ -Implementar tests automatizados.
+ -Gestionar el vínculo con otros líderes de equipo del proyecto.
+ -Resolver incidéncias de los tests del proyecto.
+ -Asegurar la alta calidad del código.
+ -Asegurar la efectividad de los tests mediante mejoras por retroalimentación.
+Requisitos:
+ -Título de Grado/Licenciatura en Informática, Ingeniería o otra disciplina relacionada (Telecomunicaciones, Matemáticas, Física). 
+ -2-3 años de experiencia en QA y Testing.
+ -Conocimientos demostrables de herramientas de automatización y soporte como Selenium, Jenkins, Kanban, Puppet, o similar.
+ -Conocimiento medio de PHP y Javascript. NodeJS apreciable.
+ -Idiomas: inglés fluido y castellano o catalán nativo.
+ -Pasión por el diseño y la programación, y ganas de desarrollar nuevas ideas. 
+ -Ganas de mejorar y solucionar los resultados inesperados. 
+Se ofrece contratación indefinida, interesante paquete retributivo, jornada laboral completa, formación inicial, promoción interna, horario flexible y buena conciliación vida familiar-laboral.

@@ -1,0 +1,8 @@
+
+Necessitem incorporar una persona en pràctiques per a participar en el desenvolupament d'aplicacions web en PHP i HTML, principalment destinades al turisme (hotels). Fem servir un framework propi. També desenvolupem Apps híbrides.
+Requeriments:
+Es necessiten coneixements de PHP, maquetació HTML, Javascript, JQUERY...
+Es valoraran SQL, NODEJS, desenvolupament mòbil, altres frameworks...
+Mitja jornada- Matins        
+Possibilitat de realitzar conveni
+Estudis: Eng. Tèc. Informàtica de Gestió o Eng Tèc. de Telecomunicacions esp. Telemàtica

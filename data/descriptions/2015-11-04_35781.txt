@@ -1,0 +1,19 @@
+
+Almis Informática Financiera inicia un nuevo proceso de selección de personal para uno de sus clientes más importantes. Un puesto avanzado con una evolución garantizada dentro del proyecto.
+ Conocimientos requeridos:
+- ALTOS conocimientos contrastados de programación en JAVA SE multihilo o similar y bases de datos.
+- Al menos 2 años de experiencia contrastada.
+- Buen nivel de Inglés
+Conocimientos deseados: 
+-Programación orientada a eventos de baja latencia.
+-Bases de datos: Oracle, Mongo.
+-XML, Parsers, gramáticas.
+-Arquitecturas multi-hilo o tiempo real.
+-Conocimientos unix, bash, perl, scripting, etc.
+-HTML5, CSS3, Websockets, Spring, etc.
+-Entornos de integración continua, maven, teamCity, artifactory, etc.
+-Metodologías AGILE, Scrum, etc.
+Ofrecemos:
+
+- Interesantes condiciones contractuales.
+- Una gran oportunidad de desarrollar una carrera profesional dentro de una de las PYMES más mportantes y reputadas del sector.

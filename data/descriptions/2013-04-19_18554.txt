@@ -1,0 +1,7 @@
+
+Características Fundamentales :
+* Programar en PHP, ASP y HTML
+* Conocer gestores de contenidos web ( joomla, Wordpress, Magento..)
+* Administrar bases de datos SQL, MSQL y Oracle.
+* Configurar algún tipo de servidor Linux, Windows, Solaris o Unix ( DNS, DHCP, Active directory, web, programar tareas ).
+* Analítica Web. SEO

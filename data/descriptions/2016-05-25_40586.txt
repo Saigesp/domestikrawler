@@ -1,0 +1,33 @@
+
+What would be your role?
+Here at Casumo we have our lovingly crafted desktop app, our award winning mobile app, and a suite of bespoke tools to support us in being the best we can be. These are all constantly evolving through the combined creativity of everyone here. As part of the team you will help guide this evolution in collaboration with a full stack team of developers and designers, while working closely with our content producers, marketing gurus, player ambassadors, and anyone else who wants to get involved.
+There are many great ideas being suggested here at Casumo, so you will need to explore them and discover for yourself what you find most interesting, and then get stuck in! Collaboration works best with great communication so you will need to share what you are up to with the team, and reach out for help when you need it. We all share the responsibility for improving our products, our code and our teamwork so you’ll need to get involved, and above all be the change you want to see.
+Who are you?
+You are a JS developer who has worked on a number of interesting and successful projects, where you have needed to collaborate but also driven the project forward yourself. You are an open minded, honest and a driven problem solver who is, not only hungry for more learnings, but also able to spread knowledge to others around you.
+Does this sound like you?
+- Takes pride in the code they write and understands the importance of writing in a scalable and maintainable way.
+- Has a true interest that reaches beyond any course or education.
+- Eager to keep up to date with the latest JS developments and tools.
+- Loves that batman joke.
+- Independent and self motivated.
+- Can create positive changes, without losing friends over the existence of semi-colons.
+- Can work with backend developers to design awesome apis.
+- Excited to write in a declarative functional style.
+- Strong with TDD, Unit and Functional Testing in JavaScript.
+- A jolly good sentient being.
+A JavaScript Developer at Casumo
+At Casumo we strive to create the optimal developer experience. We believe every individual’s need and desires to be unique and let each developer be the main force for creating their best work environment. This includes being in control of your own schedule, tools, meetings and projects. As a frontend developer at Casumo you will work with an international, distributed and highly skilled team. We strongly value team spirit and a respectful environment. A humble and open mindset is key to reach higher aims.
+At Casumo there are many technologies and projects to dig into. Here is a brief idea of what our days look like today.
+- Development of JS webapps for mobile and desktop.
+- Native wrapper for mobile app in SWIFT.
+- Knockout, Durandal, RequireJS, Lodash, Moment, Greensock, jQuery, Bluebird.
+- Continuous Integration, you deploy when you are ready.
+- New Relic, Browserstack.
+- Selenium, Intern, Karma, Mocha, Chai, Sinon.
+- NPM, bower, gulp.
+- Jshint.
+- SASS.
+- Git, Github, Zenhub, Slack, Screenhero.
+- Vagrant.
+- Bash, Python, CoffeeScript, Java, Scala.
+- Dedicated time for experiments, it can be new frameworks, ES6 or whatever rocks your boat.

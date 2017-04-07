@@ -1,0 +1,18 @@
+
+En el departamento de Producción Digital de Shackleton en Madrid buscamos Programador Creativo.
+Requisitos mínimos:
+- Experiencia demostrable de, al menos, 2 años.
+- HTML, CSS, Javascript.
+- PHP y MySQL.
+- APIs de Facebook, Twitter, Instagram, Youtube, etc.
+- SVN / GIT.
+Se valorará positivamente:
+- NodeJS.
+- Angular, Codeigniter, etc.
+- WordPress.
+- PrestaShop.
+- Conocimientos de SEO.
+- Conocimientos de accesibilidad.
+- PhoneGap, NativeScript.
+La oferta es para trabajar presencialmente en la agencia de Madrid a jornada completa. 
+

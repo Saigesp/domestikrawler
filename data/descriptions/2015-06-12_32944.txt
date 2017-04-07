@@ -1,0 +1,14 @@
+
+We are looking for an autonomous, passionate, proactive and ambitious Junior FrontEnd Developer to join our current development team (of 4 persons). The main responsibilities will be:
+- Advanced FrontEnd Developpement using (CSS, HTML, jQuery) for our webs, backoffice, etc.
+- Email HTML optimizations using newsletter analysis tools like Litmus, etc. Working with ESP´s APIs.
+- Programming using PHP & Mysql – ocassionaly (20% he / she will be involved also in backend)
+- Data integrations (offers) via API, XML, SOAP (ej. Processing Groupon, Tripadvisor, Booking feeds) 
+- User support and error debugging. Time reporting and project integration. We use Redmine.
+Requirements:
+- 1y experience in a digital project programming with PHP and MySQL or Master Student in Programming.
+- PHP/Mysql/jQuery/HTML/CSS3 skills and knowledge are a must. Experience in working with a Framework is recommended. We use Yii Framework. 
+- Previous experience in working with an Email Service Provider Platform or with Email Marketing in general is a plus (Experian, Cabestan, Email Vision, MailChimp, Litmus, etc.)
+- We value good communication skills. You will be working every day with marketing and commercial teams.
+- Language requirement: Spanish. French and/or English are a plus.
+

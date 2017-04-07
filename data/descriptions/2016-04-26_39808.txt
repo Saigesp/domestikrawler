@@ -1,0 +1,7 @@
+
+Buscamos programador con experiencia en migración de bases de datos y dominio de Wordpress, Php, Symfony, MySQL, MongoDB, Servidores Amazon para CDN y cacheo a nivel de servidor tipo Varnish para adaptación de una base de datos de gran tamaño y complejidad de un sitio existente a su nueva versión en Wordpress.
+Programación de dos módulos/plugins de Wordpress, uno para formatear la estructura de los enlaces permanentes y otro para seleccionar taxonomías de zonas urbanas anidadas.
+Adaptación de los importadores existentes de listados de los CRMs a la base de datos del nuevo sitio.
+Parte del trabajo sería presencial en nuestras oficinas de Madrid.
+Contrato mercantil fijando hitos, entregas, plazos y pagos.
+Continuidad de colaboración en otros proyectos si entrega en fecha y con los requisitos cumplidos.

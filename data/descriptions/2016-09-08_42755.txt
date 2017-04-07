@@ -1,0 +1,9 @@
+
+¿Quiénes somos?
+Rubicon MD es una startup creada en 2011 con el propósito de transformar el sistema de salud norteamericano. A través de nuestra plataforma electrónica, ponemos en contacto a médicos de atención primaria con especialistas, facilitando la comunicación entre las diferentes áreas sanitarias y consiguiendo así diagnósticos más fiables en menos tiempo. 
+Fundada en Nueva York por tres alumni de la Universidad de Harvard, hoy en día la empresa cuenta con un equipo de 20 personas, con un sistema que se extiende por 32 Estados. 
+Dicho esto, buscamos UX designers Freelance con experiencia mínima de 5 años, capaces de crear un código limpio, sostenible y responsive. Son necesarios conocimientos de:
+- Html5 y CSS 
+- Javascript
+Se tendrán en cuenta también conocimientos en diseño web de Frontend.
+Si te motiva formar parte de un proyecto puntero que podría revolucionar el sistema sanitario de un país entero, ¡no dudes en ponerte en contacto con nosotros!

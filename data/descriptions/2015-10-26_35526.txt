@@ -1,0 +1,5 @@
+
+Estudi Llimona es un estudio de desarrollo de proyectos web que se formó como tal hace unos tres años. 
+Buscamos a alguien para resolver picos de trabajo, que controle wordpress y prestashop, pero que sepa tocar las entrañas. Para ello tiene que saber HTML5, CSS3, Javascript y la librería Jquery, MySQL y PHP, conocer el frameworks de Bootstrap.
+Preferimos alguien que viva en Mallorca. No hace falta estar presencialmente todo el tiempo pero sí eventualmente. Los proyectos pueden ser por horas o por precios acordados por ambas partes.
+

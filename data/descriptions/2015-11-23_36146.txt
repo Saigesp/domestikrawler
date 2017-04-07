@@ -1,0 +1,46 @@
+
+Descripción de la oferta:	
+Gran empresa del sector industrial, con proyección internacional y proyectos de continua expansión y crecimiento, selecciona Programador/a Senior J2EE Spring Web MVC para su Departamento de IT - Desarrollo. Colaboraría en un proyecto propio junto a un equipo de cinco miembros.
+Funciones:
+•	Análisis, Programación y Testing de mantenimientos correctivos, evolutivos y nuevos proyectos.
+•	Participación e implicación en un equipo de desarrollo ágil.
+
+Requisitos Mínimos:	
+•	Titulado/a universitario/a (medio o superior), preferiblemente en Informática o Telecomunicaciones.
+•	Perfil Analista Programador/Programador Sénior J2EE
+•	Residente en las comarca de Barcelona o Baix Llobregat.
+•	Experiencia mínima de 3 años.
+•	Java Enterprise Edition 5+: Servlets, JSP, JPA
+•	Uso extensivo de frameworks Java:
+o	“Spring Web MVC” / “Struts 1”
+o	“Spring Core”
+o	“Spring Security”
+o	Hibernate
+•	HTML y CSS
+•	JavaScript, JQuery y Ajax
+•	Rest / WebServices (JSON / XML)
+•	JUnit
+•	Maven / Ant
+•	Uso de patrones / estándares de diseño
+•	Modelado y diseño de Base de Datos E/R
+•	Uso de SQL y procedimientos almacenados
+•	BBDD: PLSQL / Oracle / MySQL
+•	SVN
+•	Eclipse
+Se valorará:	
+•	KendoUI, Angular, Backbone o similar.
+•	Otros frameworks/complementos Java: Spring batch, Dozer…
+•	JBPM / ACTIVITI
+•	Liferay
+•	Herramientas de Test: Selenium / Mockito
+•	Integración continua: Jenkins / Hudson
+•	Calidad de código: SonarQube
+•	Git
+•	Redmine
+•	Tomcat 7+ / Weblogic
+•	Inglés
+Cualidades y/o habilidades deseadas:             
+•	Trabajo en equipo.
+•	Detallista.
+•	Inquieto/a.
+

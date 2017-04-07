@@ -1,0 +1,10 @@
+
+En SetUp Media desarrollamos y rediseñamos páginas Web corporativas, Ecommerce y grandes portales.
+Programamos webs con las principales tecnologías y CMS como Prestashop, Magento o WordPress (Woocomerce), no obstante, también realizamos trabajos a medida para proyectos ambiciosos y que no quieran dependencia tecnológica de cualquier motor del mercado. Nuestra prioridad es entender los objetivos de negocio del cliente y adaptar las soluciones tecnológicas a estos.
+Ofrecemos desarrollo web para webs corporativas, proyectos e-commerce o grandes portales, ya sea ad-hoc con tecnologías custom como PHP, RUBY o Python, o con los CMS más adecuados a cada caso (Prestashop, Magento, Drupal, Joomla, WordPress…). Nuestro equipo de desarrollo web en Barcelona tiene una amplia experiencia en diseñar y optimizar cada proyecto web de forma que se adecue a las necesidades y a la imagen de marca del cliente.
+Requisitos:
+- Ingenieria informática o similar.
+- Se valorará experiencia en php, css3, html5, javascript o framework.
+- Se valorará capacidad de aprendizaje y trabajo en grupo.
+*Posibilidad de jornada parcial o completa.
+*Salario negociable.

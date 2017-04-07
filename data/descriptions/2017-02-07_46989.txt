@@ -1,0 +1,12 @@
+
+Buscamos habitante desarrollador fullstack con conocimientos en:
+Frontend: 
+Angular.js, html5, Sass, maquetación al pixel sin frameworks.
+Backend: 
+Node.js, php, asp.net mvc.
+Se valorará: 
+Wordpress api, ionic framework, desarrollo apps híbridas cordova, desarrollo de aplicaciones para internet of things.
+Te incorporarás en el equipo de desarrollo en nuestras oficinas de Madrid desde donde trabajamos en los proyectos de nuestros clientes, para startups y empresas como Mahou, Mercedes, Greenpeace.
+Aquí encontrarás un buen ambiente, gente joven y con pasión por la tecnología y el diseño interactivo.
+Además dedicamos parte de nuestros recursos a crear proyectos propios donde nos gusta contar con las iniciativas del equipo y estar en contacto con lo último, hemos desarrollado proyectos de economía colaborativa, internet of things, realidad virtual, 3D, buscando siempre divertirnos mientras aprendemos.
+¡Ven a conocernos!

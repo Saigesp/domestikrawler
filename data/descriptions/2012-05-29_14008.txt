@@ -1,0 +1,4 @@
+
+Buscamos estudiantes de informática (técnica y superior) con interés en el mundo de las apps móviles. Las funciones serían de reporting, testing en diferentes dispositivos, coordinación con el departamento técnico, etc.
+IMPRESCINDIBLE: PHP, XML, MYSQL.
+Muy valorable: IOS, Android. 

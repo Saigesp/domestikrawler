@@ -1,0 +1,12 @@
+
+Buscamos un front end developer con experiencia para incorporarse en un dinámico equipo en una plataforma de ecommerce. Formará parte de un equipo joven y multidisciplinar.
+El trabajo más importante y en donde se requiere más experiencia es en la maquetación de HTML/CSS.
+Requisitos Mínimos:
+HTML 5, CSS, y js (jQuery)
+SASS
+HTML Mobile
+Responsive design
+Git
+Herramientas de diseño: photoshop, illustrator, etc...
+Conocimientos en Web scripting: django (rails o php)
+Requisitos deseables: Javascript (jQuery)

@@ -1,0 +1,16 @@
+
+Estamos buscando un Técnico con experiencia en proyectos de Movilidad con residencia en Barcelona, para tutelar y aconsejar a una organización de primer nivel sobre los posibles desarrollos móviles y migraciones de sus distintas webs. Buscamos por tanto una persona con amplia experiencia en las principales plataformas móviles (Android / IOS).
+Tareas a realizar
+-Consultoría sobre las tendencias tecnológicas en el entorno de movilidad
+- Gestionar las distintas apps, distribución pública en app markets e interna a través de plataformas MDM.
+- Dar soporte técnico en proyectos de movilidad.
+- Manejar el parque de dispositivos móviles corporativos, configuración, instalación,etc.
+Requisitos
+- Experiencia en el trato directo con el cliente, buen discurso en presentaciones y buena aptitud comercial.
+- Nociones básicas en desarrollo y publicación de app Android/iOS
+- Al día en los avances de la tecnología móvil, apps, markets
+- Experiencia en Gestion, Distribución aplicaciones, configuración de dispositivos, plataformas
+Se valorará
+Conocimientos de desarrollo html5 y/o de software.
+-Entendimiento de las posibilidades del diseño visual, tal como composición, layout infomation, jerarquía, tipografía y color, Maquetación para multidispositivos..
+

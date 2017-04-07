@@ -1,0 +1,14 @@
+
+estamos buscando, una persona con el siguiente perfil:
+Grandes conocimientos en PHP + Mysql, experiencia en desarrollos complejos.
+Preferiblemente que conozca uno o varios de los siguientes aspectos:
+- Drupal
+- Javascript
+- Jquery Mobile
+- Jquery
+- Programación PHP y JS para Facebook SDK
+- Programación para Tuenti.
+- CSS
+- Adaptación de diseño a Themes para Wordpress
+- Adaptación de diseño a Themes para Drupal
+- HTML 5

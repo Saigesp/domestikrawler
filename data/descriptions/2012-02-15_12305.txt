@@ -1,0 +1,24 @@
+
+We are looking for a Senior PHP developer to join our front-end development team in Barcelona.
+Profile
+B.Sc. in computer science or comparable work experience.
+Experience in profesional web developments with PHP, SQL, HTML, CSS and JavaScript technologies.
+Minimum of 3+ years of work experience.
+Good communications skills and creative mind.
+Skills and requirements
+Strong knowledge and experience of Symfony2 or other PHP frameworks.
+Experience in working with relational databases such as MySQL or PostgreSQL.
+Experience in testing.
+Experience in version control systems such as GIT.
+Knowledge of WebServices and other technologies like RESTFUL and JSON.
+Fluent English is required. Knowledge of Spanish is not required.
+Work permit for the European Economic Area.
+We offer
+Competitive salary + compensation package.
+Relocation packages for candidates from outside Barcelona
+Snacks, coffee, soft-drinks, coffee, beer and coffee
+Interesting lunch discussions and silly jokes
+Application: The application must include
+Curriculum Vitae
+Description of past projects
+Send application to jobs@brandcrumb.com and specify job title in the email subject.

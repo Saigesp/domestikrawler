@@ -1,0 +1,21 @@
+
+Buscamos un desarrollador PHP (Backend) con experiencia para incorporarse a nuestro equipo de Tecnología.
+Requisitos mínimos
+•	Desarrollo PHP con frameworks MVC (Laravel, Symfony, CakePHP...)
+•	Conocedor de tecnologías de front (Bootstrap, foundation)
+•	Conocimientos de GIT 
+•	Conocimientos de  MySQL, SQL, MongoDB
+•	Experiencia en desarrollo de API rest
+Se valorará positivamente
+•	Frameworks Mobile buenos (Ionic) 
+Aptitudes
+•	Ganas de trabajar con un equipo abierto y compartiendo el 90% del trabajo
+•	Mentalidad diaria de "tengo una idea buenísima..." 
+•	Buenas vibraciones
+•	Cualquier curiosidad tecnológica que se domine y pueda ser útil
+•	Flexibilidad, adaptación a diferentes entornos y tipos de proyectos
+•	Habituado/a a trabajar en entornos de gran innovación tecnológica
+Se ofrece:
+•	Incorporación inmediata a empresa en continuo crecimiento
+•	Integración en un equipo de profesionales jóvenes, motivados, en un ambiente de trabajo innovador y dinámico
+•	Formación y desarrollo profesional continuo

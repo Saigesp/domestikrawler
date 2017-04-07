@@ -1,0 +1,27 @@
+
+Flexiant es una compañía de cloud pionera en Europa y estamos en proceso de rápida expansión, atendiendo a nuevos clientes y desarrollando nuevas y emocionantes soluciones software. Desarrollamos software de orquestación cloud para empresas de hosting, centros de datos y proveedores de telecomunicaciones. Estamos empezando un nuevo y excitante proyecto en Flexiant y necesitamos un Desarrollador/a Backend en nuestra Oficina Española en Sevilla. 
+El puesto
+Como Desarrollador/a, tendrás que escribir código backend de alta calidad para una plataforma cloud innovadora. El perfil que buscamos tiene algunas características de DevOps, puesto que la plataforma debe automatizar algunas tareas de administración de sistemas y facilitar formas de trabajo basadas en esta filosofía. En este puesto no faltarán los desafíos, pues cada día deberás ayudar a un equipo de personas con talento, pequeño pero dinámico, a liderar la innovación en la nube. 
+Lo que ofrecemos
+Esperamos ofrecer un salario comprendido entre los 30.000€ y los 36.000€ brutos anuales.
+Experiencia y habilidades deseadas
+Un buen candidato/a debería ser autónomo/a, aprender rápido y tener una actitud proactiva ante la resolución de problemas. También debería tener:
+	* Experiencia en administración de sistemas UNIX/Linux y Windows
+	* Experiencia con al menos dos lenguajes orientados a objetos
+	* Experiencia con sistemas de control de versiones (SVN o Git)
+	* Experiencia con virtualización o servicios cloud de IaaS
+	* Experiencia con herramientas de infrastructure-as-code (Chef, Puppet, Salt, Ansible, Vagrant)
+Además, nos gustaría saber si tienes alguna de las siguientes:
+	* Titulación universitaria en Informática
+	* Nivel medio en lectura/escritura de inglés técnico
+	* Experiencia con Docker (o contenedores en general)
+	* Experiencia con Ruby, Go o Node.js
+	* Experiencia con algún framework MVC
+	* Experiencia con Rails o Sinatra
+	* Experiencia aplicando TDD/BDD
+	* Experiencia con RSpec y/o Cucumber
+	* Experiencia con bases de datos NoSQL como MongoDB
+	* Experiencia usando o desarrollando APIs RESTful
+	* Experiencia con cualquier metodología Agile
+	* Contribuciones a proyectos open-source y/o cuenta en Github con muestras de tu trabajo
+Sabemos que nadie tendrá todas las habilidades citadas, así que no te preocupes si no las puedes marcar todas. Principalmente lo que necesitamos es que seas capaz de lidiar con cualquier cosa que te pongamos por delante, que trabajes autónomamente y que produzcas código fiable a ser posible un poco antes de que nosotros siquiera pensemos en sugerirte empezar a escribirlo.

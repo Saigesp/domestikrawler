@@ -1,0 +1,11 @@
+
+PERFIL;
+	Estudiante en informática / ingeniería
+•	Curioso y apasionado en aprender sobre nuevas tecnologías
+•	Conocimientos en PHP y Javascript
+•	Usuario de GitHub
+•	Responsabilidad y seriedad
+MISIÓN: 
+•	Liderar proyectos de PHP
+•	Participar en proyectos Ruby on Rails
+•	Acompañar los equipos de redacción en Drupal

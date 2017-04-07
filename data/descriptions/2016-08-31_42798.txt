@@ -1,0 +1,17 @@
+
+En Iwantic estamos buscando un Administrador de sistemas (junior) para una gran start-up del sector Internet en Barcelona.
+Queremos a alguien a quien le interese unirse a una compañía en crecimiento y con un equipo joven, dinámico y con talento. 
+Conocimientos requeridos:
+ -Título de Grado/Licenciatura (o superior) en Informática, Ingeniería o otra disciplina relacionada (Telecomunicaciones, Matemáticas, Física).
+-Conocimientos demostrables de Docker, Docker containers, Docker Engine, Docker registry y dockerize apps.
+ -1 año o más en administración de sistemas basados en linux. Nivel LPIC-101/102 demostrable (no hace falta certificación pero se tendrá en cuenta nivel LIPC 2+).  
+- Conocimientos demostrables en el cloud y de administración relacionada con networking y routing. 
+- Conocimientos de lenguaje Python/Bash demostrables (se tendrán en cuenta conocimientos de PHP) .
+- Idiomas: nivel nativo de catalán y español. Buen nivel de inglés (al menos First Certificate Level). 
+- Pasión por el diseño y la programación, y ganas de desarrollar nuevas ideas.
+Se ofrece:
+ -Valoramos la iniciativa, creatividad, imaginación y responsabilidad. 
+ -Formación y aprendizaje. 
+ -Ambiente dinámico y multilingüe. . 
+ -Horario flexible y adaptable según las necesidades. 
+ - Salario según valía.

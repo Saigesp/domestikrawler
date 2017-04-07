@@ -1,0 +1,34 @@
+
+Buscamos dos Ingenieros de software versátiles para el desarrollo de nuestra aplicación en .NET. 
+Con muchas ganas de aprender en las 2 personas que buscamos y compromiso con el equipo y los proyectos.
+Requisitos:
+Generales:
+Ingeniería de Informática/Teleco (o cualquier otra Titulación Universitaria siempre y cuando demuestres que sabes programar y tienes conocimientos demostrables suficientes, creemos y valoramos mucho las personas que auto-aprenden y se motivan por ello)
+Mínimo de experiencia en puesto similar: 1 año
+Necesarios:
+Experiencia programando en C#/.NET
+LINQ / Entity, SQL
+HTML 5, CSS 3 y Javascript (jQuery, Bootstrap)
+Experiencia en MVC de .NET
+Persona comprometida y organizada, con ganas de crecer
+Se valorarán conocimientos de:
+VB.NET
+Tecnología Selenium
+API Google Adwords y API Google Analytics
+Framework Telerik Kendo UI
+Ofrecemos:
+Carrera con vistas a largo plazo.
+Trabajarás en una joven empresa innovadora, en constante crecimiento, sólida y respetuosa con tus intereses.
+Desarrollar e innovar constantemente
+Si no te apetece convertirte en otro consultor de traje y corbata, ¡este es tu sitio!
+Descripción de la empresa:
+Dooflow S.L.L. somos una start-up de base tecnológica dedicada al desarrollo.
+Dooflow ha sido seleccionado como una de las 40 empresas más innovadoras en desarrollo de software y con mejor proyección de España por el Ministerio de Economía e Industria. Ya está comercializandose en varios países de Europa y América.
+Hemos sido seleccionados como empresa innovadora  en representación de Rivas Vaciamadrid ante la Comunidad de Madrid.
+Nuestros desarrollos están desarrollados con .NET, MVC y sistemas de virtualización remotos. Utilización de entornos de BigData y analisis estadístico de resultados. Supervisión remota Selenium.
+Ambos desarrollos son propios, nada de ir a clientes de terceros a programar en un ambiente tenso.
+¿Qué ofrecemos? El lugar de trabajo es en nuestras oficinas en Rivas Vaciamadrid en el Parque empresarial Santa Ana. Horario de entrada flexible, con jornada intensiva los viernes y en verano. La oficina es muy luminosa, sin despachos. 
+Hay sitio para aparcar sin problemas en las calles colindantes. Contamos con un office y desayunos a cargo de la empresa. Intentamos ser ágiles y mantener una organización horizontal.
+
+No te quedes, ¡ven con nosotros!
+

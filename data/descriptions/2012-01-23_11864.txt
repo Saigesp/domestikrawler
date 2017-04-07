@@ -1,0 +1,13 @@
+
+· Experiencia integración de los servicios web a través de contenidos json para dispositivos móviles y arquitectura cliente técnicas relacionadas en general.
+· Programación Java.
+· Experiencias de programación previas en android
+Conocimientos Plus(No necesario)
+· Experiencia de codificación de aplicaciones de Blackberry.
+· Capacidad de proporcionar información sobre la priorización de las características con fuerte sentido de diseño orientadas al usuario.
+· Capacidad para identificar las características únicas de las interfaces de dispositivos específicos y definir la interfaz de usuario adecuada y los requisitos del producto en consecuencia.
+· Capacidad para trabajar de forma independiente, establecer plazos y ejecutar el plan.
+· Familiarizado con el uso, la solución de problemas y la especificación de API del sistema o de externos tipo conexiones facebook o twitter de la aplicación movil.
+· Fuertes habilidades analíticas y de resolución de problemas.
+·  Ingeniería Informática o experiencia equivalente.
+· Dominio de Inglés escrito nivel requerido, intermedio de Inglés hablado.

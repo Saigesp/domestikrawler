@@ -1,0 +1,39 @@
+
+Onebox es una empresa líder en el desarrollo de tecnología para la venta de entradas de espectáculos y actividades de ocio. Ubicados en Barcelona, nació con el objetivo de devolver a los organizadores de eventos el control total sobre sus eventos, gracias a una plataforma innovadora que les permite gestionar su venta de entradas de manera centralizada.
+Nuestra filosofía se centra en cuatro aspectos clave: Innovación, Servicio al Cliente, Espíritu de Equipo y Atención a la Calidad. Para conseguirlo trabajamos con metodologías ágiles para el desarrollo de nuestro producto y buscamos a profesionales que compartan la preocupación por la agilización de procesos. 
+Si eres una persona motivada, enérgica, con ganas de trabajar en una empresa líder y en expansión internacional, en un ambiente joven, dinámico y con ganas de aprender y desarrollarte ¡eres la persona que buscamos! 
+Misión del puesto:
+El Frontend Developer implementa aplicativos Web siguiendo los estándares actuales: HTML5, CSS3, Javascript.
+Desarrollarás y evolucionarás los aplicativos web de Onebox, así como el desarrollo de nuevas aplicaciones, funcionalidades y herramientas que aporten valor añadido y ventajas competitivas a la plataforma y a sus usuarios.
+Trabajarás en un equipo multidisciplinar y autogestionado, basado en metodologías ágiles y con la tecnología más puntera como AngularJS, Grunt, JavaScript, Foundation, HTML5, CSS3, Git.
+¿Qué buscamos?:
+-	Un jugador de equipo, con voluntad de ayuda. 
+-	Una persona que disfruta los retos y hace propuestas.
+-	Atención al detalle y la calidad.
+-	Proactividad e inquietud por las nuevas tecnologías.
+-	2 o más años de experiencia en desarrollo Frontend.
+-	1 año de experiencia en desarrollo con Angular.
+-	Buenos conocimientos de HTML5, CSS3, Responsive Design, Javascript.
+-	Conocimientos / experiencia en API Rest tanto a nivel de desarrollo como de integración.
+-	Buen conocimiento del funcionamiento y protocolos que rodean el mundo web: HTTP.
+-	Habilidad para trabajar con un equipo creativo.
+Ganarás puntos si además:
+-	Acostumbrado a trabajar con metodologías ágiles.
+-	Conocimientos en herramientas de automatización de tareas tipo Grunt.
+-	Tienes conocimientos en:
+o	Patrón MVC
+o	Deployment automático
+o	Karma y Protractor
+o	Frameworks de Preprocesado CSS (LESS, SASS)
+o	Estándares HTML5 y CSS3
+¿Qué ofrecemos?
+Una compañía dinámica y en pleno crecimiento, que apuesta por la formación continua de su equipo, altamente motivado y ambicioso. Además, ofrecemos beneficios como:
+-	Opción de disfrutar de retribución flexible.
+-	Clases de inglés.
+-	Horario flexible de entrada y de comida.
+-	Fruta variada.
+-	Viernes jornada intensiva.
+-	Bonus si traes otros grandes profesionales como tú.
+-	Eventos mensuales de After Work.
+-	Sorteos periódicos de viajes en europa.
+

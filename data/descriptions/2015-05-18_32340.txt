@@ -1,0 +1,13 @@
+
+Estamos buscando un diseñador gráfico y maquetador de frontend que se incorpore a nuestra plantilla de manera inmediata. 
+Los requisitos mínimos son:
+- Experiencia en diseño de landing pages orientadas a la conversión con Photoshop, Illustrator o similar.
+- Conocimientos de maquetación con HTML 5 y CSS3. El candidato debe ser capaz de maquetar lo que diseña.
+- Conocimientos y experiencia con arquitecturas responsive.
+- Conocimientos de javascript/jQuery, al menos a nivel de utilizar alguna librería o plugins básicos (jQuery UI, sliders, tooltips, etc).
+Los conocimientos y experiencia que además valoraremos positivamente son:
+- Conocimientos básicos de PHP
+- Haber trabajado antes con algún control de versiones (Subversion, GIT, Mercurial, etc)
+- Tener nociones de los factores SEO on-page (estructura, marcado semántico, schema.org, etc)
+- Tener experiencia previa en el uso de herramientas de A/B testing (VIsual Website Optimizer, Optimizely, etc).
+El trabajo es presencial a jornada completa en la zona de Pozuelo de Alarcón (Madrid), a 10 minutos andando de la estación de Cercanías de Aravaca.

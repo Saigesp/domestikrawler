@@ -1,0 +1,23 @@
+
+Descripción puesto
+ADL Partner Hispania necesita incorporar un programador que se encargará de definir la arquitectura y de programar nuevas aplicaciones Web basadas fundamentalmente en PHP y MySQL o PostgreSQL sobre linux. Será responsable de todo el desarrollo backend, aunque tendrá también que corregir/adaptar el código del frontend proporcionado por los maquetadores. Deberá gestionar a los diseñadores/maquetadores para que se atengan a las especificaciones técnicas del sitio, y trabajar conjuntamente con el equipo de marketing online para que la aplicación incorpore todos los requisitos funcionales. Se encargará también del mantenimiento y la realización de modificaciones sobre los sitios web ya activos.
+Se ofrece contrato indefinido.
+Requisitos imprescindibles
+- Familiaridad con entornos linux
+- Conocimientos de PHP avanzados, y de uso de frameworks (Zend, Symfony o CakePHP).
+- Conocimientos avanzados de SQL (con MySQL o PostgreSQL)
+- Conocimientos avanzados de maquetación web XHTML/CSS
+- Conocimientos avanzados de Javascript y de librerías javascript (jQuery) y programación asíncrona (Ajax)
+- Crítico: Estricta disciplina en limpieza y documentación de código, y elaboración de manuales
+- Muy estructurado y organizado, seguimiento de paradigmas OO y MVC
+- Imprescindible proactividad y ganas de mantenerse permanentemente actualizado
+- Capacidad de escribir documentación en inglés y leer informes técnicos en inglés
+- Experiencia mínima de 1 año desarrollando aplicaciones bajo las condiciones mencionadas
+- Título universitario (o bien técnico, o bien de grado, o bien superior, relacionado con la ingeniería informática)
+Aunque no es imprescindible, se valorará:
+- HTML5 / CSS3
+- Node.js
+- Desarrollo en entonos móviles
+- Integración con redes sociales
+- Experiencia en manejo y programación de CMS de e-commerce (Joomla+Virtuemart, Prestashop, Magento, OsCommerce, …)
+

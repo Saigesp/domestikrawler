@@ -1,0 +1,14 @@
+
+EIKOS Technology & Consulting es una empresa especializada en la prestación de Servicios Profesionales, Consultoría y Formación en el Área Informática, en el ámbito de las nuevas Tecnologías de la Información.
+La plena satisfacción de sus clientes es la meta a alcanzar.
+Para ello, utiliza su amplio conocimiento del ámbito funcional y tecnológico al que se dirige, los principios de calidad que la definen desde su origen y la rigurosidad en el cumplimiento de sus compromisos.
+Buscamos Programadores con experiencia en Java/J2EE para incorporar en departamento de desarrollo:
+- Conocimientos en: JPA, EJB3, SQL (Oracle) y PL/SQL.
+- Experiencia en Java/J2EE de 2 años.
+- Estudios Ingeniería Técnica.
+- Nivel medio Inglés.
+Ofrecemos:
+Buen ambiente de trabajo con gente joven.
+Lugar de Trabajo en Madrid capital.
+Estabilidad Laboral.
+Retribución salarial en función de la valía profesional del candidato

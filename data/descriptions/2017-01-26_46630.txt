@@ -1,0 +1,24 @@
+
+We are looking to add an experienced, full time DevOps to manage our System and Cloud Infrastructure
+The ideal candidate must have great experience in AWS environments, big experience in Continuous Delivery, with proactive attitude with great communication skills.
+The successful candidate will work helping the team to perform tasks of installation and management of Linux based servers, implementation of High Availability systems and deployment of Applications using continuous delivery methods.
+The candidate will also be in charge of the internal network (~5-10% of the time)
+Profile requirement:
+BS in Computer Science, related degree, minimum 5 years experience.
+Experience working on high criticality and high availability environments.
+Experience working with Continuous Delivery environments
+General technical skills:
+Agile methodologies. (SCRUM, Kanban..)
+Deep knowledges with AWS (EC2, ECS, S3, RDS, VPC, Security Groups, ELB, ElastiCache, Route53, Beanstalk, CloudFormation, etc..)
+Continuous integration system (GoCI, Travis, Jenkins...)
+Automation configuration scripts
+Experience with Docker Containers and Microservices Architecture
+Containers management tools (ECS, Swarm, Kubernetes…)
+Deep knowledge on HA Architecture.
+Deep knowledge on Nginx server acting as a REST API gateway
+Database Cluster (RDS, database replication, HA)
+Shell scripting (bash, python...)
+Network storage system (nfs)
+Non relational storage systems (Redis, MongoDB...)
+Knowledge on logging and reporting system (Logstash/Fluentd +Elasticsearch + Kibana)
+

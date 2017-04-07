@@ -1,0 +1,28 @@
+
+DESCRIPCIÓN DE LA EMPRESA
+HuddleApp es una plataforma que permite crear Apps interactivas, sociales y específicas para eventos. Somos una startup con un equipo joven con sede en Barcelona y Nueva York. Nuestra filosofía es crear un equipo de perfiles A, cualificado, motivado y puntero.
+
+TAREAS Y FUNCIONES:
+- Planificar, desarrollar y programar una plataforma propia para la webapp, para que sea más eficiente, modular y escalable. Ha de permitir mejorar las funciones actuales e incorporar nuevas funcionalidades personalizadas. 
+- Dirigir equipo técnico, compuesto por 3 programadores junior.
+- Gestionar la infraestructura tecnológica.
+- Programar aplicaciones de clientes junto al resto del equipo técnico.
+- Desarrollar nuevas funcionalidades y mejoras del producto.
+CONOCIMIENTOS REQUERIDOS
+A nivel técnico, se requieren los siguientes conocimientos:
+
+- Wordpress - Ruby on Rails - HTML5 - CSS3 – JS - jQuery - PHP - MySQL  
+Wordpress: Creación de plugins, gestión de multisite, creación de themes
+Maquetación acorde a responsive web design
+- Scrum - Gestión de equipos
+- Git – Sistema de control de versión de equipos
+- Administración de sistemas unix básica
+- Ideal pero no imprescindible: Ruby on Rails y AngularJs 
+A nivel de experiencia laboral, se requiere:
+- Haber liderado un proyecto web 
+- Al menos 3 años de experiencia como programador informático trabajando con las tecnologías requeridas
+- Nivel alto de inglés, tanto escrito como hablado
+- Con ganas de formar parte de un equipo joven y ambicioso, altas dotes comunicativas, organizado, proactivo y con experiencia liderando equipos
+- Será un plus si la persona tiene carácter emprendedor o ha trabajado en startups anteriormente 
+
+CONTRATO INDEFINIDO A JORNADA COMPLETA. Sueldo a negociar según la valía del candidato/a.

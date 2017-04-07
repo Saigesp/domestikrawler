@@ -1,0 +1,5 @@
+
+En dependencia del Customer Manager, se responsabilizará de evolucionar las herramientas de gestión de campañas y comunicaciones con el cliente en entornos digitales (e-mail, SAS, web, Mobile, Social CRM) e identificación de nuevas oportunidades de innovación en la realización con el cliente, desarrollando pilotos y roll- out hasta su entrada en producción y transferencias a otras organizativas e implantación de las acciones de modelo de relación multicanal .
+Funciones: evolutivo del gestor de campaña
+Evolucionar los sistemas actuales de gestión de campañas a tiempo real, implantación de acciones del Modelo de Relación multicanal B2B y B2C, gestión del cliente personalizada, etc.
+

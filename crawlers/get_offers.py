@@ -1,7 +1,6 @@
 # -*- coding: UTF-8 -*-
-import os, json, time, csv, re
+import os, time, csv
 from bs4 import BeautifulSoup 
-from datetime import datetime
 from urllib.request import Request, urlopen
 
 # python -c "from get_offers import *; get_offers()"
@@ -22,7 +21,7 @@ def get_offers():
 	pagenum = 0
 	totalpages = 551
 	debug = True
-	filename = 'jobslinks2.csv'
+	filename = '/home/saigesp/git/domestikrawler/data/jobslinks2.csv'
 	with open(filename, 'w', newline='') as csvfile:
 		writer = csv.writer(csvfile, delimiter = ',')
 
@@ -48,7 +47,7 @@ def get_offers():
 						data = [job['date'], job['_id'], job['title'], job['url']]
 						writer.writerow(data)
 					except:
-						print(time.strftime("%Y-%m-%d %H:%M:%S") + ' codec cant\'t decode')
+						if debug: print(time.strftime("%Y-%m-%d %H:%M:%S") + ' codec cant\'t decode')
 
 					# Debug
 					if debug:

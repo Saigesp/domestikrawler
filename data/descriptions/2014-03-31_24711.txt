@@ -1,0 +1,25 @@
+
+N2, Ingeniería de la Información somos una empresa que ofrece servicios de alto nivel tecnológico en el ámbito de los sistemas de información. 
+La visión de IN2 es ser una empresa Innovadora, de Soluciones Tecnológicas en ámbitos concretos de mercado, de Alta Calidad, Rentable, de Prestigio y Marca conocida, que cree firmemente que su principal activo son las personas y sabe colaborar con sus "partners" en la consecución de sus objetivos. 
+Nuestro Objetivo es ofrecer Servicios de Alto Valor en Proyectos y Estrategias sobre Tecnologías de la Información. 
+En la actualidad estamos buscando estudiantes de último curso o recién licenciados de Ingeniería Técnica o Superior de informática interesados en participar en nuestro proyecto IN2. 
+Las funciones serán:
+- Elaborar la solución informática de acuerdo con los estándares de programación y con las especificaciones del análisis para la consecución de la funcionalidad prevista. 
+- Efectuar el control de calidad, realizar pruebas de todos los programas para identificar errores y garantizar el correcto funcionamiento de su código.        
+REQUISITOS:
+- Estar cursando último curso de estudios o pendiente de entrega de proyecto fin de carrera, o recién licenciado. 
+- Buen expediente académico. 
+- Posibilidad de asistir a la formación, durante 2 meses, en horario de mañanas de 9 a 14h. 
+- Aportar conocimientos previos en tecnologías ASP.NET.
+OFRECEMOS:
+- Formación Becada en ASP.NET, de una duración de 2 meses a media jornada, con posterior posibilidad de formar parte de nuestro equipo de desarrollo de alto rendimiento .NET en empresa líder europea. 
+*Programa: 
+- SOLID Principles of Object Oriented Design 
+- Arquitectura Orientada a Dominio 
+- 2. Ioc 
+- Design Patterns 
+- Windows Communication Foundation 
+- JavaScript 
+- ASP.NET MVC 4 
+- Ayuda económica de 8€/hora. 
+- Posibilidad de incorporarse, superada con éxito la formación, en empresa líder europea.

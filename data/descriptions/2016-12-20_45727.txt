@@ -1,0 +1,8 @@
+
+Technology Managed Services ofrece servicios tecnológicos desde su conceptualización hasta su puesta en marcha. Contamos con un sólido portfolio de soluciones en Tecnologías de la Información, Procesos de Negocios, Ingeniería e Infraestructuras Tecnológicas.
+Somos un equipo humano altamente cualificado, cuya principal misión es satisfacer las necesidades actuales y futuras de nuestros clientes. Siendo el Distribuidor exclusivo de BinaryTree para Iberia.
+Seleccionamos para nuestras oficinas en Madrid un ingeniero de virtualización recién graduado.
+Se requiere poseer:
+-Conocimientos de virtualización (VMware)
+-Conocimientos de sistemas, especialmente Linux Red Hat.
+Se ofrece un plan de carrera a medida para garantizar la formación del candidato seleccionado, adquiriendo desarrollo profesional junto con un equipo de ingenieros.

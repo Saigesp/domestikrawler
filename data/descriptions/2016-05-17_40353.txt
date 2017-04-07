@@ -1,0 +1,34 @@
+
+Brandish es una nueva plataforma para explorar en toda su esencia tus marcas favoritas.
+Brandish pone al alcance de tu mano una interacción integral con la marca y de sus productos, desde la imagen de la compañía y de sus spots publicitarios, hasta la visión del cliente y la posibilidad de acceder a las mejores ofertas de sus productos.
+Brandish te acerca, antes que nadie, lo nuevo de cada marca, te permite sumergirte en su backstage accediendo a contenidos exclusivos, a su historia y, por supuesto, a testimonios y opiniones de creadores y usuarios.
+En definitiva, Brandish magnifica el alma de las marcas.
+Si quieres ser parte del crecimiento de este proyecto internacional, unirte a un equipo comprometido con su misión de optimizar la interacción entre usuarios y sus marcas favoritas, nos encantará saber de ti lo antes posible. ¿Te unes a nuestro reto?
+Como FULL STACK DEVELOPER serás responsable de:
+- Desarrollar en todas las capas web (full stack) 
+- Implementar las diferentes interfaces web
+- Trabajar cercanamente con los equipos de producto e infraestructura para construir y escalar servicios back-end
+Buscamos a un profesional (idealmente):
+- Con capacidad para entender las necesidades del negocio y de los clientes
+- Proactivo y con capacidad de trabajar de manera autónoma 
+- Que busque continuamente cómo mejorar en su trabajo 
+- Con excelentes habilidades comunicativas, pensamiento crítico y de resolución de problemas 
+- Con experiencia y capacidad para entender el diseño completo de productos y la estrategia de los proyectos 
+- Con experiencia en Start-ups tecnológicas
+- Con nivel alto de inglés
+Requisitos técnicos:
+- Experiencia diseñando Restful APIs limpios y escalables
+- Experiencia en bases de datos SQL (preferentemente Postgres) 
+- Experiencia en back-end (preferentemente con Django) y en bront-end
+- Experiencia con la gestión de proyectos basada en Agile / SCRUM 
+- Conocimiento de Python, Go, JavaScript, HTML, XHTML, CSS, JavaScript
+- Experiencia con el modelo pull-request de Git
+- Experiencia con docker y dockerhub
+- Conocimiento de UX / UI
+Valorable: Experiencia con AWS (EC2, S3, SQS) , Heroku y otros PaaS
+Ofrecemos:
+Contrato indefinido
+Retribución competitiva
+Trabajo flexible y optimizado (SCRUM)
+Proyecto Internacional
+Equipo de trabajo joven y cercano

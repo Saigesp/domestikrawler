@@ -1,0 +1,23 @@
+
+Empresa ubicada en el Parque Tecnológico de Málaga, busca incorporar en su plantilla a UN/A SENIOR DEVELOPER en .NET
+1. REQUISITOS MÍNIMOS.
+Experiencia mínima de 2 años como programador con tecnología .NET con las siguientes herramientas:
+ASP.NET
+WCF
+AJAX
+JavaScript/JQuery
+HTML5/CSS3
+Bases de datos SQL Sever y dominio de lenguaje SQL
+VB.NET ó C#
+Visual Studio 2010/2012/2013 (TFS o Sourcesafe)
+WinForms
+2. REQUISITOS ALTAMENTE VALORABLES.
+ASP.NET MVC
+Java Applets
+Diseño Gráfico y Maquetación
+Gestor de portales de contenidos DotNetNuke
+3. SE OFRECE. 
+La oportunidad de trabajar en un importante proyecto. 
+Jornada laboral completa 
+40h. semanales 
+Salario: 18,000-22,000€ (en función de la experiencia del candidato)

@@ -1,0 +1,10 @@
+
+Importante multinacional referente en su sector fabricante de componentes mecánicos y electrónicos, precisa para sus instalaciones en Málaga:
+DATABASE ARCHITECT (DBA)
+En dependencia de la Dirección de Operaciones, será el encargado de administrar las tecnologías de la información y la comunicación, siendo responsable de los aspectos técnicos, tecnológicos, científicos, inteligencia de negocios y legales de bases de datos. Esto le implicará tareas tales como:
+- Desarrollar, implementar y administrar el software para el sistema de procesamiento de datos de proceso basado en bases de datos relacionales para la trazabilidad de los productos y procesos.
+- Realizar los requisitos y datos avanzados de análisis de necesidades tales como (SPC, control de la eficacia, visualización y la mejora continua de productos y procesos).
+- Asumir la dirección técnica, para asegurar que todos los aspectos de la arquitectura se estén implementando de manera correcta en el entorno empresarial.
+- Encargarse de la mejora continua de la arquitectura y a su vez estar abierto a modificarla utilizando las sugerencias o feedback que se pueda obtener de otros miembros de la organización.
+Se requiere: Ingeniero Informático con formación complementaria en bases de datos relacionales (oracle, microsoft SQL Server), desarrollo software (windows, *.net), tecnologías de internet, tecnologías de análisis avanzado tanto matemático como estadístico. Experiencia previa en sector industrial de al menos 5 años en tareas similares. Excelente capacidad para trabajar en equipo y habilidades de comunicación son absolutamente necesarias. Debe tener un nivel alto de inglés, hablado y escrito.
+Se ofrece: Incorporación inmediata, contrato indefinido. Retribución económica de interés y posibilidades de desarrollo profesional.

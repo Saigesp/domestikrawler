@@ -1,0 +1,6 @@
+
+Buscamos equipo Freelance para diseño y desarrollo de Aplicación Mobile para iOS y Android.
+El proyecto idealmente debería desarrollarse en alguna plataforma tipo: Titanium / PhoneGap / Xamarin, aunque no nos cerramos a un desarrollo nativo.
+Buscamos equipo experimentado en SCRUM con especial cuidado por el detalle y proactividad para aportar mejoras al sistema que puedan dedicar al menos mitad de jornada en exclusiva al proyecto durante los meses más críticos.
+El acuerdo que ofrecemos es un contrato de desarrollo basado en los hitos definidos en base SCRUM.
+

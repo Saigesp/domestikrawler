@@ -1,0 +1,14 @@
+
+Precisamos incorporar desarrollador front-end con amplia experiencia en desarrollo HTML+CSS y sólidos conocimientos de Javascript. 
+Debe tener una experiencia mínima de al menos 3 años y cumplir los siguientes requisitos:
+*Experto en maquetación HTML+CSS (y uso de HTML5 y CSS3).
+*Desarrollo con código limpio, semántico y reutilizable.
+*Sólidos conocimientos de Javascript, jQuery y desarrollo de plugins.
+*Familiarización con las APIs de documentos web (DOM).
+*Conocimiento de técnicas Responsive web design.
+*Conocimientos de accesibilidad y estándares W3C.
+*Control de versiones GIT.
+*Experiencia de desarrollo de web móvil.
+Ofrecemos:
+* Contrato por Obra y Servicio (Proyecto de 2 meses) o posibilidad de colaboración Freelance.
+* Salario acorde a la experiencia aportada por el candidato.

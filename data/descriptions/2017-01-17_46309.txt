@@ -1,0 +1,25 @@
+
+Se requiere programador PHP con experiencia en Symfony Framework, para funciones de back-end principalmente, y front-end ocasionalmente.
+Imprescindible el cuidado por la calidad, limpieza y organización en la codificación.
+Se valorará muy positivamente tener proyectos publicados en repositorios tipo GitHub.
+Requisitos necesarios:
+- PHP 5
+- Symfony 2
+- Doctrine 2
+- MySQL
+- JavaScript
+Requisitos deseados:
+- GIT
+- jQuery
+- Bootstrap
+- Twig
+- HTML5
+- CSS3
+- LESS/SASS
+- Estándares PSR
+- Experiencia con Web Services
+- Experiencia con API's de terceros.
+Horario: 
+Jornada completa
+Remuneración: 
+ Según experiencia y aptitudes.

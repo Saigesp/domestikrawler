@@ -1,0 +1,17 @@
+
+Goodleads es una startup tecnológica que forma parte de un grupo multinacional en constante crecimiento en el Marketing Online. Nuestras oficinas  en España se encuentran en Sitges.
+Buscamos una persona motivada y con ganas de trabajar en equipo. Inglés y/o deseables pero no indispensables.
+Buscamos una persona con experiencia  en programación PHP y con conocimientos en varias disciplinas. El perfil buscado es una persona apasionada de Internet, metódica, organizada en su trabajo y habituada al trabajo en equipo.
+Estudios mínimos:
+-	Ciclo de grado superior en informática
+Requisitos:
+-	Experiencia deseada de 1 año en programación WEB con PHP.
+-	Experiencia en maquetación HTML/CSS (compatibilidad de navegadores IE, Firefox, Safari y Chrome).
+-	Experiencia en BBDD (MySQL, SQL Server).
+-	Conocimientos de Javascript (JQuery/Ajax).
+-	Conocimientos de framework Zend.
+-	Conocimientos de XML y SOAP.
+-	Conocimientos de Suite Adobe (Photoshop / Fireworks).
+-	Inglés y/o deseables pero no indispensables.
+-	Jornada Completa.
+-	Incorporación inmediata.

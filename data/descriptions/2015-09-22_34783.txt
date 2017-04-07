@@ -1,0 +1,19 @@
+
+Buscamos de manera urgente Programador o Analista programador con conocimientos y experiencia en el desarrollo de proyectos online, con las últimas tecnologías para la interacción con el usuario (HTML5, CSS3, AngularJS, etc).
+Las funciones a desarrollar en el puesto son las siguientes:
+- Desarrollo y mantenimiento back-end de portales web.
+- Desarrollo front-end de la maqueta web.
+- Diseño e implementación de nuevos webservices, bases de datos, y aplicaciones web de negocio.
+- Elaboración de nuevas funcionalidades.
+- Resolución de incidencias.
+- Migración de portales.
+LUGAR DE TRABAJO:
+Madrid.
+Muy buen ambiente de trabajo, dotado de los recursos necesarios y en evolución metodologica continua.
+Potenciamos el uso de open source, de la iniciativa y las inquietudes personales.
+Entorno LAMP en departamento de programadores php / mysql
+REQUISITOS
+- Estudios mínimos: Formación Profesional Grado Superior - Informática
+- Experiencia mínima Al menos 2 años 
+Se requiere incorporación inmediata.
+

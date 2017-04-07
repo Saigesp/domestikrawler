@@ -1,0 +1,6 @@
+
+FantasticoPets la App con mayor número de usuarios dueños de mascotas en España busca un programador con experiencia en programación en xCode para completar nuestra App para iPhone.
+La App está lista para ser completada y falta añadir :
+Login con usuario/password
+Soporte iBeacons.
+Para el desarrollo de la misma ponemos a disposición del candidato nuestras oficinas en Valencia. A la finalización del proyecto existe la posibilidad de incorporarse a la empresa si es de mutua conveniencia.

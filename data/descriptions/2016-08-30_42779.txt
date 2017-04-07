@@ -1,0 +1,14 @@
+
+Requisitos:
+•	Conocimientos avanzados de PHP y MySQL
+•	Al menos 2 años experiencia de programación orientada a objetos
+•	Conocimientos del entorno Asterisk y VoIP 
+Se valorará:
+•	Conocimientos de HTML5, CSS3, AngularJS, Bootstrap, jQuery, JSON, Frameworks (Symfony, Zend, Laravel, etc)
+•	Experiencia en programación de portales
+Descripción del puesto
+Diseño, desarrollo y mantenimiento de múltiples webs para la promoción y venta de servicios con las últimas tecnologías para la interacción con el usuario (HTML5, CSS3, AngularJS, etc)
+El programador podría apoyar a otros sistemas y aplicaciones de soporte interno
+Muy buen ambiente de trabajo, dotado de los recursos necesarios, con herramientas de última generación.
+Potenciación del uso de open source y de la iniciativa y las inquietudes personales.
+

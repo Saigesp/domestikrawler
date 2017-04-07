@@ -1,0 +1,25 @@
+
+We are developing a very exciting user-friendly Vacation Rental web application!
+We're seeking a skilled PHP & AngularJs full stack developer to put full time hours into further development of our product used by many property managers around the world (we are in private beta). The application is mostly done using PHP and AngularJS. There are also other services using Ruby and NodeJs. Our product has been in production for more than a year and our users are very happy.
+One of our goals is work with people that care about the product. If things go right, you will find your self being part of a very diverse team, with people from all around the world, where you ideas count and where you can make a difference on the direction of the company.
+You will be working directly within our team in implementing back-end and front-end functionality. Usually your team leader will be describing to you (in text and sketched) the features and bugs that you will work on and we all review and give feedback to your code via Github (our team is composed of several senior devs with lots experience).
+We obsess about thoughtful code and only want to work with people we can trust 100%.
+Requirements:
+Speaks and writes English fluently
+100% reliable and able to work independently
+Secure enough to raise questions if something is unclear or just not right
+Ability to make reasonable projections about the time you will spend on tasks
+Proficiency with latest version of AngularJs and PHP
+Experience with acknowledgment of TDD
+Good understanding of SQL and preferably experience with MySQL
+Solid experience using Git
+Well trained with HTML, CSS and Javascript/Coffeescript
+A basic understanding of usability
+Plusses:
+Domain knowledge within the vacantion rental Industry
+Experience with DevOps, preferely AWS Beanstalk
+Good design skills
+Ruby and or NodeJS experience
+In addition to your salary we will share our development knowledge and resources to help you become a better programmer.
+If you want to apply for the job send us a code snippet that we can read in a few minutes, and attach a few sentences explaining what's great about it.
+Note: part time is not out of the question, but will depend on the candidate's added value.

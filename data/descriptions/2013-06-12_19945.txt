@@ -1,0 +1,36 @@
+
+Midokura.com, a successful provider of SDN solutions for IaaS clouds, is seeking a JavaScript developer with a broad-range of Front-End experience, including server-side and UI/UX.
+As a CoffeeScript/JavaScript engineer, you’ll be tasked with building out the face of our disruptive network virtualization technology.  The primary project is building our control panel, which is used for management and troubleshooting of the entire virtual network for public and private clouds.  Since we’re dealing with large scale networks, part of the challenge is presenting complex data sets and topologies in an easy to swallow form.   You’ll be working with a small team, and have an opportunity to shape the direction of our product moving forward.    Working on the control panel requires tight communication with product and technical development teams within Midokura.
+About Midokura
+Midokura is a global software startup founded in 2010 with offices in San Francisco, Tokyo, and Barcelona. We make software which provides distributed, de-centralized, virtual network overlays for Infrastructure as a Service (IaaS) platforms. Our core product, MidoNet, provides layer 2-7 networking services in a distributed system for cloud platforms such as OpenStack™, and CloudStack™. If you enjoy challenging yourself and learning everyday in a fast-paced environment, while working with great team members which inspire, and having a good time while building cutting edge technology that will power tomorrow’s infrastructure, Midokura could be the place for you.
+Responsibilities
+- Write front-end code in CoffeeScript, HTML/CSS, TypeScript, and JavaScript.
+- Implement new features and optimize existing ones from controller-level to UI.
+- Work closely with, and incorporate feedback from, product management, UI designers, customers, and other engineers.
+- Creating innovative new ways to easily manage complicated things.
+- Responsible for creating a great UI and UX for our customers.
+
+Requirements
+- Personal projects that show aptitude for front-end engineering and product design
+- Excellent programming skills in JavaScript, and CoffeeScript
+- Comprehensive understanding about DOM and DOM Event Model
+- Deep knowledge on HTTP and REST
+- Expert CSS and HTML skills
+- BS, MS, or PhD in Computer Science or related degree
+Desired
+- Obsessed with creating simple, beautiful user experiences
+- Experience with agile development practices
+- Experience with jQuery, D3, Backbone.js, and TypeScript
+- Experience with iOS or Android development
+- Ability to visualize large amounts of data in a beautiful and elegant waysOpen Positions at Midokura
+Other Requirements
+- EU Residence
+Compensation
+If you’re a successful candidate, you’ll receive a highly attractive and competitive compensation package which includes base salary, pre-ipo stock, and excellent benefits.
+Perks
+- Travel the world by visiting our overseas offices
+- Flexible hours
+- Free beverages, and snacks
+- Work from home days
+- Reimbursements for commuting
+- Help with apartment searches

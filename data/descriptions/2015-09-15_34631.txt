@@ -1,0 +1,29 @@
+
+Ventura24 is recruiting a Freelance Frontend Developer with the following responsibilities:
+•	Work in the frontend part of different online ecommerces that are part of the group
+•	Develop with Agile Methodologies (Scrum) and be part of a scrum team
+•	Contribute with solutions to the company technological strategy, committing to the quality standards, design rules and architecture.
+•	Carry out senior frontend developer tasks
+Qualification and skills:
+•	Experience in agile development methodologies (Scrum or Kanban)
+•	Experience in web technologies:
+•	HTML5 and CSS3
+•	JavaScript
+•	jQuery, AngularJS, RequireJS, validate.js
+•	Responsive Web Design
+•	Css frameworks such as Bootstrap or Foundation 
+•	Css preprocessors such as LESS or SASS
+•	Html preprocessors such as Jade
+•	Web performance optimization
+•	Version Control software such us Git or SVN
+•	Excellent skills solving complex problems in a highly dynamic environment.
+•	Good level of English language, preferably having worked in multicultural environments.
+Nice to have:
+•	Familiar to Java technologies:
+o	Spring MVC
+o	Thymeleaf
+•	Web design and knowledge of Adobe Creative Suite tools
+•	User Experience:
+•	User tests experience
+•	Low and high definition prototyping with Axure
+

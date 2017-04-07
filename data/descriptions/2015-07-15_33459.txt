@@ -1,0 +1,23 @@
+
+Intermarket Marketing is seeking a Web Developer to join our team in our office in Barcelona.
+We need a talented Full Stack Developer to join our creative team. 
+The successful candidate will work with our Marketing department in the development of responsive apps and the maintenance of existing sites. We need someone to join our in-house team at our open office spaces in Passeig de Gracia.
+What we offer:
+- International working environment
+- You'll be able to plan the technology to use in the starting projects
+- Openness to personal initiatives and start-up ideas
+- Top talent team of Visual Designers, Ilustrators, Cartoonist, UX designers, and business directors
+Required skills:
+PHP5 OOP, Javascript, jQuery, MySQL
+HTML5, CSS3
+Knowledge of at least one Content Management System (e.g. Joomla)
+Familiar with online-shops (web transaction software, payment-processing software and security software)
+Excellent English, written and spoken
+Desired skills:
+Experience with AJAX
+Knowledge in PHP Templating System Smarty
+Knowledge of Linux OS
+Knowledge of framework PhoneGap for developing Android and iOS applications
+Basic IT Support for communication with external IT Service. (Local servers, mail server, PC setups, WLAN, local minor problems, DNS + DHCP LAN management)
+Management of our Development Environment
+Working & setup with Ticket System

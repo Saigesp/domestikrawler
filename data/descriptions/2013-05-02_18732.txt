@@ -1,0 +1,9 @@
+
+Buscamos un profesional que sepa maquetar con Drupal para trabajar sobre un proyecto en curso. 
+En Apia estamos rehaciendo nuestra web: el diseño y la estructura y el principio de la maquetación están realizados en Drupal . Buscamos una persona capaz terminar el trabajo.  
+La nueva web es muy parecida a la actual www.apia-es.com. 
+Requisitos de la web : 
+- multi-idioma
+- gestor de diapositiva que incluye video
+- formularios de envio
+Si su perfil profesional corresponde a la oferta, estaremos encantados de entrar en contacto. 

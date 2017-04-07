@@ -1,0 +1,28 @@
+
+Desde Cegos Selección buscamos analistas programadores para una importante empresa del sector público de tecnología, empresa pionera en tecnología de vanguardia que realiza actividades de ingeniería, consultoría... en diversos sectores (medioambiente, agrario, ganadero, forestal...). 
+Proyecto de 1 año renovable.
+Funciones:
+Diseño y desarrollo de funciones y módulos de la aplicación informática.
+Documentar las actividades desarrolladas
+Utilización de la base de datos de la aplicación, apoyando en la creación de tablas y objetos de BD
+Elaborar documentación técnica-informática de la aplicación
+Imprescindible:
+Base de datos ORACLE 11g (nivel medio)
+ID Eclipse (nivel alto)
+Frameworks JAVA (Struts2, Sprins, Hibernate) (nivel alto)
+Jasper Report (nivel medio)
+Herramienta de control de versiones (nivel medio)
+Valorable:
+Métodología Métrica V3
+TOAD u otra herramienta de manejo ORACLE
+Otras bases de datos
+Componente DHTMLX
+Desarrollo para plataformas móviles
+HTML5 y CSS3
+Desarrollo de servicios Web
+Desarrollo con sistemas de integración continua
+Experiencia imprescindible:
+2 a 4 años como analista programador en JAVAJEE y 2 años Como programador Java
+Al menos 2 años en desarrollo con Frameworks Struts2, Spring e Hibernate
+Al menos 1 año en desarrollo de informes con Jasper Reports
+

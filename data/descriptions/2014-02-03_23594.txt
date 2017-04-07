@@ -1,0 +1,17 @@
+
+En arroba estamos buscando un programador creativo con conocimientos amplios y más de 4 años de experiencia en:
+- Html
+ -Js
+ -Php
+ - Mysql
+- Desarrollo en facebook y Twitter
+Conocimientos básicos de:
+- Sistemas (LAMP y WAMP)
+- Photoshop
+ -WordPress
+ -SVN u otro tipo de control de versiones
+ -Flash
+Conocimientos no necesarios pero que se valorarían en:
+- Ruby
+ -.net
+ -Python

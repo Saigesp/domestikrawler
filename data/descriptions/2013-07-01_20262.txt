@@ -1,0 +1,16 @@
+
+Vacolba Telecomunicaciones precisa incorporar Programadores / Administradores de Sistemas para el desarrollo e integración de los sistemas internos. Se buscan personas en contacto con las últimas tecnologías tanto de desarrollo como de infraestructuras para incorporarse a nuestro equipo.
+REQUISITOS INDISPENSABLES:
+- Sistemas operativos Windows Escritorio y Servidor
+- Sistemas operativos Linux (preferible Debian)
+- Administracion y configuración de MySQL, nginx, php
+- Conocimientos de programación orientada a Objetos
+- Programación HTML (preferible HTML5), CSS y JavaScript
+- Programación con Ruby y Ruby On Rails
+- Conocimientos de Asterisk
+- Conocimientos de VoIP
+SE BUSCAN PERSONAS:
+- Proactivas y con sentido de la iniciativa
+- Alto potencial
+- Experiencia demostrable
+

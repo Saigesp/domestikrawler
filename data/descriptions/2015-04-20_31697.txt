@@ -1,0 +1,21 @@
+
+Buscamos para nuestra oficina de Gijón un programador con alto nivel de Wordpress.
+Conocimientos deseables:
+- Wordpress
+- PHP
+- HTML
+- CSS
+- Javascript
+- MySQL
+- Maquetación web
+- Desarrollo de plantillas para Wordpress
+- JQuery
+- Se valolarán conocimientos en Moodle y SCORM.
+Buscamos un profesional:
+- Proactivo.
+- Resolutivo.
+- Capacidad de gestionar proyectos.
+- Con ganas de aprender.
+- Con capacidad de trabajo en equipo.
+- Con gusto por el código limpio.
+

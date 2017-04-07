@@ -1,0 +1,5 @@
+
+Buscamos al mejor desarrollador back-end residente en Madrid con conocimientos de aplicación fluida en Javascript, Node JS y  bases de datos MySQL o PostgreSQL.
+Además, nos gustaría que tuviera conocimientos en bases de datos NoSQL como MongoDB o CouchDB, dominio de AJAX y PHP y Express.
+Estamos desarrollando un proyecto relacionado con gamification realmente ilusionando y bonito.
+

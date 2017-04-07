@@ -1,0 +1,9 @@
+
+Necesitamos un Back-end para trabajar dentro del departamento de Tecnología Creativa. Para nosotros es muy importante trabajar en equipo y por ello nos gustaría encontrar a gente con una actitud proactiva, positiva y con una mente creativa. Con ganas de afrontar retos, con capacidad para gestionar problemas y solucionarlos. 
+Requisitos 
+Se valorara los conocimientos avanzados en los siguientes lenguajes de programación: 
+-PHP, MySql, JavaScript y jQuery. Especialmente en JavaScript. 
+-Experiencia con las APIs de Terceros ( Twitter, Facebook, Instagram, Google Maps, Dropbox...) y con distintos frameworks.  
+- Que tenga nociones de  HTML y CSS. 
+- Haber trabajado mínimo 3 años en Agencias de Publicidad. 
+

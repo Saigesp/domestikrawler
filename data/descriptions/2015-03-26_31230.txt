@@ -1,0 +1,18 @@
+
+En Renovatio Comunicación buscamos incorporar a nuestra plantilla un nuevo programador web.
+Pedimos: 
+- Programación server-side PHP experto o con conocimientos avanzados de framework CodeIgniter o Laravel.  
+- Programación client-side: HTML5+CSS3, Javascript, jQuery.
+- Conocimientos de CMSs:  WordPress, Joomla, Drupal, Magento
+- SEO
+- Bases de datos: Transact-SQL para SQL Server, Oracle, mySQL o PostgreSQL 
+- Sistemas Linux. 
+- Gestión de proyectos con GIT
+- Conocimiento en administración de servidores web Apache
+- Se valorará experiencia en trabajo con APIs de Facebook, Google Maps, Youtube, Twitter...
+... Y le ofrecemos: 
+- Incorporación inmediata
+- Horario flexible
+- Sueldo a convenir según valía
+- Trabajar en el centro de Madrid (zona Atocha)
+

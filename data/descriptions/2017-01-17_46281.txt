@@ -1,0 +1,31 @@
+
+OFERTA DESARROLLADOR JAVA
+En Loycus estamos buscamos un programador de aplicaciones J2EE, con amplios conocimientos de Java, para el desarrollo de aplicaciones backend.
+¿Qué es Loycus?
+¡Todavía no podemos desvelarte los secretos de nuestro proyecto pero ya queda mucho menos para que se haga realidad! Aunque de momento te contaremos que Loycus va ser el mayor punto de encuentro de negocios y profesionales con todos los usuarios que tienen alrededor ;)
+Necesitamos a una persona muy responsable, que empuje en el desarrollo del proyecto, tomándolo como propio. 
+Se valorará y se ofrecerá un crecimiento profesional en base al grado de implicación y empuje, como al trabajo aportado.  
+¿Cuáles son los requisitos de la oferta?
+-Tienes que tener conocimientos de programación Java, 1.8, para desarrollo de aplicaciones J2EE Spring, Spring Security, JPA
+-Habe trabajado con llamadas API REST, JSON
+-Tener experiencia de SQL, MySql, Mongo-DB
+-Conocer GIT
+-Llevar al menos tres años en desarrollo de aplicaciones para Java
+-Se valorará conocimientos con metodología scrum y herramientas como JIRA, Bitbucket, Jenkins
+-Se valorará conocimientos de Docker 
+-Se valorará conocimientos de JHipster
+-Se valorará conocimientos api paypal y pasarelas de pago.
+De qué estarás al cargo…
+Trabajarás en un equipo multidisciplinar
+Tendrás que implementar la funcionalidad con un muy buen desarrollo y aportando una gran experiencia
+Crearás test de prueba para asegurar la calidad del producto.
+Estar al día de nuevas tecnologías, evaluar e implementar para tener un desarrollo los más eficiente posible.
+Hacer tuyas las funcionalidades a desarrollar, trabajar en equipo y con los diferentes actores responsables del proyecto.
+Trabajar mano a mano con el resto de desarrolladores y diseñadores  
+Tomar responsabilidades en los plazos de  entrega y calidad de las funcionalidades desarrolladas
+Qué ofrecemos...
+Salario a convenir según experiencia (21k - 35k Brutos anuales)
+Oficina centro de Madrid 
+Buen ambiente de trabajo 
+Contrato indefinido
+Comienzo del trabajo, tan pronto como sea posible

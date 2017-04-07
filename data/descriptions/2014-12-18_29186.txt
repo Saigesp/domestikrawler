@@ -1,0 +1,8 @@
+
+Somos una empresa especializada en el desarrollo de aplicaciones web y móvil y software empresarial con una clara apuesta por la calidad y la mejora continua. Nuestro equipo está formado por profesionales en usabilidad, diseño, maquetación, gestión de proyectos y desarrollo en varias tecnologías.
+Buscamos un perfil junior que complete y apoye nuestra gestión de proyectos. Valoraremos:
+- Experiencia en gestión de proyectos
+- Conocimientos de usabilidad
+- Familiarizado con el uso de herramientas de gestión de proyectos. Especialmente Pivotal Tracker, Jira y similares
+- Experiencia en control de calidad de desarrollos
+   - Persona abierta con capacidad de comunicación y relación con clientes.

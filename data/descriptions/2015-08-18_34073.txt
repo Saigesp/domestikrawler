@@ -1,0 +1,18 @@
+
+Buscamos un/a Becario/a para el departamento de informática de la empresa.
+Sus principales funciones serán:
+Helpdesk:
+o Migración de equipos
+o Instalación y desinstalación de S.O.
+o Office
+o Instalación / Desinstalación de Software
+o Análisis y resolución de incidencias
+o Organización y documentación
+o Configuración de impresoras en red
+Sistemas
+o Conocimientos de Active Directory, DNS, DHCP
+o Conocimientos Networking: LAN, Firewall
+o DFS (Servidor de ficheros), Servidor de impresión, Terminal Server, Webapps, etc..
+Jornada de 5/6 horas, mañana
+Centro de Trabajo: Calle Milán 38 (Madrid)
+

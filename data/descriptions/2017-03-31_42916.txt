@@ -1,0 +1,11 @@
+
+¡Somos un equipo multidisciplinar de emprendedores inconformistas que están cambiando el mundo náutico!
+Buscamos a profesionales con más de 3 años de experiencia demostrable. 
+Se valorará:
+· Experiencia con angularjs
+· Sólidos conocimientos de desarrollo con javascript
+· Conocimientos de herramientas de compartición de código Git (GitHub, Bitbucket)
+· Experiencia Java
+· Experiencia Mongodb
+· Experiencia en el sector de la consultoría y/o proyectos de envergadura similares
+· Persona seria, organizada y con orientación a la consecución de objetivos

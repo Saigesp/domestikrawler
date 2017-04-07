@@ -1,0 +1,17 @@
+
+Necesitamos incorporar maquetador / desarrollador front-end por ampliación de equipo de trabajo en Alicante.
+Funciones:
+Creación de estructura de la web junto al resto de equipo 
+Capacidad para gestionar proyectos con otros miembros del equipo y ajustarse a tiempos y fechas de entrega 
+Desarrollo de nuevos proyectos desde cero, manteniendo contacto con clientes 
+Dar apoyo a las diferentes partes del equipo junto a otros desarrolladores
+Requisitos necesarios y experiencia demostrable (mínimo de un año):
+Edición de imágenes y banners 
+Maquetación HTML5 y CSS3 
+Dominio medio de WordPress para maquetar HTML, CSS y la personalización de templates 
+Conocimientos de usabilidad y experiencia de usuario 
+Alta capacidad organizativa para manejar múltiples proyectos 
+Conocimiento de javascript, Jquery y PHP
+Persona responsable y organizada 
+Actitud proactiva para trabajar en equipo 
+No se valorarán candidaturas que no incluyan portfolio de proyectos realizados.

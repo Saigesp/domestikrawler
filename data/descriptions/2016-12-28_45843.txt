@@ -1,0 +1,21 @@
+
+Buscamos una persona con experiencia tanto en desarrollo con AngularJS y Javascript, como en maquetacion HTML5 y CSS3 responsiva y uso de Bootstrap, para distintos proyectos de desarrollo que tenemos en nuestra empresa. Será recomendable tener experiencia en desarrollo de aplicaciones móviles híbridas basadas en Phonegap/Cordova e Ionic, e interés por el UI/UX.
+Funciones:
+- Escribir código eficiente, limpio, mantenible, escalable y reutilizable.
+- Desarrollar y desplegar nuevas funcionalidades.
+- Que pueda hacerse cargo de las pruebas del código que desarrolle de forma eficiente
+- Identificar y solucionar problemas de rendimiento y escalabilidad
+Imprescindible:
+- Conocimientos sólidos de AngularJS y Javascript.
+- Conocimientos sólidos en maquetación responsiva con HTML5/CSS3
+- Conocimientos de Bootstrap.
+- Consumo de APIs REST.
+- Experiencia utilizando sistemas de control de versiones (Git)
+Recomendables:
+- Experiencia en desarrollo de aplicaciones móviles híbridas con Cordova/Phonegap e Ionic
+- Conocimientos en el uso de procesador de estilos (sass / less).
+- Experiencia utilizando sistemas de control de versiones (Git).
+- Experiencia en Node.js.
+- Experiencia en UI/UX.  
+Mínimo 2 años de experiencia demostrable. 
+Incorporación inmediata.

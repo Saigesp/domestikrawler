@@ -1,0 +1,8 @@
+
+Buscamos a un crack en Electrónica que tenga experiencia con Arduino o similar, complementos, conexiones y programación. Y que sepa interpretar con facilidad esquemas eléctricos.
+Se necesita diseñar un producto basado en Arduino y NodeMCU .
+Tareas
+- Realizar un estudio de los fabricantes principales de un producto de comunicación y sus características.
+- Validar si ese producto es compatible con Arduino.
+- Hacer boceto esquemático de Conexiones y posible producto final. 
+- Desarrollo de Prototipo.

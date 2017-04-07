@@ -1,0 +1,34 @@
+
+Se busca Developer para Nektria, startup disruptiva basada en Barcelona con capital de Silicon Valley
+Se busca perfil de ingeniero de sistemas o ingeniero de telecomunicaciones con conocimientos de programación enfocados sobre todo en el backend.
+Funciones
+- Desarrollo de evolutivos.
+- Mantenimiento de aplicaciones.
+- Construcción de soluciones y algoritmos punteros basados en inteligencia artificial aplicada a redes de movilidad de personas y mercancías (con formación previa).
+- Participación en un programa personalizado de mentoring y desarrollo personal.
+- Incorporación como socio de la compañía a medio plazo.
+Aptitudes (y entornos)
+- Al menos 1 año de experiencia previa.
+- Experiencia previa en desarrollo Symphony2 / PHP.
+- Buenos conocimientos en PHP5, OOP (programación orientada al objeto), patrones de diseño, frameworks (Symphony2), ORMs (Doctrine 2).
+- (seria un plus) Conocimiento de al menos uno de los conectores principales para e-commerce: Shopify, Magento, OpenCart, PrestaShop,
+WooCommerce, etc.
+- (sería un plus) Conocimientos de MySQL y programación para bases de datos).
+- Unit testing (PHPUnit), TDD (Test Driven Development), desarrollo Agile (SCRUM un plus).
+- Sistema de Control de Versión (Git).
+- Conocimientos entorno LAMP - Linux, Apache, MySQL.
+- (sería un plus) Amazon Web Services y Webservices (resto).
+- Conocimientos de HTML, CSS, JavaScript, jQuery, JSON y XML.
+- Conocimiento general en arquitectura de sistemas.
+- Muy valorable: experiencia previa en desarrollo de marketplaces.
+- Inglés medio indispensable, castellano medio indispensable.
+- Persona creativa, auto-motivada, proactiva con vocación de crecer.
+- Capacidad de trabajo en equipo.
+- Interés por las startups y emprendeduría .
+Formación
+- Ingeniería informática o telecomunicaciones o grado formativo de grado superior en informática o programación.
+Qué ofrecemos
+- Incorporación a una empresa startup con una cultura joven y dinámica y con tecnología rompedora apoyada por inversores y advisors
+internacionales de renombre.
+- Salario fijo + stock options (a partir del segundo año).
+- Horario flexible.

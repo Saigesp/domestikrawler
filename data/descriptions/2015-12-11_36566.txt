@@ -1,0 +1,16 @@
+
+*1. Descripción del trabajo a realizar*
+Terminar la implementación de la aplicación Android nativa, que está en fase de desarrollo:
+        - Implementación de varias vistas sencillas de la app
+        - Implementación de notificaciones en status bar de Android
+        - Ajuste de estilos de toda la app
+        - Depuración de toda la app
+*2. Perfil requerido*
+        - Desarrollador Android, con experiencia
+        - Valorable: experiencia en desarrollo de aplicaciones con integración de mapas
+        - Valorable: experiencia con Java, Spring, Hibernate, MySQL
+        - Valorable: experiencia con HTML5, Javascript, AngularJS
+*3. Condiciones*
+        - Preferiblemente, trabajo en las oficinas de Cycle-IT
+*4. Plazos*
+        - Fecha de comienzo: inmediata

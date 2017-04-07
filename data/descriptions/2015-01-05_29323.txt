@@ -1,0 +1,18 @@
+
+Smilemundo es una organización sin ánimo de lucro que usa la innovación para educar y sensibilizar. 
+Estamos buscando a un programador freelance para incorporarse a un proyecto de juego educativo. 
+SmileUrbo es un juego de simulación interactivo que promueve los valores de la cooperación y la educación al desarrollo, fomentando las capacidades de negociación, comunicación y trabajo en equipo.
+Características del puesto de trabajo:
+- Incorporación al proyecto de desarrollo y mejora del juego educativo SmileUrbo (www.smileurbo.com).
+- Duración estimada del trabajo a realizar: 5-6 meses a media jornada
+- La persona que se incorpore trabajará de modo independiente, siendo el único programador del proyecto. 
+Funciones:
+- Participar en el desarrollo de la versión 2.0 del juego
+- Participar en el desarrollo de la plataforma de e-learning alrededor del juego 
+Requisitos:
+- 2 años de experiencia trabajando en entorno PHP 
+- Framework: FatFree
+- Conocimiento de bases de datos MySQL
+- JavaScript, HTML, CSS
+-  Bootstrap
+Estamos buscando a una persona resolutiva y autónoma, con capacidad de organización y ganas de formar parte de un equipo colaborativo.

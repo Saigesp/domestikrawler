@@ -1,0 +1,15 @@
+
+ElectryConsulting selecciona para sus oficinas centrales en Barcelona un Programador y Desarrollador Web que tenga más de dos años de experiencia  en puestos similares, no se aceptarán candidatos que no cumplan con la experiencia mínima marcada, para incorporación inmediata.
+Requisitos:
+-	Experto en gestión BBDD en ACCES con programación avanzada en VISUAL BASIC.
+-	Experiencia a nivel avanzado en AJAX – CSS – HTML5 –PHP - JQUERY – MYSQL – SQLSERVER.
+-	Experiencia a nivel medio avanzado en FRAMEWORKS  Symfnoy.
+-	Nivel de Inglés medio avanzado.
+-	Experiencia y desarrollo de proyectos en .net demostrables en la entrevista.
+-	Experiencia mínima de 2 años en proyectos similares.
+-	Disponibilidad inmediata.
+Beneficios:
+-Sueldo fijo según convenio laboral.
+-Salario entre 18.000€ – 24.000€
+-Tipo de Contrato: Indefinido
+

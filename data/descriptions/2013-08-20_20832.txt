@@ -1,0 +1,7 @@
+
+TourRadar is looking for a Junior Web Developer to join our team in the Vienna office. Our new team member will work closely with our Tech Team based in Vienna and St. Petersburg and the TourRadar management. You will be assigned tasks and will need to solve these efficiently and independently. 
+TourRadar works in a fast-paced environment where ideas are more than welcome, they get tested and evaluated. Creative minds that think out of the box will feel at home at TourRadar and experience a working environment of a true online travel Start-Up.
+Responsibilities:
+Assist in brainstorming, planning and creation of Website enhancements/ relaunches, A/B tests, Facebook App improvements, XML feed updates, API changes and much more. Depending on your skill level and engagement you will be assigned to projects and will hold responsibilities thereof. 
+Requirements:
+Candidate must have fluent verbal and written English communication skills, with a sound understanding of and interest in web, advertising, marketing, social media and mobile. The perfect candidate has a profound understanding of HTML5, CSS3, PHP5, SQL/MySQL,JavaScript and jQuery. Experience with CodeIgniter, AJAX, Smarty and XML is greatly welcomed and knowledge of Facebook API, Google Plus API and Google Maps API is appreciated. 

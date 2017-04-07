@@ -1,0 +1,17 @@
+
+Se ofrecen prácticas para estudiante de informática (Ingeniería, Ingeniería técnica o Grado) para trabajar en tareas de testeo y soporte en empresa situada en el centro de madrid. Los requisitos, se detallan a continuación:
+Requisitos mínimos:
+- Desarrollo de plantillas en html y javascript, siendo valorable disponer de experiencia previa creando páginas web en html y javascript.
+- Conocimientos y experiencia en el uso de los sistemas operativos mac os y windows (administración, uso, resolución de problemas, etc).
+- Conocimientos teóricos sobre los sistemas de gestión de contenidos (cms), tales como drupal. 
+- Conocimientos medios del idioma inglés. Lectura y escritura.
+- Disponibilidad inmediata.
+Valorable:
+- Experiencia en testing de sitios web.
+- Conocimientos de herramientas de testing como selenium.
+- Disponer de conocimientos en php.
+- Experiencia con algún cms preferiblemente drupal.
+- Conocimientos en administración de sistemas y redes.
+- Disponer de conocimientos en sistemas de control de versiones (svn), configuración de servidores apache y scripting en linux.
+Horario de 9:00 a 18:00. 
+Viernes de 9:00 a 14:00.

@@ -1,0 +1,9 @@
+
+Somos una agencia de publicidad en Valencia, muy inquieta y activa que precisamos incorporar a nuestro equipo un profesional maquetador-programador web para desarrollar varios proyectos web durante tres meses como mínimo. 
+Freeland presencial jornada de  8 a 14 h. 
+Imprescindible indicar retribución deseada y portfolio.
+Requisitos:
+- Html5, CSS3, Javascript, JQuery, PHP,
+- Wordpress, etc, 
+- Conocimiento entorno Mobile. 
+- Base de datos MySQL.

@@ -1,0 +1,12 @@
+
+Se busca programador para colaborar y desarrollar la User Interface the una máquina de Vending. 
+Se necesita diseñar la interficie de usuario, mantenimiento de la máquina y la comunicación con el hardware de la máquina.
+Puntos a implementar por el candidato:
+-Configuración e instalación del sistema operativo
+-Implementación de la interficie para touch screen
+-Comunicación con el puesto informático exterior
+-Integración y sincronnización con el Hardware 1(impresora ticket).
+-Integración y sincronnización con el Hardware 2(dispensador de cambio monedas).
+-Integración y sincronnización con el Hardware 3(stackeador billetes).
+Una propuesta de lenguage para la máquina sería de QT con base windows, pero queda abierto a propuestas por el candidato.
+Interesado contactar por email: amyclab.jobs@gmail.com

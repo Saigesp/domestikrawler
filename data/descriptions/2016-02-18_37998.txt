@@ -1,0 +1,16 @@
+
+Busco a un programador en prácticas / beca para que me eche una mano con los desarrollos que me van surgiendo. Trabajo con muchas tecnologías, tanto front como back.
+Me interesa mas la actitud y las ganas que los conocimientos, pero puestos a pedir, trabajo con estas tecnologías:
+Back
+- Php. En general trabajo con un framework propio, pero me vendría bien que tuvieses conocimiento en otros frameworks.
+- Drupal.
+- Wordpress.
+- Prestashop.
+Front
+- HTML5 + CSS3.
+- Flash (as2 y as3).
+- Jquery.
+Aplicaciones móviles, iPhone y Android, ambas en nativo.
+No tienes que saber de todo, estoy buscando a una persona que sepa algo para enseñarle el resto. Si sabes algo php y maquetar (o muchas otras combinaciones) me puedes valer. Serán valorables también otros conocimientos relacionados.
+La idea es que estés durante 3 meses de beca / prácticas. Si la cosa funciona te haremos contrato indefinido. El horario sería de mañana (presencial), a definir (unas 4 o 5 horas), y el sueldo a definir según ese horario.
+

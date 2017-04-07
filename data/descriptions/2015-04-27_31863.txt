@@ -1,0 +1,29 @@
+
+HelpMyCash.com es un comparador online que tiene como objetivo ayudar a los usuarios a escoger productos relacionados con la economía del hogar. Buscamos un(os) programador (res) freelance para acelerar nuestro desarrollo de sistemas. 
+Trabajamos en colaboración con varias empresas por lo que podrás participar en varios proyectos. Buscamos un profesional que pueda adaptarse a nuestros procesos de trabajo.
+•	El trabajo será presencial,  en la oficina de HelpMyCash, en el centro de Barcelona. Nuestra forma de trabajar requiere una comunicación regular con otros programadores y usuarios por lo que no funcionaría bien a distancia.
+•	Al principio gestionarás “mini proyectos” para familiarizarte con nuestro entorno y sistema. A medida que colaboramos, con el paso del tiempo, el tipo y tamaño de las tareas crecerá.
+•	Deberás ser capaz de gestionar todos los aspectos de las tareas que se te asignen. Pueden ser programación front o back end, testing, integración, etc…
+Buscamos a alguien con conocimientos sólidos en:
+•	HTML5 y CSS3
+•	JavaScript (jQuery, Bootstrap o cualquier otro framework...)
+•	PHP5
+•	PHP-JSON
+•	POO
+•	Zend Framework 
+•	MySQL
+•	Sistema de versiones GIT
+•	Uso de API
+Valoramos:
+•	Experiencia en diseño de gestores de contenidos o herramientas de backoffice 
+•	Conocimientos de desarrollo web basado en CMS (WordPress, drupal u otros...)
+•	Integración de sistemas 
+•	Pasarelas de pago
+•	Conocimiento y experiencia en posicionamiento web (SEO)
+•	Google (Adsense, Adwords, App for domain, Webmasters tools, Analytics)
+•	Dominios (Gestión, DNS, registros, API-s)
+•	Servidores web (Apache, nginx)
+•	AWS Amazon u otras empresas de hosting, 
+•	Paneles de Control (Plesk, cPanel, Webmin,…) 
+•	Sistema de tickets (kayako, Assembla, bitbucket)
+

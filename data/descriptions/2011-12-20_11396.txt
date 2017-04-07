@@ -1,0 +1,23 @@
+
+Desarrollador web front-end en Ciudad Real
+
+Empresa: Ático, estudio gráfico
+Full-time y presencial en Ciudad Real (zona centro)
+Jornada laboral flexible
+Incorporación inmediata
+Salario según capacidades demostradas
+Requisitos
+
+Amplia experiencia en desarrollo front-end:
+HTML, CSS, JavaScript (frameworks como jQuery o MooTools), web standards, cross-browsing, optimización en entornos de producción…
+Conocimientos de diseño de interacción y experiencia de usuario.
+Experiencia con software de desarrollo colaborativo (SCM y project management software).
+Trabajarás junto a un equipo de diseñadores y desarrolladores, tu trabajo podrá centrarse en desarrollo front-end.
+Nivel medio/alto de inglés, desarrollamos y documentamos en este idioma.
+Extra
+Conocimientos de programación y/o desarrollo back-end.
+Sería muy interesante ver tu trabajo en producción o tu perfil en GitHub o similares.
+Sobre nosotros
+Somos una empresa con sede en Ciudad Real formada por desarrolladores de software y diseñadores gráficos que apuesta por la calidad del software y la experiencia de usuario.
+Nos centramos en aplicaciones construidas a medida para cubrir las necesidades específicas de nuestros clientes, y aunque tenemos nuestras preferencias, contamos con un amplio abanico de opciones tecnológicas para cada uno de nuestros proyectos.
+Cubrimos todas las etapas del desarrollo de software con la mayor agilidad posible a través de una colaboración activa entre managers, diseñadores, desarrolladores y el propio cliente.

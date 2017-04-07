@@ -1,0 +1,17 @@
+
+EGA CONSULTORES, busca para importante empresa del sector tecnológico, un técnico de sistemas con conocimientos en scripting para importante proyecto en Vigo.
+Conocimientos:
+- Sistemas:
+z/OS
+Unix
+Linux
+Windows
+- Bases de datos: 
+Oracle
+SQL
+MySQL
+DB2
+- Scripting
+Batch (para entorno windows)
+Shell (para entornos Unix/Linux)
+Valorable francés tanto hablado como escrito.

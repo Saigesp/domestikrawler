@@ -1,0 +1,20 @@
+
+En Iwantic, primera agencia española especializada en selección de perfiles digitales, reclutamos a los candidatos más brillantes para los empleos que están cambiando el mundo.
+En este momento, estamos buscando un/a Desarrollador/a Web Magento, para una importante empresa en Barcelona.
+Funciones:
+* Implementar nuevos módulos y mantener los procesos diarios existentes de importación de productos.
+* Mantenimiento y gestión de incidencias.
+* Ayudar en la definición y diseño de las páginas de producto para nuevos lanzamientos.
+* Optimizar el código existente para aumentar la velocidad de carga.
+* Gestión y mantenimiento de la BBDD (MySQL).
+El perfil WEB Developer Magento deberá demostrar:
+* Conocimientos de mejores prácticas en e-commerce.
+* Experiencia demostrable en desarrollos PHP/Magento.
+* Se valorará experiencia en patrones de diseño (MVC).
+* Experiencia en desarrollo con HTML, CSS, Javascript.
+* Experiencia en webservices (AJAX, REST APIs...).
+* Experiencia en entorno LAMP.
+* Conocimientos de AWS.
+* Habituado a trabajar con control de versiones (GIT).
+* Alto nivel de inglés.
+

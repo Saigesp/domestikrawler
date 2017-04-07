@@ -1,0 +1,25 @@
+
+GAMELOFT, present in 20 countries around Europe, North America and Asia (more than 4,000 employees), is a leading international developer and distributor of video games looking for new talent to reinforce its creation teams.
+In the last few years, the studio in Barcelona has been developing high-quality, critically acclaimed games and is currently expanding.
+Expert Analytics DBA
+Duties and responsibilities:
+Research and apply scalable database solutions.
+Maintain, tune and support an enterprise data warehouse
+Development of scalable support and reporting tools for Multiplayer and Social games
+Work closely with other teams of developers and system administrators
+Requirements:
+Good knowledge of RDBMS (especially MySQL)
+Experienced with analytical columnar databases (Vertica, Infinidb or Infobright) 
+Knowledge of NoSQL solutions (Hbase, Mongodb)
+Familiar with Data Warehousing concepts and with Tera-byte / Peta-byte volumes of data. 
+Good PHP and Java skills
+Willing to learn and with a passion for research
+Strong problem solving &amp; debugging skills
+Supporter of Open Source technologies
+Very good communication skills and ability to integrate quickly in a team
+Self motivated, initiative, flexible, calm
+Benefits:
+- The opportunity to work and learn in a professional environment, with people who have a passion for making great games. 
+- We offer a supportive working climate, a young and dynamic team with a free communication style and also the possibility to reward outstanding performances fairly.
+- Motivating salary, long-term contract and a merit pay system.
+

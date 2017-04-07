@@ -1,0 +1,14 @@
+
+Importante empresa necesita cubrir un puesto de Maquetador Junior,  para sus oficinas situadas en Madrid.
+-Requisitos mínimos:
+*Experiencia mínima 2 años demostrable en puesto similar: 
+*Imprescindible HTML, HTML5 
+*Imprescindible Jquery y Javascript 
+-Se valorará:
+*Conocimientos de Framework backbone, angular, …. 
+*Responsive Design en multidispositivo 
+*Framework como bootstrap y foundation 
+*Css3 
+Tipo de contrato: de 1 a 3 meses (posibilidades de continuar)
+Ubicación: En las instalaciones del cliente en Madrid
+

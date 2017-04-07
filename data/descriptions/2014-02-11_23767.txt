@@ -1,0 +1,10 @@
+
+Buscamos un programador web de Frontend y/o Backend con experiencia para un proyecto nuevo a desarrollar. Las tecnologías requeridas son:
+Frontend:
+- HTML5
+- Bootstrap 3.1
+- AngularJS 1.2
+Backend:
+- Symfony 2.3
+- Node.js
+Contrato de duración determinada entre 2 y 3 meses para trabajar en nuestras oficinas del sur de Madrid. Abstenerse candidatos sin experiencia en ninguna de esta áreas.

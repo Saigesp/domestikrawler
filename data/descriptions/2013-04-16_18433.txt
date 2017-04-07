@@ -1,0 +1,11 @@
+
+En PlayCanales estamos buscando para incorporar al equipo o para trabajar en proyectos puntuales como freelance, un perfil de Desarrollador Web con las siguientes características:
+- Programación front-end (XHTML + CSS + jQuery)
+- Programación back-end (PHP)
+- Conocimiento de Base de Datos MySQL 
+- Desarrollo web con CMS: Wordpress
+Se valorará también:
+- Conocimientos de diseño web responsive
+- Desarrollo e-commerce
+- Conocimientos de desarrollo de aplicaciones Facebook, FSQL y FBML
+- Desarrollo web con CMS: Drupal, prestashop

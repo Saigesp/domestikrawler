@@ -1,0 +1,12 @@
+
+SrBurns, agencia de marketing digital, busca un perfil programador web con experiencia y con ganas de integrarse en equipo de desarrollo digital. Te ofrecemos trabajo en proyectos innovadores para cuentas importantes, dentro de una agencia muy creativa y con muy buen rollo.
+Imprescindible: 
+- Algún Framework php (cake, zend, symfony…) 
+- HTML5 & CSS3 & SASS/LESS
+- Wordpress
+- APIs de Twitter y Facebook
+- Git o algún otro control de versiones
+Se valorará: 
+- Desarrollo Android & iOS
+- Sueldo: según valía
+Contrato: jornada completa (9 a 18h)

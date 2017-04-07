@@ -1,0 +1,9 @@
+
+Hola!
+Necesitamos un programador PHP que controle protocolo SOAP y que tenga conocimientos de trabajo con APIs.
+Seleccionaremos solo candidatos en Madrid.
+Tenemos un proyecto puntual en el que debemos desarrollar un backend básico para gestión de roles de los editores y necesitamos conectar con un API SOAP para rescatar información de datos personales y algunos detalles más.
+Serían unos 10 días de trabajo a proyecto cerrado.
+Interesados escribir a matias.bejas@gmail.com para concertar una entrevista por skype o telefónica.
+Es importante que seas proactivo y estes dispuesto a aprender, que te gusten las metodologías ágiles y que tengas conocimientos básicos de HTML, CSS y JS.
+Muchas gracias!

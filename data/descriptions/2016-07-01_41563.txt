@@ -1,0 +1,14 @@
+
+From Spring Professional, we are looking for a Senior Ruby On Rails Developer to incorporate right away to our client's workforce. Our client is specialized in digital marketing and offers a very dynamic and innovative environment.
+The Senior Ruby on Rails Developer can count on:
+· Contributing to a highly complex technology in a continuously developing landscape;
+· The possibility to grow and to develop yourself;
+· A cool office and work space in Madrid or Amsterdam;
+· Working in an international environment with inspiring direct colleagues in different countries;
+· A flexible work environment. Partial remote work can also be considered.
+Requirements:
+· A minimum of 3 years working experience in an agile software development environment as a software developer.
+· Experience with HTML 5, CSS, Javascript and AJAX.
+· Experience with Ruby on Rails and REST API design.
+· English, both written as verbal, is a must.
+· Dedication to QA using peer reviews, continuous integration and automated testing.

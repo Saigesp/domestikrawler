@@ -1,0 +1,6 @@
+
+Se busca una persona joven y dinámica capaz de programar un juego para Iphone y Ipad.
+El sistema que manejes para poner a funcionar el juego nos es indiferente, siempre y cuando la aplicación resulte lo más funcional posible.
+Es necesario tener conocimientos para poder implementar una plataforma multijugador con base de datos sobre los jugadores y opción chat en directo.
+Es recomendable tener algún proyecto previo con el que demostrar tu valía.
+

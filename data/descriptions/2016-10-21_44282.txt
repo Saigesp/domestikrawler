@@ -1,0 +1,21 @@
+
+Si te encanta diseñar y te apasiona simplificar software complejos para hacerlos más atractivos, este es tu puesto: 
+Buscamos un Desarrollador Front-End que le dé un vuelco a nuestros diseños y que sienta pasión por el mundo IT. Una persona inquieta que busque la mejora continua de nuestros productos y que quiera desarrollarse y progresar dentro de la compañía. Sus funciones serán:
+- Diseño y Creación de interfaces de usuario principalmente					
+- Administración del Back-End: Debe conocer varios lenguajes (JavaEE, XML) de cara al trabajo con la integración de APIs desde el front.						
+- Uso de herramientas trabajo equipo de desarrollo de software: Conocimiento o rápida adaptación al marco de desarrollo Sprint y a las herramientas de gestión de un equipo de desarrollo de software (git, jenkins, sonorqube, jira, artifactory, etc). 
+¿Qué tipo de perfil buscamos?
+- Persona dinámica y con ganas de desarrollarse.
+- Grado en informática o FPII en el ámbito IT con especialización en diseño gráfico.
+- Valoramos otro tipo de perfiles no IT con especialización en escuelas de diseño.					
+¿Qué conocimientos tienes que tener?
+- Conocimientos altos y experiencia en Javascript: framework AngularJS y/o ReactJS.
+- Conocimientos y experiencia media en maquetación responsive design: HTML5, CSS.
+- Experiencia en integración de APIS propias y de terceros.
+- Conocimiento de frameworks,: Boostrap y/o JQuery UI.
+Valoramos que sepas sobre:
+- Aplicaciones de escritorio como JavaFX.
+- Conocimientos sobre Nodejs, Websockets, Ajax, Bower, Gulp.
+Nos encantan las personas creativas, que les guste trabajar en equipo y, sobre todo, que sean proactivos e inquietos en temas IT. Si tienes ganas de comerte el mundo con un equipazo joven y dinámico, este es tu sitio.
+
+

@@ -1,0 +1,16 @@
+
+Descripción
+Programador HTML + CSS + JQuery Front-end  para jornada completa.
+Tareas a desarrollar
+- Maquetación web con Wordpress y a medida
+- Desarrollo web front en HTML5 y Wordpress.
+- Integración de API's de terceros.
+Requisitos mínimos
+- Experiencia mínima de 3 años
+- Wordpress: creación de themes desde cero y modificación de existentes
+- Backend: PHP5, Javascript, experiencia con la integración de API's.
+- Front-end: CSS3 y HTML5
+- JQuery
+Importante
+- Presentar portfolio de trabajos realizados
+- Incorporación inmediata.

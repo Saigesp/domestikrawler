@@ -1,0 +1,6 @@
+
+Disseñador Maquetador Web - Html5 Css3 para trabajar en la comarca del Maresme. 
+Conocimientos imprescindibles en HTML5, CSS3, BootStrap, Javascript i JQuery 
+Creación de nuevas webs.
+Mantenimento de páginas web (BackEnd i FrontEnd). 
+Resolución de incidèncias.

@@ -1,0 +1,31 @@
+
+En KABEL estamos buscando desarrolladores de Movilidad especializados en Xamarin. En concreto, queremos incorporar a profesionales capaces de liderar los proyectos de desarrollo de aplicaciones de movilidad con un perfil cross, es decir, que sean capaces de asumir tanto las fases de conceptualización como las fases de desarrollo. 
+Conocimientos imprescindibles:
+* Experiencia desarrollado aplicaciones de movilidad:
+  - Conocimiento importante de plataformas iOS y Android
+  - Conocer las Human Interface Guidelines de Apple
+  - Conocer los fundamentos de Material Design
+* Desarrollo de aplicaciones con Xamarin
+  - Xamarin Platform
+* Net Framework, programación orientada a objetos y patrones de diseño
+* Experiencia desarrollando y consumiendo servicios REST
+* Base de datos: Sql Server
+* Portafolio de referencias
+Conocimientos deseables:
+* Desarrollo de aplicaciones con Xamarin
+  - Xamarin Forms
+  - Xamarin Insights
+  - Xamarin Test Cloud
+* Desarrollo Web Front End:
+  - HTML5 (HTML5, CSS3 y APIs JavaScript)
+  - Bootstrap
+  - jQuery
+  - ASP.Net MVC Framework
+  - ASP.Net webAPI
+  - Pruebas unitarias
+Ofrecemos:
+* Formar parte de una empresa joven con 20 años de experiencia y con ganas de hacer cosas importantes
+* Relación a largo plazo... Todas nuestras contrataciones son indefinidas
+* Renumeración competitiva en función de la experiencia y capacidades del candidato
+* Horario flexible
+

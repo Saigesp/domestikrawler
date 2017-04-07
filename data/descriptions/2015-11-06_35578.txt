@@ -1,0 +1,19 @@
+
+Estamos buscando una persona motivada y con ganas de aprender! Imprescindible que tenga conocimientos en HTML, CSS y JavaScript.
+Si eres un@ entusiasta del desarrollo y te apetece introducirte en el mercado laboral participando en proyectos de ámbito internacional, y no tienes miedo a meter las manos en el código, cumples con el perfil que estamos buscando!
+La persona que buscamos deberá ayudarnos en proyectos de ámbito interno y proyectos para clientes.
+Funciones a realizar:
+· Soporte al maquetaje de webs HTML + CSS
+· Soporte desarrollo apps
+· Mantenimiento de sites
+Requisitos obligatorios:
+· HTML
+· CSS
+· JavaScript
+· Buena actitud
+· Predisposición al trabajo en equipo
+· 3h diarias
+Valoraremos:
+· Nociones de Meteor.js, React, Grunt, Cordova, Angular, Wordpress, Bootstrap
+· Inglés
+

@@ -1,0 +1,13 @@
+
+Se busca para un start-up un front end developer/maquetador (freelance) para crear el web page completo (e-commerce). 
+1) Start-up description
+- distribute (and later develop) a new (more natural, healthy and fresh) way of feeding your pets in Spain (later expansion to Portugal, rest of Southern & Northern Europe)
+- channel: in the beginning online, later pet specialty stores (traditional and online)
+2) Web project 
+- project focus: build the (e-comm) website, ideally based on an existing e-comm platform (such as Shoppify)
+- project deadline: the business needs to be up and running by beginning of September
+- project duration and start: will be determined after first conversation (after project I might have to recur from time to time to person to discuss mayor updates, if necessary)
+3) Person I am looking for
+- front-end developer and expert UX, UI, design
+- should dominate the necessary languages to adjust and optimize given templates/user interfaces of e-comm platform, such as Shoppify (in worst case scenario create it from scratch...)
+- person will need to "train" me on minor updates to enable me to carry them out myself

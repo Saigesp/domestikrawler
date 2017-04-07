@@ -1,0 +1,15 @@
+
+General Software precisa incorporar Analistas Programadores iOS.
+El candidato debe tener amplia experiencia en: 
+- Creación de componentes personalizados para la Interfaz gráfica
+- SQLite
+- Parsing de Datos
+- Plataforma de Notificación Push
+- Compil. con CocoaPods
+Con muchas ganas de seguir desarrollando su carrera con iOS y enfrentarse a nuevos retos, como liderar un equipo de trabajo en un interesante proyecto en una de las empresas más importantes del sector tecnológico.
+Acerca de la General Software
+General Software es una empresa joven y muy dinámica de capital totalmente español, gestionada por profesionales con amplia experiencia en el sector, y dedicada a servicios profesionales, consultoría e implantación de sistemas.
+Soportada por nuestros clientes, damos servicio en toda la geografía nacional con presencia destacable en Madrid y Barcelona.
+Nuestra oferta de servicios y clientes permite situarnos a la vanguardia en tecnologías y en sectores de actividad de primer orden: Banca, Telecomunicaciones, Administraciones Públicas, Industria, etc.
+General Software cuenta con una plantilla a la que ofrecemos la oportunidad de un rápido desarrollo profesional soportado por un amplio plan de formación que permite actualizar y enriquecer a nuestros más de 300 profesionales.
+Buscamos profesionales con iniciativa, dinamismo, potencial y acostumbrados a trabajar en equipo. Si quieres trabajar con los mejores profesionales, con las últimas tecnologías y en empresas de prestigio, tu opción es sin duda General Software

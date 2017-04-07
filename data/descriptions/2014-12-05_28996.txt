@@ -1,0 +1,57 @@
+
+1.-Objetivo del Puesto (Misión):
+
+El cargo será responsable de mantener y desarrollar las plataformas de los servicios Premium (mensajería SMS, WEB, Tarjetas de Crédito) a todos los niveles (tanto en Base de Datos como modelo MVC); interactuar con otros departamentos para dar una visión técnica de la situación (Gestores de Proyectos, Administración, Comercial); interactuar con clientes tanto a nivel de soporte como de preventa. Deberá ser capaz de priorizar dichas actividades en base a actividades, elevando recomendaciones a la Dirección, con la información necesaria para la toma de decisiones.
+
+2.- Descripción de tareas:
+El cargo es el responsable de la administración de la relación con los departamentos técnicos de clientes y proveedores.
+Debe consolidar, gestionar y supervisar las tareas del área técnica, así como las actividades de las personas a su cargo.
+Deberá recibir, entender, sumariar, priorizar y organizar las necesidades del área. Asignar recursos, tareas y supervisar su cumplimiento, para que se atiendan los tiempos y objetivos planteados.
+Deberá ser capaz de realizar las conexiones con diferentes proveedores y operadores móviles. Tratando directamente con los mismos.
+
+3.- Características del entorno social
+Es obligatorio poseer demostrada capacidad para la gestión técnica de equipos, procesos y personas. 
+Serán características de evaluación, la capacidad de mando, delegación, gestión y trabajo en equipo. 
+El debate de ideas, lograr consenso y manejo de presión laboral, serán características esenciales para el desarrollo de su actividad.
+
+
+REQUISITOS
+1. Experienciaa-    
+* Tiempo: Experiencia comprobable mínima de 5 años desarrollando en entornos Web y Premium, 
+* Conocimiento técnico para el manejo de las actividades de nuestro rubro (plataformas de sms premium, messaging, internet, aplicativos sobre internet)
+
+2. Nivel de Instrucción
+* Universitario en Ingeniería Informática.
+
+3. Cursos de especialización preferidos para la posición
+* No especificados.
+
+4. Conocimientos de Idiomas    
+Inglés: Medio 
+* Idiomas adicionales, serán valorados.
+
+5. Conocimientos de PC
+* Base de datos MySql, SQL
+* PHP, HTML, Python,Javascript (JSON, jquery...),  XML, Linux (Ubuntu).
+* Se valorarán conocimientos en Zend Framework, .NET y  Java
+* Se valorarán conocimientos en administración de sistemas Linux (Ubuntu)
+* Se valorarán conocimientos en Gestores de Contenidos Multimedia (audio, video, java games).
+
+6. Otros requisitos
+* Disponibilidad para viajar: de ser requerido.        
+7. Competencias conductuales
+* Trabajo en equipo
+* Soporte a Clientes
+* Planificación - Organización – Seguimiento.
+* Integración con otras unidades.
+* Buen manejo de técnicas de comunicación e información.
+* Iniciativa y organización del propio trabajo.
+* Capacidad para formar.
+* Poder de decisión.
+
+8. Aspectos económicos y referidos a la posición
+-  Salario: 25.000 € año /brutos
+- Variable (por objetivos): A convenir
+- Tipo de contratación: efectiva luego de 6 meses (período de prueba legal)
+-  Horario de trabajo: Lunes a Jueves de 9 a 14:00 h - 15:00 a  18:30h, Viernes de 9 a 15:30h
+-  Locación: oficinas de Castellón

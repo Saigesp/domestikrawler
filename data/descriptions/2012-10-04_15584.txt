@@ -1,0 +1,13 @@
+
+Smokemachine es un estudio de comunicación con sede en Madrid. Trabajamos para clientes independientes y agencias de publicidad en el ámbito de la comunicación visual.
+Buscamos un Desarrollador Web que cumpla los siguientes requisitos:
+
+- Experiencia y altos conocimientos en CMS libres: Drupal o Joomla y Wordpress.
+- Altos conocimientos en desarrollo PHP 5+, SQL, Javascript, jQuery… 
+- Maquetación en HTML5/XHTML y CSS/CSS3 a partir de Ps o Illustrator. 
+- Experiencia demostrable en Responsive Design.
+- Experiencia demostrable en maquetación para smartphones y tablets (iPhone, iPad, Android)
+- Se valorará la capacidad creativa y el gusto por el diseño, la usabilidad, el detalle y el trabajo bien acabado.
+Imprescindibles:
+- Portfolio con trabajos actuales y CV, con alta experiencia laboral demostrable
+- Vivir en Madrid

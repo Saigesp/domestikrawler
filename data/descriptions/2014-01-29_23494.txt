@@ -1,0 +1,11 @@
+
+En Axel Springer estamos buscando un Desarrollador Front-End Freelance para darnos apoyo en un nuevo proyecto web basado en Drupal
+REQUISITOS IMPRESCINDIBLES
+- Experto en HTML y CSS (incluyendo HTML5 y CSS3)
+- Conocimientos de Javascript y jQuery
+- Experiencia en Responsive Design
+- Experiencia en herramientas de control de versiones GIT
+SE VALORARÁ
+- Experiencia en maquetación web sobre Drupal
+- Conocimientos de frameworks de desarrollo de soluciones móviles basadas en HTML5
+- Experiencia en desarrollo de soluciones web optimizadas para SEO

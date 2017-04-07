@@ -1,0 +1,22 @@
+
+Fundada en septiembre de 2009, LetsBonus es una de las mayores webs de comercio electrónico de nuestro país, además de la compañía de compra colectiva pionera en Europa y líder en España con 8 millones de subscriptores y 15.000 comercios colaboradores. Actualmente, la compañía se ha convertido en uno de los más completos marketplaces de planes de ocio y experiencias de nuestro país, con una selección diaria de más de 2.000 propuestas de gastronomía, belleza, cuidado personal, espectáculos, viajes y escapadas, formación y producto, entre otros, con descuentos de en torno a un 70%. La empresa cuenta con un equipo de unos 150 empleados, está presente en 93 localidades españolas y opera en Italia, Portugal y Chile.
+Para nuestro Headquarter emplazado en Barcelona centro, ofrecemos incorporación en nuestro equipo de desarrollo como Front End Developer, ¿a qué esperas? ¡únete a nosotros!
+Tus responsabilidades serán:
+-Crear y mejorar cualquier parte de nuestra plataforma. Esto requiere unas habilidades excepcionales escribiendo Javascript y HTML/CSS, además debe funcionar de manera fluida en los navegadores más populares.
+-Colaborar con equipos internos y externos en varios departamentos.
+-Ser capaz de trasladar un diseño proporcionado a nuestra Web / Web Mobile respetando todos los formatos y especificaciones al maquetarlo.
+-Estar siempre al día de las novedades de los frameworks de Web y Web Mobile para proponer y aplicar mejoras de presentación y rendimiento  
+Buscamos a profesionales con ganas de participar en nuevos proyectos dentro de un ambiente joven y de carácter emprendedor.
+Debes estar familiarizado con:
+RESTful
+Twig
+Bower
+Grunt
+SASS
+CSS3
+HTML5
+Git y uso de Git flow
+AngularJS
+Será un plus:
+- PhantomJS
+- Protactor

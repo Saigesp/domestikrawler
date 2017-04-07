@@ -1,0 +1,16 @@
+
+Shipeer, startup logística con sede en Valencia, nos dedicamos a la paquetería colaborativa y nos definimos como "el Blablacar de los paquetes". Una agencia de transportes donde nuestros conductores son particulares. 
+Buscamos un Android Mobile Developer.
+Requisitos:
+- Conocimientos del SDK de Android para Java. 
+- Alguna app construida. La app a desarrollar hace uso de de una API Restful propia. Por lo tanto se valorará conocimientos sobre APIs Reatful.
+- Alto uso de geolocalización y Google Maps para Android. 
+- Gran oportunidad para afianzar conocimientos en el desarrollo de aplicaciones clientes de APIs - Restful, métodos de autentificación y autorizaión de APIs, uso de APIs de terceros (notificaciones, proveedores de imágenes en la nube, etc.), así como metodologías de desarrollo ágiles en equipos de alto rendimiento.
+Ofrecemos:
+- Un entorno donde se valora el crecimiento personal y la autonomía. 
+- Incorporación a un equipo técnico ágil (SCRUM). 
+- Formaciones semanales de primer nivel. 
+- Acceso a un entorno de trabajo internacional. 
+- Implicación en el equipo fundador. 
+- Networking y desarrollo de marca personal. 
+- La oportunidad de ser parte de una empresa joven, abierta y con altas previsiones de crecimiento gracias a su gran ambición y mercado potencial.

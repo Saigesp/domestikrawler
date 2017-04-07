@@ -1,0 +1,21 @@
+
+Hacemos webs, apps, tiendas, marketplaces, aplicaciones web en general. También llevamos marketing online, campañas de AdWords y muchas cosas más.
+Somos un equipo pequeño que va creciendo poco a poco, intentando que cada nuevo miembro encaje con nuestra forma de trabajar, sea productivo, se sienta a gusto y crezca con nosotros. Creo sinceramente que somos muy buenos en lo que hacemos y que mejoramos con cada proyecto que completamos.
+Buscamos una persona con background técnico capaz de aportar soluciones e ideas en proyectos grandes y pequeños. Alguien capaz de entender el balance entre perfección y fechas de entrega, que le motive aprender y crecer, pero conozca la satisfacción de resolver cosas, tachar tareas en una lista, entregar un proyecto a tiempo y hacer que las cosas avancen.
+No tenemos exigencias demasiado concretas sobre el perfil de habilidades que buscamos. Es necesario que sepas PHP, MySQL, HTML, CSS, Javascript y algo de Inglés. 
+Experiencia laboral verdadera o si no la tienes todavía, cosas que hayas hecho durante la carrera, proyectos personales, etc.
+Y que tengas interés por aprender algunas de las cosas con las que trabajamos mucho. Si ya tuvieras experiencia con algunas de ellas, mucho mejor.
+¿Qué tipo de cosas aprenderás con nosotros?
+PHP y Python nivel alto (OOP, MVC, algún framework, agile/scrum en espíritu por lo menos). 
+Wordpress, Drupal, PrestaShop, Magento, WooCommerce 
+Javascript, jQuery, Ajax, JSON 
+HTML5, CSS3/SASS, Frameworks CSS, compass, susy, breakpoint 
+Grunt, Gulp, Bower 
+Bases de datos MySQL 
+Administración de servidores Ubuntu/Debian, Apache, Nginx, NodeJS, Tarsnap, New Relic, Mod Security... 
+GIT 
+Nociones básicas de seguridad (SQL injection, XSS, etc.). 
+Desarrollo responsive. 
+Photoshop, Illustrator, InVision
+IMPORTANTE: Por ahora buscamos gente capaz de tele-trabajar pero por las mañanas, de 9 a 14 aproximadamente. Indispensable que puedas venir a la oficina una vez por semana o cada 10 días aproximadamente. 
+No contestamos a gente que no cumpla estos requisitos mínimos o el perfil técnico básico que pedimos. Al resto sí, a todos :).

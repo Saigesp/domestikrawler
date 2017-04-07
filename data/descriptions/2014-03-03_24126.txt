@@ -1,0 +1,7 @@
+
+Descripción
+Equipo desarrollo para equipo Quant sala de tesoreria gran banco.
+Requisitos
+Nivel avanzado programacion C++
+Descripcion puesto
+The quant team develops pricing and risk management algorithms and tools, mainly for derivatives financial products within the Fixed Income and Foreign Exchange divisions. The group’s activity is based on complex models, using numerical methods, and modern software development techniques. The job involves working as a global team of quants in different locations, collaborating with traders, structurers and sales desks.

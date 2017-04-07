@@ -1,0 +1,27 @@
+
+This person will participate in the development of the company's front end products (for client users and for internal users). 
+We are looking for a professional able to develop a cross browser and responsive web-based tools using the latest trends in market. A person who is be able to combine the technical excellence and good designs without losing sight to the user experience. 
+In addition, this person must be opened to comply not only with the tasks assigned to his/her role, but also motivated to learn and perform any task in the IT team.
+Technical requirements:
+- HTML5 
+- CSS3 
+- Javascript 
+- jQuery 
+- JSON 
+- Twitter Bootstrap Framework 
+- D3.js (or similar library to represent information) 
+- Web design and UX (preferably for analytics tools) 
+Experience is valued:
+- C# 
+- ASP.NET Web forms 
+- ASP.NET MVC 
+- SQL 
+Non technical requirements:
+- Fluent english 
+- Be able to work in a small and agile development team 
+- Customer-oriented culture 
+- Open to learn and work in new roles and tasks in the IT Team 
+- Located in Barcelona
+About The Data Republic-Kantar Media
+The Data Republic is a social data company owned by Kantar Media. The Data Republic has developed Tuitele, a proprietary platform and suite of tools which delivers curation and analysis of social media conversations around TV shows and commercials and which is now Kantar Media’s platform for the provision of Kantar Media’s social TV planning and analytics service in the UK, Spain, the Nordics, Russia as well as parts of Africa and south-east Asia as part of the partnership recently announced between Twitter and Kantar.
+Kantar Media provides strategic advice and competitive intelligence to the world’s leading brands, publishers, agencies and industry bodies, helping them navigate and succeed in a rapidly evolving media industry. Kantar Media is part of Kantar, the data investment management division of WPP and one of the world’s largest insight, information and consultancy groups.

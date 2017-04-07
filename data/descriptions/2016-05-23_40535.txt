@@ -1,0 +1,16 @@
+
+Se requiere programador programador/a de PHP con más de 2 años de experiencia para incorporarse en nuestra plantilla.
+Su formación deberá ser de Ingeniero Técnico o Superior o Ciclo Formativo y será el desarrollador de una plataforma SaaS para la empresa.
+Requisitos técnicos:
+- PHP: amplios conocimientos
+- Symfony2: experiencia demostrable en proyectos desarrollados en este framework
+- HTML y Javascript: conocimientos de maquetación responsive así como programación front-end en jQuery
+- MySql: amplia experiencia en mysql y consultas complejas en SQL
+Conocimientos deseables:
+- Experiencia en repositorios: SVN o GIT
+- Angular, React, Node, Ionic
+- Desarrollo de apps
+- Trabajo en equipo
+Funciones a realizar:
+- Desarrollo de las nuevas plataformas formativas de Foxize
+- Desarrollo y mantenimiento de las aplicaciones actuales

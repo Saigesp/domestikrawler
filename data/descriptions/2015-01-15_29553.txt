@@ -1,0 +1,25 @@
+
+Seneca es nuestro propio producto que usan nuestros clientes para la grabación y posterior gestión y consulta del material audiovisual que generan. En este momento nos encontramos desarrollando una versión completamente nueva de Seneca, en un entorno web y con muchas más características, y necesitamos ampliar el equipo.
+¿Que buscamos?
+•	Nosotros desarrollamos en ruby on rails, idealmente al menos 1 año de experiencia en este entorno, aunque si tienes experiencia con otros frameworks similares como django también lo consideraremos.
+•	Experiencia con el manejo de bases de datos.
+•	Experiencia con CSS/Sass, HTML5.
+•	Grandes habilidades con Javascript, haber usado algun framework como AngularJS, Backbone, React, etc.
+•	Que siempre trabajes con un scm (git, mercurial, svn, etc).
+•	Nos gustaría ver tu perfil público de github, o algún proyecto en el que hayas participado.
+•	Que seas una persona activa, y estés al día de las últimas tendencias de desarrollo web.
+•	Que te sientas cómodo asumiendo responsabilidades.
+Es un plus:
+•	Que tengas experiencia con AngularJS, al menos desarrollando y usando directivas.
+•	Que hayas trabajado con Bootstrap3.
+•	Que hayas trabajado con algún motor fulltext, nosotros usamos Solr.
+•	Que tengas experiencia en el desarrollo de apis.
+•	Que hayas desarrollado alguna app móvil.
+•	Que tengas algún conocimiento de sistemas. Por ejemplo que hayas configurado algún proyecto en producción, con apache/nginx - passenger/unicorn.
+•	Que conozcas redis.
+¿Que ofrecemos?
+•	Trabajar en producto. Con instalaciones en la administración pública, empresa privada, y como saas en nuestros propios servidores.
+•	Asumir toda la responsabilidad en el proyecto que te propongas.
+•	Trabajar en nuestras oficinas en el centro de Vigo.
+•	Trabajar en una fase muy temprana de un producto y un equipo con perspectivas de hacer algo grande.
+•	Contrato fijo y complemento a éxito

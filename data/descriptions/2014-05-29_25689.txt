@@ -1,0 +1,21 @@
+
+En Nectar, buscamos incorporar un Programador Web Senior con el siguiente perfil:
+- Experiencia mínima de 5 años demostrable.
+- Experto en PHP y MySQL para el desarrollo de aplicaciones web.
+- Conocimientos y experiencia en programación con frameworks MVC como Symfony2, CodeIgniter u otros.
+- Experiencia como analista de proyectos.
+- Capacidad de trabajo en equipo y proactividad.
+- Nivel avanzado en uso y personalización del CMS WordPress:
+- Modificación de plugins existentes.
+- Creación de plugins nuevos.
+- Maquetación de plantillas totalmente personalizadas.
+Se valorará también:
+- Conocimientos de HTML5, CSS3 y JavaScript.
+- Dominio y uso de la librería jQuery.
+- Dominio de AJAX y librerías.
+- Conocimiento de otros CMS como DRUPAL o JOOMLA.
+- Experiencia con Magento y desarrollo web de comercio electrónico.
+Ofrecemos:
+- Contrato: 3 meses – inicial prueba (posibilidad de indefinido posteriormente)
+- Horario: Media Jornada / Jornada Completa
+- Ubicación: Valencia

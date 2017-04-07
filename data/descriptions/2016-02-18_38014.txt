@@ -1,0 +1,47 @@
+
+Endado es una startup situada en Alcobendas en continuo crecimiento que quedó segunda en el Seed Rocket Madrid 2014 y consiguió inversión en mayo de 2015. Han invertido en nosotros emprendedores de gran éxito como Jesús Monleón (Offerum), David Tomás (Cyberclick), Jose Miguel Herrero (LaNetro), Marke Fodor (Atrápalo), Enrique Dominguez (Réstalo) y más.
+Desde la creación de la empresa en 2014 hemos crecido casi un 15% mensual. 
+Endado aspira a ser el Zappos de los recambios de coche, y de momento no vamos por mal camino. Echa un ojo a lo que dicen de nosotros en Forocoches y verás a qué me refiero.
+Para este viaje buscamos un programador con al menos 2 años de experiencia que trabaje junto con Javi, nuestro CTO, en el desarrollo (front y back) de la Web realizada en Prestashop. Además, trabajará en integraciones con aplicaciones de terceros, proyectos de analítica, mejoras en la usabilidad, desarrollo de aplicaciones para nuestros clientes, etc.
+¿Qué ofrecemos?
+•	Salario bruto entre 20.000€ y 30.000€. Dependerá de tu experiencia previa y de tu encaje con lo que buscamos.
+•	Contrato laboral indefinido
+•	Oficinas con buen rollo, equipo joven, emprendedor y con ganas de hacer algo grande
+•	Soporte y formación de un programador con más de 15 años de experiencia programando Webs
+•	Todas las herramientas y el software que necesites para hacer tu trabajo de forma óptima
+•	Posibilidad de tele-trabajar algún día a la semana
+•	Horario flexible
+•	Flexibilidad en la elección de los días de vacaciones
+•	Libertad y responsabilidad para desarrollar tu trabajo
+¿Qué pedimos?
+•	Que sepas ponerte en el lugar de nuestros clientes, tu objetivo es participar en la creación del mejor servicio posible para ellos
+•	Dominio en la programación en Prestashop, tanto de los módulos como del front-end. Si no sabes Prestashop pero dominas PHP (con algún framework) y tienes capacidad de aprendizaje rápido, no dejes de contactarme
+•	Que seas proactivo y autónomo para sacar adelante el trabajo diario
+•	Mentalidad analítica y centrada en los datos. Todas las decisiones que tomamos en Endado están apoyadas en los datos
+•	Agilidad. Capacidad para hacer pequeños sprints y sacar nuevas versiones semanalmente.
+•	Conocimientos en bases de datos, nuestro catálogo tiene más de 250.000 productos
+•	Capacidad e interés en comunicarte constantemente con el resto del equipo, un programador aislado es lo último que necesitamos.
+¿Qué nos gustaría que aportaras?
+•	Conocimientos básicos para administrar un hosting Linux dedicado
+•	Conocimientos sobre SEO
+•	Inquietud por mejorar constantemente 
+•	Buen rollo. El trabajo en una startup como la nuestra es duro y a veces puede ser estresante, hace falta mano izquierda y buen humor para mantenernos todos a una
+Valoraremos muy positivamente…
+•	Experiencia previa trabajando con alguna aplicación de gestión de proyectos, nosotros usamos Basecamp
+•	Que te gusten los coches
+•	Gusto para el diseño, aunque no es necesario manejar ninguna aplicación de diseño
+Preguntas Frecuentes
+¿Cómo está hecha la Web de Endado?
+Está desarrollada con Prestashop, con varios módulos a medida.
+
+¿Dónde trabajaría físicamente?
+En las oficinas de Endado en Alcobendas.
+
+¿Puedo teletrabajar?
+Sí, pero la mayor parte del tiempo el trabajo se hará en las oficinas para ser más eficientes en la comunicación con el resto del equipo
+
+¿Necesito algún título o certificación?
+No pensamos que un título universitario pruebe nada, esperamos que nos demuestres tus conocimientos y actitudes en el día a día. Valoraremos muy positivamente que nos muestres qué has hecho antes.
+
+¿Cuál sería mi equipo de trabajo?
+Tendrás un portátil nuevo y todo el software que necesites para desarrollar tu labor.

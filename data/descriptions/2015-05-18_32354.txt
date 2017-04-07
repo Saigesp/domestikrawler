@@ -1,0 +1,16 @@
+
+DatoSphera is an open platform for tech entrepreneurs to find competitors. Our young international team based in Barcelona is looking for a full time CTO, to help us develop the technical team.
+Responsibilities:
+Lead the technical team in product development- planning, monitoring and technical support
+Organize the requirements from the business side
+Participate in international events/conference representing the company
+Assisting meetings with partners and clients, explaining the technical part
+Profile:
+Proficiency in English and ability to work in a multi cultural team
+2 years experience with Big data technologies : Elastic Search
+
+Preferred technologies: Python (Django) and NodeJS
+Project Management experience - SCRUM / AGILE
+Proactive
+Interest in entrepreneurship
+Remuneration based on profile and stock options. For more information please check: 

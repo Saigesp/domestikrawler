@@ -1,0 +1,18 @@
+
+Empresa dedicada al desarrollo web y aplicaciones para dispositivos móviles necesita nuevos 
+empleados.
+Buscamos un desarrollador/maquetador web que siga ampliando su carrera profesional con 
+nosotros y busque nuevos retos profesionales. Trabajara en diversos proyectos de mediana y gran 
+envergadura.
+La persona seleccionada deberá contar con los siguientes requisitos: 
+- Experiencia mínima: Al menos 3 años 
+- CSS3 (SASS, LESS), HTML5,  Bootstrap 3 y jQuery/UI
+- Dominio de  PHP y javascript 
+- Conocimientos de Illustrator y Photoshop
+Se valora muy positivamente: 
+- Conocimientos: POO, MySQL, SOAP, JSON, REST API, ORM
+- Manejo con CMS: Wordpress, Drupal y Magento 
+- Manejo con Frameworks PHP: Symfony, Zend entre otros
+Nivel: Empleado 
+Número de vacantes: 1-2 
+Salario: 15.000€ - 20.000€ Bruto/año (según aptitudes)

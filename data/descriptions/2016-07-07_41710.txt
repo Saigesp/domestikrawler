@@ -1,0 +1,37 @@
+
+Descripción del empleo
+Seleccionamos Desarrollador Web con experiencia mínima de 1 años en el desarrollo de websites utilizando tecnologías LAMP, en particular PHP con orientación a objetos MVC.
+Tus principales tareas se centrarán en el desarrollo de nuevas funcionalidades y mantenimiento de nuestros portales turísticos, motor de reservas, plataforma de email marketing y ecommerce.
+Sobre ti:
+• Programador con sólidos conocimientos en PHP, AJAX, jQuery, JavaScript, MySQL, HTML5, CSS3.
+• Experiencia en ecommerce: Prestashop
+• Valoramos experiencia en Wordpress, Bootstrap, Codeigniter o framework similar.
+• Programar es tu vocación y tu obsesión.
+• Eres autodidacta del aprendizaje técnico con libros y blogs.
+• Eres una persona con autonomía, analítica y resolutiva.
+• Estás acostumbrado a trabajar en equipo y a sonreír.
+• Has programado o desarrollado sites de alto tráfico en plataformas LAMP.
+• Te obsesiona la calidad del código y la importancia de tener un site optimizado, escalable y rápido.
+• Soportas bien la presión de trabajar en un site de alto tráfico y en entornos cambiantes.
+• Conocimientos básicos en administración de sistemas Linux.
+Te encargarás de:
+• Desarrollar nuevas secciones y mantener las existentes usando PHP, AJAX, jQuery, JavaScript, MySQL, HTML, CSS, Bootstrap.
+• Desarrollo y mantenimiento en: Prestashop, Wordpress y Lamp
+• Optimizar el código existente para aumentar la velocidad de carga.
+• Análisis y propuesta de la plataforma.
+• Definir junto con el Project Manager los nuevos requerimientos para los proyectos que desarrollarás.
+Experiencia y aptitudes deseadas:
+• Experiencia en desarrollo de backend.
+• Actitud proactiva, apasionado de la tecnología, trabajo en equipo, motivación.
+• Agilidad, curiosidad y constante búsqueda de nuevos recursos.
+Ofrecemos:
+• Salario 18.000 a 21.000 según valía
+• Entorno laboral muy agradable, equipo joven con experiencia y en pleno crecimiento.
+• En unas oficinas impresionantes y una ubicación perfecta.
+• Código de vestimenta informal.
+• Jornada laboral: Completa.
+• Horario: 09:00 a 14:30 y de 15:30 a 18:30 de Lunes a Jueves, Viernes hasta las 15:00h
+Descripción de la empresa
+Con más de 10 años de experiencia en marketing y comunicación, nos hemos especializado en ámbitos del marketing online, la programación, el diseño y las estrategias de comunicación, siempre al servicio del cliente.
+Trabajamos con empresas e instituciones que nos han aportado su experiencia y a las que hemos ayudado a mejorar sus resultados en Internet. GMK Unlimited es una empresa basada en la capacidad de ofrecer un servicio de entrega en marketing acorde con las necesidades de nuestros clientes.
+Queremos ofrecerle un servicio de desarrollo en programación y marketing que le proporcione resultados eficaces a la hora de posicionar su presencia y su comunicación inmediata. Desde el principio apostamos por el desarrollo web y el email marketing, para lograr las mejores ventajas y potenciar su producto o servicio al mejor precio.

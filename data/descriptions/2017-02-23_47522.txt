@@ -1,0 +1,30 @@
+
+IMF INTERNATIONAL BUSINESS SCHOOL S.L, somos una empresa líder en educación para particulares y empresa desde hace más de 15 años. En la actualidad estamos presentes en varias delegaciones repartidas por toda España, Latinoamérica, Asia y Europa.
+Necesitamos incorporar PROGRAMADOR CONOCIMIENTOS EN PHP y MySQL
+FUNCIONES A DESEMPEÑAR
+-Programación de aplicaciones web Corporativas.
+-Programación de diferentes plataformas e interfaces.
+-Programación de Intranets y microsites.
+-Programación de Landings Pages, mailings y elementos publicitarios (banners).
+-Programación y configuración de integraciones con CRM o con terceras aplicaciones.
+-Aseguramiento y revisión del SEO.
+-Implementación de acciones para la mejora del posicionamiento orgánico de IMF en la Red.
+-Mantenimiento de las BBDD de las aplicaciones.
+-Desarrollo de las Webs y Blogs del grupo IMF.
+-Actualización de versiones.
+REQUISITOS
+      Estudios Mínimos:
+      -Ingeniero Técnico / Técnico en Informática de Gestión
+      -Experiencia mínima
+      -Al menos 3 años
+      -Imprescindible residente en Provincia Puesto Vacante
+    Requisitos mínimos:
+    - Programador con conocimientos en PHP, jQuery, MySQL.
+    - Maquetación con HTML5 y CSS3.
+REQUISITOS DESEABLES
+- Conocimientos de Wordpress (Core, adaptación de temas e instalación y configuración de plugins) 
+- Integraciones vía webservices
+- REST API
+- Photoshop
+HORARIO
+40 horas semanales.

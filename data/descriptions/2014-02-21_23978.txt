@@ -1,0 +1,17 @@
+
+
+Aluana es una startup enfocada en acelerar la búsqueda de información de fuentes de calidad y mejorar la experiencia de la captura e intercambio de contenido de calidad entre equipos. Consta de dos componentes principales relacionados con el Big Data:
+- Búsqueda adaptativa, basada en Machine Learning, técnicas semánticas y un conjunto de servicios vía API. 
+- Herramienta de productividad que permite trabajar sobre los recursos de información.
+Estamos a punto de lanzar nuestro primer prototipo y queremos escalar el equipo para llevarlo al siguiente nivel.
+Responsabilidades
+- Desarrollar producto y nuevas features en Javascript. 
+- Mantener y mejorar nuestra API RESTful. 
+- Trabajar con el equipo Web y Product para conseguir lo citado anteriormente.
+Requisitos
+- Conocimientos sobre Javascript MV*, especialmente Backbone.js. 
+- Experiencia utilizando bases de datos NoSQL.
+Se valorará
+- Experiencia trabajando en un entorno Agile (Scrum). 
+- Experiencia con pre-procesadores de CSS (LESS/Sass). 
+- Conocimientos básicos de Ruby on Rails.

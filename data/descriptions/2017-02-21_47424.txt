@@ -1,0 +1,13 @@
+
+RCI Mobility is an early stage start-up focused on incubating and developing mobility solutions for the Alliance Renault-Nissan. 
+The Start-Up has already successfully launched car-sharing services for B2B (Glide). The system is built around Java 8 and RxJava andbased on the latest technologies available. 
+The start-up is now looking for developing new mobility services such as car-sharing for B2C, (Renault Mobility) and Fractional Ownership (Nissan Intelligent Get & Go), and there is always still a lot of new features to add.
+Job DescriptionPosition:
+Lead Developer (Full Time)
+Location: Paris Area, France
+Your main duties will be to: 
+Propose the most elegant solutions in terms of performance and code dev to our needs.
+Keep a commonand unified style of coding and architectural design along the code base.
+Guide the rest of the team into the promised land of Pair programming, TDD and other best practices.
+Skills and Qualifications: The successful candidate will bring hands-on experience with Java 8 (Streams, Lambda expressions, Functional interfaces...). Has proficient knowledge of RxJava. Thinks in and breathes async programmingKnows how the vast. Spring framework will best suit the needs of the project. Comes up with elegant Java solutions to challenging problems. Likes sharing his knowledge with the rest of the team. Speaks English fluently.
+We offer: A unique experience in scaling new business activities with the latest technologies available. An opportunity to become a part of a highly motivated, professional and dynamic team. High visibility projects and exposure to Renault-Nissan Alliance

@@ -1,0 +1,9 @@
+
+Hola,
+Buscamos una persona  capaz de programar el back y el front end de una máquina de vending.
+La máquina debe comunicarse con varios componentes estandard que controlan monedas, billetes y pantalla.
+Esta persona debe sentirse cómodo con el diseño de la interficie de usuario ya que es ahí donde se ha puesto el esfuerzo de diseño.
+Buscamos una persona proactiva y efectiva con ganas de sumar al equipo de  diseño compuesto por diseñadores de producto, interacción y visual Design.
+Se pagará un precio cerrado por el proyecto pero si el proyecto sale bien se le ofrecerá una plaza fija en el equipo ya con salario fijo.
+La estimación de  tiempo para la fase de programación ronda entre 2 y 3 meses de desarrollo. 
+Vamos a pagar  3500€ por este proyecto a concretar del todo con la persona que se incorpore. Si durante el proceso nos gusta la manera de trabajar ofreceremos un puesto fijo con un salario de 1900-2000 aprox/mes netos.

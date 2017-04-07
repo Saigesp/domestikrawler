@@ -1,0 +1,20 @@
+
+Cero Design esta buscando programadores BackEnd con perfil senior. Si eres de los que te gusta desarrollar código de calidad y eres muy autoexigente con tu trabajo, esta es tu oferta de trabajo.
+¿Qué perfil estamos buscando? 
+- Programadores senior PHP. 
+- Autónomos con capacidad de trabajo semipresencial. 
+- Con muchas ganas de aprender y trabajar en equipo.
+¿Qué oferecemos? 
+- Instalaciones de trabajo espectaculares 
+- Sueldo competitivo (25 Euros / hora). 
+- Buen ambiente de trabajo 
+- Posibilidad de ser parte de proyectos para grandes marcas y startups
+Los requisitos son: 
+- Experiencia en desarrollo Backend en PHP. 
+- Conocimientos de eCommerce como Prestashop. 
+- Conocimientos de CMS como Wordpress. 
+- Conocimientos de frameworks de desarrollo como Yii o Laravel 
+- Conocimientos de LAMP y Git 
+- Conocimiento sobre desarrollo de API's para comunicación con aplicaciones web y aplicaciones móviles
+Si te interesa o conoces a alguien que este interesado, ponte en contacto con nosotros.
+

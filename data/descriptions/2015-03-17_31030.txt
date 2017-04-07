@@ -1,0 +1,18 @@
+
+Roche’s Global Platforms unit is currently deploying its Infinity suite in Europe, Asia, Latin America and North America. We are growing our test team for the challenges in this global scale. This is an excellent opportunity to join our multicultural team in Sant Cugat (Barcelona) in its new technological shift to build the next generation of laboratory and diagnosis software platforms and applications.
+Mission:
+
+Software Engineers in Test joining our scrum teams will build software that tests software either by coding or integrating third party tools into our test suites. The test role requires you to have a strong focus on robust and reliable applications in and out its explicit intended use. Thus you are expected to play a role in managing and challenging specifications as well as understanding design aspects of the software solutions.
+The successful candidate will meet the following requirements:
+Software development experience
+Proven experience in software testing (preferably ISTQB certified tester)
+Acquainted with agile development practices (especially Scrum)
+Educated to degree level in Bachelor, Diploma, Master of Science or equivalent technical education in Engineering, Maths or Physics
+Fluent in spoken English
+
+The following experience would be a plus:
+Proven experience using BDD frameworks
+Acquaintance with software communication protocols
+Practical work experience in laboratory diagnostics software
+Experience on software performance testing
+Experience in software life cycle management tools (E.g. TFS, Jira, HP ALM, Jenkins or VMWare)

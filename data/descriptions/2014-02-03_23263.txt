@@ -1,0 +1,4 @@
+
+Estamos buscando desarrollador en XML y PHP (Codeigniter), para integración de plataformas y trabajar en la implementación y desarrollo de una plataforma de alquileres turísticos.
+En la actualidad la plataforma ya esta creada y buscamos la implementación con otras plataformas.
+

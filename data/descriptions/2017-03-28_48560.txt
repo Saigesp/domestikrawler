@@ -1,0 +1,25 @@
+
+Keytree, consultora de tecnología galardonada y especializada en Innovación y Desarrollo, busca incorporar a su plantilla un desarrollador de Front End / JavaScript para unirse a su equipo de Madrid. 
+El candidato seleccionado trabajará en el desarrollo de aplicaciones web para clientes reconocidos. Formará parte de un equipo de proyecto que colaborará con desarrolladores de Java, diseñadores de UI / UX y administradores, para asegurar que los diseños se entreguen a tiempo y según las especificaciones acordadas.
+El desarrollador ideal debe tener experiencia en todo las etapas del desarrollo, desde la arquitectura hasta el despliegue. Deberá estar en contacto con las novedades tecnológicas del sector, buscando continuamente mejoras en la práctica.
+Es necesario que tenga la capacidad de trabajar en equipo, así como de forma autónoma cuando sea necesario.
+Esta posición estará supervisada por la sede central, situada en Londres.
+Experiencia requerida:
+•	HTML5
+•	CSS3
+•	OO JavaScript
+•	Experiencia en JavaScript frameworks: Angular. js, EXT.js or React.js
+•	JSON
+•	XML
+•	GIT or SVN
+Requisitos deseados:
+•	SASS, LESS or Compass
+•	Grunt
+•	EXT.js
+•	TypeScript
+•	Java
+•	Node.js
+•	Experiencia de trabajo mediante el método Agile
+•	Experience Experiencia en JavaScript frameworks: Backbone.js, Knockout.js
+•	Familiarizado con SAP ABAP y Netweaver Gateway
+

@@ -1,0 +1,4 @@
+
+Estamos buscando un desarrollador Android para agregar nuevas funcionalidades a nuestra aplicación ya creada para esta plataforma.
+La funcionalidad principal que queremos agregar es la de geolocalización. Posteriormente se añadirían otras funcionalidades.
+Se ofrece contrato por proyecto.

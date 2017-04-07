@@ -1,0 +1,36 @@
+
+* The company
+ 
+Devtime is a development agency specialized in start-up projects, with offices in Paris and Barcelona. Our clients are international start-ups, who benefit from our expertise in developing full-featured web applications.
+ 
+We take care of their products from and through conception, design, development, deployment and maintenance. We’re proud to be the CTOs of several cutting-edge start-up projects.
+ 
+We’re looking for a new collaborator, ready to take on new challenges and join a team of talented and passionate people in our office in Barcelona.
+ 
+* Your profile
+ 
+- You have several years of experience in web development
+- You already participated in the development of APIs, back-offices and start-up projects
+- You’re a responsible, meticulous and well-organized person
+- You’re an adept of Agile methodologies
+- You have a good customer relationship and are a team worker
+- You’re fluent in writing and speaking in English (French is also a BIG plus)
+ 
+* Your technical skills
+ 
+- PHP / Laravel framework (expert)
+- HTML / CSS / Javascript (expert)
+- MySQL (expert), Redis (bonus)
+- You know how to use most of the following tools/services : git, jira, composer, grunt, amazon aws, mailgun, nginx, apache
+- Additional valuable skills: vue.js , react.js, react-native, oauth, jwt
+ 
+* We offer
+ 
+- Indefinite period work contract (contrato de tiempo indefinido)
+- Competitive salary fitting your skills and experience
+- Work in our office in Barcelona – oh and we just got a new one, we’re sharing a building with - musicians, video producers and photographers
+- Flexible working hours – we value more your work and attitude than your time schedules
+- Expand your knowledge with experienced developers
+- Be a key asset in building our new developers team in Barcelona and grow with us
+- Take part in the conception and decision-making of cutting-edge web applications
+

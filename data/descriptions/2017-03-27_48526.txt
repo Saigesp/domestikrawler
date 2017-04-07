@@ -1,0 +1,9 @@
+
+Hola a todos,
+Desde REMSOL EUROPE estamos buscando un desarrollador para iOS y Android. Si sabes programar nativamente  en iOS y Android, esta es tu empresa. Contacta con nosotros. Somos una startup con mas de 4 años en el sector de IoT.
+Requisitos mínimos:
+-Programación en XCODE para iOS.
+-Programación en Android Studio para Android.
+Requisitos deseados:
+-Ver requisitos mínimos.
+-Creación de menús a nivel gráfico, así como, creación de animaciones para poder animar transiciones de pantalla o al mostrar datos al usuario.

@@ -1,0 +1,12 @@
+
+Empresa del sector tecnológico busca programador para proyectos de nuevo lanzamiento con gran escalabilidad. 
+Imprescindible en la zona de Manresa o alrededores (lo más cerca posible). Es un puesto presencial.
+Conocimientos requeridos:
+- Nivel alto de programación en PHP
+- Nivel alto de programación en JavaScript
+Se busca alguien con iniciativa, resolutivo y con ganas de formar parte de un proyecto con mucho crecimiento.
+Se valorará:
+- Conocimiento de las plataformas Wordpress, Oscommerce y Prestashop
+- Conocimientos en optimización de carga
+- Conocimientos en UX
+- Buena ortografía en castellano y/o otros idiomas como inglés/francés/italiano para redacción esporádica de contenidos

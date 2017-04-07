@@ -1,0 +1,18 @@
+
+En Nectar, buscamos incorporar un Front-end developer con el siguiente perfil:
+Experiencia mínima de 3 años en maquetación web: HTML5, CSS3 y JavaScript.
+Experiencia en jQuery y Bootstrap.
+Control de versiones GIT.
+Otros conocimientos que también tendremos en cuenta:
+Conocimientos de Angular y/o React.
+Dominio de AJAX y librerías.
+WebGL / three.js.
+Conocimiento en diseño web, UX / UI.
+Conocimiento en PHP y MySQL para el desarrollo de aplicaciones web.
+Conocimiento de framework Symphony 2.
+Nivel avanzado en uso y personalización del CMS WordPress.
+Experiencia con Magento y desarrollo web de comercio electrónico.
+Ofrecemos:
+Jornada Completa.
+Salario competitivo, adaptado a las capacidades y experiencia de la persona.
+Equipo humano altamente cualificado.

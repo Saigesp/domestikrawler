@@ -1,0 +1,16 @@
+
+En illusion Studio buscamos incorporar un programador con al menos 1 año de experiencia, especializado en aplicaciones web y móviles.
+Conocimientos y experiencia en:
+- HTML5 / CSS 3
+- Experiencia en Javascript y jQuery
+- PHP
+- Bases de datos (SQL, MySQL)
+- App en entorno híbrido Ionic/Cordova
+Se valorará experiencia en:
+- CMS como Wordpress, Drupal, Magento, Prestashop, etc..
+- Desarrollo en IOS y Android
+Ofrecemos:
+Contrato: 3 meses (posibilidad de indefinido posteriormente)
+Horario: Jornada Completa
+Ubicación: Valencia
+

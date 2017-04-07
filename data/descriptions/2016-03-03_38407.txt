@@ -1,0 +1,16 @@
+
+Nuclio,Venture Builder situado en Barcelona, busca incorporar a su nuevo equipo tecnológico un perfil IOS Developer.
+Skills:
+Experiencia con iOS SDK, lenguaje (Swift – Objective-C) y IDE (XCode).
+Experiencia utilizando las apis multihilo (GCD).
+Storyboards (sizeclasses, autolayout, etc).
+Conocimientos de desarrollo de aplicaciones cliente-servidor y uso de APIs REST a través de HTTP Y JSON.
+Manejo de Control de versiones GIT.
+Capacidad para trabajar en un entorno cambiante y dinámico.
+Actitud emprendedora.
+¿Qué ofrecemos?
+Salario a negociar en función de experiencia y valía.
+Incorporación a un equipo joven y entusiasta.
+Estabilidad laboral y plan de carrera.
+La posibilidad trabajar en un entorno startup, joven y dinámico
+Jornada completa con horario flexible

@@ -1,0 +1,12 @@
+
+Buscamos a un candidato para incorporar en el departamento de programación de la agencia. 
+El candidato deberá ser un perfil frontend
+Requisitos mínimos: 
+- Conocimientos avanzados en HTML, CSS y JavaScript (jQuery). 
+- Conocimientos de HTML5/CSS3.
+Se valorará: 
+- Haber trabajado en agencia de publicidad online.
+Dentro del departamento es necesario que el candidato posea: 
+- Actitud proactiva y mentalidad creativa. 
+- Capacidad para trabajar en equipo y bajo dirección. 
+- Capacidad de afrontar retos y encontrar soluciones a problemas.

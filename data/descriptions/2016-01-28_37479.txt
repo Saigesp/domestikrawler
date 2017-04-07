@@ -1,0 +1,12 @@
+
+GAME es una empresa líder en la venta y comercialización de productos electrónicos orientado a los videojuegos con más 270 tiendas a nivel nacional.
+Precisamos para nuestra oficina central situada en Ciudad de la Imagen, un Desarrollador para Windows Phone.
+Buscamos una persona con más de 3 años de experiencia en desarrollos web bajo Microsoft Framework 4.0 o superior y experiencia demostrada en desarrollos para Windows Phone 8.1
+Ofrecemos un buen ambiente de trabajo, joven y dinámico junto con flexibilidad horaria y puesto estable.
+Requerimos:
+- Experiencia con Visual Studio Blend/ Expression Blend
+- Experiencia en integración y creación de servicios WCF
+- Experiencia en desarrollos Metro, WPF / XAML
+- Se valorará positivamente conocimientos de herramientas de control de código fuente Team Foundation Server
+- Se valorará positivamente conocimientos en CSS, LESS/SASS, HTML 5, y conocimientos de maquetación y photoshop.
+

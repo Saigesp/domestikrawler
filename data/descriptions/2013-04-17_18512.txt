@@ -1,0 +1,13 @@
+
+Think Big Factory is a product and strategic design consultancy that creates opportunities at the intersection between digital and physical realities helping organizations to grow and innovate. 
+We are offering a position for a Creative Coder at our offices in Madrid, located in Serrano 16. 
+We are working with many companies creating prototypes and products related to retail, energy efficiency, smart homes, hotels, etc. We are looking for someone with enough experience to take the lead in developing interactive prototypes and products with Kinect, RFID, NFC and other technologies. Check out our project Openarch (www.openarch.cc) and our website www.thinkbig-factory.com. 
+You will join a fast growing young company.
+Skills:
+• Experience with Arduino, Openframeworks, Processing, etc.
+• Experience in programming languages such as: C++ / C# / Java.
+• Experience in electronics manufacturing and product design.
+• A core drive to develop and refine code to create an exciting and innovative user experience.
+Nice to haves:
+• Fluent English and Spanish.
+• Ability to write Android apps.

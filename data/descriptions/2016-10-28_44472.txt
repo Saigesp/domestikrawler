@@ -1,0 +1,24 @@
+
+¿Sabes quién emite la última película que quieres ver? ¿Cuándo sale la próxima temporada de tu serie favorita? ¿Quieres verlo todo a un click?
+En Tviso estamos trabajando para proponer la nueva manera de ver la televisión, porque queremos ayudarte a hacer fácil lo que ahora no lo es, llevándote a lo que quieres ver de un modo simple y rápido. 
+Creemos en hacer simple lo complejo, y queremos crecer aprendiendo cosas nuevas cada día. No creemos en perder nuestro tiempo viendo cosas que no nos aportan, porque somos lo que vemos.
+En Sant Cugat (Barcelona), acompañado por un equipo experto y dinámico, te ofrecemos la oportunidad de entrar con nosotros a luchar contra la pérdida de tiempo que supone para todos la gestión de nuestro ecosistema audiovisual.
+¿Qué te podemos ofrecer?
+Nos gusta cuidar a los nuestros. Aquí tendrás flexibilidad de horario y menú incluido en unas instalaciones espaciosas y con luz natural. 
+Estarás rodeado de buena gente que comparte nuestra manera de pensar. Trabajaremos juntos para que tu proyección profesional y la de Tviso sean un éxito!
+¿Qué buscamos?
+Para completar nuestro equipo, necesitamos un Back End nivel gurú, acostumbrado a trabajar en plataformas de última tecnología con gran volumen de tráfico. ¿Quieres ser uno de los nuestros? 
+Tareas relacionadas con la posición:
+- Mantener y desarrollar nuevas funcionalidades en la API de Tviso según requisitos de cada sprint.
+- Asegurar el buen rendimiento y velocidad de la API teniendo en cuenta la escalabilidad.
+- Validar el código generado utilizando las herramientas de test.
+- Documentar con claridad el código trabajado.
+- Asistir a los compañeros de desarrollo en caso necesario.
+- Integrarse en un equipo que utiliza metodologías agile (Scrum).
+Nuestro stack tecnológico incluye (Pero no se limita a):
+Java, PHP, Node.js
+MySQL, MongoDB, Redis, Memcached
+Gearman
+Socket.io
+PhantomJS, CasperJS
+

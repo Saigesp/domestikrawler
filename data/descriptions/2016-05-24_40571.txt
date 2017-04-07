@@ -1,0 +1,10 @@
+
+Beagle está en proceso de expansión y para ello busca desarrolladores Laravel freelance o a tiempo completo que puedan aportar ese extra en la construcción de nuestro producto. 
+Beagle es una plataforma de Marketing Automation que destaca por su sencillo uso y un interface moderno y atractivo. El sistema está desarrollado con las últimas tecnologías web, pero principalmente con el framework PHP Laravel y otros frameworks javascript. 
+Para acelerar el desarrollo de la plataforma estamos buscando desarrolladores (freelance o a tiempo completo) en España. Preferiblemente en Madrid o alrededores pero estamos abiertos a todo tipo de candidatos. El perfil requerido es:
+- Dominio de PHP Orientado a Objeto
+- Conocimientos avanzados de Laravel
+- Experiencia con unit testing
+- Se valorará muy positivamente conocimientos de front-end (html5, css y sobre todo frameworks de JS).
+Si estás harto de proyectos aburridos y lo que te va es construir productos de primera línea, no dudes en enviarnos tu CV. 
+Ofrecemos una remuneración competitiva.

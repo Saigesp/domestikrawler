@@ -1,0 +1,19 @@
+
+
+Bigg-digital, dentro del proceso de su desarrollo en España, busca a un front-end developer.
+Requisitos mínimos:
+- HTML/XHTML/HTML5 
+- CSS3 
+- JavaScript 
+- JQuery (y DHTML PURO) 
+- Bootstrap 3 / Foundation 5
+- Conocimientos relacionados con la maquetación orientada a dispositivos móviles y amigable al SEO 
+- Conocimientos de maquetación para Email Marketing 
+Experiencia con:
+- AngularJS 
+- Backbone, Ember o Meteor 
+- SVG  
+- Experiencia con Node.js  
+- Experiencia con d3.js
+Contratación: 
+- Fecha de inicio: Abril 2014

@@ -1,0 +1,20 @@
+
+En Wallo.com estamos buscando a un desarrollador de móvil para Android para unirse a nuestro equipo y desarrollar nuestras nuevas apps de finanzas personales. Queremos a perfiles con capacidad de crecimiento profesional, interés por afrontar nuevos retos y pasión por las nuevas tecnologías. 
+REQUISITOS
+•	2 años de experiencia desarrollando aplicaciones nativas Android 
+•	Experiencia en integración con APIs de backend y servicios background 
+NO REQUERIDO PERO VALORAMOS POSITIVAMENTE CONOCIMIENTOS DE:
+•	Javascript / HTML5 / CSS
+•	Ruby on Rails o NodeJS
+•	Diseño de UI/UX, usabilidad
+•	Desarrollo para iOS 
+PERFIL
+•	Grado de Informática / Ingeniería o equivalente
+•	Mínimo 2 años de experiencia profesional
+•	Actitud resolutiva y capacidad de trabajo en equipo
+OFRECEMOS
+•	Contratación indefinida a jornada completa
+•	Salario según valía candidato: 27.000 - 39.000 bruto anual
+•	Paquete de Retribución Flexible (Formación, Guardería, Salud)
+•	Autonomía y flexibilidad para desarrollarte y aportar al máximo
+•	Nuevos retos tecnológicos

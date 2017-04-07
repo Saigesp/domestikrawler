@@ -1,0 +1,13 @@
+
+Buscamos un diseñador/programador UX, una persona con conocimientos y experiencia en diseño y prototipado UX y a la vez con capacidad para participar eventualmente en el desarrollo del front-end.
+Requisitos:
+- Mínimo más de tres años de experiencia en desarrollo front-end y diseño UX
+- Experiencia en diseño de interacción en multidispositivos: desktop, tablet y móvil
+- Cocimientos de herramientas para el prototipado como Axure o Balsamiq 
+- Experiencia demostrable en programación Javascript y alguno de los frameworks "habituales" (jQuery, backbone.js, AngularJS)
+- Capacidad de estar pendiente de tendencias y novedades en el diseño de interacción y como estas pueden aporta valor a un proyecto
+- Aportar un portfolio de proyectos desarrollados
+Tareas:
+- Trabajar coordinado con el Director de Arte y los diseñadores gráficos, en el desarrollo UX de webs y apps
+- Redacción y documentación de las funcionalidades UX del proyecto
+- Coordinar con el equipo de desarrollo, la programación front-end y si es necesario participar en ella

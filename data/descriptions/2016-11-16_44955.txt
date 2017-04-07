@@ -1,0 +1,11 @@
+
+Si eres un profesional comprometido, apasionado por tu trabajo, persigues la calidad en lo que haces y quieres trabajar en un entorno colaborativo que permita tu crecimiento personal y profesional, Portium es tu lugar de trabajo.
+Portium es un modelo de aceleradora que acompaña de forma personalizada a nuevos proyectos empresariales, desde startups a proyectos más consolidados, buscando nuevas rutas que permitan potenciar su crecimiento y alcanzar los retos que se propongan con un grupo de expertos en diferentes áreas: estrategia, análisis digital, tecnología, UX, marketing, legal y big data.
+En Portium estamos buscando nuevos talentos y queremos contratar a un Desarrollador FrontEnd con experiencia en Angular JS para proyectos nacionales e internacionales y buscamos a alguien con los siguientes requisitos:
+- Apasionado del desarrollo Front
+- Experiencia con Bootstrap 3, maquetación Responsive, Preprocesadores CSS (Stylus, Less, Sass).
+- Prestas atención a la optimización del código, buenas prácticas, estándares, clean code.
+- Conoces frameworks JS como Angular, Ember y/o Backbone.
+- Familiarizado con sistemas MVC y controladores de versiones como GIT.
+- ¿Tienes código en GitHub, BitBucket?, ¿trabajas con Sublime Text o similares (Webstorm, Vim)?
+- ¿Te gusta trabajar con Agile?

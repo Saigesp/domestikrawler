@@ -1,0 +1,18 @@
+
+En Iwantic estamos buscando un Big Data Architect para una gran multinacional del sector ingeniería, dentro de su departamento de tecnología para las sedes de Madrid y Barcelona. 
+Queremos a alguien con iniciativa a quien le interese unirse a una compañía en crecimiento y con un equipo internacional, dinámico y con talento.
+Requisitos mínimos
+- Formación técnica (preferentemente ingeniería).
+- Nivel b1/b2 inglés. 
+- Experiencia de 2-3 años en puesto similar.
+- Conocimientos en diseño de la arquitectura de datos.
+- La experiencia en el diseño y desarrollo de soluciones utilizando algunas de las siguientes tecnologías: Kafka, Spark, etc.
+- Conocimientos en Hadoop.
+Requisitos deseados
+- Experiencia en el diseño de la solución y el modelado de datos utilizando tecnologías NoSQL. (Ejemplo: MongoDB, Elastic Search...)
+- Trabajo en equipo
+- Habilidades de liderazgo, comunicación y habilidades interpersonales.
+Responsabilidades
+- Desarrollo de proyectos de Big Data
+- Planificación, ejecución y entrega de proyectos.
+La persona seleccionada gozará de grandes beneficios sociales(tickets restaurante, seguros...), contrato indefinido y plan de carrera y formación desde un primer momento. Además, hará uso de las últimas tecnologías del mercado y trabajará en un ambiente de gran visibilidad internacional.

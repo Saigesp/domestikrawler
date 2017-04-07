@@ -1,0 +1,40 @@
+
+Empresa SANITAS SA DE SEGUROS
+Localidad Madrid
+Sanitas ofrece a sus socios la excelencia en la calidad asistencial gracias a los servicios de una red formada por más de 28.000 profesionales y especialistas de la salud, además de 500 clínicas y centros médicos. Sanitas es hoy la compañía líder en cuanto a clientes de seguros privados de asistencia médica y salud en España, con 1,96 millones de socios. En 1989, Sanitas se integró en el grupo británico BUPA (British United Provident Association), la mayor compañía privada del Reino Unido en el sector de cuidado de la salud con 10 millones de clientes en 190 países y que emplea a alrededor de 48.000 personas.
+Buscamos:
+TÉCNICO DE MIDDLEWARE
+Ofrecemos:
+Paquete retributivo fijo + variable + beneficios sociales.
+Contrato Indefinido
+Requerimos:
+MISIÓN DEL PUESTO:
+- Garantizar el soporte técnico, el rendimiento y la disponibilidad de la plataforma web corporativa.
+- Gestionar eficaz y eficiente proyectos de implantación de Sistemas
+FUNCIONES:
+- Gestión de procedimientos y metodología ITILv2/v3 y PMBOOK Valor Ganado.
+- Gestión de proyectos de implantación de Sistemas
+- Gestión del cambio de todas las nuevas peticiones sobre la nueva plataforma de Internet/Web
+- Gestor de incidencias de la plataforma.
+- Soporte en la planificación y operación versión de tareas planificadas y metodología para su traspaso a Operación.
+- Gestión de la capacidad de la nueva infraestructura de Internet
+- Realización de planes técnicos para la optimización y dimensionamiento de la infraestructura.
+- Optimizacion/tunning de la plataforma actual.
+REQUISITOS:
+Conocimientos de WLST
+            Entornos HA (cluster weblogic, con apache plugin y balanceadores Hw)
+            Entorno Unix/Linux
+            Muy importante conocimientos de tunning y troubleshooting weblogic
+            Conocimientos deseables de java, Solaris 10 y RHEL 5 (ambos de esa versión en adelante)
+            Balanceadores Citrix NetScaler y F5
+            Tecnología UCM 11 R (10.3.3)
+            Weblogic 10.3
+            Interaccion con BBDD Oracle (DataSources,etc…)
+Deseamos:
+- Titulación de Ingeniería Informática o experiencia equivalente.
+- Experiencia como Técnico de Middleware, servidores de aplicaciones, con experiencia demostrable en Weblogic.
+Experiencia:
+1 a 3 años
+Idiomas:
+Valorable nivel de inglés alto
+Si estás interesado, inscríbete a la oferta en http://bit.ly/HpbvGA , te llevará menos de un minuto. Por favor, para darte un buen servicio, no nos envíes tu CV por email.

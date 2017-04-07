@@ -1,0 +1,16 @@
+
+DAVINCHI, empresa de Diseño y nuevas tecnologías nace para dar respuesta a distintas necesidades surgidas en el desarrollo de proyectos de consultoría y formación que desarrollaba grupo Finsi.
+En dichos proyectos empezó a tomar gran relevancia la necesidad de incorporar las nuevas tecnologías para optimizar los procesos y ser más eficaces y eficientes en la gestión, tratamiento y seguimiento de la
+información y datos.
+Tenemos un planteamiento muy flexible en cuanto a las soluciones que aportamos.
+Davinchi, precisa incorporar a su equipo de trabajo un:  Programador experto en Moodle.
+* Sus funciones serán:
+Implementación y desarrollo de plataformas Moodle para importantes empresas de ámbito nacional e internacional.  Desarrollo, mantenimiento y mejora de plugins, módulos y otras aplicaciones PHP.
+* Requisitos técnicos:
+Moodle, PHP, MySQL, HTML y CSS
+Se valorarán conocimientos de:
+Javascript, HTML5 y CSS3
+* Tipo de contrato:
+-	Freelance
+-	Teletrabajo
+-	Salario por hora a convenir

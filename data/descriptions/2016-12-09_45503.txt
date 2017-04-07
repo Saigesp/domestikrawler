@@ -1,0 +1,25 @@
+
+En nuestro Departamento de User Experience buscamos un Consultor y Diseñador UX SR especializado en Infografía y visualización de datos interactiva, para trabajar con un equipo de Investigación y Desarrollo de Industry & Finance Analytics en Barcelona, y que tenga experiencia en conducir workshops de Design Thinking e innovación con stakeholders.
+Estos workshops irán enfocados a la búsqueda de soluciones creativas para aplicaciones de visualización de datos de Business Intelligence, Big Data, Advance Analytics y Data Science. El candidato debe tener asimismo la capacidad de prototipar y diseñar mock-ups de interfaces gráficas de usuario de cuadros de mando (dashboards) con un alto componente de interactividad. 
+El candidato debe tener experiencia trabajando en grandes consultoras. Se considerarán sólo candidaturas que puedan mostrar o enviar portfolio de trabajo relacionado con las características de la oferta. Se garantiza total confidencialidad al respecto.
+Requerimos experiencia Senior (trabajando para grandes consultoras) en:
+1.	UX, usabilidad, diseño de interacción, design thinking:
+•	Realización de workshops de Design Thinking y conocimiento metodológico de dicho proceso. 
+•	Análisis y diseño de la experiencia de usuario, diseño de interacción y arquitectura de información en entornos desktop y mobile.
+•	Realización de offerings y propuestas de UX customizados a cada cliente y proyecto.
+•	Definición de Customer Journeys, personas y escenarios de uso, en workshops realizados con el cliente.
+•	Colaboración en el análisis de tendencias y buenas prácticas en usabilidad y User Experience para los distintos dispositivos y sistemas operativos. 
+•	Dominio de las reglas heurísticas de usabilidad, y patrones y estándares de diseño de interacción para web, dispositivos móviles y tablets.
+2.	Diseño visual de interfaces gráficas de usuario:
+•	Prototipar y diseñar interfaces gráficas de usuario de cuadros de mando (dashboards) con un alto componente de interactividad.
+•	Manejo avanzado de aplicaciones de diseño visual: Adobe Creative Suite. En especial Adobe Photoshop, Fireworks e Illustrator.
+•	Wireframing: Rapid paper prototyping, y en aplicaciones como Adobe Illustrator / Fireworks / Axure / Powerpoint o similares.
+•	Alta capacidad de “bailar pasodoble”, esto es: el equipo de proyecto utiliza herramientas con limitaciones, tales como Qlikview, Microsoft Power BI, o análogas. Se trata de ser capaz de pensar sin límites (What IF), pero ser capaz de bajar a tierra según constraints (What WORKS).
+3.	Otros requisitos generales:
+•	Nivel de inglés muy alto y fluido tanto hablado como escrito (se requiere trabajar con equipos internacionales a través de Skype).
+•	Dominio de Microsoft Office a nivel de usuario, especialmente PowerPoint.
+•	Excelente capacidad de comunicación oral y escrita. 
+•	Experiencia trabajando en equipos multidisciplinares (UX, diseño visual, front-end).
+•	Capacidad de presentar y argumentar el trabajo ante los clientes e involucrados en un proyecto.
+•	Aunque no se requiere crear código, sí conocimiento de programación front-end a nivel de posibilidades y limitaciones (HTML5, CSS3, estándares W3C). 
+

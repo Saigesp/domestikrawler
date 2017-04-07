@@ -1,0 +1,17 @@
+
+Casi un siglo de presencia en el mercado y un equipo de profesionales motivados e identificados con los objetivos y la filosofía de un sólido grupo familiar, avalan a GRUPO ROMEU como líder en el sector de la tecnología y transporte internacional.
+El Grupo Romeu cuenta con su propia empresa de desarrollo informático, Grupo Romeu Multiservices, para la que buscamos un profesional en programación. Net o C# que posea aptitudes de análisis y síntesis, iniciativa y esté habituado a trabajar en equipo, para el desarrollo de un nuevo proyecto.
+Se requiere.-
+Formación Mínima: Ciclo Formativo Grado Superior- Informática.
+Experiencia mínima de 1 año, con la siguientes herramientas:
+* Desarrollo Orientado a Objetivos (SOLID)
+*Testing de aplicaciones
+* .Net Framework
+* C#
+*ADO.NET/Entity Framework
+* Web Services / Web API
+* Conocimientos avanzados de  SQL Server 2005/2008/2012
+Se valorará:
+*Inglés o Francés
+* HTML, AJAX, CSS, JQuery, Angular JS, ASP NET MVC
+

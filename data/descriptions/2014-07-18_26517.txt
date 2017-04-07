@@ -1,0 +1,5 @@
+
+Requisitos:
+- Programación en código nativo de IOS, Android, así como sus  herramientas de desarrollo. 
+- Programación en framework de desarrollos móviles....(Phonegap...)
+El candidato formará parte del equipo de desarrollo, incorporándose en el área de móviles para desarrollar las aplicaciones móviles de la plataforma 4dlife.

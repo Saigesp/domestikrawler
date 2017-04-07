@@ -1,0 +1,28 @@
+
+En Fintonic buscamos un ingeniero técnico o superior en informática, telecomunicaciones o carrera afín, interesado en incorporarse a una importante empresa del sector de servicios de internet. Formarás parte del core del equipo de desarrollo reportando al responsable del área.
+Serás parte de un equipo excepcional de profesionales en un ambiente joven y dinámico en el que podrás dar rienda suelta a tu creatividad. Buscamos gente comprometida, enamorada del producto, con ideas frescas y capacidades resolutivas.
+Responsabilidades
+•	Desarrollar y mantener los procesos y servicios de backend existentes o nuevos según las necesidades del negocio.
+•	Participar activamente en las diferentes tareas del proyecto: estimaciones, especificaciones, análisis, desarrollo, y pruebas. 
+•	Realizar el desarrollo  tomando en cuenta las buenas prácticas definidas en la empresa y colaborar en la mejora de las mismas.
+•	Implementación de pruebas unitarias para la validación de los desarrollos hechos.
+•	Ayudar al líder del proyecto para entregar un trabajo de calidad (asistir en la coordinación y garantizar resultados de calidad en todas las áreas) 
+•	Documentar el desarrollo o procedimientos según las normas establecidas.
+•	Interés por aprender y compartir conocimientos con otros miembros del equipo.
+Tecnologías/Lenguajes/Herramientas de desarrollo
+•	Java, J2EE, Spring Framework, Eclipse, 
+•	Maven, svn, git, jenkins, artifactory
+•	SQL, NoSQL(ej: mongodb)
+•	RabbitMQ
+•	Apache HTTP Server, Tomcat
+•	Solr, Drools
+•	Linux/Unix, Shell/bash scripting
+Otros conocimientos
+•	Experiencia en desarrollo con prácticas de TDD (Test Driven Development)
+•	Web Services (SOAP, REST, ...)
+Valorable
+•	Ruby, Python
+•	Map/Reduce, Hadoop
+•	Experiencia con gestión de entornos cloud (ej: EC2)
+•	Experiencia en el sector financiero
+•	Machine Learning, análisis semántico

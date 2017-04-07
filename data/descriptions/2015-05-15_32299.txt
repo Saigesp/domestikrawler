@@ -1,0 +1,17 @@
+
+Buscamos un profesional con amplios conocimientos en el mundo de la programación WEB en entorno LAMP, para integrarse en una empresa líder en el sector del marketing promocional.
+Experiencia mínima: 3 años
+Requisitos: 
+-Experiencia y sólidos conocimientos en arquitectura PHP, MySQL. 
+-Conocimientos de diseño web.
+-Sólidos conocimientos de HTM5L y CSS3.
+-Conocimientos de AJAX, Javascript, JQuery.
+OTROS: 
+-Experiencia mínima de 3 años como programador 
+-Conocimientos de programas de edición de imagen (Photoshop, FreeHand, etc…) 
+-Se valorará positivamente conocimientos en CMS como Drupal o WordPress.
+-Se valorará positivamente conocimientos en desarrollo de Apps para entorno móvil
+- Buena capacidad de abstracción, razonamiento y lógica a nivel de desarrollo de software. 
+- Buena capacidad de organización y gestión de las tareas propias y de los programadores. 
+- Capacidad de comunicación fluida y eficiente con perfiles no técnicos 
+- Ilusión, muchas ganas de aprender, honestidad, trabajo en equipo, compromiso y empuje.

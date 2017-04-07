@@ -1,0 +1,23 @@
+
+Somos una empresa de Desarrollo de aplicaciones web afincada en Las Rozas de Madrid, necesitamos un programador tanto para Front como para Back, para hacer proyectos completos y adaptar una seria de desarrollos que ya tenemos implementados.
+Los requisitos mínimos que pedimos son los siguientes: 
+-	HTML5 
+-	CSS3 
+-	JAVASCRIPT / JQUERY 
+-	PHP5 
+-	MYSQL 
+-	Experiencia demostrable imprescindible en puestos similares 
+Requisitos adicionales:
+-	Aplicaciones Moviles: Android, IOS
+-	Uso librería PDO para MySQL 
+-	Uso de apis (Facebook, YouTube, Google Maps,etc.) 
+-	Conocimientos del Framework Bootstrap
+Se ofrece: 
+-	Entorno de trabajo joven y dinámico. 
+-	Desarrollo profesional 
+-	Estabilidad laboral. 
+-	Incorporación inmediata 
+-	Jornada completa 
+-	Horario: L-V 09:00h–14:00h 14:30h-18:00h; V 09:00h-15:00h
+El trabajo se realizará desde la oficina ubicada en Las Rozas. 
+Preferible residente de la zona noroeste de Madrid.

@@ -1,0 +1,8 @@
+
+Buscamos un maquetador web con experiencia para proyecto temporal como freelance in house.
+Indispensable conocimientos de maquinación para multidispositivos, smartphones, tablets.
+Conocimientos:
+- HTML
+- CSS
+- Javascript
+Se valorarán conocimientos de programación backend (php).

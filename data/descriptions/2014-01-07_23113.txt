@@ -1,0 +1,17 @@
+
+Offerum es un servicio que promociona eventos y actividades de ocio locales. Estamos en pleno desarrollo y crecemos rápidamente gracias al esfuerzo que realiza a diario un gran equipo. Hemos creado una empresa joven y dinámica con un compromiso: el de mejorar constantemente. Por todo ello buscamos a personas innovadoras, con espíritu de superación, dinámicas y comprometidas con el trabajo bien hecho.
+En la actualidad precisamos incorporar en nuestras oficinas de Barcelona programadores para nuestro departamento de IT y Desarrollo.
+REQUISITOS:
+- Experiencia mínimo 1 año demostrable en entorno LAMP (Linux, Apache, PHP, Mysql).
+- Conocimientos: PHP + HTML + CSS + JS (Jquery).
+- Conocimientos de Frameworks (Codeigniter, Symfony…)
+FUNCIONES A REALIZAR:
+- Desarrollo web.
+- Programación.
+- Soporte técnico.
+SE VALORARÁN:
+- Experiencia en webs de alto tráfico y sector e-commerce.
+- Capacidad resolutiva.
+- Experiencia en patrón MVC.
+- Conocimientos sobre control de versiones (SVN, Git).
+

@@ -1,0 +1,9 @@
+
+Empresa multimedia precisa programador experto en Android y con conocimientos en IOS y web para desarrollar apps para dispositivos móviles
+Requirimientos indispensables:
+- Experiencia en desarrollo para Android
+- Experiencia en PHP y MySQL
+- Conocimientos de HTML, CSS y Javascript
+- Conocimientos de desarrollo en IOS
+- Experiencia en posicionamiento web
+Se valorarán conocimientos de diseño gráfico y de Wordpress

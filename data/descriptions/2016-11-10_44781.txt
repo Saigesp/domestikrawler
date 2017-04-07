@@ -1,0 +1,16 @@
+
+- Estudios mínimos:
+Ciclo Formativo Grado Superior - Desarrollo de Aplicaciones Multiplataforma
+- Experiencia mínima:
+1-2 años
+
+-Requisitos mínimos:
+Programación de aplicaciones en PHP
+Framework Laravel (BackEnd y FrontEnd)
+Integración y desarrollo de funcionalidades con JavaScript / jQuery / vue.
+MySQL
+Diseño responsive: BootStrap, HTML5, CSS3
+La persona a incorporar deberá tener experiencia como desarrollador web con conocimientos suficientes de Laravel Framework, tanto para Backend como Frontend, y se incorporará al departamento de informática de la empresa, para ocuparse de la programación, maquetación y desarrollo, de forma solvente y con la máxima eficiencia para:
+· Desarrollar e implementar nuevas aplicaciones web y módulos de aplicaciones existentes
+· Mantener y mejorar las aplicaciones web disponibles
+

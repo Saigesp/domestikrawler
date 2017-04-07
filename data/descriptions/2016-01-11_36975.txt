@@ -1,0 +1,27 @@
+
+¡Hola!
+Somos estrés y estamos buscándote a ti: un verdadero Ninja Developer para incorporarse a nuestro equipo en el departamento de desarrollo web.
+¿Y qué tienes que tener si quieres ser esa persona?
+En general: 
+-              Proactividad e independencia en tus labores. 
+-              Capacidad de análisis y de adelantarte a los problemas (topicazo, pero necesario). 
+-              Cumplir con los plazos y tareas de forma eficaz. 
+-              Estar al día en las tendencias tecnológicas. 
+-              Estar acostumbrado a trabajar en equipo. 
+-              Con perfil publicitario (aunque esté muy oculto, que esté). 
+-              Y si además, eres simpático y con buen humor, pues mucho mejor.
+Y en particular: 
+-              Experiencia mínima de 4 años en PHP + MySQL .
+-              Experiencia con Drupal y Wordpress .
+-              Experiencia con Symfony / Silex.
+-              Buenas nociones de XHTML/CSS.
+-              Dominio avanzado de JS y JQuery .
+-              Buenas bases de Linux.
+-              Conocimientos de administración de bases de datos.
+Además valoraremos bastante otras habilidades: 
+-              Experiencia con AngularJS.
+-              HTML5 y CSS3.
+-              Conocimientos de desarrollo de aplicaciones móviles híbridas con Apache Cordova o similares.
+¿Qué ofrecemos nosotros? 
+Incorporación en una agencia de publicidad,  joven y creativa en el centro de Madrid, con clientes muy interesantes y apetecibles.
+Tenemos muchos proyectos web en curso, otros que van a venir y muchos más que queremos hacer pero aún no lo sabemos. Por eso necesitamos a alguien que se integre en nuestro departamento de desarrollo web.

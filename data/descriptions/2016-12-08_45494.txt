@@ -1,0 +1,28 @@
+
+We are looking for passionate, skilled Python Backend with at least 3 years of experience who wants to make meaningful, measurable improvements that impact millions of users.
+About Us
+Ubeeqo is a mobility company that provides a simplified, seamless mobility experience to all its clients. There’s no longer the need to own a car to move around. Ubeeqo provides a car just when you need it, in many different modes: carsharing, traditional rental and chauffeur service. We are a fast growing company with presence in several European countries. 
+Bluemove Madrid/Barcelona Offices based job
+Ubeeqo acquired Bluemove in 2016. Bluemove is a Spanish Carsharing Company based on Madrid, Barcelona and Menorca. The job is based on Madrid, Barcelona or Menorca and would work along international teams based on Brussels and Paris. And we are open to have you in Brussels or Paris.
+Overview
+We have two engineering teams in France and Spain, and we are creating a third one, the Data Team. We are in a transition period to Microservices and we are loooking for a responsible for the Data Warehousing and Data Lake of the Microservices architecture. We are looking for a passionate and skilled data engineer.  You will be one of the founding members of the team so you will part of its strategic design.
+How we work
+We work in a start-up like manner and we work in small scrum teams of 4-7. Every team member is encouraged to take full ownership of their part of the platform but also to contribute ideas, suggestions and code to other areas of the business. We believe that features have no value until they are in production adding value to our customers so teams deploy fast and often. The tech team is building something that has never been built before so we're always trying to think outside the box.
+You may be required to:
+Design, construct, install, test and maintain highly scalable data management systems and databases.
+Integrate new data management technologies and software engineering tools into existing structures.
+Create custom software components and analytics applications.
+Employ a variety of languages and tools (e.g. scripting languages) to marry systems together.
+Collaborate with data architects, modelers and IT team members on project goals.
+Develop dashboards and reports to communicate results.
+Build infrastructure to support Data Scientists and Ad-hoc analytics.
+Requirements:
+3+ years of experience with Python required. Flask or similiar frameworks for building restful services required and microservices experience would be a plus.
+Database architectures and Data warehousing solutions and Data mining. SQL technologies (e.g. PostgreSQL and MySQL) and NoSQL technologies (e.g. Cassandra and MongoDB).
+Advanced SQL skills - comfortable working with complex data sets. 
+Knowledge of some HTML5, CSS3 and JS.
+Advanced quantitative analysis and (preferred) M.S. in Computer Science, Engineering, Statistics, or other relevant technical field.
+Exceptional written and oral communication skills to convey ideas in an effective manner and passionate about technology, willingness to learn and try new things.
+Salary
+35.000€
+

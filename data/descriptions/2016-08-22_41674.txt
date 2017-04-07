@@ -1,0 +1,14 @@
+
+***Requisitos:
+- Titulación en Diseño Gráfico, Bellas Artes, Diseño Web...
+- Experiencia profesional de al menos 4 años en labores de maquetación
+- Conocimientos de Bootstrap, CSS, CSS3, HTML5
+- Experiencia trabajando con preprocesadores como SASS, LESS o Stylus.
+- Motores de templating (twig, moustache)
+- Conocimientos de GIT o Subversion
+- Capacidad para migrar un diseño desde el arte (en imágenes o psd) hasta las versiones finales de móvil, tablet y web.
+***Valoramos:
+- Se valoran habilidades y herramientas de diseño
+- Desarrollo con tecnologías de Front-end
+- Conocimientos de movilidad
+

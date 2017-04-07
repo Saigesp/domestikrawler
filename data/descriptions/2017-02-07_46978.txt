@@ -1,0 +1,22 @@
+
+Estamos ampliando nuestro equipo técnico y buscamos un candidato para el desarrollo de nuestras aplicaciones para iOS.
+
+El/la candidato/a se encargará de:
+- El desarrollo de nuestras aplicaciones para iOS
+- Mantener y actualizar las funcionalidades actuales
+- Desarrollar nuevas funcionalidades y nuevas aplicaciones
+- Ayudar al diseño de la API REST con la que la app se comunica
+- Preparar tests para que la app sea totalmente estable y funcional
+No nos fijamos mucho en los títulos o la experiencia, valoramos más las ganas, la aptitud y el interés por seguir aprendiendo y mejorando cada día. Preferimos que nos mandes tu perfil de Github o Stack Overflow que tu curriculum.
+
+¿Qué nos gustaría?
+- Que tengas experiencia en desarrollo de apps con Swift.
+- Que hayas publicado alguna app en la App Store.
+- Que te apasione el desarrollo móvil y te mantengas a la última.
+
+¿Qué ofrecemos?
+- Proyecto de larga duración.
+- Jornada Completa con flexibilidad horaria.
+- Ambiente joven con un equipo con ganas de trabajar duro y pasarlo bien.
+- Retribución competitiva.
+

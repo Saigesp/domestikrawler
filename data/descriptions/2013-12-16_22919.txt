@@ -1,0 +1,11 @@
+
+Kuorum.org es una startup social que quiere salvar la brecha entre la clase política y la sociedad.
+En estos momentos, buscamos a un Experto en Usabilidad freelance para realizar las siguientes tareas de la nueva fase en la que nos hemos involucrado. 
+Las responsabilidades serán las siguientes:
+- Definir las prioridades del nuevo  diseño.
+- Aterrizar ideas y añadir valor a las mismas.
+- Defender la calidad del producto.
+- Definir la arquitectura de información y comportamiento (interacción, flujos de procesos, etc..).
+- Velar por la calidad y coherencia de la experiencia de usuario.
+- Se valorará capacidad para definir las actividades y planes de acción en el ámbito del marketing y de la comunicación.
+- Necesitamos que tengas la capacidad de diseñar la interfaz del producto final, con atención tanto al copy como a todos los elementos propios del diseño visual (layout, color, tipografía…)

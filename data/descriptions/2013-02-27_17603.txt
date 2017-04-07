@@ -1,0 +1,14 @@
+
+Se busca Ingeniero Informático recién titulado o en últimos cursos para media jornada como becario.
+Somos una empresa con entre 20 a 30 trabajadores. Realizamos todo tipo de proyectos web. Somos especialistas en Ecommerce y SEO.
+En estos momentos necesitamos un incorporación (a media jornada) para desarrollar tiendas online bajo el apoyo y supervisión, en todo momento, de uno de nuestros desarrolladores especializados.
+Las tareas a realizar incluirán el uso de framework ecommerce, programación PHP orientada a objetos, HTML, JS, CSS (maquetación en general)
+Proyectos versátiles y profesionales.
+Ambiente joven y dinámico.
+REQUISITOS:
+Programación Orientada a Objetos (PHP).
+Se valorará conocimientos en Frameworks ecommerce, preferiblemente Magento.
+Programación avanzada en HTML (se valorará conocimientos HTML5.
+Programación avanzada en Javascript (jQuery, Prototype, etc.)
+Programación avanzada en CSS (se valorará conocimientos CSS3)
+Importante: Es una oferta para becario en prácticas, se necesitará un convenio con la Universidad o la Escuela. El trabajo será presencial en Barcelona, en nuestras oficinas.

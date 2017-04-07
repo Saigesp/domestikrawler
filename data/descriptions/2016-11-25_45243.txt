@@ -1,0 +1,8 @@
+
+Experto en PHP, con experiencia en algún FRAMEWORK (Yii Framework, Slim PHP, Codeigniter o similar). Conocimiento de la arquitectura MVC y programación orientada a Objetos
+Experto en FRONTEND, con experiencia en AngularJS,  JQuery,  y aplicaciones full-stack en NodeJS, ExpressJS,  MongoDB, MYSQL.
+Amplios conocimientos en MAQUETACION HTML y CSS en entornos Responsive, con Bootstrap,, Material Design o similar.
+Conocimientos de desarrollo de aplicaciones Java para Android en entornos Eclipse y Android studio.
+Conocimiento de bases de datos SQL Lite, MYSQL.
+Se valorara conocimiento de otras plataformas móviles como iOS.
+

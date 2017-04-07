@@ -1,0 +1,51 @@
+
+Quienes somos
+En EsLife somos apasionados de la tecnología, las personas y los clientes. Queremos hacer la vida un poco más fácil a todos los usuarios de nuestra plataforma. Ofreciendo a nuestros clientes servicios para el hogar de la máxima calidad y confianza, y clientes a los profesionales que colaboran con nosotros. 
+Estamos diseñando servicios para gente que normalmente no son el objetivo de nuevas empresas de tecnología, y estamos construyendo un producto único que escale a millones de usuarios. En los últimos dos años nos hemos expandido a las 17 principales ciudades de España, hemos sido reconocidos como una de las startups de mayor crecimiento y pronto comenzaremos nuestra expansión internacional. 
+Estamos respaldados por algunos de los inversores más exitosos de Silicon Valley y España como Angels Capital y Plug & Play.
+Si crees que el software se debe utilizar para conseguir mejoras de eficiencia masivas en mercados del mundo real, para solucionar problemas reales a través de la innovación y la tecnología, EsLife es el lugar ideal para desarrollar tus habilidades y crear un impacto real.
+Descripción del puesto
+Como Android Developer debes pensar como un emprendedor! El software que desarrolles tendrá un impacto directo en las vidas de nuestros usuarios todos los días, muchos de los cuales utilizan sus teléfonos exclusivamente para interactuar con nuestra plataforma. La aplicación va a ayudar hacer su vida más fácil bien sea ayudándoles a encontrar los mejores profesionales o nuevos clientes.
+¿Qué vas a hacer?
+•	Crear potentes y elegantes aplicaciones de Android, tanto para nuestros clientes como para los profesionales de limpieza.
+•	Programar algoritmos para automatizar procesos manuales en la plataforma, como asignación automática de profesionales en base a sus cualidades.
+•	Trabajar junto con el equipo de diseño y UX para integrar interfaces de usuario atractivas y sencillas.
+•	Trabajar con un gran equipo de desarrollo, totalmente integrado con metodologías ágiles y muy volcado con la calidad de código, testing y formación continua.
+Conocimientos y experiencia
+Se requiere:
+•	Al menos 5 años de experiencia en desarrollo profesional de software.
+•	Al menos 2 años de experiencia en el desarrollo y lanzamiento de aplicaciones para Android, ya sea personal o profesionalmente.
+•	Dominio de Google Android y Java.
+•	Experiencia haciendo APP nativas.
+•	Experiencia en intregración de servicios REST.
+•	Apasionado de la experiencia del usuario, orgulloso de crear interfaces de usuario atractivas y cuidadas.
+Valorable:
+•	Haber subido aplicaciones a la Google Play Store (indícanos qué aplicaciones has publicado).
+•	Experiencia en testeo de UX/UI de aplicaciones móviles.
+•	Experiencia en el desarrollo de APIs.
+•	Experiencia con PHP (Laravel/Symfony), MySQL, HTML5 y CSS3.
+•	Conocimientos de Linux y Scripting.
+•	Experiencia o conocimiento de SCRUM.
+•	Contribución a un proyecto de software de código abierto; compártenos tu cuenta de Github!
+•	Conocimiento sobre despligues en Cloud (AGCloud).
+•	Experiencia en Startups y/o plataformas de economía colaborativa.
+•	Haber probado EsLife como cliente.
+Cualidades Personales
+•	Capacidad para enfrentarse a nuevos retos; voluntad y capacidad de aprender.
+•	Creativo, innovador, autodidacta y solucionador de problemas.
+•	Abierto al feedback.
+•	Team player.
+¿Qué ofrecemos?
+•	La oportunidad de trabajar en una startup exitosa, apoyada por Lanzadera (www.lanzadera.es), Plug and Play (www.plugandplaytechcenter.com), Angels (www.angelscapital.es), ENISA (www.enisa.es) y Cink Emprende (www.cink-emprende.es).
+•	Acceso a todos los beneficios que ofrecemos como empresa: formación, vacaciones extra, comida, snacks y bebidas, gimnasio, dentista, etc. (http://www.eslife.es/blog/quiero-trabajar-en-eslife-benefits-para-los-empleados/).
+•	Una experiencia que te permite desarrollarte profesionalmente y llegar a formar parte del equipo directivo.
+•	La oportunidad de trabajar en con un increíble equipo.
+•	Horario flexible, que te permita gestionar tu tiempo.
+Tipo de Contrato: Indefinido + Prueba.
+Tipo de Jornada: Completa.
+Salario: Variable en función de la valía del candidato.
+Años de experiencia: mínimo 2 años de experiencia en puestos similares. 
+Nivel de estudios (Ed. Secundaria, Bachillerato, Diplomado…): Preferiblemente, formación universitaria en Ingeniería Informática.
+Idiomas (si se requiere): Necesario hablar y escribir castellano fluidamente. Se valorará si se conocen idiomas adicionales (principalmente inglés).
+Localización: Valencia.
+

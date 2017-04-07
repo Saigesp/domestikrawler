@@ -1,0 +1,9 @@
+
+Si eres Técnico Superior en DAW y cuentas con 3 años de experiencia en el sector IT y nuevas tecnologías, aquí tienes tu oportunidad para incorporarte a una de las mayores empresas españolas del sector de la telecomunicación e innovación en Santander.
+Buscamos un Desarrollador Android con certificaciones en Java, con experiencia en el desarrollo de proyectos en diversas plataformas web, así como capacidad de análisis y trabajo en equipo en entornos multi-disciplinares. Además es necesario contar con un nivel técnico en Inglés.
+Se requiere amplios conocimientos en:
+Java, JavaScript, HTML, JQuery, CSS, SQL, C#(.NET), PHP, Python.
+Plataformas Android y tecnologías relacionadas.
+Bases de datos: MySQL, SQL Server.
+Frameworks y herramientas: Eclipse, SVN, SQL Server, MySQL, PyCharm, XCode.
+Se ofrece incorporación inmediata en una compañía joven y dinámica con excelente ambiente de trabajo, y remuneración acorde con el conocimiento y experiencia aportada.

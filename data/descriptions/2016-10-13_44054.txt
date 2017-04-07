@@ -1,0 +1,31 @@
+
+Buscamos un Desarrollador Full Stack con experiencia en aplicaciones web para liderar un proyecto de gran tráfico y relevancia. Alguien con pasión por su trabajo e interés por las nuevas tecnologías. 
+
+# Responsabilidades
+Liderar el mantenimiento del proyecto y el desarrollo de nuevas funcionalidades.
+Gestionar la comunicación con el equipo creativo/diseño/contenido.
+Ser responsable de una aplicación con centenares de miles de visitas mensuales y alto volumen de ventas.
+Detectar y solucionar problemas de producción tanto a nivel de aplicación como de servidor/infraestructura.
+Liderar el equipo de desarrollo y acompañar en el crecimiento de desarrolladores junior.
+Experiencia y habilidades requeridas:
+Al menos 2 años de experiencia en aplicaciones web en producción.
+Experiencia en Ruby On Rails.
+Experiencia en HTML/CSS/SASS.
+Experiencia en Javascript.
+Experiencia en protocolos HTTP e integración de APIs.
+Experiencia en MySQL
+Interés por el código limpio y el trabajo bien hecho.
+Test driven development.
+No hace falta que seas un experto en todo, pero sí que tengas una mentalidad abierta y ganas de aprender.
+# Tecnologías/Stack
+Ruby on Rails
+MySQL
+HTML, CSS, SASS
+Javascript
+AWS (EC2, S3)
+Git / Github
+Redis
+# Qué ofrecemos
+Salario competitivo
+Trabajar en proyectos relevantes con gran notoriedad
+Entorno de trabajo joven y dinámico en un lugar céntrico y bien comunicado de Barcelona

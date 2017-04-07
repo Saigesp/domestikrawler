@@ -1,0 +1,35 @@
+
+Vuelve a comprar en las tiendas de tu barrio con Manzaning.
+Manzaning es la primera app que te permite comprar desde tu móvil pero como si estuvieras
+frente al mostrador. Más de 200 tiendas de Barcelona ya venden vía llamada telefónica o chat
+a través de nuestra plataforma.
+Manzaning nace hace unos meses cuando detectamos un vacío de mercado para el comercio
+de barrio. Cada vez más gente quiere volver a comprar en sus tiendas de siempre pero este
+long tail de comercios no tiene capacidades para desarrollar su tienda online. Para cubrir esta
+necesidad creamos Manzaning con la misión de dar la mejor experiencia de venta online para
+el comercio local a cliente y tienda.
+Manzaning está en expansión y necesitamos perfiles con energía, motivación y pasión por las
+nuevas tecnologías. Si te gusta el e-commerce y te atrae una experiencia en start up,
+Manzaning es tu empresa.
+En Manzaning te ofrecemos la oportunidad de aprender del equipo senior que lidera el
+proyecto, de aportar valor, implementar cambios y ver resultados reales. Ofrecemos contrato
+indefinido con período de pruebas previo.
+En estos momentos para el equipo IT estamos buscando programador Android.
+Lo que estamos buscando:
+- 2+ años de experiencia en el desarrollo nativo de aplicaciones Android
+- Base sólida del ciclo de vida de desarrollo de SW
+- Persona atenta a los detalles y que cuide la experiencia del usuario
+- Conocimiento de los proceso de publicación en Google Play
+- Experiencia en frameworks para testing, sistema de mapas y mensajes PUSH
+Funciones principales:
+- Desarrollar la versión de Android
+- Tareas para la mejor de optimización y rendimiento
+- Identificar y anticipar posibles problemas
+- Planificar el trabajo y consecución de los hitos
+- Trabajar en colaboración con otros departamentos
+Con qué trabajarás:
+- Desarrollo ágil
+- Integración de terceros
+- Git
+- Trello / Jira
+- CocoaPods

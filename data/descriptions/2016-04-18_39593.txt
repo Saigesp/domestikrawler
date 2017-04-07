@@ -1,0 +1,18 @@
+
+En Netstage estamos revolucionando la forma de disfrutar de la música en directo permitiendo a los espectadores interactuar en tiempo real con los artistas por video streaming.
+Lanzadera está apostando por nosotros. Estamos instalados en sus espectaculares oficinas con vistas al mar en la Marina Real de Valencia.
+Ya hemos realizado con éxito nuestro primer concierto junto con Sony Music y Ecovidrio obteniendo muy buenos resultados: Trending topic en menos de 30 minutos, 91’7% de participación en interacción marca-fan, más de 20.000 acciones interactivas.
+Esto no ha hecho más que empezar. Las posibilidades son ilimitadas. Nos espera un futuro tan ambicioso como exitoso y buscamos a alguien como tú para acompañarnos
+¿Qué pedimos?
+- Estás cómodo trabajando en Java y en Javascript. Te consideras full stack. Te apasionan el desarrollo ágil, el TDD y trabajar en un entorno dinámico, 
+- Buscas un reto tecnológico pudiendo aportar con cada línea de código que desarrolles, 
+- Familiaridad trabajando con metodologías ágiles: Scrum, Kanban,
+-Sobre ti: Fuerte sentimiento de responsabilidad por tu trabajo, pasión, capacidad analítica, perfeccionista y proactivo. Buscamos a alguien resolutivo, comunicativo y ambicioso.
+Estaría bien si alguna vez has trabajado en una startup, si te gusta el desarrollo orientado hacia aplicaciones móviles, si compartes los principios de “mobile first” y si te apasiona la música.
+Nos enamoraríamos de ti si te encantan las bases de datos no relacionales y si tocas al menos un instrumento.
+¿Qué te ofrecemos?
+-Te ofrecemos un proyecto con gran proyección internacional en el que te enfrentarás a retos que te permitirán evolucionar enormemente tanto a nivel profesional como personal,
+-El ambiente de trabajo en Lanzadera es genial. Estamos rodeados de talento y aprendemos día a día de todos nuestros compañeros,
+-Oficinas con vistas al mar,
+-Horario flexible,
+-Con posibilidad de tener participaciones de la compañía.

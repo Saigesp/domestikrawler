@@ -1,0 +1,20 @@
+
+Somos una agencia de mkt, comunicación y diseño que quiere incorporar un programador en prácticas para apoyar el departamento on line.
+Trabajamos en creación de web, eNewsletter, redes sociales, comunicación 2.0
+Posibilidades reales de incorporación a corto/medio plazo.
+FUNCIONES
+Desarrollo y mantenimiento de proyectos web.
+Desarrollar campañas de marketing online (BBDD, landings, analítica y seguimiento).
+Apoyo en campañas de eMail Mkt.
+Apoyo en campañas de comunicación interactiva, microsites, aplicaciones Facebook.
+Conocimientos de las herramientas necesarias para realizar sus funciones, como:
+PHP
+MySQL
+JavaScript utilizando librerías tipo jQuery, Prototype, etc
+CSS
+XML, XHTML, JSON
+Conocimientos básicos de Flash as2
+Conocimientos de alguna herramienta de email marketing- Conocimientos de algún CMS (Joomla, Drupal, WordPress)
+Action Script 3
+Webservices
+

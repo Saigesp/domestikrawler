@@ -1,0 +1,21 @@
+
+**iOS DEVELOPER**
+Buscamos un perfil con los siguientes conocimientos:
+- Experiencia demostrable desarrollando aplicaciones nativas para iPhone, iPod y iPad en Objective C. 
+- Conocimientos de Programación Orientada a Objetos 
+- Conocimientos de Patrones de Diseño (MVC, Delegate, Protocol, Singleton, Observer...) 
+- Utilización de XCode. 
+- Persistencia de datos 
+- Control de versiones mediante GIT 
+- Se valorará tener apps subidas en la Apple Store
+---
+ABOUT US
+The Mobile Bakery está conformado por diferentes equipos jóvenes y multidisciplinares. Actualmente estamos en expansión por lo que requerimos integrar de forma inmediata a nuestro equipo de Desarrollo perfiles de iOS y Android Developers para nuestra sede de Barcelona. 
+THE MOBILE BAKERY
+AMONG RECIPES, OUR STRATEGIES AND DEVELOPMENT ARE UNIQUE
+WE BUILD FLAWLESS
+APPS & WEBS
+Like in the best pastry shop we combine the finest ingredients.
+Our process is tailor made for our clients necessities throughout a strategy that generates business, causes engagement and makes possible that in a world full of apps and webs, yours stands out. Our mission is to accomplish goals and business objectives through a distinctive strategy with human purpose in the mobile sector.
+Without a clear business objective an app can be a waste. Our mission is to accomplish goals.
+We integrate all the factors that are necessary to understand a business and successfully move it to the mobile environment.

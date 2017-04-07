@@ -1,0 +1,23 @@
+
+Buscamos un nuevo responsable del Departamento Online con experiencia demostrable en un puesto similar al menos 5 años. Somos un equipo joven y demandamos un perfil integral que esté al día de los nuevos avances tecnológicos, que pueda aportar técnica y profesionalmente valor al departamento.
+Necesitamos un profesional que realice las siguientes funciones:
+- Gestionar y mantener la relación con los clientes, asistencia a reuniones, desarrollo y elaboración técnica de presupuestos.
+- Coordinar al equipo para distribuir del volumen de trabajo (3 personas a su cargo), y desarrollar cualquier tipo de proyecto que se presente en el departamento al igual que el resto de compañeros. 
+- Mantenimiento de los servidores dedicados de la agencia. Software Parallels Plesk Panel.
+Requisitos mínimos técnicos del puesto: 
+- Imprescindible conocimientos en Diseño, valores y estética. 
+- HTML, HTML5. 
+- CSS3, LESS/SASS. 
+- RWD. 
+- Frameworks como Bootstrap, Foundation o similar.
+- Diseño y desarrollo correcto de e-mailings que favorezca la entregabilidad. CheetahMail.
+- Wordpress y experiencia en e-commerce.
+- Crear y adaptar banners en Flash. 
+- Desarrollo orientado a SEO.
+- Programación Javascript/JQUERY.
+- Conocimientos en Edición de vídeo: Premiere, After Effects. 
+Valorable:
+- AS2/AS3 
+- PHP/MySQL
+- 3D
+

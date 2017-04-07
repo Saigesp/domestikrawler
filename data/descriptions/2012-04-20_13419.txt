@@ -1,0 +1,35 @@
+
+El Grupo GFT es una compañía proveedora de servicios y soluciones de TI innovadores a nivel internacional. 20 años de experiencia convierten a GFT en un socio estratégico de TI de confianza. A través de sus áreas de negocio, Servicios y Resourcing, GFT aporta eficiencia y rentabilidad a los procesos de negocio de sus clientes y les ayuda a mejorar su competitividad.
+Buscamos profesionales dinámicos que deseen realizar una carrera profesional en el sector de la consultoría TI, que aprecien trabajar en un entorno multinacional, orientados a cliente y que destaquen por su flexibilidad y capacidad de trabajo en equipo.
+En estos momentos precisamos incorporar en plantilla en nuestra oficina de Sant Cugat del Vallès a Analistas Programadors J2EE.
+FUNCIONES
+- Contribuir a la definición y el desarrollo de soluciones técnicas.
+- Participar en la consecución de mejoras respecto al desarrollo del software.
+Aptitudes:
+- Alta Capacidad de aprendizaje
+- Vocación para puestos técnicos
+- Flexibilidad
+En GFT te ofrecemos:
+- Participar en una compañía joven y dinámica orientada a proyectos internacionales.
+- Un plan de desarrollo profesional supervisado por un mentor.
+- Formación personalizada principalmente en tecnologías, conocimientos funcionales, desarrollo personal e idiomas.
+Requisitos mínimos: 
+- Ingeniero Técnico - Técnico en Informática de Gestión
+- Experiencia mínima: 3 a 5 años
+- Experto en J2EE: JSP, SERVLETS, TAG LIBS, JDBC,JMS,MAIL, PROCESAMIENTO DE XML.
+- HTML, CSS, Javascript / Ajax, jQuery y/o DoJo.
+- Experiencia con jUnit (unit testing)
+- User Experience: slideshows / carousel, banners, modales, etc... (por ej.: Lightbox, Thickbox, jQueryUI, etc…)
+- Experiencia con MySql (base de datos).
+- Experiencia con Subversion (control de versiones).
+- Experiencia con Apache Web Server y Apache Tomcat.
+- Inglés nivel ALTO (conversaciones telefónicas, reuniones, documentación funcional y técnica)
+Requisitos deseados: 
+- Experiencia (desarrollo y despliegue) con algún gestor de contenidos (CMS), preferiblemente Day Software (communiqué).
+- HTML/DHTML (incluyendo HTML5).
+- Experiencia en entornos SCRUM.
+- Experiencia con metodología Agile.
+- Conocimientos de Search Engine Optimization (SEO).
+- Experiencia con Google Analytics.
+- Experiencia con JMeter.
+- Experiencia con Oracle (base de datos).

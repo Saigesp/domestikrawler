@@ -1,0 +1,11 @@
+
+Hola chicos,
+Somos una startup pequeñita, con muy buen ambiente y muy dog friendly. Buscamos a alguien apasionado, motivado y emprendedor que aporte cosas positivas al equipo. Si tienes perro, ¡no dudes en traértelo a la ofi!!
+Respecto a los requisitos técnicos, necesitamos un desarrollador front-end y back-end con experiencia en desarrollos con Prestashop y conocimiento de:
+- PHP
+- MySQL
+- Javascript
+- Maquetación responsive con HTML5/CSS3
+Deseables conocimientos de SEO y APIS de Facebook, Instagram, Twitter, Google.
+Se trata de un proyecto de 2-3 meses, que muy probablemente se ampliará a más debido al crecimiento de la empresa. El candidato elegido podrá, en función del rendimiento y las necesidades a medio plazo de la empresa, permanecer más tiempo con nosotros. 
+

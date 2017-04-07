@@ -1,0 +1,13 @@
+
+En Addo buscamos un desarrollador Web con sólidos conocimientos tanto en Front como en Back.
+Los desarrollos Front se realizan siempre Responsive Design, compatibilidad con todos los navegadores y todos los sistemas operativos, y maquetado al pixel (calcando el PSD en el HTML) por lo que es imprescindible conocimientos de XHTML, HTML5, CSS (Media Queries), Javascript (jQuery)
+El Back se realiza siempre en PHP, en conjunto con MySQL.
+La persona que buscamos ha de ser entusiasta del código que produce, creativa en la búsqueda de soluciones y dispuesta a afrontar nuevos retos profesionales.
+Responsabilidades: 
+- Desarrollar nuevos proyectos desde cero o continuar otros ya empezados. 
+- Mantener y preservar la calidad de los diseños en el desarrollo HTML (maquetación al Pixel) 
+- Análisis de proyecto, estructuración de bases de datos
+Requisitos indispensables: 
+- Tecnologías frontend (XHTML, HTML5, CSS2, CSS3, Javascript, jQuery, AJAX) 
+- Tecnologías backend (php, MySQL) 
+- Conocimientos en Servidores Linux (configuración PHP, SSH, correo electrónico, Plesk)

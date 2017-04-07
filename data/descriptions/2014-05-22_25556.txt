@@ -1,0 +1,29 @@
+
+En Fidiliti estamos buscando Ingenieros de Software para Front y Back con experiencia de desarrollo en Nodejs y MongoDB. 
+Con capacidades de Análisis, Diseño y Desarrollo de aplicaciones. 
+Con conocimientos de:
+• RESTful Web Services. 
+• Maquetación. 
+• Gestión de servidores Node. 
+• Control de versiones con GIT. 
+• Metodología SCRUM. 
+• Análisis de Datos. 
+Tenemos muchas cosas por hacer y todo muy interesante. 
+Algunas de las tareas con las que vamos a empezar próximamente son: 
+• Rediseño de los portales de usuarios y empresas. 
+• Desarrollo de nuevas funcionalidades (portales, web services y aplicaciones).
+• Desarrollo de soluciones de Growth Hacking para acelerar la captación de usuarios y empresas. 
+• Rediseño y migración de bases de datos a MongoDB. 
+• Desarrollo de patrones y modelos para analizar la información almacenada en nuestro entorno de Big Data así como información de Social Graph. 
+• Generación de informes de valor añadido para las empresas. 
+• Automatización de respuestas a usuarios y empresas. 
+• Nuevas funcionalidades de segmentación y optimización de campañas de Mobile Marketing basadas en algoritmos de BI. 
+• Desarrollos para Beacons. 
+• Y muchas cosas más. 
+No hace falta que seas un gurú, de todo se aprende, pero cuanto más puedas aportar o más interés tengas en alguno de los puntos mejor. 
+Hay que destacar que somos una startup (para lo bueno y para lo malo), hemos ganado multiples premios, estamos creciendo, acabamos de conseguir una primera ronda de financiación importante y estamos comenzando con la internacionalización. 
+Desde luego es un buen momento para entrar a formar parte del equipo de Fidiliti por lo que puede devenir el futuro próximo. 
+Respecto al salario, por favor, dinos en que rango te mueves. 
+Un saludo, 
+José Luis
+CEO de Fidiliti

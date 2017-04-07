@@ -1,0 +1,4 @@
+
+Somos un equipo muy pequeño en medio del desarollo de una applicación web usando Meteor. Buscamos consultar con un diseñador de UX/UI para ayudarnos a llevar la App a un alto nivel de usabilidad. El trabajo se realizaria en Madrid centro con el equipo de desarollo. 
+El candidato tendría mucha experiencia en HTML5, CSS, Javascript y Bootstrap. Si además conoce Meteor y como funciona Blaze, mejor. 
+Al principio prevemos que sería una semana de trabajo de consultaria y quizá mas en el futuro según va avanzando el proyecto. 

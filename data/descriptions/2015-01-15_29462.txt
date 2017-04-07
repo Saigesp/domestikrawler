@@ -1,0 +1,16 @@
+
+Our young graphic design and web development studio based in Madrid, Barcelona and London is looking for a full-stack developer to join our Madrid downtown studio located near Quevedo and help us launching a new platform. 
+We work with a comfortable & on demand pace that allows you to be autonomous and collaborative with our UI designers and our UX experts you’ll be working with enjoying a flexible and fun environment at the same time. We’d love to find a committed professional to develop a social blogging platform directly connected with trends world.
+We are initially offering an interesting salary for a part time position for 3-6 months with big possibilities to be expanded to a full time role once the platform has been launched in Q2 in case the candidate is interested. We also care about the life quality of all our team members and therefore we offer such flexibility on working hours, as well as some telecommuting days. 
+What we are looking for:
+- Writes simple, elegant, testable code
+- Experience in HTML, CSS and responsive design
+- Experience with Postgre/MySQL (bonus if you’ve also worked with Redis or Mongo)
+- Doesn’t shy away from getting hands dirty with JavaScript (bonus if you are a Node.js developer)
+- Experience in any backend technology (PHP, python or ruby desirables)
+- Can drive improvements to our backend and frontend infrastructure
+- Bonus points for experience with mobile web/app development
+- Proactive and resourceful
+- BS or MS in computer science (or equivalent work experience) is preferred
+- Ambitious and restless
+- Unbeatable ping pong skills

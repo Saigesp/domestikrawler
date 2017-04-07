@@ -1,0 +1,11 @@
+
+Buscamos un desarrollador con experiencia demostrable en PHP / AngularJS / HTML5. Incorporación inmediata. Con experiencia queremos decir que tengas un listado de trabajos para mostrar.
+Lugar de trabajo: En Barcelona.
+Descripción:
+Encargado de la maquetación, programación y mantenimiento de Sitios Webs. Se incorpora a un equipo multidisciplinar encargado de la creación de sitios web especialmente preparados para traccionar y convertir. El puesto requiere un tiempo de formación impartida por la agencia en la plataforma COS de Hubspot.
+Requisitos mínimos: 
+- 2 años de experiencia
+- Nivel de inglés técnico.
+Imprescindible experiencia demostrable en: 
+- Programación OO en PHP/MySQL / JavaScript (AngularJS) / HTML5 / CSS, incluyendo jQuery y Bootstrap. 
+

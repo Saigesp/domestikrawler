@@ -1,0 +1,23 @@
+
+Nubelo.com es una plataforma web de teletrabajo, permite a las empresas aumentar su productividad, flexibilidad y ahorro mediante herramientas gratuitas de selección, supervisión y pago de trabajadores freelance.
+Buscamos a una persona con conocimientos en maquetación HTML+CSS y de jQuery. Que piense que el futuro pasa irremediablemente por HTML5 y CSS3 y ya haya trasteado con ellos. Que esté al día de cualquier nueva tecnología aplicable al desarrollo de interfaces y que entienda perfectamente que esas interfaces van a ser usadas por personas. Queremos un apasionado de internet que entienda la importancia del trabajo en equipo, que tenga pasión por cuidar los detalles y cuidar la experiencia de usuario.
+Debe tener conocimientos en:
+* Maquetación HTML+CSS
+* Desarrollo con código limpio, semántico y reutilizable
+* Conocimientos de accesibilidad y estándares W3C
+* Haber trasteado con jQuery
+* Conocer el paquete Adobe: Photoshop (para trabajar con los diseños.)
+Extra:
+* Conocimientos de HTML5 y CSS3
+* Experiencia implementando plug-ins de jQuery
+Ofrecemos:
+* Trabajar en un equipo innovador, multidisciplinar y con pasión por internet.
+* Participar en proyecto lider en el mercado de habla hispana. 
+* Formación continua a cargo de la empresa con asistencia a eventos y congresos.
+* Posibilidad de teletrabajo un día a la semana
+* Posibilidad de crecimiento dentro de la empresa.
+Si estás interesado, envíanos tu CV a jordi.oller@nubelo.com con el asunto 'Maquetador web becario'.
+Se valorarán muy positivamente ejemplos de trabajos y proyectos en los que hayas participado. Si tienes web personal, blog, tumblr, twitter, Linkedin o lo que quieras que conozcamos, envíanoslo también.
+Puesto de trabajo en Barcelona Activa
+De lunes a viernes, media jornada.
+Remuneración: 300 euros

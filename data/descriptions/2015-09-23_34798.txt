@@ -1,0 +1,5 @@
+
+Agencia de marketing y comunicación, especializada en acciones al trade y gestionando clientes de primer nivel, precisa incorporar inmediatamente programador de páginas y aplicaciones web. 
+Bajo las directrices del director del departamento online y app, deberá desarrollar la programación de las páginas y/o aplicaciones web se requieran para los proyectos de la agencia.  
+Los interesados deberán dominar Programación PHP, bases de datos Mysql - PHPmyadmin, wordpress, Css-Jquery-Javascript, bootstrap o cualquier framework especifico para webs responsive. Se valorará nociones en app mobile Iphone/Android así como sus ganas de trabajar y progresar en la empresa.
+Se requiere un alto grado de compromiso y pasión por el trabajo.

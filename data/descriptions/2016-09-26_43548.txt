@@ -1,0 +1,18 @@
+
+Buscamos un programador de juegos en HTML5 experimentado con un alto nivel de programación, tanto para web como para móviles, para integrarse en nuestro equipo de desarrollo de juegos. Buscamos a alguien que quiera trabajar con nosotros durante muchos años. 
+Somos una empresa con un equipo joven, multidisciplinar, donde podrás desarrollar tu carrera en un ambiente de trabajo creativo y enriquecedor. 
+Se requiere: 
+- Experiencia previa con programación (> 2 años). 
+- Programación HTML5, motores de juego (PixiJS, MelonJS). 
+- Patrones de diseño (MVC especialmente). 
+- Perfeccionista, resolutivo y con capacidad para trabajar en equipo. 
+Se valorará: 
+- Experiencia en AS3.
+- Experiencia en el desarrollo de videojuegos. 
+- Experiencia en Starling, Dragon bones y sistemas de partículas. 
+- Experiencia en desarrollo para móviles
+Características del puesto de trabajo: 
+- Jornada completa 
+- Contrato indefinido 
+- Presencial en Valencia. 
+- Incorporación inmediata.

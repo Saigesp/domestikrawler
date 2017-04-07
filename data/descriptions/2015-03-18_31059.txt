@@ -1,0 +1,43 @@
+
+About us
+Media Motive is a fast growing online company with offices in France, Columbia, Romania and in Alicante in Spain, we have just opened a new office in Barcelona (Plaza Universidad), specialized in online innovation. 
+Main responsibilities :
+You are a senior back end engineer and you will be in charge of creating, building and connecting our infrastructure from the beginning. What we need is someone with an expertise who would be able to make the technical decisions that best match our requirements in terms of time and budget. We want you to own your subject and we are open to any suggestion as long as they bring solutions. 
+•	Team up with the Management to translate our projects into solutions. You’ll start with a clean slate and design the achitecture of our solutions. 
+•	Choose the technical strategy and tools to implement (you will have to say if we need to develop it from scratch or use existing tools). Importantly the tools need to be be connected. 
+•	Implement and connect external tools or create if from scratch 
+•	We’ll also listen to and expect suggestion of new tools in order to bring innovation to our sites and implement it. 
+We’ll work with the scrum methodology and start with an MVP to implement. The lengh of the project will be discussed during the interview once we show the product. Evolutions are going to be needed for the next stages of the project so if things go well it can lead to a hire. 
+Your personality : 
+You have an analytical approach of code and projects and have at heart to make good usefull projects. Passionate about new technologies, you have an eye for details and deeply value quality in all things.
+
+Your main qualities are : 
+Autonomous
+Looking for solutions 
+Proactive
+Curious
+Hands on and eager to solve problems
+Resourceful
+Willing to understand the teams requirements and translate it into technical achievements
+Always looking for innovations and updates in your field
+Technical requirements : 
+Master degree in Computer Science
+Multiple years of development experience
+•	Strong in an OOP language (PHP, Ruby, java etc)
+•	Proficient in SQL
+•	Have good Git experience - you have a github account!
+•	Used to working in a team
+•	Full proficiency in PHP
+•	full proficiency in MySQL
+•	REST APIs
+•	Node.js
+good to have
+•	front end knowledge 
+•	SEO knowledge
+•	NoSQL databases (Mongodb)
+Languages 
+Working language is English – you need to be fluent
+Any other language is welcome 
+About the company
+We are a small structure in Barcelona and you’ll be the pioneer technical profile of the company. We are looking for someone to own the backend part of the project. 
+We have at heart to empower people with their projects and give them good conditions of work. We want someone full time on the project 

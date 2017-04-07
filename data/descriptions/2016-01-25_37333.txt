@@ -1,0 +1,10 @@
+
+¿Eres un apasionado del mundo digital? ¿Quieres formar parte de nuestro equipo?
+Buscamos un programador / desarrollador web freelance (preferiblemente que viva en Madrid o alrededores).
+Requisitos mínimos / experiencia demostrable en:
+- Symfony 1.4
+- Angular js
+Te ofrecemos: 
+- Trabajar en múltiples proyectos relacionados. 
+- Una remuneración competitiva y acorde con lo que nos puedas aportar. 
+- Libertad para gestionar tu trabajo y tus tiempos, siempre y cuando se cumplan los plazos establecidos previamente.

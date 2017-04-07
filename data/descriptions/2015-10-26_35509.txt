@@ -1,0 +1,17 @@
+
+Necesitamos un perfil que forme parte del equipo backend.
+Lo más importante es lo pro-actividad, la actitud y la implicación en una startup con un proyecto puntero en España y en el mundo.
+¿QUÉ OFRECEMOS?
+Trabajamos en un entorno joven y distendido, con un alto nivel de profesionalidad, donde se fomenta la responsabilidad individual y el crecimiento personal y profesional.
+Utilizamos metodologías ágiles como Scrum y Kanban.
+¿QUÉ ESPERAMOS?
+Se requiere conocimientos de:
+PHP Experiencia en Symfony 2 de al menos 2-3 años
+Experiencia en webservices y servicios RESTFul, OAuth.
+Entorno virtual con Vagrant, VirtualBox, etc. Linux.
+AWS
+MongoDB, MySQL.
+GIT.
+Metodologías ágiles.
+Se valorarán conocimientos en PhalconPHP y NodeJS. Uso de ansible y aprovisionamiento.
+Importante: Puesto presencial. Abstenerse freelancers, personas que estén fuera del territorio español, o no se puedan mudar a Madrid.

@@ -1,0 +1,13 @@
+
+Somos un estudio en evolución formado por gente joven que trabajamos en Madrid, Barcelona y Londres y vemos la vida como una aventura, por ello buscamos un desarrollador de front especializado en banners y campañas publicitarias. 
+Necesitamos que tengas un alto dominio de las siguientes areas:
+- DoubleClick.
+- Programación y animación a manopla en HTML5 + CSS.
+- JQuery / JS ( Definir easings con los tweens, etc.).
+- GSAP (Greensock Animation Platform).
+- Dynamic content & dynamic spreadsheets.
+- Google Web Designer.
+- Rich Media.
+Necesitamos un perfil freelance con experiencia, organizado y resolutivo que cumpla todos los requisitos. 
+Nuestro estudio está en Madrid y nos gustaría que la persona con la que colaboremos también lo esté, aunque para este puesto no es relevante.
+Ofrecemos remuneración por horas preferentemente a alguien que ya esté dado de alta en autónomos.

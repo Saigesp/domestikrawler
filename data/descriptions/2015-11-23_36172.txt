@@ -1,0 +1,25 @@
+
+Hola a todos, buscamos a Junior para Android. 
+Se necesita a alguien con conocimientos en nativo, 
+Jornada intensiva durante todo el año, de 9:00 a 15:00.
+30 horas semanales que podríamos repartir en menos días en función de tu necesidad.
+Buen ambiente de trabajo.  
+Aumento de salario en función de objetivos. 
+Requisitos deseables:
+- Metodologia Agil
+- Android nativo
+- Phonegap
+- API-Rest
+- PHP
+- MySql
+- Broadcast
+- Bluetooth
+- NFC
+-JSON
+- PUSH
+-UI/UX
+- unti testing
+- OAuth
+- Ciclos de vida de activities y Fragments
+- Control de prioridades del sistema
+No te preocupes si no conoces alguna de las tecnologías.

@@ -1,0 +1,6 @@
+
+Buscamos un programador capaz de integrar un CMS en un proyecto HTML5 terminado.
+Se valorarán profesionales capaces de integrar CMS propios aunque nos gustaría integrar una plataforma WP.
+Importante: NO se trata de crear una web en WP. Sino de colocar un CMS en dos a tres apartados de una web desarrollada y terminada en html5.
+Se valorarán conocimientos en scripts, css, html5, etc.
+Se ofrece contrato freelance y posibilidad de colaboración continua con la empresa.

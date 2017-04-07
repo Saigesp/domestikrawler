@@ -1,0 +1,22 @@
+
+¡ Hola !
+Pequeño proyecto de futura tienda en línea necesita un desarrollador de tema (theme) y programador en Prestahop. Necesitamos un presupuesto aproximado y detallado para el proyecto de una tienda en línea, y principalmente el desarrollo del tema (theme). El proyecto se desarrollará en Barcelona ciudad. Algunas reuniones serán presenciales.
+Para el desarrollo del tema y la programación de Prestashop necesitamos y valoraremos los siguientes requisitos:
+
+Experiencia previa y portafolio de temas y tiendas bajo Prestashop (se valoraran los proyectos de tiendas relacionados con la moda y los complementos).
+Perfil programador desarrollador, no valoraremos perfiles de diseñadores gráficos.
+
+Conocimientos avanzados en PHP 5, HTML 5, CSS 3 y Javascript.
+
+Que sepa entender las necesidades del proyecto y sus futuros cambios.
+
+Coordinación y desarrollo del estilo gráfico bajo la dirección gráfica de un director de arte.
+
+Conocimientos avanzados de sistemas de pago en línea (VISA, PayPal).
+Conocimientos avanzados en privacidad, sesiones y certificados.
+
+Capacidad de dialogo, creatividad, aporte de ideas y de trabajo en equipo.
+
+Nos pondremos en contacto únicamente con los desarrolladores que cumplan los requisitos arriba detallados. Por favor, incluir breve CV y portafolio. Abstenerse falsos autónomos que no puedan generar facturas legales (NIF válido).
+Muchas gracias por vuestra ayuda y tiempo.
+¡ Un saludo !

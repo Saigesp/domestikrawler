@@ -1,0 +1,29 @@
+
+¡Hola!
+Somos estrés y estamos buscándote a ti: un verdadero ninja de JavaScript para incorporarse a nuestro equipo en el departamento de desarrollo Frontend.
+¿Y qué tienes que tener si quieres ser esa persona?
+En general: 
+•	Proactividad e independencia en tus labores. 
+•	Capacidad de análisis y de adelantarte a los problemas (topicazo, pero necesario). 
+•	Cumplir con los plazos y tareas de forma eficaz. 
+•	Estar al día en las tendencias tecnológicas.
+•	Estar acostumbrado a trabajar en equipo. 
+•	Con perfil publicitario (aunque esté muy oculto, que esté). 
+•	Y si además, eres simpático y con buen humor, pues mucho mejor.
+Y en particular: 
+•	 Al menos 3 años de experiencia principalmente como desarrollador Frontend.
+•	Apoyar al equipo de diseño en UX y accesibilidad.
+•	Convertir PSD´s en flexibles y dinámicas plantillas web. 
+•	Dominio de la maquetación responsive. 
+•	Dominio de HTML5/CSS3. 
+•	Dominio de preprocesadores SASS y/o LESS. 
+•	Dominio experto de JS con conocimientos de algún framework JS como jQuery o Angular. 
+•	Conocimientos de theming para Wordpress y/o Drupal. 
+•	Correcta maquetación de emailings (responsive) para los clientes de correo más comunes.
+Además valoraremos otras facetas tuyas: 
+•	Nociones de desarrollo de aplicaciones móviles híbridas. 
+•	Conocimientos en PHP. 
+•	Flash (AS2, AS3).
+¿Qué ofrecemos nosotros? 
+Incorporación inmediata en una agencia de publicidad, joven y creativa en el centro de Madrid, con clientes muy interesantes y apetecibles. 
+Tenemos muchos proyectos web en curso, otros que van a venir y muchos más que queremos hacer pero aún no lo sabemos. Por eso necesitamos a alguien que apoye a nuestro departamento de desarrollo.

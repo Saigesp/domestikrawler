@@ -1,0 +1,11 @@
+
+En Netthink Isobar Madrid, estamos buscando un programador front senior con experiencia en agencia.
+Los requisitos serían:
+- Experiencia desarrollando Flash con AS3.
+- Conocimiento de algún engine 3D para AS3.
+- POO
+- Experiencia realizando richmedias para los principales soportes. MediaMind y DoubleClick
+- Conocimientos de HTML+CSS+Javascript muy valorables.
+- Proactividad.
+- A valorar, aunque no es imprescindible, tener conocimientos de Objective-C, Android, Appcelerator y/o Phonegap. Alguno de ellos al menos.
+Ofrecemos un buen entorno de trabajo con oportunidades de crecimiento profesional.

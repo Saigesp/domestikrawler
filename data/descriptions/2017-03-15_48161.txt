@@ -1,0 +1,14 @@
+
+Empresa dedicada a la fabricación de aerogeneradores busca un candidato para llevar a cabo prácticas dando soporte información técnica Areogenerador en Pamplona.
+Funciones:
+Colaboración en proyectos de generación, gestión, distribución y visualización de información técnica de soporte de producto aerogenerador.
+Manuales técnicos electrónicos interactivos, catálogos electrónicos de repuestos y de utillajes de mantenimiento
+ 
+Condiciones:
+Horario: 8.30 – 18.00 h
+Lugar: Pamplona
+Importante: 
+- Inglés alto
+- Programación en NET
+- Lenguaje XML – HTML
+- Programación Flash

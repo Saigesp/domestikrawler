@@ -1,0 +1,16 @@
+
+Agencia de publicidad digital requiere un programador con conocimiento en:
+Microsoft Visual Studio
+	Asp.net
+Xcode
+	Objective C
+	Cocoa
+	Cocoa Touch
+Web Developing
+	Html5
+	Php
+	Ruby
+	Python
+	Javascript
+Java
+

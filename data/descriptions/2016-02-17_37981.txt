@@ -1,0 +1,21 @@
+
+EXCELTIC es una empresa de ingeniería y consultoría en fuerte expansión.
+Los sectores de negocio más importantes donde Exceltic desarrolla sus actividades son los siguientes:
+- Aeronáutico / Espacio / Defensa
+- Ferroviario
+- Energía y Medio Ambiente
+- Industria y Producción
+- Tecnologías de la Información y Telecomunicaciones
+A día de hoy Exceltic cuenta con una sólida cartera de clientes en distintos sectores y una de las ofertas más completas del mercado.
+Actualmente buscamos Programadores Front-end, con experiencia (al menos 2 años) y conocimientos sobre HTML5, CSS3, JavaScript, jQuery y Angular JS, para proyecto de larga duración dentro del sector bancario.
+¿Que perfil técnico buscamos?
+- Altos conocimientos y experiencia en HTML5, CSS3, Javascript, jQuery.
+- Conocimiento de framework MVC tipo, AngularJS, Ember, Backbone.
+- Será muy valorable el conocimiento en Node.js
+- Web SPI
+- Construcción de aplicaciones con Grunt
+- Control de versiones con GIT
+¿Qué ofrecemos?
+- Proyecto interesante, tecnologías punturas y buen ambiente de trabajo
+- Larga duración y gran estabilidad
+- Contratación indefinida

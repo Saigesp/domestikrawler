@@ -1,0 +1,15 @@
+
+Queremos incorporar de manera inmediata un programador senior en Visual Basic .Net  en nuestras oficinas de Madrid. 
+Estamos buscando personas con amplia experiencia en desarrollo de aplicaciones Windows en .NET y Visual Basic 6 para mantenimiento y evolución de aplicaciones existentes en la empresa. Cada vez abordamos más desarrollos que pueden incluir aplicaciones Web o Web Services, siempre en .NET
+Es fundamental que la persona que se incorpore a nuestro equipo posea amplios conocimientos y experiencia en:
+- Visual Basic .NET
+- Visual Basic 6    
+- Desarrollo con SQL Server
+- Tratamiento de XML
+Se valorará de manera muy positiva conocimientos en:
+- C#
+- En comunicaciones
+- JAVA
+- PHP
+- Facturación y contabilidad.
+Nos gusta el trabajo en equipo y las personas creativas con experiencia en la creación y diseño de nuevos productos y la inquietud de mejorar los ya existentes.

@@ -1,0 +1,13 @@
+
+Buscamos incorporar a nuestra área de informática Técnicos de Soporte Aplicativo Nivel para cada una de las áreas de negocio dentro de la Dirección. 
+Las personas seleccionadas serán los responsable de asegurar el servicio diario al negocio en el área de soporte Aplicativo junto con el jefe de proyecto para garantizar la correcta resolución de las incidencias de su área. También tendrá entre sus responsabilidades la identificación de problemas para poder preparar su análisis correctivos, generar documentos de ayuda para resolver incidencias a los niveles inferiores de soporte (Work-Arounds) además de asegurar los distintos Kpi´s de resolución de incidencias de su área. 
+Interlocución directa con negocio e IT en aquellas incidencias que se requiera por su importancia y afectación al negocio.
+Valorable los siguientes conocimientos dependiendo del puesto a desarrollar: 
+1. Conocimientos en: AS400 / Cobol400/ Unix (HP) / Oracle/ SQL / Java / J2EE/
+/ C
+2. Conocimientos en: Datawarehouse/ Unix (HP) / Oracle/ SQL / Java / J2EE /
+C
+3. Conocimientos en: Desarrollo Aplicaciones Lotus Notes / Unix (HP) /
+Oracle/ SQL / Java / J2EE / C
+4. Conocimientos en: Unix (HP) / Oracle/ SQL / Java / J2EE / C
+

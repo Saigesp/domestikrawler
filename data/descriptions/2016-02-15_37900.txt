@@ -1,0 +1,29 @@
+
+ABOUT THE ORGANIZATION:
+Worldreader (www.worldreader.org) is on a mission to bring digital books to every child and their family, so that they can improve their lives through the power of technology. 
+To accomplish our goals, Worldreader has created a worldwide logistics system, to provide literacy training and support, co-publish books with African and US publishers, measure our results obsessively, report on our progress, and raise money and awareness for our mission. We have a worldwide team of 80+ staff and volunteers across seven countries and three continents that have graduated from the world’s best schools, companies, and non-profits and have accomplished the nearly impossible.  
+An ethos of working hard, having fun and making history inspires our culture, and the team shares a passion for reading and philanthropy. 
+We aspire to reach millions of children and families worldwide. We believe that by hiring people larger than we are, we will end up with an organization of Giants.
+ABOUT THE POSITION:
+Worldreader’s Digital Production team is looking for an experienced e-book expert to support our work on a short-term basis in Barcelona for 2-3 months starting as soon as possible. We need someone who can jump in quickly and work independently, with minimum training and supervision. The E-book Specialist will be tasked with the responsibility of troubleshooting, uploading and performing quality assurance of e-books from all across the genres in Worldreader’s diverse digital library. Reporting directly to the Digital Production Manager, he/she will work closely with members of the Production and Publisher and Author Relations teams, as well as with external technical solution providers if needed. This is an incredible opportunity to contribute to the work of an international nonprofit with a social mission as we grow and scale to our next level.
+RESPONSIBILITIES:
+o	Conduct a comprehensive review of problematic EPUB and MOBI files placed on hold in the digital production pipeline
+o	Troubleshoot e-book issues related to markup language, structure, layout, format, size, and optimization and display for small screens 
+o	Publish e-books on Worldreader’s digital platforms via internal content management systems and perform QA analysis
+o	Migrate content from one Worldreader digital platform to another, ensuring data thoroughness and accuracy
+o	Carry out file maintenance and housekeeping
+o	Refine and capture best practices
+QUALIFICATIONS:
+o	Thorough knowledge of standard EPUB and MOBI specifications
+o	Expertise in HTML and CSS
+o	Familiarity with LaTeX, MathML, and MathJax
+o	Familiarity with desktop publishing software (Adobe InDesign/QuarkXPress), OCR software, and KindleGen
+o	Solid experience performing QA and troubleshooting e-books
+o	Obsessive attention to detail and organization
+o	Ability to communicate complex information in a high-level way
+o	Excellent verbal and written English communication skills
+o	Problem-solving orientation and a fine sense of responsibility
+o	Pro-active and can-do attitude combined with a thirst for challenges
+o	Motivation to work in a dynamic environment, wearing multiple hats and balancing several priorities at the same time
+o	Most importantly, passion about Worldreader’s work
+LOCATION: Barcelona, Spain

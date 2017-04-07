@@ -1,0 +1,13 @@
+
+Somos una plataforma de gestión y optimización avanzada  de publicidad digital que permite a anunciantes y agencias de todo el mundo invertir de forma fácil, económica y escalable
+Buscamos BigData developer (Data scientist + developer):
+
+Requisitos:
+•  Conocimientos en tecnología Java/J2EE, Python u R
+•  Bases de datos NoSQL, Hadoop, etc.
+•  Procesamiento de grandes volumenes de datos
+Deseados:
+•  Experiencia en Groovy/Grails
+•  Licenciados en matemáticas (o similares)
+
+

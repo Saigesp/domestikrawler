@@ -1,0 +1,21 @@
+
+Scanloteria, startups situada en Barcelona, es una App que te permite gestionar tus apuestas en las principales loterías de España de forma rápida y sencilla. Busca incorporar a su equipo un Backend Developer.
+Requisitos;
+Mínimo +3 años de experiencia. 
+Experiencia en POO, Websevice / REST, mysql, JSON. 
+Experiencia con GIT (control de Versiones). 
+Experiencia en algún framework (imprescindible). 
+Conocimientos demostrables en HTML5, CSS3, jQuery. 
+Capacidad para la resolución de problemas. 
+Capacidad para trabajar en un entorno cambiante y dinámico.
+Se valorara;
+Experiencia en integración o creación de API’s, REST. 
+Experiencia en integraciones REST – Mobile. 
+Conocimiento de MongoDB o cualquier NoSQL. 
+Mentalidad abierta y proactiva.
+¿Qué ofrecemos?
+Formar parte de la toma de decisiones respecto al proyecto y del roadmap. 
+Ambiente Startup: flexible, ambicioso y con ganas de mejorar. 
+Trabajando codo con codo con compañeros con amplia experiencia en el sector. 
+Jornada completa con horario flexible. 
+Buen ambiente de trabajo, trabajando con proyectos interesantes e innovadores.

@@ -1,0 +1,16 @@
+
+Technology Managed Services ofrece servicios tecnológicos desde su conceptualización hasta su puesta en marcha. Contamos con un sólido portfolio de soluciones en Tecnologías de la Información, Procesos de Negocios, Ingeniería e Infraestructuras Tecnológicas.
+Somos un equipo humano altamente cualificado, cuya principal misión es satisfacer las necesidades actuales y futuras de nuestros clientes. Siendo el Distribuidor exclusivo de BinaryTree para Iberia.
+Seleccionamos para nuestras oficinas en Madrid un Analista programador java que posea conocimientos en:
+Lenguajes de Programación en nivel avanzado: Java, C#
+Programación de aplicaciones en entornos Web: J2EE, Struts 2, Spring, Hibernate, JPA, JSP, JavaScript, AJAX, CSS, XML, WSDL, XSD.
+Entornos de programación: Eclipse 
+Base de datos; Oracle, SQL, PL/SQL.
+Manejo de suites de Base de Datos: Oracle, SQLDeveloper.
+Gestores de configuración: Subversión, Tortoise SVN, GIT
+Servidores web: Apache y Tomcat (web).
+Sistemas Operativos (usuario nivel avanzado): Windows / Unix.
+Metodologías ágiles: Scrum
+Ofimática: Word, Excel y PowerPoint.
+Otros: Filezilla (cliente FTP), Putty (cliente SSH, Telnet..), Maven (gestión y construcción de proyectos), Jenkins (integración continua), firma digital, CMMI
+Se requiere poseer experiencia en análisis de funcionalidades e integración de soluciones a nivel de metodología, ciclo de vida y arquitectura de la aplicación.

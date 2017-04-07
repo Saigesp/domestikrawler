@@ -1,0 +1,6 @@
+
+Somos una agencia de medios digitales especializada en social gamming.
+Necesitamos desarrollador freelance experto en Unity3D para el desarrollo de un módulo SDK con unas funcionalidades concretas, que permita a terceros juegos en Unity3D su instalación y explotación.
+El objetivo es que este módulo sea sencillo de instalar, poco peso y eficiente. Debe incorporar un botón de Facebook connect con nuestra aplicación Facebook.
+Tenemos desarrollado ya el sistema en otras tecnologías e implementados los webservices pertinentes.
+Interesados, contactar por mail a la dirección indicada, con un breve portafolio o descripción relativas a las necesidades expuestas.

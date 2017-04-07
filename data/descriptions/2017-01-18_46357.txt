@@ -1,0 +1,16 @@
+
+Licuit busca incorporar a su estudio un desarrollador web 70% Front, 30% Back. Con interés por el diseño y solvencia en desarrollos orientados a la experiencia de usuario. Participará en el desarrollo de diversos proyectos web/móvil tanto para clientes como para iniciativas propias.
+Imprescindible:
+- HTML5 con frameworks tipo Foundation o Bootstrap...
+- JS con Angular, React o cualquier otro similar.
+- Manejos de animaciones y transiciones CSS3.
+- Experiencia con integraciones en Facebook, Shopify o cualquier otra plataforma/API.
+- PHP o algún lenguaje de Backend (Mínimos, se busca perfil Front sobre todo).
+- Experiencia en desarrollo Móvil web. Algo en nativo para iOS o Android será un plus :))
+- Mimo y detalle con las animaciones y transiciones.
+Tipo de contrato:
+Tiempo completo.
+Presencial en el centro de Bilbao (en caso de no poder, se valorará la opción de trabajar en remoto). 
+Incorporación:
+Inmediata o según la disponibilidad del candidato.
+

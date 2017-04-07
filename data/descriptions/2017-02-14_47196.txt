@@ -1,0 +1,7 @@
+
+Necesito incorporar a freelance a un proyecto android de aproximadamente 3 meses de duración.
+El proyecto está dividido en tres fases, se trata de añadir un modo de juego multijugador a una app que ya hay publicada en el Play Store.
+Para este proyecto es necesario tener experiencia en:
+-Desarrollo de aplicaciones android nativas. Tener alguna aplicación que pueda enseñar.
+-Estar familiarizado con el sdk de facebook y Google Play Services.
+No es necesario estar ubicado en Madrid pero se valorará que pueda tener al menos una reunión presencial conmigo para explicarle detenidamente el proyecto.

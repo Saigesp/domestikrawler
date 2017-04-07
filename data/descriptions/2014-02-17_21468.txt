@@ -1,0 +1,33 @@
+
+Buscamos Jovenes Emprendedores Preferiblemente residenciado en Vizcaya
+Que tenga cocimientos en programación avanzada en entornos web, utilizando: 
+>  PHP 5. 
+>  HTML5, CSS3 
+>  JavaScript / Ajax / JSON 
+>  MySQL
+>  Experiencia en desarrollo sobre framework Symfony. 
+>  Administración de servidores Linux, deseablemente basados en Debian / 
+> Ubuntu
+>  Scripting Linux (bash)
+>  Control de versiones con GIT
+> 
+> Deseable:
+>  Implementación de Servicios REST 
+>  Programación PHP usando TDD (Test Driven Development) con phpunit o
+> framework de testing similar.
+>  Conocimientos de test de aceptación con Selenium, Behat, Mink, 
+>  Conocimientos de Ant, Phing,  Composer
+>  Experiencia con bases de datos NoSQL
+>  Conocimientos de metodologías ágiles: Scrum, Kanban, XP
+>  Despliegue de aplicaciones PHP con Capistrano / Capifony
+>  Automatización de configuración de servidores con herramientas
+> Vagrant, Docker, Chef, Puppet, etc.
+>  Conocimientos de Ruby
+>  Experiencia en Integración Continua de aplicaciones PHP con jenkins,
+> hudson, travis o alguna herramienta similar.
+>  Administración de zonas DNS y gestión de traslados de nombres de 
+> dominios.
+>  Conocimientos de soluciones de optimización de webs (CDN, Varnish 
+> cache)
+>  Conocimientos de seguridad a nivel de servidor web.
+

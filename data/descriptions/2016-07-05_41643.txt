@@ -1,0 +1,23 @@
+
+Buscamos incorporar a un Ingeniero de QA, para importante empresa que pertenece al sector E-commerce.
+Requisitos:
+•	Dominio del lenguaje Linux
+•	Conocimientos de  SQL y MySQL
+•	Experiencia con la versión / control SVN, GIT
+•	Experiencia demostrable con JIRA
+•	Experiencia en Testing Funcional
+•	Capacidad para trabajar bajo presión.
+•	Identificación de problemas y Conocimiento sobre leyes SW.
+•	Experiencia en definir la estrategia de testing
+•	Habilidad para trabajar en equipo Scrum framework
+•	Inglés: nivel alto.
+Requisitos Deseables:
+•	Experiencia con CI tools like Jenkins
+•	Experiencia con JMeter
+•	Experiencia con testing automation frameworks
+•	Conocimiento de PHP
+Ofrecemos: 
+•	Contrato con carácter indefinido.
+•	Trabajar en un equipo de expertos.
+•	Remuneración en base a valía y experiencia de cada candidato.
+

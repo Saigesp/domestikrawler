@@ -1,0 +1,33 @@
+
+At Flipflap we are expanding our production team. We’re looking for a Front-end Ui/Ux developer expert with extensive experience creating responsive HTML web applications and the ability to define & build CSS&JS frameworks. Our solutions require amazing user and performance experience and our growth requires enthusiastic & brilliant people with the ambition to grow internationally.
+You will work in a dynamic, creative and innovative environment. We use the newest technologies in our field on a day-to-day basis, in a high-traffic site with a global philosophy. We’re crazy about the Internet and we love to learn new things every day as well as at conferences and industry events.
+This position is full-time and based in Barcelona.
+JOB DESCRIPTION:
+    Design and implement web and mobile applications, from the data model to the web interface.
+    Development environments needed to carry out the specified tasks. Your are expected to be able to investigate and suggest solutions to performance issues.
+    Take an active part in creation and definition of our products, working as the link between the creative and the implementation phases being part of the two.
+    Development of reusable UI components for the web and mobile using HTML5 technologies.
+    Participate in the analysis and adoption of new technologies to incorporate in the web stack in order to guarantee performance, code quality and maintainability.
+    Be a technical referent in the frontend technologies field within the company.
+    Collaborate with Backend and other Web Engineers in order to provide well behaved, highly usable solutions.
+    Provide support and maintain existing solutions, empowering client teams to meet their deadlines with the adequate quality guarantees.
+REQUIRED TECHNICAL SKILLS & EXPERIENCE
+    [list]Experrience developing Web Applications with complex user functions.
+    HTML5 / CSS3 with the abiliy to create frameworks and interaction with third-party frameworks
+    JavaScript / JQuery / AJAX / Angular
+    PHP / REST integration
+
+    Version control systems (Git)
+    Photoshop / Illustrator
+    Mac environments
+    Good ability to transform concepts into HTML functional pages.
+    iOS / Android environments
+    Knowledge on knowledge of Laravel 5 or Symfony2 is a big plus.
+    Able to work in an English- and Spanish-speaking environment.
+WILL BE VALUED:
+    Team Work and leadership.
+    Experience in product developing
+    Start-up mentality: passion/talent/proactive attitude
+    Willing to grow professionally inside the company
+    Constant innovator, learner and teacher.
+

@@ -1,0 +1,14 @@
+
+Somos Tecknosfera, una agencia de publicidad digital ubicada en Madrid con 15 años de experiencia.
+Buscamos un maquetador front-end freelance.
+Será necesario:
+- CSS3, HTML5, Javascript y jQuery. 
+- Que controle la maquetación responsive y sepa interpretar un diseño según el dispositivo. 
+- Que sea muy detallista a la hora de adaptar los diseños enviados por el equipo creativo.
+- Código limpio, semántico y siguiendo los estándares marcados por el W3C. 
+- Buenos conocimientos UI, accesibilidad y SEO. 
+- Conocimientos de Bootstrap.
+- Conocimientos avanzados Wordpress.
+Buscamos una persona proactiva, con al menos 4 años de experiencia en puesto similar.
+TIPO DE CONTRATO: Freelance.
+SUELDO: A convenir según valía del candidato.

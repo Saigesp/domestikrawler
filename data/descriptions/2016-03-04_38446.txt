@@ -1,0 +1,20 @@
+
+En AST abrimos un proceso de selección para incorporar a nuestro equipo 1 Programador/a Web Junior.
+Incorporación en un equipo joven y con gran experiencia, que permitirá poner en práctica y desarrollar los conocimientos adquiridos en situaciones reales en una empresa con una trayectoria ascendente.
+No se requiere experiencia. Ofrecemos Plan de Carrera.
+Horario: 9:00 - 15:00
+•	Requisitos mínimos
+- Buen conocimiento de los lenguajes nativos de la Web (HTML5, CSS3, Javascript)
+- Maquetación Web adaptativa
+- Conocimiento de algún preprocesador de CSS como SASS O LESS
+- Conocer librerías como JQuery
+- Conocimientos básicos de Photoshop e Ilustrator. Ser capaz de maquetar a través de un archivo PSD o AI
+- Conocimientos básicos de PHP
+- Interés por el SEO, buenas prácticas y accesibilidad
+•	Requisitos deseados
+- Conocimientos de algún framework front-end (Bootstrap, Foundation)
+- Wordpress
+- Joomla
+- Control de versiones (GIT)
+- Haber trabajado con alguna API (Google, Facebook, Twitter...)
+

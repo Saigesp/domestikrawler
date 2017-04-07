@@ -1,0 +1,16 @@
+
+Se ofrece puesto de trabajo estable en Madrid para desarrollador online con el cometido del desarrollo de campañas de banners en importante grupo internacional de agencias de publicidad con primeras marcas. Se incorporará en plantilla en el equipo del estudio para la producción de piezas interactivas a partir de los bocetos proporcionados por el departamento creativo.
+A corto plazo, el puesto se centrará fundamentalmente en la producción de piezas display en Flash, aunque paulatinamente, a medida que los soportes vayan migrando, trabajará con piezas en HTML5.
+Se precisa de:
+- Eexperiencia demostrable trabajando con Flash.
+- Conocimientos razonables de Adobe Photoshop para el tratamiento e importación de materiales.
+- Conocimiento de Actionscript 3 orientado a la parte gráfica.
+- Conocimiento básico de Actionscript 2.
+- Sensibilidad para la animación y atención a la calidad de las piezas producidas.
+Es deseable:
+- Experiencia tratando para agencias creativas o de medios en la producción de piezas para campañas, así como con los respectivos AdServers.
+- Competencias de diseño gráfico e ilustración.
+- Experiencia (laboral o de ensayo) trabajando con Stage3D.
+- Experiencia (laboral o de ensayo) trabajando con servidores Adobe Flash Media Server, red5, o similar.
+- Conocimientos de HTML5/CSS3 orientado a la producción de piezas display.
+- Conocimientos de JSFL para crear scripts de automatización en la producción de largas tiradas de piezas.

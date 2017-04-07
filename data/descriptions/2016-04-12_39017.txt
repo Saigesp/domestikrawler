@@ -1,0 +1,22 @@
+
+AppsWorld con sede en Barcelona busca programador Android
+La persona seleccionada deberá saber trabajar con entornos Android Studio 2.0 beta 6 donde van a estar desarrolladas las apps de Android, programación orientada a objetos.
+Buscamos a una persona con mentalidad de trabajo en equipo, deberá demostrar ser multidisciplinar, dinámica y flexible.
+Somos una empresa joven que busca:
+- Personas comprometidas. 
+- Autosuficiente, con iniciativa y ganas de progresar.
+Requisitos imprescindibles:
+- Conocimientos de programación Android Studio 2.0 beta 6.
+- Conocimientos básicos de la herramienta Adobe Photoshop para trabajar con los archivos PSD realizados por los diseñadores.
+- Conocimientos del SDK de Android
+- Experiencia mínima: Al menos un año, con experiencia específica en desarrollo de aplicaciones nativas.
+- Experiencia en el desarrollo de aplicaciones comerciales o propias.
+- Desarrollo de interfaces gráficas
+- Desarrollo de aplicaciones con comunicación cliente/servidor.
+- Conocimientos de programación Java.
+- Experiencia con sistemas de control de versiones (Git )
+- Manejo fluido del inglés técnico, escrito y leído
+Se ofrece:
+- Retribución y condiciones negociables según valía del candidato. 
+- Incorporación inmediata.
+

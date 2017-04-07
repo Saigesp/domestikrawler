@@ -1,0 +1,19 @@
+
+Buscamos un desarrollador web de frontend y backend, para integrarse presencialmente en nuestro equipo.
+Las tareas cubrirán tanto el desarrollo de nuevo contenido, como la actualización del contenido existente.
+Responsabilidades:
+•	Desarrollo de servidor con PHP y MySQL.
+•	Programación client-side con Javascript.
+•	Maquetación HTML5 y CSS, especialmente para iPad a partir de diseños Photoshop.
+Requisitos:
+•	Dominio de PHP y MySQL.
+•	Conocimientos de frameworks tipo Laravel, Symphony, CakePHP, …
+•	Dominio de la maquetación con HTML5, CSS3 para desktop y móvil, incluyendo responsive.
+•	Dominio de la programación Javascript, incluyendo el desarrollo sin librerías de terceros (canvas, JSON, …).
+•	Buen nivel con librerías como jQuery, Bootstrap, …
+•	Experiencia con LESS, SASS, etcétera.
+•	Conocimientos de Photoshop de cara a maquetar nuevo contenido partiendo de archivos PSD.
+Se valorará:
+•	Experiencia con Veeva, MI Touch o Agnitio.
+•	Conocimientos de InDesign e Illustrator.
+•	Conocimientos de Linux.

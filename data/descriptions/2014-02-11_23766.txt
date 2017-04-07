@@ -1,0 +1,5 @@
+
+Como parte de un equipo de trabajo joven y dinámico, el candidato se involucrará en proyectos en los cuales estará expuesto a una gran diversidad de lenguajes de programación y diferentes tipos de funcionalidades. En su mayoría, se centrarán en el desarrollo de plataformas online para la captación y gestión de datos, herramientas de análisis y comunicación e interactividad entre usuarios. 
+Los diferentes proyectos incluirán conceptualización, desarrollo de interface, seguridad, programación y gestión de bases de datos.
+El candidato seleccionado deberá ser capaz de especificar y desarrollar aplicaciones en su totalidad, desde su concepción inicial hasta su posterior implementación y mantenimiento. Deberá estar al tanto de tecnologías web tipo API/Rest, Javascript, PHP y base de datos: MySQL.
+Se valorará experiencia previa y proyectos realizados referenciados en el CV. Es esencial tener capacidad de aprender nuevas tecnologías y aceptar responsabilidades.

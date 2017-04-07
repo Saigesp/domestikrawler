@@ -1,0 +1,25 @@
+
+Estamos buscando a un/una Front-End Developer para ampliar nuestro equipo, capaz de gestionar con entusiasmo los nuevos proyectos que estamos desarrollando en estos momentos. 
+Queremos sumar al equipo a un profesional interesado en trabajar con los últimos frameworks MVC del entorno JavaScript, que tenga conocimientos de AngularJS o React. Se valorará especialmente que disfrute con la maquetación y con la experiencia de usuario. 
+¿Cuáles serán tus funciones?
+•	Crear interfaces de usuarios user friendly y con diseño innovador. 
+•	Colaborar con el resto del equipo (Diseño y Back-End) en la definición e implementación de la solución técnica escogida. 
+•	Cuidar la máxima calidad en la visualización y los pequeños detalles. 
+¿Qué necesitamos que sepas?
+•	Maquetación HTML5 + CSS3
+•	Responsive Web Design
+•	Javascript (avanzado)
+•	Web Frameworks (al menos uno): Angular JS, React JS, Bootstrap o JQuery UI.
+¿Qué valoramos positivamente?
+•	SASS, Less...
+•	Node.js
+•	Control de versiones (GIT u otros)
+•	Ajax 
+•	SEO / Web Analytics
+•	Desarrollo de aplicaciones iOS y Android.
+•	Capacidad de autoformación.
+¿Qué te ofrecemos?
+•	Formar parte de un equipo joven con muchas ganas de hacer cosas cada vez más grandes. 
+•	Total libertad para proponer ideas y desarrollarlas. 
+•	Un salario acorde a tu experiencia, necesidades e intereses.
+•	Formación continua.

@@ -1,0 +1,24 @@
+
+Linkener es un proyecto en crecimiento con un equipo joven. Somos una compañía tecnológica especializada en desarrollar soluciones de ahorro energético basada en Smart Meters, IoT y Big Data.
+Tus responsabilidades:
+- Desarrollar y mejorar el panel de administración de nuestro producto.
+- Mejorar la usabilidad.
+- Desarrollar y mejorar el dashboard.
+Requisitos:
+- Experiencia demostrable en Javascript y usando frameworks de front-end (especialmente Vue.js)
+- Experiencia demostrable en CSS
+- Conocimientos de OOP
+- Conocimientos de Testing
+- Experiencia demostrable usando buenas prácticas de desarrollo
+Experiencia deseable en:
+- SASS
+- Git
+- Mocha
+- Ansible
+- Vagrant
+Lo que te ofrecemos: 
+- Horario flexible, aquí llegamos entre las 8 y las 10.
+- Poder elegir las vacaciones cuando quieras.
+- Equipo de sobremesa con dos pantallas y el sistema operativo que desees.
+- Contrato laboral en Valencia y adaptado a tus necesidades (estamos abiertos a negociar media, reducción o jornada completa, obra y servicio o autónomo).
+- Salario adaptado a tu experiencia. 

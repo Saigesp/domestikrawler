@@ -1,0 +1,11 @@
+
+En Yunbit plataforma de soluciones de negocio en la nube, estamos buscando un programador web.
+Necesidades excluyentes del perfil:
+Debe tener una experiencia mínima de al menos 2 años en programación PHP, javascript y mySQL en entorno LAMP (Linux, Apache, MySQL y PHP).
+Requisitos:
+Solvencia en escribir consultas SQL y optimización de su rendimiento.
+Administración de MySQL nivel medio
+Uso de javascript, jQuery y Webservices (REST, XmlRpc, SOAP)
+Conocimientos de HTML y CSS
+Familiaridad con métodos ágiles de programación (SCRUM, XP)
+

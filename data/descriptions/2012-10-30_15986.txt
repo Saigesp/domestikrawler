@@ -1,0 +1,30 @@
+
+Precisamos incorporar a nuestra cede de Madrid, un Programador Android, con amplios conocimientos en desarrollo con el Android SDK.. Buscamos incorporar a una persona apasionada de Internet y dispositivos móviles, con una vida digital activa y con alta orientación al trabajo en equipo.
+Se requiere una persona altamente comprometida, con habilidades demostrables para el desarrollo  de aplicaciones móviles y un ojo agudo para detalles de usabilidad..
+Trabajará en estrecha coordinación con los departamentos Técnicos y de Marketing.
+Se ofrece incorporación inmediata.
+Se requiere:
+-  Experiencia de Desarrollo de Android SDK
+-  Experiencia en programación. Java 
+-  Framework de Aplicaciones en Android (APIs, BBDD, WebKit, etc.)
+-  Experiencia en integración de Servicios web (SOAP, REST, JSON, XML)
+-  Buen conocimiento de programación orientada a objetos y patrones de diseño
+-  Experiencia demostrable en la distribución de apps en los stores correspondientes ( Google Play).
+-  Experiencia en debugging y optimización de código.
+-  Conocimiento de las últimas actualizaciones de AND.
+-  Experiencia en trabajo con versionado de código y control de versiones
+-  Experiencia data tracking.
+-  Experiencia desarrollo basado en Localización/Posicionamiento
+-  Alto conocimiento en usabilidad y guías de estilo en tecnología móvil.
+-  Experiencia en el uso de social media APIs
+Se valorará
+- Habilidad para identificar funcionalidades nuevas y definición de interfaces gráficas
+- Ability to work independently, set timelines and execute to plan.
+- Habilidad para establecer timelines y tiempos de ejecución de forma efectiva
+- Nivel medio de inglés
+Ofrecemos contrato indefinido, salario competitivo y Plan Formativo-Carrera.
+-Experiencia mínima: Al menos 2 años en el desarrollo de aplicaciones móviles.
+-Debe tener al menos 2 apps publicadas, preferentemente transaccionales. 
+-Estudios Deseables: Ingeniero Técnico- Técnico en informática de Sistemas. 
+-Buen nivel de inglés
+

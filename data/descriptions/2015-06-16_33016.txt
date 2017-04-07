@@ -1,0 +1,14 @@
+
+The Book of Everyone is an English company based in Barcelona that has been built around a shared love of books, design, technology and ants. We believe that every individual is amazing to someone and our products are a way of letting that person know. Putting it simply, we create beautifully designed books a gifts about anyone with a few taps of your keyboard, and we're looking for someone to help us make the magic happen!
+We're looking for an all-round web developer that is forever curious and enthusiastic about new technologies. The right person will be responsible for writing and maintaining code that supports The Book of Everyone towards its business objectives. Timely delivery, proficiency and a high level of quality in programming will be expected in both front-end and back-end technologies including, but not limited to, the following:
+HTML5 
+CSS3 / Sass 
+Javascript 
+AJAX / jQuery 
+JSON 
+PHP frameworks Zend and Symfony 
+MySQL 
+MongoDB
+The ideal candidate will have a passion for developing a career in back-end dev, but will not mind picking up front-end tasks if need be. They'll be willing to research and learn new technologies as appropriate to the company's requirements. Someone that's not scared to take ownership of their role and suggest new directions that will help improve the smooth running of the site and back-end system.
+The team is formed by Spanish and English people and fluency in English is essential.
+Salary is negotiable depending on experience. 

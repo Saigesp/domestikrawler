@@ -1,0 +1,12 @@
+
+Queremos incorporar un becario para nuestra plataforma online.
+El trabajo es por un lado técnico, por lo que debe tener conocimientos de django (python), sql y linux, y de análisis, ya que define y optimiza los procesos de resolución de incidencias.
+Trabajaras junto al equipo de desarrollo, apoyándolo y participando en las mejoras de la plataforma. 
+Trabajarás con las siguientes tecnologías:
+- Python/Django
+- SQL (bases de datos en MySql/MongoDB)
+- JavaScript/CSS/HTML
+- Scrapy
+- Selenium
+- Administración de sistemas linux
+- Bootstrap

@@ -1,0 +1,39 @@
+
+Dreamstar Cash is heading into an exciting 2012 and we are looking to expand our current team for our Altea (Alicante) office and also for a planned new office in Barcelona. If you are an agile web developer with an ability of getting shit done then you will fit in just great.
+About the Position
+We are looking to hire 4-5 web developers to grow our existing team giving you the opportunity to learn how we scaled our high volume sites. We’re also looking to create a separate new team meaning you will have the chance to become one of the key founding members.
+You will have a chance to work on both our two main properties (4tube.com &amp;amp; PornTube.com) as well as some exciting new projects we have in the pipeline. We are currently managing around 3.5 million/visitors a day across our network of sites but are looking to grow that significantly in 2012 with your help!
+About You
+We are looking for someone who shares the same traits and ambitions as everyone else at Dreamstar Cash. You will need to excel at getting stuff done, be super smart and never want to stop learning. You will be excelling in your current role, and will want a new challenge.
+You feel the need to push yourself so have various side projects you do just for the kicks. You are someone who instantly gets on with people, and enjoys meeting new people. Most of all you will know how to enjoy life and will want a company that encourages a fun working environment. 
+You will have a varied and challenging day. You will be responsible for creating and executing a strategy to help our existing and new projects of all sizes kick ass. 
+Responsibilities:
+*Analyze, innovate, architect, design and develop software for frameworks, core technology components and end user applications
+*Work with key stakeholders to understand business requirements and translate them into a product backlog, and subsequently, actual products
+*Write code and unit tests to deliver high quality products and technologies
+*Tackle unfamiliar problems and take the time to discover “best practice” solutions
+*Contribute creative and innovative ideas to the business 
+Requirements:
+*2-7 years of recent experience in hands-on software design and coding
+*University Degree/Title in Computer Science or similar (or a great reason for not having one, and believe us, there are plenty)
+*Excellent problem solving, creative thinking and self-motivation skills
+*Analytical and detail oriented
+*Able to prioritize, execute and deliver projects on time
+*Solid OOP and software design ability; should be able to create designs and write code that meets specified architectural objectives, including reusable, extensible solutions
+*Strong design and coding experience in backend development, web UI development or both
+*Experience with scripting languages such as PHP, Javascript , and Linux/Unix Shell scripting
+*Experience in open source databases (such as MySQL) 
+*Experience with jQuery &amp;amp; memcached
+*You have an understanding and agree with agile principles
+*Add energy to already energetic core team
+*European citizenship or permanent resident status required
+The following attributes, while not required, would be valuable to the team and useful in many of the tasks and projects you’ll be assigned:
+Strong English language skills (the primary language of the company)
+Hard core C/C++ development experience, as well as the ability to quickly learn and apply new technologies; experience with programming and debugging in complex distributed environments -OR- Lots of front end web development experience in MVC frameworks, including integrating with complex back end systems and/or web services, and optimizing for responsiveness in front end applications
+Experience in open source technologies with broad skills in technologies such as Hadoop, CURL, Memcached, Boost, AJAX, etc.
+Strong SQL and data model design skills; experience with one or more databases (such as Oracle, SQL, PIG, Tokyo Tyrant, Cassandra (and Big Table), Mongo DB, SimpleDB and others) in a production environment
+Experience with massively distributed and large scale software systems
+Knowledge of web services: both utilization and creation of APIs
+Strong platform skills in Linux/Unix
+Participation in the social web (blogosphere, 4chan, youtube, twitter, etc.)
+Experience in a high-energy startup or an enterprise class software company is a plus

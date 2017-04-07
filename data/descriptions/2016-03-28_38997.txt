@@ -1,0 +1,21 @@
+
+En s|ngular estamos contratando Front-end Developers con experiencia en Angular y/o Backbone para proyectos nacionales e internacionales.
+Tanto si eres un Ninja como si aun estás en modo “dar cera, pulir cera…” nos gustaría que te pienses esta oferta.
+Ahora echa un vistazo, a ver si cumples alguno de estos requisitos:
+- Te gusta el desarrollo front 
+- Experiencia con Bootstrap 3, maquetación Responsive, Preprocesadores CSS 
+(Stylus, Less, Sass). 
+- Prestas atención a la optimización del código, buenas prácticas, estándares, clean code… 
+- Experiencia con sistemas de templating HTML (Handlebars, Moustache, Jade…) 
+- Conoces frameworks JS como Angular, Ember y/o Backbone. 
+- Familiarizado con sistemas MVC y controladores de versiones como GIT. 
+- ¿Tienes código en GitHub, BitBucket?, ¿trabajas con Sublime Text o similares (Webstorm, Vim)?… ¿cual es tu puntuación en Stackover Flow… ? 
+- Si eres de los veteranos: ¿en vidas pasadas fuiste un máquina con ActionScript? 
+- ¿Estas habituado a trabajar con Agile? 
+- English is an extra point (+1).
+¡ME INTERESA! ¿QUÉ OFRECÉIS?
+Estabilidad y salario competitivo. 
+Oportunidad de crecimiento profesional. 
+Clientes multinacionales. 
+Retos técnicos en equipo multidisciplinar, en equipo de más de 280 profesionales 
+Excelente clima laboral

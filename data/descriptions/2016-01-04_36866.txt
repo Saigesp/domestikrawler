@@ -1,0 +1,13 @@
+
+Main functions:
+•	Determination the Big Data strategy for company customers, after prior requirements gathering.
+•	Definition and implementation of mathematical models and algorithms, as well as the subsequent evaluation of its parallelizable.
+•	Configuration of the Big Data and Data Mining tools.
+•	Gathering of comprehensive data (extraction, purification and analysis) which will generate value in customer decisions.
+•	Determination and implementation of predictive models to increase customer benefits.
+Main requirements:
+The selected candidate must have no less than 6 year’s experience in Data Analyst positions, having been focused on Big Data Scientist positions during the last three years (positively valuing consulting experience).
+The future Big Data Scientist, must have developed predictive models, as well as participated in the algorithms programming (R or equivalent). You must also have experience in managing big data tools (MapReduce, Hadoop or similar).
+It is required Degree in Mathematics, Physics and Computer Science, or engineering studies, as well as have a high level of English.
+It’s needed a person with high analytical skills, problem-solving and proactive. Also, the candidate must be used to working in collaborative environments. 
+

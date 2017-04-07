@@ -1,0 +1,9 @@
+
+Somos una Multinacional que actualmente nos encontramos desarrollando un proyecto en el ámbito Web muy atractivo para el desarrollo profesional de la persona que se incorpore.
+- Fuertes conocimientos de maquetación en HTML5 / CSS3 / SASS / LESS / JS / JQuery.
+- Fuertes conocimientos en programación en PHP y Drupal.
+- Tener experiencia en la gestión y creación de plantillas en Drupal.
+- Desarrollo de módulos en PHP orientados a Drupal.
+- Responsive. Desarrollo de las plantillas base e implementación de las mismas dentro de CMS (entornos PHP, Javascript).
+- Conocimientos sobre UX, UI. Optimización de diseños, maquetas en preproducción para implementación final.
+- Fuertes conocimientos en JavaScript con fin de mantenimiento, desarrollo de las funciones nuevas, componentes para aplicaciones web según las especificaciones requeridas. 

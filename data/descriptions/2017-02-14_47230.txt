@@ -1,0 +1,27 @@
+
+We are now looking a Junior Front-end developer to join our team. 
+The position is suitable for both graduate and current students. We are looking for the right candidate that can grow with us.
+About the gig 
+You will be working on various project for well established brands. Each project will be unique to you. We will need you to understand the brief and deliver the highest quality code possible. You will work with us side by side, so communication skills are a must, but don’t worry, we won’t hold your hand, so be organized!
+You will have a strong understanding of design in code, which means executing spectacular designs and also writing beautiful code. It is a great role to kickstart your career as we will give you the opportunity to learn the business insides first hand!
+Requirements 
+- excellent knowledge of HTML5 CSS3 (sass/less) 
+- good Javascript knowledge (jQuery and vanilla js) 
+- great working knowledge of CSS frameworks (bootstrap for example) 
+- working knowledge of CMS solutions like Wordpress, Drupal etc 
+- working knowledge of php (can write php) 
+- strong attention to detail 
+- good knowledge of Photoshop and Illustrator 
+- working knowledge of git 
+- self organized 
+- outstanding communication skills 
+- working knowledge of applying SEO best practices 
+- good level of english 
+- yes attitude
+A huge bonus (but not required)
+- working knowledge of AngularJS and/or ReactJS 
+- any other new fresh frontend frameworks that you can bring to the table
+- worked with CakePHP and/or Symphony PHP before 
+- worked with Api’s (used, build etc)
+Metropolis is a small design studio based in the heart of Barcelona. 
+Together with Izakaya Code we focus primarily on digital design and crafting awesome UI/UX. Our client base includes major international players, along with a couple of startups. No client is too small or too big!

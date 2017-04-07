@@ -1,0 +1,16 @@
+
+En Bitoon buscamos un perfil técnico de Back - End con personalidad resolutiva y con mucha iniciativa. Somos una compañía creadora de videojuegos y experiencias de entretenimiento digital para marcas (gamificación y advergaming).
+Requisitos mínimos, alto conocimiento de:
+- Java
+-  PHP
+- Spring
+- Hibernate
+- Camel
+- PostgreSQL
+- MySQL
+- MongoDB
+- Eclipse
+- GIT
+- Subversion
+Experiencia mínima de 2 años.
+¡Te esperamos!

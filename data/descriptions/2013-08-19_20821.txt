@@ -1,0 +1,22 @@
+
+¿Quieres formar parte de una start-up innovadora, comprometida y de rápido crecimiento? Esta puede ser tu oportunidad. En Trendipia buscamos un desarrollador web para incorporar a nuestro equipo reportando de manera directa al CEO y contribuyendo al desarrollo y mantenimiento evolutivo del portal trendipia.com.
+Buscamos gente responsable y con iniciativa, con interés en la tecnología, y ganas de asumir retos en una empresa con gran potencial de crecimiento.
+Se requieren conocimientos de PHP 5 orientado a objetos y experiencia con el framework Symfony 2.
+Se valorará haber demostrado interés en estas tecnologías y haber desarrollado proyectos personales con ellas.
+Además, se requieren nociones de MySQL y habilidades de maquetación y desarrollo front-end.
+Capacidades a valorar:
+- Conocimiento de Symfony 2 o, en su defecto, cualquier otro framework de PHP 5 orientado a objetos
+- Gestión de bases de datos MySQL
+- Desarrollo front- end: XHTML, CSS, jQuery y nociones de Twig
+- Manejo fluído de repositorios Git
+- Soltura en la utilización de sistemas UNIX
+Buscamos:
+- Buscamos buena gente, que genere buen rollo.
+- Gente con ganas de aprender y de aportar al equipo, sin miedo a equivocarse.
+- Nos importan las personas y queremos un equipo de personas
+Ofrecemos contrato fijo con incorporación inmediata y horario a jornada completa en Madrid, con posibilidad de flexibilizar la jornada.
+--
+Trendipia somos una start-up comprometida con el sector de la moda y el nuevo talento, formado por un equipo joven pero con experiencia.
+En trendipia vendemos ropa y complementos de moda de autor y promocionamos, potenciamos y ayudamos a nuevos diseñadores a darse a conocer.
+En nuestra corta historia, que solo acaba de empezar, hemos sido mencionados por revistas de moda de referencia, prensa y TV como una start-up novedosa, y hemos participado como ponentes en un panel de innovación en moda organizado por Google.
+¿Te animas a formar parte de nuestro equipo?

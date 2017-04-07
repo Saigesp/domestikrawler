@@ -1,0 +1,8 @@
+
+Buscamos una persona abierta, responsable y con ganas de trabajar en un entorno de trabajo flexible.
+El trabajo a desempeñar es de programación Web y desarrollo de aplicaciones móviles.
+Se realizaran tareas de desarrollo y mantenimiento de herramientas de creación propia de proyectos web, actualización y mantenimiento de backend.
+Necesaria experiencia y conocimientos en desarrollo de aplicaciones móviles Android e iOS (entorno Cordova, Swift), y conocimiento de la metodología MVC.
+Experiencia con PHP, Mysql, Javascript, CSS3, HTML5, jQuery, JSON, AJAX.
+Se valorarán conocimientos de NodeJS y de sistemas Unix/Linux, así como experiencia en entornos Wordpress (desarrollo, adaptación y modificación de plugins, etc.).
+Trabajo a jornada completa con contrato indefinido.

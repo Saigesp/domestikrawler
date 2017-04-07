@@ -1,0 +1,7 @@
+
+Estamos buscando un programador Java con experiencia para incorporarse a Plannic.com. Una red social para hacer planes y compartir aficiones formado por un equipo joven y dinámico.
+Programador con experiencia de 3 a 5 años en entorno Java
+Conocimientos avanzados de Spring e Hibernate.
+Persona proactiva y responsable con capacidad de trabajo en equipo
+Se valorarán conocimientos y experiencia en redes sociales y aplicaciones web 2.0 
+El candidato será el encargado del mantenimiento de la aplicación y desarrollar nuevas funcionalidades. 

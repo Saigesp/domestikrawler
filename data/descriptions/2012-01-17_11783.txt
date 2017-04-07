@@ -1,0 +1,18 @@
+
+Se busca diseñador Web con experiencia para la realización de proyectos Web y aplicaciones para Facebook.  El diseñador se encargará de idear diseños, integrarlos en HTML/CSS según las exigencias de los clientes y mantenerlos a lo largo de la duración de los proyectos. También se encargará de crear mock-ups y prototipos, y de realizar estudios de usabilidad del interfaz gráfico.
+Requisitos mínimos
+- Experiencia en diseño web con portfolio comprobable
+- Conocimientos avanzados de Adobe Photoshop, Dreamweaver, Illustrator y Flash
+- Conocimientos avanzados de HTML y CSS
+- Capacidad de trabajar en equipo y habilidades organizativas
+- Creatividad, responsabilidad y seriedad
+Requisitos ideales
+- Conocimientos de HTML5 y CSS3
+- Conocimientos de Axure u otra herramienta de prototyping
+- Familiaridad con código PHP, JavaScript y AJAX
+- Familiaridad con plataformas Wordpress, Joomla o Drupal
+- Conocimientos de desarrollo en Facebook y FBML
+- Experiencia de desarrollo en ActionScript 3.0
+- Experiencia con herramientas de control de versión (GIT, CVS, SVN, Mercurial, etc.)
+- Conocimiento del idioma inglés
+

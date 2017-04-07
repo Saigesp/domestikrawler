@@ -1,0 +1,6 @@
+
+Se requiere Ingeniero de Software Android para el desarrollo de aplicaciones móviles con experiencia mínima de 2 años y conocimientos en:
+- Android
+- J2ME
+- Desarrollo de iPhone/iPad (Objetive C, IOS, xCode)
+- Herramientas de desarrollo (EJB, JCA, JMS, etc)

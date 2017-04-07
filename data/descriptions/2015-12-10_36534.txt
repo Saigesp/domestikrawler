@@ -1,0 +1,11 @@
+
+Hi,
+We're a young and motivated startup out of Barcelona that has developed a SaaS platform to enable brands and online shops to use their customer photos from social media as social proof and increase their conversion rates. We currently have more than 30 clients in Spain, UK, USA, Canada, Netherlands and UEA and growing fast.
+We are looking to expand our development team with a full-time freelance Senior Front End developer with 5+ years experience in:
+- ReactJS
+- Javascript/JQuery/NodeJS/Bower/Grunt
+- SVN
+- Javascript sandboxed widgets (bonus)
+- Having built larger projects/dashboards in ReactJS
+We offer interesting challenges, a nice work atmosphere in our Barcelona Activa offices, flexible work schedule, and the possibility to join our company in the next 3-4 months.
+Ready for the challenge?

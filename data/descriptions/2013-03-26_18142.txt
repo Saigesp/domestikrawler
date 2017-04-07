@@ -1,0 +1,15 @@
+
+En Think3D, una agencia de publicidad enfocada al mundo digital y con una gran experiencia en el mundo web y de las apps mobile, estamos buscando a un programador experto en Android y con conocimientos en iOS y web.
+Buscamos una persona organizada y que sea capaz de trabajar en una ambiente dinámico. Que quiera trabajar en proyectos del mundo mobile, desarrollando aplicaciones innovadoras y punteras para nuestros clientes.
+Requerimientos Indispensables:
+•	Experiencia en desarrollos para Android
+•	Experiencia PHP y MySQL
+•	Conocimientos de HTML, CSS y Javascript
+•	Experiencia con JSON y conexiones con APIs: facebook, twitter, ...
+•	Portfolio de apps
+Se valorara:
+•	Experiencia en frameworks de desarrollo (Yii, Codeigniter, ...)
+•	Conocimientos de desarrollo en iOS
+•	Conocimientos de diseño gráfico
+•	Conocimientos de Wordpress
+

@@ -1,0 +1,12 @@
+
+Hola! En Portium estamos buscando Ingenieros de Software para Back con experiencia de desarrollo en Nodejs y MySQL. Con capacidades de Análisis, Diseño y Desarrollo de aplicaciones.
+Con conocimientos de: 
+• RESTful Web Services. 
+• Gestión de servidores NodeJS. 
+• Control de versiones con GIT flow. 
+• Metodología SCRUM. 
+• Integración continua.
+• Tests.
+• Análisis y modelado de Datos.
+Tenemos muchos proyectos interesantes, uno de ellos es Footters, que es partner entre otros de IBM, y cuya presentación hacemos de forma conjunta en el Mobile World Congress. O Beetripper, una plataforma de turismo colaborativo. (Y como verás no hemos tenido ni mucho tiempo para currarnos la web).
+Podría haber revisiones del salario en función de objetivos, y como mínimo una revisión anual.

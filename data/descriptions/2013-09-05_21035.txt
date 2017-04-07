@@ -1,0 +1,16 @@
+
+Se requiere programador backend (php/mysql) web para servir de apoyo en diversos proyectos propios y para clientes. Es necesario que tenga unos mínimos conocimientos de tecnologías frontend (jquery/javascript), así como de maquetado (html5/css/css3).
+Además, se valorarán positivamente los siguientes aspectos técnicos, aunque no son características excluyentes si no se conocen:
+- Conocimientos amplios de frontend
+- Conocimiento de frameworks tanto de backend (symfony, laravel, django, Node.JS) como de frontend (bootstrap, etc)
+- Conocimiento de Json, XML, API Rest...
+- Maquetado web
+- Programación Orientada a Objetos, a Eventos...
+- Conocimiento de Python, Shell...
+- Conocimiento de JQuery Mobile
+- Desarrollo de aplicaciones móviles (Android, IOs, Windows Phone, RIM...), ya sea nativo o híbrido.
+- Conocimiento de entornos LAMP, Nginx, entornos escalables, etc.
+- Conocimiento del control de versiones GIT
+Con respecto a la persona, buscamos alguien apasionado de la informática y por lo tanto, de su trabajo: joven, con ganas de aprender, buscar, y probar cosas nuevas.
+Garantizamos que con nosotros nunca faltarán trabajos, nunca faltarán retos, un entorno de trabajo muy cercano, simpático, agradable, geek y joven.
+Requerimos que el/la candidato/a sea residente en Madrid ya que se realizarán diversas reuniones presenciales y nos gusta tener trato asiduo en persona con las personas con las que trabajamos.

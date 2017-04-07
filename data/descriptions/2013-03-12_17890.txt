@@ -1,0 +1,3 @@
+
+El puesto es para programar aplicaciones en objective-c para IOS y en JAVA para Android. 
+También es necesario saber html, php y mysql.

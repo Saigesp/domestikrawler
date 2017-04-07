@@ -1,0 +1,31 @@
+
+Importante empresa internacional busca Front End Engineer para formar parte del equipo IT que trabajara en sus nuevas instalaciones en el PTA de Málaga.
+Requisitos
+The ideal candidate will care deeply about design, user experience, and writing perfect code. They will take opportunities to challenge themselves and further their knowledge in a highly energized, fastpaced, and innovative environment. The Front End Engineer will be able to work closely with our design and product teams to translate wireframes and specs into fully functional, easytouse, responsive products across various devices.
+REQUIRED:
+● Bachelor’s degree in related field
+● 1+ years developing front end code on hightraffic
+consumer websites
+● Extensive experience with JavaScript
+● Experience with Backbone
+● Experience with jQuery
+● Experience with AJAX
+● Experience with HTML
+● Experience with CSS
+● Familiarity with agile development methodologies, particularly Scrum
+● Familiarity with distributed version control systems, particularly git
+● Excellent written and verbal communication skills
+PREFERRED:
+● Experience with Scrum
+● Experience with git
+● Experience with JavaScript testing frameworks such as Selenium
+Funciones
+● Engineer a superior user experience for our web properties
+● Design and develop front end code to seamlessly integrate with back end code
+● Work with and maintain existing JavaScript, jQuery, Backbone, CSS, and HTML
+code
+● Follow and promote UI/UX best practices and current web standards
+● Work alongside other team members on projects, integrate with their roles, and
+understand what is expected of the various roles on projects
+Ofrecemos
+Gross salary annual : Negotiable

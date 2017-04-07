@@ -1,0 +1,10 @@
+
+tSistemas, compañía especializada en el diseño e implementación de soluciones IT en entornos web. Business partner de IBM, Oracle Gold Partner, Microsoft Partner, Pitss, Atlassian y RedHat precisa incorporar a:
+Programador/a Phonegap
+Se requiere:
+- Al menos 1 año de experiencia en desarrollo con las siguientes tecnologías: 
+*** Phone Gap, HTML5, CSS3, JavaScript, Web Mobile.
+*** Valorable y/o conocimientos en:  Framewors javascript para móviles: JQuery mobile, Sencha Touch, media queruies
+Se ofrece:
+- Incorporación en un proyecto en Barcelona ciudad.
+- Formación interna en últimas tecnologías impartida por nuestro Dpto. de Formación.

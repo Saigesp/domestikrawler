@@ -1,0 +1,26 @@
+
+¡Hola!
+Emtrics nació hace 3 años en Madrid con el objetivo de ayudar al comercio brick and mortar a ofrecer un mejor servicio a sus clientes. Para ello el primer paso fue modernizar las encuestas de satisfacción, haciéndolas fáciles y rápidas.
+En 2011 nos seleccionó Wayra para su primera promoción de aceleración, y fuímos unos de los 5 nominados a Startup of the Year de los Spanish Startup Awards 2012, organizados por The Next Web.
+Hoy, con más de 180.000 encuestas respondidas y más de 1.000 clientes, algunos de la talla de Foster's Hollywood, Telefónica, Direct Seguros, Verti, MUJI, El Ganso, Meliá Hoteles o Dominos' Pizza, sabemos que vamos por buen camino.
+Nuestra próxima meta es ir a por el mercado internacional, para ello hemos lanzado un producto especifico para el sector de la hostelería: Keweno.
+Ahora mismo aún está en beta y tenemos muchas funcionalidades esperando en el backlog. Por eso buscamos a un ingeniero que nos ayude, a alguien que le interese el backend pero que no tenga problemas en tocar otras capas del stack.
+Ofrecemos
+- Flexibilidad en horarios y trabajo remoto parcial.
+- Salario competitivo en función de la experiencia.
+Nuestra cultura
+- Transparencia.
+- Entorno de trabajo ágil y pragmático.
+- Juego en equipo.
+- Todas las opiniones son importantes.
+- ¡Los viernes cocinamos!
+Requisitos
+- Conocimientos de OOP e Ingeniería del Software.
+- Experiencia con entornos Unix/Linux.
+- Conocimientos de Bases de Datos.
+- Buen comunicador, escrito y oral.
+- Inglés entendible escrito y hablado.
+- Responsable y pro-activo.
+Bonus points!
+- Experiencia en el uso de las tecnologias de nuestro stack: Ruby, Rails, Sinatra, CoffeSecript, JavaScript, Backbone, HTML, CSS, MySQL, AWS, GIT...
+- Experiencia en metodologías ágiles, especialmente SCRUM.

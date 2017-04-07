@@ -1,0 +1,12 @@
+
+Buscamos una persona especializada en el posicionamiento SEO/SEM para incorporarse a  un grupo empresarial consolidado y dedicado al mundo editorial. El puesto de trabajo se ubicará en Málaga junto con un equipo de profesionales e implicará las siguientes funciones:
+- Optimización para Motores de Búsqueda (SEO).
+- Conocer los términos, a qué target dirigirnos y todos los medios para posicionar  la tienda web en los distintos buscadores. Revisión de URL, Link building, etc.
+- Investigación sobre las actualizaciones de algoritmo y nuevas herramientas para una correcta indexación en Google.
+- Estar al tanto de los cambios tecnológicos para adaptar la WEB y lograr mejor rendimiento. Mejorar la navegabilidad de los usuarios en nuestra página para favorecer los flujos de tráfico y conseguir leads.
+- Estar al tanto de la seguridad del sitio: Hay que saber cómo mantener el Spam al mínimo para que no sea una molestia y que tampoco perjudique los recursos del servidor como también estar alerta frente a posibles ataques.
+- Administración: parte técnica, hosting, parches de seguridad, cumplimiento de las normas de los distintos buscadores, etc.
+- Configuración y segmentación de las listas de visitantes desde la cuenta de Google Adwords, usando un limitador de frecuencia de envío de los anuncios para no agobiar al usuario.
+- Participar en el desarrollo de campañas de marketing digital y/o movilización digitales eficaces y orientadas a resultados, aportando su experiencia.
+Para ello, el perfil requerido debe ser una persona con experiencia de entre 2-5 años en las tareas y funciones detalladas y especializado en el posicionamiento SEO/SEM. Debe tener conocimiento y experiencia con las herramientas de gestión de Google (Google Webmaster Tools) y Google Analytics realizando el alta de sitios, estrategias de eCommerce, creación de embudos de conversión, integración con Google Data Layer e implantación de Google Tag Manager. Debe estar habituado a trabajar con herramientas de análisis SEO/SEM como Woorank, SEMrush, Optimizely, etc. Igualmente tendrá que conocer lenguajes del lado del servidor y tener un nivel alto en HTML5, CSS3 y Javascript. Se valorará poseer conocimientos en PHP 5.4 o superior, SGBD relacionales (Oracle SQL,MySQL, MSSQL, etc.), PL/SQL y Oracle Application Express (APEX).
+Ofrecemos incorporación inmediata a proyecto empresarial consolidado con contratación indefinida y posibilidades reales de crecimiento profesional. Condiciones salariales negociadas individualmente.

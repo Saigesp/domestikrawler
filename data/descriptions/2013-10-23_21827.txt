@@ -1,0 +1,14 @@
+
+Está buscando UI/UX Architect para trabajar durante 6 meses en nuestra oficina de Barcelona.
+Buscamos persona dinámica, responsable, pro activa, que le gusta la tecnología y que sepa trabajar en equipo.
+Requirements &amp; Skills:
+-Technical profile / Smartphone &amp; Mobile development experience
+- Expert knowledge of usability principles and techniques
+- Experience in mobile UX device
+- Defining interactions, sitemaps, and wireframes based on requirements from the UX Architect 
+- Working with visual design teams comprising of visual and motion designers
+- Working with technical delivery teams to solve technical &amp; logical issues on UI design
+- Visualizing concepts to demonstrate ideas
+Tools used:
+- Axure RP / Pencil (GUI Prototyping tools)
+- Jira (Mgmt. tools)

@@ -1,0 +1,28 @@
+
+Importante empresa internacional busca Mobile Apps Developer para formar parte del equipo IT que trabajara en sus nuevas instalaciones en el PTA de Málaga.
+Requisitos
+● BS/MS degree in Computer Science, Engineering or a related subject
+● Proven working experience in software development
+● Working experience in iOS development
+● Have published one or more iOS apps in the app store
+● A deep familiarity with ObjectiveC and Cocoa Touch
+● Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and Core Text
+● Experience with thirdparty libraries and APIs
+● Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+● Solid understanding of the full mobile development life cycle
+● Familiarity with other mobile app development technologies is a plus (Android, etc.)
+● Knowledge of XHTML, HTML5, XML, CSS and Javascript a plus
+● Selfstarter with strong organization and time management skills
+● Experience working in a team environment
+● Excellent communication skills
+Funciones
+Mobile Developer with solid iOS Development Experience who ideally has experience building consumer mobile (publicly facing applications) using Native programming for iOS and uses SWIFT / OBJC/ Cocoa and who can help evaluate and decide when to use HTML5 or Native programming throughout the design and development of this product!
+● Design and build advanced applications for the iOS platform
+● Collaborate with crossfunctional teams to define, design, and ship new features
+● Unittest
+code for robustness, including edge cases, usability, and general reliability
+● Work on bug fixing and improving application performance
+● Continuously discover, evaluate, and implement new technologies to maximize
+development efficiency
+Ofrecemos
+Gross salary annual : Negotiable

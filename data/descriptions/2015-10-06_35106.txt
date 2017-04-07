@@ -1,0 +1,27 @@
+
+Hola!!,
+En alt120 comunicació interactiva s.l., queremos incorporar en el equipo un desarrollador front.
+Buscamos una persona con cierta experiencia en el desarrollo front, mínimo dos o tres años. 
+Requisitos necesarios: 
+- Maquetación HTML5/CSS3. 
+- Experto en HTML5, CSS3 y Javascript. 
+- Angular JS 
+- JS Frameworks (jQuery y similares) 
+- Less, SASS 
+- Conocimientos avanzados de frameworks como Foundation y Bootstrap 
+- Wordpress (a nivel programación, estructura y plugins). 
+- Conocimiento y capacidad de desarrollo Responsive Design 
+- Familiarizado con PHP y usabilidad. 
+- Desarrollo crossBrowser 
+- Sistemas de control de versiones (Git).
+Requisitos valorados: 
+- Conocimiento básico de usabilidad/accesibilidad Web (Standards). 
+- Capacidad creativa y pasión por el diseño. 
+- Organización. 
+- Atención a los detalles. 
+- Capacidad de autogestión. 
+- Transparencia.
+Salario: 
+-Contrato de 6-6meses + indefinido.
+Abstenerse agencias, estudios y equipos de desarrollo.
+

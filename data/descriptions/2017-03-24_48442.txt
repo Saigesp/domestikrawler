@@ -1,0 +1,35 @@
+
+En Zankyou queremos reforzar el equipo de desarrollo incorporando a un nuevo desarrollador o desarrolladora frontend. Buscamos personas con ganas de comerse el mundo que quieran formar parte de nuestro equipo en las oficinas de Madrid.
+El candidato ideal debe ser una persona dinámica, motivada y resolutiva, que no tenga miedo a los retos y que tenga muchas ganas de aprender y de compartir conocimientos con el resto del equipo. Somos una piña, nos gusta aprender los unos de los otros para crecer personal y profesionalmente.
+ Actualmente, somos una empresa que cuenta con más de cien personas donde reina el buen ambiente y el compañerismo. Hemos crecido mucho en los últimos años y contamos con personas de diferentes culturas y países, ya que tenemos presencia en Rusia, Polonia, Holanda, Francia, Alemania, Suiza, Portugal, España, Brasil, Perú, Colombia, México, Chile, India, USA, UK,… lo que crea una atmósfera de trabajo diversa y enriquecedora.
+Para formar parte de la familia Zankyou debes cumplir los siguientes requisitos:
+- Formación técnica superior (Ingeniería informática, Formación profesional Superior rama técnica...).
+- Espíritu emprendedor, autonomía y madurez.
+- Altos conocimientos en HTML y CSS.
+- Dominio de maquetación RWD (multidispositivo/multiplataforma).
+- Experiencia trabajando con Bootstrap.
+- Capacidad para trabajar en equipo y habilidades organizativas.
+- Profesionalidad y responsabilidad en el cumplimiento de las entregas pactadas.
+- Capacidad para trabajar en inglés.
+Bonus point
+Algún conocimiento de control de versiones (Git).
+Conocer la metodología BEM.
+Estándares W3C.
+Conocimientos de JS, jQuery/UI/mobile.
+Conocimientos de pre-procesadores de CSS (Sass).
+Alguna experiencia trabajando con Gulp, Grunt, nodejs.
+Responsabilidades
+- Definir el markup (HTML/CSS) para que los backs puedan implementar su funcionalidad.
+- Asegurar la viabilidad técnica de la interfaz de usuario generada por los Product Managers y el equipo de diseño.
+- Mantener y seguir las guías de estilo generando código escalable.
+- Proponer mejoras de interfaz acorde a los estándares web y al equipo de diseño.
+- Implicación, ganas de trabajar y aprender en equipo.
+- Maquetar manteniendo estándares web y de accesibilidad.
+¿Qué ofrecemos?
+Unirte a un proyecto en pleno crecimiento y con enormes posibilidades de desarrollo profesional.
+Entorno de trabajo joven y dinámico donde reina el buen ambiente.
+Crecimiento personal en un entorno internacional.
+Carrera profesional y formación acorde.
+Info adicional
+En Zankyou nos encanta el deporte. No tenemos un club de corredores como tal, pero somos muchos los que solemos salir juntos a entrenar. Tenemos algunos maratonianos en nuestras filas, otros mediomaratonianos y gente de distancias más cortas ;)
+ Solemos hacer fiestas de empresa durante el año y alguna que otra escapada a la sierra, ¡el buen rollo está asegurado! Y, en particular, en el equipo de desarrollo, solemos quedar bastante para comer y tomar unas cañas.

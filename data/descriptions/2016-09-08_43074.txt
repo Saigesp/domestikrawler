@@ -1,0 +1,14 @@
+
+Buscamos una persona con experiencia en el desarrollo web, tanto frontend como backend, para apoyarnos en tudomus.com. 
+Tudomus es una comunidad inmobiliaria donde los usuarios se ayudan en la compra, venta y alquilar de casas.
+Requisitos:
+	PHP, con experiencia en JOOMLA. 
+	HTML5. 
+	CSS3. 
+	Maquetación responsive, Bootstrap. 
+	JavaScript / jQuery. 
+	MySQL. 
+	GIT.
+El trabajo es en remoto, con contacto continuo via hangouts o similar. Es necesario dedicación completa.
+Se establecerán objetivos semanales o quincenales: 380€/Semana
+Duración aproximada: 3 meses.

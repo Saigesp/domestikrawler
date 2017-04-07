@@ -1,0 +1,25 @@
+
+¿QUIÉNES SOMOS?
+El Padre de Julio Verne es una agencia de comunicación innovadora, que acaba de lanzar al mercado una aplicación de telefonía móvil (multidisciplinar) de ofertas y promociones cercanas al usuario. 
+¿QUÉ BUSCAMOS?
+Estamos diseñando nuevos productos, tomando como base la citada app. Para ello buscamos un desarrollador (Androide / iOS), en la modalidad de freelance,  que tenga ganas de sumarse a un equipo emprendedor.
+¿QUÉ ESPERAMOS?
+• Experiencia en desarrollo profesional de software. 
+• Experiencia en desarrollo y lanzamiento de aplicaciones para Android e iOS, ya sea personal o profesionalmente.  
+• Dominio de iOS, Swift y Apple SDK. 
+• Dominio de Google Android y Java.  
+• Experiencia en el manejo de la cuenta de developer.apple.  
+• Experiencia en subir aplicaciones a la Google Play Store.
+• Experiencia en integración de servicios REST. 
+• Experiencia haciendo APP nativas.
+¿QUÉ OFRECEMOS?
+• La oportunidad de trabajar en lo que te apasiona.
+• Horario flexible (tú gestionas tu tiempo).
+• Fijo por proyecto (variable en función de la valía del candidato).
+¿NIVEL DE ESTUDIOS?
+• Preferiblemente, formación universitaria en Ingeniería Informática. 
+• Se valorará si se conocen idiomas adicionales, principalmente inglés.  
+¿LUGAR DE TRABAJO?
+Localización: Castellón.
+
+

@@ -1,0 +1,21 @@
+
+Buscamos programador senior PHP con experiencia contrastada para integrarse en el equipo multidisciplinar de  www.viajes.com 
+Requisitos:
+- Titulado en Ingeniería Informática o Grado en Ingeniería Informática.
+- Conocimientos de programación en PHP, Mysql, Javascript
+- Conocimientos de HTML y CSS 
+- Conocimientos de frameworks web MVC (CakePhp o similiar) 
+- Capacidad analítica y resolución de problemas. 
+- Capacidad de trabajo en equipo. 
+Se valorará: 
+- Conocimientos de Python 
+- Conocimientos de jQuery 
+- Conocimientos de bases de datos  NoSQL 
+- Experiencia en el uso de repositorios de código ( SVN, Git ... ) en proyectos de varios programadores.
+Se ofrece: 
+- Trabajo presencial en Sant Just Desvern, Barcelona . 
+- Jornada laboral : Lunes a Jueves 8:30 a 18h Viernes 8:30 a 14:30 h ( 40 horas / semana ) 
+- Equipo joven y dinámico 
+- Formación continua 
+- Sueldo competitivo.
+Incorporación inmediata.

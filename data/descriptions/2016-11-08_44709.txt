@@ -1,0 +1,18 @@
+
+¡En mobusi buscamos un par de frontends para incorporarse a nuestro equipo! Si te gustan los retos y tienes ganas de trabajar en una empresa con un gran equipo, sigue leyendo :)
+Te contamos un poco qué estamos buscando:
+- Estamos buscando profesionales que sepan hacer maquetaciones con estilo, similares a las webs que podrás ver en thebestdesign.com
+- Es fundamental tener portfolio online o urls de trabajos realizados especificando qué has hecho en ese proyecto. Si no tienes un portfolio online descartaremos la candidatura. 
+- Imprenscindible cumplir con los requisitos. Se hará una prueba técnica de maquetación.
+- No hacemos pruebas a distancia ni aceptamos candidaturas de no residentes en Madrid.
+- CSS3, HTML5, Javascript y jQuery. 
+- Que trabaje con Sublime Text, Less y Modernizr 
+- Que controle la maquetación responsive y sepa interpretar un diseño según el dispositivo.
+- Que controle Bootstrap.
+- Nos gustan los trabajos con elementos animados. Un hover con en efecto sutil y chulo, un parallax fluido, una transición elegante. 
+- Necesitamos que maquetar una simple newsletter no se convierta en un parto. 
+- Que sea detallista y sepa diferenciar un interlineado de 24px y 36px... 
+- Código limpio, semántico y siguiendo los estándares marcados por el W3C. 
+- Buenos conocimientos UI, accesibilidad. 
+- Conocimientos básicos del paquete Adobe Creative Suite. Necesitamos que el candidato sepa recortar imágenes, medir interlineados, etc...
+Imprenscindible cumplir con los requisitos. Se hará una prueba técnica de maquetación.

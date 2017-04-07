@@ -1,0 +1,58 @@
+
+Web Programmer Analyst   
+ 
+¿QUÉ BUSCAMOS?
+Queremos incorporar un analista - programador experto en PHP5, que domine la programación orientada a objetos, el modelo vista controlador y la optimización de MySQL.
+¿QUE OFRECEMOS?
+-Desarrollo de plataforma web con gestor de contenidos y pasarelas de pago.
+-Administración Web.
+-Desarrollo evolutivo de la web corporativa neosono.es
+-Intercomunicación con los departamentos de Marketing y Multimedia (Diseño) de Neosono.
+Requisitos profesionales:
+-Experiencia en desarrollo con PHP5 (Frameworks, sirva de ejemplo Zend, CodeIgniter, Symfony).
+-Experiencia en  MySQL.
+-Dominio de patrones de diseño (especialmente MVC)
+-Experiencia en maquetación (HTML/CSS) y frontend (javascript, jQuery)
+-Experiencia en CMS (sirva de ejemplo: Joomla, Drupal, Wordpress, …)
+-Experiencia en eCommerce e integración de pasarelas de pago.
+-Experiencia en WebServices (SOAP, REST).
+ -Conocimientos avanzados en Usabilidad Web.
+-Dominio a nivel profesional de MacOS (Apple).
+-Alto nivel en software ofimático: Word/Pages, Excel/Numbers.
+-Nivel alto de Inglés y Castellano.
+ (Nota: Experiencias demostrables)
+ Requisitos personales:
+ -Motivación por el trabajo a realizar.
+-Empatía y Asertividad.
+-Proactividad.
+-Capacidad de orden y Planificación.
+-Creatividad.
+-Alta capacidad de aprendizaje, adaptación y dinamismo.
+-Optimismo.
+-Esfuerzo y poder de superación.
+-Capacidad 'Brainstorming', trabajo en equipo.
+ 
+Se valorará adicionalmente:
+-Experiencia con APIs de Redes Sociales.
+-Conocimientos en metodología de trabajo SCRUM.
+-Experiencia en Administración Web y Servidores Virtuales Linux.
+-Experiencia en Desarrollo de Apps para iPhone, iPad y Smartphones Android.
+-Diplomaturas, Licenciaturas, Masters.
+-Referencias.
+ 
+Se ofrece:
+-Incorporación inmediata.
+-Jornada Completa.
+-Contrato Indefinido.
+-Ubicación: en nuestras oficinas del 'Parc Tecnològic Barcelona Nord' (Barcelona).
+-Horario:
+LU-JU 8:30-13:00h 14:00-18:00h
+VI (intensivo todo el año): 8-14:00h
+Flexibilidad a la entrada y a la salida.
+Horario intensivo todos los días del mes de Agosto.
+Sueldo: Fijo + variable por Objetivos
+ 
+Si estás interesado haznos llegar:
+- CV
+- Trabajos realizados (portfolio, links, ...)
+ por email a: rrhh@neosono.com

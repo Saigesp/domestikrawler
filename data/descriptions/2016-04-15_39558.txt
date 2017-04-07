@@ -1,0 +1,17 @@
+
+Para incluir en nuestro equipo de trabajo en un importante medio de comunicación, necesitamos un perfil con que cumpla los siguientes requisitos
+-Traducir conceptos complejos a un sencillo y agradable interfaz pixel-perfect 
+-Comprender las necesidades del usuario. 
+-Desarrollar flujos de navegación 
+-Definir interfaces que ofrezcan experiencias de usuario óptimas. 
+-Diseñar desde cero el aspecto gráfico y visual de aplicaciones y herramientas 
+para plataformas de todo tipo web móviles. 
+-Conocimientos avanzados de herramientas de diseño como Illustrator y 
+Photoshop. 
+-Prototipados 
+-Maquetación web con CSS3 y HTML5 
+-Experiencia en diseño en dispositivos móviles 
+-Creatividad proactividad y capacidad para trabajar en equipo
+Al menos tres años de experiencia demostrable mediante Portfolio. 
+Se valorará conocimiento de:
+JavaScript, JQuery, motion graphics, infografía e ilustración, herramientas como adobe animat y After Effects

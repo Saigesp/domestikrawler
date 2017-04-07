@@ -1,0 +1,10 @@
+
+REQUISITOS:
+– Ingeniero Técnico.
+– Conocimientos sólidos en HTML, CSS y Javascript.
+– 2 años de experiencia desarrollando aplicaciones web. (Si no tienes experiencia, adjunta tu repositorio github o similar para ser valorado).
+OFERTA:
+– Necesitamos incorporar un programador front-end con experiencia en HTML, CSS y Javascript.
+– Se valorarán conocimientos y experiencia previa en Ruby on Rails, HAML, Coffescript/Typescript, SASS y Foundation u otros frameworks CSS.
+LA EMPRESA:
+Yourszene es una empresa joven y dinámica en la que podrás desarrollar todo tu potencial y creatividad colaborando con un equipo de gente apasionada por la tecnología y el diseño. Queremos ser la red social global para las artes escénicas y queremos que formes parte de nuestro proyecto.

@@ -1,0 +1,8 @@
+
+Agencia digital de marketing on-line precisa de manera inmediata, un Integrador/ programador PHP 5.0 FREELANCE para la integración de TPVs virtuales en paginas webs, de pasarelas de pago Credit Card, en los trabajos de e-commerce desarrollados para sus clientes sobre framework propio CMS, trabajo on-site. Se requiere experiencia en este tipo de integraciones con TPV redsys. 
+Conocimientos técnicos:
+-PHP
+-MySql
+-phpMyAdmin
+-HTML
+-CSS

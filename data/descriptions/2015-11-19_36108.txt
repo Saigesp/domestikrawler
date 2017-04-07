@@ -1,0 +1,8 @@
+
+PROGRAMADOR PHP se precisa para el desarrollo y mantenimiento de una aplicación/web social que ya se encuentra ampliamente desarrollada y con un gran número de usuarios activos.
+Los requisitos indispensables son amplios conocimientos en PHP, MySQL, Java/Android y JavaScript/jQuery.
+Son deseables también conocimientos de otras tecnologías como NodeJS, Smarty y KnockoutJS así como soltura en sistemas Debian Linux.
+Las tareas principales a desarrollar serán:
+- Mantenimiento, diseño y desarrollo de las funcionalidades de la web
+- Interconexión de los elementos a través de webservices
+- Uso de las herramientas de Google Analytics para búsqueda de mejora e incremento en la captación.

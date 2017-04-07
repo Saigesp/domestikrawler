@@ -1,0 +1,32 @@
+
+En Iwantic, estamos buscando un IT Product Developer para una gran compañía del sector tecnológico en Barcelona.
+Buscamos un profesional que se caracterice por tomar decisiones y resolver problemas, y al que le apasionen las tecnologías Web, programación, tendencias online e Internet.
+La persona a incorporar trabajará en la mejora de software interno, en la creación/desarrollo de proyectos de ámbito Web e integraciones en redes sociales, entre otros.
+Formación deseada:
+· Ingeniería o Doctorado en Informática, Matemáticas, Física o similar 
+· Vocación numérica/analítica 
+Experiencia técnica deseada:
+· Experiencia en programación (Python, PHP, Java, C++, C, o Javascript) 
+· Desarrollo de aplicaciones mediante frameworks MVC.
+· Conocimientos de BD relacionales o NoSQL (Diseño, Implementación, Consultas, Gestión) 
+· Comunicación con aplicaciones distribuidas como API's (Gestión de peticiones) 
+· Transaccionalidad en protocolos HTTP (Peticiones/Respuestas)
+Otros aspectos que se valorarán: 
+· Experiencia en explotación y análisis de datos (Data mining) 
+· Desarrollo mediante API's de terceros como Google, Facebook, Twitter, etc. 
+· Utilización de frameworks en PHP como Symfony, Zend, Yii, etc. 
+· Conocimiento en BD (NoSQL) o PL/SQL 
+· Librerías js como Angular, Prototype, Backbone, etc. 
+· Conocimientos en gestión de sistemas bajo Linux 
+· Conocimientos en lenguajes Shell o Perl 
+· Conocimiento sobre servicios en Amazon Web Services 
+· Capacidad para realizar tareas de Analista Programador 
+· Conocimiento de herramientas de control de versiones de código (GIT) 
+· Uso habitual de herramientas Web debugging (Firebug, Webkit Web Inspector, Web Sniffer, etc)
+Actitudes: 
+· Proactividad 
+· Liderazgo 
+· Comunicación 
+· Pasión / Motivación por aprender 
+· Capacidad de trabajar en equipo y atención al detalle
+

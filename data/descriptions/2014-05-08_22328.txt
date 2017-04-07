@@ -1,0 +1,22 @@
+
+Eres un apasionado de las nuevas tecnologías, proactivo, con alma de programador y con muchas ganas de aprender. Te gustan las cosas bien hechas, el detalle, las buenas prácticas en el desarrollo sw.
+Somos la empresa del grupo Startic (BqReaders, MemoriasUSB.com) que diseña y cocina todas las interfaces del grupo. Gestionamos las webs corporativas del grupo y las de los distintos proyectos con clientes externos. Tenemos amplia experiencia en comercio online e integración con sistemas de gestión comercial y financiera. Las empresas del grupo son líderes en sus respectivos sectores, con presencia en Europa, Asia y Latinoamérica.
+Ofrecemos:
+
+Estabilidad laboral
+Horario flexible
+Seguro médico con Cigna
+Conciliación de la vida laboral y familiar (se trabajan las horas salvo excepciones que lo son de verdad)
+Grupo en crecimiento (hemos triplicado empleados este año)
+
+Imprescindible:
+
+Conocimientos demostrables en PHP5 (OOP).
+MVC, patrones de desarrollo. 
+Atención a los detalles, gusto por las cosas bien hechas.
+
+Valoraremos:
+Frameworks de PHP
+Proyectos propios, opensource.
+Participación en la comunidad.
+Ser capaz de trabajar con una mínima supervisión y con capacidad para tomar la iniciativa. 

@@ -1,0 +1,7 @@
+
+Busco a un programador de x-code para el desarrollo de una app relativamente sencilla. Se trata de una aplicación con una lista de cortes de audio que sonarán al ser pulsadas. Como las app "iRecio" o "iChiquito", pero con otro personaje conocido.
+Probablemente con Interface Builder se pueda hacer todo y en pocas horas, pero valorare que tenga conocimientos en objective-c. 
+Todos los elementos y el diseño de la misma vendra hecho.
+Es muy importante que puedas enseñarme alguna app terminada y que sepas incorporar iAds a la app.
+Y ahora a lo más importante, la remuneración:
+Puedo pagarte las horas de desarrollo que emplees en el proyecto o bien el porcentaje de beneficios generados por iAds que consideremos ambos en base a tu aportación, prefiero que eso lo elijas tu ya que también depende de cuanto te quieras implicar.

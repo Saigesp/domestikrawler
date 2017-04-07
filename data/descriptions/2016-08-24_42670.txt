@@ -1,0 +1,13 @@
+
+Somos una empresa en pleno crecimiento con un equipo profesional, joven y multidisciplinar. 
+Debido a nuestro importante crecimiento y desarrollo de proyectos tecnológicos estamos buscando un BECARIOS PROGRAMACIÓN PHP.
+Te incorporarás a un equipo cualificado, joven y multidisciplinar con posibilidad de incorporación a plantilla y desarrollo profesional.
+Dependiendo del director de proyectos las funciones a realizar son las siguientes:
+- Desarrollo y gestión de portales
+- Desarrollo de webs
+- Desarrollo de plataformas de empresas
+Requisitos:	
+- Conocimientos de PHP, maquetación y Wordpress
+- Valorable conocimientos de javascript, jquery, css3, html5 y mysql.
+- Posibilidad de adherirse a un convenio de prácticas
+ 

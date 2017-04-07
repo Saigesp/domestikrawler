@@ -1,0 +1,33 @@
+
+PERFIL DE SISTEMAS
+Conocimientos técnicos: 
+•	Servidores Windows: Active Directory; gestión y mantenimiento a nivel lógico de una empresa de las características de Zigurat (dominios, usuarios, permisos). 
+•	Servidores Linux: deseable para poder manejarse con los futuros servidores web, pero no imprescindible. 
+•	Redes: cableado estructurado; mantenimiento de una red local para dar servicio a una oficina, tanto a nivel lógico (configurar clientes, servidores y enrutadores…) como físico (cablear, grimpar y probar cableado existente y nuevo). 
+•	Hardware: simplemente que esté al día y que haya tenido experiencia reparando equipos informáticos.
+Capacidades: 
+•	Realizar un análisis de requerimientos para planificar y diseñar una estrategia. Que pueda ser capaz de reestructurar toda nuestra infraestructura de servidores para poder dar un servicio optimo y a poder ser ahorrar costes, o como mínimo ahorrar tiempo de gestión. 
+•	Comparar productos en materia de tecnología y decidir cual conviene más para adquirirlo, en función de las necesidades.
+Tareas que deberá realizar : 
+•	Mantenimiento de los servidores internos de la oficina. 
+o	Alta, baja y modificación de usuarios del dominio. 
+o	Copias de seguridad de los datos que se generan diariamente. 
+o	Renovación o ampliación del hardware. 
+o	Controlar el buen funcionamiento de los servidores a todos los niveles (espacio en disco, temperatura, particiones de disco, etc.).
+•	Monitorización de los servidores externos: 
+o	Copias de seguridad de los datos. 
+o	Estructura y organización de la información. 
+o	Controlar la capacidad de proceso y sobrecarga.
+•	Redes locales: 
+o	Cablear tramos de red cuando sea necesario. 
+o	Grimpar cableado de red. 
+o	Instalar switches y configurar enrutadores. 
+o	Configurar equipos cliente y servidores para el correcto funcionamiento en red local.
+•	Internet (externo): 
+o	Configurar DNS de dominios. 
+o	Adquirir dominios, traspasarlos entre operadores. 
+o	Dimensionar adecuadamente la estructura de red. 
+o	Gestionar los sistemas operativos cliente (Windows).
+•	Hardware: 
+o	Adquirir material informático/tecnológico cuando sea necesario. 
+o	Mantener el equipamiento actual.

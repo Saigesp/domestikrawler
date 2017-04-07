@@ -1,0 +1,48 @@
+
+Empresa de desarrollo web y móvil con más de 12 años en el sector busca Desarrollador con experiencia mínima de 5 años en aplicaciones web nativas (Java, PHP, JScript, Bootstrap, Parallax, etc.) y móviles para iPhone/iPad y Android (Nativo XCode, Swift, Java, etc.) con experiencia demostrable de desarrollo de aplicaciones.
+Necesitamos que domines: 
+- HTML 5 
+- CSS 3 
+- JavaScript 
+- Polymer 
+- Ajax y JSON 
+- Bootstrap
+- XCode
+- Objective-C
+- XML
+- Swift
+- Parallax
+- PHP
+- Phyton
+- Django
+- Java (J2SE, struts, HTML, etc.)
+- SQL,  SQLite, MySQL
+- CPanel
+- SDK´S Android, iOS
+- Magento
+- Prestashop
+- API Google Maps a nivel muy avanzados (trazado de rutas, geolocalización, geoubicación, espectros geográficos, monitoreo de avance en ruta, etc.)
+- API Facebook, Twitter y G+.
+- Administradores para manejo de aplicaciones web y móviles (WEBSERVICES).
+- Desarrollo y creación de Webservices para conexión de CMS con las aplicaciones móviles
+- Experiencia en Responsive Web Design 
+- LESS o SASS 
+- GIT 
+- Automatización de tareas (Gulp, Grunt)
+- Control del rendimiento y calidad de las aplicaciones. 
+- Mantenimiento de la calidad del código. 
+- Conocimiento de control de versiones y publicación en Google Play Store y App Store. 
+- API Paypal (opcional pasarelas de pago móvil con Authorize, "checkout)
+- Generación de códigos QR en dispositivos móviles y web.
+- Desarrollo en arquitectura de 3 capas. (ej. admin maestro, usuarios administrativos, clientes o usuarios finales)
+- Saber cortar imágenes en Photoshop para el armado de las interfaces, según las plataformas necesarias.
+- Efectos y animaciones para web y móviles.
+- Conocimientos de Testflight / Crashlytics
+- Aplicaciones NFC y Productos NFC
+- Conexiones Bluetooh (lectores ópticos, lectores de huellas dactilares, cajones de dinero, impresoras, etc.)
+- Creación de certificados para compilación de aplicaciones iOS
+Ademas se tomará en cuenta si maneja alguno de los siguientes frameworks:
+Implementación, adecuación, creación de webservices y desarrollo de módulos para: Prestashop, Magento, Angular, Sencha, Titanium, etc.
+De preferencia manejar Prestashop y Magento mínimo, así como Laravel.
+Se valorará si el candidato tiene más conocimientos que puedan beneficiar los desarrollos. 
+

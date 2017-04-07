@@ -1,0 +1,9 @@
+
+Somos un estudio creativo integrado por un equipo de profesionales unidos por la misma pasión, la comunicación. Creemos en el trabajo en equipo y en la importancia del detalle en un contexto global. Nos implicamos para lograr una identidad visual eficaz y original.
+¿Qué buscamos?
+Buscamos un programador Web para que colabore con nosotros en la realización de varios proyectos web.
+¿Cuáles son los requisitos?
+- Conocimiento avanzado en desarrollo PHP, Javascript, AJAX y JSON. MySQL 
+- Conocimientos de SEO 
+- Conocimiento avanzado con CMS (Wordpress, Shopify, etc.)
+- Experiencia demostrable

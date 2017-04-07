@@ -1,0 +1,17 @@
+
+Desde Nuclio Venture Builder buscamos un perfil Android Developer Junior para incorporarse en una startup de nueva creación: Kynda.
+Kynda, startup de nueva creación situada en Barcelona,es una aplicación que te permite reservar un fisioterapeuta dónde y cuándo lo necesites.
+¿Qué ofrecemos?
+Entorno joven, dinámico e internacional. 
+Desarrollo de producto en entornos ágiles: Startup Lean. 
+Oportunidad de crecer profesionalmente gracias a nuestro stack: 
+- Backend: Golang 
+- Apps: Swift & Android. 
+Prácticas en media jornada con convenio universitario. 
+Horario flexible.
+Requisitos:
+- Conocimientos en programación orientada a objetos. 
+- Conocimientos en tecnologías web: JavaScript, HTML5 & CSS3
+- Experiencia con MVC frameworks como AngularJS, ReactJS, EmberJS, etc.
+- Es un plus: Se valorará experiencia con APIs Rest y bases de datos. 
+- Estudiante de ingeniería informática o similar.

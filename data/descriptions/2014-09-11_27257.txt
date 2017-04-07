@@ -1,0 +1,18 @@
+
+Empresa líder del sector e-commerce ubicada en Pozuelo de Alarcón selecciona una persona en concepto de beca para nuestro departamento de Programación.
+Las Funciones que realizará la persona seleccionada son:
+- Ayuda con la administración, mantenimiento y configuración de la red de tiendas online de la empresa. 
+- Desarrollo y adaptación de nuevas características, integraciones y mejoras en la red de tiendas y sitios online. 
+- Trabajo y colaboración directa con otros departamentos, Marketing, Ventas, SEO, Diseño. 
+Ofrecemos:
+- Una beca por un periodo de mínimo 6 meses, con posibilidades reales de incorporación. 
+- Remuneración como ayuda al estudio. 
+Requisitos solicitados:
+- Estudios en ingeniería informática, telecomunicaciones o Grado superior FP programación. 
+- Manejo de plataformas de comercio electrónico como Magento 
+- Conocimientos en desarrollo PHP, gestión MySQL 
+- Capacidad de gestión, planificación y coordinación de tareas. 
+Se valora:
+- Conocimientos en gestión de servidores y redes Linux, Apache, SSH, FTP 
+- Haber realizado proyectos web propios o para terceros. 
+- Nivel alto de inglés

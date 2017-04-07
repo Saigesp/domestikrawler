@@ -1,0 +1,9 @@
+
+About
+As a software engineer within our engineering team you will be part of building, updating and streamlining our products. This is a role for a hands-on systems programmer well versed in Python and cloud based web architecture.
+Responsibilities Designing and improving tools and systems built with Python and potentially other languages including Java or Go Work with the team to design the optimal application architecture Work with DevOps approach where we both build and run our code Help with various infrastructure we are using Help optimize application performance Work to improve or replace web architecture Help make the overall application more secure and scalable Additional Requirements
+Experience with Networking, Linux, scripting, cronjobs, etc.
+Knowledge about databases and search (e.g. Cassandra, Elasticsearch)
+Other Information
+Bonus point for:
+Worked in the field of Cyber Threat Intelligence (STIX / TAXII)Helped build IT Security ProductHave experience in SaaS platformsValue methods and frameworks like Scrum, Kanban and LeanUnderstand the power of learning and teaching

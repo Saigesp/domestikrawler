@@ -1,0 +1,44 @@
+
+Descripción de la oferta de trabajo
+LaComunity es una start-up en Barcelona del sector del alquiler vacacional en constante crecimiento que aspira no sólo a ofrecer la cartera más amplia y variada posible para clientes particulares y agencias, sino también a ofrecer un producto de calidad, interesante y bien situado, con las mejores oportunidades.
+Buscamos un perfil de Backend PHP Senior Developer con un nivel de experiencia avanzado (3 años mínimo), para incorporarse a nuestro equipo técnico. La creciente expansión de nuestra start-up ha incrementado las necesidades técnicas de la empresa, haciendo vital el desarrollo de nuevas funcionalidades, la refactorización de aquellas que podrían funcionar mejor y el mantenimiento y ampliación de las ya existentes.
+Tus tareas incluirán desde el desarrollo de nuevas funcionalidades para y el mantenimiento de nuestra API, al análisis e integración de nuevos servicios de datos en nuestros sistema, pasando por el soporte técnico a nuestros diferentes partners externos y a los demás departamentos de la empresa. Sólo rediseñamos código cuando es realmente necesario, por lo que la refactorización y optimización de funcionalidades ya existentes también puede caer en tus manos. Finalmente, tenemos un par de nuevos proyectos que pronto entrarán en fase de planificación y diseño, para los que requeriremos también un par de manos cualificadas.
+Responsabilidades
+- Escribir código eficiente, limpio, mantenible, escalable y reutilizable
+- Desarrollar y desplegar nuevas funcionalidades y herramientas...
+- ...y documentarlas adecuada y detalladamente
+- Encontrar, probar, diagnosticar y solucionar problemas de software y bases de datos en nuestro sistema
+- Identificar y solucionar problemas de rendimiento y escalabilidad
+- Participar en la toma de decisiones para el desarrollo de nuevas funcionalidades
+- Analizar las diversas alternativas de implementación para llegar a la mejor solución técnica
+- Crear especificaciones detalladas de las tareas asignadas, así como reportar adecuadamente y ofrecer visibilidad a los demás departamentos respecto a su progreso 
+Conocimientos Técnicos
+- Programación orientada a objetos OOP
+- PHP 5+, MySQL, Apache/NGINX
+- Conocimientos sólidos de SQL y optimización de tablas y consultas
+- Experiencia con los frameworks Laravel y/o Symfony2/ZF2
+- Experiencia utilizando sistemas de control de versiones (Git)
+- Integración de aplicaciones SOAP
+- Desarrollo de APIs-REST o integración de APIs y servicios de datos externos
+- Patrones de diseño e ingeniería del software
+- Inglés nivel profesional
+Otras habilidades
+- Trabajo en equipo
+- Adaptación y autosuficiencia
+- Autocrítica
+- Si tiene un manual, lo puedes aprender
+Valorable
+- Experiencia en plataformas online de reserva de hoteles, alquiler vacacional o similares
+- Conocimientos de metodologías ágiles (SCRUM/KANBAN) y las herramientas de gestión relacionadas (Jira)
+- Conocimientos básicos de administración de sistemas
+- Haber trabajado con virtualización (Vagrant/Docker)
+- Integración Continua, Unit testing (Jenkins)
+- Conocer Redis/Varnish
+- Amazon Web Services
+Ofrecemos
+- Salario a negociar según experiencia del candidato. 25.000 euros brutos anuales + incentivos.
+- Oficina bien comunicada en el centro de Barcelona.
+- Voz y voto en la toma de decisiones técnicas.
+- Ambiente de trabajo distendido e informal.
+- Oportunidad de evolucionar profesionalmente en una empresa en plena expansión y con una alta proyección de crecimiento.
+

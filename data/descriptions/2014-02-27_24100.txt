@@ -1,0 +1,28 @@
+
+IN2, Ingeniería de la Información somos una empresa que ofrece servicios de alto nivel tecnológico en el ámbito de los sistemas de información.
+La visión de IN2 es ser una empresa Innovadora, de Soluciones Tecnológicas en ámbitos concretos de mercado, de Alta Calidad, Rentable, de Prestigio y Marca conocida, que cree firmemente que su principal activo son las personas y sabe colaborar con sus "partners" en la consecución de sus objetivos.
+Nuestro Objetivo es ofrecer Servicios de Alto Valor en Proyectos y Estrategias sobre Tecnologías de la Información.
+En la actualidad precisamos incorporar a nuestro equipo de Desarrollo de alto rendimiento 2 Analista-Programadores con experiencia en proyectos WEB en tecnología .NET y C#.
+Ofrecemos:
+-Contrato Indefinido.
+-Salario en función de experiencia + 100€ mensuales en concepto de transporte + menú empresa 3€ (o uso office) + Plan formativo en .NET e Inglés.
+-Inicio a partir de Enero.
+Buscamos a gente dinámica y pro-activa con experiencia en las tecnologías indicadas y consolidada experiencia en proyectos web.
+Requisitos:
+Estudios mínimos: Ciclo Formativo Superior - Informática
+Experiencia mínima: De 3 a 5 años
+Imprescindible residente en: Provincia Puesto Vacante
+Requisitos mínimos:
+3-5 años de experiencia en las siguientes tecnologías:
+-ASP.NET, ADO.NET y C#.
+-Framework 3.5 y 4.0.
+-VB .NET
+-MVC.
+-Javascript, html y CSS.
+Requisitos deseados:
+Experiencia en Patrones de Diseño (Inyección de Dependencias, Metodologías Solid...)
+Tipo de contrato:
+Indefinido
+Jornada laboral:
+Completa
+Horario: L-V 9 A 18H

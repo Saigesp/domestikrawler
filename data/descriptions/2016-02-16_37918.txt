@@ -1,0 +1,13 @@
+
+Funciones
+     Gestión de un  proyecto de intercambio de información entre diferentes sistemas. El candidato deberá desarrollarlo, desde la creación de requerimientos inicial hasta la implementación del proyecto.
+     Contacto con diferentes interlocutores para la recepción de información y validación de la misma.
+     Reporte del estado del proyecto al cliente.
+Requisitos
+     Experiencia en la gestión de proyecto, desde la creación de requerimientos hasta la consecución de los mismos.
+     Experiencia en bases de datos relacionases (Oracle, Sql Sever y MySql)
+     Necesarios conocimientos en programación de backend para desarrollar el proyecto.
+     Imprescindible alto nivel de inglés tanto escrito como hablado.
+     Deberá trabajar en nuestra oficina en Madrid
+     La duración del proyecto será de 3 o 4 meses
+     Valorable conocimiento del sector de la automoción.

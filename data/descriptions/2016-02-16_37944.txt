@@ -1,0 +1,11 @@
+
+Atlántida TI cuenta con más de 20 años de solidez empresarial en mercado español de las Tecnologías de la información y las comunicaciones. Colaboramos con las mayores compañías nacionales e internacionales, aportando la experiencia y el conocimiento del modelo de negocio
+Ofrecemos Una gran oportunidad de desarrollar tu carrera profesional potenciando tus conocimientos y habilidades en un entorno de trabajo joven, dinámico y de alta motivación en el que todos los miembros apuesten por un proyecto de FUTURO. Fomentamos la participación activa, la involucración directa y personal de cada uno de nosotros y en cada uno de los proyectos en que participamos
+Necesitamos: Imprescindible experiencia previa en proyectos complejos en -diferentes CMS, especialmente Drupal.
+Experiencia mínima de al menos 2 años
+Requisitos mínimos:
+Programación en Php y Jquery. y entornos de programación abiertos
+Usablilidad. Accesibilidad
+Creación de tipos de contenido, vistas, gestión de usuarios, reglas
+Se valorará experiencia en:
+Maquetación Html5, css3, diseño adaptativo - Responsive Web Design

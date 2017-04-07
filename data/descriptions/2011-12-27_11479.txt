@@ -1,0 +1,55 @@
+
+QUIENES SOMOS: JOBANDTALENT.COM
+• Somos un start-up basado en Madrid (oficina cerca del Retiro)
+• Somos 40 y pico. La media de edad es 26 años (tenemos oficinas en
+Madrid, Barcelona y Varsovia)
+• Nuestra ambición es revolucionar la forma en la cual los jóvenes
+profesionales encuentran empleo. Vamos por muy buen camino
+• Somos económicamente viables (ya estamos en break-even)
+• Además, contamos con una inversión importante para crecer
+internacionalmente (lanzamiento en Londres, Nueva York y Sao Paulo en
+2012)
+• Empezamos una etapa de fuerte crecimiento. Buscamos a los mejores
+para esta etapa.
+DESCRIPCION DEL PUESTO
+• La persona en este puesto será responsable de llevar a cabo el
+desarrollo, mantenimiento, soporte e idealmente el diseño del
+front-end de la aplicaciones web www.jobandtalent.com
+• La persona en este puesto trabajará en varias fases del desarrollo
+de software y será personalmente responsable del &amp;quot;look&amp;amp;feel&amp;quot; del
+front-end y su funcionalidad: código, testing, documentación y
+mantenimiento
+• Es imprescindible un alto grado de responsabilidad y autonomía.
+RESPONSABILIDADES:
+• Desarrollar, testear, documentar y mantener el front-end de una
+aplicación web con XHTML, CSS3, JavaScript, jQuery
+• E-mails con código HTML para la compatibilidad con todos los
+clientes de correo electrónico más importantes, incluyendo los web
+• Estar al día con una amplia gama de tecnologías de comunicación (en
+particular los relacionados con el desarrollo web)
+• Integración del markup HTML en la aplicación Ruby on Rails
+REQUISITOS:
+• Por lo menos tres a cinco años de experiencia
+• Experiencia con HTML / XHTML, CSS3, JavaScript, jQuery DOM
+• Experiencia en lectura de requisitos, documentación, wireframes y
+documentos de especificaciones visuales
+• Capacidad de interactuar eficazmente con los miembros del equipo y
+miembros de otros departamentos
+• Capacidad para trabajar en un ambiente de equipo dinámico y con un
+ritmo de trabajo rápido
+• Capacidad para hacer estimaciones de tiempo y cumplir con los plazos acordados
+EXTRAS:
+• Experiencia en new media, redes sociales, móviles o juegos
+• Familiarización con las técnicas de compresión de imagen, corrección
+de archivos, y técnicas de  optimización
+• Diseño de interfaz y experiencia de usuario
+• Experiencia media en Ruby on Rails, Photoshop / Fireworks
+• Conocimiento de las pruebas de aplicaciones software (unidad,
+integración y nivel de aplicación)
+• Estar familiarizado con los planes de prueba de control de calidad y
+metodologías de control de calidad
+Esta posición tendrá un período de prueba de 3 meses con posibilidad
+de ampliar a un puesto a tiempo completo.
+Nota: Los candidatos deben tener la posibilidad de trabajar legalmente
+en Madrid, España y ser capaz de hablar, leer y escribir en Inglés a
+un nivel alto.

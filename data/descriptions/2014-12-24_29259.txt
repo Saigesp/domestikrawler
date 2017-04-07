@@ -1,0 +1,20 @@
+
+At SUNTRANSFERS.COM business is thriving; in less than 6 years we have become one of the leading airport transfer companies, and our objective is to become sector leader in the next few years.
+Due to our continuous growth and success, we are recruiting a talented web developer to join our expanding team.
+The successful applicant will work closely with our lead programmer to build, improve & maintain new & existing web based applications, sites built in PHP with MySQL databases.
+Skills & Experience:
+- Bachelor’s Degree in Computer Science or equivalent work experience is required
+- Minimum 5 years PHP development experience
+- Expert in object-oriented programming (OOP), design patterns and SOLID programming
+- Experience with MVC framework (Yii, Laravel, Code Igniter,...)
+- Good knowledge of HTML, CSS, Javascript, jQuery and Ajax
+- Experience of building and maintaining ecommerce database (MySQL) driven websites. Database design and query optimization. Experience with PostgreSQL or Oracle is a plus
+- Self motivation and ability to multitask between projects
+- Clean, ‘best practice’ coding ability
+- Organisational skills required to deliver projects according to schedule
+- Ability to work closely with other programmers
+Desired skills:
+- Experience with ORM tools, Unit testing and TDD
+- Knowledge of CSM systems (Git, SVN,...) 
+- Programming languages (Java, C#, Python, Ruby...)
+- Linux system administration

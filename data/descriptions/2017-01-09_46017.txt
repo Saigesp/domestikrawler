@@ -1,0 +1,19 @@
+
+1/2 años de experiencia en la gestión este tipo de infraestructuras
+Se demandan conocimientos:
+- Entornos Linux/Windows
+- Gestión de dominios, directorio activo y/o grupos de trabajo
+- DNS Server
+- Email Server
+- Firewall/IpTables
+- Servicios avanzados de Cloud
+- Balanceadores de carga
+- Escalabilidad por demanda
+- Creación y gestión de entornos virtualizados
+Se valorará positivamente:
+- Amplia experiencia en la gestión de servidores AWS y/o OVH Cloud
+- SVN/Git Server
+- Conocimientos de lenguaje de programación ( php, python, NodeJS, etc)
+- Gestión de base datos (Mysql, SQLServer, Oracle, etc)
+
+

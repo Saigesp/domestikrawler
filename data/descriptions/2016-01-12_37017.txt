@@ -1,0 +1,27 @@
+
+ESPECIALISTA  FRONTEND MAGENTO
+Conocimientos en Magento y Wordpress.
+Desarrollador con experiencia en PHP y HTML5/CSS3.
+Su labor estará centrada en el frontend de Magento y en la maquetación.
+•	Plantillas, layouts XML, CSS, Javascript, HTML5 y otros componentes de Magento.
+•	Conocinientos eb DOM, AJAX y Json.
+•	Tratamiento de Imágenes.
+•	Uso de la jerarquía de plantillas, customización, bloques.
+•	Extensiones.
+•	Modificación de la apariencia de páginas específicas como CMS, productos, categorías u otras páginas.
+•	Análisis de métricas online y adaptación de funcionalidades, en búsqueda de la mejor usabilidad y experiencia de nuestros clientes en la tienda online.
+•	Experiencia con programas de diseño como Photoshop/ Illustrator.
+•	Adaptación de todas las funcionalidades web que sean precisas en función de los objetivos, con apoyo al webmaster.
+•	Enriquecer la web con el fin de generar tráfico de calidad, con el objetivo de incrementar las ventas.
+•	Apoyo a diseño web y elaboración de las landing pages para criterios específicos de búsqueda, tanto a nivel de contenidos como de coherencia gráfica.
+•	Conocimiento de la herramienta SEO estándares e identificación de nuevas tendencias para mejorar el funcionamiento de la tienda. Análisis de competidores.
+•	Definición y control de los parámetros clave de tráfico, conversión y diseño de políticas activas y de mejora de la experiencia del usuario.
+•	Control fundamental de herramientas como SEO, SEM y Analytics.
+•	Maquetación de emails en Mailchimp.
+•	Persona crítica, creativa y apasionada por el desarrollo web.
+Se valorará:
+-Certificación Magento Front End Developer.
+-Conocimiendo de Navisión
+- Buenas habilidades de comunicación oral y escrita.
+- Nivel fluido de inglés.
+

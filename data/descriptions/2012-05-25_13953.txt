@@ -1,0 +1,13 @@
+
+URGE contratar antes de final de Mayo.
+Estamos desarrollando la primera red social orientada a la transferencia de conocimiento. El proyecto es ilusionante y ambicioso. Tenemos reciente financiación para llevar a cabo la segunda evolución de nuestra plataforma y, aunque estamos en beta cerrada, estamos a punto de salir en beta publica, por lo que necesitamos aumentar el equipo de desarrollo.
+Se requieren personas multidisciplinares, que hayan estado involucradas en el desarrollo de paginas webs de mediana/alta complejidad.
+Necesaria independencia en el trabajo realizado y grandes dosis de creatividad.
+Buscamos freelances que residan en Madrid para poder asistir a la oficina ciertos dias para reuniones de seguimiento.
+Necesitamos programadores con experiencia probada en la programacion de paginas web utilizando:
+- PHP
+- AJAX
+- javascript - uso de jquery.
+- HTML/CSS (valorable HTML5/CSS3)
+- conocimientos basicos de java (valorable)
+. diseño y maquetacion (valorable)

@@ -1,0 +1,31 @@
+
+Funciones:
+En dependencia del CTO y el CPO, el Project Manager se responsabilizará de la planificación y seguimiento de proyectos FinTech. Elaboración, gestión y coordinación de planes de proyectos de desarrollo de webapps y mobileapps.
+-      Elaboración de documentación técnica:
+Análisis de requisitos.
+Análisis de riesgos.
+Definiciones funcionales.
+Especificaciones técnicas.
+-      Coordinación de departamentos (desarrollo, diseño UI/UX, marketing, etc…)
+-      Elaboración de planes de pruebas.
+-      Supervisión de los recursos del proyecto.
+-      Definición de objetivos y alcance del proyecto.
+-      Gestión de imprevistos.
+-      Gestión cuentas y relaciones con cliente.
+
+Requisitos:
+-       Ingeniero Técnico o Superior en Informática o Telecomunicaciones
+-       Experiencia en el sector bancario: normativa SEPA, operativa de cuentas y relación con proveedores bancarios.
+-       Experiencia con el entorno Editran para el intercambio de documentos y datos.
+-       Experiencia en gestión de equipos.
+-       Capacidad de análisis y desarrollo de nuevas funcionalidades con lógicas de negocio/desarrollo
+-       Personalidad proactiva, dinámica y creativa
+-       Habilidades de comunicación, reporte, expresión oral y escrita
+-       Habilidades de planificación, organización y priorización de tareas
+-       Idiomas
+
+Oferta Laboral:
+-       Contrato Indefinido
+-       Excelente ambiente de trabajo
+-       Puesto de trabajo presencial en el centro de Madrid
+

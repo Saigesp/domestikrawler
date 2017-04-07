@@ -1,0 +1,10 @@
+
+Buscamos un programador senior Java, Python o PHP. Con experiencia en desarrollo de aplicaciones de scrapping y sólidos conocimientos de base de datos MySQL (diseño, estructura datos, optimización) para incorporarse en desarrollo de un proyecto de metabuscador vertical.
+Responsabilidades:
+- Participar en el desarrollo tecnologico del back-end del metabuscador 
+- Desarrollo/mantenimiento de las aplicaciones de scrapping necesarias
+- Participar en la coordinación del desarrollo del front-end y acceso a los datos del back-end
+Requisitos:
+- Mínimo 4 años de experiencia en desarrollo en entorno LAMP, ya sea con Java, Python o PHP y Desarrollo OOP con alguno de los Frameworks "habituales".
+- Experiencia demostrable en MySQL: modelos de datos, optimización.
+- Experiencia demostrable en desarrollo aplicaciones/motores scrapping (con Python, Java, Selenium, etc).

@@ -1,0 +1,10 @@
+
+Requisitos:
+- Investigara y desarrollara los algoritmos de Inteligencia Artificial necesarios para cumplir las necesidades en: 
+· Detección semántica
+· Gstión documental inteligente
+· Recomendaciones adaptadas
+· Búsquedas inteligentes
+· Análisis de personalidades.....
+- Programación en Python, investigación y desarrollo de modelos con diferentes tipos de bases de datos.
+El candidato formará parte del equipo de desarrollo, incorporándose en el área de algoritmos, para hacerse cargo de los mismos.

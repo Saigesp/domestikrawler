@@ -1,0 +1,18 @@
+
+Seleccionamos Programador .NET con al menos 2 años de experiencia en las últimas versiones de ArcGIS (VERSIONES 10.1-4)
+· Conocimientos técnicos imprescindibles:
+- Programación web (HTML, CSS, Javascript)
+- Programación aplicaciones web ASP.NET, versión 4 al menos, usando C# 
+- Acceso a base de datos relacionales mediante SQL (SQL Server)
+- Desarrollos empresariales (acceso a repositorio de código compartido tipo SVN, despliegues entre entornos, etc).
+- Experiencia en desarrollo sobre al menos alguna de estas tecnologías: jQuery, Ajax, HTML5 o Bootstrap
+· Otros conocimientos y experiencia valorables:
+- Desarrollo .Net con MVC 
+- Desarrollo en JQwery 
+- Desarrollo en Ajax 
+- Desarrollo en HTML5 
+- Desarrollo en Bootstrap 
+- Desarrollo GIS con Google API y/o otras librerías similares como Open Layers, ArcSDE y Autodesk Map 3d ObjectARX.
+- Desarrollo en Jasper Reports 
+- Desarrollo en Crystal Reports 
+- Entorno Visual Studio 2010 y Team Fundation Server

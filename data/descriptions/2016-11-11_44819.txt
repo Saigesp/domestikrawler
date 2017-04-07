@@ -1,0 +1,19 @@
+
+Desde Altamira TI buscamos, para uno de nuestros proyectos, administradores de sistemas Microsoft.
+¿Que buscamos ?
+  •	De tres a cinco años de experiencia en mantenimiento y soporte de software en entornos de TI.
+  •    Dos o más años de experiencia en la administración de MS SQL Server;
+  •	Alto conocimiento  de MS SQL .
+  •	Alto conocimiento de alguna de las aplicaciones cliente / servidor en un entorno Windows     (SharePoint, MSSQL, Windows Server, MySQL, RedHat Linux, Business Objects, BizTalk, MSSCOM, IIS, aplicaciones .NET, PowerShell, Drupal...)
+  •	Experiencia en gestión de configuración para aplicaciones de software y en la utilización de herramientas de generación de informes.
+  •	Familiaridad con los conceptos y procesos de ITIL.
+¿Cuáles serían tus funciones?
+ •	Proporcionar mantenimiento y soporte  diario para las aplicaciones 
+•	Resolver problemas de aplicación de nivel 2 y escalar los asuntos de nivel 3 
+•	Asistir en la evaluación, configuración e instalación de nuevos lanzamientos .
+•	Ayudar en los cambios estructurales de la base de datos requeridos durante las actualizaciones del sistema.
+•	Asistir en el despliegue de herramientas y en la implementación de procesos 
+•	Responder a las consultas relacionadas con las aplicaciones de los usuarios finales 
+•	Asistir en el desarrollo y actualización de documentación relacionada con aplicaciones de software, incluyendo documentación técnica e informes de sistemas, asistir a reuniones operacionales y otras; y
+Si cumples los requisitos especificados, aportas ilusión en un nuevo proyecto y ganas de trabajar en una empresa donde nuestros trabajadores son el principal valor.
+Tras valorar tu candidatura nos pondremos en contacto contigo si cumples los requisitos, y negociar tu salario en función de la experiencia que aportes.

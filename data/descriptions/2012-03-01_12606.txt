@@ -1,0 +1,23 @@
+
+Nuestro cliente es una empresa de software de infraestructuras, envío de sms, enfocada sobretodo al sector bancario y a la administración pública. Necesita incorporar en su plantilla a un TÉCNICO DE OPERACIONES con habilidades para trabajar en equipo, con una clara filosofía de orientación al cliente y capaz de afrontar tareas de responsabilidad.
+Las tareas a realizar serán:
+- Soporte de 1º Nivel (apoyo puntual) y 2º Nivel (continuado) de incidencias con clientes de gran empresa. Atención on-line (por escrito) y/o directa (telefónica)
+- Instalación de producto en cliente, presencial y remota. Apoyo telefónico a instalaciones remotas.
+- Participar en el rotativo de guardias 24h, ofreciendo disponibilidad para ser contactado e intervenir, en caso necesario, en una eventual incidencia grave con el cliente. La disponibilidad requerida será de 1 o 2 semanas cada mes.
+- Crear, actualizar y mejorar la documentación del ámbito del departamento.
+- Seguimiento y apoyo a proyectos de implantación en clientes.
+- Procesos internos de paquetización y entrega de software al cliente.
+- Testing de software.
+- Gestión de Sistemas de Información internos y Helpdesk a los usuarios internos de la compañía.
+Requisitos:
+- Ingeniería Técnica / Superior o FP II / módulo formativo en Informatica de sistemas / Informatica de gestión
+- Imprescindible Experiencia en Administración de Linux en entornos de Producción.
+- Experto en comunicaciones interpersonales: gran capacidad de interlocución con el cliente final, tanto de forma oral como escrita. 
+- Empatía. Orientación a personas. Orientación al Cliente.
+- Conocimientos básicos de Bases de Datos (Selects
+Simples / Gestores (Oracle, MS SQL Java, MySQL)).
+- Conocimientos medios de Redes (Nat / FW/ Proxy, etc.).
+- Conocimientos de Administración de J2EE generales.
+- Buen nivel de inglés.
+- Disponibilidad de desplazarse para intervenir en instalaciones puntuales mensuales de productos.
+

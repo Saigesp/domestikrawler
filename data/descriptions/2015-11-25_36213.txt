@@ -1,0 +1,14 @@
+
+Somos una pequeña agencia digital afincada en Madrid.
+Actualmente estamos enfocados en el desarrollo de proyectos digitales, tanto web, mobile como otro tipo de proyectos relacionados con Arduino y videojuegos.
+Buscamos desarrolladores para colaborar en proyectos determinados. Que no te eche para atrás la ubicación. Estamos acostumbrados a trabajar en remoto ;)
+Debido a la naturaleza dispar de los proyectos que acometemos y el perfil de nuestros clientes, buscamos perfiles de todo tipo, pero atendiendo sobre todo a las siguientes tecnologías (no buscamos especialistas en todo. No existen):
+-HTML5 + CSS3
+-Javascript (Ideal manejo de algún framework tipo AngularJS, EmberJS....)
+-Wordpress
+-NodeJS
+-Automatizadores (Gulp, Grunt...)
+-PHP
+-GIT
+Como mencionamos más arriba, no buscamos al SR DEVELOPER, que sabemos que no existe, sino gente que controle al menos en algún ámbito de los mencionados.
+Si te dedicas al desarrollo y quieres trabajar en proyectos de forma autónoma colaborando con un pequeño equipo de gente, a tu ritmo pero cumpliendo timings, contacta con nosotros. No lo dudes ;p

@@ -1,0 +1,20 @@
+
+Grupo Antevenio lleva más de 18 años dedicados al sector de la publicidad online y el marketing interactivo y es la primera compañía española en salir a cotizar el mercado bursátil NYSE Alternext de París. Presente en España, Italia, Francia y Latino-américa (México y Argentina) tiene como principal activo su capital humano formado por un equipo de profesionales sólidos, con talento, dinámicos y con enfoque central en el cliente.
+Actualmente estamos en búsqueda de un Programador FrontEnd para nuestro departamento técnico corporativo
+REQUISITOS:*
+
+Formación en ingeniería Informática de gestión y/o análogos. 
+Que te presentemos un problema y lo primero que hagas sea pensar y no ponerte a picar 
+Que no te asusten los test unitarios, los refactors y hacer TDD 
+Saber programar en JavaScript. Utilizamos Backbone.JS y en la parte de tests Grunt, Mocha, Karma, Sinon, Chai 
+Saber programar en PHP aunque no sea tu fuerte.  Nosotros usamos Zend como framework pero si conoces otros (Symfony, Silex) nos vale. 
+Que te desenvuelvas bien sobre Linux. Todo nuestros aplicativos corren sobre este sistema operativo y todos los programadores lo utilizan.[/list] 
+Al menos 3  años de experiencia en desarrollos front end.
+*OFRECEMOS:*
+Trabajar en un proyecto con carácter internacional, que envía más de 400M emails al mes y que ha ganado los eAward2014/eAward2015 a mejor plataforma de email marketing. 
+Contrato laboral indefinido 
+Retribución según valía 
+Cheques Comida 
+Plan de Retribución Flexible 
+Trabajar en el centro de Madrid con unas comunicaciones inmejorables. 
+Muy buen ambiente de trabajo.

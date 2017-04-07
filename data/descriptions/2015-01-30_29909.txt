@@ -1,0 +1,11 @@
+
+EGA CONSULTORES busca para importante empresa del sector tecnológico situada en Santiago de Compostela, Analistas Programadores  y Programadores con al menos 2-3 años de experiencia en .Net para desarrollo de diferentes proyectos internos.
+Requisitos:
+* Experiencia en asp.net
+* Experiencia en ASP MVC4
+* Experiencia con Entity Framework
+* Experiencia con Transact-SQL
+* Experiencia con Reporting Services
+* Experiencia con Crystal Reports
+* Experiencia en Sharepoint (Recomendable)
+

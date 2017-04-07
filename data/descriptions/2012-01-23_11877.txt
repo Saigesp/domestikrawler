@@ -1,0 +1,16 @@
+
+Creación de portales Web basados en tecnología LAMP (Linux, Apache, MySQL, PHP)
+Desarrollo de herramientas y aplicaciones Web 2.0 basadas en CMS Wordpress.
+- Al menos 2 años de experiencia en el desarrollo de Themes y Plugins con Wordpress,
+- Conocimientos de PHP avanzados.
+. Conocimientos avanzados de SQL.
+- Conocimientos avanzados de maquetación web XHTML/CSS
+- Conocimientos avanzados de manejor de librerías javascript (jQuery),
+- Conocimientos básicos de Photoshop
+Se valorará:
+- HTML5 / CSS3
+- API Facebook , API Twiter, APIS Google
+- Desarrollo en entonos móviles
+- Administración de Servidores en Linux
+- Conocimientos de Configuración de Servidores web
+- Conocimientos de SEO

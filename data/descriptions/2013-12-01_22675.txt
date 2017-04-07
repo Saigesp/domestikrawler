@@ -1,0 +1,32 @@
+
+Nuestro cliente es una empresa de Nuevas Tecnologías cuyo objetivo es ayudar a mejorar el marketing y las operaciones de las empresas en entornos mobile, creando herramientas online orientadas a los usuarios no técnicos, para la gestión y publicación de los contenidos que aparecen en las soluciones tanto mobile como online.
+Actualmente seleccionamos:
+Requerimos la incorporación inmediata de 3 Desarrolladores con experiencia de al menos 2-3 años en PHP usando CodeIgniter u otros framework MVC, así como experiencia en proyectos de alta carga y complejidad con MySQL. El candidato o candidata se incorporará a un equipo de programación y desarrollo altamente cualificado, dentro de un entorno que integra las últimas tecnologías del mercado.
+Funciones principales: 
+Reportando al Responsable Técnico, se encargara de tareas de desarrollo / programación aplicando de las siguientes tecnologías:
+- Desarrollo de PHP usando CodeIgniter u otros framework MVC.
+- Proyectos con alta carga de trabajo y complejidad en MySQL
+- Programación para Sistemas Distribuidos y APIs
+Requisitos mínimos:
+-Formación de grado medio o superior.
+-2-3 años de experiencia demostrable en PHP ( Codelgniter u otros framework MVC)
+-2-3 años de experiencia demostrables en MySQL, Sistemas Distribuidos y APIs
+-Responsabilidad y compromiso con las entregas.
+-Capacidad de trabajo en equipo. Indispensable.
+-Capacidad de análisis para ofrecer soluciones ante problemas reales y/o potenciales.
+-Estar dispuesto a realizar una prueba de nivel. Se pedirá también presentación de ejemplos y/o referencias. 
+Valorable:
+- Conocimientos de AWS y S3. 
+- Conocimientos de GIT.
+- Conocimientos de HTML, CSS y Javascript.
+Ofrecemos:
+Incorporación inmediata.
+Estabilidad laboral
+Trabajar en proyectos de desarrollo para grandes multinacionales.
+Trabajo creativo con una fuerte capacidad de desarrollo profesional.
+Posibilidad de trabajar con especialistas del sector mobile y adquirir conocimientos en diversas plataformas.
+Empresa en expansión internacional con excelente clima de trabajo.
+Jornada laboral: Completa, Presencial y Flexible. Zona Norte Comunidad Autónoma de Madrid
+Tipo de contrato: Autónomo Dependiente
+Salario: 1.800-2.000€ Bruto/mes en función de experiencia y competencias aportadas 
+Jornada Presencial: L-V:09:00-18:30

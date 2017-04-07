@@ -1,0 +1,21 @@
+
+Desde K-LAGAN estamos incorporando Programadores/as Backend JAVA en interesantes proyectos dentro de diferentes sectores (banca, medioambiental, servicios a empresas, e-learning,...) tanto en Barcelona ciudad como alrededores.
+Las funciones principales son:
+- Diseño y desarrollo de aplicaciones en coordinación con el equipo.
+- Asegurar la correcta ejecución y calidad de las aplicaciones.
+- Identificación de bugs y resolución de los fallos detectados.
+- Ayudar a mantener la calidad del código, organización y automatización.
+Requisitos:
+- Formación técnica.
+- 2 años de experiencia trabajando con JAVA.
+- Experiencia con J2EE, Struts, Spring, Hibernate...
+- Conocimiento de bases de datos.
+- Valorable buen nivel de inglés.
+K-LAGAN es una ingeniería tecnológica y consultoría estratégica de ámbito nacional e internacional. Trabajamos para conseguir un objetivo común: construir la empresa del mañana y ayudar a las personas y a las empresas de todo el mundo a desarrollar al máximo todo su potencial, siendo una empresa sana, responsable y comprometida con la sociedad y el medioambiente.
+En K-LAGAN velamos por las personas y su futuro. Somos una empresa participativa y nuestro modelo de trabajo está basado en la colaboración mutua y las relaciones a largo plazo. Priorizamos la motivación, el aprendizaje continuo y el bienestar de nuestros/as trabajadores/as. Además, nuestro posicionamiento privilegiado en el mercado nos permite ofrecer un interesante plan de carrera a nuestros/as profesionales con distintas alternativas de desarrollo y crecimiento.
+Ofrecemos:
+- Contrato indefinido.
+- Beneficios Sociales.
+- Plan de formación y posibilidades de desarrollo profesional reales. 
+- Remuneración competitiva.
+- Posibilidad de realizar proyectos internacionales en diferentes sectores (según movilidad).

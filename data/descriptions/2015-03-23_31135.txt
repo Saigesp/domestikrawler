@@ -1,0 +1,14 @@
+
+Nuestro cliente, una empresa española del sector finanzas, busca dos Desarolladores Softwar con disponibilidad inmediata para formar parte de su plantilla.
+Funciones:
+• Participar en el análisis de requerimientos, el diseño del desarrollo y test para nuevos productos.
+• Implementar y depurar el desarrollo hasta conseguir las especificaciones planteadas, siguiendo la metodología de calidad. Propuesta de soluciones de mejora.
+• Analizar los resultados de los test para validar que cumplen las especificaciones planteadas del producto y generar los registros correspondientes según la metodología de calidad.
+• Elaborar la documentación técnica y de usuario del producto desarrollado.
+• Participar en el mantenimiento de software ante incidencias o nuevas funcionalidades requeridas.
+Requisitos deseados
+Experiencia:
+• Mínimo dos años de experiencia en esta posición
+• Conocimientos en JavaScript
+• Conocimientos en NodeJS serán un valor añadido
+

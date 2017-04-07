@@ -1,0 +1,31 @@
+
+eDreams ODIGEO (www.edreamsodigeo.com) the largest online distributor of flights in the world (measured in terms of sales), and one of Europe’s largest e-commerce businesses is looking for a motivated Systems Administrator Monitoring Operator to join our Production Services Team based in Barcelona, Spain, reporting to the Monitoring Manager.
+As Systems Administrator Monitoring Operator you will interpret signals from alarms transmitted by the different monitoring platforms. You will also be in charge of Analyzing tendencies and read into the prod platform as well as the office platform in order to push forward to possible issues.
+You will join a team composed by 6 passionate Monitoring Operator, working in a leading and challenging environment where you will be in constant contact with the business and technology.  
+Training is also part of our day to day:  be prepared to learn a lot ! 
+We also have the chance to work with amazing Agile Coaches and Product Owner helping Technical Team to follow the best practices of Agile Methodologies.
+We work hard and always think out of the box to create new exciting features!
+For a better idea about our culture, check out the brief video of our last Hackathon: https://www.youtube.com/watch?v=hVvI30rEotI
+
+Duties and responsibilities
+
+●	Maintains operations by monitoring error and stoppage messages; entering commands to correct errors and stoppages
+●	Resolves simple prod issues using the documentation created to do it.
+●	Create new and update the old monitors.
+●	Document and stock the services. 
+●	Fault handling and escalation
+●	Participate in a 24x7 call-out shift if required. 
+
+Qualifications
+
+●	University degree in engineering or technical degree in a related field
+●	At least 1 year experience in a similar role. 
+●	Ability to assess and prioritise faults and respond or escalate accordingly.
+●	Work well in a busy team, being quick to learn and able to deal with a wide range of issues. 
+●	Basic sysadmin skills. 
+●	Basic Linux CLI skills as well as python, perl, bash.
+●	Desirable UNIX system knowledge
+●	Good communicator with a natural aptitude for dealing with people
+●	Desirable knowledge with networking, netapp, puppet and monitoring tools 
+●	English - upper intermediate level is required. We work in an international environment where 90 different nationalities work together!  
+

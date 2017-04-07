@@ -1,0 +1,18 @@
+
+Estamos buscando una pieza clave en nuestro equipo, un programador PHP solvente con experiencia demostrable.
+Somos una agencia joven pero con muy buenas perspectivas de crecimiento. La creatividad y la tecnología son nuestros  motores, así que tienes que tener interés por la vida y ser un auténtico friky de la programación.
+Requisitos técnicos
+- Experiencia mínima de 2 años como desarrollador trabajando en equipo.
+- Experto en PHP, javascript, ajax, jquery, CSS, HTML5
+- Portfolio con trabajos propios o en equipo.
+- Conocimiento total de los CMS Wordpress, Joomla y Drupal.
+- Soltura con Photoshop y Adobe Ilustrator
+- Valorable conocimiento de frameworks tipo Ruby on Rails o Cake PHP
+- Valorable conocimiento en programación de Apps (iOS - xCode / Android - Java) y Phonegap
+Requisitos personales
+- Capacidad para trabajo en equipo y en ocasiones bajo presión. 
+- Autonomía y responsabilidad para asumir proyectos desde su inicio incluso dirigiendo un equipo.
+- Firmeza para lograr los objetivos en el plazo pactado, capacidad para realizar informes.
+- Máximo sentido del pundonor.
+- Capacidad de de autoformación continua.
+- Alegría de vivir

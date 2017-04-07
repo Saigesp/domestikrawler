@@ -1,0 +1,14 @@
+
+Lo Que Buscamos: 
+Una persona dinámica, con talento, que se involucre y no tenga miedo a los proyectos grandes.
+Una persona con experiencia en proyectos WEB, con:
+- ALTOS conocimientos en desarrollo PHP, SQL, JAVASCRIPT, JQUERY, SISTEMAS MVC, con al menos dos años de experiencia.
+- MEDIO-ALTO en conexiones con API´s (XMLRPC,OAUTH), SYMFONY.
+- VALORABLE Conocimientos GIT y Angular.
+Queremos que seas una persona organizada y resolutiva, pero sobre todo que le guste trabajar en equipo, porque aquí somos todos un equipo, y es fundamental esa “conexión” a la hora de trabajar.
+Buscamos una persona que respire internet, coma internet, sueñe internet y quiera seguir aprendiendo día a día.
+Lo Que Proponemos: 
+- Entrar en un equipo de trabajo joven y dinámico donde puedes desarrollar tu pasión por las nuevas tecnologías. 
+- Un trabajo donde participar en diferentes proyectos de desarrollo WEB, liderar algunos e inventar nuevos (hacemos mucho I+D), pero sobre todo un trabajo donde tu participación sea un “valor añadido” para el proyecto. 
+- NO buscamos un Freelance, sino una persona que se integre en nuestro equipo de trabajo, y que aporte conocimiento, ganas e ilusiones.
+

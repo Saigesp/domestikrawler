@@ -1,0 +1,20 @@
+
+"Se buscan 3 desarrolladores de Backend y de Frontend (diseñadores / desarrolladores web freelance) para llevar a cabo un proyecto. El inicio del mismo es inmediato y debe estar terminado, como muy tarde, a mediados de Octubre. La duración dependerá de lo rápido que se logre avanzar.
+Se trata de poner en marcha una herramienta de gestión personalizada para empresas que constaría de:
+1. Una página web (con un API y un panel para el superadmin).
+2. Dos APPs híbridas, tanto para Android como iOS, integradas pero con usos diferenciados.
+Se ofrece:
+1. Buen ambiente de trabajo en el entorno de un equipo joven y dinámico.
+2. Posibilidad de baño en piscina entre picada y picada de código... :wink: y
+3. Posibilidad de incorporación en plantilla tras la finalización del proyecto.
+En general, se requiere...
+1. Conocimientos en HTML5 & CSS3.
+2. Javascript (se valorará el uso de BackboneJS, AngularJS o EmberJS).
+3. Lenguaje de servidor (Php, Django/Python, Ruby on rails…)
+4. MySQL o PostgreSql.
+5. Cierto conocimiento de control de versiones para trabajar con el equipo (Git o Svn).
+Y en particular...
+1. Total dedicación al proyecto durante el período de desarrollo.
+2. Desplazamiento al lugar de trabajo, situado en la ciudad de Valencia. Es importante que el equipo trabaje de forma conjunta y a diario.
+El salario a percibir será por proyecto completo y a convenir.
+¿Te apuntas? ¡ESTAMOS DESEANDO CONOCERTE!"

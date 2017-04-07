@@ -1,0 +1,12 @@
+
+Se busca programador freelance para desarrollo de aplicaciones windows en .NET C#. Se requiere experiencia en:
+- Bases de datos SQL
+- Sockets
+- XML
+- Interfaces de usuario
+Se valoraran conocimientos en:
+- C
+- Sistemas tiempo real
+- Matlab
+El trabajo no es presencial, aunque es preferible disponibilidad para reuniones esporádicas en la zona de Madrid. 
+Salario en función de la forma de colaborar y rutina de trabajo. Perfectamente compatible con otros empleos.

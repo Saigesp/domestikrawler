@@ -1,0 +1,27 @@
+
+As a member of our engineering team, you will assist in the full cycle development of video games for smartphones, mobile phones or on-line games from start to finish, with mass-market sales potential.
+Description:
+As a member of our creative team in Valencia, you will be part of the development process of 2D/3D videogames from start to finish, while constantly looking for creative solutions. 
+Daily responsibilities include overseeing development and code debugging, and integrating graphics, sound and network components.
+Minimum requirements:
+•	Degree in Computer Science or Computer Engineering, or equivalent professional experience
+•	Previous professional programming experience
+•	Strong knowledge of C/C++ (ObjC)
+•	Strong knowledge of video games development
+•	Knowledge of Android platform would be an asset
+•	Motivated, ambitious, able to work independently or as part of a team
+•	Personal interest in video games and a solid understanding of its culture
+•	Good English level
+•	A technical test will be required as the first step of the selection process
+Extras:
+•	Experience developing on iOS or Android environments
+•	Experience in 3D graphics engine algorithms (3D math skills)
+•	Experience in related game programming fields (physics, AI/gameplay, tools, online)
+•	Experience with existing game development frameworks is a plus
+•	Fluent Spanish is a plus
+Benefits:
+•	Opportunity to learn in a professional environment with people who have a passion for creating video games.
+•	Open working climate with young, dynamic teams from around the world
+•	Salary based upon experience and merit
+•	Career-development opportunities
+•	Permanent contract, full-time job and additional merit pay system.

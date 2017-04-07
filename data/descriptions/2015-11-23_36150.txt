@@ -1,0 +1,37 @@
+
+Descripción de la oferta:	
+Gran empresa del sector industrial, con proyección internacional y proyectos de continua expansión y crecimiento, selecciona un/a Team Leader proyecto web para su Dpto. de IT.
+Funciones:
+•	Se integrará en equipo de trabajo orientado a evolucionar solución web de reciente implementación, tanto funcional como tecnológicamente.
+•	Será el referente del proyecto, deberá conocer la funcionalidad del sistema al detalle así como la relación y el intercambio de datos con el resto de sistemas de la Compañía.
+•	Se encargará de recoger, analizar y documentar nuevos requerimientos.
+•	Gestionará las peticiones diarias de los usuarios, generando nuevas tareas para el equipo de desarrollo, solventado incidencias y respondiendo consultas.
+•	Realizará las pruebas funcionales de validación.
+•	Realizará el seguimiento de los desarrollos y planificará las entregas de versiones.
+•	Se encargará de la formación y soporte a los usuarios.
+
+Requisitos Mínimos:	
+•	Titulación universitaria media o superior, preferiblemente Informática o Telecomunicaciones (sin descartar otras titulaciones universitarias).
+•	Años de experiencia: Más de 5 años.
+•	Experiencia en el trabajo en equipo.
+•	Metodología de desarrollo de proyectos.
+•	Captación y análisis de requerimientos.
+•	Redactado de documentos funcionales.
+•	Control y aseguramiento de la calidad.
+•	Gestión de incidencias.
+•	Experiencia en soporte / trato directo con usuarios.
+•	Experiencia en desarrollo sobre arquitectura web.
+•	Visual Studio 2013
+•	Lenguajes: C# (.NET Framework 4.0 / 4.5), javascript, JQuery, ASP.NET, WPF
+•	MVC 4.x/5.x.
+•	SQL, LinQ.
+•	Bases de datos relacionales: MySQL y/o SQL Server 2008 o superior.
+•	Unit Testing.
+Se valorará:	
+•	Desarrollo con arquitecturas y tecnologías orientadas a servicios web: WCF / REST / WEB API.
+•	AngularJS
+•	Repositorios: SVN / TFS / GIT
+•	ORM: EF5 o superior.
+•	UI: basados en AJAX / Json.
+•	Telerik Kendo 
+

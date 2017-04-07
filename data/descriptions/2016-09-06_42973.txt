@@ -1,0 +1,21 @@
+
+We are looking for a Backend developer to join us. You will be responsible for the server side of the web application.
+If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you. As a Backend developer, you’ll work with engineers to ensure system consistency and improve user experience.
+Ultimately, you should be able to develop and maintain functional and stable web applications to meet our needs.
+Responsibilities
+- Participate in the entire application lifecycle, focusing on coding and debugging
+- Write clean code to develop functional web applications
+- Troubleshoot and debug applications
+- Manage cutting-edge technologies to improve legacy applications
+- Collaborate with Frontend developers to integrate user-facing elements with server side logic
+- Provide training and support to internal teams
+- Build reusable code and libraries for future use
+- Liaise with developers, designers and system administrators to identify new features
+- Follow emerging technologies
+Requirements
+- Proven work experience as a Backend developer
+- In-depth understanding of the entire web development process (design, development and deployment)
+- Hands on experience with programming languages like JavaScript, Ruby, PHP or Python
+- Familiarity with front-end languages (e.g. HTML and CSS)
+- Excellent analytical and time management skills
+- Teamwork skills with a problem-solving attitude

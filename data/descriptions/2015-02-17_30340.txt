@@ -1,0 +1,43 @@
+
+Company: 
+Founded in 1999, Anakena is a successful company operating websites in the health industry with a special focus on weight loss in the US market. 
+We are a small, young, multicultural team, striving to grow while using the latest technologies.
+Location: 
+Paseo de Gracia, 60 3-B 
+08007 Barcelona 
+The company is located in the heart of Barcelona (Metro: Paseo de Gracia)
+Position:
+We are currently looking for a full-stack PHP developer who will be part of our development team. His or her mission will be to participate in the continuous improvements of our platforms. 
+We are looking for someone who is passionate about new technologies, and who is not afraid to learn something new every day.
+Education Level
+University degree in Computer Science.
+Technical Skills
+Required
+- 	Strong experience with object-orientated PHP5
+- Good knowledge of:
+  > At least one PHP MVC Framework (Zend Framework, Symphony2, Yii)
+  > MySQL schema design and optimization
+  > 	JavaScript and jQuery
+- 	Working knowledge of:
+  > 	HTML5 and CSS3
+  > 	Web services (REST)
+- Understanding of source code revision (Subversion / GIT)
+- Accuracy and efficiency in development
+We will value experience in
+- Magento e-commerce platform
+- Wordpress CMS
+- 	Cloud Computing (AWS)
+- 	App development (IOS / Android)
+- 	AGILE methodologies
+Personal skills
+Responsible, hard-worker, curious, team player, open minded, sense of humour. 
+Languages: 
+Excellent level of English indispensable 
+Optional: Spanish, French, Catalan
+Offer
+- A full time position
+- 	A competitive salary
+- A great work environment
+- 	An indefinite contract
+Starting date: 
+Immediately

@@ -1,0 +1,3 @@
+
+Programador de software para apoyo al equipo de I+D en el desarrollo del sistema de Producción Automatizada y coordinar a programadores junior o grupos externos de desarrollo de software. Conocimientos requeridos: Programación en C++ en entornos Windows y Linux. Programación de interficies gráficas en QT, Open GL. Experiencia en desarrollos de aplicaciones multimedia.
+Capacidad de liderar equipos técnicos. 

@@ -1,0 +1,29 @@
+
+Social Point is a world leader in strategy and action games with deep social engagement. Our talented team of more than 220 Social Pointers develop games that are played and loved by more than 50 million people all over the world and consistently in the top ranking titles on iOS and Android. Join us, and help us make 2015 the break out year in mobile social gaming.
+We’re looking for a cross-discipline profile who understands the importance of UI/UX design in services played by millions of people, and has both the conceptual and technical skills to handle its development from wireframe to perfect execution.
+As a UI/UX designer, your responsibilities will be:
+-Understanding the design of existing and new game features
+-Propose wireframes that make best use of mobile interfaces to create intuitive, streamlined flows for those feature
+-Create low and high fidelity prototypes using quick-iteration tools
+-Validate ergonomy of flow and layout considering different screen sizes and aspect ratios
+-Define use cases and exceptions
+-Define the style guide and visual architecture for games’ UI
+-Create and optimize the assets that will be used in the final product
+-Implement those assets using company tools in collaboration with programmers
+-Review and follow through final product
+Requirements:
+-2+ years of experience in similar role
+-Passion for user-centered thinking
+-Expertise with quick prototyping tools (Balsamiq, Fluid, Powerpoint - anything that allows you to iterate very fast)
+-Expertise with Photoshop
+-Expertise creating flowcharts
+-Technical awareness
+-Team player - you will work with designers, artists and developers to make your vision come to life
+-Adaptable, fast learner, problem solver, methodical and organize
+-Fluent English
+Welcomed bonuses:
+-Expertise with 3DS Max
+-Expertise with Premiere
+-Solid scripting skills (javascript, action script)
+-Previous experience in gaming companies
+-Knowledge of the F2P market

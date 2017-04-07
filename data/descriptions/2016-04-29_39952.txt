@@ -1,0 +1,15 @@
+
+Estamos buscando un backend php developer para los proyectos de nuestra agencia de publicidad online.
+Los requisitos:
+- Formación Universitaria en Informática o Grado Superior en Informática.
+- Profundo conocimiento de lenguajes de desarrollo Web, PHP, ajax (jquery), SQL, bases de datos PostgreeSQL y MySQL.
+- Opcional conocimientos de programación orientada a objetos y MVC
+- Inglés técnico.
+- Capacidad de trabajo en equipo, persona dinámica y con iniciativa.
+Las responsabilidades:
+• Desarrollo de las herramientas de uso interno de la empresa
+• Creación y mantenimiento de los webservices de la empresa
+• Optimización de Creatividades para el envío de publicidad via email
+• Desarrollo y mantenimiento de los diferentes portales de la empresa
+• Mantenimiento de las bases de datos de la empresa
+Ofrecemos: contrato laboral, mutua privada, posibilidades de crecimiento, ambiente internacional y joven, oficina en el centro de Barcelona.

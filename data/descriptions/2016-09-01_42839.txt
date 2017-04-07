@@ -1,0 +1,36 @@
+
+Work Summary
+This is an opportunity for talented and experienced SAP ABAP developer to join one of the most challenging and exciting global implementation project directly with end-user.
+Successful candidate will join our SAP ABAP team and be engage on some of the most relevant projects in the SAP landscape. On this position you will be a member of the team of top-class business and IT experts responsible for business challenges, enterprise transformation, business and IT architecture and continues process excellence. In your daily work you will have a chance to work ERP architects, functional and technical experts and you will be involved in development projects solution design, technical design, ABAP programming, Business Intelligence, integration (iDoc, EDI, PI/XI), and other.
+If you would like to make a next step in your career and experience large-scale, complex and complete life-cycle ERP Implementation, starting from envisioning & architecture through business blueprint setup, solution design, system configuration, development till deployment and operations in clients with worldwide presence this job is for you.
+Key Responsibilities 
+•	Designing and developing SAP ABAP based solutions in the FICO, PP and SD areas.
+•	Designing and developing EDI integrations with clients, external warehouse software, and other third party applications. 
+•	Analysis, troubleshooting of technical and functional issues across ABAP developments in the SAP FICO, PP and SD modules/components and providing day-to-day support and technical expertise to other team members.
+•	Preparation of technical documentation and solution design specification for new customizations to be performed in SAP ERP mentioned modules.
+•	Participating in “team architectural and design brainstorming sessions” where key architecture and design ideas are exchanged, brainstormed and effectively selected.
+•	Providing support to functional analysts during data migration planning, scoping & execution.
+•	Ensuring good design & development practices and high quality standards are in place.
+•	You will need to travel up to 25% of your working time on average.
+Qualifications and knowledge
+•	Minimum 5 years of professional experience as a SAP ABAP developer in the areas of FICO (GL, AR, AP, legal and tax declarations), PP and SD.
+•	In the finance area, must have extensive knowledge in statutory reporting (Intrastat, Model 349, customer payments, VAT Management, FEBA banking integration)
+•	In the SD area, must have extensive experience in Sales Order management and management of multiple installment processing. 
+•	In the PP area, must have extensive experience in project management and integration with the production process.
+•	Experience in integration both with clients and external WMS, as well as other third party applications.
+•	Extensive experience with iDocs, BAPIs, Adobe Forms, RFC, Proxies, User Exits and ABAP Objects.
+•	Strong overall SAP experience in various types of SAP implementations such as developments, upgrades and maintenance projects.
+•	Demonstrated ability to transform functional specifications into a technical design, as well as, develop and document processes and procedures used to support the technical environment.
+•	Strong ability to gather business requirements and provide quality documentation.
+•	Self-motivated and driven to achieve professional success in end-client environment.
+•	Target oriented, professional attitude, good manners and high work culture is greatly desirable.
+•	You will have good educational background, ideally up to degree level – or equivalent – in a related subject. 
+•	Very good written and oral English is essential.
+We Offer: 
+•	Very attractive, multicultural and friendly project environment in fast growing international company.
+•	Cooperation with highly skilled and professional team of architects, functional and technical experts.
+•	Hands-on experience and participation in establishing of business & IT enterprise architecture.
+•	Flexible working hours including combination of remote work, home office and international travels.
+•	Possibility to grow and make the next step in your professional career and self-development.
+•	Long-term relationship and very attractive and competitive salary package and bonus.
+

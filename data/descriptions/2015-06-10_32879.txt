@@ -1,0 +1,35 @@
+
+Our team is looking for an experienced PHP developer of web-based payment services using Linux, Apache, MySQL and PHP to help develop and maintain our payment processing applications.  
+Responsibilities include:
+•	Performs programming services using PHP.
+•	Develop and maintain MySQL databases and associated processes. 
+•	Work as part of an agile team building SaaS based payment processing applications.
+•	Work independently on complex programming tasks.
+•	Provide analysis of problems, recommend, and implement solutions.
+•	Ability to multi-task.
+•	Tests and corrects programs.
+•	Performs programming analysis.
+•	Applies standard programming procedures.
+•	Recognizes interactions of other related programs.
+•	Monitors the operation of programs and responds to problems by diagnosing and correcting errors in logic and coding.
+•	Tests, documents work, writes and maintains operator instructions for assigned programs, and confers with other personnel to obtain or provide factual data.
+•	Provides support in analyzing present performance of the program and takes action to correct deficiencies and to help troubleshoot critical issues that may involve many systems in a complex infrastructure.
+Experience:
+•	Bachelor’s degree in Computer Science (preferred) or a relevant computer-related field or 8 years equivalent experience.
+•	At least 6 years of experience with the development and maintenance of complex web-based applications using Linux, Apache, MySQL and 
+•	5+ years of operational experience in the payment processing industry, including all phases of the SDLC. 
+•	Familiarity with Agile development processes.
+•	Distributed/synchronized processing experience. 
+•	Familiarity with the Financial Services Industry preferred standards and processes. 
+Skills:
+•	Expert skill with relational application database architecture including stored procedures, triggers. 
+•	Demonstrated experience with PHP. 
+•	Strong SQL coding background; understanding of SQL statement optimization/tuning. 
+•	Ability to create detailed technical designs and lead teams of developers toward solutions.
+•	Demonstrated experience with advanced tools for database table maintenance, specifying business and internal program logic, forms and report design.
+•	Should be able to design and develop modular applications with an object oriented approach. 
+•	Demonstrated experience with tools for source code control, change management, and creation of business and technical diagrams.
+•	Demonstrated experience working in a rapid development environment creating prototypes and proof of concept applications.
+•	Demonstrated experience with software engineering practices, techniques, and standards.
+•	Fluent in English as you will be working with a development team in the USA.
+

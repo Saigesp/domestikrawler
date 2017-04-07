@@ -1,0 +1,42 @@
+
+ENGLISH
+Our office in Barcelona is hiring a
+Frontend Developer (m/f).  
+Responsibilities:
+•	Development of  rich media ads
+•	Development of responsive websites
+•	Server-side development up to a certain level, depending on skills
+•	Quality assurance
+Qualifications:
+•	At least 3 years experience in front-end development 
+•	Ideally a bachelor’s degree or equivalent in computer science or equivalent
+•	Very good skills in HTML5 and CSS3
+•	Experience in at least one JavaScript framework
+•	Experience with client-side MVC frameworks
+•	Experience with version control systems, ideally Git
+•	Ideally experience with server-side scripting
+•	Demand for high quality standards
+•	Interest in experimenting with new technologies 
+•	English and/or German language skills are required
+Please, direct your applications in German or English language only to …
+DEUTSCH
+Zur Verstärkung unseres Teams in Barcelona suchen wir ab sofort einen
+Frontend Developer (m/w).  
+Deine Aufgabe: 
+•	Entwicklung von Werbemitteln
+•	Entwicklung responsiven Websites 
+•	Ggf. auch serverseitige Entwicklung in PHP oder Ruby
+•	Qualitätssicherung
+Dein Profil:
+•	Mindestens 3 Jahre Erfahrung in der Frontend-Entwicklung
+•	Idealerweise einen Bachelor in Medieninformatik oder eine vergleichbare Ausbildung
+•	sehr gute Kenntnisse in HTML5 und CSS3
+•	Kenntnisse in mindestens einem JavaScript-Framework
+•	Erfahrung mit clientseitigen MVC-Frameworks
+•	Kenntnisse in einer Versionsverwaltung, idealerweise Git
+•	Idealerweise Kenntnisse in serverseitiger Entwicklung 
+•	Hoher Qualitätsanspruch
+•	Interesse am Experimentieren mit neuen Technologien
+•	Gute Deutsch- oder Englischkenntnisse in Wort und Schrift
+Bitte richte deine Bewerbungen auf deutsch oder englisch an.
+

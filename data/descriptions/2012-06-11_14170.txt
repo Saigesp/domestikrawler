@@ -1,0 +1,16 @@
+
+BELBEX es un proyecto innovador con presencia internacional en Europa. Consiste en una plataforma online b2b de grandes y medianas empresas que combina funcionalidades punteras de las redes sociales y otras características avanzadas más orientadas al sector profesional.
+Descripción: 
+Quiere incorporar en su Departamento Técnico ubicado en MADRID (zona Velázquez) un DESARROLLADOR EXPERTO ASP.NET.
+Buscamos un/a profesional con 3-5 años de experiencia en programación ASP.net, tecnológicamente inquieto/a, autónomo/a, con capacidad de análisis y motivación para implicarse en un proyecto de larga duración.
+Requisitos mínimos: 
+- Ingeniería Informática (técnica o superior)
+- Buen conocimiento de tecnologías ASP.NET
+- Desarrollo en SQL Server u Oracle
+- Conocimientos de arquitectura de software / patrones de diseño
+- Capacidad de análisis
+Requisitos deseados: 
+- JQuery / Javascript
+- Css/Html
+- Experiencia en trabajo con metodologías ágiles
+- Se valorarán conocimientos en programación Android, Iphone, etc...

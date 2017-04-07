@@ -1,0 +1,17 @@
+
+Importante empresa, líder en su sector, precisa incorporar en su plantilla un PROGRAMADOR PHP SENIOR para el desarrollo de aplicaciones web. se incorporará al equipo de desarrollo existente, que en la actualidad está en plena transición de un entorno de desarollo PHP clásico a un framework symfony, con sistemas de integración continua.
+conocimientos demostrables de programación PHP5, deseable orientado a objetos
+deseable formación de Ingeniería - Ingeniería técnica informática
+conocimientos demostrables de programacion orientado a objetos
+conocimientos de lenguaje SQL y MySQL
+conocimientos en desarrollo en tecnología javascrip ajax jquery
+Ddeseable conocimiento y experiencia en desarrollo con HTML5
+Deseable conocimiento de desarrollo de aplicaciones par adispositivos móviles
+conocimientos de desarrrollo en tecnología cliente
+deseable expreincia con herramientas de control de versiones
+etc
+se busca persona con inquietudes técnicas, proactiva, dispuesta a aprender y a compartir el conocimiento y con capacidades de trabajo en equipo.
+Imprescindible experiencia en desarrollo aplicaciones web con PHP 5, conocimientos de programacion orientados a objetos- PHP 5
+Conocimientos lenguaje SQL y uso de MySQL
+Conocimientos de desarrolo en tecnología cliente: Javascript /Ajax /jQuery
+etc.

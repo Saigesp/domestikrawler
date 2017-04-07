@@ -1,0 +1,22 @@
+
+Seleccionamos Programador/a Front experto/a en JavaScript y accesibilidad Web, con amplia experiencia en:
+- Uso de estándares y tecnologías web
+- Maquetación HTML, CSS y HTML5/CSS3 multinavegador
+- Programación Javascript nativo, jQuery, jQuery mobile
+- Desarrollo web multidispositivo
+- Accesibilidad WCAG 2.0
+- API Google Maps
+Conocimientos en:
+- Bootstrap, Json, Ajax, Less CSS, REST, ExtJs
+Conocimientos necesarios:
+JavaScript  HTML5  CSS  jQuery Mobile  Ajax  CSS3  ExtJs  Bootstrap  JSON  REST 
+Requisitos deseados:
+- Control de versiones subversion
+- SEO
+- Análitica WEB
+- Metodologías ágiles
+Ofrecemos:
+- Incorporación inmediata y de carácter estable a la plantilla de Continex
+- Proyecto estable y de larga duración
+- Participación en proyectos de tecnologías destacables en el sector
+- Salario acorde con la experiencia aportada

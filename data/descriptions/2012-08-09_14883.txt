@@ -1,0 +1,7 @@
+
+The Data Republic busca Programador fron-end freelance HTML/CSS/JS para trabajo puntual que puede extenderse a otros encargos en el futuro.
+Necesitamos a alguien con conocimientos en los siguientes campos:
+- Conocimientos de HTML, CSS, JavaScript, jQuery.
+- Conocimientos de las especifiaciones de Safari para iPad.
+- Conocer y saber utilizar frameworks y plugins JavaScript para animaciones
+Se trata de maquetar/programar una infografía en jpg para trasladarla en HTML. El trabajo requiere saber las limitaciones que impone Safari para iPad, y que recursos pueden utilizarse para crear efectos visuales elegantes.

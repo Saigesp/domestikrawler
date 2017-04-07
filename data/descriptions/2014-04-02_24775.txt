@@ -1,0 +1,13 @@
+
+Empresa de Mataró, en procés de creixement busca una persona preparada per dirigir un equip avançat de programació i aplicar metodologies de gestió de projectes a les últimes tendències i tecnologies de control a temps real i reporting a través del Colud. 
+Treballarà sobre Internet of Things i totes les possibilitats relacionades amb incorporar internet al món real per fer-nos la vida més fàcil: control d'edificis, entons industrials, eficiència energètica, etc. 
+Requisits:
+- Enginyeria informàtica o similar 
+- Experiència en direcció d'equips tècnics
+- Capacitat per gestionar un projecte des de la descripció funcional fins al pas a produccií i la garantia. 
+- Coneixements tècnics de PHP, programació orientada a Objectes (POO) i patrons MVC, bases de dades SqlServer i MySql, Html5, +CSS
+Condicions:
+- Contracte de 6 mesos prorrogable
+- Horari de dilluns a dijous de 9-14h i de 15-18.30 i divendres de 9-15h
+- Salari brut anual: de 22.000 a 34.000 segons valua 
+

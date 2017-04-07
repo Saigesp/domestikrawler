@@ -1,0 +1,31 @@
+
+Importante empresa internacional busca Mobile Apps Developer para formar parte del equipo IT que trabajara en sus nuevas instalaciones en el PTA de Málaga.
+Requisitos
+BS/MS degree in Computer Science, Engineering or a related subject
+● Proven software development experience
+● Proven working experience in Android development
+● Have published at least one original Android app
+● Experience with Android SDK
+● Experience working with remote data via REST and JSON
+● Experience with thirdparty libraries and APIs
+● Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+● Solid understanding of the full mobile development life cycle
+● Familiarity with other mobile app development technologies is a plus (iOS, etc.)
+● Knowledge of XHTML, HTML5, XML, CSS and Javascript a plus
+● Selfstarter with strong organization and time management skills
+● Experience working in a team environment
+● Excellent communication skills
+Funciones
+As a Mobile Apps Developer (Android), your main responsibilities will include developing mobile applications using Google’s Android SDK (Java), which includes defining, designing, and implementing on various mobile smartphones running Android. A key part of your responsibilities will include communicating with engineers on the Development team, as well as other parties like UI designers and product managers.
+ 
+● Design and build advanced applications for the Android platform
+● Collaborate with crossfunctional
+teams to define, design, and ship new features
+● Work with outside data sources and API's
+● Unittest
+code for robustness, including edge cases, usability, and general reliability
+● Work on bug fixing and improving application performance
+● Continuously discover, evaluate, and implement new technologies to maximize
+development efficiency
+Ofrecemos
+Gross salary annual : Negotiable

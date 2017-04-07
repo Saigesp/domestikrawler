@@ -1,0 +1,12 @@
+
+Casi un siglo de experiencia en el mercado y un equipo de profesionales motivados e identificados con los objetivos y la filosofía de un sólido grupo familiar, avalan Grupo Romeu como líder en el sector de la Logística y Transporte Internacional.
+Grupo Romeu cuenta con su propia empresa de desarrollo informático, Grupo Romeu Multiservices, para la que buscamos un Técnico Soporte IT, para dar soporte en entornos IT (sistemas operativos, aplicativos y desarrollos a medida).
+* Formación mínima: Grado Superior en Informática.
+* Experiencia mínima en ésta posición de 3 años.
+* Experiencia en SQL/T-SQL,  Visual Basic / VBA y en C#/ NET.
+* Amplia experiencia en entorno Windows (deseable a nivel administración de sistemas)
+* Conocimiento entorno OSX
+* Usuario avanzado paquete ofimática Microsoft
+* Deseable experiencia en la creación de documentación técnica y manuales de usuario.
+* Se valorará positivamente nivel alto de inglés.
+

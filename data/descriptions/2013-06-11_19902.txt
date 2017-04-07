@@ -1,0 +1,8 @@
+
+Buscamos programador informático especialista en páginas de facebook y concursos.
+Necesitamos crear un sistema de votos por facebook y que a su vez otorguen al organizador del evento un ME GUSTA. Y si hay posibilidad de que también vaya UN ME GUSTA al patrocinador/res mejor.
+Hay entre 20-25 fotos de participantes. La idea es que se vean todas las participantes en una sola hoja y cuando clicas en una, se vea más grande y te de la opción de votarla.
+Un perfil de facebook = un voto = un me gusta (organizador) = un me gusta patrocinador/res.
+Puedes consultar más info. sobre el concurso aquí:
+ https://www.facebook.com/photo.php?fbid=584930308204780&amp;set=a.215951175102697.58568.214278488603299&amp;type=1&amp;theater
+Es un trabajo puntual y urgente. Lo necesitamos acabado para final de junio. ES REMUNERADO.

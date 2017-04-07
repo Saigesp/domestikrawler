@@ -1,0 +1,17 @@
+
+Buscamos un becari@ en prácticas para trabajar media jornada en Barcelona.
+Función: Dentro del Departamento informático, su función principal será la concepción, el desarrollo y el seguimiento de aplicaciones web. 
+Participará en: 
+- El análisis y la elección de las tecnologías 
+- Programación de las aplicaciones 
+- Ajustes de la base de datos 
+Perfil: Se requieren los siguientes conocimientos técnicos: 
+- PHP, 
+- MySQL, 
+- HTML, 
+- CSS, 
+- Javascript. 
+Duración:
+- La duración del contrato será de 6 meses. Con posibilidad de contratación pasados los 6 meses.
+Una vez validados los conocimientos podrá participar en proyectos de gran envergadura realizados  con tecnologías de vanguardia como: Node.js, Socket.io, Symfony2, MongoDB, Redis, ElasticSearch, Angular.js
+

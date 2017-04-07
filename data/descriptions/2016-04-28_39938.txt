@@ -1,0 +1,4 @@
+
+Buscamos incorporar una persona con conocimientos de programación .Net y experiencia en el desarrollo de aplicaciones con el lenguaje de programación C#.  En el proyecto se trabajará con la siguientes tecnologías, WPF, Arquitectura MVVM, LINQ, SQLServer.
+Se valorará conocimiento de base de datos a nivel de programación (optimización de consultas, administración de índices, procedimientos almacenados, etc.)
+Se trata de un proyecto en continua evolución, se trabajará dentro de un equipo de trabajo consolidado de 5 personas.

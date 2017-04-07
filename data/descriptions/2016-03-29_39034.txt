@@ -1,0 +1,16 @@
+
+Sueldo : 24.000€
+Importante empresa del sector de la formación online precisa incorporar a su equipo informático un programador web, para integrarse en el equipo de innovación.
+Se valorará positivamente que te suene la palabra Scrum ya que es nuestra metodología de trabajo.
+Conocimientos técnicos: 
+•	PHP. 
+•	SQL. 
+•	JavaScript. 
+•	HTML. 
+•	CSS. 
+•	jQuery / otros frameworks JavaScript. 
+•	Expresiones regulares. 
+•	Conocimientos de algunos frameworks como Phalcon, Codeigniter, Laravel…
+Se incorporara a un equipo joven, empresa dinámica, actual y con posibilidades de desarrollarse dentro de la empresa.
+Experiencia minima 3 años.
+

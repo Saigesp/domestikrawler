@@ -1,0 +1,15 @@
+
+Somos una Start up que desarrolla paquetes de software orientados al mundo empresarial.
+Buscamos un programador PHP senior que quiera involucrase en todas las facetas de desarrollo de producto: backend y frontend y sobre todo que sea "profesionalmente ambicioso" y proactivo.
+Se valorará:
+Buen conocimiento de Symfony2
+Familiaridad con frameworks de JavaScript
+Buen nivel de inglés
+Implicación en el proyecto
+Ofrecemos:
+Posibilidad de stock options
+Un buen entorno de trabajo
+Estudios mínimos: 
+No exigimos ningún nivel predeterminado de estudios sólo de conocimiento.
+Experiencia mínima: 
+Al menos 5 años

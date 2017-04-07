@@ -1,0 +1,18 @@
+
+Buscamos un programador web (front-end) con -al menos- 5 años de experiencia en el desarrollo client-side para incorporarse a nuestro equipo de desarrollo de DoubleYou Barcelona (ubicado en el barrio de Gràcia).
+Se encargará del desarrollo de la interfaz web de proyectos de comunicación y publicitarios para grandes marcas. La oferta es para incorporarse de manera inmediata, a jornada completa.
+Conocimientos y experiencia requeridos:
+Experiencia en desarrollo web con los presentes estándares (html5, css3, js) 
+Experiencia en maquetación responsive (mediante media queries y sistemas de grid como pure o bootstrap). 
+Experiencia trabajando en equipo. 
+Experiencia utilizando herramientas de gestión de repositorio de código como git o svn.
+Se valorará positivamente experiencia en: 
+Experiencia en pre-procesadores css (less, sass o stylus). 
+Sistemas de templating javascript (moustache/handlebars o jade). 
+Automatización de build basado en nodejs (gulp o grunt) 
+Conocimientos de diseño / UX 
+Conocimientos de accesibilidad 
+Conocimientos de SEO/ web semántica / microformatos 
+Conexión con servicios web REST/json 
+Conexión con servicios sociales y autenticación oauth. 
+Frameworks mvc javascript (backbone o angular js).

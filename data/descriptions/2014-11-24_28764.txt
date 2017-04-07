@@ -1,0 +1,12 @@
+
+Hola,
+estamos buscando un programador para el desarrollo de un proyecto.
+El trabajo incluye la maquetación de páginas en html/css, añadir las funciones que se necesiten en jQuery, montar las bases de datos, conectarlo todo y a parte un pequeño gestor privado para modificar la información.
+- Presencial o Remoto
+- Pagado por horas y semanas
+Requisitos:
+- Buen nivel de php y mysql
+- Experiencia maquetando usando algun framework de CSS como Foundation o Bootstrap
+- Adherencia a estándares
+- Buena comunicación y disposición (skype)
+Experiencia con git y herramientas de testing son Bonus.

@@ -1,0 +1,22 @@
+
+En MAKE seguimos creciendo y estamos buscando una programador PHP para el departamento Web con al menos 2 años de experiencia.
+MAKE es una agencia enfocada al Premier Partner de Google, Services & Sales Partner de Google Analytics y DoubleClick Certifiied Marketing Partner. 
+Además de trabajar y aprender de nuestro equipo de Programadores y expertos de UX, nos gustaría tu apoyo en los nuevos desarrollos que realizamos cada día.
+Los conocimientos previos que requiere el puesto son:
+-PHP
+-MySQL
+-jQuery
+-Programación WordPress
+Valoramos experiencia en:
+-Git
+-HTML5
+-CSS3
+-SASS/Less
+-Grunt
+-Magento 1.x/2.x
+Buscamos a alguien con ganas de aprender, crecer día a día y que pueda adquirir responsabilidades ya que tendrá que gestionar varios proyectos a la vez.
+Te ofrecemos:  Trabajar en un equipo de expertos  Jornada completa (Lunes a Jueves de 9 a 6 y Viernes y Vísperas de festivos de 9 a 2).
+Horario flexible de entrada (de 9 a 10) y salida (de 6 a 7).
+ Oficinas en el centro de Madrid.
+Clases de inglés.
+Y compañeros encantadores.

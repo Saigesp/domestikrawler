@@ -1,0 +1,16 @@
+
+En Sturffy estamos creciendo rápidamente y necesitamos incorporar un desarrollador frontend que domine las siguientes tecnologías:
+JavaScript alto 
+jQuery 
+Backbone.js 
+HTML5
+CSS3
+Familiarizado con sistemas MVC.
+Controladores de versiones tipo GIT. 
+PHP5 (No hace falta un nivel alto pero si conocimientos sobre PHP)
+Requisitos valorables:
+Symfony2
+Node.js
+Experiencia con Plataforma tipo Titanium
+Otros conocimientos relacionados como HTML5/CSS3/Responsive, desarrollo de web apps,... etc.
+Sturffy es una red social de contenido donde se opinan y valoran productos, servicios, marcas y empresas de una manera sencilla y visual. Somos un equipo pequeño, joven, ambicioso y muy motivados para escalar el proyecto. 

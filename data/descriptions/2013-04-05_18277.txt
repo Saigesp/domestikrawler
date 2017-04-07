@@ -1,0 +1,18 @@
+
+Playfulbet es un juego social de apuestas deportivas. En nuestra aplicación, los usuarios apuestan en sus deportes favoritos, compiten con sus amigos e incluso ganan premios. 
+Somos una start-up ubicada en Barcelona. Vivimos una fase de alto crecimiento y por ello queremos mejorar nuestro equipo. Ahora mismo estamos buscando un front-end developer. 
+Necesitamos de ti:
+·Dominio de HTML y CSS.
+·Experiencia en UX design.
+·Experiencia en maquetación web.
+·Experiencia con entornos mobile
+·Ganas de cambiar el mundo: ¡somos una start-up!
+Nos gustaría que tuvieras:
+·Una cuenta en GitHub
+·Dominio de JavaScript.
+·Experiencia en Ruby on Rails.
+Te ofrecemos:
+·Sueldo competitivo
+·Horario flexible
+·Un gran equipo.
+·Un entorno lleno de actividades: organizamos charlas, encuentros con expertos en tecnologías de la información,  torneos de ping-pong y todo tipo de eventos.

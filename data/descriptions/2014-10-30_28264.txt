@@ -1,0 +1,21 @@
+
+Empresa de desarrollo y diseño web ubicada en Alicante busca maquetador web freelance. Es imprescindible tener un buen nivel de inglés puesto que trabajamos para empresas de Noruega y es el idioma que empleamos para comunicarnos con nuestros clientes.
+Los requisitos necesarios para cubrir el puesto ofertado son:
+Required
+- HTML5
+- CCS3
+- Adv. JAVASCRIPT
+- Responsive and speped-optimized websites 
+- JQ and JQ plugins
+- BOOTSTRAP
+- GIT
+- CANVAS
+- Clean code 
+
+Plus skills
+- Heatmap
+- A/B testing
+- Usability 
+Optional
+- Mobile spesific framework
+- JqMobile or Sencha (++)

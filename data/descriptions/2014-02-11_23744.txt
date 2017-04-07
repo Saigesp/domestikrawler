@@ -1,0 +1,21 @@
+
+Buscamos un desarrollador back-end para trabajar con nosotros en nuestro estudio de Madrid con ganas de hacer cosas distintas (webs, apps, mapas, visualizaciones de datos...) y de aprender cosas nuevas.
+Debe tener experiencia programando en frameworks MVC como Symfony2 y Rails.
+Con conocimientos básicos de configuración de servidores Apache
+Conocimientos de SQL y/o PosgreSQL
+Aparte de esto valoraríamos:
+- Que se defienda en inglés 
+- Que le guste programar para web, conozca algo de HTML, JavasCript y/o CSS 
+- Que conozca y valore las herramientas Open Source
+Lo que haría:
+- Definición técnica de proyectos y soluciones 
+- Diseño funcional de aplicaciones y modelo de datos 
+- Desarrollo y programación back-end de las aplicaciones 
+- Configuración de servidores (normalmente LAMP)
+Lo que ofrecemos:
+- Contrato indefinido a jornada completa 
+- Posibilidades de desarrollo según sus intereses y posibilidades de formación pagada por la empresa 
+- Horarios flexibles 
+- Un ambiente de trabajo muy agradable 
+- Sueldo a convenir según la experiencia y habilidad 
+- Bonus anual ligado a resultados de la empresa y desempeño.

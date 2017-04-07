@@ -1,0 +1,5 @@
+
+Buscamos freelance que tengan conocimientos en creación de personajes y animación 2d orientada al sector de los videojuegos.
+Queremos desarrollar un prototipo en Unity y sería deseable que los interesados tuviesen experiencia usando herramientas de animación que se integren de forma sencilla con Unity (Spine o plugins de Unity).
+También necesitamos cubrir el apartado de creación de fondos para escenarios y assets auxiliares.
+El trabajo puede ser a distancia, pero preferentemente estamos buscando gente que resida en Madrid para poder tener reuniones de seguimiento.

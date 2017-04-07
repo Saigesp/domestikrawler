@@ -1,0 +1,24 @@
+
+En Iwantic, para uno de nuestros clientes, importante multinacional del sector de la moda, seleccionamos a un Senior.NET Engineer para su sede en Granada, que cumpla las siguientes funciones:
+- Diseño y desarrollo de aplicaciones innovadoras utilizando Microsoft .NET y SQL Server y coordinarlas con el resto del equipo.
+- Identificación y resolución de problemas de forma rápida.
+- Poner en práctica nuevas ideas para reaccionar antes los cambios del entorno.
+- Mejorar la experiencia del usuario y la calidad del producto.
+- Asegurar el mejor rendimiento posible, la calidad y la capacidad de respuesta de las aplicaciones.
+ 
+Requisitos:
+- Ingeniería informática o superior.
+- Mínimo, 3 años de experiencia con Microsoft .NET MVC.
+- MVC y RESTful
+- Experiencia con HTML, CSS y JavaScript.
+- Gran conocimiento de diversos DBMS.
+- Experiencia demostrable con XP, SCRUM o Kanban.
+- Inglés (mínimo B2)
+ 
+Tecnologías:
+- Web: HTML, CSS, JavaScrip.
+- Metodología - Ágile(XP, Scrum, Kanban)
+- Microsoft .NET MVC.
+- MVC y RESTful.
+ 
+La posición incluye un atractivo paquete retributivo además de incorporación inmediata.

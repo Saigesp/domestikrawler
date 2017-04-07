@@ -1,0 +1,13 @@
+
+Somos una agencia de publicidad en Valencia, muy inquieta y activa que precisamos incorporar a nuestro equipo un profesional maquetador-programador web para desarrollar proyectos web.
+Jornada completa. Experiencia demostrable.
+Imprescindible pasar prueba de capacitación. Consistente en maquetar y programar un proyecto ficticio durante una jornada laboral.
+Incorporación inmediata.
+Requisitos:
+- Maquetador Pixel Perfect.
+- Html5, CSS3, Javascript, JQuery, PHP..
+- Wordpress, etc, 
+- Conocimiento entorno Mobile. 
+- Diseño responsive
+- Base de datos MySQL.
+

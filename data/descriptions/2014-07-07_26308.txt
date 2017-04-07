@@ -1,0 +1,28 @@
+
+EW is Madrid´s on line magazine in English. It went on line in May 2012 and has established itself as a point of reference for English speakers who want to keep up to date with events and news in the city.  Over the last 6 months the page has organised a series of pop up in English events in order to test the market and leverage its readership to sell tours, trails, crawls & guided walks.
+
+The directors have decided to re-launch the page as a monthly magazine and to sell 8 core tours etc to moneterize the page. This will entail
+•      a substantial re-design to address the technical needs of a pay platform/cart .
+•      The page has become cluttered and unfocused and the new design will need to simplify the interface, reduce the number of sections, introduce the monthly edition format and a news in brief panel.
+•      SEO friendly URLs
+•      Mega tags on each page
+•      A landing page for each tour , full description,  video wall, order and pay (with a cross reference to , other people who bought this tour also bought..)  check out and pay or save and return
+•      Responsive design, adopt itself to high resolution desktops, tablets , smartphones and printers
+
+Admin/Backend
+
+•      Tools to add/edit/ delete categories and products
+•      Tools to add/delete/amend tours, eg tour name, background and other images. Ability to manage and print out reservations for each tour.
+•      Edit/ delete/ amend orders and show status of order
+•      Tools to manage customer database.
+
+Frontend
+
+Shop (tour options)linked to  home page and separate prominent link to all tours on home page. Page listing all tours with thumbnails and brief description, with direct link to video and specific tour page . Add to basket item on each tour page and landing tour page.
+
+Product detail page with full description and facility to add to cart. With drop down menu showing available dates. Products in cart will be shown in a floating panel activated on every page with link to see the cart in full.  Cart has option to remove and cancel items. Cart has proceed to check out option.
+
+Customers register before checking out. Check out page has order summary , confirming status ´bought´  ´payment pending´ . Customers can specify delivery address (or email address for tickets).
+
+Payment declined/confirmed page after transaction with confirmation email to customer and message to EW admin with option to print out tickets. Order added to EW database and tour closed and not avail for that date message if others try and it´s full.  My orders added to members profile page with list of all previous orders.
+

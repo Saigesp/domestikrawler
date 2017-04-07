@@ -1,0 +1,18 @@
+
+DESCRIPTION
+Alea is an award-winning leader in the online gaming field. We are dedicated to delivering fully licensed, multi-platform casinos to our customers, while at the same time, offering high-performance gaming solutions and top-quality services to the market place.
+Here at Alea, we are building an awesome cloud-based casino engine, aiming to provide the best player experience in eGaming. And let's be honest, we simply want our software to be the best - less is just not acceptable. As a cutting-edge technology startup we also have provided the first Virtual Reality Casino experience in the world.
+You will be working within the IT team and here, we love agility. We love being flexible and we are not afraid to change when we see something that can be improved. That's why we are using Scrum and Kanban, this reflects our mentality. We also believe there is always room to get better and it's very likely that you will have to learn something you don't know yet.
+Who you are:
+You are a Master Web developer with more than 7 years working with PHP, HTML, MySql
+You are confident using any of the MVC framework as: Symfony, YII, Zed, codeigniter.
+You are not afraid to try out new technologies as Redis, NodeJs, AngularJs, PHP7, Symfony3.
+You still want to learn, and you're also keen to share the knowledge you gained already.
+You are a great team player who wants to create something big with us.
+If you read this description till here, it's likely you speak English good enough.
+You are able to join our office based in the center of Barcelona.
+BENEFITS
+A really competitive salary package based on your experience.
+An awesome flexible benefits package, including Medical insurance, Gym, fresh fruit everyday, Food and Transport card.
+To join an international, young and friendly work environment (we play videogames and have drinks all together after work in our terrace).
+To work with the newest cutting-edge technologies.

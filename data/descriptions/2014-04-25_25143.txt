@@ -1,0 +1,7 @@
+
+Tareas a Realizar:
+Desarrollar y poner en marcha aplicaciones Web ( webs corporativas, portales, plataformas, intranets, extranets, aplicaciones telefónicas, etc.), así mismo como administrar y actualizar las ya creadas en continua coordinación y cooperación con el Diseñador de Páginas Web y el analista on line, gestionando y resolviendo las incidencias que puedan surgir.
+Se valorará:
+- Conocimiento y aplicación de los distintos lenguajes habituales para la programación web: HTML5 JavaScript, php, asp, CSS3, JQuery.
+Se requiere:
+- Ingeniero Informático/ Diseño Web con experiencia mínima de 3 años en la creación de paginas web, aplicaciones multimedia, redes sociales y tecnología para dispositivos móviles.

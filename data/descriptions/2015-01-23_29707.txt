@@ -1,0 +1,43 @@
+
+Your Role
+We are looking for a team player who will work as part of a small and autonomous team of experienced Web Developers to help build and maintain high-traffic video-streaming websites. You will also work with the product owner and other team members to understand business requirements – then turn these requirements into working software, and all this, in an Agile software development environment while having fun.
+Required Technical Skills & Experience
+2+ years experience design and coding experience in PHP backend development using Symfony2 framework.
+Experience in Unit and functional testing like PHPUnit and Behat.
+Ability to work in GNU/Linux environment.
+Experience and clear concepts about caching strategies: Memcache, Redis, ...
+Experience with jQuery, or similar frontend JS libraries.
+Experience in Control Version Systems is a must, Git would be highly appreciated.
+Strong SQL and data model design skills.
+Personal Skills
+Comfort learning new tools, techniques, languages, and technologies and self-motivation skills
+Ability to think beyond code to architecture and user experience
+Ability to communicate and coordinate with your teammates. Contribute creative and innovative ideas
+Fluent in English
+Preferred skills & abilities (bonus round!)
+The following attributes, while not required, would be valuable to the team and useful in our day to day work:
+
+Understanding of, and agreement with, Agile principles (Preferably SCRUM framework) and tools like Continuous Integration, automation ,etc.
+
+Experience with UI/UX development, basic systems administration (or both).
+Experience with high traffic websites.
+Experience in open source technologies with broad skills in technologies such as Memcached, Varnish, RabbitMQ, ElasticSearch, Chef, etc.
+Be comfortable with GitHub, Travis, JIRA
+Be comfortable touching HTML, CSS and other front end technologies
+Experience with CDNs
+NOTE: European citizenship, or permanent resident status, required.
+Our Company
+Kodify is a new company, approaching it's 2 year anniversary in December 2014, but it’s based on years of success, building and managing high-traffic websites. We have grown our websites to 3M visitors per day, which comes with a challenging set of technical problems to overcome. This is down to Kodify’s teamwork, where each key player plays a role in getting us one step closer to our goals. All this doesn’t happen with a healthy portion of fun & perks. From company BBQs on our terrace, to yearly company off-site excursions, we make sure to live by our moto of “Work Hard, Play Harder” and balance it all out! It’s our goal to create one of the best working environments possible which allows everyone to achieve their maximum potential with their individual skill sets.
+Goodies
+Work in an Agile environment
+
+You will be provided with brand new equipment on joining (What ever boosts your productivity)
+Core hours with Flexitime: code when you’re at your most creative
+Ticket restaurant
+Attend training/conferences/etc.
+
+Awesome office in central Barcelona, having a coffee in our terrace is one of the best moments of the day :)
+10% of your time for personal projects.
+Order books from Amazon using our company account
+Half day off on your birthday
+... Miss anything, tell us, we might add it to the list!

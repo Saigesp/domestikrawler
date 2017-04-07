@@ -1,0 +1,6 @@
+
+Buscamos un programador con sólido dominio de PHP y MySQL.
+Se valorará:
+- Manejo de JavaScript, JQuery, ASP y aplicaciones en Facebook.
+- Facilidad de programación y clases propias.
+

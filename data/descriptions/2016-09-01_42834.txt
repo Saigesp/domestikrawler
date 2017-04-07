@@ -1,0 +1,31 @@
+
+AKTIOS is seeking a Senior Java Developer to work in Palma de Mallorca. We are an IT Consultancy who works in different sectors and functional areas of the companies, providing 360º solutions to our clients. 
+Description:
+The Java Developer will participate actively in development phase solutions using different JAVA technologies. The successful candidate will be involved in multiple projects from different clients, being part of a dynamic team and working with Agile Methodology (SCRUM). 
+This is a fantastic opportunity for a Java Developer to work within a company who takes pride in their technology driven environment and where the last technologies are utilized. The successful Java Developer will have the opportunity to make a genuine impact on the projects that the team is working on.
+If you are passionate about technology and Java... we want to hear from you! 
+We need a candidate with these skills and facilities:
+•	Degree educated in Computer Science or a closely related subject 
+•	Good level of English
+•	Minimum 2-3 years of professional experience with a similar role in development tasks
+Knowledge
+1.	Technical knowledge required:
+a.	J2EE 
+b.	Experience in code optimization, using testing and integration testing (Java API, Junit, Jenkins)
+c.	XML, JSON and REST API 
+d.	Experience in AGILE methodologies (SCRUM)
+Nice to have:
+Official Java Oracle certifications
+Abilities & personal qualities:
+•	Integrating vision
+•	Analysis skills
+•	Conceptual and Abstract thinker
+•	Ability to solve technical problems and work under pressure
+•	Interpersonal Skills
+•	Multitasker
+•	Organized
+•	Good team player
+We offer
+- Permanent contract 
+- Worldwide environment 
+- To be part of a company which provides professional growth opportunities 

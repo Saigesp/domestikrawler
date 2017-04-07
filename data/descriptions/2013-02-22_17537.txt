@@ -1,0 +1,17 @@
+
+Responsable sobre la puesta en marcha de un nuevo portal de innovación realizando y coordinando el equipo, desarrollo de contenidos, front office y asumiendo la gestión del proyecto y puesta en valor comercial del sistema.
+Requisitos:
+Estudios mínimos:	 Ingeniero Técnico - Técnico en Informática de Gestión
+Experiencia mínima: De 3 a 5 años
+Requisitos mínimos: Ser una persona apasionada por las tecnologías web y negocios de Internet.
+Tener al menos 4 años de experiencia demostrable gestionando equipos de desarrollo de software y desarrollando aplicaciones en entorno web.
+Conocimiento aplicando metodologías ágiles de gestión de proyectos. (Scrum, XP)
+Experiencia en Java/J2EE y RoR (Ruby On Rails).
+Haber trabajado con motor de base de datos MySQL.
+Valorable conocimiento en bases de datos No-SQL
+Conocimiento en escalabilidad web y administración de sistemas en entorno linux.
+Experiencia trabajando con front-end en CSS3, jQuery y HTML5
+Se valorarán conocimiento en técnicas de marketing online (SEO y SEM) para ayudar a aumentar el tráfico de usuarios.
+Experiencia usando repositorio de código GIT.
+Se valorará conocimiento en el desarrollo de aplicaciones en dispositivos móviles.
+Nivel alto escrito y hablado de inglés

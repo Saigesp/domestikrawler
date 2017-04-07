@@ -1,0 +1,8 @@
+
+Desde Patchworks estamos buscamos un desarrollador C# .Net para incorporarse a nuestro proyecto de tecnología musical Conductr (www.conductr.net). 
+Experiencia imprescindible en:
+- .dll's
+- instaladores
+- networking a bajo nivel.
+Jornada flexible y buenas condiciones económicas.
+Saludos.

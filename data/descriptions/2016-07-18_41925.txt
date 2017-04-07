@@ -1,0 +1,29 @@
+
+Golden Race is the global market leader for pre-recorded virtual sports betting. We are a small but
+growing team of motivated professionals from many backgrounds and disciplines, operating together in a positive and supportive environment to grow and excel as one of the most promising and rapidly expanding companies in the betting industry.
+Now, we are looking for a Technical Systems Administrator to:
+● Operate and maintain thirty servers including web, MySQL, and proxies.
+● Select providers for, design, and document (in English) high availability systems architecture.
+● Management of technical systems, by monitoring tasks and process definition.
+Requirements:
+● Systems Administrator with experience in GNU / Linux servers with high-volume and data traffic.
+● Experience with cluster deployments with PHP, Java and MySql (mirroring and backups).
+● Experience in AWS, VMWare, and CDNs Cloud environments.
+● Experience in backup tools and high volume database optimization.
+● Monitoring and detection of bottlenecks.
+● Knowledge of security in web environments.
+● Automating tasks, solvency scripting languages, Bash and some Perl / Python / PHP / Puppet.
+● Strong knowledge of network devices and technologies, DNS, load balancers, firewalls.
+● Good level of spoken and written English.
+● Availability for emergencies.
+● No minimum training required.
+● Technologies used : Apache, PHP,MySQL,AWS,Amazon,Cloud,Puppet and Docker.
+● Essential fluent english written and spoken.
+● We are looking for: responsible person, entrepreneurial, proactive, dynamic, with communication and interpersonal skills, and experienced with clusters of Linux servers and virtualized environments.
+Observations:
+● Permanent contract and immediate incorporation into a good working environment and excellent team.
+● Opportunity to be part of a team in constant growth and international projection.
+Evaluation:
+● List some situations from your experience in systems management where you have experienced demanding challenges, specifically with heavy traffic / transactions. Detail the difficulties encountered and explain the solutions applied.
+● If our critical database systems become problematically low on disk space, how would you
+proceed safely to resolve this problem without stopping production.

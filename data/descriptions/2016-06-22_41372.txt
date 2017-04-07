@@ -1,0 +1,15 @@
+
+¿Quieres formar parte de una start up en pleno crecimiento?
+¿Eres una persona con ganas mejorar tu entorno de trabajo?
+¿Eres inquieto tecnológicamente?
+¡Eres el candidato ideal!
+En estos momentos buscamos un Senior JavaScript & FrontEnd Developer para unirse a una start up con un ambiente dinámico, multinacional y en pleno cambio tecnológico.
+Para ser el candidato seleccionado, deberás aportar:
+- Experiencia en JavaScript, siendo imprescindible conocimientos en AngularJS.
+- Debes dominar HTML5, CSS3 y técnicas responsive.
+- Experiencia en GIT, así como en Scrum/Kanban.
+- Nivel alto de inglés, ya que tus compañeros provienen de más de 15 nacionalidades distintas.
+Valoraremos el conocimiento y experiencia en tecnologías orientadas a objetos, así como en Gulp o Grunt y React.js.
+Si crees que tienes un perfil muy similar al necesario, ¡No dudes en inscribirte!
+Estamos en búsqueda permanente de talento, de implicación, de motivación, de responsabilidad, de pasión, de esfuerzo, de compañerismo y de ideas, que permitan seguir haciendo crecer y mejorar este proyecto común en el que estamos todos. Si sientes inquietud, te atrae afrontar nuevos retos y trabajar en un buen ambiente de trabajo ¡te esperamos!
+PROFILE, es una compañía en constante crecimiento y expansión con más de dieciséis años de experiencia ofreciendo servicios de Consultoría, Desarrollo, Diseño e Implantación de Tecnologías de la Información, con sedes en Madrid, Barcelona, Tarragona y Santander.

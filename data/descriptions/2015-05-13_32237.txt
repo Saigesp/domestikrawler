@@ -1,0 +1,11 @@
+
+En 101 estamos buscando a un desarrollador full-stack sénior (+4 años de experiencia) especializado en Django, que haya trabajado en entornos ágiles, se sienta cómodo liderando proyectos de desarrollo y no tenga problemas en investigar nuevas tecnologías (o mejorar las que ya existen) hasta límites insospechados.
+Si te interesa tienes que saber que nos gusta darle muchas vueltas a las cosas, no nos confomamos con algo que esté “medio bien” o “pasable”, que tu opinión vale igual o más que la del jefe y que vamos a pedirte que respondas con un “sí, por supuesto que lo puedo hacer y de hecho, me encanta” cuando te pidamos:
+Django
+Ansible
+Nginx / Apache
+Nodejs
+Html5
+Gulp
+Y como damos por hecho que vivías en el mundo antes de Django, te devolveremos una sonrisa si también controlas de algún framework php como Wordpress o Drupal, o incluso te has interesado alguna vez por Umbraco.
+Nosotros vamos a conseguir proyectos interesantes para ti, que salgas todos los días a las 18:30 (¡los viernes a las 2!), que trabajes en una oficina agradable con gente simpática y que tengas un buen sueldo.

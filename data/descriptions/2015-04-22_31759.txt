@@ -1,0 +1,11 @@
+
+En Yunbit plataforma de soluciones de negocio en la nube, estamos buscando un director de proyectos para incorporarse a nuestro equipo de producción.
+ Requisitos - gestión:
+Es muy importante que sea una persona dinámica capaz de gestionar proyectos de integración de productos de gestión empresarial, ERP, CRM, RRHH, ECM, Ecommerce.
+Capacidad de interlocución con los clientes durante los proyectos, así como la organización del equipo de producción.
+Se requiere experiencia de más de 2 años en gestión de proyectos ERP, tanto para departamentos financieros y contables, como procesos de operaciones; para establecer una interlocución ágil entre las necesidades del cliente y los programadores en la implementación de los proyectos.
+Se valorarán positivamente el conocimiento de metodologías de desarrollo ágiles (SCRUM, XP).
+Se valorará experiencia técnica en desarrollo web con uso de tecnologías PHP, javascript y mySQL en entorno LAMP.
+Lugar de trabajo: Madrid
+Requisito imprescindible: residir en provincia del puesto vacante.
+ 

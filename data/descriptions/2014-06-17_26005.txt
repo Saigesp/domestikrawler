@@ -1,0 +1,12 @@
+
+Odisea Barcelona es una agencia de publicidad 360º dedicada a la comunicación on-line, off-line, above y below the line. 
+Estamos buscando un desarrollador web junior  para nuestro departamento de diseño on-line, para realizar trabajos que van desde la maquetación web al desarrollo de bbdd. Los proyectos se realizan de una manera colaborativa con el departamento creativo, siendo muy importante la motivación e implicación en estos.
+Requerimientos:
+- HTML / CSS 3 / Javascript / PHP / MySQL
+- Pack Adobe CS (Photoshop, Illustrator, Flash)
+- Conocimientos de Diseño
+Se valorará:
+- Conocimientos en programación web para dispositivos táctiles.
+- Posicionamiento SEO y análisis de datos
+- Conocimientos de las Redes Sociales y su funcionamiento para utilizar en campañas publicitarias.
+- Conocimientos de edición de vídeo / gráficos animados. 

@@ -1,0 +1,18 @@
+
+Madridnyc busca incorporar un Analista Programador o Programador Seniro para proyecto en importante cliente final, líder internacional del mercado de directorios, servicios de publicidad y marketing directo.
+Requisitos mínimos:
+-	AP j2ee.(Java 1.5/1.6)
+-	Spring MVC.
+-	Hibernate
+-	Jquery
+-	Webservices
+-	Apache CXF
+-	Active Mq
+-	Weblogic
+-	Jboss
+-	Jstl
+Requisitos Deseados: 
+Conocer herramientas de pruebas unitarias como Hudson(o Jenkins), Pmd O Sonar.
+Abstenerse aquellas personas que no quieran residir en Madrid.
+Salario según valía.
+

@@ -1,0 +1,18 @@
+
+En Lavinia Interactiva Barcelona estamos buscando un/a analista/programador PHP con formación en ingeniería técnica o superior y 3 o más años de experiencia previa demostrable.
+
+Conocimientos técnicos requeridos:
+PHP 5.x
+Frameworks: CodeIgniter, Symfony 2.x
+CMS: Wordpress
+Javascript: jQuery, JSON, Ajax
+HTML/HTML5, CSS
+Bases de datos: MySQL, Oracle 10g
+
+Conocimientos deseables:
+Linux a nivel de usuario
+Java
+Drupal
+Lavinia Interactiva es una agencia de marketing digital, tecnología y contenidos que se dedica a optimizar la inversión en Internet de sus clientes desde 1999. Entre nuestros clientes encontramos grandes compañías farmacéuticas, bancos, medios de comunicación o empresas de gran consumo para los que hemos desarrollado más de 1.500 proyectos. 
+El candidato trabajará acompañado y respaldado por un equipo multidisciplinar que cubre todo el proceso de creación, desde la estrategia hasta la analítica pasando por el diseño y la creación de contenidos.
+

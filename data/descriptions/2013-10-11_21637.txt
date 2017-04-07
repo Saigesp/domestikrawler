@@ -1,0 +1,18 @@
+
+ThinkSmart: Consultora tecnológica y de marketing líder en Europa y América.
+Especializados en la optimización de recursos, implantamos soluciones tecnológicas innovadoras desarrolladas a partir de nuestra plataforma online y aplicación móvil permitiendo la gestión integral personalizada de todos los elementos que componen nuestras soluciones de negocio.
+Puedes encontrarnos en www.thinksmart.es, www.thinksmartusa.com, www.thinksmart.mx
+Descripción del puesto de trabajo:
+El maquetador es el responsable de la implementación general de los programas así como de los elementos externos (piezas de comunicación) a la aplicación ya construída que requieran definición creativa implementando la propuesta creativa desarrollada por Creatividad cumpliendo las Guide Lines establecidas y las funcionaliades descritas en el documento funcional del programa
+Requisitos:
+Construcción de páginas de estilo (CSS), Photoshop, Illustrator, Flash y HTML5.
+Conocimientos deseables:
+- Edición de vídeos
+- Maquetación para web y dispositivos móviles
+- Creación de apps.
+- HTML
+- Javascript
+- MySQL
+Conocimientos técnicos deseados:
+- JQuery
+- PHP POO 

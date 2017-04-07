@@ -1,0 +1,16 @@
+
+Puesto de diseñador / maquetador web para desarrollo de aplicaciones web y móvil con nivel de experiencia medio (3 - 5 años) e incorporación inmediata. Buscamos profesionales con capacidad de trabajo en equipo y con alto grado de motivación. Se valorará la iniciativa, creatividad  y la autonomía a la hora de afrontar los proyectos y buscar soluciones. Se ofrece formación especializada y desarrollo profesional continuo. 
+Es indispensable presentar trabajos realizados, portfolio o similar.
+Conocimientos requeridos:
+Diseño gráfico y alta creatividad
+Html/Html5.
+Maquetación Responsive Design orientada a multidispositivo
+Estándares de accesibilidad y W3C
+Css2 y Css3.
+Javascript: jQuery / Prototype, JSON, Ajax
+Photoshop, Ilustrator
+Conocimientos deseables:
+Metodologías ágiles, tipo SCRUM
+Nivel medio-alto de inglés
+Frameworks: node.js, angular, ionic
+Edición y adaptación de plantillas de Wordpress y Drupal

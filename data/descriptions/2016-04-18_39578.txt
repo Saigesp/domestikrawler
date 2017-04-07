@@ -1,0 +1,22 @@
+
+We are looking for a Senior PHP Engineer, a very talented profile using back-end technologies to 
+join our PHP engineering team. This candidate will participate in the analysis, design and 
+development phases of several new projects in our company, using advanced back-end 
+technologies in order to guarantee performance, code quality and maintainability of our platform.
+This role must have a solid back-end technology background, using PHP as a main language and using MySQL relational databases. Previous experience in high traffic websites will be a plus for applying to this position.
+This candidate must be used to work with new web technologies and within an agile development 
+environment.
+Background and skills 
+University degree in Computer Science or a related field
+ Proficient in English language 
+ 4 years on experience in PHP Development
+ 3 years on experience in MySQL development
+ Strong knowledge using PHP Frameworks such as Symfony and Zend Framework
+ API development, webservices, REST
+ Caché management: Redis, Memcached
+ Performance: techniques and tools to optimize high traffic websites
+ ElasticSearch knowledge will be a plus
+ Experience working with Subversion or GIT environments
+ Proactive and dynamic person, motivated to grow within technology team
+ Person who bring new ideas and proposals to our team
+ Motivated on using up-to-date technologies

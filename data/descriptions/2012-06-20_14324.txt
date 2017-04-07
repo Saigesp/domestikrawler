@@ -1,0 +1,26 @@
+
+Programador Web
+Empresa dedicada a desarrollar aplicaciones web orientadas al comercio electrónico busca programador/maquetador para incorporación inmediata.
+Lugar de trabajo en Vilafranca del Penedès (Barcelona).
+Requisitios imprescindibles:
+
+Experiencia mínima de dos años en desarrollo de aplicaciones Web.
+Experiencia profesional y dominio de maquetación en HTML/ HTML5.
+Dominio excelente de PHP5.
+Programación orientada a objetos.
+Conocimiento del patrón MVC.
+Buen dominio de Javascript, librerías (Jquery, Prototype, Mootols) y AJAX.
+Bases de datos relacionales (MySQL).
+Se valorará:
+
+Uso de  frameworks de e-commerce (magento, prestashop).
+Uso de  frameworks PHP (symfony, Zend, Cake).
+Desarrollo sobre CMS (joomla, wordpress, drupal).
+Conocimientos en posicionamiento SEO, Web performance y un alto nivel de inglés.
+Desarrollo/conocimiento de aplicaciones móviles.
+Se ofrece:
+
+Jornada laboral completa presencial.
+Horario flexible. 
+Tipo de contrato indefinido.
+Sueldo segun valía del candidato.

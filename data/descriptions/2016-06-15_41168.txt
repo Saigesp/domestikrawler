@@ -1,0 +1,52 @@
+
+MOTTO som una agència creativa digital especialitzada en desenvolupament web avançat. Treballem en grans projectes que engloben disseny, maquetació, programació i comunicació online. 
+Busquem un perfil de maquetador web (HTML / CSS), a jornada completa, per a incorporar-se a l'equip de desenvolupament.
+Quines seran les teves funcions?
+Les típiques d'un departament de programació:
+Maquetació de projectes web de diferents envergadures.
+Maquetar projectes des del seu plantejament inicial.
+Identificar i solucionar problemes i reptes.
+Aprendre i desenvolupar noves funcionalitats adaptades a la demanda del mercat. 
+
+Quins coneixements necessitaràs?
+Per a fer les tasques descrites anteriorment hauràs de tenir els següents coneixements:
+Maquetació vàlida, responsive i cross-browser
+Maquetació amb i sense framework (bootstrap)
+Treball amb imatges: optimització, sprites
+Javascript i jQuery
+Preprocessadors de CSS: SASS (SCSS)
+Animacions CSS
+Task runners: Grunt, Gulp
+Coneixements de OO CSS (Object Oriented CSS) i BEM (Block Element Modifier)
+Utilització de SVG en la maquetació (animacions, icones, etc)
+Tags semàntics (microdatos)
+Nocions de SEO, Open Graph
+Nocions de PHP + MySQL.
+Experiència en framework PHP MVC (Laravel, CodeIgniter...).
+Control de versions (Git).
+
+Quines aptituds et seran necessàries?
+A part d'aquests coneixements estem buscant una persona amb les següents aptituds:
+Experiència mínima de 3 anys, demostrable, en un lloc similar.
+Habilitats comunicatives i de treball en equip.
+Valorem el compromís, l'esforç i la dedicació en la feina feta.
+Gran capacitat d'aprenentatge.
+Responsabilitat.
+Proactivitat.
+Motivació.
+Eficiència.
+
+Què t'oferim?
+Participació en projectes web/plataformes de gran envergadura per diferents clients d'àmbit nacional i internacional.
+Feina a jornada completa al centre de Barcelona.
+Unir-te a un equip dinàmic, innovador i multidisciplinar on poder créixer i adquirir nous coneixements cada dia.
+Participar en projectes innovadors que et permetran completar la teva formació i potenciar les teves capacitats.
+Sou en funció de l'experiència.
+
+Quin serà el teu horari?
+De dilluns a dijous tenim un horari flexible: podràs entrar entre les 8h i les 9h del matí, tindràs entre 30 minuts i 2 hores per dinar i sortiràs quan hagis acumulat 8 hores i 30 minuts.
+Els divendres la jornada és només de 6 hores: de 8:30h a 14:30h i ja podràs marxar de cap de setmana! : )
+
+On serà el teu lloc de feina?
+Al centre de Barcelona, a la Via Augusta, 82 (Plantes 6 i 7).
+A 3 minuts de l'estació de Gràcia dels FGC i a 3 minuts de l’estació de Fontana del Metro.

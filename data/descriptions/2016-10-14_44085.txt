@@ -1,0 +1,17 @@
+
+En Iwantic estamos buscando un DBA para una gran start-up del sector Internet en Barcelona.
+Queremos a alguien a quien le interese unirse a una compañía en crecimiento y con un equipo joven, dinámico y con talento.
+Conocimientos requeridos:
+- 1 año o más en administración de sistemas basados en linux. Nivel LPIC-101/102 demostrable.
+- Conocimientos demostrable en SQL y No-SQL
+- Conocimientos de administración de sistemas.
+- Idiomas: nivel nativo de catalán y español. Buen nivel de inglés (al menos First Certificate Level).
+-Título de Grado/Licenciatura (o superior) en Informática, Ingeniería o otra disciplina relacionada (Telecomunicaciones, Matemáticas, Física).
+- Pasión por el diseño y la programación, y ganas de desarrollar nuevas ideas.
+- Análisis, migración, diseño, modelado, integración y almacenamiento de datos.
+Se ofrece:
+- Valoramos la iniciativa, creatividad, imaginación y responsabilidad. 
+- Formación y aprendizaje. 
+- Ambiente dinámico y multilingüe. . 
+- Horario flexible y adaptable según las necesidades. 
+Salario según valía.

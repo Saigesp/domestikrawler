@@ -1,0 +1,19 @@
+
+¡Hola!
+en Zuinq Studio buscamos nuevo talento para ampliar nuestro equipo. Estamos en Sevilla, creamos aplicaciones web, apps nativas y videojuegos para smartphones, ¡y nos encanta!
+Si te consideras una persona autodidacta, resolutiva y creativa, y para ti la tecnología, la programación y la innovación está en esa línea rara entre el trabajo y el hobby, tienes una magnífica base para encajar en Zuinq :)
+
+En el lado más técnico, necesitaremos que te sientas muy cómodo con una o varias de las siguientes tecnologías:
+- Desarrollo de aplicaciones web Php-MySql, desde 0 y también usando algún framework (Zend, por ejemplo). Si también controlas de capa cliente (html, css, javascript) o frameworks como angularJS, mejor todavía.
+- Desarrollo de aplicaciones nativas Android.
+- Desarrollo de aplicaciones nativas iOS.
+- Desarrollo de videojuegos en Unity3d.
+También te será útil:
+- Tener conocimientos básicos de programas de diseño / ilustración (Photoshop, Fireworks o Illustrator).
+- Haber trabajado previamente con control / versionado de código (svn o git preferentemente)
+- Que te encanten los videojuegos :)
+Lo que ofrecemos:
+- Un puesto en nuestra oficina en Tomares (Sevilla) trabajando en proyectos muy dispares, siempre tendrás ocasión de aprender algo nuevo.
+- Horario de 8:00 a 15:00 de lunes a viernes (y de 17:00 a 19:00 martes y jueves)
+- Salario entre 15.000€ y 24.000€ brutos anuales, según tu experiencia.
+Si te sientes identificado con uno o varios de los puntos que mencionamos, si eres experto en alguna tecnología que hayamos olvidado mencionar (¡nunca se sabe cuándo puede hacernos falta!), si has trabajado recientemente en algún proyecto que te gustaría enseñarnos o si hay alguna otra razón por la que creas que puedes encajar en nuestro equipo, ¡escríbenos a jobs@zuinqstudio.com! Nos encantará saber de ti :)

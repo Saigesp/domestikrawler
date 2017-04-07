@@ -1,0 +1,14 @@
+
+VistaBee es un proveedor líder del Reino Unido con multitud de fuentes de comercialización através de vídeos de alta calidad, utilizamos una plataforma de tecnología de última generación y de alto crecimiento y rendimiento dedicada a la venta de todo tipo de viviendas, desde pisos de una sola habitacion hasta mansiones de 1 millon de pounds.
+Debido a la rápida expansión e internacionalización , ahora estamos buscando un desarrollador backend con experiencia para unirse a nuestro equipo web, situado en las nuevas oficinas en Leith de Edimburgo.
+Usted será responsable del desarrollo de nuevas funcionalidades en nuestra plataforma web creada en Python/ Django , también el desarrollo de pequeñas aplicaciones según sea necesario.
+Tambien estamos trabajando con Google Glass y nuevos tipo de tecnología para mejorar y ampliar nuestros servicios.
+Habilidades esenciales y experiencia:
+* 2 a 3 años de Python / Django codificación
+* Competente PostgresSQL
+* Familiarizado con Nginx , Supervisor , Apio
+* Experiencia en el uso de software de control de versiones como Git o SVN
+* Altamente experimentado con HMTL , CSS , JavaScript, jQuery
+Entusiasta y ambicioso para trabajar en un entorno de ritmo rápido con un equipo dinámico e internacional.
+Esta es una posición permanente que ofrece un salario competitivo y todo el chocolate que se puede comer.
+Envíanos tu CV con ​​una carta de presentación de 100 palabras explicándonos que nos puedes ofrecer. 

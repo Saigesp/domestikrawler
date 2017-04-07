@@ -1,0 +1,24 @@
+
+En el departamento web de Cocus estamos buscando a una persona freelance, inquieta y amante de los pequeños detalles, para colaborar con nuevos proyectos de desarrollo web.
+Necesitamos alguien con grandes conocimientos técnicos de front end, experiencia demostrable en el sector y que cada proyecto le genere un reto en el que encontrar soluciones a los problemas que se le plantea.
+Nos gustan las reuniones presenciales, por lo que es preferible que sea de Madrid, aunque no es indispensable.
+Conocimientos:
+- CSS3
+- Bootstrap 3
+- jQuery
+- Muy buen gusto
+Deseable:
+- Wordpress (ACF y desarrollo de plantillas y plugins)
+- CakePHP u otro frameword de PHP
+- Backbone y Underscore
+- Animaciones CSS3
+- SVG
+- Inglés fluido
+- Adobe Fireworks
+Tareas:
+- Front-end responsive
+- Integraciones REST
+Condiciones:
+- Freelance
+- Responsable con los plazos
+- Disponibilidad para reuniones con cliente

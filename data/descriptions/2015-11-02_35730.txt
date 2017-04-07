@@ -1,0 +1,17 @@
+
+Vector, grupo tecnológico 100% de capital español, proveedor de servicios integrales de tecnología, outsourcing y productos de software exclusivos, proporciona e integra servicios y soluciones mediante un amplio portfolio que abarca múltiples sectores: banca y finanzas, industria, telco y media, retail, ocio y turismo, administración pública y sanidad. Calidad, Compromiso, Cercanía, Conocimiento y Competitividad, junto con la flexibilidad en todos nuestros servicios, son nuestro valor diferencial.
+Desarrollamos tecnología por y para las personas, siendo la innovación el motor de nuestro crecimiento y las personas nuestra fuente de inspiración. Tecnología inteligente para transmitir confianza, seguridad y facilitar los proyectos vitales.
+Únete a nosotros y se parte integrarte de nuestro equipo en proyectos nacionales e internacionales con grandes posibilidades de crecimiento y desarrollo profesional
+Actualmente buscamos Maquetadores Front para importante proyecto en nuestras oficinas en Madrid.
+Requisitos: 
+Mínimo de 4 años de experiencia en el campo. 
+•	Dominio de CSS3, HTML5 y Responsive Design de sitios web corporativos para distintos navegadores y dispositivos. 
+•	Conocimientos en precompiladores de CSS como Less o SASS 
+•	Conocimientos básicos de SEO y semántica. 
+•	Conocimientos de frameworks como bootstrap, foundation. 
+•	Conocimientos jquery y js 
+•	Gitflow y SVN
+DESEABLE 
+•	Conocimiento de algún framework javascript como backbone. 
+•	Entorno de programación Node.js 
+•	Conocimientos Accesibilidad y Usabilidad. 

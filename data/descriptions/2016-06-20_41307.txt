@@ -1,0 +1,24 @@
+
+Job Description
+We are looking for a talented, passionate and creative developer to join our Frontend Engineering team. If you have the need to be challenged, if you love writing web applications that display and perform beautifully across browsers and devices, if you are proud of the maintainable code that you produce, if you consider yourself the best in your field, if you are as passionate about learning from your team as you are about making your team better, and you want to create new and modular applications following best practices, then this is the place for you.
+Skills and Qualifications
+•	3+ years of professional JavaScript development experience
+•	Deep understanding of Angular framework.
+•	Strong proficiency in consuming external APIs – you know all the nuances of Ajax
+•	Experience with unit testing
+•	Good handle on modern frontend development flows (task runners, preprocessors, etc.)
+•	Comfort with browser quirks and oddities
+•	Expertise in application debugging
+•	Good grasp of the Do’s and Don'ts of Frontend Security and coding styles.
+•	Proficient understanding of code versioning tools, such as Git
+•	Manage pixel perfect UI interfaces.
+•	Deep understanding of scopes, states, routing, storage.
+Technical aspects to manage on daily basis
+•	AngularJs, NodeJs
+•	Sass, Less, Atomic, css3
+•	Boostrap, Angular Material, Ng-Straps
+What we offer
+•	Permanent contract
+•	Extended benefits package 
+•	Fantastic site and central location to work
+•	Exceptional work environment

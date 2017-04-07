@@ -1,0 +1,15 @@
+
+Agencia independiente de capital 100% español con una visión de la comunicación integral (off + on line) con más de 25 profesionales y con clientes como el: Banco Santander, Heineken, Sol, AECC, Velux, Las Tres Brujas, Santander Consumer, Caser Seguros…. busca un programador Full Stack sobre LAMP (PHP, MySql), con una experiencia mínima de 5 años o más . Requisitos: dominio en programación Rest, maquetación responsive, acostumbrado a utilizar frameworks (lo ideal symfony), o CMS (Drupal, Wordpress, Joomla), con soltura con las API de terceros aunque esta sea la de Facebook.
+Queremos que trabaje en nuestras oficinas de Madrid, de forma directa con el resto de departamentos, aportando la tecnología al proceso creativo.
+Funciones:
+    - Aportar tu visión tecnológica al resto de departamentos/clientes.
+    - Supervisión de calidad/funcionamiento de las piezas que se realices fuera de agencia.
+    - Producir desde banners hasta SASS, de la mano de la dirección creativa.
+Requisitos/Conocimientos:
+   - Maquetación Fluida sobre Html 5 Css 3.
+   - Programación solida sobre PHP incluida OOP.
+   - Utilización nativa de MySQL.
+   - Dominio de tecnología cliente, contamos que te apoyes sobre librerias  del tipo JQuery, backbone, angular, etc.
+   - Manejo con soltura de CMS del tipo Drupal, Wordpress, Joomla, etc. (no es necesario sobre todos pero si al menos uno).
+   - Progmación/animacion de Banners sobre AS2/3.
+Y lo más importante inquieta, y deseando aprender. Nos da igual que plantees nuevas tecnologías, es más, lo estamos necesitando. Y si encima programas para móvil nativo o con cordova, entonces ya te estamos esperando.

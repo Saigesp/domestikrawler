@@ -1,0 +1,15 @@
+
+Requerimientos:
+- Habilidad para desarrollar soluciones complejas basadas en WordPress, amb experiencia demostrable.
+- Conocimiento  de stack LAMP.
+- Experiencia en la utilitzación de GIT.
+- Conocimiento de tecnologías front-end, incluyendo HTML5, CSS3 y Javas cript.
+Principales responsabilidades:
+- Programación de aplicaciones a medida basadas en WordPress, requiriendo la instalación, modificación o creación de los plugins necesarios.
+- Implementación de sistemas de comercio electrónico, también basados en WordPress (generalment WooCommerce)
+- Colaboración con el equipo de diseño y maquetación cuando sea necesario.
+Se valora positivamente:
+- Demostración de proyectos realizados, a poder ser con posibilidad de ver el código sea libre o no.
+- Experiencia en programación con frameworks PHP (Symfony, Laravel, Yii, etc...).
+- Capacidad de convertir diseños gráficos en aplicaciones funcionales utilizando: HTML, CSS y Javascript, y en general atención al detalle.
+-Capacidad de trabajar de forma independiente para la consecución de los requerimientos previamente establecidos por paca proyecto.  

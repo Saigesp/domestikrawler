@@ -1,0 +1,43 @@
+
+
+Empresa PasswordBank
+Localidad Sant Just Desvern (Barcelona)
+The Identity-as-a-Service (IDaaS) Company: PasswordBank provides a unique Identity-as-a-Service (IDaaS) platform, a new approach for secure access to corporate identity in today’s complex and hybrid IT environments (Cloud and On-premise). PasswordBank IDaaS platform provides Identity and Access Management (IAM), Federated Identity, Hybrid Single Sign-On (Enterprise and Web SSO) and Privileged User Management delivering the solution in three modes (SaaS, On-Premise and Hybrid) for Mac, Windows and Linux users. PasswordBank is headquarted in Silicon Valley with customers and offices in North America, Europe, Asia and Latin America. The company has a partnership with Oracle as its E-SSO Partner for Non-Windows platforms.
+Buscamos:
+PasswordBank, empresa de Gestión de Accesos e Identidades, líder en soluciones de Single Sign-On Híbridas (Cloud + On premise), está buscando perfiles Senior para el Departamento de I+D.
+Nuestro software está íntimamente relacionado con soluciones de seguridad, identidad digital, criptografía, bases de datos, control de accesos y medios de pago.
+Buscamos personas con iniciativa, con inquietudes, con sólidos conocimientos técnicos, que puedan ser multidisciplinares y que tengan ganas de formar parte de nuestro equipo y de un proyecto altamente atractivo.
+Ofrecemos:
+Os ofrecemos la incorporación a una empresa de tecnológica joven y dinámica, internacionalizada y con grandes oportunidades por delante.
+Tenemos grandes proyectos, muy innovadores y grandes retos que van a impactar positivamente en nuestra vida diaria.
+El sector de la identidad digital además de uno de los más dinámicos es uno de los hot spots del futuro, al tener implicaciones transversales en entornos tanto personales como profesionales, en todos los verticales de negocio.
+Requerimos:
+Profesionales dinámicos y proactivos, de contrastada solvencia, con una amplia experiencia de al menos 5 años en desarrollo en diversos lenguajes.
+Requisitos Mínimos
+Se requieren conocimientos y experiencia práctica demostrable en los siguientes ámbitos:
+Desarrollo en tecnologías Microsoft .NET (C# y Framework especialmente)
+C++
+PHP y JavaScript, entornos de desarrollo Web (Apache, IIS,..)
+Preferiblemente Ingenieros Superiores en Informática
+Conocimientos de Inglés a nivel conversación fluida.
+Deseamos:
+Conocimientos y experiencia en criptografia, certificados digitales y smartcards (API's: OpenSSL, microsoft CSP, PKCS11)
+Webservices / SOAP
+API WIN32
+Programación en base de datos (MySQL, Oracle y SQL Server)
+Se valorará:
+Conocimiento y experiencia  de soluciones SSO y/o Gestión de Identidades
+Experiencia de Desarrollo en sistemas Linux
+Proxy's (Squid o similares)
+Desarrollo de plugins y componentes del navegador
+Desarrollo de plataformas y aplicaciones Web
+Desarrollo de protocolos de federación y autenticación
+Desarrollo de funcionalidades de seguridad (autenticación,...)
+Experiencia:
+5 a 8 años
+Idiomas:
+Inglés
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+Si estás interesado, inscríbete a la oferta en http://bit.ly/wDvLr4 , te llevará menos de un minuto

@@ -1,0 +1,21 @@
+
+Experto en PHP y MySQL, con experiencia profesional de más de 3 años.
+Experiencia y dominio en programación orientada a objetos.
+Conocimientos avanzados de XHTML, CSS2 y CSS3
+Conocimientos avanzados en Javascript, jQuery y librerías similares.
+Conocimientos avanzados de Wordpress.
+Descripción del empleo:
+Buscamos programador/a con nivel alto en maquetación y conocimientos de PHP para desarrollar Webs, CMS, blogs, newsletters, mini-sites, etc de forma ágil y rápida con un nivel de calidad alto. La maquetación realizada ha de visualizarse correctamente en todos los navegadores.
+Se precisa una persona responsable e implicada que realice los proyectos de forma seria y sin errores.
+Requisitos valorables
+- Muy valorado: conocimientos en configuración de servidores y en entornos LAMP.
+- Experiencia en el manejo de plantillas (Smarty, PowerTemplate...)
+- Dominio de Frameworks PHP (Zend, Symfony, etc.)
+- Experiencia con SVN, Unit Testing, Xdebug y/o acceleradores PHP.
+- Uso avanzado de Photoshop.
+- Conocimientos en desarrollo de aplicaciones móviles (Android, iPhone)
+- Nivel intermedio de inglés
+Tipo de contrato:Freelance
+Horario: A consultar
+Sueldo: 25000 a 30000 €
+

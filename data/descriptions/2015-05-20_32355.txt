@@ -1,0 +1,5 @@
+
+La revista Madriz.com busca un desarrollador freelance en PHP/JavaScript con conocimiento de Wordpress para realizar algunos cambios en la web, vinculados a los formatos publicitarios que ofrecemos. Las tareas a desarrollar son las siguientes: 
+1. Adaptar la web para ofrecer el formato publicitario SKIN
+2. Imágenes en el Wordpress. Incluir la posibilidad de insertar imágenes, además de tags en un apartado determinado del Wordpress. 
+3. Bordes de los anuncios. Modificar la estética de los bordes de los banners. 

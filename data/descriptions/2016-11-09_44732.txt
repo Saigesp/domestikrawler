@@ -1,0 +1,25 @@
+
+Debido al crecimiento de nuestra empresa, necesitamos incorporar al equipo un desarrollador web con al menos 2 años de experiencia en la creación y mantenimiento de proyectos web.
+Nos gustan las personas proactivas y autodidactas que cuidan hasta el mínimo de detalle de sus tareas y, sobre todo, que contribuyan en el buen ambiente de trabajo.
+Buscamos a una persona con ganas de asumir retos y superarse día a día. Orientado a objetivos a la productividad.
+Las funciones que tendrá que asumir serán:
+- Desarrollo de scripts a medida
+- Creación y gestión de base de datos
+- Programación de la funcionalidad de las webs
+- Resolución de incidencias y tareas de mantenimiento
+- Participación en los proyectos web actuales asumiendo el rol asignado
+Requisitos a cumplir:
+- Experiencia mínima de dos años trabajando con Prestashop/WordPress
+- Haber desarrollado/modificado algún módulo para Prestashop/WordPress
+- Realización de integraciones entre bases de datos
+- Conocimiento medio de HTML5 y CSS3
+- Conocimiento medio de Javascript
+- Desarrollo basado en el concepto Responsive Design
+- Mantener el código limpio y estructurado
+Se valorará:
+- Conocimiento de CMS como Wordpress o Drupal
+- Uso de GIT
+- Conocimiento de frameworks como Laravel
+- Experiencia en el uso de APIs y webservices
+- Conocimiento del manejo de Photoshop
+Si quieres formar parte de un proyecto joven, humano e innovador, aprender a desarrollarte profesionalmente con una empresa que invierte en su equipo, éste es tu sitio.

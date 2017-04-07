@@ -1,0 +1,47 @@
+
+purebilling is a fintech startup founded by seasoned payment experts, supported by industrial investors that provides innovative billing and payment solutions to internet merchants.
+Our « on-top » and distributed solution allows e-merchants to collect any kind of billing process, in any currency, from any country, through any existing or future payment means, which works on any device with a single generic integration.
+Our solution targets developer communities and fraud & payment experts within e-merchants organizations.
+Our technology stack uses:
+PHP5 / Symfony 2 for common web-services
+Python for PCI-DSS web-services, back-offices and tools
+Angular.js for frontends
+We also (really) take care of quality, using last continuous integration tools and technologies:
+Test driven development
+stack 100% docker (from development to production)
+git + gitlab
+Jenkins + Selenium
+Our team is small with a flat organization. You will be directly in contact with the founders and participate to technology design meetings. Our main working languages are Spanish and English, French could be a plus.
+Candidate mission:
+You will be part of the core team. You will participate on existing and new projects.
+You will participate to the full development cycle (from conception to production).
+Main responsibilities:
+Billing framework
+Developer community website
+Merchant back-office
+Innovative analytics system
+Advantages:
+Small team recently created with flat organization.
+Projects are new. No old stuff to maintain.
+Direct access to founders.
+Participate from conception to production lifecycle.
+Use and learn latest technologies.
+Required skills:
+5 years of experience in oriented object programming
+at least 2 years of experience with Python
+Experiences with a least one framework (Django, Flask, Bottle …)
+Knowledge in relational databases
+Strong abilities to formalize and document
+English writing skills are required
+Additional skills:
+Skills described below are not mandatory but a plus for the company.
+Experience with Python Flask
+Knowledge in git
+Experience with continuous integration and unit testing
+Knowledge in design patterns
+Knowledge in no-sql related databases
+Knowledge in PHP
+javascript / node.js / Angular.js
+Work Environment:
+The company is located in Barcelona. The position requires developers in site.
+

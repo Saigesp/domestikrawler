@@ -1,0 +1,18 @@
+
+Job Functions:
+Development of functionalities in different developed systems using Javascript.
+Maintenance of existing web applications.
+Refactor existing functionalities to improve performance. 
+Experience in design integration within the project by using templates. 
+Minimum requeriments: 
+•	Extensive experience using Javascript.
+•	Experience in web development.
+•	UX/UI.
+•	Responsive design.
+•	Analytic capabilities, initiative and facility to work in a team.
+•	AngularJS and NodeJS (Nice to have).
+Terms: 
+•	Fexible schedule. 
+•	Inmediate start. 
+•	Salary commensurate with experience.
+

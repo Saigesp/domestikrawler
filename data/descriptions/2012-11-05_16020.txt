@@ -1,0 +1,51 @@
+
+Fintonic ha sido galardonada con el prestigioso premio GOLD en Best Practices de Lovie awards, que reconoce la excelencia en diferentes aspectos cómo contenidos, estructura y navegación, diseño de imagen, funcionalidad, interactividad y experiencia general. 
+Para seguir alcanzando este nivel de excelencia buscamos  un desarrollador Front-end con 3 años de experiencia, capaz de trabajar de forma autónoma con alto grado de iniciativa,  espíritu de trabajo en equipo y gran capacidad de aprendizaje.
+DEPENDENCIA
+Reportando al Responsable Técnico se encargará de la maquetación y desarrollo de los interfaces de usuario de los sistemas de la compañía.
+
+RESPONSABILIDADES
+• Crear y definir la maquetación y componentes necesarios para los interfaces de usuario de los sistemas la compañía. 
+• Crear “wireframes” para ilustrar y documentar de la mejor forma posible un servicio en detalle. 
+• Crear o participar en la creación de prototipos rápidos para ilustrar un servicio o aplicación tal y como parecería después de la implementación. Será usado para pruebas o evaluación interna. Las demos y prototipos a menudo necesitarán funcionar en ambos, PC y dispositivo móviles (normalmente sólo un tipo de dispositivo). 
+• Ayudar a la creación de, o crear, las especificaciones funcionales o de UI para los distintos servicios o aplicaciones. 
+• Cooperar con los diseñadores visuales para solventar los problemas y crear soluciones de diseño completas para los proyectos. 
+• Definir de la estructura global del servicio, incluyendo diagramas de navegación y modelo de interacción. 
+• Desarrollar los componentes visuales y de integración con el backend.
+OTRAS RESPONSABILIDADES
+• Desarrollar los algoritmos definidos según los estándares establecidos
+•  Ayudar al líder del proyecto para entregar un trabajo de calidad (asistir en la coordinación y garantizar resultados de calidad en todas las áreas) 
+• Participar activamente en las diferentes tareas del proyecto: estimaciones, especificaciones, análisis, desarrollo, y pruebas.
+• Documentar el desarrollo según las normas establecidas
+• Colaborar con el resto del equipo en cualquier aspecto solicitado.
+CONOCIMIENTOS
+• Experiencia en desarrollo de interfaces Web y dispositivos móviles.
+• Programación en Javascript con experiencia en  JQuery y AJAX
+• HTML5/CSS3, HTML DOM, XHTML
+• Fuerte dominio de uno o varios frameworks javascript: ExtJS, Dojo, Google Web Toolkit, YUI, etc.
+• Recuperación y tratamiento de datos JSON, XML.
+• Servidores de aplicaciones Apache, Apache Tomcat,  etc.
+• Desarrollo de aplicaciones web optimizadas para dispositivos móviles
+• Experiencia de análisis y diseño de aplicaciones web
+• Se valorara positivamente experiencia y conocimientos en las siguientes áreas:
+- Programación orientada a objetos
+- JQuery Mobile
+- Direct Web Remoting (DWR)
+- Atmosfhere
+- Java J2EE
+- Spring, Spring MVC
+- Maquetación Web
+- Desarrollo en plataformas móviles iOS y Andoid
+- Experiencia de usabilidad y diseño de interacciones
+- Experiencia con metodologías ágiles y test-driven development (TDD)
+- Bases de datos SQL, NoSQL
+- Experiencia en el sector financiero
+PERFIL
+• Se requiere formación Tecnológica. Según la compañía se pide Ingeniería Técnica y/o Superior en Informática / Telecomunicaciones.
+• Buscamos personas autónomas con alto grado de iniciativa,  espíritu de trabajo en equipo y gran capacidad de aprendizaje.
+• Capacidad de esfuerzo y compromiso necesarios para cumplir unos objetivos ambiciosos marcados en el entorno dinámico de una start-up.
+SE OFRECE
+• Incorporación a empresa de nueva creación, en un proyecto web a largo plazo.
+• Integración en un equipo de trabajo de alto nivel, donde podrás compartir tus conocimientos y experiencia con otros profesionales como tú
+• Remuneración de 25.000€ a 30.000€ dependiendo del candidato.
+

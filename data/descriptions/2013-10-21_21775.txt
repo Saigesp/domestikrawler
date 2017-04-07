@@ -1,0 +1,15 @@
+
+Importante empresa francesa, líder en el área de las transacciones de pagos electrónicos, busca a 2 INGENIEROS DE SOFTWARE para incorporarse en su sede de Toulouse. Es reconocida como primer proveedor independiente para el transporte de comunicaciones desde terminales de pago electrónicos (POS/PDV)- Sus principales clientes son entidades bancarias, grandes cadenas de distribución, empresas petroleras, etc.
+Como ingeniero de software, trabajará de forma autónoma en cada proyecto que tenga asignado, realizando funciones de gestión-análisis-programación del mismo. 
+Por tanto, como requisitos mínimos se necesita:
+-	Ser ingeniero (técnico o superior) de informática.
+-	Experiencia demostrable de al menos 2-3 años en desarrollo Java, y tecnologías como Eclipse, Struts, Hibernate, entre otras.
+-	Experiencia en diseño y análisis en proyectos Java
+-	Experiencia en toma de requisitos y contacto con cliente para solución de incidencias. 
+-	Experiencia en redacción de documentación técnica. 
+
+Se incorporará a un equipo con una jerarquía horizontal, con muy buen ambiente laboral y formado por profesionales con gran experiencia, que tienen la oportunidad de trabajar de forma independiente y autónoma en cada proyecto que tienen asignado
+Se ofrece:
+- Contrato indefinido e incorporación a una empresa en crecimiento en la que existen posibilidades reales de desarrollar una carrera profesional a largo plazo. 
+- La oferta económica se adaptará al perfil profesional, formación y experiencia aportadas por el candidato.
+Rogamos abstenerse candidatos que no tengan disponibilidad para trasladar, en breve plazo, su residencia de forma estable a Toulouse, Francia.

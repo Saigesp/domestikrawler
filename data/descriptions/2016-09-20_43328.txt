@@ -1,0 +1,18 @@
+
+Wetaca es el servicio online de platos elaborados por Chefs para toda la semana.
+BUSCAMOS
+Buscamos a una persona flexible, responsable, dinámica y comprometida, que encaje con los valores de Wetaca, con nuestra cultura corporativa y nuestra forma de trabajar. Si no te gusta comer y la gastronomía, Wetaca no es tu sitio. 
+Requisitos técnicos:
+-Al menos 4-5 años de experiencia desarrollando software. 
+-Experiencia en desarrollo de aplicaciones en PHP con conocimientos de symfony/zend/laravel.
+-Conocimientos de Javascript. Si sabes de los nuevos frameworks existentes mejor (React, Backbone, Angular).
+-Indispensable experiencia con Prestashop .
+OFRECEMOS
+Si te gustan los retos y aprender cada día, te ofrecemos la oportunidad de incorporarte a un equipo de profesionales de alto rendimiento, joven y con muchísimo talento que crece día a día.
+Se trata primera incorporación del departamento técnico y por tanto la persona seleccionada tendrá gran influencia en las decisiones que se tomen en esta área.
+Además:
+-Unirse a la StartUp ganadora de Seed Rocket XV y con Inversores de primer nivel.
+-Comer cada día los mejores platos cocinados por todo el equipo.
+-Llevarte a casa platos para las cenas.
+-Salario 24.000-30.000 euros. Bonus por objetivos.
+-Posibilidad de añadir retribución para formación/libros/conferencias.

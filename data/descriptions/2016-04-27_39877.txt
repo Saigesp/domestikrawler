@@ -1,0 +1,14 @@
+
+¿Eres autónomo y quieres unirte a una comunidad activa de desarrolladores web?
+Estamos buscando gente comprometida con los proyectos de nuestras pymes y emprendedores, que crean en el trabajo bien hecho y sepan disfrutar mientras crecen y hacen crecer a nuestros compañeros de viaje.
+Tenemos espacio en nuestras oficinas y queremos llenarlo de talento y simpatía, pero también nos gusta trabajar en línea con colaboradores del resto de España o de otros países, así que no dudes en enviarnos tu propuesta si crees que el siguiente puesto puede encajarte:
+Experiencia:
+Desarrollador en PHP, acostumbrado a la gestión de BBDDs con MySQL y especializado en WordPress. Experiencia en la personalización y creación de temas y plugins para este CMS, incluyendo Woocommerce y Buddypress.
+Se valoraran conocimientos de otros lenguajes (javascript/jQuery), así como SEO on-page (html, semántica etc).
+Competencias: 
+WordPress, desarrollo de temas y plugins, gestión, seguridad y manteniminto, multisite/multidioma
+Tipo de colaboración:
+Autónomo: acordaremos la facturación por proyecto 
+Dedicación: completa, parcial o puntual, según tu disponibilidad 
+Ubicación: puedes venir a trabajar a nuestra oficinas (vestido como quieras;) , hacerlo desde tu casa o estudio, o combinar ambas. 
+Bidireccional: nosotros aportamos proyectos, pero también podemos colaborar en los tuyos si hacemos buen equipo.

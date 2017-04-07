@@ -1,0 +1,16 @@
+
+CIBER España es una empresa líder en Consultoría Estratégica e Integración de Sistemas que pertenece al Grupo CIBER, consultora de integración de sistemas líder a escala internacional con soluciones globales e Integrales ofrecidas, tanto para entornos personalizados o desarrollados a medida, como en paquetes Enterprise Resource Planning (ERP), en todo tipo de plataformas, sistemas operativos e infraestructuras.
+Actualmente en Ciber buscamos Programadores Front para reforzar nuestro equipo.
+Te incorporarás en un grupo de desarrollo e investigación de nuevas soluciones de negocio. Realizando el diseño y desarrollo de las aplicaciones.
+Los candidatos deben tener dominio de las siguientes tecnologías: 
+HTML5, CSS3, Javascript
+Jquery
+Muy valorable:
+Bootstrap
+Angular y/o Backbone
+Ofrecemos:
+·Retribución salarial acorde con la valía y experiencia 
+.Beneficios sociales (Tickets Restaurant y Seguro Médico)
+·Incorporación a una empresa líder en tecnologías de la información 
+·Plan de carrera y desarrollo profesional 
+·Plan de formación a nivel técnico y en capacidades de consultoría.

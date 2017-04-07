@@ -1,0 +1,13 @@
+
+ www.jetcommunication.net es una agencia de comunicación especializada en el sector inmobiliario con más de 15 años de operaciones en Europa, Norte de África y Medio Oriente.
+Buscamos un desarrollador de Unity/Unreal senior para ayudarnos a crear apps iOS/Android que muestren en 3D  viviendas que serán construidas por nuestros clientes, promotores inmobiliarios y agencias a través de tours virtuales 360º interactivos integrados en el app.
+Es imprescindible.
+-Conocimientos avanzados de C++ / Java
+-Conocimientos en Modelado 3D, iluminación y texturizado.
+-experiencia mínima 2 años
+Será una ventaja
+- Conocimientos de infoarquitectura.
+- Experiencia produciendo tours virtuales 360º
+- Conocimientos para generar interactividad en videos e imágenes 360º
+- Aportar ejemplos de desarrollos anteriores con modelados arquitectónicos implementados en apps.
+Remítenos por favor un mail con tu  CV y experiencias próximas al desarrollo de 3D para arquitectura.

@@ -1,0 +1,26 @@
+
+Buscamos programadores en Python / Django.
+Te ofrecemos:
+40 horas (Lunes a Viernes de 8:00am a 16:00pm)
+Contrato indefinido con periodo de prueba.
+Requisitos deseados:
+1 año de experiencia en Python/Django.
+2 años de experiencia en SQL y Programación Orientada a Objetos.
+Abierto a trabajar en proyectos grandes.
+Valoramos:
+Experiencia previa en Linux.
+Experiencia previa en front-end (JQuery, AngularJS, HTML, CSS).
+Conocimiento de SCRUM/KANBAN.
+Capacidades autoformativas, trabajo en equipo y autodeterminación.
+Envíanos tu info:
+CV incluyendo foto y registros académicos.
+Carta de presentación.
+Cualquier otra información relevante:
+Experiencia en programa no oficiales y que no aparezcan en el CV.
+Software que hayas desarrollado por ti mismo.
+Páginas webs y blogs en los que escribas.
+Perfiles de LinkedIn, Google+ o cualquier otra Red Social que uses.
+Indicar los lenguajes de programación que más te gustan y por qué, ordenar por preferencia.
+Si no tienes experiencia suficiente pero aún piensas que puedes encajar en nuestra batalla diaria, permítenos saber más de ti.
+Si eres un programador experimentado con más de 5 años de experiencia, y no sabes Python, aprovecha nuestro plan formativo y de incorporación de talento.
+En Centrologic sabemos que un buen equipo se compone de personas que se ayudan entre sí, por eso si estás interesado en trabajar con nosotros ponemos a tu disposición un curso profesional en Django, para que tengas un refuerzo en los conocimientos y puedas avanzar más rápido.

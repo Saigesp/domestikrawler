@@ -1,0 +1,13 @@
+
+MELT GROUP, busca para importante empresa de Zaragoza,  perfiles con:
+o Capacidad organizativa.
+o Negociación.
+o Liderazgo.
+Se ofrece un plan de carrera profesional, apostando por grandes profesionales del sector. 
+Queremos trasladarte nuestro proyecto, un reto profesional ilusionante que te permitirá gestionar proyectos para la mayor empresa global de salud y bienestar con orientación farmacéutica del mundo.
+Tú reto profesional:
+Serás responsable de la definición y ejecución de los ciclos de pruebas de proyectos, además del diseño y ejecución de pruebas de rendimiento.
+Buscamos perfiles como tú, con aptitudes de organización y habilidades de comunicación, además de alta capacidad de trabajo en equipo.
+A nivel técnico, será necesario el conocimiento de tecnologías web (HTML. CSS, Javascript, etc), y sistemas de integración continua (Jenkins), valorando el conocimiento de herramientas como:
+Jira,TestLink, SonarQube, o Selenium.
+

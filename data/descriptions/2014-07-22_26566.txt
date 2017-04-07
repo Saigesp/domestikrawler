@@ -1,0 +1,15 @@
+
+We are an expanding startup looking to hire a test specialist with test automation experience. This is a good opportunity to own automated and manual testing of both web APIs and web applications, as well as to properly represent and own testing in a budding agile process.
+We want you to join our talented team if:
+ - You are a tester with a few years of testing experience in an agile workflow. You have written story-based test plans during development, and do the bulk of the testing during development.  You have owned testing in an agile team, having the final say over “done”.
+ - You have extensively tested client-side applications backed by dummy web-APIs, and have a wealth of experience testing on mobile devices.  You have tested functionality that upgrades itself based on platform capabilities. You have experience testing web-APIs with dummy REST clients, as well as exploratory testing of the product.
+ - You have strong opinions about the value of testing and its importance in the agile workflow.  You have strong opinions on agile in general and how it relies on testing. You are keen for these opinions to be heard, and you want testing to be properly represented in the workflow.
+ - You know your product, and offer cross-device regression test plans to the business. You know when these plans should be run. You have dabbled in automated acceptance testing (possibly written test scenarios using Gherkin), and recognise where it helps and where it hinders.
+You will be responsible for creating an end-to-end test plan; executing the plan and managing all activities in the plan to ensure that all the objectives are met and that the solution works as expected. The solution should be tested in terms of functionality, performance, reliability, stability and compatibility with other legacy- and / or external systems.
+You will make sure that testing is well defined, planned and executed. The Tester does this by ensuring that every phase and feature of the software solution is tested and that any potential issue is identified and fixed before the product goes live. 
+The Tester designs automated test scripts and deploys these scripts using automation software: IntelIJ IDEA, Cucumber with Watir and Jenkins. Because test automation is not effective for all kinds of tests, the tester must make determinations as to what portion of the overall test will benefit from automation.  
+Requirements Include:
+- Soft Skills
+- Clear communicator (written and verbal) – to ensure ability to write test plans and test cases. To communicate bugs to developers and other stakeholders
+- Creative solving of technical problems – to ensure the ability translate technical requirements test plans
+- Ability to think abstract – to ensure ability to not conform to the norm. Norms do not find bugs quickly.

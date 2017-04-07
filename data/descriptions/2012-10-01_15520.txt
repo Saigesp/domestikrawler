@@ -1,0 +1,11 @@
+
+Hola,
+somos una start up de internet, nos dedicamos a campañas de marketing y e-commerce. 
+Estamos buscando (incorporación imediata) un programador para mejorar nuestro sistema de pago y nuestro back office:
+Requisitos:
+- PHP5 orientado a objectos
+- MVC, symfony 1.4
+- Conocimientos de TPVs virtuales / sermepa
+De momento sería una colaboración de uno/dos meses. Preferiríamos jornada completa, pero valoramos también media jornada. 
+ Muchas Gracias!
+

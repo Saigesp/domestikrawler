@@ -1,0 +1,27 @@
+
+Morillas Interactive, división digital de Morillas, agencia de branding, busca un Digital Visual Designer en categoría Junior para su departamento de Visual Design en las oficinas de Barcelona.
+Buscamos una persona dinámica y responsable, comprometida, proactiva, metódica y ordenada, con capacidad de resolución de problemas que busque compartir su pasión y talento con el equipo de desarrolladores que tenemos en la casa.
+Esta persona deberá, junto a los perfiles sénior, participar, ayudar al análisis de las tareas, ejecutar y defender en equipo las tareas que conforman los proyectos digitales reportando al director técnico y al Project Manager.
+¿Qué vas a realizar en esta aventura?
+-	Reuniones con el departamento de desarrollo de la casa, así como con los gestores de proyecto donde podrás participar y aprender de la toma de decisiones.
+-      Compartir tu conocimiento de PHP con los compañeros de departamentos, a la vez, que crece con los conocimientos compartidos entre el grupo. 
+-	Desarrollo de proyectos digitales en su modalidad Front y Back. 
+-      Consumir servicios API Rest y similares
+-      Aprender del liderazgo de proyectos des de el análisis y su implementación.
+-      Defensa de proyectos a los distintos departamentos internos que conforman los proyectos, así como, en ocasiones a cliente final.
+-	Sumarse a un equipo de desarrollo con talento y con ganas de realizar grandes piezas vinculadas al mundo de la comunicación
+-      Acceso a diferentes tipos de proyecto al año, así como su tipología. 
+¿Qué debes traernos para poder convencernos?
+-	Experiencia profesional demostrable superior a un año  en estudios/agencias digitales con enfoque a desarrollo de piezas digitales.
+-      Tener conocimiento en temas de Back sobre: PHP, BBDD MySQL, Wordpress, SVN, Webservices API REST
+-       Tener conocimiento en teemas de Front sobre: CSS, HTML, Javascript, Bootstrap, JQuery, Ajax
+-	Portfolio de proyectos donde hayas participado con las tareas asignadas
+-	Control de herramientas de desarrollo y de gestión del tiempo (Trello, Basecamp, Jira, ...)
+-	Alta capacidad resolutiva, compromiso con el proyecto y pasión por los proyectos digitales
+-	Actitud para aprender y mejorar
+-      Amor por la tecnología digital
+¿Qué vamos a valorar de forma positiva?
+-	Conocimientos en aspectos tecnológicos diferenciales (arduino, WebGL, ...) 
+-       Conocimientos en frameworks basados en PHP como Symphony, Laravel, Ruby on Rails... 
+-       Amor por el píxel perfect, y a su vez, el amor por las cosas responsive. 
+Según experiencia se realizará una oferta ajustada al precio de mercado actual, así como a la experiencia que hay detrás del término Júnior del candidato. 

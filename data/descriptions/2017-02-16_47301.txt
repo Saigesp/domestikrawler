@@ -1,0 +1,20 @@
+
+Estamos buscando una persona que se incorpore en el departamento técnico y sea la responsable de garantizar un nivel continuo de calidad de nuestra plataforma tecnológica.
+¿Qué ofrecemos?
+Participar en el desarrollo de un ambicioso proyecto en Internet de ámbito internacional en un sector atractivo y en constante crecimiento.
+Formar parte de un equipo joven, dinámico y emprendedor donde se promueve la innovación, se comparte know-how y se valora el talento, la creatividad y la participación en la toma de decisiones.
+Flexibilidad de horarios y de jornada.
+Incorporación inmediata a jornada completa.
+Requisitos mínimos del candidato
+Experiencia demostrable con alguno de los siguientes lenguajes de programación: PHP, Java o Python
+Asumir la responsabilidad de garantizar un nivel continuo de calidad de los desarrollos de todos nuestros equipos de trabajo
+Formar a compañeros y compartir el conocimiento sobre temas relacionados con el mundo de QA y fomentar el uso de directivas adecuadas para mejorar el desarrollo de software
+Liderar el despliegue de mejoras de procesos y herramientas en la organización
+Participar activamente en el proceso de automatización de pruebas
+Habilidad para planear y ejecutar test funcionales, de integración y de regresión
+Requisitos deseados
+Nivel alto de inglés.
+Experiencia demostrable con Selenium o herramientas similares
+Conocimiento y uso de metodologías agiles para la gestión de proyectos.
+Experiencia
+Mínimo 3 años de experiencia en puestos similares en empresas de Internet.

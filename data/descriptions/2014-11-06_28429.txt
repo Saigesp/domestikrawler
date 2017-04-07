@@ -1,0 +1,24 @@
+
+QUODEM es una compañía orientada a ofrecer soluciones de marketing y desarrollo de negocio basadas en las tecnologías de la información. Líder en
+proyectos de consultoría de marketing digital en el sector salud. Como principales clientes tiene los mayores laboratorios a nivel mundial, hospitales de referencia y principales sociedades científicas. Formamos un equipo multidisciplinar; nos apasiona nuestro trabajo y la investigación e innovación continua en nuevas soluciones y proyectos web.
+Nuestro objetivo es contar siempre con los mejores: profesionales extraordinariamente preparados y en constante formación.
+Descripción del puesto:
+Reportando al Responsable de Diseño, realizará las siguientes funciones:
+- Participar en el diseño y desarrollo de proyectos gráficos y web.
+- Participar en el diseño y ejecución de plan de pruebas de proyectos web.
+- Mantenimiento correctivo y evolutivo de proyectos web y móviles.
+Deberá tener relación con el resto de departamentos implicados en la realización de proyectos y en su mantenimiento.
+Habilidades profesionales:
+-Adobe Photoshop
+-Adobe Dreamw eaver
+-CSS
+-XHTML / HTML5
+Habilidades personales:
+-Proactivo y autodidacta
+-Contribuir al buen ambiente de trabajo
+Serán altamente considerados conocimientos en:
+.Adobe Illustrator
+.Accesibilidad
+.Conocimiento entorno .NET
+.Javascript
+.Responsive Design

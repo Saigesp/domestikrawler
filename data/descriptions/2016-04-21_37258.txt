@@ -1,0 +1,22 @@
+
+En Nük Studio buscamos ampliar equipo, ni uno ni dos, buscamos a tres developers!! : )
+Somos un equipo de unas 10 personas. Nos caracterizamos por ser un equipo joven y con ganas locas de hacer proyectos molones. Hasta hace un tres años nos dedicábamos exclusivamente a la publicidad, pero desde entonces también tenemos una factoría de start-ups.
+Hemos sacado proyectos de los que nos sentimos muy orgullosos como:
+ www.lacomunity.com
+ www.bravento.com
+(por ejemplo)
+Pero seguimos siendo cabezotas y queremos llegar a más! 
+Es por eso que necesitamos gente que quiera unirse al equipo, lo que pedimos es:
+- Ganas de trabajar con un equipo abierto y compartiendo el 90% del trabajo*
+- Desarrollo PHP con frameworks (Laravel, CakePHP...)*
+- Conocedor de tecnologías de front (Bootstrap, foundation)*
+- Organizado (GIT)*
+- Con memória accesible ( MySQL, SQL, MongoDB...)*
+* 100% indispensable.
+Valoramos muuuuy positivamente:
+- Frameworks Mobile buenos (Ionic) (no sirve JQuery Mobile ni Sencha, dijimos buenos!!)
+- Mentalidad diaria de "tengo una idea bueníssima..."
+- Good vibrations
+- Cualquier curiosidad tecnológica que domines y pueda ser útil.
+¿Te animas?
+

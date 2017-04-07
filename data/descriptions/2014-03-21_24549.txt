@@ -1,0 +1,13 @@
+
+En GRIPHO buscamos un programador como apoyo a un proyecto en curso. 
+Conocimientos necesarios:
+- Programación orientado a objetos 
+- Conocimiento de algún framework de PHP (preferiblemente Zend pero no obligatorio)
+- Programación en mySQL (triggers, funciones, etc.)
+- Javascript (jQuery)
+- HTML
+Requisitos: 
+- Dos años de experiencia
+- Persona que sepa trabajar en equipo 
+- Que sea una persona resolutiva
+La incorporación es inmediata y la duración del contrato, en función de la duración del proyecto (alrededor de dos meses). 

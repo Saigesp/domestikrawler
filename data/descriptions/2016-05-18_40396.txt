@@ -1,0 +1,16 @@
+
+WHY SOGETI?
+Sogeti is a Multinational Company, subsidiary of the Capgemini Group with over 20.000 employees in 15 countries. We are specialized in Microsoft Solutions, Software Control &QA and High Tech Consulting.
+Our company is the global leader in Testing &QA with world class Methodolgies: TMap® (Test Management Approach) y TPI ® (Test Process Improvement).
+If you want to grow as a DevOps Engineer and working in a leading company in the QA area, SOGETI is your company!
+As a DevOps Engineer, you will be working with the latest testing tools and upskill in different technologies through our work on various customer sites representing the global Sogeti brand with a range of customers to gain invaluable experience.
+ What is Sogeti offering?
+-The oportunity to develop a profesional career in an international company,
+-Permanent contract,
+- Training plan tailored to prepare the main and most demanded CERTIFICATION area of software quality (TMap, ISTQB, etc.). The company will subsidize training courses and exams,
+-Social benefits: tickets restaurant and medical insurance.
+Requirements: 
+- At least 2  years of experience in web development with PHP and Java, or .NET/ C#
+- Some knowledge in testing automation tools and test cases design, 
+- Experience working in an agile team (SCRUM or KANBAN methodologies), knowledge of MySQL procedures,
+-  Good level of english and spanish written and spoken.

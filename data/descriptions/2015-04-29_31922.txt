@@ -1,0 +1,4 @@
+
+Hola,
+Buscamos un programador con conocimientos de entornos de desarrollo que siguen el sistema Modelo View Controller, en particular Zend Framework y nociones sobre el motor de búsqueda Sphinx.
+La tarea inicial es crear un nuevo subdominio y actualizar las URL de los subdominios existentes. En función del resultado se pueden plantear nuevos desarrollos y mejoras de la web actual.

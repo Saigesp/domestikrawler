@@ -1,0 +1,22 @@
+
+Agencia de marketing online y de desarrollo web ubicada en el centro de ESADECREAPOLIS de Sant Cugat del Vallés precisa incorporar un Programador experto en PHP , Prestashop, Mysql, Html 5 y CSS3.
+Sus funciones serán dar soporte al departamento de servicio al cliente de la Agencia y el seguimiento de todos los proyectos web realizados, participará en el equipo de desarrollo de aplicaciones avanzadas Web y eCommerce para grandes proyectos en entornos Web y Móvil.
+Conocimientos necesarios:
+- Dominio de los lenguajes de HTML, CSS, PHP y Programación Orientada a objetos MVC. 
+- Conocimientos avanzados de maquetación y HTML5, CSS3 para dispositivos móviles. 
+- Conocimientos avanzados de gestión y control de Bases de Datos MySQL. 
+- Administración, desarrollo y maquetación avanzado de Ecommerce con Prestashop. 
+- Capacidad para desarrollar módulos propios en Magento y Prestashop. 
+- Administración, desarrollo y maquetación avanzado de los CMS Wordpress, Drupal y Joomla. 
+- Estructuración y consultas complejas en bases de datos para conexiones de ERP/SAP con tiendas online. 
+- Experiencia en Arquitectura web y Posicionamiento web SEO.
+
+Características deseadas:
+- Conocimiento de desarrollo y maquetación en Magento/Prestashop 
+- Conocimientos de SQL, Oracle y otros sistemas de bases de datos. 
+- Conocimientos de programación para dispositivos móviles. 
+- Conocimientos básicos de programas gráficos. 
+- Conocimientos: Drupal, Joomla, Wordpress...
+Se ofrece:
+- Salario acorde a la experiencia y conocimientos aportados.
+

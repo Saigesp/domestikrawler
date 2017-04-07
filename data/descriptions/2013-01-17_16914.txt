@@ -1,0 +1,35 @@
+
+
+Our client is a multinational company specializing in email marketing since 2008.
+The agency assists more than one hundred clients through four divisions: the collection of email addresses, monetizing databases advertisers, dissemination campaigns performance and development of e-marketing solutions.
+They are currently in search of a Deliverability Manager for their office in Barcelona.
+The Email Deliverability Manager is responsible for maintaining a high level of deliverability, detect and correct various problems that may arise and to form the team sending emails on good practices to adopt. This position also includes server management and implementation of the infrastructure of deliverability.
+Reporting to the Director of Monetization, you:
+ Maintain existing infrastructure deliverability
+Are the interlocutor with all the ESP
+Build a positive reputation and sustainability of databases
+ Investigate and solve problems with sending e-mails,
+Take care enrollment Whitelisting and submit requests for release
+ Improve deliverability by infrastructure improvements, optimization of servers, the product interface and the rules and practices put in place
+Provide guidance on internal authentication, reducing complaints and strategy of sending emails
+ Develop business applications related to the monetization of databases
+ Drive and select external providers
+ You communicate all issues related to the deliverability of emails
+ Manage and maintain servers
+ Select and drive hosting providers
+Profile:
+Computer trained profile and you have at least two years experience in a similar role.
+Provide a good relationship and team spirit; you are rigorous, independent and willing to work in a dynamic company that is constantly new challenges.
+The prospect candidates should be very interested and attracted (e) by the challenge, you want to participate in the growth of a human-sized company, innovative and quality oriented with a young and highly motivated team
+Advanced knowledge of authentication and other technological factors affecting the deliverability of emails.
+Thorough knowledge of "best practices" for creating e-mail, mailing, building and managing lists.
+Good understanding of ISP / mailing rules specific to sending mass email
+Knowledge of SMTP and DNS.
+Ability to communicate recommendations to improve the e-mail strategy and operations in a clear and professional manner.
+ Able to prioritize effectively in a rapidly changing environment.
+Languages: PHP, HTML 4 and 5, XHTML, CSS 2 and JavaScript
+Databases hierarchical and relational (Oracle, SQL Server)
+Managing transactional, relational network (...)
+Fluent English
+Type of contract: Permanent
+ 

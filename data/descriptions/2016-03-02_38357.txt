@@ -1,0 +1,17 @@
+
+Desde Innofis estamos buscando Maquetador Web con experiencia demostrable en HTML y CSS3, y con conocimientos de Front-end para incorporar a nuestro equipo.
+Buscamos personas creativas, comunicativas, a las que les guste aportar y compartir ideas y que sepan trabajar en equipo. 
+Como Maquetador Web te unirás a nuestro equipo en el desarrollo de aplicaciones multicanal (Desktop, Mobile y Tablet) participando en diferentes proyectos para importantes marcas tanto nacionales como internacionales.
+Qué has de tener:
+-	HTML5
+-	CSS3
+-	Conocimientos en UX (diseño, interacción, usabilidad...)
+-	Diseño Desktop y Mobile responsive/adaptativo
+-	Control de versiones (Github)
+Se valorará:
+-	Preprocesadores CSS como SASS/Compass o LESS
+-	jQuery
+-	Bootstrap
+-	Automatizadores de tareas como Grunt o Gulp
+-	Angular
+

@@ -1,0 +1,36 @@
+
+Our client is a professional services organization focused on solving business problems caused by the proliferation and diversification of data in large enterprises.
+
+
+Responsibilities:
+•You will be responsible for the design of all MDM services, associated design patterns, and for the method of integration with new and existing systems including SOAP and REST services.
+•Define and maintain match rules.
+•Sets standards for data quality for all master data. 
+•You will collaborate with all business data stewards to ensure that they can maintain acceptable data quality.
+•Works with Enterprise Data Architects to ensure consistent use of data models and standards.
+•You will serve as a SME/consultant to all projects/teams needing to consume data from MDM, ensuring that acceptable levels of data quality and data governance are maintained throughout the data life cycle.
+•Ensures living documentation is maintained. 
+•Communicates with and fosters relationships with business stakeholders.
+•Works with project managers and project teams to ensure that all deliverables work as designed and are adequately tested.
+•Leverages technical skills coupled with business knowledge to act as an interface between Enterprise Architecture/Integration, MDM development and testing teams.
+•Works within and across teams to facilitate data integration. Use PL/SQL, T-SQL, and performance tuning, Data Modeling, Data Profiling, Data Quality, Matching, and Parsing to perform job duties.
+
+Education and Skills Required:
+•Requires a Bachelor’s degree in Computer Science, Information Technology, Engineering, or related technical degree and five years of progressive experience in information technology. 
+•Three (3) years of experience in data and/or software development with extensive experience with PL/SQL, T-SQL & performance tuning.
+•Two (1) years of experience designing and developing batch & real-time integrations including SOAP/REST services.
+•One (1) year of experience with MDM toolsets such as Siebel, Informatica MDM or similar product including workflow, configuration, and scripting.
+•Significant experience with data modeling, data profiling, data quality, matching and parsing.
+Employment Requirements:
+• Design, configuration and/or development experience with PIM and/or MDM products, especially Informatica.
+• Must have either EU citizenship or residency that allows work in other EU countries.
+• Must be fluent in English.  Proficiency in a second European language such as French, German and Spanish is considered a strong plus.
+• Must be able to travel up to 100% (defined as Mon-Fri).
+• Must maintain a highly professional appearance and demeanor at all times.
+• University degree from a 4-5 year program. 
+Compensation & Benefits:
+• Full-time position
+• Competitive base salary plus attractive bonus program that does not limit bonus potential
+• Full benefits
+• Paid training and technical certification
+

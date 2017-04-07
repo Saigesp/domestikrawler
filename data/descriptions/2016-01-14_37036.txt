@@ -1,0 +1,39 @@
+
+Hola somos Tramontana ventures una joven Incubadora/Aceleradora de startups dedicada a la innovación tecnológica.
+Actualmente estamos estamos empezando dos proyectos muy interesantes en el ámbito mobile, para los cuales necesitamos varios programadores para IOS & ANDROID.
+¿Qué buscamos en un candidato?
+- Que sea amante del buen código y las buenas prácticas.
+- Que tenga capacidad para trabajar en un equipo multidisciplinar.
+- Que no le tenga temor a la innovación y la exploración de nuevas vías & tendencias.
+- Experiencia previa demostrable en el desarrollo de aplicaciones mobile (IOS & ANDROID)
+- Conocimientos en programación nativa para IOS
+_Objective-C
+_Swift
+_Xcode
+_Cocoa Touch
+- Conocimientos en programación nativa para ANDROID:
+_Android Studio
+_Java
+- Integración de analíticas & Notificaciones Push
+- Integración y creación de APIs (especialmente centradas en operaciones de geolocalización mediante la API de Google Maps o Apple Maps)
+- Conocimientos y experiencia con:
+_SailsJS
+_NodeJS
+_Sockets
+_PHP & JavaScript
+_SQLite
+- Experiencia en Frameworks para desarrollo de Apps híbridas
+- Conocimientos básicos de UX
+Valorable 
+- Conocimientos de:
+_Cordoba
+_Spring
+_Hibernate
+_MySQL
+_HTML5
+_Experiencia en metodologías ágile & scrum
+¿Qué ofrecemos?
+- 2 proyectos para desarrollar dos apps mobile en IOS & ANDROID
+- Cada proyecto tendrá una duración estimada de 3 meses
+- Buena remuneración
+- Flexibilidad

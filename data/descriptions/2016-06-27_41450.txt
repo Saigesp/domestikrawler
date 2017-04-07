@@ -1,0 +1,16 @@
+
+En Iwantic estamos buscando un Senior Java Backend Engineer para una gran start-up del sector fintech en su sede de Madrid. 
+Si te apasiona la programación y quieres trabajar en una compañía que ofrece grandes beneficios sociales, buen ambiente de trabajo e importante paquete retributivo, ¡no dudes en aplicar a esta vacante!
+Se requiere:
+-Experiencia contrastada de 4/5 años en programación de backend en Java.
+-Facilidad para aprender y asimilar conceptos nuevos y complejos.
+-Capacidad para resolver problemas algorítmicos de forma eficiente.
+Conocimientos:
+-Programación multithread.
+-Arquitecturas diseñadas para alta disponibilidad.
+-Continuous delivery.
+-Bases de datos NoSQL.
+-Desarrollo de sistemas en tiempo real.
+-Programación asíncrona y orientada a eventos.
+-Nivel medio de inglés.
+

@@ -1,0 +1,13 @@
+
+Busco maquetador web freelance con experiencia para proyectos web
+
+Imprescindible:
+- Que le guste maquetar y dejarlo exactamente igual a lo diseños.
+- Que compruebe el crossbrowsing y no espere a que lo haga el cliente (IE8+, Chrome, Firefox y Safari)
+- Experiencia en maquetación en HTML5, CSS3 y responsive
+- Maquetación  con Bootstrap
+- Maquetación en Less (no obligatorio pero se tiene en cuenta)
+- Que cumpla  los estánderes W3C y TAW
+- Que maquete de forma correcta y semánticamente bien para SEO.
+- Desarrollo con Jquery.
+- Que tenga experiencia en tratar con UX (Experiencia de usuario, usabilidad y accesibilidad)

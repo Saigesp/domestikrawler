@@ -1,0 +1,27 @@
+
+En la actualidad nos encontramos en la búsqueda de un Programador PHP Fullstack para incorporación directa en una importe agencia de Marketing con proyectos en múltiples sectores.
+Programador con mínimo 1 año de experiencia, muy valorable Ingeniero Técnico, que pueda enfrentarse a retos, y con conocimiento imprescindible de:
+•	PHP
+•	HTML5
+•	Javascript
+•	BB.DD.
+Y algúnCMS:
+•	Wordpress
+•	Prestashop
+•	Magento
+Valorable adicionalmente:
+•	AJAX
+•	JSON
+•	XML
+•	CMS
+•	Webservices
+•	Symfony (Framework PHP)
+•	Zend (Framework PHP)
+•	Cordova.js (Mobile Framework Javascript – también Phonegap.js, que es una distribución de Cordova.js)
+•	Angular.js (Framework Javascript)
+•	Bootstrap.js (Framework Javascript – Responsive/Mobile First)
+Lugar de trabajo: Zona de las Ventas, Madrid
+Se ofrece:  incorporación directa en empresa de Marketing, Branding, Diseño Gráfico, Social Media y Desarrollo de Web
+Horario flexible: 08:00-09:30 a 17:30-18:30 de lunes a jueves. Los viernes hasta las 15:00h.
+Imprescindible: Persona autónoma, con iniciativa y, que le guste investigar cosas nuevas.
+Mínimo un año real programando con PHP. Importante Javascript y HTML5. 

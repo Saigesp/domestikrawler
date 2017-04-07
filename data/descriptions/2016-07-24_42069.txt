@@ -1,0 +1,21 @@
+
+Precisamos incorporar un "Full Stack" Senior.
+Formará parte del departamento de tecnología y desarrollo de OgilvyOne. 
+Imprescindible un mínimo de 4 años de experiencia en esta posición.
+Requisitos mínimos "front-end":
+- Dominio de Adobe CS5 o CS6 (se maquetará siempre a partir de .psd's)
+- Conocimientos avanzados de JavaScript y frameworks como jQuery, AngularJS, BackboneJS.
+- Experiencia demostrable en la maquetación HTML5 (pixel perfect y Responsive)
+Requisitos mínimos "back-end":
+- Conocimientos avanzados en PHP (+  frameworks como CodeIgniter o Drupal)
+- Conocimientos avanzados en bases de datos MySQL
+- Experiencia demostrable con programación MVC. 
+- Experiencia con Git y GitHub.
+- Conocimientos en criterios de seguridad vinculada al desarrollo de aplicaciones web. 
+Se valorará:
+- Desarrollo orientado a SEO.
+- Experiencia en desarrollo de Apps Nativas. 
+- Inglés hablado y escrito. 
+- Experiencia previa en agencia de marketing digital.
+¡Hasta pronto!
+

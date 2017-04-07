@@ -1,0 +1,21 @@
+
+En Webic, estamos buscando un/una crack para nuestro equipo, sabemos que estás ahí fuera triste y aburrid@, y queremos que te unas a nosotr@s, para ello te pedimos:
+– Que seas un/una máquina en PHP y JavaScript con experiencia en WordPress, SQLServer y MySQL.
+– Que a esto le sumes conocimientos de alguna de las siguientes tecnologías AngularJS, NodeJS, MongoDB, Ruby, Python (si es de todas nos vas a hacer llorar).
+– Que te desenvuelvas con soltura en al menos un entorno nativo de aplicaciones móviles, preferiblemente SWIFT y Android.
+– Que hayas trabajado con TDD o tengas conocimientos.
+– Que trabajes con Git, Github y conozcas algún otro gestor de código.
+– Que hayas trabajado o conozcas SCRUM como framework de trabajo, y los flujos de trabajo con tickets.
+– Que seas resolutivo y sobre todo que no te des por vencid@ al primer obstáculo que se te plantee.
+– Que seas una persona tecnológicamente inquieta.
+
+Si cumples estos requisitos, te estamos esperando, y te ofrecemos:
+– Flexibilidad horaria
+– Una remuneración acorde a lo que sabes y vales.
+– Muy buen rollo en el lugar de trabajo.
+– El uso obligatorio de redes sociales y blogs para estar a la última.
+– La asistencia obligatoria a al menos 2 eventos de código al año.
+– Día libre por tu cumpleaños al margen de las vacaciones que ya tengas.
+– Ser libre a la hora de realizar tus desarrollos.
+– Trabajar en un entorno en constante evolución.
+Mantendremos el proceso de selección abierto desde hoy hasta el día 31 de Marzo de 2016 y prometemos dar una respuesta a tod@s l@s candidat@s.

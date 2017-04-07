@@ -1,0 +1,21 @@
+
+Buscamos un desarrollador senior multidisciplinar en tecnologías web para incorporarse a nuestro equipo en Madrid. El candidato ideal es una persona al día en tecnología web, que busca soluciones pragmáticas a los problemas que se plantean y cuida la calidad del producto que desarrolla.
+El ambiente de trabajo es muy técnico e internacional, trabajará con profesionales de gran nivel. Nuestros proyectos son reconocidos internacionalmente.
+Estudios mínimos: Ingeniero Técnico
+Experiencia mínima: Al menos 2 años
+Requisitos
+- Experiencia y dominio de programación en PHP
+- Experiencia desarrollando bajo Frameworks MVC, especialmente Symfony2
+- Experiencia programando Front-End (CSS + JS)
+- Uso habitual de sistemas de control de versiones
+- Uso de plataformas Linux
+- Nivel aceptable de inglés
++ Soft Skills
+- Tener iniciativa y ser capaz de proponer alternativas
+- Capaz de adaptarse distintos escenarios en proyectos de software
+Se valorará positivamente:
+- Conocimientos en programación iOS
+- Conocimientos en programación Android
+- Experiencia en desarrollos con vídeo
+- Experiencia con integraciones entre distintas plataformas
+- Administración de sistemas

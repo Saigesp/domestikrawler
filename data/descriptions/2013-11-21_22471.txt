@@ -1,0 +1,15 @@
+
+Nuestro cliente es una empresa de Nuevas Tecnologías cuyo objetivo es ofrecer soluciones de entretenimiento y mejora de las operaciones y el marketing en entornos Mobile y On line.
+Actualmente seleccionamos:
+Requerimos la incorporación inmediata de un Programador/a Sr Frontend con experiencia de al menos 2-3 años en HTML5 CSS, Javascript y JQuery. El candidato o candidata se incorporará a un equipo de programación y desarrollo altamente cualificado, dentro de un entorno que integra las últimas tecnologías del mercado.
+Valorable:
+- Conocimiento en el desarrollo de aplicaciones Mobile.
+- Conocimiento de Frameworks de Java Script.
+- Conocimientos de Node.js.
+- Conocimientos de GIT.
+- Conocimientos sobre MediaQueries, Responsive Design, LESS/SASS, etc.
+- Conocimientos sobre PhoneGap u otros empaquetadores HTML5 para mobile y/o desktop.
+Incorporación inmediata
+Remuneración: 2.300 €
+La contratación: Autónomo dependiente
+Jornada presencial  en oficina de nuestro cliente en Alcobendas (Madrid) de lunes a viernes.

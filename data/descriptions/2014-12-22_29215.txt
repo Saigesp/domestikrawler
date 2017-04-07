@@ -1,0 +1,7 @@
+
+Para el puesto de trabajo de programador se valoraran:
+- Conocimientos de programación orientada a objetos y conocimiento del lenguaje de programación c#.
+- Conocimientos de programación asp.net, HTML y css para la maquetación y programación web.
+- Se valorará también conocimientos de uso/funcionalidad de wordpress, prestashop y magento.
+El puesto de trabajo es para un programador con un perfil todo terreno, ya que igual un día hay que programar una integración con prestashop, programar algún modulo o nueva funcionalidad en el software ERP, montar un wordpress, programar una aplicación html5 integrada, etc.. sin miedo a nada :)
+Se ofrece un puesto de trabajo donde se valorarán las ideas y aportaciones, donde aprenderá a manejarse con software de gestión comercial y contabilidad, aprenderá un montón sobre procesos productivos de las empresas.

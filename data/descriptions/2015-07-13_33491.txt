@@ -1,0 +1,16 @@
+
+Vector, grupo tecnológico 100% de capital español, proveedor de servicios integrales de tecnología, outsourcing y productos de software exclusivos, proporciona e integra servicios y soluciones mediante un amplio portfolio que abarca múltiples sectores: banca y finanzas, industria, telco y media, retail, ocio y turismo, administración pública y sanidad. Calidad, Compromiso, Cercanía, Conocimiento y Competitividad, junto con la flexibilidad en todos nuestros servicios, son nuestro valor diferencial.
+Desarrollamos tecnología por y para las personas, siendo la innovación el motor de nuestro crecimiento y las personas nuestra fuente de inspiración. Tecnología inteligente para transmitir confianza, seguridad y facilitar los proyectos vitales.
+Únete a nosotros y se parte integrarte de nuestros proyectos con grandes posibilidades de crecimiento y desarrollo profesional.
+Requisitos: 
+Componentización Capa Presentación basada en: JAVASCRIPT ANGULAR JS 
+Experiencia con otros framework JavaScript para desarrollo de aplicaciones Web: Angular.js, Spine.js, Knockout.js, JavaScript MVC, Google Closure, Ember.js, Batman.js.”
+Amplia experiencia desarrollando con JavaScript (patrones de diseño, buenas prácticas, uso de prototipos/herencia, módulos, AJAX, etc.). Maquetación HTML5 y CSS3. Frameworks JavaScript: Backbone.js/Angular.js Asynchronous Module Definition (AMD) con RequireJS Plantillas HTML: Underscore.js, Handlebar.js, etc. Librería JQuery Framework JQuery Mobile y/o Kendo UI Mobile Utilización de servicios REST/JSON Patrones de diseño MVC/MVP/MVVM 
+Experto en desarrollo JavaScript nativo (patrones de diseño, buenas prácticas, etc.).
+•	Frameworks: Experto en Angular o Backbone-Marionette.
+•	Librerías: Dominio de jQuery, underscore o Lo-Das, así como conocimiento de librerías específicas (charstJS o jqplot, raphael o kinetik, etc.).
+•	Plantillas: Handelbars o similar.
+•	Experto en HTML5 (canvas, drag & drop, geolocalización, etcétera) y conocimiento de técnicas de etiquetado semántico y accesible (wai-aria, microdatos, etc.).
+•	Experto en CSS3 y conocimiento de algún preprocesador CSS (SASS o LESS)
+•	Control de versiones: git
+•	Plus: REST, Cordova, Node, Mongo, Pruebas unitarias

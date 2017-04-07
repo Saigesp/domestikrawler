@@ -1,0 +1,16 @@
+
+Grupo Romeu Multiservices precisa un Front End Web Developer.
+
+Requisitos:
+Al menos dos años de experiencia requerida en:
+Desarrollo y maquetación de aplicaciones web para múltiples navegadores utilizando HTML5, CSS3 y JavaScript
+Habilidad para convertir diseños PSD en HTML Funcional
+Experiencia con frameworks MVC cómo angular JS
+Conocimiento extenso de frameworks CSS cómo BootStrap
+Consumir APIs res con JSON y XML
+Altos conocimientos en componentes de inetrfaz y usabilidad UI/UX
+Se valorará positivamente también conocimientos en las siguientes áreas:
+LESS/SASS
+Metodologías ágiles como SCRUM
+Conocimientos de C# y .NET en correo MVC y Web API
+Inglés

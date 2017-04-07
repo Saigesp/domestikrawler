@@ -1,0 +1,46 @@
+
+Description:
+Golden Race is the global market leader for pre-recorded virtual sports betting. We are a small but
+growing team of motivated professionals from many backgrounds and disciplines, operating together in a positive and supportive environment to grow and excel as one of the most promising and rapidly expanding companies in the betting industry.
+Now, we are looking for a to Technical Support / QA:
+● Provide Level 1 and Level 2 support to end-users and companies, diagnosis and resolution of a
+wide variety of issues across multiple platforms and products of a software company, remote
+support, mentoring of new customers.
+● Define and perform functional test plans.
+● Help the development team to monitor problem areas, underestimated risks, scope and
+bottlenecks.
+● Perform functional performance tests.
+● Creation and maintenance of test benches according to product specifications.
+● Participate in the configuration of unit testing, integration testing, automated user interface
+testing, etc.
+● Participate in requirements management, change management, risk management.
+● Collaboration with the team of native development, identifying and helping to resolve potential
+system failures.
+Requirements:
+● Minimum professional training level required: Advanced technician;
+● Professional level: Specialist.
+● 2 years´ experience in software support and / or maintenance of computer systems and
+customer service. Experience in quality control.
+● A good understanding of concepts, standards and practices for quality and security.
+● Experience in documenting QA testing and results.
+● Experience in writing corporate documentation (manuals, guides, etc.).
+● Experience in Windows and Linux Operating Systems.
+● Flexibility for work hours and able to travel if required.
+● Responsible, entrepreneurial, proactive, dynamic, with strong communication and interpersonal
+relationship skills.
+● High level of spoken and written English.
+● We are looking for: responsible person, entrepreneurial, proactive, dynamic, with communication and interpersonal skills.
+Highly Valued:
+● Knowledge of scripting;
+● Knowledge of networks, especially the configuration and maintenance thereof;
+● Knowledge of the diagnosis, repair and maintenance of computer equipment;
+● Knowledge of SQL;
+● Experience in test automation of web services using Java;
+● Knowledge of Selenium;
+● Knowledge of software development cycle, agile methodologies (Scrum, Kanban);
+● Experience with version control systems, incident tracking and management systems test cases.
+Bonus skills:
+● Familiar with gambling industry.
+Observations:
+● Permanent contract and immediate incorporation into a good working environment and excellent team.
+● Opportunity to be part of a team in constant growth and international projection.

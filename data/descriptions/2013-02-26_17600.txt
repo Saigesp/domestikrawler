@@ -1,0 +1,19 @@
+
+¿Qué buscamos?
+* Experiencia previa con alguno de estos frameworks: Backbone.js (+ Marionette, Gepetto, etc.), Angular.js, Sencha, etc.
+* Conocimientos de JavaScript nativo (cuanto más amplios, mejor) o en su defecto experto en Action Script y ganas de reciclarte.
+* Familiarizado con sistemas MVC.
+* Controladores de versiones tipo GIT. 
+* Otros conocimientos relacionados como HTML5/CSS3/Responsive, desarrollo de web apps,... etc.
+* ¡Pasión por tu trabajo! &lt;3
+¿Qué ofrecemos? 
+* Contrato Indefinido ¡Si buscamos compromiso, ofrecemos compromiso! 
+* Estabilidad y oportunidad de crecimiento profesional ¡Si buscamos estabilidad, ofrecemos estabilidad!
+* Clientes multinacionales y retos técnicos ¡Proyectos técnicamente muy atractivos! 
+* Excelente clima laboral ¡Tan importante es ser técnicamente competente como ser buen compañero!
+* Salario competitivo ¡O al menos se intenta! ;) 
+MediaNet Software mantiene desde sus inicios una cultura basada en un estricto sistema de selección y desarrollo de su equipo humano, y la búsqueda de la excelencia en sus proyectos y servicios como fórmula que permite fortalecer, por una parte con sus clientes una relación estable de partnership más que de proveedor, y con nuestro equipo un compromiso de continuidad que va más allá de una simple relación por proyecto.
+Únete a un equipo en expansión, con más de 200 ingenieros y diseñadores enfocados en desarrollo de aplicaciones web y mobile para grandes clientes multinacionales. 
+
+"Porque hay otra manera de entender la tecnología"
+¡Te esperamos! ;)

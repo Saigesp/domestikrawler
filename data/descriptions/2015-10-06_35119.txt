@@ -1,0 +1,22 @@
+
+Playfulbet es un social game donde los usuarios pueden pronosticar eventos deportivos y ganar premios gratis. Tenemos más de 4 millones de usuarios registrados y seguimos creciendo con velocidad.
+Buscamos
+Un frontend developer que aporte al equipo y que pueda trabajar codo con codo con el equipo de diseño. 
+Buscamos a alguien que le guste su trabajo y le guste hacerlo bien. Nuestros usuarios aprecian el trabajo bien hecho desde el primer minuto en producción :).
+El día a día
+Desarrollo web coordinado con el equipo de diseño partiendo de diseños y mockups.
+Coordinación con el equipo de diseño para aportar ideas u otros puntos de vista. 
+Coordinación con el equipo de backend para integrar las nuevas funcionalidades de front.
+Revisión de código existente para mejorarlo y optimizarlo.
+Evaluar/Implementar nuevas tecnologías para nuevas funcionalidades.
+Requisitos
+Experiencia de 3 años en desarrollo web.
+Dominio de HTML5, CSS3 (hand-coding).
+Amplios conocimientos de Javascript (jQuery & Ajax)
+Experiencia en frameworks como Foundation o Bootstrap.
+Predisposición a Responsive design y Crossbrowsing.
+Interés por frameworks de front como Ember, Angular, React…
+Se valorará
+Conocimientos de control de versiones (Git)
+Conocimientos de preprocesadores CSS (Sass/Less)
+Experiencia en el ecosistema Ruby On Rails

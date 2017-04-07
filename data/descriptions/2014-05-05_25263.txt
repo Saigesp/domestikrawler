@@ -1,0 +1,12 @@
+
+Buscamos un desarrollador web senior para nuestro departamento de programación, con experiencia en las tecnologías siguientes:
+- HTML + CSS + js (jQuery) (mínimo 5 años de experiencia). Además se valorará el conocimiento angular.js y otros frameworks de desarrollo de javascript. 
+- PHP (mínimo 3 años de experiencia) , se valorará el conocimiento de frameworks de desarrollo.
+- MYSQL ( mínimo 3 años de experiencia) 
+- Mobile web y Responsive Design (2 años de experiencia) 
+- Se valorará el desarrollo de webs con CMS de Drupal o Wordpress (mínimo 2 años de experiencia) 
+- Se valorará conocimiento de servidores, repositorios de versiones Git.
+- Se valorará conocimientos de UI/UX
+Buscamos a una persona para incorporarse a la plantilla a jornada completa de manera presencial y de manera indefinida.
+Se le pedirá autonomía y capacidad de aportar soluciones técnicas en los proyectos que se le asignen que serán de tipologías muy diversas, desde landings responsive, hasta webs de una complejidad considerable. Siempre estará apoyado y supervisado por el Director Técnico.
+También podrá participar en el análisis y desarrollo de aplicaciones a medida con un alto componente creativo.

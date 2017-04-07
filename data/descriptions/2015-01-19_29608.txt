@@ -1,0 +1,14 @@
+
+En iClassics Productions, S.L. estamos buscando un App Developer para incorporar a nuestro equipo de desarrollo.
+Requisitos mínimos:
+- iOS Experiencia de al menos un año desarrollando aplicaciones de iOS, con xCode 5 (Objective-C). Se valorará tener publicadas aplicaciones en la App Store. 
+- Conocimientos en frameworks multiplataforma (Cocos2D y Cocos2Dx) 
+- Conocimientos en la utilización de repositorios de control de código fuente tipo Bitbucket o similar. 
+- Sensible al diseño, funcionalidad y elegancia
+Valoraremos:
+- Conocimientos de programación en C++
+- Inglés fluido
+Buscamos una persona organizada y metódica en su trabajo, habituada a trabajar bajo presión, con proveedores externos y con capacidad de trabajo en equipo.
+Ofrecemos incorporación inmediata, contrato indefinido y posibilidades de promoción en una empresa muy dinámica con visión internacional y en continua expansión.
+Nosotros:
+Somos una empresa de Barcelona con mucha experiencia en el sector, pero con el espíritu muy joven. Estamos creando un proyecto espectacular y muy ambicioso. Si tienes ganas de trabajar y desarrollar tu carrera profesional rodeado de un gran ambiente y con un gran reto internacional, esta es tu oportunidad.

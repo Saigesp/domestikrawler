@@ -1,0 +1,21 @@
+
+For the edorasware product development team in Valencia we are looking for UI Designers / Frontend Developers with the ability to work in a high performance team with agile development.
+You will join a very talented, motivated and self-driven team working on the edorasware product. The edorasware platform is a next generation, social work management platform, running in the Cloud or on-premise with the latest technologies and infrastructure.
+If you are not afraid of fulfilling the highest expectations and quality standards in development, we have a challenge ready for you.
+We offer a full-time job with an indefinited contract and competitive salary package, which includes base+bonus+super bonus.
+Important:
+Please consider that only English application documents will enter in our selection, Spanish application documents will be rejected.
+Job requirements:
+Qualifications:
+* HTML5 / CSS3
+* JavaScript, jQuery, AngularJS
+* REST
+* Ability to work seamlessly in a team development environment with agile development, pair programming and test driven development methodologies, based on a continuous integration environment
+* High level of English is a must. German will be also highly appreciated
+Optional but very valuable:
+* Java
+* Spring Core und Spring MVC
+* Mobile UI Development
+Job experience:
+* 5 years minimum
+

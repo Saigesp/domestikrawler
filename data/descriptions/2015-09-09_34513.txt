@@ -1,0 +1,5 @@
+
+Buscamos desarrollador iOS senior con experiencia demostrable para un proyecto concreto que tendrá una duración aproximada de un mes o mes y medio.
+Es necesario que la persona seleccionada trabaje in-house ocupando un puesto en nuestra oficina. No contemplamos la posibilidad de trabajar remotamente.
+Sabemos que decir esto es una obviedad pero el candidato deberá tener ID de desarrollador iOS de Apple.
+Se trata de un proyecto de desarrollo basado en iOS a partir de un código heredado donde necesitamos rediseño, etc.

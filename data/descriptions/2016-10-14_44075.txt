@@ -1,0 +1,11 @@
+
+Hello!
+eNubes somos una agencia digital, multidisciplinar con un equipo de trabajo muy agradable,y en este sentido estamos buscando a gente que pueda unirse a nuestro equipo que tenga si es posible algo de experiencia en desarrollos digitales para agencias de publicidad.
+Buscamos perfiles con experiencia en:
+PHP (y algun framework!)
+BBDD mysql
+Webservices
+Programacion en CMS (WP, Joomla...)
+Maquetacion HTML/CSS
+Gusto e inquietudes por lo digital!!
+Te esperamos! anímate y envíanos tu CV.

@@ -1,0 +1,24 @@
+
+Job Description:
+As a Junior Web Developer, you will innovate, learn and participate in a startup that’s going to do great things.
+We are looking for smart, flexible, innovative thinkers and team workers who aren’t afraid of taking new challenges and learning new technologies.
+Minimum studies:
+- Ingeniero Técnico Informático, Grado en Ingeniería Informática.
+- Master en Ingeniería Informática, a plus.
+Experience:
+- Minimum 1 year
+Required:
+- OOP, software design and architecture patterns.
+- Relational Databases
+- Knowledge of the MEAN stack (MongoDB, ExpressJS, AngularJS, NodeJS)
+- Knowledge of RESTful APIs.
+- Proficient in GitHub.
+- Knowledge of code integration with different Web APIs.
+- Familiar with agile methodologies: Scrum or Kanban
+A plus
+- Experience in test driven development (TDD).
+- Experience with web crawling.
+- Level of English medium / high.
+- Knowledge in Elasticsearch or Solr
+Type of contract:
+- Permanent

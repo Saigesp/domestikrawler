@@ -1,0 +1,28 @@
+
+Quiénes Somos
+Sincrolab somos una startup del sector eHealth con una meta clara; solucionar los problemas de aprendizaje de los más pequeños y alargar la frescura mental de los mayores.
+Para ello desarrollamos juegos divertidos y motivantes donde el usuario no nota la ciencia que hay por detrás pero si los beneficios que le reportan.
+Qué Buscamos
+Buscamos un desarrollador web con al menos 1 año de experiencia de desarrollo en Javascript  Front/Back para mantener y desarrollar aplicaciones web.
+- Conocimientos requeridos:
+	* Experiencia en React y Redux.
+	* Experiencia en Node.
+	* Experiencia con HTML5 y CSS3.
+	* Uso de buenas prácticas para generar código bien estructurado y fácilmente mantenible y escalable (patrones de diseño, prototipos/herencia, módulos, AJAX, frameworks, etc.).
+- Conocimientos valorados:
+	* Conocimientos de programación y utilización de web services (REST, JSON).
+        * Experiencia en el uso de control de versiones (Git, Subversion).
+        * Desarrollo e implantación de sistemas en la nube (Dokku, Heroku)
+	* Experiencia con otros lenguajes de programación (C#, Java, PHP, etc) y bases de datos (PostgreSQL, MySQL, MongDB, etc).
+	* Experiencia en desarrollo de videojuegos 2D.
+- Qué Ofrecemos:
+		Participar de un apasionante proyecto y en una StartUp con gran potencial.
+		Remuneración acorde la experiencia aportada.
+		Acceso a un plan de formación en función de sus necesidades.
+		Horario flexible y buen ambiente de trabajo.
+
+- Qué pedimos:
+		Que estés al día y te apasionen las nuevas tecnologías.
+		Que tengas iniciativa, ganas de aprender, mejorar y asumir nuevos retos.
+		Responsabilidad en el trabajo.
+		Atención a los detalles y pasión por la calidad.

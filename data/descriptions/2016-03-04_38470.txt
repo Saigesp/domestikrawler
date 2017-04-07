@@ -1,0 +1,12 @@
+
+Buscamos un FrontEnd Developer para incorporar en el espacio de Ruzafa (Valencia).
+Se encargará de maquetar y programar webs HTML5 sobre diferentes CMS, especialmente Wordpress.
+Requisitos mínimos: 
+- Experiencia en HTML5, CSS3, jQuery. 
+- Experiencia con PHP
+- Experiencia con Wordpress.
+¿Qué valoramos? 
+- Experiencia en Laravel o algun otro framework de PHP
+.¿Qué ofrecemos? 
+- Salario adaptado a las capacidades, experiencia y valía del candidato. 
+- Disponibilidad de incorporación inmediata

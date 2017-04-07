@@ -1,0 +1,14 @@
+
+Solamente se valoraran los CV con portfolio o enlaces a últimos trabajos.
+Experiencia mínima de 2 años.
+Incorporación inmediata.
+Los requisitos son:
+Conocimientos avanzados en diseño de experiencia de usuario (UX)
+Dominio de Photoshop e Illustrator
+Experto en maquetación HTML+CSS (y uso de HTML5 y CSS3)
+Conocimientos de accesibilidad y estándares W3C
+Lenguaje de SASS/LESS
+Se valorará:
+Conocimientos de frameworks de desarrollo de css (bootstrap, foundation) 
+Conocimientos básicos de Javascript 
+Control de versiones git 

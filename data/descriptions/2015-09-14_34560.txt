@@ -1,0 +1,6 @@
+
+Se busca maquetador web ara dar soporte en un pico de trabajo.
+Se requieren buenas prácticas al picar el código, conocimientos de HTML5 y CSS3 a nivel avanzado, Bootstrap, jQuery y SEO natural.
+Debes ser capaz de maquetar la web exactamente igual al diseño original, mediante código y estructura HTML5, desarrollado en Boostrap 3. También de utilizar iconfonts y pequeñas animaciones CSS3 sin problema, así como toda la interactividad con jQuery.
+Se valorará muy positivamente conocimientos de desarrollo WordPress y estándares W3C.
+Posibilidad de trabajar en futuros proyectos. Si la colaboración es un éxito, mi intención es establecer un vínculo a largo plazo para otros proyectos ya previstos.

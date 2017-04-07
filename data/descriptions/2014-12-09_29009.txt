@@ -1,0 +1,6 @@
+
+Si quieres formar parte de un equipo joven pero altamente tecnológico desarrollando un producto de software propio, esta es tu oportunidad!
+Buscamos un/a front-end developer con conocimientos sólidos en HTML 5, CSS 3 y javascript (jquery).
+Se valorará conocimientos en twig, symfony2, ORM, Git, Integración continua, tests unitarios y funcionales, Jira, Confluence, usabilidad y/o bootstrap.
+Conócenos en http://www.wearebab.com.
+No te lo pienses, contacta con nosotros y conozcámonos!

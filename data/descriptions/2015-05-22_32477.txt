@@ -1,0 +1,16 @@
+
+Bambú software necesita incorporar un Programador en Java Senior / BackEnd.
+Formación: Ingeniero en informática o carreras técnicas.
+Experiencia mínima 3 años probada en ámbito de desarrollo de servicios/backend y un mínimo de 7 años de experiencia profesional total.
+Requisitos imprescindibles:
+- Desarrollador de soluciones basadas en cloud (Spring technologies, Java, JSP, Web Services y RESTful APIs).
+- Sólido conocimiento del entorno MySQL y Oracle.
+- Conocimiento en el desarrollo de metodologías ágiles.
+Requisitos deseables:
+- Experiencia building your own MEAN apps.
+- Experiencia en construir código limpio en modelo API Driven.
+- Haber construido y lanzado tus propios proyectos.
+- Tener en cuenta GitHUB y leer blogs y foros similares a Hacker News.
+Se ofrece:
+- Salario negociable según valía del candidato. 
+- Puesto de trabajo en Madrid.

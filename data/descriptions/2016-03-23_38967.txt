@@ -1,0 +1,16 @@
+
+¿Te interesa formar parte de un equipo dinámico y en crecimiento?
+En ICA buscamos a un perfil PROGRAMADOR/A iOS que se encargue del desarrollo de aplicaciones móviles para plataformas Apple (iOS, tvOS, WatchOS)que entrará a formar parte de nuestro equipo interno de movilidad.
+Un equipo en etapa de crecimiento, que trabaja con metodología ágil y que está abierto a nuevas ideas y propuestas. Buscamos a una persona proactiva, con ganas de aprender y crecer.
+Requisitos mínimos
+Formación:
+CFGM o ingeniero técnico o superior en informática.
+- Experiencia mínima de 1 año en iOS, Objective C y Swift.
+- Aportar aplicaciones publicadas en iTunes App Store
+- Experiencia con librerías propias en iOS
+Requisitos deseados
+Se valorará muy positivamente aportar experiencia en:
+- HTML5 y CSS3 
+- JQuery 
+- CocoaPods, Git, Mac OS X
+Conocimientos de metodología ágil.

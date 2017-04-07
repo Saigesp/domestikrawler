@@ -1,0 +1,17 @@
+
+Incorporándose al equipo de productos sus funciones serán:
+•	Soporte, instalación y configuración de aplicaciones web. Para nuestra web de cliente: Bayes Web Suite, configurar sus módulos para las instancias de desarrollo y producción de los diferentes proyectos.
+•	Mantener, mejorar y desarrollar nuevos scripts para la automatización de las tareas de administración de la aplicación(instalación, migración de entornos, paso de desarrollo a producción, etc.)
+•	Monitorear el rendimiento de las instancias de la Bayes Web Suite.
+•	Diseños BIRT (javascript, SQL) de informes requeridos en la Bayes Web Suite.
+PERFIL
+Conocimiento  y manejo de:
+o	Linux 
+o	Shell Script
+o	Javascript
+o	SQL
+Requisitos deseados:
+Conocimiento  y manejo de:
+o	BIRT
+o	Java
+o	Apache Tomcat

@@ -1,0 +1,21 @@
+
+Somos una consultora IT orientada a ofrecer servicios de valor añadido, soluciones y desarrollos software adaptados a las necesidades de nuestros clientes.   Actualmente contamos con una plantilla de 400 personas.
+Buscamos un Analista Programador en Python Django para incorporar en las oficinas de un importante cliente líder en el sector e-commerce. 
+Requisitos mínimos:
+- Django
+- Python
+- J2EE
+- SVN (Subversion)
+Se valorará experiencia y conocimientos en :
+- Release Management
+- Hudson/Jenkins  Fabric
+- Test unitaris
+- Selenium
+- CMS: OpenCMS
+- Eclipse
+- Ubuntu
+Ofrecemos:
+- Incorporación en una consultora líder en el sector financiero.
+- Trabajar en proyectos únicos, desarrollados para grandes Entidades y definidos por equipos de consultores especializados.
+- Formación especializada.
+- Estabilidad profesional (contratación indefinida)

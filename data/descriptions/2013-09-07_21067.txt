@@ -1,0 +1,10 @@
+
+e busca programador developer con las siguientes características:
+·        Programador php con experiencia en proyectos symfony2.
+·        Experiencia entorno Linux (consola, ssh)
+·        Experiencia en control de versiones (git o subversion)
+·        Experiencia en gestión de servidores
+·        Experiencia con javascript
+·        Experiencia con css
+·        Experiencia utilizando frameworks responsive de css como bootstrap
+·        Programación orientada a objetos

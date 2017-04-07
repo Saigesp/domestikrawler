@@ -1,0 +1,7 @@
+
+Se requiere programador para desarrollar una extensión de Chrome para un portal.
+Necesitamos una persona que tenga experiencia en el desarrollo de este tipo de aplicaciones.
+La extensión deberá servir para que se pueda seleccionar cualquier texto dentro de una pagina web y realizar la búsqueda en nuestro portal.
+El programador trabajará durante 1/2 semanas en el desarrollo de esta aplicación.
+A partir de este trabajo pueden surgir nuevas colaboraciones con otros proyectos.
+Es muy importante que ya hayan realizado otro tipo de aplicaciones de este tipo para exploradores.

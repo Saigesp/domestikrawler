@@ -1,0 +1,11 @@
+
+Ganetec Global Solutions es una empresa dedicada a la aplicación de las nuevas tecnologías. El afán por desarrollar soluciones basadas en diversas tecnologías punteras, nos permite ofrecer a nuestros clientes, productos únicos con varias ventajas competitivas respecto a nuestra competencia. 
+En Ganetec tenemos un equipo de profesionales altamente cualificado en tecnologías de computación distribuída y de alto rendimiento. Somos expertos en la implantación el desarrollo y la administración de entornos DataSynapse, Condor o IceGrid. Asímismo, si las necesidades de cómputo de nuestros clientes son excesivamente elevadas, ofrecemos soluciones que integran también el Cloud Computing, con el fin de obtener mejores resultados.
+Detalles de la oferta:
+Buscamos ingenieros informáticos o de telecomunicaciones para el puesto de Consultor Junior HPC con los siguientes requisitos:
+ - Java
+ - Administración de linux y windows
+ - Conocimientos de ofimática
+ - Capacidad de trabajo en equipo
+ - Autodidacta y con ganas de conocer nuevas tecnologías.
+Este puesto es para jornada completa y su incorporación es inmediata.

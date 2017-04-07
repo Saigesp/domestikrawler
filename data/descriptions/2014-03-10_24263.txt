@@ -1,0 +1,38 @@
+
+Empresa del sector de la información busca candidatos con incorporación inmediata para cubrir la siguiente vacante:
+
+Funciones:
+•	Mantenimiento del departamento de microinformática (mantenimiento de servidores, contratación, etc…)
+•	Mantenimiento de la Intranet (desarrollada bajo GO), se encargará tanto de la parte de back end como de front end.
+•	Tareas de maquetación en diversos proyectos, de distinta índole.
+
+Requisitos mínimos:
+•	Autodidacta.
+•	Conocimientos sólidos en Front End (HTML/5, CSS/3, JS/JQUERY)
+•	Conocimientos sólidos en programación orientada a objetos.
+•	Conocimientos de UNIX.
+•	Conocimientos sólidos de servidores LAMP y LNMP.
+•	Conocimientos sólidos de inglés técnico.
+
+Requisitos recomendados:
+•	Conocimientos de Drupal.
+•	Conocimientos de Symphony.
+•	Conocimientos de optimización de rendimiento en servidores (MemCaché, Varnish)
+•	Valorable hablar inglés.
+
+Aptitudes:
+•	Alta capacidad de comunicación, buena relación interpersonal y excelentes dotes de organización
+•	Iniciativa y fuertes capacidades analíticas
+•	Capacidad de síntesis y negociación
+•	Orientación al cliente
+•	Sólidas habilidades analíticas y de resolución de problemas
+•	Capacidad de autoaprendizaje, manteniéntote al día de la evolución de las distintas tecnologías Web relacionadas con tu trabajo
+Ofrecemos:
+•	Incorporación inmediata
+•	Responsible del area de desarrollo web en la empresa
+•	Salario atractivo – a convenir según experiencia de los candidatos
+•	Agradable ambiente de trabajo dentro de un ambiente internacional
+•	Jornada completa
+•	Puesto ubicado en Las Rozas de Madrid
+Información de la empresa:
+Voices of Leaders is an international networking platform, which embraces nations that hold significant potential for economic growth. Additionally, the platform displays countries and companies as an attractive destination for partnerships and foreign investment, which boosts the image, fosters the international awareness of business leaders and increases communication channels. We offer a brand new, innovative and immediate Online Business Profile to strategically market the company’s brand with its products and services. This Online Business Profile provides our clients with the international leverage they need to expand their business.

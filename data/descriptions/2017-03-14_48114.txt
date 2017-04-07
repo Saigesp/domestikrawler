@@ -1,0 +1,9 @@
+
+Gestora Coyfam, S.L. es una empresa joven, dinámica, emprendedora y con una dilatada experiencia en el sector del mueble.  Estamos en continua innovación y evolución. Equipo, ilusión, sacrificio y capacidad de trabajo son nuestras bases para proyectar MERKAMUEBLE y consolidarnos como líder nacional del sector.
+Requisitos: Desarrollador Web
+- Posicionamiento SEO y SEM (Google Adwords, Google Analytics y Facebook Ads)
+- Marketing Digital y publicidad online
+- Email marketing
+- Conocimiento de HTML y CSS 
+- php y mysql
+- Gestor de contenido PrestaShop(imprescindible)​

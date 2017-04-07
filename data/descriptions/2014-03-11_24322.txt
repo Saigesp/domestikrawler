@@ -1,0 +1,11 @@
+
+Hola, somos Ulabox, el primer supermercado online del país y buscamos un desarrollador Symfony 2, aunque si sabes programar y estás interesado en aprender no cerramos ninguna puerta. 
+Igual ya has escuchado hablar de nosotros y sabes lo que hacemos, pero si no es así aquí tienes algunos puntos:
+- Ecommerce con más de 10.000 productos desarrollado desde cero sobre SF2, y actualizado a la última versión (2.4). Repartimos a toda España en 24 horas desde nuestro almacén en Barcelona.
+- REST API para consumo de nuestras apps y web externas.
+- Uno de los primeros - sino el primero - ecommerce del país fully responsive. ¡Prueba a abrir nuestra página desde tu móvil o tablet!
+- Últimas versiones de PHP, MySQL, Redis y Solr. Sí, no utilizamos Elastic Search, pero cuando empezamos con el Ulabox, ES estaba mucho más verde y la verdad es que  estamos muy contentos con Solr y su rendimiento.
+- Muy motivados con DDD. Estamos empezando pero creemos que para el tipo de proyecto que tenemos entre manos tiene todo el sentido del mundo. ¿No lo crees así? Estamos abiertos a discutirlo ;)
+No te vamos a engañar, somos un equipo pequeño pero resolutivo, multidisciplinar - tenemos developers, logísticos, diseñadores, matemáticos... - con retos bastante interesantes en marcha o en el futuro cercano, y en un sector - gran consumo - que está creciendo online a buen ritmo. 
+¿Qué te podemos ofrecer? Un sueldo alineado con el mercado, un proyecto obsesionado con el performance, un trabajo en el que no dejarás de aprender y la posibilidad de llegar a conocer a fondo el mundo del ecommerce. Y sí, de vez en cuando vamos a conferencias - este año DeSymfony y Velocity London -  e incluso damos alguna charla sobre  SSL o diseño web. 
+¿Qué buscamos? Gente con iniciativa, con ganas de aprender y que disfruten con lo que hacen. 

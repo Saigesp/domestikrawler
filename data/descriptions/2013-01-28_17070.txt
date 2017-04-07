@@ -1,0 +1,24 @@
+
+	Buscamos un especialista en desarrollo web en tecnologia PHP / MYSQL / jQuery.
+	El trabajo se desarrollará en las oficinas del cliente por lo que es requisito fundamental que el candidato tenga experiencia previa en este modelo de trabajo.
+	Requisitos minimos:
+
+		Dominio de PHP.
+		Dominio de MySQL, creacion de modelos de BBDD, optimizacion de consultas.
+		Al menos 5 años de experiencia en desarrollo de aplicaciones web en este entorno.
+
+		Dominio de framework de cliente jQuery (no es necesario desarrollo de plugins propios) y conocimiento de ExtJS, buena base de javascript.
+		Capacidad de Analisis y toma de requisitos funcionales asi como del planteamiento de las soluciones tecnicas.
+		Ingles nivel medio (capacidad de manejar documentacion tecnica en ingles).
+		Conocimientos de SEO, SEM
+		Don de gentes.
+		Capacidad de trabajo en equipo.
+		Incorporacion Inmediata.
+
+
+ 
+	Requisitos deseados.
+		Experiencia en framework de desarrollo SYMFONY.
+		Desarrollo de aplicaciones para entorno Mobile (IOS, PhoneGAP ...)
+		Conocimentos HTML 5.
+ 

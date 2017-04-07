@@ -1,0 +1,16 @@
+
+PUESTO:
+En Grupoidex, necesitamos incorporar a nuestro departamento de Marketing Online un desarrollador que realice las siguientes funciones:
+- Desarrollo de páginas web basadas en Wordpress, PHP y MySQL
+- Programación de modulos y plugins en Wordpress
+En la empresa realizamos todo tipo de diseños web vinculados a campañas de comunicación.
+REQUISITOS MÍNIMOS: 
+- Experiencia demostrable en programación en entorno servidor y cliente con tecnologias web: HTML, CSS3 y Sass/LESS, JQuery y Wordpress (a nivel programador).
+- PHP, MySQL y configuración de servidores.
+- Habituado a trabajar en equipo.
+- Residencia en Alicante, Elche o alrededores.
+ESTUDIOS MÍNIMOS: Formación profesional de Grado Superior - Informática.
+EXPERIENCIA MÍNIMA: 3 años
+INCORPORACIÓN: Inmediata
+JORNADA: Jornada Completa
+

@@ -1,0 +1,13 @@
+
+Si tienes más de 5 años de experiencia con Java y con Spring MVC, hablas inglés y quieres trabajar en nuestra oficina de Sevilla para un proyecto de USA. Si además eres un apasionado de la tecnología y te gustaría formar parte de proyectos con alto contenido innovador, éste puede ser tu sitio.
+BUSCAMOS:
+Amplios conocimientos y experiencia en desarrollos Java en el siguiente ecosistema:
+- JDK 6+
+- Spring Framework: MVC, Security, Data, etc.
+- Persistencia: Hibernate, JPA
+- Bases de datos relacionales: Oracle, MySQL o Postgre SQL
+- Bases de datos No SQL: Mongo DB y/o Cassandra
+- Servidor de aplicaciones: WebSphere Application Server 7+, Jetty, JBoss
+- Entornos de integración continua: Jenkins y/o Bamboo, Nexus, Sonar
+- Otras tecnologías: Maven, Git, Swagger, Eclipse/ STS/ IntelliJ
+- Conocimientos y experiencia en despliegue de aplicaciones sobre AWS: VPC, EC2, SQS, S3, Cloud Search

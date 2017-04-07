@@ -1,0 +1,14 @@
+
+Experiencia en:
+- Administración, instalación y puesta en producción de aplicaciones o plataformas web de gran tamaño y complejidad
+ - Linux
+ - Apache y nginx
+ - Sistemas en cloud; AWS
+ - Vagrant, virtualización
+ - Sistemas de deploy automatizados: chef, puppet
+ - Administración y configuración de bases de datos mysql y noe4j
+ - Servidores de chat, ejabberd
+ - Monitorizaciones y seguimiento
+ - Optimización y escalabilidad
+ - Apoyo técnico al departamento de desarrollo y a otras areas de la empresa
+ - Gestión con proveedores

@@ -1,0 +1,19 @@
+
+Desarrollo, implementación y asistencia técnica de un Sistema Multiplataforma (tablet, windows, mac, android…) de Gestión de Almacén, Facturación y Emisión de Presupuestos/Albaranes para empresa offline y online de Venta, Reparación y Alquiler de Equipos de sonido e Iluminación, con las siguientes características:
+Apartado 1. ALMACÉN: Gestión de artículos:
+- Dar de alta/ baja productos.
+Apartado 2. FACTURACIÓN:
+- Gestión de Compras. Gestión de Ventas. Consultas a bbdd.
+Apartado 3. GESTIÓN DE PROVEEDORES Y CLIENTES:
+- Alta, baja y consulta de proveedores. Alta, baja y consulta de CLIENTES. Consultas a bbdd.
+Apartado 4. REDACCIÓN DE PRESUPUESTOS Y ALBARANES:
+- Emisión de facturas y consultas a base de datos por parte de departamento de gestión comercial desde cualquier dispositivo (tablet, windows, mac, iphone, android..). Numeración de albaranes y facturas. Gestión y anulación de las mismas (al anular una factura, el número queda disponible de nuevo). Gestión de albaranes y presupuestos de manera INDEPENDIENTE  a la gestión del almacén y a la gestión de la facturación.
+Apartado 5. UTILIDADES:
+- Creación de ETIQUETAS DE PRODUCTO TIENDA (para clasificación en almacén) y ETIQUETAS DE CLIENTE (para paquetes de envío).
+- Gestión de Administración o de Usuario: (tipos de envío, tipos de forma de pago…)
+- Gestión de Impresión:  cantidades superiores a las 100 hojas
+- Conexión y gestión de varias impresoras matriciales: copia rosa, copia blanca y copia amarilla.
+Apartado 6 – servicio técnico y de reparaciones:
+- Poder emitir etiquetas de identificación para PRODUCTOS EN SERVICIO TÉCNICO
+- Realizar seguimiento del trabajo realizado en un día.
+Se valorará mucho la simplicidad, diseño y usabilidad del software

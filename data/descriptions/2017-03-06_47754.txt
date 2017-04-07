@@ -1,0 +1,16 @@
+
+Altamira TI, consultora especializada en tecnologías de la información y los RRHH, necesita incorporar un System Developer con amplia experiencia para un proyecto estable dentro de uno de sus grandes clientes en Valencia.
+Se requiere un alto dominio de Ingles pues el proyecto se desarrolla en un entorno multinacional.
+Buscamos profesionales que puedan aportar experiencia en:
+•  Python: bibliotecas principales, así como marcos web como Django
+• Conocimiento experto de HTML, JS y CSS, incluyendo frameworks como Bootstrap
+• Experiencia utilizando shell de UNIX
+• Experiencia con administración de sistemas Unix / Linux
+• Conocimiento sólido de la pila TCP / IP
+• Buen conocimiento de los procesos de DevOps para CI / CD (Git, Puppet, Atlassian Jira / Bamboo)
+Sus funciones principales serán:
+• Diseñar y entregar la información para mejorar la disponibilidad, escalabilidad, latencia y eficiencia de los servicios del cliente
+• Administrar y mejorar la plataforma de aprovisionamiento de servidores
+• Diseñar y construir marcos de pruebas automatizadas
+• Aplicar las mejores prácticas en materia de salud, pruebas y mantenimiento del código
+Se ofrece buen ambiente de trabajo, buena ubicación, salario negociable en función de la experiencia aportada por el candidato.

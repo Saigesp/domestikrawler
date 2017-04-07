@@ -1,0 +1,6 @@
+
+Necesitamos Programador con experiencia contrastada en lenguajes de programación web:
+PHP, HTML/HTML5, CSS, XHTML, JavaScript, JQuery, Ajax. Además es imprescindible el dominio con bases de datos SQL: MySQL, PL/SQL, Oracle, etc
+Las funciones a realizar serán las de desarrollar apps de facebook, twitter, landing, webs de campañas, webs desarrolladas en Wordpres, simphony, CakePHP...
+Se valorarán conocimientos de administración de sistemas, desarollo mobile ( iOS o Android ) y arquitectura web.
+Se incorporará al Departamento de Desarrollo, por lo que se requiere buenas actitudes para trabajar en equipo.

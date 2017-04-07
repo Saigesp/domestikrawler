@@ -1,0 +1,27 @@
+
+EXPERIENCIA:
+1.	Mínimo 2 años en el área de soporte técnico, gestión de incidencias de usuarios/clientes.
+CARACTER:
+•	Persona con alto grado de responsabilidad y autonomía.
+•	Capacidad e interés en aprender y adquirir conocimientos para mejorar su trabajo. Capacidad autodidacta.
+•	Persona ordenada, con capacidad de gestionar múltiples tareas y prioridades. Capacidad de revisión exhaustiva de tareas en búsqueda de errores (checklists).
+•	Capacidad de trabajo y colaboración en equipo.
+•	Persona proactiva y con capacidad de generar crítica constructiva sobre su trabajo.
+CONOCIMIENTOS:
+1.	Excel (nivel avanzado)
+2.	Flash/Action Script
+3.	BD (mySQL)
+4.	Nivel avanzado a nivel de usuario en sistemas Windows, Linux
+5.	Compresión de lenguaje XML
+6.	Conocimientos medios/avanzados a nivel de instalación de PC’s, sistema operativos windos, configuración de entornos de red.
+DESCRIPCIÓN DEL PUESTO:
+El candidato formará parte del equipo de Operaciones de la compañía. Dicho equipo se encarga de la gestión diaria de una red distribuida de equipos informáticos basados en Windows que ofrecen servicios y contenidos a televisiones.
+Sus funciones iniciales dentro de este equipo serán:
+•	Organización, distribución y seguimiento de formatos de publicidad (spots, banners...).
+•	Adaptación de formatos basados en Flash a través de programación Action Script.
+•	Formateo de los archivos de video de paquetes de contenido distribuidos a las TV’s.
+•	Soporte en el día a dia a las incidencias derivadas de la operación de la red de clientes.
+•	Soporte a nivel de sistemas y configuración de máquinas al resto de empleados de la compañía.
+CONDICIONES DEL PUESTO:
+•	Contratación indefinida con período de prueba previo para validar su capacitación para el puesto.
+

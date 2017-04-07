@@ -1,0 +1,37 @@
+
+Job Summary: 
+Ingravity Media is seeking a multi-skilled Software or Systems Engineer. You will work on the most exciting projects in mobile -- as well as one of our product offerings. You will occupy a role as the subject in an agile fashion to design, implement and scale the High Availability systems supporting our platform using cutting edge technologies and the latest software development, automation and deployment practices within the fastest growing player in mobile communications.
+Primary Responsibilities: 
+- Automate deployment with Puppet, monitoring, management and incident response 
+- Proposal, creation and maintenance of several levels dashboards to monitor applications and systems’ health 
+- Identify problems as they arise and diagnose them in every tier of solution (Backend, Frontend, Systems, Database, etc.) 
+- Prepare quick solutions and workarounds to known issues and problems to maintain service whilst the teams investigate a permanent solution. 
+- Be passionate about technology and how it can be harnessed to create world-class products 
+- Discern between solutions that provide real value, and ones that do not 
+- Focus on constant and never ending improvement 
+- Help colleagues succeed -- we’re all in this together!
+Required Skills and Experience: 
+- BS/MS in Computer Science 
+- Amazon AWS experience utilizing Cloudfront and APIs for provisioning and management 
+- Shell scripting & Ruby knowledge for day to day and Application Development experience to build internal apps or help debug existing ones 
+- Experience with configuration management tools such as Puppet, Capistrano. 
+- Extensive knowledge of Linux, Rails, Grape, Sinatra and REST APIs 
+- Working knowledge of MongoDB and Redis. 
+- Working knowledge of load-balanced and highly available setups. 
+- Entrepreneurial spirit and excitement around shaping our product thinking 
+- Experience working with Agile Kanban workflow
+Desired Skills and Experience: 
+- Experience in Mobile or Communication Platforms 
+- Excellent analytical, planning and process development skills 
+- Proven ability to work cross-functionally 
+- High level of initiative and strong business judgment 
+- Excellent communication, interpersonal skills and should be comfortable working in very dynamic and collaborative work environment.
+Salary and Benefits: 
+- Rewarding career within a solid growing company 
+- Profit from working with a talented team of top developers and serial entrepreneurs 
+- Barcelona’s scene & access to a well-established network 
+- Fun and international team of young top performers 
+- Competitive remuneration package based on the experience contributed to the company
+Languages: 
+- English (Fluent) 
+- Spanish

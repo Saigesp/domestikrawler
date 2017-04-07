@@ -1,0 +1,14 @@
+
+Somos una agencia digital especializada en la captación de tráfico cualificado con objetivos de respuesta directa. Entre los servicios que ofrecemos no nos quedamos simplemente en la generación de tráfico, sino que ofrecemos paquetes de servicios encaminados a mejorar tus ratios de conversión, que abarcan desde mejoras en la usabilidad, generación de landing pages, análisis de tráfico y rendimiento, test A/B, etc.
+Buscamos un programador fullstack.
+Conocimientos necesarios:
+- Django/Python
+- Javascript
+- AWS
+Conocimientos deseables:
+- Facebook API
+- AdWords API
+- AdWords Scripts
+Somos una agencia de marketing online. Si te unes a nuestro equipo formarás parte de un ambiente jovial y divertido. Buscamos un programador que sea capaz de aprender rápidamente y con ganas de mejorar cada día. 
+Nuestras oficinas se encuentran a 5 minutos de Gran Vía, Tribunal, Chueca.
+¿Un ping-pong? ;)

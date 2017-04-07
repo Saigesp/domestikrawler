@@ -1,0 +1,28 @@
+
+Estamos buscando un perfil de perfiles  Senior Developer iOS para un importante  proyecto, para Madrid y Barcelona.
+El candidato deberá ser una persona apasionada en el desarrollo de aplicaciones para Smartphones y tabletas, orientado a usuario, que le gustan los retos y aprender sobre nuevas tecnologías, centrándose en arquitecturas limpias y código limpio. Esta persona deberá aportar valor a nuestro equipo de desarrollo móvil, por lo que deberá tener un alto nivel de conocimiento en esta área y entusiasmo para aprender y compartir la información.
+Estamos construyendo un equipo apasionado en Android e IOS, centrado en la calidad del código, valoraremos las ganas de aprender, ambición y el trabajo en equipo. Tratamos de crear aplicaciones complejas utilizando los mejores métodos y nuevas tecnologías. Animamos a nuestro equipo para compartir nuevas ideas y la innovación.
+Se trabajará en un ambiente informal con un equipo joven, dinámico y altamente calificado.
+¿Qué cualidades debes tener? 
+Experiencia programando en iOS (al menos 3 años) 
+Conocimiento profundo de iOS, Apple y nociones de Android.
+Experiencia en Framework PHP (Symfony, Laravel, Codeignite…) y/o Framework  J2EE (Spring, Struts, …) 
+Experiencia en el desarrollo de interfaz de usuario orientada al  consumidor. 
+Amplio conocimiento de las diferencias clave entre los diferentes sistemas  operativos Android y la interfaz de usuario. 
+Experiencia en el uso de servicios web REST y JSON 
+Experiencia con Git o SVN para el control de versiones. 
+Trabajo en equipo de desarrollo 
+Experiencia en aplicaciones en la App Store de Apple y Google Play Store 
+Experiencia en la construcción de un SDK y plugins.
+*Se valorará positivamente el manejo de otros idiomas (inglés), así como los conocimientos básicos de otro sistema operativo como Android.
+¿Cuáles serán tus funciones? 
+Estarás involucrado en el desarrollo e implementación de los proyectos más destacables. Ingeniero de desarrollado de aplicaciones móviles. 
+Proporcionar aplicaciones móviles con una experiencia de usuario positiva 
+Trabajar de forma independiente. 
+Asegurar que el desarrollo se ajusta a los requerimientos y especificaciones definidas. 
+Trabajar estrechamente con control de calidad para garantizar código es  limpio, libre de errores y seguro. 
+Desarrollo evolutivo y correctivo de las apps. 
+Ayudar a la revisión de los desarrollos externalizados.
+¿Qué ofrecemos? 
+Pack de retribución competitivo en función de la experiencia demostrada.
+Trabajar en un equipo de expertos.

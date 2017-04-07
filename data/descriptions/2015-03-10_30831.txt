@@ -1,0 +1,17 @@
+
+En el Grupo BeRepublic no dejamos de buscar talento y, en este caso, estamos buscando un Developer para www.chicplace.com, una de las startups lanzadas desde BeFactory, la incubadora del Grupo. ¿Estás interesado o conoces alguien que lo pueda estar? No dudes en enviarnos tu CV o en hacer llegar esta información a quien encaje en el perfil. 
+Te contamos las tareas que desarrollará la persona que se incorpore. En dependencia del CTO de ChicPlace, será responsable de ejecutar los desarrollos técnicos de la plataforma. La posición también incluye la participación en reuniones de producto para decidir la implantación nuevas funcionalidades. 
+¿Qué requisitos pedimos?
+Es imprescindible sólida experiencia en  PHP, Symfony 2, MySQL, Git. Se requiere también experiencia demostrable con ElasticSearch, metodologías ágiles (SCRUM, Kanban,…) y con plataformas multi-idiomas. 
+Se requiere tener conocimiento de JS/CSS . Se valorarán conocimientos en Sass o Less y haber leido o conocer los conceptos de Clean Code, Patterns of Enterprise Application Architecture, Design Patterns: Elements of Reusable Object-Oriented Software,Domain-Driven Design: Tackling Complexity in the Heart of Software (el libro azul) o Implementing Domain-Driven Design (el libro rojo)
+Buscamos una persona que sepa de Testing, comprenda la importancia del TDD. 
+Se valorará que sepa qué significa T.A.R.D.I.S. ;-)
+Idealmente buscamos un perfil full-stack (back y front) que pueda dar soporte a ambas partes del equipo técnico. 
+Buscamos personas  proactivas,  resolutivas y entusiastas. Esperamos que la persona que se incorpore lo sea y que, además, esté dispuesta y sea capaz de desarrollarse en un equipo pequeño. 
+¿Qué ofrecemos?
+- Incorporación inmediata. 
+- Interesante paquete retributivo 
+- Lugar de trabajo: Barcelona. (C/Valencia, 333)
+Si encajas en este perfil no dudes en hacernos llegar tu CV a:  alessia@befactory.es. ¡Estamos deseando conocerte!
+ www.chicplace.com es un Marketplace de productos con encanto con presencia en España, FranciA, Italia  y también en Colombia, y con previsiones de expansión en otros países de América Latina.
+

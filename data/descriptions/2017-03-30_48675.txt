@@ -1,0 +1,54 @@
+
+CONOCIMIENTOS NECESARIOS
+- Front-end
+- AngularJS
+- Maquetación HTML
+- CSS3
+- Diseño web
+- JavaScript
+- jQuery
+- Bootstrap
+- JSON
+- Git
+REQUISITOS MÍNIMOS
+- Experiencia en el desarrollo con AngularJS.
+- Nivel alto de maquetación HTML5 + CSS3.
+- Diseño web y desarrollo Responsive/First Mobile.
+- Dominio alto de lenguaje Javascript.
+- Experiencia en el trabajo con jQuery y Bootstrap.
+- Experiencia con el uso de tecnologías JSON, API REST, Ajax, HTTP (Caché, Cookies, Headers, etc).
+- Uso de Git para control de versiones.
+- Metodologías de trabajo SCRUM.
+DESCRIPCIÓN
+Wyred busca un Desarrollador Front-end/AngularJS/Web, una persona dinámica, proactiva, curiosa, flexible con iniciativa e ideas frescas, que le gusten las nuevas tecnologías, pero sobre todo que tenga muchas ganas de colaborar y aprender.
+La persona que quiera formar parte del equipo tiene una gran oportunidad de crecimiento dentro de un sector en auge con posibilidades de desarrollo infinitas.
+Valoramos el esfuerzo, involucración y dedicación de cada persona que trabaja en la compañía, creando así un dinámico y buen ambiente de trabajo.
+Buscamos un perfil de Frontend Developer con un nivel medio-avanzado, preferiblemente Senior con experiencia en el desarrollo en AngularJS, para incorporarse a nuestro equipo técnico. Además se requiere experiencia en maquetación WEB para el desarrollo y mantenimiento de paginas propias de la compañía.
+FUNCIONES
+- Escribir código eficiente, limpio, mantenible, escalable y reutilizable.
+- Desarrollar y documentar nuevas funcionalidades de forma adecuada.
+- Encontrar, probar, diagnosticar y solucionar problemas de software.
+- Identificar y solucionar problemas de rendimiento y escalabilidad.
+- Participar en la toma de decisiones para el desarrollo de nuevas funcionalidades.
+- Analizar las diversas alternativas de implementación para llegar a la mejor solución técnica.
+- Experiencia en el desarrollo con AngularJS.
+- Nivel alto de maquetación HTML5 + CSS3.
+- Diseño web y desarrollo Responsive/First Mobile.
+- Dominio alto de lenguaje Javascript.
+- Experiencia en el trabajo con jQuery y Bootstrap.
+- Experiencia con el uso de tecnologías JSON, API REST, Ajax, HTTP (Caché, Cookies, Headers, etc).
+- Uso de Git para control de versiones.
+- Metodologías de trabajo SCRUM.
+CONICIMIENTOS DESEADOS
+- Programación Orientada a Objetos.
+- Experiencia con patrones de diseños como MVC, MVP, Singleton, etc.
+VALORAMOS TAMBIÉN
+- Node.js
+-SystemJS
+-Webpack
+- Unit Test
+- SASS / LESS
+- Buen nivel de inglés
+TE OFRECEMOS
+- Crecer y formar parte de un gran equipo, trabajando en proyectos innovadores y muy creativos para grandes clientes.
+

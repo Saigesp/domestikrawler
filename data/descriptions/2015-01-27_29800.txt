@@ -1,0 +1,18 @@
+
+GENERAL SOFTWARE es una empresa joven y muy dinámica de capital totalmente español, gestionada por profesionales con amplia experiencia en el sector, y dedicada a servicios profesionales, consultoría e implantación de sistemas.
+Soportada por nuestros clientes, damos servicio en toda la geografía nacional con presencia destacable en Madrid y Barcelona.
+General Software está buscando Programadores Web para un puesto estable en Madrid para importante cliente (líder mundial en grandes almacenes)
+Requisitos:
+- Proactivo y consistente
+- Trabajo en equipo y con herramientas de control de versiones (Git)
+- Conocimientos de programación asíncrona en JavaScript (callbacks, promesas, señales, eventos, etc.)
+- Conocimientos de Node.js y/o JavaScript cliente 
+ - Solvencia con CSS y creación de interfaces de usuario
+- Conocimientos de MongoDB u otras bases de datos orientadas a documentos (NoSQL)
+- Experiencia en el sector de retail (eCommerce)
+- Experiencia en arquitecturas clusterizadas con Node.js (Express)
+- Experiencia con tareas Grunt
+- Experiencia en tests unitarios, funcionales y de integración
+Nuestra oferta de servicios y clientes permite situarnos a la vanguardia en tecnologías y en sectores de actividad de primer orden: Banca, Telecomunicaciones, Administraciones Públicas, Industria, etc.
+General Software cuenta con una plantilla a la que ofrecemos la oportunidad de un rápido desarrollo profesional soportado por un amplio plan de formación.
+Buscamos profesionales con iniciativa, dinamismo, potencial y acostumbrados a trabajar en equipo. Si quieres trabajar con los mejores profesionales, con las últimas tecnologías y en empresas de prestigio, tu opción es sin duda General Software.

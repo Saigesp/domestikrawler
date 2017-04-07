@@ -1,0 +1,15 @@
+
+Inventia Proyectos S.L., empresa de servicios de información ubicada en Madrid, necesita un programador Feelance en PHP y Moodle para el desarrollo de un campus on-line, con el siguiente perfil:
+- Experiencia demostrable de dos años en entorno LAMP
+- Conocimientos demostrables en Moodle.
+- Ubicación Madrid capital.
+- Se valorará conocimientos de pasarelas de pago y SSO.
+Las tareas a realizar son: 
+1. Programación de servicios en Moodle
+2. Diseño y Programación de actividades Moodle
+3. Apoyo en el desarrollo de Web comercial en Wordpress.
+4. Desarrollo de pasarela de pago.
+5. Desarrollo de un sistema SSO (Single Sign On) entre Wordpress y Moodle.
+La contratación es a media jornada y se puede optar como Freelance o la contratación por obra y servicio. Se estima una duración del proyecto de 6 meses. Fecha de comienzo: Abril 2014.
+Formará parte de un grupo de trabajo, por lo que se requiere trabajar en la oficina del cliente 3 días por semana. 
+Gracias y un saludo.

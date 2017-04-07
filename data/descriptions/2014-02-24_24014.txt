@@ -1,0 +1,9 @@
+
+En Fihoca, consultora en sistemas de información y telecomunicaciones precisamos un Diseñador Web Freelance para un proyecto de Migración en tecnología Joomla.
+Requisitos:
+- Saber moverse y modificar el código de la tecnología Joomla 1.5
+- A la hora de maquetar las paginas PHP: que se domine HTML 4 y CSS 2
+- Saber desenvolverse en Base de datos MySQL, Extracción de datos, inserción, etc..
+- Configuración: XAMPP (opcional)
+- Saber programar en PHP5 en entorno de Framework Joomla 1.5
+- Entorno de desarrollo, Eclipse preferiblemente o Notepad++, un editor de texto.

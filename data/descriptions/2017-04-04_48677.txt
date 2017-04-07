@@ -1,0 +1,19 @@
+
+Estudios requeridos:
+	Licenciados Lingüistica, Filología Hispánica.
+Estudios deseados:
+	Master en Tecnologías del habla o campo relacionado.
+Requisitos Mínimos:
+	Experiencia en Diseño y Usabilidad de Interfaces Vocales.
+Conocimientos en:
+	Lingüistica computacional.
+	Aplicaciones y soluciones de voz automáticas.
+	Reconocimiento de voz, creación de gramáticas de reconocimiento.
+	Síntesis de Voz.
+	Procesamiento del Lenguaje Natural.
+	Creación de diálogos de respuesta automática.
+Funciones:
+	Definición de diálogos en sistemas automáticos. IVR, Chatbot, etc.
+	Creación de gramáticas de reconocimiento. GRXML, SRGS, etc.
+	Ayuda en la Integración de procesos de procesamiento de Lenguaje Natural.
+

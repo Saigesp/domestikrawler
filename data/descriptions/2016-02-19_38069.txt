@@ -1,0 +1,22 @@
+
+An independent game studio based in Barcelona, are incresing their programming team and they are looking for a client-side Unity Programmer for mobile platforms. The ideal candidate will have deep experience with game development with a strong computer science background.
+All of their games will be free to play and available across various platforms and devices. They have assembled a talented team from industry veterans to create high quality mobile titles in a friendly and professional environment.
+ This is you:
+Professional, passionate about games, problem solving, proactive, team worker, rigorous and detail oriented. You are smart, willing to learn more, creative and practical at the same time.
+This will be you from now on:
+Working with an international and high profile team.
+Flexible working-time.
+Free commodities (coffee, tea, juices, fresh fruit, cakes) and Sodexo meal card.
+Play area (consoles, free coin-ops).
+Salary depending on experienci around 30.000€ - 40.000€.
+ Desired Skills and Experience:
+- Previous game development experience. [around 3 years of experience at least, and one game shipped]
+- Experience with Unity3D and C# language is a plus.
+- Experience with C++ language.
+- Strong skills writing well organized and clean code.
+- Ability to work fast, quickly get up to speed with existing code, and learn new concepts easily.
+- Extensive knowledge of object-oriented programming and software engineering.
+- Great understanding of algorithms and techniques used in games, related with: AI, physics, user interface, scripting, audio, server communication..
+- Solid understanding of 2D/3D graphics and math involved in computer games.
+- Desire to create fun games which you will also have fun while playing
+

@@ -1,0 +1,43 @@
+
+Seleccionamos un Programador Web .NET para el departamento eCommerce de importante empresa valenciana del sector de la moda.
+Ofrecemos:
+- Contrato indefinido con 6 meses de prueba. 
+- Un agradable ambiente de trabajo, con un equipo joven y creativo. 
+- Participación con clientes y marcas de primer nivel.
+•	Imprescindible conocimientos en: 
+- ASP.NET 
+- WebForms 
+- C#, Visual Basic 
+- SQL a nivel de consultas (MySQL/SQL Server) 
+- HTML5, CSS3, JavaScript
+•	Valorable: 
+- .NET MVC 
+- jQuery, Ajax 
+- Responsive Web Design 
+- Experiencia en entorno comercial y de ventas.
+•	Tipo de industria de la oferta
+Industria textil y moda
+•	Categoría
+Informática y telecomunicaciones - Programación
+•	Nivel
+Especialista
+•	Personal a cargo
+1 – 5
+•	Número de vacantes
+1
+•	Estudios mínimos
+Ingeniero Técnico - Técnico en Informática de Gestión
+•	Experiencia mínima
+Al menos 2 años
+•	Conocimientos necesarios
+o	.NET
+o	SQL
+o	Ecommerce
+o	CSS
+o	MySQL
+o	HTML
+o	jQuery
+o	mvc
+o	iis
+•	Requisitos mínimos
+Experencia en: ASP NET, WebForms, C#, Visual Basic, MySQL, SQL Server, HTML5, CSS3, JavaScript, NET MVC, jQuery, Ajax, Responsive Web Design

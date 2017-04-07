@@ -1,0 +1,32 @@
+
+Internet es toda una aventura, es muy fácil llegar pero no tanto mantenerse. Se mueve muy deprisa y necesitamos manos y mentes muy rápidas capaces de sacar el trabajo adelante, son muchas las ideas que tenemos en mente y necesitamos los mejores en nuestro equipo. Nuestra filosofía es la de sacar productos rápido, y a partir de ahí, iterar, iterar e ir perfeccionando el producto.
+Requisitos imprescindibles:
+- Sueñas con la programación y tu día a día es un aprendizaje continuo. No tienes miedo por las nuevas tecnologías y te empapas fácilmente de los nuevos lenguajes.
+- Te gusta experimentar y siempre estás a la última en cuanto lo que se mueve por Internet.
+- Eres resolutivo, actúas rápido y no le tienes miedo a nada ni a tomar responsabilidad.
+- Resides en Barcelona o alrededores.
+Experiencia profesional o en proyectos personales:
+- Demostrable de al menos 7 años programando. No buscamos un perfil junior.
+- Debes saber programar front-end con los ojos cerrados. Y rápido.
+- Dominio de HTML, CSS y Javascript. Abstenerse “sé javascript, sé jquery”.
+- Javascript orientado a objetos (ES6 y/o TypeScript)
+- Conocimiento del protocolo HTTP, XHR y los navegadores
+- Experiencia con diseños responsive
+- Manejo de preprocesadores CSS (LESS o SASS)
+- Sistemas de plantillas (Smarty, Twig, Django o similar)
+Se valorará:
+- Frameworks CSS y JS
+- Photoshop e Illustrator
+- Node.js
+- WebSockets
+- Task Runners (Gulp o Grunt)
+- Angular y/o React
+- Conocimientos de backend
+- Administración de sistemas GNU/Linux
+Ofrecemos:
+- Incorporación inmediata.
+- Un entorno de trabajo joven y dinámico con muchas ganas de hacerse ver en Internet.
+- Trabajar en proyectos con mucha visibilidad y tráfico en Internet.
+- Empresa en constante crecimiento.
+- Horario de 40 horas semanales. Te tiene que gustar trabajar con nosotros y a nosotros contigo, por lo que nos gusta tener gente currante y apasionada con lo que hace.
+- Contrato indefinido con 6 meses de prueba. Salario acorde a la experiencia.

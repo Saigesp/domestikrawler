@@ -1,0 +1,15 @@
+
+Estamos seleccionando para incorporarse a nuestro departamento informático, un Analista/Programador iOS, con al menos 2 años de experiencia con:
+- Lenguaje de programación nativo (Objective C/C++, Swift, Cocoa Touch) y de sus librerías
+- Programación con Xcode
+- Experiencia en integración con servicios web (SOAP, XML, JSON, OData, etc.), conexiones con APIs: geo-posicionamiento, redes sociales, pasarelas de pago, etc.
+Conocimientos deseables: 
+- Usabilidad de aplicaciones nativas 
+- Desarrollo web (Java, JavaScript, PHP, HTML, CSS, etc)
+Valoramos candidatos con ganas de aprender, iniciativa y que quieran desarrollarse profesionalmente.
+Ofrecemos: 
+- Trabajar con las últimas tecnologías
+- Ambiente técnico donde poder crecer profesionalmente
+- Formación en habilidades profesionales
+- Opciones reales de ser responsable técnico de proyectos
+

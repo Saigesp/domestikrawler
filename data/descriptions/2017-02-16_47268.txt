@@ -1,0 +1,32 @@
+
+Si te gustan los retos, ésta es tu empresa.
+Destinia es una empresa que combina la experiencia online de llevar más de 15 años en funcionamiento con la mentalidad despierta y ágil de una startup.
+Nacimos para acercar cualquier rincón del mundo a la gente, convencidos de que no hay límites, y cada día trabajamos para conseguirlo, haciendo de la innovación, el compromiso, la creatividad, la flexibilidad y el precio nuestras señas de identidad. Tenemos una mente tecnológica y un corazón viajero.
+Fundada en 2001, Destinia es una de las mayores agencias de viajes online en España con una oferta de más de 300.000 hoteles y 600 aerolíneas. Con 140 trabajadores en España, Destinia está inmersa en un intenso proceso de internacionalización en Europa, Oriente Medio (tenemos oficinas en El Cairo y Teherán). Hemos sido pioneros en ofrecer viajes al espacio, en aceptar pagos con la moneda virtual bitcoin, en desarrollar una app para reservar hoteles con las Google Glass y acaba de presentar un proyecto de realidad virtual con las Oculus Rift.
+Como ambiente de trabajo encontrarás a un equipo joven, multidisciplinar e internacional. Apostamos por el trabajo en equipo y ofrecemos una empresa en crecimiento para el desarrollo profesional.
+Tareas:
+Diseño, desarrollo y mantenimiento de:
+- Múltiples webs para la promoción y venta de servicios turísticos con las últimas tecnologías para la interacción con el usuario (HTML5, CSS3, AngularJS, etc)
+- Servicios anexos para la captación de clientes (redes sociales, guías interactivas, promoción SEO, etc.)
+Lugar de trabajo:
+En pleno corazón de Madrid, junto al metro Gran Vía.
+Muy buen ambiente de trabajo. Equipo joven, dinámico, multidisciplinar e internacional.
+Como empresa tenemos una mente tecnológica y un corazón viajero. Apostamos por la evolución metodológica continua, por la iniciativa e inquietudes de cada uno de nuestros empleados y creemos en las herramientas open source.
+Requisitos:
+ - Nivel muy alto en programación JavaScript
+ - Experiencia con al menos un framework MVC en Javascript (AngularJS, ReactJS, BackBone...)
+ - Conocimiento exhaustivo de librerias y frameworks Javascript / CSS, incluyendo jQuery y Bootstrap
+ - Conocimientos de HTML, y la especificación HTML5
+ - Experiencia desarrollando aplicaciones frontend
+ - Experiencia en lenguajes dinámicos para hojas de estilo (como LESS o SASS)
+ - Experiencia en trabajo con Javascript Task Runners (como GRUNT, GULP...)
+ - Familiaridad con sistemas de versionado
+ - Experiencia en entornos UNIX / Linux
+Se valorarán:
+ - Conocimientos de programación en PHP
+ - Experiencia con bases de datos SQL/NoSQL
+ - Experiencia en I18N y localizacion de web
+ - Conocimientos de testeo, TDD, BDD
+ - Experiencia o interés en trabajo en entornos agiles
+ - Interés por usabilidad y UX web
+ - Buen nivel de inglés

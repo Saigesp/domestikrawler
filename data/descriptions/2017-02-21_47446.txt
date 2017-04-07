@@ -1,0 +1,28 @@
+
+We are looking for Android Developers with a solid experience and a committed team player who enjoys technical challenges within a fast paced environment, 
+applies sound judgment in successful task planning and execution, meets deadlines and communicates the highest standards of professionalism in his/her appearance and work habits.
+We offer an exciting opportunity to join a high-growth startup company aiming at becoming a global leader, within an expanding and forward-thinking organization.
+About us
+Weplan is a free application – available for Android and iOS – that analyzes the calls, internet data and SMS from the users’ smartphone and recommends, impartially, the plan and Telco Operator that best suits their needs.
+Position Summary
+As a member of our core agile delivery team, you will help build innovative and inspiring solutions.
+Responsibilities:
+- Initial requirements and analysis to develop a new product.
+- Build new features and improvements for existing products.
+- Be involved on full lifecycle development of the Weplan Product.
+Qualifications, Skills and Competencies:
+- Ability to learn quickly and stay up to date with new technologies.
+- Proactive, strong drive to disrupt and innovate.
+- Agile project experience a plus.
+- Strong analytical skills and the ability to meet tight deadlines is essential for a fast-paced environment.
+Technical Requirements (mandatory):
+- Highly skilled in Android Development.
+Nice to have:
+- Previous SDK development experience
+- iOS development.
+- Design skills.
+What we offer?
+- Flexibility
+- Well placed office at Parque de las Avenidas (Madrid)
+- Nice and young work environment
+- Ping pong table!

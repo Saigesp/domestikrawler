@@ -1,0 +1,22 @@
+
+El Grupo ADSLZone, con más de 12 años de experiencia en el sector editorial, inicia un proceso de selección para incorporar un desarrollador de PHP5 y Wordpress a su equipo de desarrollo.
+Conocimientos requeridos:
+ - Wordpress en sus últimas versiones. Desarrollo de themes y plugins.
+ - PHP5 / OOP / Clean Code.
+ - HTML5 / CSS3.
+ - Javascript / JQuery.
+ - MySQL.
+ - Control de versiones con GIT.
+
+Se valorará:
+ - SASS y Bourbon.
+ - Grunt y Bower.
+ - Integración contínua con Bamboo.
+ - Frameworks de PHP.
+ - MongoDB.
+ - S.O. Linux.
+Experiencia necesaria:
+Al menos 1 año de experiencia reciente en desarrollo con PHP5.
+Al menos 1 año de experiencia reciente en desarrollo de plugins y themes de Wordpress.
+Se ofrece un puesto estable en MADRID, con muy buen ambiente de trabajo, horario flexible con posibilidad de trabajar algún día desde casa. El sueldo será acorde a los conocimientos del candidato.
+Contrato: 6 meses, y si todo va bien se renovará a indefinido.

@@ -1,0 +1,12 @@
+
+Necesitamos un programador para implantar mejoras en nuestro backoffice de gestión de préstamos y en nuestras webs (con Umbraco como cms). Es imprescindible un buen nivel de inglés ya que el proyecto puede tener implantación europea.
+Se ofrece entrar en una empresa en franca expansión, con un excelente ambiente de trabajo y posibilidad del  desarrollo autónomo de proyectos de programación a nivel europeo.
+Requisitos:
+-Desarrollador con experiencia en tecnologías .NET, PHP y SQL Server.
+-Experiencia relacionada con las siguientes tecnologías: HTML, CSS, XSL and Javascript.
+-Experiencia en sistemas de gestión de contenidos como Umbraco. 
+-Inglés fluido hablado y escrito. Debe tener buenas habilidades de comunicación verbal y escrita en inglés y estar cómodo comunicarse tanto a audiencias técnicas y no técnicas.
+-Estudios en informática: Módulo Superior en Informática o similar (España), Ingeniería Informática, Ingeniería Técnica, o similares.
+- Fuertes habilidades analíticas: se solicitará propuestas de mejora tanto de las funcionalidades de nuestras webs como de nuestros sistemas de backoffice.
+- Atención al detalle y el fuerte compromiso con el equipo.
+- Pasión por la innovación tecnológica el aprendizaje continuo.

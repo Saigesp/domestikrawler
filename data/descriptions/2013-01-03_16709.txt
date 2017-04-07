@@ -1,0 +1,5 @@
+
+NOMADICA BRAINSTORMING
+Nomadica Brainstorming is a US tech incubator with R&amp;amp;amp;D center in Barcelona.  We are looking for:
+  - A Frontend engineer – 3+ years exp, Javascript, HTML5, CSS3 
+    - A Backend engineer  - 5+ years exp, PHP, mSQL, JS, Zend, Git, XML/JSON

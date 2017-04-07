@@ -1,0 +1,11 @@
+
+Buscamos Developer de Aplicaciones Web: Grails, Java, JS, HTML, CSS.
+Funciones:
+o Ayuda en la arquitectura  para los requisitos de definidos.
+o Trabajar en estrecha colaboración con los gerentes de producto y arquitectos para desarrollar nuevas funciones.
+o Integrar aplicaciones de terceros a través de las API.
+o Desarrollar y ejecutar la unidad  de integración de pruebas y plan de automatización.
+o La experiencia del desarrollo de servicios web y APIs, en arquitecturas RESTful
+o La experiencia en metodología Agil.
+o Deseado tener experiencia de Groovy y Grails.
+o En un profundo conocimiento y experiencia de análisis y diseño orientado a objetos

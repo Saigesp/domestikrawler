@@ -1,0 +1,5 @@
+
+Buscamos urgente un@ programad@r que nos realice la migración de una aplicación programada en Google Maps API v2, a versión 3.
+Necesitamos que el trabajo esté terminado para el día 22/11/2013 a las 12:00 am (horario de España, GMT+1).
+Abstenerse programadores que no tengan los conocimientos y la experiencia necesarios para realizar con éxito y en tiempo esta migración.
+Gracias.

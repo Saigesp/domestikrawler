@@ -1,0 +1,22 @@
+
+The team at OpenLab are looking for a front-end developer with the following profile:
+Open Lab is an open collaboration platform for Open Source Hardware, connecting designers globally with fabricators locally. Our area of work includes skills sharing, open manufacturing and social learning. Our goal is to connect maker communities, build a skills and service economy based on the principles of open source hardware, in order to make technology transfer more efficient and appropriate.
+Required Skills
+- Excellent HTML, XHTML, CSS programming skills
+- Experience in UX design
+- Layout experience
+- Experience in mobile
+- JavaScript deep knowledge
+- Version control system (Git)
+Desired Skills
+- Bootstrap experience
+- Django Experience
+- Less or Sass knowledge
+- Bonus: Coffeescript, front end framework experience (such as Angular.js or Ember.js)
+Benefits
+- Flexible schedule
+- Join an international team; leaders in open source hardware and digital fabrication.
+	USA. UK. South America. Europe
+- Be part of a dynamic, growing start-up
+- Operating as a both a community and a Social business.
+We are part of the global network of FabLabs, of which there are now (200) in the world, the Barcelona FabLabs will host the global Fab 10 conference in 2014. We are also partners with Practical Action, one of the oldest and wide reaching engineering foundations, as well as the US based Open Tech Forever.  Open Lab is The people’s factory in the cloud.

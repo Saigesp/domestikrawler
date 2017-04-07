@@ -1,0 +1,19 @@
+
+En 101 buscamos un  especialista en Wordpress y en plataformas de e-commerce, como Woocommerce,
+Requisitos:
+	•	Nivel muy alto en Wordpress: creación de plugins e integración con Woocommerce.
+	•	Nivel muy alto en maquetación responsive: css3, y html5.
+	•	Nivel muy alto de javascript: vanilla y jQuery.
+	•	Nivel medio en API’s: googlemaps, facebook, twitter.
+	•	Nivel medio de otras plataformas de ecommerce: Magento, Prestashop…
+Valoramos:
+	•	Conocer otros CMS: Drupal, Laravel…
+	•	Conocer Git, Sass y Gulp.
+	•	Trabajar en entornos LAMP
+	•	Soltura con servidores Amazon
+	•	Nociones de Scrum.
+Ofrecemos:
+	•	Incorporación inmediata.
+	•	Entorno laboral agradable.
+	•	Proyectos interesantes y diferentes.
+	•	Un buen sueldo para poder vivir en el centro de Madrid, si te apetece.

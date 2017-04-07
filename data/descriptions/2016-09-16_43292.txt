@@ -1,0 +1,43 @@
+
+Want to build a revolutionary secondhand market from the ground up? Join GINDUMAC. We are
+looking for a Junior Backend Developer to be part of our growing IT team!
+You will help us implement our new e-commerce platform with state of the art technologies
+(Docker, Symfony 3, TDD, DDD, Redis, RabbitMQ, ElasticSearch, etc.). We are looking for a
+junior PHP web developer with some experience working in a team, crafting code through a
+framework (Symfony, Zend, Laravel, CodeIgniter, etc.), someone with the ambition to grow
+professionally and who has a strong passion for learning the craft, someone who sees a position
+like this as an opportunity. You are likely familiarized working with transactional databases and
+APIs, also with Git and developing branches, plus experience with TDD and working with JIRA
+(or similar) and Kanban/SCRUM methodologies will be very welcomed.
+You are used to work in a team (team player mindset is a must!) and have good communication
+skills. You also feel comfortable working in a mixed and multicultural environment (business,
+customer support, IT, etc.) and take ownership/responsibility/pride of your work (we don't do
+blame-storming here!).
+Responsibilities:
+Reporting to the CTO, the position has the following responsibilities:
+•	 Develop new components and systems
+•	 Ensure all code is modular, and where possible developed as reusable
+•	 Support the above with unit tests
+•	 Write technical documentation for own developments
+•	 Triage, diagnose and solve production system software problems
+Skills & Requirements:
+•	 Familiarized with object-oriented development under PHP, using some framework
+•	 Familiarized with transactional databases (SQL)
+•	 Experience using git and github/bitbucket is an advantage
+•	 Experience working on e-commerce sites is an advantage
+•	 Experience with caching (memcache, redis,…) is an advantage
+•	 Familiarized with Unix environments
+•	 Good written, spoken and interpersonal communication skills is an advantage
+•	 Can work collaboratively in a team and with business stakeholders. Creates/updates
+documentation
+•	 Understands how to work with QA and Technical Operations team members
+•	 Self Motivated - you’re not the sort of person to sit there twiddling your thumbs if there is
+nobody to tell you what to do next!
+Why you shouldn’t miss this:
+•	 Be part of building a business from scratch
+•	 Be part of building a game changing marketplace in the industrial segment
+•	 Be part of a unique company with a unique working environment
+•	 Flexible working hours
+•	 Space for own idea development within the business
+•	 Work from a cool office in the district of Poblenou / Barcelona
+

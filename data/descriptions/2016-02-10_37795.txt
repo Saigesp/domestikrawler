@@ -1,0 +1,16 @@
+
+En Angerán buscamos un desarrollador Front End Senior, especializado en maquetación responsive y con conocimientos avanzados de javascript y woocommerce.
+Se prestará especial atención a la experiencia aportada desarrollando websites adaptados a dispositivos.
+Requisitos mínimos:
+HTML / CSS 
+Javascript / jQuery / Ajax 
+Maquetación web responsive 
+Twitter Bootstrap Framework
+Woocommerce 
+Desarrollo de plantillas para Woocommerce
+RESTful web APIs (Facebook, Twitter, etc.) 
+Requisitos deseables:
+Experiencia en desarrollos PHP / MySQL 
+Experiencia en desarrollos con Wordpress 
+Desarrollo de plantillas para Wordpress 
+Desarrollo de funciones avanzadas para Wordpress 

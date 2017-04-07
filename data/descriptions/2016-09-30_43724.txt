@@ -1,0 +1,16 @@
+
+¿Te gustaría unirte y desplegar tus conocimientos y creatividad en una bonita y bien comunicada agencia de publicidad digital?
+En eNubes nos "peleamos" con toda clase de disciplinas digitales. Somos una agencia de comunicación y marketing online/offiline que ofrece soluciones innovadoras a las grandes compañías con un servicio personalizado e integral que abarca la producción audiovisual, el desarrollo de aplicaciones web y móviles, el diseño gráfico, la creación de plataformas virtuales, la analítica de datos y organización de eventos.
+Aquí los proyectos son variados y bastante divertidos. En este sentido, buscamos gente con alma aventurera y mucha disposición a traernos lo mejor de sí. Porque el trabajo duro también puede ser creativo.
+Conocimientos requeridos:
+Conocimientos requeridos:
+- PHP.
+- MySQL.
+- JavaScript.
+- jQuery.
+- CSS3.
+- AJAX.
+- HTML5.
+- Frameworks tipo Zend y/o Codeigniter.
+- Maquetación Responsive y Crossbrowsing.
+- Webservices. 

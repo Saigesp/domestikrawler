@@ -1,0 +1,19 @@
+
+En Melt Group estamos buscando, para importante empresa del sector iluminación, un programador de Dynamics AX 2012 que se incorporará al Departamento de Sistemas para realizar el mantenimiento correctivo y evolutivo del ERP Dynamics AX, así como implementar indicadores en herramientas BI.
+Responsabilidades:
+- Mantenimiento del ERP Corporativo Dynamics AX.
+- Implantaciones de nuevos desarrollos.
+- Asistencia a usuarios internos del ERP.
+- Realizar nuevos desarrollos en AX según necesidades de la empresa.
+- Formación y documentación de todos los módulos implementados.
+- Implementar nuevos indicadores en QLIK-VIEW.
+- Soporte y asistencia usuarios internos funcionamiento QLIK-VIEW.
+Requisitos mínimos:
+- Titulación mínima: Ciclo Formativo Grado Superior.
+- Especialidad: Desarrollo aplicaciones Informáticas.
+- Herramientas informáticas: DYNAMICS AX 2012 (nivel experto), QLIK-VIEW (dominio), Office (todas sus versiones).
+- Experiencia requerida: 3 años en puesto similar.
+- Imprescindible disponibilidad para viajar.
+- Idiomas:
+- Inglés: Nivel Alto.
+- Francés: Nivel Medio (valorable).

@@ -1,0 +1,34 @@
+
+Buscamos WordPress Senior Developers para incorporarse a nuestro equipo 
+de entusiastas y apasionados por el mundo digital.
+¿Y cuál sería tu misión?
+- Diseñar, desarrollar y garantizar la calidad de los proyectos desarrollados en 
+WordPress.
+- Analizar las diversas alternativas de implementación para llegar a la mejor 
+solución técnica posible.
+- Participar en el proceso de concepción de nuevos proyectos WordPress 
+aportando tu conocimiento técnico.
+- Liderar técnicamente el desarrollo de arquitecturas WordPress, estableciendo 
+las bases para la mejora continua en el desarrollo de proyectos WordPress.
+¿Y para que aportes, que debes traer en tu mochila?
+- Formación en Ingeniería Informática o experiencia equivalente.
+- Mínimo 3 años de experiencia contrastada en entornos WordPress, imprescindible en agencia online.
+- Conocimientos profundos de plugins ACF Pro, WPML, Gravity Forms, 
+Akismet, Debug Bar, Sucuri, Updrafplus y Super Cache.
+- Experiencia en BB.DD. MySQL.
+- Conocimientos de plugins para WordPress ligadas a la integración con herramientas de email marketing tipo SendGrid, Mailchimp, etc.
+- Experiencia en tecnologías front-end HTML5/CSS3, Bootstrap y SASS (SCSS).
+- Conocimientos de herramientas de gestión git, beanstalk y trello.
+- Se valorara positivamente experiencia en frameworks PHP como Symfony 2,
+Yii, Code Igniter, Zend, etc.
+Y por si fuera poco:
+- Capacidad analítica.
+- Habilidad para trabajar de manera independiente.
+- Proactividad.
+- Responsabilidad.
+- Capacidad de liderazgo e inspiración para el resto del equipo WordPress.
+Y después de pedir la carta de los reyes ¿qué ofrecemos?
+- Entorno de trabajo joven y multidisciplinar.
+- Oficina bien comunicada y centralizada.
+- Oportunidad de trabajar en proyectos para clientes de sectores muy diversos.
+- Aprender y ¡aprender mucho!

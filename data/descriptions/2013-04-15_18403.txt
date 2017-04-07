@@ -1,0 +1,9 @@
+
+GAME cadena de tiendas del sector de los videojuegos, precisamos en nuestras oficinas centrales situadas en Ciudad de la Imagen (Pozuelo de Alarcon - Madrid), un/a Programador/a para desarrollar y mantener nuestras páginas web.
+Precisamos incorporar un/a programador/a web con experiencia de programación en ASP.NET y C#.
+Adicionalmente se requiere experiencia en:
+-HTML 
+-Jquery 
+-SQL Server
+-Javascript
+-CSS 3

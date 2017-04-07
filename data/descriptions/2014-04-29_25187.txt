@@ -1,0 +1,30 @@
+
+Somos una compañía internacional que busca diseñadores web motivados y con talento para construir y mantener nuestros portales de alto tráfico. Todos los candidatos deben entender y poder comunicarse en Inglés escrito. También deben tener suficiente disciplina para trabajar como autónomos desde casa a tiempo completo. 
+¿Eres una persona creativa con buen ojo para el diseño y la maquetación?  ¿Puedes escribir código HTML5 y CSS mientras duermes? ¿Prestas atención a los detalles y te comunicas bien con un equipo a través de Skype y email? ¿Eres un experto en programas vectoriales y editores de imágen? Si tu respuesta es sí, puede que seas la persona que estamos buscando.
+Deberías tener conocimientos o poder aprender rapidamente las siguientes tecnologías:
+- HTML5 
+- CSS 
+- JQuery 
+- Foundation 
+- Compass 
+- SASS/SCSS 
+- Dynamic Page Adaptation for mobile devices 
+- Template creation (perferiblemente para Django) 
+- Adobe Fireworks 
+- Adobe Illustrator
+Si piensas que eres la persona adecuada para unirte a un equipo de creadores de ultima tecnología, dinos porqué en un email a jobs@get.com.
+----
+We are an international online business looking for motivated, talented Web Designers to build and maintain our high traffic portals. All candidates should be able to understand and communicate in written English, and be self-disciplined enough to work from home full-time as an 'autonomo'. 
+Are you creative, with an eye for design and layout? Can you code HTML5 and CSS in your sleep? Do you pay attention to details and communicate well with a team? (Communication will be done over Skype and email). Are you a pro with vector programs and image editors? If so, you might be just the person we're looking for!
+You should be familiar with or be able to quickly learn the following technologies:
+- HTML5
+- CSS
+- JQuery
+- Foundation
+- Compass
+- SASS/SCSS
+- Dynamic Page Adaptation for mobile devices
+- Template creation (preferably for Django)
+- Adobe Fireworks
+- Adobe Illustrator
+If you think you have what it takes to join a team building cutting edge web technology, tell us why in an email to jobs@get.com.

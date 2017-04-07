@@ -1,0 +1,34 @@
+
+Buscamos un desarrollador de software con conocimientos avanzados en desarrollo de aplicaciones web con Symfony 2. Que tenga espíritu emprendedor y quiera formar parte de los inicios de una empresa que relaciona tecnología y deporte.
+- Conocimientos requeridos en orden de importancia:
+Service Oriented Architecture
+Dependecy Injection Container
+Symfony 2
+PHP
+Test Driven Development
+Model View Controller
+UML
+REST
+Bootstrap
+HTML
+CSS
+JavaScript
+Amazon Web Services
+Se valorará positivamente el hábito de trabajo con Scrum
+- Tareas a realizar:
+Formar parte de un equipo para finalizar el desarrollo del back-end de una aplicación web, siguiendo la filosofía de Symfony2 y aplicando patrones de diseño de software avanzados.
+Contribuir al desarrollo del front-end de la aplicación web (se requiere que la aplicación sea responsive, no se requieren conocimientos de diseño gráfico porque el equipo consta de un diseñador).
+- Especificaciones del perfil:
+Graduado en Ingeniería Informática o en Ingeniería del Software.
+Facilidad para trabajar en equipo, y ser constructivamente crítico.
+Ser discreto y capaz de no revelar parte total o parcial del desarrollo tecnológico de la compañía. (NDA)
+Mínimo media jornada (horario flexible).
+- Recompensas:
+Sueldo siempre acorde con las responsabilidades que se adquieran en el crecimiento de la compañía.
+Bonificaciones trimestrales por los objetivos conseguidos por la empresa.
+- Ubicación:
+El aspirante debe desplazarse hasta el lugar de trabajo: Facultat d’Economia de la Universitat de Barcelona (Avenida Diagonal 696; Barcelona – espacio CoWorking).
+- Sobre Fanious:
+Fanious es una aplicación para terminales móviles que venderá entradas para eventos deportivos. En la fase de entrevista personal estaremos encantados de comentar los pormenores del proyecto.
+fanious.com
+

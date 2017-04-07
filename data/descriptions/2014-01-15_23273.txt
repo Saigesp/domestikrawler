@@ -1,0 +1,26 @@
+
+Somos una empresa de diseño y tecnología. Desarrollamos aplicaciones web en Ruby on Rails y aplicaciones de Móvil para IOS y Android. Tenemos gran experiencia en el sector de la arquitectura de software y tratamos de combinar siempre las tecnologías mas punteras tanto en Web como en Móvil. Nos motiva mejorar nuestras habilidades en desarrollo y creatividad en cada proyecto.
+No somos la típica empresa consultora del sector. Somos gente joven con muchas ganas de crear productos increíbles y aprender en todo momento. Nos gusta lo que hacemos y sobre todo amamos la tecnología y las ideas punteras.
+Buscamos una persona para incorporarse en practicas como diseñador tanto de front-end web como móvil.
+Los conocimientos mínimos que nos gustaría que tuviese:
+- Herramientas de diseño y Maquetación: Suite de Adobe (Photoshop, Illustrator)
+- Tecnologías Web: HTML, CSS
+Conocimientos adicionales interesantes
+- Tecnologías web: Javascript, Rails (No obligatorio)
+- Conocimiento de patrones de diseño web y móvil
+- Manejo y conocimiento de tipografías.
+Tareas dentro del equipo
+- Producción de elementos y piezas finales.
+- Participación en campañas creativas y elaboración de propuestas.
+- Diseño de páginas web, emails y contenidos digitales.
+- Maquetación en la misma aplicación del front end con HTML y CS
+El requisito fundamental, es que seas alguien con muchas ganas de aprender y apasionado por la tecnología. ;-)
+¿Qué ofrecemos?
+- Ofrecemos un horario flexible acorde con tu horario de clases, aperitivos, refrescos y suficiente fruta gratis.
+- Fireworks
+- Conocimientos de diseño de contenidos digitales para Internet. Desde piezas independientes hasta layouts completos.
+- Producción de elementos y piezas finales.
+- Participación en campañas creativas y elaboración de propuestas.
+- Diseño de páginas web, emails y contenidos digitales.
+- Maquetación en la misma aplicación del front end con HTML y CSS.
+Por supuesto ni que decir tiene que si nos caemos bien, nos gusta tu trabajo, estamos a gusto con lo que haces y nos gusta la música que escuchas, existen muchas posibilidades de formalizar un contrato de trabajo.

@@ -1,0 +1,23 @@
+
+Here at Goguin we're currently looking for a LAMP coder specialized in Drupal to manage and develop new custom modules fro our web app. 
+Requisites:
+- Minimum drupal Experience: 2 years.
+- Must be able to analyze and solve problems and tasks autonomously.
+- Perfect understanding of the FEATURES module.
+- Able to create modules from scratch.
+Plus (not a requisite):
+- Spanish / italian languages .
+- Experience with Google's and Mandrill's (Mailchimp) Apis
+Our offices are located in the very center of Barcelona.We're looking for a steady collaboration.
+----
+En Goguin buscamos programador LAMP especializado en Drupal  para desarrollo de módulos a medida.
+Experiencia en Drupal mínima 2 años, el inglés es un plus.
+Requisitos:
+- Experiencia en Drupal mínima : 2 años.
+- Capacidad de análisis y resolución de problemas y tareas en total autonomía.
+- Dominio del modulo Features
+- Capacidad de desarrollo de módulos a medida.
+Plus (no son indispensables):
+- Inglés / Italiano
+- Experiencia con las APIs de Google y Mandrill (Mailchimp)
+Tenemos oficinas en Barcelona centro, posibilidad de colaboración estable. 

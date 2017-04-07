@@ -1,0 +1,23 @@
+
+OutOfTheBit ltd is seeking a passionate young developer to expand its growing team.
+The candidate will work alongside senior developers and will have the chance to work on new exciting mobile games. This role would be ideal for a talented graduate or a Junior Developer.
+Desired Skills &amp; Experience
+Key skills are:
+    Good C / C++ background;
+    Knowledge of Java;
+    Ability to work within a team and learn new skills;
+    Passion for mobile or desktop games. 
+Other desirable skills include:
+    Experience with the iOS SDK and Xcode;
+    Experience with Android development;
+    Experience in client/server development;
+    Experience with Linux/Unix;
+    Knowledge of PHP/MySQL;
+    Knowledge of HTML/CSS/Javascript. 
+    Fluent english
+Any additional language would be a bonus.
+Company Description
+OutOfTheBit is a 4 year-old independent mobile gaming startup based in Wimbledon, London.
+The team is made of 4 people, at the moment. 2 Developers, 1 Designer and 1 PR Manager.
+The Team is currently working on a new original projects!
+

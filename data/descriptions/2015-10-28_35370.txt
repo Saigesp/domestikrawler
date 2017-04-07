@@ -1,0 +1,7 @@
+
+Desde 2007 las revistas Madriz y Barcelonés miden el pulso a cada una de las ciudades a través de su talento. Aunque ambas revistas empezaron a publicarse en papel, en la actualidad –y desde 2012– continúan con sus ediciones online. Ambas suman más de 70,000 visitas mensuales  y a través de sus contenidos se da visibilidad a los mejores creativos, así como a los planes más interesantes de cada una de las ciudades. 
+Para completar nuestras webs y con la intención de generar proyectos más dinámicos y originales buscamos a un programador que tenga dominio de las APIs públicas (Twitter, Facebook, Instagram, Google, etc) para desarrollar varios contenidos para cada una de las webs. 
+Buscamos a un profesional freelance que:
+-conozca las posibilidades de captación de información de cada una de las API's mencionadas
+-pueda generar programas para recopilar esa información  
+-se sienta cómodo trabajando en un proyecto que está en desarrollo y que irá evolucionando 

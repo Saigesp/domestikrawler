@@ -1,0 +1,14 @@
+
+Precisamos incorporar para proyecto de importante cliente ubicado en Sant Cugat, un/a Desarrollador Mobile para una nueva área de desarrollo de aplicaciones móviles dentro de la compañía.
+Requisitos:
+    Buscamos un Ingeniero Informático que se ha de dedicar a desarrollar software para aplicaciones móviles.
+    Desarrollo para dispositivos móviles.
+    Diseño web “responsive” con HTML 5 y CSS.
+    Desarrollo orientado a servicios.
+    Desarrollo con frameworks javascript, preferiblemente App Framework o Jquery.
+    Phonegap, Cordova y/o XDK.
+    Bases de datos relacionales SQL.
+Valorable.
+    Knowledge on Objective C, Java, Android, IOS..
+    C#, asp .net MVC y entity framework
+

@@ -1,0 +1,13 @@
+
+Captalis, comparador de productos financieros online situada en España y Brasil, busca candidatos para su equipo de desarrolladores.
+Buscamos dos personas dinámicas, activas, que disfruten con su trabajo, que tenga capacidad de aprendizaje y capacidad de trabajo en equipo.
+Ofrecemos formar parte de un equipo informático en constante crecimiento, con posibilidades de promoción y con flexibilidad a la hora de búsqueda de soluciones ante los distintos problemas de desarrollo.
+La oferta de trabajo es para un puesto presencial en Madrid, no se permite teletrabajo.
+Los conocimientos necesarios son:
+  - Experiencia con desarrollos con framework symfony 1.4
+  - Experiencia con desarrollos con framework Symfony2
+  - Experiencia en desarrollo MVC
+  - Experiencia de trabajo con BBDD especialmente Mysql
+Se valorara positivamente:
+  - Conocimientos de metodologias agiles
+  - Experiencia en TDD, BDD, ..

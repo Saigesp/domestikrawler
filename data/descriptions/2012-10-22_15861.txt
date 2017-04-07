@@ -1,0 +1,10 @@
+
+Se necesita un desarrollador senior en Madrid, para un start-up de reciente creación, ganador de un concurso de emprendimiento.
+Capacidades técnicas mínimas:
+Experiencia demostrable y dominio de PHP 5 y MySQL
+Experiencia en desarrollo front-end xhtml, css y jquery.
+Se valorará positivamente:
+Costumbre de utilizar frameworks (idóneo Symfony)
+Experiencia en alto rendimiento: Lucene/Solr y bases de datos de clave valor: Redis, MongoDB
+Costumbre de  utilizar plantillas tipo smarty o twig.
+Se comenzaría como freelance

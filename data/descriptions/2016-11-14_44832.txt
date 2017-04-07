@@ -1,0 +1,26 @@
+
+Entradas a tu alcance es un portal de venta de entradas online, y físicamente en todo el territorio a través de nuestro partner Correos.
+Estamos buscando a un programador con conocimientos sólidos de PHP, concretamente en Symfony 2+, para trabajar en el desarrollo y mejoras de nuestra plataforma, así como nuevos productos y funcionalidades relacionadas con el ticketing y con el control de acceso, que vamos a lanzar al mercado.
+El puesto sería presencial en nuestros headquarters en Alcoy (Alicante), existiendo la posibilidad de trabajar parcialmente en remoto una vez integrado en el proyecto desde nuestras oficinas en Madrid.
+La persona que buscamos debe ser responsable, organizada y metódica, con capacidad de trabajar en un entorno ágil y con plazos definidos.
+Experiencia demostrable y buen nivel de desarrollo en Symfony 2+ (creación de bundles, doctrine, security, routing, services, event dispatcher, forms, dependency injection)
+Experiencia creando tests unitarios/funcionales (PHPUnit)
+Cuidado y orden a la hora de aplicar las buenas prácticas y organización de clases/código
+Experiencia creando y consumiendo webservices y servicios RESTful, autenticación OAuth
+Conocimientos básicos de Redis / SQL
+Control de versiones GIT
+También valoraremos:
+TDD, BDD, CI...
+Conocimientos de Javascript / AngularJS / Ionic
+Maquetación con Bootstrap
+Experiencia con AWS
+Elasticsearch
+Que te encante nuestro mundo, vendrás con nosotros a grandes festivales como Sonorama Ribera, Electroweekend, Iberia Festival, Los Alamos Beach Festival, Weekend Beach... 
+¿Qué te ofrecemos?
+Oficinas molonas, con un estupendo ambiente de trabajo
+Paquete de traslado, nos encargamos de todo para que te sea lo más fácil posible tu incorporación
+Incorporación inmediata con contrato laboral indefinido
+Salario acorde al puesto y experiencia aportada, así como bonus en función de los resultados y consecución de tus objetivos
+Formar parte de un equipo áltamente cualificado con excelentes perspectivas de crecimiento y desarrollo profesional, donde el canal web es considerado estratégico en la organización
+Jornada flexible
+Equipo de tu elección (OSX o Linux)

@@ -1,0 +1,6 @@
+
+We are looking for a Junior Front-End developer to join our team in Madrid. The candidate would integrate in our current projects developing UX and interface related tasks.
+We search for an individual who is passionate about the internet, open source standards, data visualization techniques and front-end technologies, eager to learn and develop a career in the development of engaging and beautiful online interfaces.
+The candidate should have some proven experience working with HTML5 and CSS3. Knowledge of grid systems used for layout (like 360grid), front-end frameworks (like Bootstrap or Foundation), and CSS preprocessors (like LESS, Sass or Stylus) will be highly valued.
+Good understanding and some experience with JavaScript programming and the use of common frameworks like jQuery, Backbone or Leaflet is desirable.
+Daily work will include dealing with international projects, so being able to read and write in English is a must.

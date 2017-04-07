@@ -1,0 +1,9 @@
+
+CEI: Escuela de Diseño está buscando un profesor para su nueva sede en Madrid (Calle Rodríguez San Pedro, 2) de Desarrollo Web Frontend y Backend. 
+Son imprescindibles conocimientos de PHP 5/7, Javascript y jQuery y capacidad de formación, enseñanza y transmisión de contenidos al alumnado.
+Jornada completa, 8h/día de Lunes a Viernes.
+Los cursos a impartir son los siguientes:
+Curso de Desarrollo Backend con PHP7
+ http://cei.es/cei-curso/curso-de-php/
+Curso de Desarrollo Frontend con Javascript y jQuery
+ http://cei.es/cei-curso/curso-de-javascript-y-jquery/

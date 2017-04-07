@@ -1,0 +1,27 @@
+
+Admark, la Agencia de Marketing Digital del Grupo Telemark busca un desarrollador front-end con uno o dos años de experiencia demostrable, que sea dinámico, con interés por las buenas prácticas y el desarrollo ágil. Además, muchas ganas de trabajar y aprender se tendrán en cuenta.
+Tus funciones principales serán el desarrollo, mantenimiento y actualización de landings y páginas web.
+Somos un equipo joven de personas dedicadas a diferentes ámbitos del marketing digital. 
+Trabajarás con gente de cuentas, diseño gráfico, generación de leads, analítica y, por supuesto, programadores.
+Ofrecemos un ambiente de trabajo inmejorable, jornada completa y posibilidad de promocionarse laboralmente. 
+El horario es de 9:00 a 18.00 de Lunes a Jueves, y los viernes de 9.00 a 15.00.
+Imprescindible incorporación inmediata.
+Conocimientos requeridos: 
+-Buen conocimiento de HTML5, CSS3 y Javascript (JQuery) 
+-Algún preprocesador CSS (SASS, LESS) 
+-Maquetación responsive (Bootstrap) 
+-Conocimientos básicos de PHP 
+-Conocimientos de SEO 
+-Nivel medio de inglés
+Conocimientos valorables: 
+-GIT 
+-Conocimiento medio o alto de PHP y Mysql 
+-Conocer algún Framework de PHP (Laravel, Symfony, etc.) 
+-Vue.js, Angular o algún framework similar 
+-Conocer Grunt 
+-Gestores de dependencias: Composer, Bower, npm… 
+-Un uso básico de comandos con el terminal Unix en Mac 
+-Perfil Github, Bitbucket u otras plataformas 
+-Emmet 
+-Nociones de diseño gráfico y atención al detalle
+-Haber trabajado con alguna API 

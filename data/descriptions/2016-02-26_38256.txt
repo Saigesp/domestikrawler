@@ -1,0 +1,39 @@
+
+Purpose
+In order to support the tombola business, Web Developers are required to ensure the consistent delivery of all web application development. We are searching for a native/bilingual Portuguese speaker able to help us localizing our website for a new market. Ideally he will be working from our offices of Madrid or Gibraltar, although we are open to consider different options according to the candidate residence. 
+Role
+•	Ensure all tombola standards, policies and procedures are strictly adhered to.
+•	Ability to work in self-contained manner while maintaining a high level of focus and drive.
+•	Contribute to the implementation of strategic technical projects ensuring full and proper handover to  support teams.
+•	Problem management and Incident resolution.
+•	Support and maintenance of existing software.
+•	Keep abreast of industry developments in the technical arena and make recommendations to management where appropriate.
+Experience
+•	Experience of working with and developing continuous integration/continuous delivery strategies.
+•	Experience of software testing (unit, integration, etc.).
+•	Developing applications for Windows based systems and Web Applications using IIS 7+.
+•	Developing applications accessing an SQL Server backend.
+•	Localization and Internationalization of applications
+Skills
+•	C#
+•	TSQL
+•	ASP.NET MVC and Webforms
+•	HTML / XHTML
+•	JavaScript / jQuery
+•	Ajax
+•	LINQ
+Languages required
+•	Portuguese: native/bilingual
+•	English: full professional proficiency 
+•	Spanish: full professional proficiency will be a great plus
+Competencies
+•	Must be passionate about their chosen career path, you'll be working with people that love what they do – you should too.
+•	Must have strong team working and communication skills as well as being confident in working alone.
+•	Must be a strong self-starter and be proactive.
+•	Must be able to work well under pressure, and meet deadlines.
+•	Must have good time management skills and be able to multi-task
+about tombola
+tombola is a family owned company based in Sunderland (with offices in Madrid, Milan and Gibraltar) which operates the UK's, Spain's and Italy's biggest on-line bingo websites. 
+Our approach is different to many of our competitors in that we produce all our software ourselves; in fact just about every aspect of tombola is managed in-house. We have created all our own games and we take pride in our technical innovation and the strength of the development and design teams who use cutting edge technologies to drive the business forward. 
+The future of tombola is bright as we're looking to build on our European presence as well as a creating a new and exciting "social" presence.
+

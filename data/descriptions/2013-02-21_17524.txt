@@ -1,0 +1,11 @@
+
+Desarrollador web front end y maquetación HTML/CSS/JS.
+· Que sepa cómo trabajar directamente sobre el código HTML/CSS/JS, sin dependencia de GUIs como Dreamweaver.
+· Que sepa maquetar el código para un uso eficiente de los recursos del navegador y la descarga rápida de la página, de acuerdo con estándares de facto como Yahoo YSlow y Google PageSpeed.
+· Dominio de estándares HTML, incluyendo HTML5 y su compatibilidad entre navegadores y dispositivos.
+· Dominio de estándares CSS, incluyendo CSS3 y su compatibilidad entre navegadores y dispositivos.
+· Conocimientos básicos de codificación Javascript y uso de librerías como JQuery.
+· Comprensión de impacto en SEO de una correcta maquetación HTML/CSS/JS
+· Conocimientos básicos del uso de microformatos y microdatos.
+· Conocimientos de diseño de interacción, arquitectura de la información y usabilidad.
+· Background en diseño gráfico (Photoshop, Illustrator, etc.)

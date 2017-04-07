@@ -1,0 +1,48 @@
+
+Sobre nosotros:
+Village es la app que quiere cambiar la comunicación en la ciudad ¿Nunca te has preguntado qué pasa en tu barrio o en la zona donde trabajas? ¿Cómo será ese club, o qué tiendas interesantes están cerca de ti? Estamos trabajando muy duro para poder responder esas preguntas.
+Participados por Incubio Partners diciembre de 2013, tenemos acceso a todo tipo de servicios y ayuda técnica, además de poder convivir con emprendedores y profesionales del sector digital al más alto nivel.
+Actualmente buscamos desarrolladores capaces de asumir el reto de lanzar esta compañía; estar desde el inicio en un proyecto que puede cambiar muchas cosas, y hacer que ocurra.
+Tu puesto en Village:
+- Como Ingeniero Sénior de Backend tendrás la oportunidad de innovar, aprender y participar en una Start-up con grandes proyectos.
+- Estamos buscando una persona proactiva, flexible, innovadora y que trabaje eficientemente en equipos de trabajo, y con actitud de afrontar nuevos retos profesionales. Queremos una persona que pueda manejar software development roadmaps alineados con el producto, ingeniería y las prioridades del negocio.
+- Queremos que esta persona lidere el equipo de desarrollo y colabore estrechamente con el Product Owner.
+Qué esperamos:
+- Que hayas lanzado al menos tres aplicaciones móviles al mercado.
+- Más de tres años de código limpio, orientación a objetos y entornos PHP.
+- PHP nivel alto.
+- NoSQL (Mongodb, Elasticsearch, Cassandra, etc).
+- Sólido en MySQL.
+- Diseño de software y patrones de arquitectura.
+- Amplia experiencia en RESTful APIs.
+- Experiencia integrando código con diferentes Web Apis.
+- Acostumbrado a GitHub.
+- Experiencia en TDD.
+- Familiarizado con Agile.
+- Experiencia en JavaScript.
+- Habilidades de liderazgo.
+- Experiencia en la gestión de equipos pequeños de desarrollo.
+- Habilidades interpersonales y de comunicación.
+Qué nos gustaría:
+- Experiencia en entornos JavaScript (Angular, BackBone, etc.).
+- Experiencia en entornos cloud.
+- Experiencia modelando y construyendo sistemas complejos de gestión de datos y aplicaciones basadas en bases de datos relacionales y/o NoSQL.
+- Experiencia en gestión de ingeniería de software.
+- Scrum Master.
+- Nivel de inglés alto.
+Nuestro compromiso contigo:
+- Ser capaces de presentar un reto a la altura de tus expectativas.
+- Dar libertad, confianza e importancia para tus criterios y valoraciones.
+- Compromiso por crecer y hacer cosas importantes.
+- Crear un ambiente que motive y añada valor para todos.
+- Esfuerzo para la correcta definición de los proyectos y sus tareas.
+- Horario flexible adaptado a tus necesidades.
+Remuneración y plan de incentivos:
+- 30.000/35.000 € al año negociables en función de la experiencia aportada.
+- Plan de adquisición de participaciones por objetivos.
+Extras:
+- Formaciones semanales con profesionales expertos.
+- Cuatro horas de inglés gratuitas a la semana.
+- Amplio descuento en seguro médico privado.
+- Agua, café, fruta y snack gratuitos.
+- Ambiente de trabajo joven e innovador. Relación directa con profesionales de otras 12 start-ups.

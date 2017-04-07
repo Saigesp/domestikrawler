@@ -1,0 +1,25 @@
+
+Debido a una fuerte expansión de la empresa, necesitamos incorporar programadores de IOS/ Android en nuestro equipo, que participen en el diseño y ejecución del proyecto.
+La persona seleccionada para el puesto solicitado deberá de tener una alta capacidad de trabajo en equipo, ser resolutiva, autónoma y aportar mejoras que favorezcan el desarrollo del trabajo.
+Funciones:
+- Desarrollo de nuevas funcionalidades
+- Creación de aplicaciones desde el inicio
+- Mantenimiento de aplicaciones existentes
+Requisitos IOS
+- Experiencia demostrable desarrollando aplicaciones nativas iOS utilizando Objetive C (se valorará conocer Swift).
+- Conocimiento de las guidelines de Apple para la implementación y diseño de aplicaciones.
+- Necesario haber trabajando con conexiones a WebServices, tratamiento de Json y XML, algo de trabajo con persistencia: Core Data/Sqlite.
+- Se valorará muy positivamente el conocer y/o haber trabajado con Frameworks como MediaPlayer, CoreAudio, AVFoundation, AVKit además de disponer conocimientos de implementación de diferente SDK como Facebook, Google, One Signal, Analytics, etc.
+- Utilización de patrones MVC, MVP, Repository, etc.
+Requisitos Android
+- Experiencia demostrable desarrollando aplicaciones nativas de Android, SDK Java con Android Studio.
+- Conocimiento de librerías Android como Retrofit, Butter Knife, Dagger, etc.
+- Haber trabajado con persistencia ya sea SQlite, Content Provider, o librerías ORM para tal funcionalidad.
+- Conocimiento de las guidelines de Android para la implementación y diseño de aplicaciones.
+- Experiencia de al menos 1 año en puesto similar.
+- Integración con servicios web y trabajo con XML, JSON, etc.
+- Se valorará muy positivamente el conocer y/o haber trabajado con implementación de diferente SDK como Facebook, Google, One Signal, Analytics, notificaciones Push, etc.
+- Utilización de patrones MVC, MVP, Repository, etc.
+Ofrecemos:
+Incorporación inmediata a plantilla joven en proyecto estable y consolidado
+Horario de 8h a 17h

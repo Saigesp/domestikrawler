@@ -1,0 +1,4 @@
+
+FantasticoPets la App nº1 en España para mascotas busca para incorporar a su equipo dos programadores con experiencia en programación de Apps en .NET.
+Los candidatos seleccionados trabajarán en el continuo desarrollo de las Apps de FantasticoPets con Xamarin para iPhone, Android, iPad, Windows, Windows Phone ...
+El trabajo se realizará desde nuestras oficinas en Valencia ciudad y los candidatos seleccionados pasarán a poder presentar proyectos propios al comité de inversiones de la empresa a partir del año de permanencia en la empresa.

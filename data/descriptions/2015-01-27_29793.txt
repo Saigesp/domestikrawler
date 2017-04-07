@@ -1,0 +1,9 @@
+
+Buscamos programador de aplicaciones móviles.
+Necesitamos una persona que realice la aplicación móvil de nuestra página web, en principio para Android.
+Conocimientos de Android, se valorará  que conozca IOS. 
+Se contempla la posibilidad de desarrollar ambas plataforma con Cordova/PhoneGap, por lo que debe de tener conocimientos de HTML5, JavaScript, BoilerPlate, Boostrap, JQueryMobile...
+Se valorará experiencia en PHP, CSS, Yii Framework.
+Formarás parte de un equipo compuesto por jóvenes del sector, con muy buen ambiente laboral. La persona seleccionada se integrará dentro del departamento con altas posibilidades de crecimiento.
+El puesto de trabajo se desarrollará presencialmente desde la oficina en Malta.
+

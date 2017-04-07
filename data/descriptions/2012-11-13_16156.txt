@@ -1,0 +1,26 @@
+
+En Across Health queremos incorporar un un/a profesional con experiencia de al menos 3 años en el área de experiencia de usuario, arquitectura de la información y diseño de interacción con conocimientos tanto a nivel estratégico cómo de ejecución.
+Es un proyecto con una duración de 6 meses. 
+Requerimientos
+- Freelance
+- IMPRESCINDIBLE Experiencia demostrable en el sector farmacéutico (No se revisarán CV que no cumplan con este requisito) 
+- Idioma: Castellano, Inglés nivel Advanced (abstenerse candidatos que no cumplan con este requisito)
+- Experiencia en usabilidad y arquitectura de la información (al menos 3 años) 
+- Experiencia en diseño de interacción y dirección de arte en entornos web 
+- Dominio de Photoshop, Illustrator y herramientas de sketching/ prototipado 
+- Conocimientos y experiencia en Responsive web Design
+- Residente en Madrid
+Valoraremos también...
+- Conocimiento de maquetación web XHTML/CSS/js
+- Experiencia real con HTML5
+- Conocimientos prácticos de Accesibilidad 
+- XHTM.
+- jQuery.
+- W3C validation
+Lo que queremos que hagas...
+- Evaluación de la usabilidad, propuestas y supervisión del diseño visual
+- Participar en la creación, definición y optimización de productos web: usabilidad, AI, funcionalidad, etc. 
+- Definir las necesidades del usuario e interfaz para funcionalidades nuevas y existentes
+- Desarrollar user journeys, flujos, wireframes y prototipos para comunicar ideas de interacción y diseño
+- Convertir los prototipos en un gran diseño visual
+- Asegurar que el producto final se adapta a la experiencia de usuario deseada

@@ -1,0 +1,4 @@
+
+Somos una startup de Barcelona con la misión de desarrollar un endpoint para poder crear, distribuir y consumir contenido de audio.
+De la persona entrante esperamos que se involucre y lidere el proceso evolutivo de uWhisp en lo referente al análisis y mejora de la app iOS que ya podéis encontrar en la Appstore, como veréis hay mucho trabajo que hacer!
+Requerimos conocimiento en desarrollo iOS, también se valorará experiencia con Flurry.

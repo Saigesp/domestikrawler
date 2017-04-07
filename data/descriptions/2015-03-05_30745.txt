@@ -1,0 +1,8 @@
+
+Necesitamos desarrolladores residentes en Barcelona para trabajo de apoyo en reforma y mantenimiento de aplicación web desarrollada en PHP con framework CodeIgniter. 
+Imprescindible: 
+-Buen nivel de PHP. 
+-Buen nivel de desarrollo frontend (HTML,CSS3, jQuery). 
+-Experiencia demostrable en CodeIgniter. 
+-Residente en Barcelona o área metropolitana.
+Preferiblemente presencial, jornada flexible, mínimo 1/2 jornada.

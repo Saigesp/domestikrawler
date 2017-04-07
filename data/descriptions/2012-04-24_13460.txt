@@ -1,0 +1,14 @@
+
+Estamos desarrollando un proyecto internacional de software como un servicio innovador para Internet con acceso multicanal y con prespectiva de gran consumo y/o selling.
+Necesitamos un programador con experiencia como front-end developer de aplicaciones de entornos de Internet de alta disponibilidad.
+Requisitos mínimos:
+- Javascript avanzado (Se valora conocer jQuery);
+- HTML5 y comunicación con JSON;
+- CSS3 para aplicaciones y mobiles;
+- Accesibilidad (WAI-ARIA, se valora WCAG);
+- Conocimientos de usabilidad con enfoque a la UX.
+Deseable conocer:
+- Entorno NET MVC en C#;
+- Visual Studio 2010 (o 2008).
+- Windows Azure;
+- Nivel alto de Inglés. 

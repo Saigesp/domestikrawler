@@ -1,0 +1,16 @@
+
+Para completar nuestro equipo actual en Alicante buscamos un perfil de Analista Programador iOS (iPhone/iPad) cuyas principales tareas serían:
+· Desarrollo y publicación de Apps iOS Nativas con Xcode. 
+· Compilar aplicaciones iOS. 
+· Colaborar en la definición de las aplicaciones junto con los responsables y el equipo de diseño. 
+· Participar en la definición de las metodologías del área y en las tareas de integración continua. 
+· Integración de aplicaciones con back-end propio o de terceros.
+El perfil solicitado deberá tener experiencia en los siguientes campos:
+· Es imprescindible tener conocimientos de Cocoa Touch, iOS 7, 8 y 9 (Touch Id, CoreData, CoreLocation, UIKit, Quartz, etc.), librerías de terceros, CocoaPods, Push Notifications , Passbook , Gestión del market AppStore, Control de versions en Git, entre otras cosas. 
+· Haber desarrollado 2 o más aplicaciones en la App Store. 
+· Implementación y desarrollo orientado a objetos. 
+· Webservices y sistemas de gestión de intercambio de archivos. 
+· Experiencia previa en Objective-C / SWIFT. 
+· Conocimientos en seguridad. 
+· Capacidad de compromiso y consecución de objetivos.
+Requisito imprescindible para optar al puesto, residir en la zona de Alfaz del Pi, Benidorm, Altea, Villajoyosa o pueblos cercanos. El trabajo se desempeñará en nuestras oficinas de Alfaz del Pi junto al equipo de desarrollo y planificación.

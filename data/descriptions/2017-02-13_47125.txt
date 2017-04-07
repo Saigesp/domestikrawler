@@ -1,0 +1,30 @@
+
+¡Hola! Somos Lagahe.
+Una agencia de creativos tecnológicos. Combinamos la diferenciación de la creatividad y la funcionalidad de la tecnología, para desarrollar proyectos tecno-creativos.
+Nuestros servicios principales son: estrategia, marketing, diseño y desarrollo tecnológico.
+Buscamos a un Desarrollador de Software con conocimientos front-end y back-end y muchas ganas de comerse el mundo como nosotros, con actitud positiva y que le guste trabajar en equipo.
+Una persona proactiva con capacidad de aprendizaje, autosuficiente y con iniciativa para la resolución de problemas.
+REQUISITOS MÍNIMOS: 
+•	Experiencia mínima de  3 años en puesto similar. 
+•	Front-end: 
+o	Conocimientos altos y experiencia en maquetación responsive design: HTML5, CSS. 
+o	Conocimientos altos y experiencia en Javascript: framework AngularJS, jQuery. 
+o	Conocimientos altos y experiencia en el desarrollo de apps híbridas: Ionic, Cordova. 
+o	Uso de Bower y NPM para la gestión de librerías en proyectos. 
+•	Back-end: 
+o	Conocimientos en lenguaje PHP: Frameworks Symfony, Silex, Laravel. 
+o	Conocimientos en BDD MySQL. 
+o	Conocimientos en la configuración de servidores Apache, Nginx. 
+o	Instalación, configuración y desarrollo en Wordpress. 
+o	Conocimientos E-commerce: Instalación, configuración y desarrollo en Prestashop y Magento. 
+o	Deseable conocimientos en algún framework node.js: Express, Meteor, etc. 
+o	Deseable conocimientos en BDD NoSQL: MongoDB, CouchDB.
+OFRECEMOS: 
+•	La oportunidad de convertirse en parte de una empresa líder en la Comunidad. 
+•	Muy buen ambiente de trabajo, dotado de los recursos necesarios, con herramientas de última generación y en evolución continua. 
+•	Trabajar con una amplia gama de sectores, de clientes y proyectos. 
+•	Incorporación inmediata en contrato de jornada completa en horario a convenir. 
+•	Estabilidad laboral y crecimiento profesional. 
+•	Sueldo a negociar según valía.
+IMPORTANTE: 
+Imprescindible la presentación del Portfolio y explicación de los proyectos realizados.

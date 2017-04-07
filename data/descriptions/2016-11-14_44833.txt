@@ -1,0 +1,16 @@
+
+En Clicknaranja buscamos un/a crack de la programación para mantener y desarrollar nuevos proyectos digitales para nuestros clientes (IKEA, El Corte Inglés, L’Oréal, Paramount Pictures, INDITEX, etc).
+Imprescindible:
+• PHP
+• MySQL
+• HTML
+• jQuery
+• CSS
+• Maquetación con Media Queries, Pure o Bootstrap
+• Repositorio de código como GIT o SVN
+Muuuuuuuy interesados en:
+• Pre-procesadores css (LESS, SASS o STYLUS).
+• Conexión con servicios web REST/JSON
+• Frameworks mvc javascript (BACKBONE o ANGULAR JS)
+Por si importa: trabajo estable y buen ambiente laboral, incorporación inmediata y contrato indefinido en unas oficinas chulísimas en el centro de Madrid. Abstenerse freelances.
+

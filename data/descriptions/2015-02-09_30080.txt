@@ -1,0 +1,9 @@
+
+Buscamos a un profesional en ActionScript 3 con experiencia en el desarrollo de apps para iOS y Android usando el Framework de motor de app Starling y el Framework de UI Feathers, para el desarrollo de varias aplicaciones de turismo (guías interactivas offline) con carga selectiva de contenidos en arranque (y posteriormente a demanda de usuario), y otras aplicaciones que tenemos para desarrollar.
+Imprescindible cumplir las requisitos:
+ - Experto en Flash/Flex
+ - Experto en AS3
+ - Experto en publicación con AIR SDK
+ - Experiencia demostrable en desarrollo de apps multi-device / multi-platform
+ - Ganas de currar y pasarlo bien al mismo tiempo
+No importa el lugar de residencia. Teniendo Skype es suficiente con que disponga de conexión a internet y esté localizable.

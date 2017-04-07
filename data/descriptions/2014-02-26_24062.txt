@@ -1,0 +1,23 @@
+
+atSistemas es una compañía del sector de Tecnologías de la Información, Oracle Gold Partner, Business Partner de IBM, Microsoft, Atlassian, y RedHat, está especializada en el diseño e implementación de soluciones IT en entornos web, y actualmente se encuentra en un fuerte proceso de expansión en el área de Cataluña. En esta línea precisa incorporar, para el área de negocio centrada en movilidad y para participar en proyectos liderados por atSistemas, el siguiente perfil:
+Analista Programador/a Front-end & Mobile cuyas principales responsabilidades serán:
+- Desarrollar aplicaciones móviles multiplataforma / multiformato utilizando las tecnologías posteriormente mencionadas. 
+El perfil requerido deberá aportar:
+- Experiencia laboral de al menos 2 años en desarrollo optimizado Multidispositivo/Multicanal.
+- Amplios conocimientos en HTML5 y CSS3.
+- Conocimiento avanzado en Responsive Design y Media Queries.
+- Utilización Extensiones Compass, Less, SASS o Stylus.
+- Programación en JavaScript (buenas prácticas, uso de prototipos/herencia, módulos, AJAX, etc.).
+- Programación OOJS con BackBone/Angular y Marionette..
+Otros requisitos a valorar serán:
+- Desarrollo CleanCode.
+- Definición y ejecución de pruebas Mocha, Sinon, Chai.
+- Asynchronous Module Definition (AMD) con RequireJS.
+- Detección de funcionalidades HTML5 en navegadores usando Modernizer y uso de polyfills.
+- Metodologías ágiles y GIT.
+- Uso de sistemas de integración continua.
+Se ofrece:
+· Contrato indefinido
+· Incorporación inmediata en nuestra oficina de Passeig de Gràcia.
+· Buen ambiente de trabajo.
+· Beneficios sociales: Formación interna en últimas tecnologías impartida por nuestro Dpto. de Formación. Opción de Cheques gourmet., seguro médico y dental .

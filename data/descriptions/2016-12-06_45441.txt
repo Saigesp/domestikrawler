@@ -1,0 +1,27 @@
+
+In SmartMonkey.io you'll have the opportunity to work in mission critical projects used by customers worldwide and improve their user experience.
+Information of the position:
+Possibility to participate in real world projects: Mobility platform, Big data visualization, GIS and Mobile. 
+Development of a platform used worldwide as operational tool.
+Innovative and entrepreneurial team.
+The entire company works with agile methodologies, not just dev teams.
+Salary review every 6 months. Possibility of stock options.
+Flexible working hours, work done according to development sprints.
+Frequent remote working allowed.
+Amazing offices located on the Canòdrom building in Meridiana, Barcelona. Very well connected by metro, train and buses.
+Minimum requirements:
+At least 3 years of full-time work experience.
+Demonstrable experience in Javascript and AngularJS framework.
+Demonstrable experience in Bootstrap or similar.
+Demonstrable experience in HTML5/CSS3.
+Availability to maintain a technical conversation in english.
+Expert in Front-end web technologies and trends.
+Desired requirements:
+Experience in enterprise and high performance development.
+Demonstrated ability to develop web applications following industry's security standards.
+Experience with the following technologies: node.js, non-relational databases such as MongoDB, app development Android/iOS, map related APIs such as Google Maps or OpenStreetMaps, source code versioning tools like Git.
+Experience in Scrum.
+Experience working with private and public APIs
+Experience in working on collaborative and open-source projects.
+Studies:
+A degree in computer science is not required but preferable.

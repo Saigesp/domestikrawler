@@ -1,0 +1,44 @@
+
+Netquest is looking for a new Software Testing Teamworker to work full time side by side with the Development team. 
+Your tasks will include, but will not be limited to:
+•	Manual testing of our web-based, mobile and desktop applications.
+•	Design testing plans for each new functionality developed.
+•	Develop and maintain tests for the web applications using a WebDriver.
+•	Use BDD to design test cases in a business-readable domain-specific language.
+•	Report defects using an issue tracking system.
+•	Create and improve functional documentation like use case specifications.
+Our IT team is composed of 14 members, mainly working with Java, Linux & MySQL technologies. Our systems are working entirely in the AWS cloud. We are lovers of high quality software and working as a team.
+Some of the tools we use are:
+•	Jenkins
+•	Jira + Agile
+•	Artifactory + Maven
+•	Fisheye + Crucible
+•	Netbeans & Eclipse
+•	EasyMock, JUnit, DBUnit, XML Unit, TestNG, Watir, Cucumber
+•	Jboss
+•	Backbone, requireJS, handlebars
+•	Diferent loggers
+•	ECMAScript parsers/interpreters
+•	AWS: EC2, RDS, S3+Cloudfront, Route53, ELB, etc
+•	Puppet
+We offer:
+•	A full-time, retributed internship of 6 months that will lead to a permanent job position.
+•	To become a member of the Quality Assurance team on a young and fast paced company.
+•	To work alongside a very talented, quality oriented Development team that use Agile methodologies.
+•	The opportunity to improve your current skills and to learn new ones while developing your professional career in an international environment.
+
+Minimum Requirements:
+•	Currently studying a technical career, like Computer Science or similar.
+•	Knowledge of relational databases (SQL, MySql).
+•	Basic knowledge of Linux systems.
+•	Basic knowledge of OO programming languages, like Java & Ruby.
+•	Basic knowledge of web programming languages, like HTML & Javascript.
+•	English level to use, create & update documentation.
+•	Analytical and critical thinking. 
+•	Excellent Communication and team working skills.
+•	Eager to improve and develop new skills.
+Desired Requirements:
+•	Knowledge in any testing field (performance, security, mobile)
+•	Basic knowledge on issue tracking tools like Jira.
+•	Experience / knowledge on test automation using WebDriver.
+•	Knowledge of BDD and the use of Cucumber.

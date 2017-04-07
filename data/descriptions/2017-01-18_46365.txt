@@ -1,0 +1,18 @@
+
+Estamos seleccionando un Full Stack Developer para el departamento técnico y ecommerce de una empresa de retail/moda ubicada en la zona de Mataró (Maresme).
+Las funciones a desarrollar son las siguientes: 
+- Diseño y mejora de la estructura de la web/ecommerce.
+- Creación de herramientas internas para mejor rendimiento de procesos.
+- Construcción y readaptación de código y librerías reusables en el futuro.
+- Optimización de la web para un uso máximo de velocidad y escalabilidad.
+- Integración de los aspectos back-end y front-end a la web.
+- Gestión de proveedores técnicos, servidores, redes y hosting.
+Y el perfil requerido es: 
+- Profesional con amplia experiencia en desarrollo de aplicaciones web, definición de soluciones escalables y acostumbrado a multitarea.
+- Experiencia demostrable como desarrollador en los entornos requeridos.
+- Lenguajes: PHP, Java y JavaScript
+- Conocimiento de librerías jQuery, Node.js, Angular.js frameworks
+- Maquetación web: HTML5, CSS3, Bootstrap.
+- Responsive web design y mobile.
+- Maquetación especializada de mailings HTML
+- Administración de sistemas y base de datos SQL

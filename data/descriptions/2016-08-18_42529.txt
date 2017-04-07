@@ -1,0 +1,31 @@
+
+Estamos formando una plantilla de programadores y maquetadores en nuestras oficinas de Oleiros, a Coruña. Estarás rodeado de un equipo de profesionales y compañeros de viaje apasionados por lo que hacen y por su proyecto, además de estar en un entorno insuperable con nuevas oficinas en las que seguro que vas a disfrutar.
+Nuestra meta es conseguir tener un equipo completo, con hambre de mejorar, lleno de pasión y extrovertido, muy deseable para las quedadas y comilonas varias.
+Actualmente somos un equipo de más de 10 personas que trabajamos duro para llegar a lo que nos hemos propuesto. No nos conformamos con que las cosas funcionen y siempre intentamos dar nuevas soluciones a los problemas que nos vamos encontrando. Sudor, entrega y una gran sonrisa al final del día, ya que hasta ahora, hemos podido realizar todo lo que nos hemos propuesto gracias al TRABAJO EN EQUIPO (muy importante).
+Si todo lo descrito anteriormente te identifica o hace que te "pique el gusanillo" y quieres formar parte de este equipo exigente y profesional, este es un sitio que te va a encantar. Pero cuidado: somos muy "freaks" de lo que hacemos (en este caso, desarrollo web), por lo que buscamos a una persona que nos complemente con estas facultades. Si el desarrollo web no es una de tus pasiones, este no es tu proyecto.
+Requisitos
+Estudios mínimos: Ingeniero Superior - Ingeniero en Informática
+Experiencia mínima: Al menos 2 años
+Conocimientos necesarios
+• HTML5
+• CSS3
+• Sass
+• Gulp
+• jQuery
+• Bootstrap y/o Foundation
+• Flexbox
+• Deseable: JavaScript, ES6, React, Flux, PostCSS, ...
+¿Qué ofrecemos?
++ Trabajar en un equipo de profesionales con ganas de comerse el mundo
++ Formar parte de una startup en una etapa de crecimiento
++ Contrato laboral 6 meses + indefinido
++ 30 días de vacaciones al año
++ Horario de 8 horas de lunes a viernes. Con flexibilidad para entrar y flexibilidad para salir. "Barra libre".
+Salario: según valía, si eres la persona que buscamos llegaremos a un acuerdo.
+Incentivos para tí:
+- Agua fría barra libre
+- Máquinas de refrescos y snacks a "precio de ganga".
+- Catering para comer... ¡genial!
+- Actividades en equipo fuera de la oficina
+- Charlas de formación interna junto a empresas colindantes
+¿Te interesa? Apúntate y te llamaremos.

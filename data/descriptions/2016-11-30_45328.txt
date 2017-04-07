@@ -1,0 +1,30 @@
+
+Funciones
+- Desarrollar y mantener tanto las aplicaciones públicas como internas.
+- Ayudar a construir un sistema escalable y adaptado a las últimas tecnologías.
+- Garantizar la calidad y las prestaciones del código y del producto entregado.
+- Colaborar con el equipo para definir, desarrollar y entregar funcionalidades.
+- Resolver incidencias en el código de la manera más rápida posible.
+Requisitos
+- Tres años de experiencia en desarrollo PHP 5.6+
+- OOP / Clean Code.
+- Frameworks de PHP (se valorará Laravel pero no es imprescindible)
+- HTML5 / CSS3.
+- Javascript / JQuery.
+- Experiencia en bases de datos MySQL y optimización de consultas.
+- Control de versiones con GIT.
+Se valorará:
+- Integración continua (Bamboo, Jenkins, etc).
+- Testing y BDD (PHPUnit, PhpSpec, Behat, etc...)
+- Bases de datos NoSQL (MongoDB o similar).
+- Motores de búsqueda: ElasticSearch.
+- AngularJS.
+- NodeJS.
+- AWS (Amazon Web Services)
+Se ofrece
+- Un contrato fijo indefinido de 40 horas semanales en una de las startups ad-tech de mayor crecimiento de Barcelona.
+- Horario perfecto para la conciliación familiar.
+- Un equipo joven y dinámico formado por personas apasionadas de la tecnología y las apps.
+- Oficina céntrica al lado del mar.
+- Formación continuada.
+- Condiciones revisables en función de crecimiento.

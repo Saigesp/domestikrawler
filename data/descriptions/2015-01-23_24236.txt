@@ -1,0 +1,17 @@
+
+Buscamos un Diseñador Web / Maquetador presencial para incorporarse a nuestro Departamento Online con experiencia (mínimo 4 años de experiencia)
+Abstenerse Freelance o desarrolladores sin nociones de diseño.
+Requisitos del puesto:
+- Imprescindible conocimientos en Diseño, valores y estética. 
+- Maquetación HTML, HTML5. 
+CSS3, valorable conocimientos en LESS/SASS. 
+- Responsive Design. Adaptación a dispositivos y soportes tecnológicos. 
+- Diseño y desarrollo correcto de e-mailings. 
+- Crear y adaptar banners en Flash. 
+- Desarrollo orientado a SEO.
+Valorable:
+- Programación Javascript/JQUERY 
+- Conocimientos en Edición de vídeo: Premiere, After Effects. 
+- AS2/AS3 
+- PHP/MySQL
+

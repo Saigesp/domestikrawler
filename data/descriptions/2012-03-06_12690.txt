@@ -1,0 +1,5 @@
+
+Programador con experiencia en PHP 5.3, bases de datos MySQL y buen nivel de PHP, JQuery, js, css y html.
+Que sepa gestionar proyectos desde una primera fase de programación.
+Es imprescindible tener conocimientos en PHP orientado a objetos y haber trabajado con algún tipo de Framework (Zend, Joomla, etc.). Trabajamos con el sistema de control de versiones Subversion. Importante saber trabajar en equipo.
+Se valorará si tiene conocimientos sobre desarrollo de aplicaciones móviles.

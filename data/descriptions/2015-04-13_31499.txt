@@ -1,0 +1,29 @@
+
+"Entradas a tu alcance" es un portal de venta de entradas online, y offline a través de nuestro partner Correos.
+Actualmente estamos buscando un perfil que se una a nuestro equipo, y que tenga conocimientos y experiencia en el desarrollo y maquetación web. Te encargarás junto al equipo de desarrollo en diseñar y trabajar en las nuevas versiones de las herramientas, relacionadas con el ticketing, que vamos a lanzar al mercado.
+El puesto sería presencial en nuestras nuevas oficinas de Alcoy (Alicante).
+Tus funciones estarían enfocadas no exclusivamente al diseño y usabilidad web, sino que estarían íntimamente relacionadas a cualquier tema que requiera de tu talento, por ejemplo: landing pages, email marketing, interfaces para apps Android e iOS, el desarrollo de nuestra imagen corporativa...
+La persona que buscamos debe ser organizada y metódica, capacidad de trabajar con agilidad, involucrada en las redes sociales, amante de las aplicaciones móviles y con nociones en diseño web de interfaces, web corporativas, microsites...
+Se requiere:
+
+Formación relacionada con Diseño/Multimedia
+
+Conocimientos de Javascript y PHP
+
+Experiencia demostrable en un puesto o labores de este tipo, así como experiencia en trabajos de usabilidad y responsive, en tabletas, móviles y versiones web de escritorio.
+
+Conocimientos para el desarrollo y creación de webs, microsites, landing pages, emailings, etc...
+
+Buen conocimiento de las herramientas de Adobe (Photoshop, Illustrator, Dreamweaver...)
+Que te encante internet, las redes sociales, y por supuesto, que te guste nuestro mundo, vendrás con nosotros a grandes festivales como Sonorama Ribera, Electroweekend, Iberia Festival, Los Alamos Beach Festival, Weekend Beach...
+
+
+Valoraríamos también:
+
+Conocimientos de idiomas
+
+Conocimiento de nuestras principales herramientas (Symfony, AngularJS...)
+Conocimientos en templating de Wordpress
+
+
+

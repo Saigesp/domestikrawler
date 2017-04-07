@@ -1,0 +1,24 @@
+
+Laukatu es un estudio de desarrollo web formado actualmente por dos personas, buscamos una tercera persona que dé apoyo en la parte de back-end.
+Estamos abiertos tanto a candidatos senior como junior (sueldo en función de la experiencia/conocimientos demostrables).
+Requisitos obligatorios
+- Mínimo 1 año de experiencia como desarrollador back-end.
+- Conocimientos avanzados de PHP.
+- Conocimientos de Mysql.
+- Responsabilidad.
+- Puntualidad (en objetivos).
+- Ganas de aprender y afrontar nuevos retos.
+Requisitos deseados
+- Conocimientos en HTML/JavaScript/CSS.
+- Conocimientos en Frameworks PHP (Symfony, CakePHP, Yii...).
+- Conocimientos en algún otro lenguaje de programación (C, Python, Ruby...).
+- Conocimientos en administración de sistemas linux.
+- Conocimientos en SVN o Git.
+Ofrecemos
+- Buen ambiente de trabajo.
+- Café y bebidas gratis.
+- Horario flexible (posibilidad de compaginar con estudios, jornada intensiva, media jornada...).
+- Posibilidad de teletrabajo.
+- Formación continua.
+- Posibilidad de juguetear con nuevas tecnologías del sector.
+Si no cumples alguno de los requisitos obligatorios (los relacionados con conocimientos), pero crees que puedes encajar en la oferta y eres una persona dispuesta a esforzarse y aprender, no dudes en contactar con nosotros, escuchamos todas las propuestas :)

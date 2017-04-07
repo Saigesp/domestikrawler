@@ -1,0 +1,14 @@
+
+El proyecto que tenemos iniciado tiene una duración de dos semanas
+Será una colaboración mensual, pero no podemos definir el tiempo mínimo de colaboración, puesto que cada proyecto marcara el tiempo de trabajo.
+Necesitamos un desarrollador para colaborar puntualmente en algunos proyectos que llevamos con nuestros clientes.
+Requisitos mínimos:
+2 años de experencia en desarrollo web.
+Desarrollo con código limpio, semántico y reutilizable.
+Conocimientos avanzados de PHP en entorno LAMP.
+Conocimientos avanzados de HTML5, CSS2, CSS3.
+Conocimientos avanzados de JavaScript, jQuery.
+Conocimientos de Bootstrap.
+Requisitos valorables:
+Experiencia en el desarrollo de aplicaciones móviles.
+Experiencia con Photoshop.

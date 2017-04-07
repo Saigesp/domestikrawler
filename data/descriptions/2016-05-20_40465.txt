@@ -1,0 +1,21 @@
+
+Tareas:
+•	Desarrollo web front y back end.
+•	Integración de API´s de terceros.
+•	Automatización de procesos.
+•	Creación de webservices.
+•	Administración de BBDD.
+•	Desarrollo de herramientas online de reporting y análisis.
+Ingeniero / Graduado en Informática.
+Experiencia a valorar (a partir de 2 años).
+Conocimientos:
+•	Backend: PHP5 (POO), Javascript (experiencia con Frameworks - JQUERY, Laravel, Symfony); experiencia con el desarrollo e integración de API’s.
+•	Front-end: CSS3 y HTML5 (experiencia con frameworks - Bootstrap).
+•	Gestión - Administración de BBDDD relacionales (sql server, mysql).
+•	Sistemas de control de versiones: git, svn.
+•	Inglés medio.
+Otras Valoraciones:
+•	Conocimientos de marketing digital.
+•	Conocimientos de sistemas y redes.
+•	Metodologías ágiles.
+

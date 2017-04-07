@@ -1,0 +1,12 @@
+
+Hello, I am looking for a web developer (if you know prestashop it will take you less time).
+Project:
+1. migrate existing live prestashop to vps
+2. add 5 cms templates (very simple templates : photos + text) (mockups provided)
+3. add cms menu in header and hide shop menu on cms pages
+4. change css to make the design more simple (black and white / minimalist)
+5. migrate back to production
+Thanks
+PS: I am excpeting this job to take 24 hours x 25 euros = 600 euros. We can discuss the price by the hour and the number of hours.
+PS 2: if you need some help at some point,  you have a professional web developer managing the project with you.
+PS 3: I have other projects if you are good.

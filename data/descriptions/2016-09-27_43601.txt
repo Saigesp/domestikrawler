@@ -1,0 +1,34 @@
+
+ABOUT THE JOB
+We’re looking for an enthusiastic and talented front-end developer with extensive experience on HTML and CSS to bring all our projects’ web components to life, ensuring a top-notch user experience by means of clean and efficient markup code.
+Your responsibilities will encompass:
+- Discuss UX and interaction specifications with our designers and bring ideas to improve the end user experience on all our web products.
+- Coordinate with other frontend developers and JavaScript architects to ensure a seamless integration of your web components with our frontend applications.
+- Support our JavaScript engineers on crafting clean and lightweight HTML templates with maximum reusability.
+- Ensure our web projects deliver a seamless experience across browsers and devices.
+- Provide time estimates and contribute to better lay out our product roadmaps.
+ABOUT YOU
+You should have at least 3 years experience working on front-end technologies with a special focus on UI. You are willing to learn new tools and technologies and push your boundaries.
+- You have mastered CSS, HTML, SASS and the SCSS syntax, are able to deliver rock-solid web experiences regardless the viewport, browser vendor or device in use.
+- You have good knowledge of JavaScript and some understanding of (or willing to learn) modern frontend frameworks such as Angular or React.
+- Love for web components and component-driven architectures. You know how to structure your CSS code to maximize scalability and reduce code duplication. 
+- Solid knowledge of the latest RWD techniques with proven experience on implementing RWD grid systems, either your own or third-party such as Susy, Neat, Foundation, etc.
+- You know when and how to put the right animation or transition to enhance our UX.
+- CSS specificity, progressive enhancement or measuring units (px, em, rm, etc) are no mystery for you.
+- CSS pre-processors and post-processors and other frontend task runners are your best friends: Gulp, Grunt, WebPack, PostCSS, etc.
+- Proficient with Git is a must.
+- Fluent in English, you are good at communicating ideas and collaborate in teams.
+- You keep up to date with the latest industry trends and techniques. You devour each and every blog post ever written by Jeffrey Zeldman, Eric Meyer, Lea Verou or Vitaly Friedman, to name a few.
+Bonus points
+- CSS Linters and CSS comb.
+- Good knowledge of JavaScript (ES6 a plus), CoffeeScript or TypeScript.
+- NPM and Bash experience.
+- Prior exposure to JavaScript frameworks such as AngularJS, Angular 2, React, Backbone Aurelia, Ember or Knockout.
+- Experience on TDD
+ABOUT BLUE ORANGE
+We are a marketing services business which delivers complete solutions to our digital clients. This means that we work with everything from strategy, planning and the execution for e-commerce sites. 
+We typically work with new product launches, e-commerce optimisation, affiliation, media buy and campaign management. This involves web development, branding, copywriting, graphic direction, animation, and we sometimes step out of the digital world to produce photography, video and print material when needed. 
+Consider us to be an outsourced marketing department; we make big things happen for companies who have expertise in technology or other areas, but not as much expertise in marketing, or simply not enough internal resources. 
+We are a small team of about 10-12 people so everyone matters and is treated equally. We aim to enable every individual to do their best and we celebrate success together. We have a lot of on our plates so we balance that with a positive and pleasant environment to have some fun along the way. 
+Our company values are respect, transparency, commitment, responsibility, attention to detail and fun. 
+We are in Barcelona because we love the weather, the food and the sea. In our opinion, it is simply the best city in Europe and therefore it was a simple choice to establish our business here. We speak English in the office. Our work stands out from the crowd and leaves a memorable impression. 

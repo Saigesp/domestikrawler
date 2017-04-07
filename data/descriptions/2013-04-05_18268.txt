@@ -1,0 +1,18 @@
+
+Bitoon necesita ampliar su equipo de desarrollo con un programador FRONT-END.
+Requisitos:
+2 años de experiencia en el desarrollo de este tipo de trabajo.
+Conocimientos en:
+HTML/XHTML/HTML5 .
+CSS/CSS3 .
+Javascript, jQuery .
+Comunicación con webservices.
+Responsive web applications.
+Cross-browser compatibility.
+Conocimientos de conectores sociales (Facebook, Twitter, Linkedin, etc.).
+Se valorará especialmente:
+Analytics (implementación y uso).
+Herramientas y conocimientos de A/B testing .
+Optimización de sitios web.
+Inglés: leer y escribir documentación.
+Capacidad de trabajo en equipo.

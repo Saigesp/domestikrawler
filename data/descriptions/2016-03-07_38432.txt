@@ -1,0 +1,5 @@
+
+Somos una empresa especializada en desarrollos Drupal ubicada en Barcelona y necesitamos un programador de módulos Drupal para un proyecto que tenemos en marcha actualmente.
+Necesitamos incorporación inmediata, no hace falta que sea a jornada completa.  Disponibilidad para participar en reuniones quincenales de seguimiento de proyecto en instalaciones de nuestro cliente.
+Se valorará experiencia en desarrollo de módulos Drupal y en integraciones de Drupal con sistemas externos (ERPs, CRMs, SOLR, ...)
+

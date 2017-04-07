@@ -1,0 +1,24 @@
+
+Roles & Responsibilities:
+Take ownership of QA related activities and tasks; drive testing strategy, architecture, best practices.
+Create and execute test plans combining manual and automated testing.
+Generate the necessary documentation (release notes, API doc, etc.)
+Must have Skills & Experience: 
+Test Automation (Selenium WebDriver, CasperJS, PhantomJS or other test suites)
+Spanish & English
+GIT source code repository
+Basic linux administration
+Desirable Skills & Experience: 
+Scripting skills (PHP, Javascript, Bash ...) 
+Basic debugging (ajax requests, headers, angularJS)
+MySQL queries and administration
+Apache 2 / Varnish
+Project Management Tool (Redmine)
+Strong technical, analytical and problem-solving skills
+Able to work independently and as part of a team
+Excellent verbal and written communication skills
+AWS experience
+Mockup/Wireframe/Prototype tools
+HTML5 /CSS3 knowledge
+Duration: project-based / full time
+Experience: > 5 Years

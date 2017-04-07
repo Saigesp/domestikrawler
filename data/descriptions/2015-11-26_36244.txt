@@ -1,0 +1,8 @@
+
+Se busca mobile UI / UX designer para trabajar en proyecto europeo de investigación p2pvalue.eu.
+Queremos revisar la experiencia de usuario de nuestro proptotipo de app mobile responsive y apoyar al equipo de desarrollo en la siguiente versión estimada en 3-6 meses de trabajo.
+Las principales responsabilidades del puesto serían la revisión y propuestas de rediseño del UX actual así como diseño de nuevas funcionalidades en coordinación con el product owner y el equipo de producto.
+También la producción de elementos maquetados en HTML y CSS. Se valorará experiencia de trabajo en equipo con metodologías ágiles como Scrum.
+Nos gustaría contar con un diseñador/a  con experiencia en mobile y con conocimientos o experiencia como usuario de comunidades colaborativas (wikipedia, crowdfunding, ...)
+P2Pvalue es un proyecto financiado por el comisión europea. Entre sus socios se encuentra la Universidad Complutense de Madrid como responsable del diseño y desarrollo de nuevas herramientas online para la colaboración y coordinación de colectivos p2p.
+

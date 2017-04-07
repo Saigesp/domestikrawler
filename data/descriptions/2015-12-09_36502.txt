@@ -1,0 +1,6 @@
+
+Buscamos un analista programador para desarrollar y adaptar, así como actualizar plataformas de comercio electrónico en Magento en funcionamiento. Así mismo tendrá que resolver incidencias de diferentes clientes en esta plataforma.
+Se valorará la experiencia en PHP, JavaScript, JQuery, CSS y MySQL.
+Es imprescindible el conocimiento de Magento y experiencia demostrable en migraciones entre servidores, actualizaciones de versiones y conversión a "Responsive".
+Adicionalmente se valorará el conocimiento en Drupal.
+

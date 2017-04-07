@@ -1,0 +1,7 @@
+
+Programador/a PHP para trabajar en la comarca del Maresme. 
+Conocimientos imprescindibles en PHP 5, HTML5, CSS3, Ajax, MySQL, JavaScript y JQuery 
+Creación de nuevas webs en PHP 
+Mantenimiento de páginas web PHP (Back End y Front End). 
+Programación de nuevas funcionalidades (PHP) Resolución de incidencias
+Se valorará conocimientos de Symfony 2

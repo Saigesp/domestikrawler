@@ -1,0 +1,28 @@
+
+En Barrabés Meaning estamos buscando Front-End con ganas de formar parte de nuestro equipo (estrategia, UX, visual, Back-End...), y que tenga pasión por el detalle. 
+Conocimientos imprescindibles:
+
+•	HTML/HTML5
+•	CSS/CSS3
+•	Más de 3 años de experiencia como Front-end manejando HTML,CSS, JavaScript.
+•	Nivel experto en JavaScript
+•	Manejo librerías JS tipo: jQuery, zepto, Backbone.js, Ember.js ...
+•	Conocimientos de SASS, y LESS
+•	Código semánticamente correcto y SEO friendly
+•	Manejo algún framework para generar estáticos: Nanoc, Middleman, Serve ...
+•	Experiencia en desarrollo para Móviles (responsive design) y multi-dispositivo, media-queries y optimización para entornos táctiles, crossdevice, etc.
+•	Desarrollo cross-browser.
+•	Uso de servidores de control de versiones SVN/GIT 
+•	Pasión por los estándares Web.
+Conocimientos deseables:
+•	 Librerías de visualización de datos 
+•	 Wordpress y  otros CMS 
+•	 Experiencia en desarrollo de newsletters 
+•	 Inglés fluido hablado y escrito
+También se valorarán conocimientos en: 
+•	 Sketch
+•	 UX 
+•	 Diseño Visual
+•	 PHP/Ruby/Python 
+•	 Manejo de bases de datos SQL
+

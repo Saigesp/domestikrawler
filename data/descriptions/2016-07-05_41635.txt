@@ -1,0 +1,8 @@
+
+En Napptilus Tech Labs buscamos una persona que pueda afrontar proyectos de diseño para APPS móviles. Con conocimientos de UX y UI, se encargaría de crear propuestas de diseño, prototipos de usabilidad y creación de los diseños de las pantallas, importante conocimientos de los distintos tipos de guidelines para Android y iPhone, con especial atención a las densidades de pantalla para assets y demás.
+Entre las características que nos gustaría encontrar son:
+-Trabajo con Sketch
+-Conocimientos de pack Adobe
+-Herramientas de prototipado como Invision
+-Conocimientos generales de Html y Css es un extra
+-Creatividad y funcionalidad

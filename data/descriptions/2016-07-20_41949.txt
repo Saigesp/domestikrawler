@@ -1,0 +1,8 @@
+
+En Lavinia Interactiva buscamos un perfil de maquetador web con 2 años de experiencia para incorporarse en nuestra plantilla en las oficinas de Barcelona.
+Su formación deberá ser de ​Técnico o Ciclo Formativo y realizará la maquetación completa de sites y newsletters.
+Requisitos técnicos:
+Dos años de experiencia en maquetación web (HTML5, CSS3), Javascript (JQuery, programación modular, patrones de diseño, etc).
+​Maquetación Responsive y e-mailings.
+Se valorará conocimientos del framework bootstrap y sobre control de versiones Git.
+Imprescindible nivel C de catalán.

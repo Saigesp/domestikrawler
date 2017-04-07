@@ -1,0 +1,16 @@
+
+Alfatec Sistemas, empresa líder en consultoría, desarrollo y mantenimineto de Sistemas de Información, busca para incorporar a su equipo de Marketing Online a un Desarrollador Web experto en Magento. El candidato formará parte de un equipo multidisciplinar, y de una joven empresa de más de 300 personas trabajadoras, con gran proyección de futuro.
+Estamos muy comprometidos con la actualización tecnológica de nuestros productos y en base a ello desarrollamos planes continuos de formación. Fomentamos y aplicamos políticas de conciliación de la vida laboral, personal y familiar, teletrabajo e igualdad.
+Competencias técnicas requeridas:
+- Conocimiento alto de Magento
+- Nivel alto en desarrollo en PHP y MySQL.
+- Maquetación CSS y jQuery.
+Competencias técnicas deseables:
+- Wordpress
+- Prestashop
+- Conocimientos en algún framework PHP
+Competencias personales:
+- Calidad humana
+- Capacidad de trabajo en equipo
+- Proactividad
+- Orientación positiva hacia la tarea

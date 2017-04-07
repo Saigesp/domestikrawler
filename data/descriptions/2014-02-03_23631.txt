@@ -1,0 +1,20 @@
+
+Desarrollador con al menos 2 años de experiencia en desarrollo de aplicaciones web, en especial en la parte back-end y con experiencia en el front-end.
+Trabajará en AudioSnaps, una red social de fotografías con sonido, ya activa pero para la que continuamente estamos desarrollando nuevas funcionalidades. La idea es que a corto/medio plazo pueda incorporarse al equipo.
+Lenguajes indispensables:
+PHP 5
+MySQL
+Javascript
+HTML
+CSS3
+Se valorará experiencia en:
+Framework Codeigniter
+Apis de Facebook y Twitter
+Responsive design
+jQuery
+Git
+Administración de servidores, SSH
+Sistemas de cacheo, Memcache
+Y nosotros, ¿quién somos? 
+AudioSnaps es una aplicación de fotografía que permite a los usuarios capturar 5 segundos de sonido a la vez que toma la fotografía. El resultado es capaz de capturar y transmitir las emociones y momentos de una forma más fiel y cercana a la realidad.
+En nuestra corta historia hemos conseguido miles de usuarios de todo el mundo y formar parte de la aceleradora de startups de Telefónica. Conócenos mejor en http://audiosnaps.com

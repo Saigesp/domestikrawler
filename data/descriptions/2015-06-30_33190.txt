@@ -1,0 +1,36 @@
+
+Hola a tod@s,
+Para mi cliente, una empresa ubicada en la magnífica ciudad alemana de Hamburgo, busco a un/a Desarrollador/a de Aplicaciones Web Java para trabajar en un equípo joven y amabla de 15 personas. 
+Se ofrece un ambiente de trabajo muy bueno, recumeración excelente y un contrato fijo.
+Es esencial hablar inglés B2/C1 o mejor para este puesto de trabajo.
+Hablar alemán no es esencial aunque el deseo de aprenderlo si lo es.
+Experiencia en el desarrollo de Software de 5 años o más.
+Requísitos:
+Debes concor la mayoría de estas tecnologías a nivél profesional:
+• Java / JEE
+• JPA / Hibernate
+• Spring / Spring-MVC
+• JavaScript
+• HTML
+• Less / CSS
+• JUnit
+• SQL / MySQL
+• Continuous Integration
+• SCM (Source Code
+Management) /
+VCM (Version Control Management)
+Y estas tecnologías de dan una ventaja en el proceso de selección:
+• Selenium or comparable test framework
+• JQuery
+• Bootstrap
+• require.js
+• Backbone
+• Lucene
+• Tomcat
+• Gradle
+• AspectJ
+• Scala
+• Tools for Bild Management,
+such as TeamCity • Mercurial
+• User Experience / Usabiliy-Design
+Para más información os ruego contactarme con vuestras preguntas.

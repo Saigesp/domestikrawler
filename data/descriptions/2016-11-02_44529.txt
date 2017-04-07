@@ -1,0 +1,21 @@
+
+Estamos buscando incorporar un developer de back end apasionado por el código, la escalabilidad y la comunicación. Una persona proactiva, creativa y curiosa. Incorporación a equipo multidisciplinar, orientado al objetivo y muy flexible. Nos gusta disfrutar de la tecnología.
+El día a día, dependerán del senior developer y se encargará del:
+•	Mantenimiento del actual backend basado en ejabberd(95%) y php(5%) y monitorización del mismo proponiendo posibles mejoras de rendimiento
+•	Migración de la instalación actual de ejabberd(monolítica) a un clúster autoescalable  con varios nodos
+•	Desarrollo de nuevos módulos ejabberd para soportar las nuevas funcionalidades que vayan surgiendo
+•	Desarrollo de nuevas apis REST 
+•	Configuración y mantenimiento del sistema de integración continua tipo Jenkins
+•	Elaboración de la documentación técnica.
+Lo que estamos buscando: 
+•	Espíritu emprendedor y ganas.
+•	Experiencia de 1 - 2 años en ejabberd y el lenguaje de programación erlang
+•	Experiencia en el desarrollo de apis REST.
+•	Conocimientos de sistemas de control de versiones, preferiblemente GIT.
+•	Experiencia con la metodología  desarrollo TDD
+Lo que ofrecemos: 
+•	Salario en función de la experiencia: fijo + variable + participación en la startup.
+•	Contrato indefinido y jornada completa.
+•	Horario flexible y posibilidad de teletrabajo.
+•	Equipo con muy buen rollo y que de vez en cuando se va a tomar burgers ;-)
+

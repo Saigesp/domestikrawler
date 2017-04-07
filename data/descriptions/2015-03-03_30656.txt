@@ -1,0 +1,15 @@
+
+Deseamos incorporar en nuestras oficinas centrales de San Fernando de Henares, Madrid, un Responsable de Producción y Montaje digital que se incorporará a nuestro equipo para realizar y coordinar la producción de componentes (interna y externamente) y su posterior integración (montaje) en los productos digitales
+Responsabilidades:
+    Coordinación y producción de los componentes de un proyecto de contenidos con tecnologías web.
+    Montaje, carga de contenidos y pruebas de los componentes en entorno de desarrollo.
+    Mantenimiento de productos (correcciones / actualizaciones).
+Requisitos mínimos:
+    Ciclo Formativo Grado Superior Tecnología, Diseño.
+    Experiencia de al menos 3 años en la producción de componentes con tecnologías web.
+    Conocimiento de tecnologías web (HTML5, CSS3, JS) y del estandar de empaquetado IMS SCORM.
+    Herramientas de empaquetado IMS SCORM (Reload).
+    Conocimientos de diseño y maquetación web responsive (html5, css3 y javascript).
+    Manejo del software de edición de imágenes, audio, vídeo y animación.
+    Herramientas de producción web (Suite de Adobe, editores HTML, XML, JSON).
+    Atención al detalle, precisión, orden y fiabilidad.

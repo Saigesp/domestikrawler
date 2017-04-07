@@ -1,0 +1,26 @@
+
+Perfil
+En Omitsis estamos buscando programadores web para ampliar nuestro equipo técnico de desarrollo. Buscamos personas capaces de trabajar en equipo, que sean comprometidos y proactivos, que no les asuste enfrentarse a nuevos retos tecnológicos. Se incorporaría en un equipo muy cualificado y apasionados del mundo web, que participa activamente en el desarrollo de un importante start-up (Nou-u) con proyección internacional.
+Necesitamos personas con experiencia y que cumplan ciertos requisitos: 
+Requisitos
+1-3 años de experiencia en desarrollo con PHP
+Conocimiento en POO
+Experiencia con frameworks MVC (Symfony 2)
+Experiencia con MySQL
+Nivel alto de HTML, CSS y JS
+Experiencia en entornos Linux
+Experiencia en CVS
+Valoraremos
+Experiencia en Symfony2
+Experiencia en jQuery
+Experiencia en LESS
+Haber trabajado con GIT
+Conocimientos en Bases de datos NoSQL (MongoDB)
+Experiencia trabajando con plantillas (Twig, Smarty..)
+Se valorara muy positivamente ejemplos de trabajos realizados, así como proyectos propios y trabajos en los que hayas participado.
+Ofrecemos
+Jornada laboral completa presencial
+Horario flexible
+Sueldo según valía del candidato
+Trabajar en el centro de Barcelona
+Trabajar en un equipo innovador, multidisciplinario y con pasión por Internet. Utilizar y aprender nuevas tecnologías.

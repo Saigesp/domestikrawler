@@ -1,0 +1,15 @@
+
+Fundada en septiembre de 2009, LetsBonus es una de las mayores webs de comercio electrónico de nuestro país, además de la compañía de compra colectiva pionera en Europa y líder en España con 8 millones de subscriptores y 15.000 comercios colaboradores. Actualmente, la compañía se ha convertido en uno de los más completos marketplaces de planes de ocio y experiencias de nuestro país, con una selección diaria de más de 2.000 propuestas de gastronomía, belleza, cuidado personal, espectáculos, viajes y escapadas, formación y producto, entre otros, con descuentos de en torno a un 70%. La empresa cuenta con un equipo de unos 200 empleados, está presente en 93 localidades españolas y opera en Italia, Portugal y Chile. En 2016 LetsBonus ha pasado a formar parte de un grupo de empresas de e-commerce junto con Groupalia, Offerum y Ofertix, entre otras.
+Para formar parte de nuestro equipo de empresas de E-Commerce seleccionamos un Ingeniero/a QA Testing en Mobile Apps. 
+Tus principales responsabilidades serán: 
+- Análisis de especificaciones con desarrollo y diseño. 
+- Validación y detección de errores 
+- Diseño de los casos de prueba que garanticen el correcto comportamiento de la funcionalidad. 
+- Ejecución de pruebas funcionales y análisis de resultados. 
+- Gestión de defectos reportados. 
+- Trabajar dentro del equipo al lado del Product Owner, Diseño y desarrollo mobile para una fluida y completa comunicación.
+Ideal formación en Ingeniería Informática o conocimientos técnicos mínimos similares y experiencia en testing funcional, pruebas de software, definición de test plan, gestión de defectos.
+Buscamos personas comprometidas, adaptables, organizadas con capacidad de trabajar en equipo y buenas habilidades de comunicación.
+Una de las características más importantes que se valorará es la pasión por el mundo mobile, el compromiso, las ganas de aprender y crecer dentro del equipo.
+Ofrecemos incorporación inmediata, posibilidad de jornada parcial, formación continua y posibilidades de promoción en una empresa muy dinámica y en continua expansión donde tenemos varias apps en producción con un gran número de usuarios activos día a día.
+

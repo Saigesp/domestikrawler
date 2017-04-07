@@ -1,0 +1,9 @@
+
+Estamos buscando programadores/ingenieros con experiencia profesional en la programación de aplicaciones iOS nativas para formar parte de nuestro equipo de desarrollo o realizar programación de productos puntuales relacionados con libros de texto digitales y la educación en general.
+El candidato que buscamos deberá tener conocimientos de XCode y/o lenguajes de programación que permitan la codificación de aplicaciones para los diferentes sistemas operativos de Apple. Se valorarán además otros conocimientos como JavaScript, CSS 3, HTML5, JSON, Angularjs, jQuery, así como otras capacidades desde el punto de vista de  la accesibilidad y la usabilidad y el interés por aprender nuevos lenguajes.
+Entre sus funciones deberá:
+1.	Contribuir en el desarrollo de la Interfaz de usuario o contendedores de otras aplicaciones, teniendo capacidad para crear especificaciones y aportar soluciones.
+2.	Tener siempre en mente la Usabilidad.
+3.	Responsabilizarse de la arquitectura
+4.	Encargarse del desarrollo multidispositivo (con funcionamiento en las diferentes versiones activas de los diferentes dispositivos Apple)
+5.	Interés por el desarrollo multiplataforma y multisistema.

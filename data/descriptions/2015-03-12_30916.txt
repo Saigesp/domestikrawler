@@ -1,0 +1,7 @@
+
+Only apply if based in Barcelona
+Design of company website including logo, look etc.
+- HTML
+- CSS
+- Javascripy
+- Photoshop

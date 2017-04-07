@@ -1,0 +1,27 @@
+
+Descripción de la oferta:
+Precisamos incorporar un programador PHP, para el desarrollo de un nuevo proyecto online.
+Participará en el diseño e implementación del mismo.
+Freelance o plantilla. 
+Trabajo semipresencial.
+Requisitos mínimos:
+•	Dominio de maquetación bajo estándares XHTML - CSS3.
+•      Conocimientos de Wordpress y/o Drupal
+•	Dominio de PHP5
+•	Dominio de Javascript
+•	Dominio de JQuery
+•	Dominio de AJAX
+•      Conocimientos de reproductores opensource tipo Kaltura o Flowplayer.
+Conocimientos deseados:
+•	HTML 5 - CSS3
+•	MySQL 5
+•	Otros plugins de javascript
+•	APIs  redes sociales
+•	Implementación de pasarelas de pago.
+•	Programación orientada a redes sociales. 
+•	SEO (Optimización de motores de búsqueda)
+¿Qué ofrecemos?
+Trabajar en una agencia joven, con muchas ganas de seguir creciendo.
+Horario flexible y autogestión del tiempo.
+Retribución en función de la valía del candidato.
+

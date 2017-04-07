@@ -1,0 +1,11 @@
+
+Mycvbook es una startup dedicada a desarrollar y comercializar una innovadora plataforma de reclutamiento.
+Buscamos a un desarrollador web con experiencia, iniciativa y carácter innovador para desarrollar nuevas funcionalidades de la plataforma, mejoras y mantenimiento en general.
+Los requerimientos fundamentales para esta posición son:
+- PHP: 5.3
+- Mysql: 5.1
+- Framework: Codeigniter 2.1
+- Database queries: Active Record incluido en Codeigniter
+- Javascript: 1.8.5
+- CSS 3 
+Interesados mandadme un email y daré más detalles.

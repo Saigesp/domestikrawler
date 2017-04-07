@@ -1,0 +1,12 @@
+
+Estamos buscando un desarrollador de aplicaciones móviles especialista en Realidad Aumentada. Con experiencia en integración de la api Vuforia en Xcode y Android nativo, así como integración a través de Unity 3d.
+Requisitos:
+- Aptitudes para trabajo en equipo.
+- Conocimientos de Java y Objective C.
+- Conocimientos de Unity 3D a nivel de desarrollo.
+- Conocimientos de Vuforia.
+- Conocimientos bàsicos de 3D.(3dsmax).
+Se ofrece:
+- Posibilidad de integrarse en una empresa tecnológica en vías de gran desarrollo.
+- Proyectos atractivos de vanguardia tecnológica.
+- 37 horas semanales.

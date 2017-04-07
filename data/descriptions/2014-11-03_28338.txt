@@ -1,0 +1,17 @@
+
+Actividad de la empresa:
+Start-up de venta online, especializada en el sector de la motocicleta, con distintas líneas de negocio, se encuentra en expansión nacional e internacional. 
+Posición:
+Android developer
+Experiencia:
+- Experiencia de al menos dos años desarrollando aplicaciones para Android (Java, C#, C). Se valorará tener publicadas aplicaciones en la Google Play. 
+- Experto en frameworks multiplataforma (Cocos2D, CoronaSDK, Unity3D...)
+- Despligue y publicación de apps
+- Experiencia con notificaciones push
+- Sensible al diseño, funcionalidad y elegancia
+Formación:
+- Ingeniería informática
+- Formación especializada en desarrollo mobile
+Proyecto que ofrecemos:
+- Incorporarse a una empresa e-commerce, con presencia internacional y con crecimiento
+- Posición temporal (3-4 meses mínimo). Opción de contrato de freelance o bien contrato temporal.

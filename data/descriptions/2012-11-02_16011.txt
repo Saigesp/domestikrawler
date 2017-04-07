@@ -1,0 +1,14 @@
+
+¿Te imaginas poder obtener con un sólo clic información acerca de cualquier elemento (producto, lugar, persona, ...) que aparezca en un vídeo online, e interactuar con él?
+¿Y si además pudieras añadir esta extraordinaria funcionalidad a tus vídeos online, de una manera fácil, rápida e intuitiva? No lo imagines ... Eso es The Mad Video.
+The Mad Video es la plataforma para etiquetar y añadir información adicional a cualquier elemento que aparezca en un vídeo online. The Mad Video es el hipertexto del vídeo, The Mad Video es HIPERVIDEO.
+Buscamos incorporar un Maquetador Web - Desarrollador Front End dentro de un ambicioso proyecto internacional en el ámbito del video online interactivo.
+Ofrecemos un proyecto apasionante, un ambiente de trabajo motivador y un equipo implicado en el éxito del proyecto, esperamos de ti como candidato que puedas aportar una amplia capacidad de trabajo orientada a objetivos además de abordar retos técnicos y definir soluciones. 
+Requisitos mínimos:
+· Experiencia demostrable como maquetador y desarrollador web
+· Experto en W3C, XHTML, HTML 5, CSS3, JavaScript , AJAX y PHP
+· Capacidad de aprendizaje, alto nivel de autonomía y capaz de trabajar en equipo
+Requisitos deseables: 
+· Se valorará positivamente experiencia demostrable con los siguientes frameworks: Bootstrap, RequireJS y KnockoutJS
+· Conocimientos de programación en Flash
+· Experiencia demostrable en metodologías ágiles de desarrollo

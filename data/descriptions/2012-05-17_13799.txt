@@ -1,0 +1,7 @@
+
+Somos una red social para músicos y buscamos un programador con experiencia en PHP 5.3, bases de datos MySQL y buen nivel de JQuery, js, css y html.
+Que sepa gestionar proyectos desde una primera fase de programación.
+Es imprescindible tener conocimientos en PHP orientado a objetos y haber trabajado con algún tipo de Framework (Zend, Joomla, etc.).
+Tener conocimientos demostrables de SEO será un factor importante a tener en cuenta.
+Trabajamos con el sistema de control de versiones Subversion.
+Importante saber trabajar en equipo.

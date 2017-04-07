@@ -1,0 +1,15 @@
+
+Buscamos un programador para incorporarse a nuestro equipo para trabajar desde nuestras oficinas en el centro de Barcelona.
+Necesitamos:
+- Experiencia en desarrollo frontend y backend
+- Dominio HTML, CSS, Javascript (AJAX, jQuery), PHP y MySQL.
+- Dominio en desarrollo WordPress ( capacidad para crear plugins y temas).
+Valoraremos muy positivamente que tenga:
+- Conocimientos de entornos eCommerce (WooCommerce / Prestashop).
+- Conocimientos de SEO. 
+¿Qué ofrecemos?
+- Un entorno de trabajo agradable. Tenemos una oficina muy chula en el centro de Barcelona (al lado de Plaza Catalunya). 
+- Contrato a jornada completa
+- El sueldo es negociable en función de los conocimientos, pero estaría alrededor de los 22.000-24.000 euros anuales, revisable al primer año.
+- A nivel de horario, somos una empresa flexible, siempre y cuando el trabajo salga. Si nos organizamos, tendremos tiempo de hacer de todo!
+

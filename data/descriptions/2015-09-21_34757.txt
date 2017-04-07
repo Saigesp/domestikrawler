@@ -1,0 +1,6 @@
+
+Hola! en ALPUNTODESAL estamos buscando incoporar un programador@.
+Queremos un desarrollador@ plataforma LAMP, con conocimientos de gestión de servidores VPS linux, apache, mysql y Php.
+Conocimientos de css, javascript, jquery, bootstrap diseño responsive & media queries.
+Sobre todo nos interesa encontrar a una persona con conocimiento de Wordpress a nivel de programación, customización de plantillas y/o plugins, WPML & custom post type.
+Queremos una persona resolutiva y con buena capacidad de análisis.

@@ -1,0 +1,21 @@
+
+Trovit is a classified ads search engine based in Barcelona, Spain. It was founded in 2006 and has constantly grown; it is now present in 43 countries with 4 verticals: homes, cars, jobs and products.
+We are looking for an Email Developer to join our Alerts team. You will be in charge of coding and testing a high volume multi-platform email templates so they can correctly reach out our email clients. You will be part of an agile and fast paced technical team having a direct impact on the performance improvement.
+This challenging position is full-time and based in Barcelona
+You will work in a dynamic, creative and innovative environment. We use the newest technologies in our field on a day-to-day basis, in a high-traffic setting with a global philosophy. We’re crazy about the Internet and we love to learn new things every day as well as at conferences and industry events.
+What you will do:
+Improvement of various multiplatform email templates 
+Coding and testing of A/B tests 
+Analyze A/B tests results and deliver new action plan 
+Dealing with a high volume daily email delivery 
+Deliver and developing reports, metrics that will present insights to the team 
+Identify and escalate issues and opportunities to help to improve performance
+
+Requirements:
+
+2+ years of experience as a front-end developer specialized in email 
+Good technical skills: HTML, CSS, Tuic, Litmus 
+Solid experience in metrics and high number of daily email delivery 
+Experience in dealing with email providers 
+Flexible and able to adapt to a fast paced organisation
+Proactive, problem solver and work as a team player

@@ -1,0 +1,16 @@
+
+El candidato seleccionado, reportando al CTO de la compañía, se responsabilizará de las siguientes funciones:
+Liderar proyecto de migración de versión de Magento
+Desarrollo de módulos y proyectos para los diferentes departamentos y la web
+Implementación de nuevas funcionalidades en backend
+Soporte técnico a los diferentes departamentos de la empresa
+Optimización de clases y módulos existentes
+Mejora y optimización de base de datos (MYSQL)
+REQUISITOS 
+Experiencia de 3 años en e-commerce o sites de alto rendimiento
+Imprescindible altos conocimientos php (OOP) / mysql
+Valorables conocimientos Memcached y Vamish
+Valorables conocimientos Jquery y prototype 
+Nivel de inglés avanzado.
+COMPETENCIAS
+En cuanto a competencias personales, la persona que se incorpore debe contar con un perfil proactivo y dinámico, motivado por crecer dentro de un equipo tecnológico. Deberá aportar nuevas ideas o propuestas para crecer junto al resto del equipo y estar al día de las últimas tecnologías.

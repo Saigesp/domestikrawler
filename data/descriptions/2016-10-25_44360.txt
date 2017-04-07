@@ -1,0 +1,14 @@
+
+En Código Media buscamos un Desarrollador web de backend al menos 2-3 años de experiencia, que sienta pasión e ilusión por su trabajo, que trabaje de forma rápida y resolutiva para trabajar en en nuestro departamento de desarrollo tecnológico.
+Requisitos:
+ - Experiencia demostrable de al menos 2-3 años.
+- Experiencia en entornos LAMP 
+- Experiencia en desarrollo sobre WordPress (plugins, modificación de plantillas, etc) 
+- Conocimientos de frontend (HTML5, CSS3, Javascript, responsive) 
+- Desarrollo de apps móviles (nativas o híbridas)   
+Se valorará: 
+- Experiencia con otros CMS como Drupal Experiencia con plataformas de eCommerce (PrestaShop, Magento…) o de formación (Moodle)
+- Experiencia con frameworks de javascript (Node.js, React.js, Angular.js, Ionic, Meteor, Ember…)
+Te ofrecemos:
+Trabajar en una agencia joven, dinámica, con grandes clientes, en el centro de Madrid, con un contrato indefinido, en un gran ambiente de trabajo y un sueldo acorde con tu experiencia.
+Abstenerse personas que no cumplan el perfil.

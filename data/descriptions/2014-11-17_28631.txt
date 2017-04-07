@@ -1,0 +1,30 @@
+
+AKTIOS CONSULTORA IT de Barcelona, actualmente requiere un perfil TÉCNICO DE SISTEMAS para trabajar en el departamento de Informática de una empresa reconocida a nivel internacional. Por nuestra parte, explicarte que somos una Consultora IT que trabaja con diferentes empresas y sectores. 
+Descripción:
+El Experto en sistemas deberá responsabilizarse de:
+-        Mantenimiento y solución de problemas de los entornos de desarrollo, ofreciendo soporte a los equipos de programadores y coordinando acciones técnicas de los administradores. 
+-        Creación y mantenimiento del flujo de datos en los entornos de desarrollo, que permita realizar pruebas funcionales completas.
+-        Conocimiento end-to-end de grandes proyectos para facilitar las puestas en producción, participando en las mismas.
+-     Participar en la reunión de demanda técnica. Conocer, participar y aportar mejoras técnicas.
+-           Validación funcional de servidores. Validar visibilidades y servicios de un nuevo servidor
+Requisitos:
+Conocimientos sólidos en: 
+- Mantener los entornos no productivos para que aporten el máximo valor al ciclo de desarrollo.
+- Monitorización y control de los sistemas de explotación (hardware, sistemas operativos y aplicaciones).
+- Conocimientos en programación .NET.
+- Desarrollo de evolutivos y correctivos de las plataformas web y  aplicaciones de los servidores de producción.
+Probada experiencia en:
+- Administración de sistemas y configuración de los siguientes entornos: Windows 2003, Windows 2008, Linux
+- Troubleshooting de comunicaciones y rendimiento
+Protocolos de comunicación: Http/Https/TcpIP
+- Conocimientos en IOPs / PnPs y de más entornos a cloud Amazon	
+
+El experto en sistemas tiene que presentar un perfil híbrido basado en conocimientos de administración de sistemas y conocimientos en programación .NET.
+Aportar habilidades interpersonales suficientes para coordinar a técnicos y responsables del área de desarrollo para conseguir recursos.
+Te ofrecemos:
+• Estabilidad laboral.
+• Perspectivas de crecimiento y proyección profesional.
+• Oportunidad de integrarte a un equipo de profesionales altamente cualificados.
+• Incorporarte en un equipo joven y entusiasta.
+• Salario a negociar en función de la valía y experiencia.
+Si eres una persona entusiasmada por las tendencias tecnológicas, comunicativa, con capacidad de análisis y gestión eficaz del tiempo, resolución de problemas técnicos/humanos complejos, iniciativa, organización, coordinación y que sepa trabajar en equipo, eres el candidato/a que estamos buscando.

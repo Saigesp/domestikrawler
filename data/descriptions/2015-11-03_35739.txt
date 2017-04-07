@@ -1,0 +1,15 @@
+
+Si eres estudiantes de Ingeniería en Informática, Máster o carreras relacionadas y tienes vocación para desarrollar tu potencial en el mundo tecnológico, Snackson te ofrece la posibilidad de realizar prácticas con altas posibilidades de unirte a un proyecto innovador.
+Ámbito de desarrollo: desarrollo de prototipos interactivos.
+Conocimientos técnicos necesarios:
+- Programación orientada a objetos.
+- Lenguaje de programación Java o C#
+- Aplicación de patrones de diseño en el proceso de desarrollo del software.
+Requisitos deseables:
+- Conocimientos sobre el Microsoft .NET Framework
+- Uso del entorno de desarrollo Visual Studio
+- Uso del entorno de diseño de interfaces de usuario Expression Blend.
+- Uso de Team Foundation Server (TFS) o Git, como repositorio de versiones.
+- Uso de tecnologías Microsoft tanto a nivel de sistemas como de desarrollo.
+Jornada:
+- Media jornada, preferentemente por las mañanas de 9 a 13:30

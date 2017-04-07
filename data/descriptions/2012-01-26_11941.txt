@@ -1,0 +1,17 @@
+
+Estamos buscando un Programador con experiencia demostrada para cubrir el aumento de la demanda de los trabajos de la agencia.
+
+Experiencia mínima: Al menos 2 años
+Imprescindible: 
+- Dominio de PHP5 y MySQL - nivel medio-alto 
+- Flash/Flex con AS3 
+- Uso de Frameworks de PHP  (preferiblemente Codeigniter) 
+- Javascript con jQuery 
+- XHML semántico 
+- CSS 
+Se valoraran: 
+- Conocimientos de AS3, FLEX, ASPX, .NET, configuración de entornos LAMP e IIS, 
+- Capacidad aprendizaje y trabajo en equipo. 
+- Programación Internet para teléfonos móviles (iPhone, Android, etc...)
+Se trata de una oferta para incorporación a la agencia en jornada completa.
+

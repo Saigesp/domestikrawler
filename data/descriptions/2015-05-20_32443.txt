@@ -1,0 +1,15 @@
+
+Genomcore es una start-up de alto potencial y reconocimiento dedicada a la genómica computacional. Nuestro objetivo es que cualquier persona pueda acceder a la información contenida en su ADN de forma segura y controlada. Al mismo tiempo dotamos a los profesionales de la medicina e investigadores de herramientas de primer nivel para ofrecer al cliente final soluciones personalizadas en salud y bienestar.
+Buscamos incorporar una persona con talento y pasión por la tecnología y el diseño para jugar un rol central en la empresa. Sus responsabilidades a corto plazo incluyen el diseño y desarrollo de un canal de comunicación on-line basado en web (web corporativa, e-commerce, sitio de usuario).
+REQUISITOS
+Solvencia en diseño HTML y CSS (mínimo 4 años de experiencia)
+>	Solvencia en programación PHP y/o Java y/o Node.js
+>	Solvencia en desarrollo sobre sistemas Unix (bash, git, svn...)
+>	Experiencia en frameworks (JQuery, Bootstrap, Foundation, etc.)
+Excelente domino de inglés y español, hablado y escrito. Catalán valorable.
+Se valorará experiencia en desarrollo mobile (responsive web o apps iOS/Android)
+Personalidad adaptable, creativa y autosuficiente (pero que le guste trabajar en equipo)
+SE OFRECE
+Incorporación inmediata al equipo de Genomcore
+Contrato indefinido con plan de carrera en función del perfil
+Formación continua en un motivador y privilegiado entorno de Barcelona

@@ -1,0 +1,22 @@
+
+Desde Kubide estamos buscando continuamente nuevos talentos que quieran ser parte de nuestro equipo de trabajo y que quieran formarse en nuevas tecnologías con una de las empresas más puntera y divertida del sector. 
+Kubide es una empresa joven centrada en el desarrollo e inversión en startups, el cual es un sector lleno de novedades y retos que hacen que todos los días se aprenda algo nuevo y donde todos los días se nos pone a prueba con respecto a las últimas tecnologías, nunca dejamos de aprender e innovar!
+Actualmente estamos buscando un desarrollador que quiera unirse con nosotros para formarse en la parte de frontend. 
+Buscamos a alguien que sea proactivo, que le guste el mundo de lo visual y que tenga ganas de ponernos contra las cuerdas con dudas, preguntas y sugerencias. Alguien al que enseñar, pero también del que aprender.
+Dentro del área de frontend, el candidato se formará, entre otras, en las siguientes áreas (por lo que se agradece algún conocimiento previo o interés en estos temas) 
+UX
+- Prototipado.
+- Diseño de interfaces
+- Gusto por el trabajo fino! Atención al detalle
+- QA final de los proyectos.
+HTML5 y CSS3:
+- maquetación CSS3
+- marcado HTML5 semántica
+- Diseño responsive
+- Uso de frontend frameworks (bootstrap entre otros)
+Javascript:
+- Javascript nativo.
+- jQuery
+- jQuery Mobile
+- AngularJS
+El horario será flexible, y serán en total 34 horas semanales. Aunque esto también dependerá de la disponibilidad del candidato.

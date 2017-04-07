@@ -1,0 +1,11 @@
+
+Somos una startup que está dando sus primeros pasos, actualmente estamos buscando un colaborador freelance a tiempo parcial, que pueda formar parte de nuestro equipo en un futuro.
+¿Qué buscamos?
+- Experiencia demostrable en desarrollo de aplicaciones frontend/backend
+- Amplia experiencia con Django y Python
+- Experiencia trabajando en entornos con control de versiones GIT
+- Administración Linux y conocimientos de shell script
+- Conocimientos de  MySQL y sistemas NoSQL
+Además, también se valorarán:
+- Facebook connect, Google Maps API, Bootstrap
+- Conocimientos de XML, json, jQuery, HTML5 y CSS3

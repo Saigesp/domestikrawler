@@ -1,0 +1,6 @@
+
+We are looking for Flash developer to form part of our team.With us you will be developing web applications and mobile apps for ios and android.
+You should be a master of: AS3 (flex knowledge is a plus), OOP, MVC (experience in Robotlegs as a great plus), Greensock tweeting engine, Away 3D or Alternativa.
+Tools: Flash Builder, Flash Professional.
+Desired are Experiences in: building mobile Applications with AIR-projects built with Straling and Stage 3D-Flexunit testing, Flash Media Server (2p2, live streaming, data streaming)
+To apply send us your CV and portfolio-site with examples of your work or links to them.

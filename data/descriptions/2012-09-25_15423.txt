@@ -1,0 +1,15 @@
+
+Queremos unir al equipo un Desarrollador Web con experiencia de al menos 2 años en entornos J2EE.
+  - Apache Tomcat
+  - GWT (Google Web Toolkit), Vaadin
+  - Base de Datos PostgreSQL
+  - HTML5, CSS3, jQuery
+Si además tienes experiencia o has trabajado con:
+  - Desarrollos móviles para Android y/o iOS.
+  - OpenSSL
+  - Maven o Ant
+, eres la persona que necesitamos!
+Buscamos una persona dinámica, que le apasionen los retos, independiente y resolutiva.
+Entre tus tareas, serás el responsable de aportar nuevas ideas y realizar mejoras en el proyecto, así como liderar la relación con posibles colaboradores externos.
+Estamos interesados en freelance con posibilidades a corto plazo de entrar en plantilla. 
+

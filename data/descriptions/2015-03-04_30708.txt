@@ -1,0 +1,22 @@
+
+Wiva, agencia digital fundada en 2008 desea incorporar a su equipo un desarrollador Back-End experto en PHP/MySQL...
+Requisitos
+- Experto en desarrollos Back-End basados en PHP/MySQL
+- Experto en el desarrollo ad hoc y adaptación de temas y plugins de Wordpress
+- Experiencia en desarrollos Front-End basados en HTML5/CSS3/jQuery
+- Experiencia en desarrollos Front-End responsive
+- Experiencia en desarrollos escalables sobre Cloud y, en concreto, sobre Amazon EC3 y S3. Se valorarán otras plataformas como Pagoda Box.
+- Actitud proactiva, resolutiva y enorme motivación para seguir aprendiendo e investigando nuevas soluciones.
+- Perfecta organización del trabajo
+Deseable
+- Experiencia en frameworks como Codeigniter
+- Experiencia en gestión de proyectos y tecnologías ágiles de desarrollo
+- Experiencia trabajando con Git
+- Experiencia con otros CMS como Drupal y Prestashop
+- Conocimientos de AS2/AS3 y creación de piezas Richmedia para Mediamind y DoubleClick
+Ofrecemos
+- Contrato indefinido con jornada completa en horario flexible
+- Poder crecer profesionalmente dentro de una pequeña agencia de publicidad en pleno auge, con grandes clientes y un prometedor futuro ayudando a crear el equipo de desarrollo
+- Inmejorable ambiente de trabajo
+- Oficina céntrica entre las oficinas de Nuevos Ministerios y Cuatro Caminos
+

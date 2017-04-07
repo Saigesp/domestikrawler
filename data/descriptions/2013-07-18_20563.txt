@@ -1,0 +1,11 @@
+
+aTICser Consulting, es un grupo que desarrolla su actividad en TIC. Ampliamos nuestro equipo de proyectos internacionales (con base en Barcelona) para el desarrollo de diferentes proyectos multiplataforma orientado a entornos financieros en últimas tecnologías (front-end, tecnologías Web 2.0, portals y movilidad)
+Aportar experiencia en: 
+- Desarrollos con tecnologías JEE (Servlets, JSP, JDBC, JAX-WS, ...)
+- EntorFrameworks Open Source (Spring Framework, Hibernate, ...)
+- Últimas tecnologías web (HTML5, CSS3, Ajax, JSON, jQuery, Dojo, ...)
+Requisitos deseados: Se valorarán conocimientos de:
+- Webservices con AXIS y/o CXF
+Idiomas: preferible inglés.
+Ganas de evolucionar en las diferentes plataformas. 
+

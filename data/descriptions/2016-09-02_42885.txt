@@ -1,0 +1,18 @@
+
+En atSistemas, somos 800 profesionales dedicados desde 1994, a la consultoría, servicios de Tecnologías de la Información y desarrollo de software. Nuestros más de 20 años de experiencia, nos han convertido en uno de los principales referentes del mercado. Combinamos nuestra especialización en tecnologías de vanguardia con un amplio conocimiento de los retos de negocio de nuestros clientes.
+Más de 300 importantes Compañías, tanto nacionales como internacionales, representantes de todos los sectores de actividad, han confiado en nosotros para ofrecerles soluciones innovadoras y acompañarles en su transformación tecnológica.
+Desde nuestras oficinas de Madrid, Barcelona, Cádiz, A Coruña y Zaragoza, realizamos proyectos de arquitectura, desarrollo, integración de sistemas y servicios gestionados, adoptando y promoviendo las mejores prácticas del mercado. También trabajamos en proyectos internacionales en otras localizaciones como Rumanía, UK, Portugal, Alemania, Suecia, Italia, entre otras.
+Seleccionamos dos Maquetadores web con experiencia de al menos 3 años por ampliación de equipo en uno de nuestros clientes situado en la zona de Plaza de Castilla.  Si te gusta la maquetación con CSS nativo sin Bootstrap ni Jquerys... este es tu sitio!
+Qué ofrecemos?
+- Contrato indefinido
+- Salario a negociar más retribución flexible
+- Ambiente distendido con grandes profesionales 
+- Carrera profesional dentro del ámbito técnico
+- Cursos de formación en tecnologías e idiomas
+De qué te encargaras?
+Creación de estructuras con Html 
+Maquetación con Css nativo
+Adaptación web a multidispositivos (RWD)
+Realización de animaciones y transiciones
+Y si te gusta aprender, también te formaran en frameworks de Javascript, concretamente PolymerJs
+

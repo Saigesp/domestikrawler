@@ -1,0 +1,17 @@
+
+Just Landed (http://www.justlanded.com) is creating the online destination for the 200 million plus people in the world who are moving country or live abroad. We’re looking for brilliant people who want to grow with our project and build a true market leader. Your work will get in front of 2 million visitors a month. We have flat hierarchy in the team and the atmosphere is start-up, not "big company". Development is all based in our office in Madrid, which has a garden with a barbecue in it ;)
+Currently we can only consider candidates who can legally work in the EU. 
+If you are looking for a challenging environment where you can develop professionally and build technology which people use and enjoy, we want to talk to you.
+What are we working with?
+Ruby / Rails, Python, Git, Cucumber, Rspec, Selenium, Memcached, Squid, Capitstrano, Hudson, Redmine, Google App Engine, Amazon EC2 and S3, and a bunch of other stuff.
+What should you already know?
+You are not expected to be an expert in all of the following, but you should have basic competence in: Unix / Linux environment, relational databases, HTML, CSS and JavaScript, HTTP protocol, etc. You should be able to defend yourself from different browsers and be able to make a good attempt at conceptualising how UI and user workflow should work for individual processes.
+Do I need to know Ruby on Rails?
+We are developing on Ruby on Rails, so experience with Rails is preferred. We will consider candidates with a high level of competence in another web development framework. You should have a broad knowledge of programming concepts (classes, inheritance, coding practices, etc) and be capable of producing high-quality functional, maintainable and logical code.
+Who we are looking for?
+We have several positions open so we are recruiting from senior/experienced developers down to high-potential individuals with little experience. What all candidates will have in common is a passion for software development and a strong appreciation of the importance of the user experience. You have to be able to learn quickly, communicate well and co-operate effectively in a team.
+I'm a Frontend Developer - does this fit?
+Yes. We have open positions for Web Designer / Frontend Developers. This position does not require all of the programming skills above, but it does require a high level of proficiency with HTML, JavaScript, CSS and extensive UI experience on complex web applications. If you are more of a designer, this is not a fit.
+Which languages do we speak in the office?
+Twelve nationalities in the office means the common language is English. You should be able to write and speak to a level where you can communicate clearly, but fluency is not a requirement. Knowledge of Spanish is not a requirement.
+

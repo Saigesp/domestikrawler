@@ -1,0 +1,10 @@
+
+Diseño y maquetación de páginas webs, tiendas online y proyectos web.
+Requisitos Básicos:
+- XHTML/CSS
+- Diseño Web orientado a la Usabilidad
+- Manejo y adaptación de scripts de jQuery
+- Manejo de Photoshop y maquetación de PSD a web.
+- Compatibilidad con distintos navegadores
+- Utilización de jquery y/o similares
+

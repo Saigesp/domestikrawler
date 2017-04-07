@@ -1,0 +1,13 @@
+
+Buscamos seniors PHP/Symfony freelances para desarrollar  módulos de una aplicación ecommerce existente. Trabajo en remoto. Modelo de trabajo por objetivos. Imprescindible poder presentar factura.
+Requisitos:
+PHP
+Symfony
+Sonata
+Twig
+Git
+Pull Request (code reviews)
+Continuous  integration
+Agile
+Deseable:
+Experiencia en ecommerce.

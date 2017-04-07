@@ -1,0 +1,3 @@
+
+Adaptación / creación de plantillas. JavaScript / JQuery.
+Necesito un programador para modificar y/o crear unas plantillas JavaScript / JQuery para aplicarlas en un entorno IBM SPSS Data Collection.

@@ -1,0 +1,14 @@
+
+Somos una compañía de servicios online para agencias de viaje y líneas aéreas. Estamos buscando para nuestro equipo de IT incorporar a desarrolladores web.
+Responsabilidades: 
+• Contribuir al desarrollo de servicios Web y Backend en Python o Php
+• Desarrollo de componentes de frontal en HTML, CSS, Javascript, etc. 
+• Contribuir a la evolución de nuestra plataforma y producto
+• Ayudar a la operación y mantenimiento de nuestros servicios
+• Análisis de nuevos requerimientos, estimaciones de tiempos y sugerir mejoras
+• Contribuir a la documentación y base de conocimiento 
+• Realizar pruebas y casos de prueba
+Conocimientos y experiencia 
+• Conocimiento y experiencia en tecnologías y lenguajes como: Java or Php or Python, XML, SQL Alchemy, AJAX, HTML, SQL, JSON, Javascript 
+• Experiencia en mejores prácticas en diseño de sotware, pruebas unitarias y gestión de la configuración (github o cvs)
+• Minimo 1 año de experiencia

@@ -1,0 +1,17 @@
+
+Tenemos una ambición: hacer la vida más fácil a nuestros clientes. Por esta y otras razones, hemos creado la plataforma SaaS 6conecta. Una aplicación web líder en el sector. Un entorno colaborativo para la gestión de prevención de riesgos laborales. Nuestros clientes suelen decir cosas buenas de nosotros, pero con lo que más disfrutamos es con un trabajo bien hecho.
+Ahora, buscamos un Desarrollador Web para ampliar nuestro equipo de tecnología. Ofrecemos un puesto estable debido a nuestro crecimiento, buen ambiente de trabajo, flexibilidad horaria y muchas oportunidades de desarrollo, todo depende de lo que quieras y/o puedas aportar. Nuestra filosofía de trabajo se basa en la confianza y el win-win.
+¿Qué pedimos como mínimo? 
+- Al menos, 2 años de experiencia como desarrollador con las tecnologías descritas (PHP, MySQL, JS, JQuery, Apache...) 
+- Conocimientos de MVC. Si es con algún framework tipo Zend o Symfony, mejor. 
+- Conocimientos en desarrollo frontend (HTML, CSS y jQuery) 
+- Conocimientos de MySQL aplicados al desarrollo. Diseño y creación de BBDD, escritura de lenguaje SQL 
+- Manejo de la consola de Linux 
+- Git
+Sabemos que es muy difícil saber de todo, pero si además tienes experiencia adicional en alguno de los siguientes puntos, ten por seguro que será bienvenido y bien valorado: 
+- MongoDB 
+- Programación de aplicaciones móviles nativas (iOS, Android) y/o híbridas (Cordova/Ionic) 
+- Conocimientos de maquetación responsiva (responsive design) 
+- Administración de sistemas Linux 
+- Administración de MySQL
+La persona seleccionada se encargará tanto del desarrollo de nuevas funcionalidades de nuestro Roadmap de producto. Una oportunidad para participar en un ambicioso proyecto con el que podrá asumir nuevos retos y crecer profesionalmente.

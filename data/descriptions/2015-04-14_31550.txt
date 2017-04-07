@@ -1,0 +1,22 @@
+
+Relendo (www.relendo.com) es una startup de consumo colaborativo centrada en el alquiler de productos entre particulares. Después de entrar en una de las aceleradoras globales con mayor prestigio (Plug & Play), buscamos acelerar procesos y continuar creciendo. Somos una startup con un entorno de trabajo ágil y estamos localizados en el centro de Valencia. 
+Buscamos desarrolladores Back-End para que participen directamente en la creación de plataformas web y aplicaciones móviles que aporten valor real a nuestros usuarios. Trabajarás en un equipo multidisciplinar, con gran proyección internacional, donde tu opinión se valorará tanto como la del resto. Esperamos que des lo mejor y, a cambio, podrás esperar lo mismo de nosotros.
+¿Qué ofrecemos? 
+- Un entorno donde se valora el crecimiento personal y la autonomía. 
+- Incorporación a un equipo técnico ágil (SCRUM). 
+- Formaciones semanales de primer nivel. 
+- Acceso a un entorno de trabajo internacional. 
+- Implicación en el equipo fundador con la posibilidad de stock options. 
+- Networking y desarrollo de marca personal. 
+- La oportunidad de ser parte de una empresa joven, abierta y con altas previsiones de crecimiento gracias a su gran ambición y mercado potencial. 
+- Posibilidad de viajar a otros países.
+Requisitos mínimos 
+- Excelente capacidad de trabajo en equipo. 
+- Buena capacidad de comunicación y de adaptación. 
+- Experiencia con, al menos, un lenguaje de programación popular, como Java, C++, Python o Ruby. 
+- Conocimiento y experiencia con, al menos, un sistema de control de versiones (Git, Subversion…).
+Requisitos recomendados 
+- Experiencia en desarrollo web con frameworks MVC o experiencia en desarrollo móvil Android o iOS. 
+- Conocimiento de metodologías ágiles (SCRUM, Kanban, etc) 
+- Experiencia con bases de datos (relacionales o no relacionales). 
+- Alto nivel de inglés.

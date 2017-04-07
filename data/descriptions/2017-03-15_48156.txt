@@ -1,0 +1,23 @@
+
+In WeFitter we are actively looking for a talented php developer to lead our backend team in Barcelona. We are in a growing stage and we need someone capable to bring our products to the next level. If you like challenges, this is for sure a good candidate to pay attention to!
+First of all, a short introduction about ourselves: WeFitter is an app that promotes and rewards physical activity as a healthy habit. We are a young team working hard to make WeFitter a top notch worlwide company. Do you need any proofs? 
+- Great customers like Banco Santander, Sanitas or Testo in countries all around the world: Spain, Germany, Argentina, US 
+- We have won several international contests, like H-Farm Italy or exclusive Google's BlackBox 
+- Thousands of users are already being rewarded while they keep healthy thanks to WeFitter. Take a look!
+Sounds good? Let's see if you meet our needs:
+- Experience with LAMP, from building endpoints to defining models or creating complex SQL queries. Frameworks usage will be highly appreciated 
+- Experience designing and consuming RESTful API’s. 
+- Experience using version control systems (we use Git). 
+- Experience working under lean/agile methodology. 
+- Passion for discovering new technologies and latest trends, passion for learning, passion for coding! 
+- Proactivity, autonomy, self-organization, leadership.
+- BI or data analysis experience will be a nice plus. 
+- Frontend background will also be a plus. We use Angular2, Sass, bootstrap4. It’s time to take design into code!
+Checklist done? Well, now...what can you expect?
+- First things first: competitive salary. 
+- Flexible working hours. 
+- Opportunity to grow professionally as we are right into an expansion process. Leading a team, managing different projects or scaling worlwide are some of the steps you can expect in that process. 
+- Amazing startup ecosystem into Barcelona Activa, well communicated and 10 minutes from the beach. 
+- To be surrounded and supported by a young, skilled and ambitious team with eager to make something that lasts. And this team wants to hear your opinion and take it into account!
+- A big challenge: to change world’s mind about healthy habits through gamification. We work hard for a healthier world, are you in?
+Be ready to be part of WeFitter family!

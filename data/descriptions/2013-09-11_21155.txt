@@ -1,0 +1,8 @@
+
+Debido a la gran carga de trabajo que tenemos actualmente, buscamos un programador freelance con el que colaborar.
+Requisitos:
+ - Manejo del framework CakePHP
+ - Manejo framework jQuery
+ - Conocimientos maquetación HTML/CSS medio/alto
+La oferta es para colaborar en varios proyectos.
+

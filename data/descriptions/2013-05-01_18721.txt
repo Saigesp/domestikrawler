@@ -1,0 +1,12 @@
+
+Buscamos un programador Junior para que se incorpore en horario de media jornada (flexible mañana o tardes) a nuestro equipo. Se encargará de realizar labores de programación y maquetación para nuestra web, diseño de bases de datos, realizar consultas, programación front-end / back-end, etc...). Así como el desarrollo de aplicaciones para redes sociales y dispositivos móviles.
+Requisitos mínimos:
+- Programación front-end (XHTML + CSS + jQuery)
+- Programación back-end (PHP)
+- Conocimiento de Base de Datos MySQL
+- Desarrollo en dispositivos móviles (IOS, Android)
+Requisito deseables:
+- Desarrollo web con CMS: Wordpress
+- Conocimiento de plataformas ecommerce (EPages, Prestashop, Magento)
+- Plataformas Newsletter
+· Imprescindible estar estudiando para poder hacer un contrato de prácticas con la escuela o universidad.

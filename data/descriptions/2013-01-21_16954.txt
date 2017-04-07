@@ -1,0 +1,7 @@
+
+El creativo es el responsable de la implementación general de los programas así como de los elementos externos(piezas de comunicación) a la aplicación construida que requieran definición creativa implementando la propuesta creativa desarrollada por el Director Creativo de la compañía cumpliendo las Guide Lines establecidas y las funcionalidades descritas en el documento funcional del programa.
+Conocimientos obligatorios: construcción de páginas de estilo CSS, Photoshop, Illustrator, Flash y HTML5.
+Conocimientos opcionales: edición de vídeos, maquetación para web y para dispositivos móviles, creación de apps.
+Habilidades y competencias: alta capacidad creativa, trabajo bajo presión y orientación al cliente.
+Idiomas: nivel medio-alto a nivel lectura, escritura y conversación.
+Necesidades de horario: de 15:00 de la tarde a 00:00 de la noche

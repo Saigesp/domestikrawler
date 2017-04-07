@@ -1,0 +1,11 @@
+
+Buscamos un programador de PHP con experiencia en Symfony2.  
+Requisitos: Symfony2, MySQL, jQuery, Documentación de código, trato correcto.
+Se valorarán otros conocimientos: Administración de servidores Linux, Zend Framework, Magento, JSON, Control de versiones (Git), CSS.
+Ofrecemos:
+- Proyectos de diversa índole
+- Contrato indefinido
+- Flexibilidad horaria
+- Buen ambiente de trabajo
+- Vestimenta informal
+

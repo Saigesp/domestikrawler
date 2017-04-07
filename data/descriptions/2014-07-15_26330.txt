@@ -1,0 +1,27 @@
+
+DESCRIPCIÓN GENERAL
+Empresa de tecnología que desarrolla y gestiona una plataforma de venta de entradas para grandes espectáculos busca un Diseñador Gráfico y Web para su departamento de Operaciones.
+La descripción general del puesto es la siguiente:
+- Utilizar las herramientas desarrolladas para el diseño y  digitalización de recintos, de manera que éstos sean visualmente atractivos y muy prácticos a nivel de usabilidad para que los compradores de entradas puedan seleccionar sus asientos conociendo el lugar exacto donde estarán situados en el recinto.
+- Asegurar que tanto la plataforma como los portales de venta tienen un diseño adecuado que garantice una excelente experiencia de usuario.
+FUNCIONES
+- Aplicar estilos CSS a portales de venta de espectáculos para los distintos clientes de la empresa.
+- Migrar los diferentes portales de venta de entradas, siguiendo las directrices que nos soliciten los clientes y respectando el look and feel de la página web donde se alojará el portal.
+- Diseñar mapas gráficos de recintos de espectáculos con Adobe Illustrator. Teatros, estadios, auditorios, circuitos de velocidad, palacios de deportes, salas de conciertos... son ejemplos de los recintos que se deberán dibujar vectorialmente. 
+- Estructurar y preparar las distintas vistas de los recintos para que la experiencia de usuario sea intuitiva, fácil y realista. La prioridad es conseguir que los usuarios sepan en todo momento dónde se encuentran las butacas que están comprando.
+- Creación de iconos necesarios para nuevas funcionalidades de la plataforma.
+COMPETENCIAS Y APTITUDES
+-  Creatividad para diseñar, adaptar y diferenciar los portales de venta y los recintos de cada cliente. 
+- Capacidad de trabajar de manera autónoma en un entorno en permanente cambio y bajo presión. 
+- Gusto por el trabajo bien hecho, la calidad y la excelencia. Alto grado de responsabilidad
+- Persona abierta, optimista y con capacidad de trabajo en equipo.
+-  Persona con interés en las nuevas tecnologías, portales de comercio electrónico y desarrollo de aplicaciones web y móvil
+- Compromiso con un excelente servicio a los clientes.
+EXPERIENCIA Y CONOCIMIENTOS
+-  Experiencia en diseño gráfico demostrable (se solicitarán trabajos previos y referencias)
+- IMPRESCINDIBLE HTML y CSS3. Se valorará positivamente el conocimiento de otros lenguajes de programación como jquery.
+- Se valorarán conocimientos de usabilidad.
+- Dominio de Adobe Photoshop y Adobe Illustrator.
+- Valorable inglés a nivel de conversación (hablado y escrito). 
+-  Valorable experiencia previa en portales de comercio electrónico. 
+* Imprescindible poder hacer prácticas con la escuela o universidad

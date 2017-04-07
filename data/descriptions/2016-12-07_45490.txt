@@ -1,0 +1,20 @@
+
+LA TEVA WEB SL es una empresa de marketing online, especializada en la programación y diseño web. Con más de 14 años de experiencia y situados en el centro de Barcelona, trabajamos para empresas de todos los sectores y tamaños.
+Buscamos diseñador web con experiencia mínima de 3 años en diseño y maquetación web, al que le guste trabajar en equipo y tenga formación en diseño.
+Integrado dentro del departamento de diseño, se encargaría del diseño y de la la maquetación de páginas web y tiendas online, así como de la interactividad y la experiencia de usuario.
+Puedes conocernos un poco mejor en https://www.latevaweb.com
+Requisitos técnicos imprescindibles:
+- Obligatorio aportar portafolio de trabajos realizados en el último año
+- HTML5 / CSS3 / Bootstrap
+- Formación como diseñador web
+Requisitos recomendables:
+- Conocimientos UX/UI
+- Conocimientos de SEO
+- Conocimientos de JavaScript (jQuery)
+- Preprocesadores CSS como SASS / Compass o LESS
+¿Qué ofrecemos?
+- Integración en equipo de diseñadores y maquetadores
+- Incorporación inmediata a jornada completa
+- Una posición estable y a largo plazo
+- Trabajar en el centro de Barcelona (Passeig de Gràcia/Diputació)
+- El viernes por la tarde no trabajamos

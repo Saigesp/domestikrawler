@@ -1,0 +1,51 @@
+
+Nombre de la empresa: 
+Bryte Digital Dialogues
+Web de la empresa: 
+ http://www.bryte.biz
+Descripción de la empresa:
+Bryte es una agencia de diseño y desarrollo web que ofrece servicios completos de diseño y desarrollo de páginas web y soluciones on-line, desde la definición del proyecto hasta la promoción de la marca en internet.
+Estamos buscando a un webmaster/ programador/a junior recién licenciado/a o finalizando los estudios en Ingeniería Informática con nociones de diseño gráfico.
+Se ofrece:
+- Horarios flexibles
+- Proyectos internacionales, variados y creativos.
+- Entorno multicultural.
+- Incorporación inmediata dentro de un ambiente dinámico y agradable
+Lugar de trabajo: 
+Barcelona
+1.Conocimientos requeridos:
+Lenguajes
+PHP5 (Programación orientada a objetos)
+Javascript (Jquery)
+Html 5 / CSS
+Base de datos
+MySQL
+Técnologías
+SOAP
+Sistemas operativos
+Conocimientos de Linux a nivel administrador
+2.Otros conocimientos valorables:
+Php framework
+Zend
+Cake php
+YII
+CMS
+Wordpress
+Modx
+Software
+Photoshop
+Illustrator
+Tienda online (open source) 
+Magento
+Prestashop
+3. Se valorará:
+- Experiencia en frameworks Javascript (prototype, jquery).
+- Css framework (bootstrap)
+- Experiencia en desarrollo con MVC
+- Gusto estético y cuidado por los detalles.
+- Capacidad resolutiva.
+- Mente abierta y creativa.
+- Inglés, otro idioma.
+Salario: 
+A convenir.
+

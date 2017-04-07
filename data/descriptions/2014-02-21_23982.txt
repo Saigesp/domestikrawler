@@ -1,0 +1,19 @@
+
+Buscamos programador con conocimientos de Ruby On Rails y manejo de servidores Linux, para el desarrollo y mantenimiento de aplicaciones sociales y deportivas en Ruby On Rails.
+Requisitos:
+- Experiencia en Ruby On Rails
+- Servidores Linux
+- HTML5/CSS3
+- GIT
+- Javascript
+- MySQL
+Se valorará:
+- Ganas de querer formar parte de un proyecto a largo plazo.
+- Persona pro activa, dinámica y con ganas de crecer. 
+- Capacidad de aportar nuevas ideas y soluciones.
+- Estar siempre a la última a nivel tecnológico.
+- Experiencia en Aplicaciones Mobile.
+Ofrecemos:
+- Contrato 6M + indefinido
+- Clima laboral muy bueno
+- Salario entre 24 y 30 mil euros brutos año

@@ -1,0 +1,43 @@
+
+AKTIOS IT CONSULTANT is seeking an Application Architect - Java to work in a Multinational company with location in Palma de Mallorca.
+The successful candidate will be responsible for analysing and designing high performance solutions and mission critical applications.
+Description:
+The main responsibilities of this person are:
+•	Analyse business requirements
+•	Design solution architecture
+•	Participate actively in development phase
+•	Ensure unit and integration testing and all checking
+•	Follow programming standards and project methodologies
+We need a candidate with these skills and facilities:
+•	University Degree or equivalent.
+•	English - Advanced
+•	Work in Palma de Mallorca.
+•	Minimum 5 year of professional experience with a similar role in development tasks
+Knowledge
+1.	Technical knowledge required:
+a.	J2SE, Spring framework
+b.	Oracle PL/SQL
+c.	Apache Maven, myBatis, Glassfish, Weblogic
+d.	XML, JSON and REST API
+e.	Software architecture and design patterns
+Nice to have:
+1.	Amazon AWS or other cloud providers experience
+2.	AGILE project management
+3.	Official Java Oracle certifications
+4.	Master in computing science
+Abilities & personal qualities:
+•	Integrating vision.
+•	Analysis skills
+•	Conceptual and Abstract thinker.
+•	Ability to solve technical problems.
+•	Technical Leadership Skills.
+•	Interpersonal Skills.
+•	Multitasker
+•	Organized
+•	Ability to efficiently delegate tasks.
+•	Good team player.
+We offer
+-Full-time and 1 year contract with Aktios and high possibilities to be hired for the client company.
+- Work in a multinational and recognized company.
+- Attractive salary and benefits. 
+

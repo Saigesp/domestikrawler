@@ -1,0 +1,17 @@
+
+Desde The Valley Talent, HeadHunter especializado en perfiles digitales, seleccionamos a un Business Analyst especializado en Mobile, para importante compañía del sector financiero.
+El futuro Business Analyst especializado en Mobile, reportará al Responsable del Equipo Agile Móvil y desempeñará las siguientes funciones:
+Apoyo al Product Owner para:
+Definir las funcionalidades/características de nuevos productos/servicios digitales
+Aportar nuevas ideas, innovación y optimización de funcionalidades existentes.
+Crear las Historias de Usuario para la implementación de las nuevas funcionalidades de Apps móviles.
+Refinar el backlog en función de necesidades del equipo de desarrollo.
+Entender el trabajo técnico a realizar a partir de los requisitos de negocio.
+Manejar Jira y Confluence.
+Definir y realizar el testing, y a lo largo del proceso, resolución de dudas del equipo de desarrollo.
+Requisitos:
+En cuanto a formación, deberá poseer estudios superiores (Ingeniería en Informática o carreras afines).
+Deberá poseer experiencia con equipos de desarrollo en App Móviles híbridas (web, Android, Ios) y con AngularJs.
+Además de experiencia laboral con Metodología Agile.
+Competencias personales:
+Excelentes habilidades interpersonales y capacidad demostrada para trabajar en equipo y de forma autónoma. Con buenas habilidades comunicativas, flexibilidad y claramente orientado a negocio.

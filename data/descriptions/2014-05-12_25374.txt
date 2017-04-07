@@ -1,0 +1,14 @@
+
+Sunflower Graphics busca Game Designer para incorporarse a nuestro equipo en el desarrollo de un videojuego.
+Las responsabilidades son las siguientes:
+-	Desarrollo  creativo y mecánica de juego.
+-	Desarrollo de la documentación y el análisis del diseño.
+-	Supervisión de la ejecución creativa del juego para comprobar que la mecánica planteada es la que se desarrolla hasta el final.
+-	Diseño de niveles.
+-	Beta-testing.
+Requisitos:
+-	Conocimientos sólidos de reglas básicas de juego (Modos de juego, mecánicas, curva de aprendizaje, dificultades para equilibrar…)
+-	Conocimientos de dibujo e ilustración básicos para plasmar ayudas visuales para el desarrollo.
+-	Pasión por los videojuegos.
+-	Conocimientos de los juegos clásicos.
+No se valorarán candidatos que no adjunten una web, blog o dossier con muestra de trabajos.

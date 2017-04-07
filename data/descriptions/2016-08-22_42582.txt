@@ -1,0 +1,39 @@
+
+Empresa de desarrollo web y móvil con más de 12 años en el sector, busca Desarrollador  con experiencia mínina de 5 años en aplicaciones web nativas(Java, PHP, JScript, Bootstrap, Parallax, etc.) y móviles para iPhone/iPad y Android ( Nativo XCode, Swift, Java, etc.) con experiencia demostrable de desarrollo de aplicaciones.
+Necesitamos que domines: 
+- HTML 5 
+- CSS 3 
+- JavaScript 
+- Polymer 
+- Ajax y JSON 
+- Bootstrap
+- XCode
+- Objective-C
+- XML
+- Swift
+- Parallax
+- PHP
+- Java (J2SE, struts, HTML, etc.)
+- SQL,  SQLite, MySQL
+- CPanel
+- SDK´S Android, iOS
+- API Google Maps a nivel muy avanzados (trazado de rutas, geolocalización, geoubicación, espectros geográficos, monitoreo de avance en ruta, etc.)
+- API Facebook, Twitter y G+.
+- Administradores para manejo de aplicaciones web y móviles (WEBSERVICES).
+- Experiencia en Responsive Web Design 
+- LESS o SASS 
+- GIT 
+- Automatización de tareas (Gulp, Grunt)
+- Control del rendimiento y calidad de las aplicaciones. 
+- Mantenimiento de la calidad del código. 
+- Conocimiento de control de versiones y publicación en Google Play Store y App Store. 
+- API Paypal (opcional pasarelas de pago móvil con Authorize, "checkout)
+- Generación de códigos QR en dispositivos móviles y web.
+- Desarrollo en arquitectura de 3 capas. (ej. admin maestro, usuarios administrativos, clientes o usuarios finales)
+- Saber cortar imágenes en photoshop para el armado de las interfaces, segun las plataformas necesarias.
+- Efectos y animaciones para web y móviles.
+- Conocimientos de Testflight /  Crashlytics
+- Aplicaciones NFC y Productos NFC
+- Conexiones Bluetooh (lectores ópticos, lectores de huellas dactilares, cajones de dinero, impresoras, etc.)
+- Creación de certificados para compilación de aplicaciones iOS
+Se valorará si el candidato tiene más conocimientos que puedan beneficiar los desarrollos. 

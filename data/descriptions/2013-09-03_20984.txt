@@ -1,0 +1,18 @@
+
+Somos una pyme dedicada a la producción de un producto muy especializado de la industria gráfica. Actualmente buscamos un programador-maquetador web para desarrollar parte de nuestra web corporativa.  
+La navegación, definición de secciones y páginas, parte gráfica-layout  y de contenidos ya está realizada. Ahora necesitamos un programador y maquetador web para la realización de la web mediante un CMS (Wordpress, Drupal, etc) ágil y fácil de entender para la actualización y edición de contenidos.
+Necesitaremos por tanto la programación del layout en HTML5-CSS3, y la programación PHP de las funcionalidades. El sitio deberá tener soporte multi idioma, ya que tendrá 3 idiomas (inglés, español y francés). Será un sitio con profusión de productos y familias. Se requerirá por tanto la ordenación en categorías y taxonomías lógicas.
+El proyecto no es complejo pero se requiere experiencia previa para saber aplicar soluciones adecuadas para cada necesidad. Buscamos por tanto un perfil con dotes profesionales y que pueda desarrollar el proyecto con rapidez y profesionalidad.
+Envíanos tu perfil (CV) junto con tu portafolio. A aquellos que cumplan los requisitos les enviaremos los detalles del proyecto para que puedan realizar un presupuesto (calculo por horas o por proyecto, lo dejamos a tu elección)
+El perfil requerido para el proyecto sería el siguiente (abstenerse cualquier otro perfil que no se adapte al descrito):
+•	Programador-maquetador freelance (autónomo dado de alta) con experiencia demostrable de PHP, HTML5 y CSS3, JS Ajax y JQuery. Experiencia en frameworks y API de CMS (Wordpress, Drupal, etc). SEO y posicionamiento web. Se valorarán conocimientos en MySQL.
+•	Experiencia previa en proyectos semejantes (catálogos de producto en línea, creación de sitios corporativos promocionales), definición de categorías, taxonomías. Portafolio de proyectos anteriores semejantes al demandado, se requerirán enlaces a proyectos previos reales y no ficticios.
+•	Importante: residir en Barcelona, ya que se realizarán reuniones  de trabajo presenciales de manera puntual en el área metropolitana de Barcelona (zona Baix Llobregat).
+
+•	Capacidad de entender las necesidades del layout y de la parte gráfica del proyecto. Aporte de soluciones de diseño adaptables a diferentes formatos y dispositivos.
+•	Cumplimiento de plazos de entrega y seriedad en el trabajo.
+•	Competencia de comunicación verbal y escrita para entender las necesidades del proyecto y saber reportar dudas, cuestiones o contratiempos en el desarrollo del proyecto al cliente.
+•	Gran capacidad resolutiva y organizativa en el desarrollo del proyecto.
+Muchas gracias por vuestra atención.
+Esperamos vuestros mensajes.
+

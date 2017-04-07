@@ -1,0 +1,21 @@
+
+We are looking for ASP.NET Developers (Scrum Team members) for the Development Team of our client in Barcelona whose mission would be to develop SaaS solutions, software products and design customs developments.
+FUNCTIONS:
+- To be responsible for delivering functional stories which meets the expectations of the OP.
+- "Encode, reflect and encode again”
+- Hold power, with the team, over point estimates.
+- Hold power, with the team, over technical decisions.
+PROFILE:
+- Engineer or equivalent in computer science
+- 3/5 years experience or graduate
+- Fluent English
+- Ready to fully invest in a major project with high technical challenge
+- Curious, autonomous and passionate about new technologies with a special interest for the web
+TECHNICAL SKILLS
+- C#, ASP.Net .4.5, MVC 4
+- Javascript, WCF, Entity Framework 5
+- LINQ (OBJECT, XML)
+- Visual studio 2013, TFS 2012 AZURE
+- IIS 8
+- Microsoft Insights
+- Methods and tools: SCRUM, software quality, continuous integration (Jenkins, Sonar, TFS, etc.), regression testing

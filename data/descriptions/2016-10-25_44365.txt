@@ -1,0 +1,21 @@
+
+Desde Altamira TI, Empresa de Consultoría de Servicios, necesitamos incorporar un Experto en desarrollo de Big Data con Scala y Spark. 
+¿Que Buscamos?
+· Expertos en proyectos Big Data.
+· Lenguajes: Java & Scala
+· Spark
+· Version control and quality
+· Bases de datos SQL and NoSQL
+· Hibernate
+· Spring
+Valoraremos positivamente :
+· Otros lenguajes de programación como Python or JavaScript
+· AngularJS y/o  NodeJS
+· Big Data: Flink, Storm, Flume, etc…
+· Cloud: Amazon, Azure, Openstack, etc…
+· Metodologia Agil
+Ofrecemos:
+- Remuneración acorde a la experiencia del candidato.
+- Proyectos estables.
+- Buen ambiente de trabajo.
+Si te interesa participar en esta propuesta, por favor, inscríbete en la oferta. Te esperamos

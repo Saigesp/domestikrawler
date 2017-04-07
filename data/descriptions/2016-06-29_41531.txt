@@ -1,0 +1,21 @@
+
+En Iwantic estamos buscando varios Analistas COBOL para una gran multinacional del sector ingeniería en Madrid.
+Queremos a alguien con iniciativa a quien le interese unirse a una compañía en crecimiento y con un equipo internacional, dinámico y con talento. 
+Funciones/Responsabilidades:
+-Contribuir al equipo de backend a cargo del núcleo de ventas de la plataforma de Seguros en varias áreas como Gestión de Partidos o Administración de Políticas.
+-Supervisar técnicamente el trabajo de programadores junior.
+-Trabajo en equipo directamente con el cliente.
+-Toma de requisitos del cliente.
+Requisitos: 
+- Al menos 3 años de experiencia en programación en proyectos de prestación con lenguaje COBOL y SQL.
+-Al menos 2 años de experiencia en IBM iSeries/AS400.
+-Experiencia en procesos batch incluyendo job restartability, error reporting, etc.
+-Experiencia trabajando con interfaces externas.
+-Habilidad para estimar y diseñar soluciones técnicas.
+Conocimientos:
+-Herramientas iSeries y utilidades.
+-MQSeries para iSeries.
+Se valorará:
+-Conocimientos en proyectos de prestación IT seguros.
+-Experiencia en consultoría.
+La persona seleccionada gozará de grandes beneficios sociales( tickets restaurante, seguros...), contrato indefinido y plan de carrera y formación desde un primer momento. Además hará uso de las últimas tecnologías del mercado y trabajará en un ambiente de gran visibilidad internacional.

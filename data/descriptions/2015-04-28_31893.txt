@@ -1,0 +1,6 @@
+
+Buscamos un desarrollador de Symfony 2 con experiencia demostrable y con conocimientos de jQuery, Bootstrap, CSS/HTML, GIT.
+Trabajamos con proyectos transversales para entornos web y móvil. Proyectos relacionados con el mundo educativo y el aprendizaje a través de las tecnologías.
+Sobre nosotros: 
+Itinerarium es una empresa desarrolladora de aplicaciones desde una óptica de “mobile learning” vinculada a mapas (geolocalización). Creemos que el entorno es el mejor vehículo para el aprendizaje y así lo planteamos en nuestros proyectos.
+

@@ -1,0 +1,5 @@
+
+Se busca progrmador para animación simple de una cabecera de un sitio web.
+Es un trabajo puntual consistente en la animación de algun componente de la misma, como reproduccion de un sonido al pulsar un botón, movimiento personajes...
+Muy sencillo.
+

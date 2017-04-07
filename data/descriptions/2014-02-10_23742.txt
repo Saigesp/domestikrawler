@@ -1,0 +1,23 @@
+
+Hola, buscamos programador/a presencial para incorporación inmediata a jornada completa.
+Las principales tareas a desarrollar serán:
+- Programación y mantenimiento de herramientas para la gestion de sites corporativos (cms, aplicación de envio de emails...). 
+- Participación en la programación de server de microsites promocionales para el sector publicitario. 
+- Programación a nivel de front de posibles proyectos web.
+Requisitos necesarios:
+- El programador debe tener experiencia en programación basada en entorno LAMP (Linux, Apache, Mysql, PHP). 
+- Experiencia demostrable en PHP (mínimo 2 años). 
+- Experiencia en programación de aplicaciones usando el patrón MVC (Modelo-Vista-Controlador). 
+- Experiencia en programación de aplicaciones usando alguno de los frameworks de PHP. (Yii, Cake, Symfony, Zend...) 
+- Conocer las prácticas de programación de front-end y tener la capacidad de usarlas (Javascript, AJAX) 
+- Conocimiento y capacidad en las prácticas comunes en la programación de WebServices (XML, JSON, REST, etc..) 
+- Acostumbrado a trabajar con  git o similar
+- Nociones básicas de seguridad Web. 
+- Ingles medio-alto. 
+- Capacidad para trabajar de forma tanto autónoma y en grupo.
+Requisitos valorados:
+- Experiencia usando plantillas PHP como Smarty o H2O. 
+- Conocimiento básico de usabilidad/accesibilidad Web (Standards). 
+- HTML 5 (o curiosidad por aprenderlo). 
+- Otros lenguajes de programación o aptitudes serán valoradas positivamente.
+Todos los cv que cumplan con los requisitos serán contestados. Abstenerse agencias, equipos de desarrollo y freelances.

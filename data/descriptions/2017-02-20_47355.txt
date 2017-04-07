@@ -1,0 +1,17 @@
+
+GTO es una empresa de servicios integrales de transporte por carretera y logística bajo temperatura controlada a nivel nacional e internacional.
+Creada en 1985, GTO se ha consolidado como el centro de servicios logísticos de referencia en el sur de Andalucía, con una flota de más de 350 vehículos frigoríficos.
+Grupo logístico de transporte, con dos centros logísticos nacionales, en Huelva y en Álava, oficina comercial en Bélgica y una red de de nodos logísticos en Marruecos, Francia y Holanda, que sitúa a GTO como referente internacional en el servicio integral de actividades logísticas: almacenaje, consolidación de productos y transporte de larga distancia (carga completa y fraccionada).
+GTO busca Desarrollador Full Stack para distintos proyectos de programación. Será necesaria la acreditación de experiencia tanto en el frontend como en el backend.
+Se requiere experiencia mínima en: 
+•	PHP
+•	HTML5
+•	CSS3
+•	AngularJS y/o NodeJS
+•	MySQL y/o PostgreSQL
+Se valorará muy positivamente:
+•	Administración y optimización de BDD MySQL y/o PostgreSQL.
+•	Administración y optimización de servidores web como nginx o Apache.
+•	Administración de versiones de código empleando herramientas tipo subversion, git o similares.
+•	Diseño, creación, implementación y consumo de servicios web (arquitectura de microservicios).
+Conocimientos mínimos de inglés serán requeridos durante el proceso de selección.

@@ -1,0 +1,12 @@
+
+Quienes Somos:
+Neo Advertising, compañía especializada en creación de canales de Digital Signage, 
+requiere de profesional freelance  con experiencia en el desarrollo de interactivos sobre Adobe Flash CC,
+y con conocimiento básicos de HTML5
+Qué necesitamos:
+ 1 Creación de secciones que forman parte de un canal corporativo. La programación vincula diseños creados por neo advertising, información aportada por el cliente (online), teniendo como pieza resultante un fichero  SWF que puedan hacer peticiones a redes sociales y mostrar datos en pantalla   (fotos, texto,video)
+2 Creación de la programación de interactivos sobre soportes digitales táctiles.
+Es clave tener criterio de diseño para entender el lenguaje de los diseñadores y animadores que le proporcionarán el material gráfico-animaciones.
+Qué ofrecemos:
+Trabajar sobre proyectos, con facturación como freelance,  remunerado por hora o por proyecto.
+Se ofrece la posibilidad  estar en grandes cuentas y trabajar con hardware de alto rendimiento CISCO.

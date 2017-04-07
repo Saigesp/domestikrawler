@@ -1,0 +1,29 @@
+
+Funciones:
+- Maquetación HTML5, CSS3 y responsive design de sitios web corporativos y landing pages, para distintos navegadores y dispositivos.
+- Programación de formularios y funcionalidades básicas de una página web.
+- Creación de plantillas para email marketing.
+Requisitos mínimos:
+- Conocimientos muy altos de javascript nativo
+- Conocimiento de HTML5+CSS3 y Javascript (jQuery, etc.)
+- Manejo de gestores de contenidos: WordPress fundamental, y se valora joomla, drupal o magento. 
+- Conocimientos de php o de programación orientada a objetos, patrones de diseño etc.
+- Manejo de frameworks css como bootstrap, Modernizr o algún otro.
+- Conocimientos básicos de SEO.
+- Atención a los detalles y orden en el trabajo.
+- Capacidad para trabajar en equipo.
+- Interés por aprender los puntos del apartado siguiente.
+Requisitos valorados/deseados:
+- Conocimiento de Sass, Compass, Less como herramientas para hojas de estilos.
+- Conocimientos Accesibilidad y Usabilidad.
+- Experiencia en algún framework php tipo symfony2, zend o codeigniter.
+- Conocimiento de algún framework javascript como backbone, emberjs , sencha o angularjs.
+- Jasmine o algún otro framework para pruebas unitarias javascript.
+- Control de versiones git o subversión.
+- Yeoman, grunt bower y nodejs.
+Ofrecemos:
+- Integración en el departamento de Comunicación y Web de una empresa sólida y en continuo crecimiento. 
+- Trabajo estable con contrato indefinido. 
+- Posibilidad de formación y crecimiento. 
+- Tickets restaurante.
+Importante facilitar URLs de trabajos realizados, blog personal, flickr, del.icio.us o cualquier otra información que queráis mostrarnos.

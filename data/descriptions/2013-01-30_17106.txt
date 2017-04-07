@@ -1,0 +1,16 @@
+
+Se ofrecen prácticas para estudiante de informática (Ingeniería, Ingeniería técnica o Grado) para trabajar en tareas de testeo y soporte en empresa situada en el centro de madrid. Los requisitos, se detallan a continuación:
+Requisitos mínimos:
+-Conocimiento medio de administración de sistemas basados en Linux. 
+- Conocimientos y experiencia en el uso de los sistemas operativos mac os y windows (administración, uso, resolución de problemas, etc).
+-Conocimientos de redes y administración de servicios basados en Linux.
+- Conocimientos medios del idioma inglés. Lectura y escritura.
+- Disponibilidad inmediata.
+Valorable:
+- Experiencia en testing de sitios web.
+- Conocimientos de herramientas de testing como selenium.
+- Disponer de conocimientos en html/php.
+- Experiencia con algún cms preferiblemente drupal.
+- Disponer de conocimientos en sistemas de control de versiones (svn), configuración de servidores LAMP y scripting en linux.
+-Disponer de conocimientos de AWS.
+Interesados enviar curriculum a jobs@dtysc.com

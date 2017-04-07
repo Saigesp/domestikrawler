@@ -1,0 +1,26 @@
+
+Job Description
+User experience is the most important thing to you. To design application, you play like music with modern client-side technologies using Javascripts.
+Being part of our technical team, you will have to create, adapt and develop user interfaces.
+You will be responsible to enhance the frontend in order to improve the user experience of our applications.
+Requirements:
+Excellent skills in HTML5, CSS 3 + Preprocessors (SASS, LESS, etc.) and responsive design
+Expert in JavaScript using frameworks and libraries such as jQuery, AngularJS or React
+Ability to implement server-client communications by AJAX and RESTful JSON services
+UI and UX expert
+Advanced Twig templating
+Experience in JavaScript unit testing and functional testing using Behat and Selenium
+Fully understanding of Git or SVN versioning tool
+Code well structured and documented
+At least 2 years in similar position
+Valuable knowledges:
+PHP and Symfony (or other MVC framework)
+MySQL
+Linux/Unix basic knowledges
+Image edition with Adobe Photoshop or Gimp
+Familiarity with Agile development method
+Use of task management tools like JIRA
+Personal skills:
+Fluent in Spanish, English is a plus
+Autonomous and team player bringing solutions and ideas
+Eligibility to work within the European Union

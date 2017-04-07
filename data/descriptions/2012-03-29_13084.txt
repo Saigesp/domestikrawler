@@ -1,0 +1,3 @@
+
+se busca programador backend/frontend freelance para crear website de visualización de videos streaming. La apariencia del site similar a la de youtube con caja de busqueda y posterior visualización. 
+Indispensable poder visualizar los videos streaming colgados en el portal desde plataformas móbiles ( iOs, Android ) ya que muchos sites al ser streaming en flash no lo permiten.

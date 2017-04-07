@@ -1,0 +1,17 @@
+
+Empresa centrada en el desarrollo de aplicaciones para móviles se encuentra en fase de lanzamiento de un proyecto muy innovador con enorme potencial de expansión. Las personas que se incorporen en esta fase tendrán grandes posibilidades de desarrollo y crecimiento profesional.
+Se programaran muchas aplicaciones con plantillas.
+Requisitos mínimos:
+- iPhone: Objective-C, C, C++
+- Java y Android SDK Framework
+- Xcode y Eclipse
+- Patrones de diseño
+- SQL
+- Depuración y uso de memoria.
+- Capaz de integrar servicios web externos (JSON, XML, RSS ...) 
+Requerimientos del Puesto:
+- Conocimientos  de las mejores prácticas para el desarrollo de aplicaciones móviles (cliente y servidor) y diseño de arquitectura.
+- Sólido backgraund profesional en Objective-C, gestión de memoria y MVC.
+- Experiencia en tecnologías móviles, tales como J2ME y HTML5 muy valorable
+- Se valorará la experiencia en desarrollo web
+

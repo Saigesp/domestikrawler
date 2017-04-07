@@ -1,0 +1,32 @@
+
+About
+Are you interested in being a part of building the most exciting mobile platform in the world? The Uber platform, at it’s most fundamental, brokers a negotiation between two separate individuals in separate locations within 15 seconds. A rider gets from point A to point B; A driver makes earnings for that trip. The possibilities that we can build on top of this fundamental technological process are unlimited. Moving people via software is what we do, and this is just the beginning.
+
+ Uber Engineering is a high-performance culture marked by fearlessness and hyperproductivity. We’re looking for talented technical contributors who are also team players and understand that making the next big thing takes dedication, hard work and negotiation. You should be excited about building a global logistics marketplace that spans a wide variety of cities, cultures and regions, each with unique regulatory, technical and business requirements.
+
+ As a Senior iOS Engineer in Uber’s Amsterdam office you will be instrumental in building products from within our first product development team outside of San Francisco. We’re looking for exceptionally talented engineers who want to combine Uber’s thoughtful design sensibilities with our enduring architectural vision in order to build momentum behind the platform. We’ll expect you to own strategic features from day one, expand upon Uber’s skill at external partnerships, help with the design process and build an iOS experience that is second to none. Are you interested?
+Responsibilities
+WHAT WE’RE LOOKING FOR
+At least 3 years experience in the software / computer engineering industry.
+Experiencing developing, releasing, and maintaining native iOS Applications
+Deep understanding of the iOS SDK and Objective C
+Experience supporting tablet platforms is a bonus
+Experience collaborating on apps which have significant design and back-end engineering aspects.
+Experience working within a larger team environment.
+Additional Requirements
+BONUS POINTS IF YOU HAVE
+Amazing debugging & profiling skills
+Interest in learning Swift, but know when to use the new platform appropriately
+Insightful opinions about iOS and the mobile experience.
+Experience developing location aware mobile applications
+Experience developing testing suites for mobile applications
+Experience with web technologies and their fundamentals
+Experience building apps which have a counterpart on other mobile platforms
+Other Information
+PERKS:
+Uber employees get a monthly credit to use for personal transportation
+Beautiful new office in the heart of Amsterdam
+Cafeteria amply stocked with food and delicious healthy lunches
+Ground floor opportunity within the Amsterdam office. Be on the cutting edge of our organization’s development and learning.
+Travel to and from San Francisco to build rapport and relationships with core engineering team members located there.
+Work with smart, motivated, challenging individuals every single day.

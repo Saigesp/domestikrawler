@@ -1,0 +1,34 @@
+
+Want to build a revolutionary secondhand market from the ground up? Join GINDUMAC. We are
+looking for a Junior Frontend Developer to be part of our growing IT team!
+You will help us implement our new e-commerce platform with state of the art technologies
+(HTML5/CSS3, Bootstrap, Angujar/ReactJS). We are looking for a junior frontend web developer
+with some experience implementing responsive websites, someone like you that has a strong
+passion for learning the craft. You are likely familiar with javascript at a basic level, and also with
+Git and working with branches, plus experience with a bug tracking system and Kanban/
+SCRUM methodologies will be very welcomed.
+You are used to work in a team (team player mindset is a must!) and have good communication
+skills. You also feel comfortable working in a mixed and multicultural environment
+(business,design,customer support, etc.) and take ownership/responsibility/pride of your work
+(we don't do blame-storming here!).
+Responsibilities:
+Reporting to the CTO, the position has the following responsibilities:
+•	 Implement responsive sites with HTML5/CSS3/javascript
+•	 Triage, diagnose and solve production system software problems
+•	 Collaborate with designers to iterate on the design and implementation of our products
+Skills & Requirements:
+•	 Familiarized with common web frontend technologies (HTML5, CSS3, JavaScript, Ajax).
+•	 Desirable experience with Webpack or similar module bundlers
+•	 Knowledge of cross-browser, cross-platform, and design constraints on the web.
+•	 Demonstrated design and UX sensibilities.
+•	 Experience with version control like git, subversion, etc.
+•	 Basic knowledge of SEO.
+•	 Use jQuery, but don't rely on it.
+Why you shouldn’t miss this:
+•	 Be part of building a business from scratch
+•	 Be part of building a game changing marketplace in the industrial segment
+•	 Be part of a unique company with a unique working environment
+•	 Flexible working hours
+•	 Space for own idea development within the business
+•	 Work from a cool office in the district of Poblenou / Barcelona
+

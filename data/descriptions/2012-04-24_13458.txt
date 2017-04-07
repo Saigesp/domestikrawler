@@ -1,0 +1,17 @@
+
+submedia, fresh media solutions es una agencia de diseño. Somos un equipo pequeño pero exquisito. Reaccionamos con flexibilidad, creatividad e indendencia a todo tipo de desafíos.
+Buscamos un Programador Web
+Las tareas:
+Desarrollo de complejos proyectos web internacionales
+Desarrollo e implementación de sistemas CMS
+Desarrollo e implementación de tiendas online
+Requisitos:
+Amplia experiencia y conocimiento muy avanzado de PHP5, MySQL, y OOP
+Conocimientos avanzados de tiendas online y base de datos.
+Conocimientos de (X)HTML, CSS, AJAX y Javascript
+Deseables:
+Valorable buen nivel de inglés y/o alemán
+Experiencia en el desarrollo de Enterprise Backend Systems
+Experiencia de desarrollo de sitios web de alto rendimiento
+Talento para el diseño
+contacto: Anna Perino, perino@submedia.de

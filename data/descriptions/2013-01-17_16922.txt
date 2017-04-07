@@ -1,0 +1,20 @@
+
+Descripción de la Oferta
+Buscamos a un programador/a con experiencia en programación en entornos LAMP, que tenga pleno dominio del lenguaje PHP, y que se haya especializado en el uso de la plataforma CMS Joomla, así como en el uso de sus componentes y extensiones, y tenga experiencia en Virtuemart como software de ecommerce.
+La oferta es para ser el webmaster de la web y el programador responsable de la misma. La responsabilidad implica la supervisión del funcionamiento diario de la plataforma, así como el desarrollo de las aplicaciones y necesidades que ésta requiera como resultado de las exigencias del negocio.
+Requisitos Mínimos
+Absoluto dominio de entorno LAMP y de programación en PHP y CSSs. Si no tienes experiencia en programación en PHP, tocando CSSs y BBDDs MySQL, no apliques por favor a esta oferta. 
+Buscamos a un programador que conozca lo más a fondo posible Joomla, JomSocial y Virtuemart. 
+NO buscamos a un profesional que haya utilizado Joomla, JomSocial o Virtuemart, y que como consecuencia de ello haya aprendido a programar un poco.
+Habilidades/requisitos deseados: 
+- Lenguajes de Programación: Joomla!
+- Habilidades adicionales: HTML, CSS, PHP, JavaScrpit
+- Estilo de trabajo extremadamente detallista 
+- La unión, la flexibilidad y la pasión para trabajar de forma independiente y prosperar en un entorno remoto de trabajo.
+- Fuertes habilidades de comunicación.
+- 3-5 años de experiencia en programación. 
+- Títulación de Informática o experiencia equivalente.
+El/la programador/a debe ser una Persona seria, metódica y con visión de conjunto, que haya tenido puestos de responsabilidad en Empresas de Internet o similares.
+Buscamos a Personas sociables, educadas y trabajadoras, motivadas por trabajar en equipo y realizarse profesionalmente formando parte del mismo. 
+Si buscas trabajar en una empresa joven, de mentalidad abierta y dinámica, en un proyecto de primer orden y que te ofrezca la posibilidad de desarrollarte tanto profesional como personalmente, donde lo que prima son las personas, envíanos tu CV.
+NO apliques por favor a esta oferta si no sabes programar de verdad ;-)

@@ -1,0 +1,14 @@
+
+En MySpeech (agencia de comunicación), estamos buscando un programador Senior que pueda integrarse al equipo como freelance. Nuestra forma de trabajar, permite que todos los miembros del equipo trabajen a distancia, excepto ciertos días a la semana, los cuales aprovechamos para reunirnos internamente y revisar status, posibles dudas, nuevos proyectos y estrategias de las distintas cuentas que llevamos. Las reuniones siempre se realizan en nuestra oficina, situada en Barcelona. 
+Pedimos que tenga conocimientos de:
+- Php (Frameworks Laravel, Yii y CMS Wordpress, Prestashop y Magento) , Html, Css y Javascript
+- MYSQL
+- Programación Wordpress  (avanzado)
+- Desarrollo en plataformas e-commerce 
+- Python (Django, Django CMS) 
+- Front end Development (AngularJs...) 
+- Herramientas como Git, Gulp, Sass...
+- Experiencia en el desarrollo de aplicaciones web y nativas híbridas. (iOS y Android) basadas en JS.
+- Desarrollos con Framework IONIC, BOOTSTRAP o similares
+Igual que el resto de miembros del equipo, necesitamos que la persona tenga capacidad de trabajar de forma proactiva y autónoma, capacidad analítica, afán de aprendizaje y que esté dispuesto/a a aprender cosas nuevas, inventar y crecer.
+

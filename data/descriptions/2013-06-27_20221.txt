@@ -1,0 +1,13 @@
+
+¡Hola!
+Buscamos un Analista/Programador WEB. En concreto, se programará en un entorno LAMP. Programador backend.
+Requisitos
+Imprescindible: Experiencia orientación a objetos
++ Se valorará Patrón MVC
++ Se valorará uso de frameworks MVC/PHP
++ Se valorará conocimiento de programación front-end aunque no es necesaria.
+Funciones
+- Participar en la fase de análisis de aplicaciones web (requisitos, modelo E/R, UML...)
+- Programación de aplicaciones. (mediante php, con patrón MVC).
+En principio se le contratará por proyecto, desarrollo en nuestras oficinas. El tiempo será a media jornada o jornada intensiva . Según el nivel de demanda las condiciones podrían cambiar a un contrato por más tiempo.
+¡Envíanos tu currículum!

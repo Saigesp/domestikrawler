@@ -1,0 +1,25 @@
+
+Desde SICAP estamos buscando un desarrollador .NET con incorporación inmediata para integrarse al equipo de desarrollo de la compañía.
+Sus principales tareas serán:
+* Participar en todos los procesos de desarrollo de software: análisis, diseño, implementación y despliegue.
+* Asegurar la calidad de las soluciones, siguiendo las mejores prácticas de programación.
+* Contribuir a procedimientos de desarrollo y producir documentación eficaz.
+* Implementar y contribuir en los procesos de despliegue.
+* Participar en el desarrollo, soporte y evolución de los sistemas actuales.
+SOLICITAMOS:
+* Grado de Ingeniería de software o equivalente con 6 años de experiencia desarrollando aplicaciones Web ASP.NET lenguaje C# y Visual Studio contra bases de datos SQL Server.
+* Sólidos conocimientos de POO (Programación Orientada a Objetos).
+* Amplios conocimientos de ASP.NET (WebForms) Framework .NET 3.5 o superior (LINQ, ORM EF).
+* Conocimientos de desarrollo con componentes EXT.NET 2.2.0.40838.
+* Conocimiento de SQL Server 2008/2012, procedimientos almacenados, triggers, Integration Services y Reporting Services.
+* Imprescindible nivel B2 de Inglés.
+TAMBIÉN SE VALORARÁ CONOCIMIENTOS EN:
+* Metodologías ágiles: Scrum, Kanban, XP, Lean Development.
+* Testing: Unit Testing, TDD, Mocking.
+* ASP.NET MVC / HTML5 / CSS3 / JavaScript / jQuery.
+* WCF.
+* DevOps: integración continua, control de calidad, gestión de
+despliegues.
+* SQL Server Analysis Services, Integration Services and Reporting Services.
+
+Horario: Lunes a Jueves 8:30-17:30. Viernes de 7:30-15:30hs 

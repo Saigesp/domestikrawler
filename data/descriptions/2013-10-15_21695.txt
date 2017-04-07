@@ -1,0 +1,25 @@
+
+If you have proven experience in JavaScript, HTML, CSS, and would like to be challenged on a daily basis, this position may be just what you are looking for!
+yuilop is expanding its service and app to the Web, we are looking for someone to join our experienced Web App team and help us build great new things with the very latest Web platform technologies.
+We are looking for a developer who loves technology and who strives towards elegant and efficient design. The successful candidate will be involved in developing cutting edge software. 
+Role
+To contribute to the planning and subsequent development of yuilop web 
+To work within yuilop development/project life cycle from analysis to implementation, test and release
+Design: Implement Pixel Perfect UI. Smooth and responsive. Increase the pleasure of using our Application.
+Reliability:  Bugs are not welcome. Passion for code perfection is required.
+Product: Develop with an overall understanding of the product.
+Performance: Nobody likes a slow product.
+You
+Demonstrable understanding of complex Javascript development concepts and SPA (Single Page Application)
+Solid Web platform technologies knowledge
+Understanding of front-end performance issues
+Development experience with HTML5 and tools such as Java Spring, jsunit, jstestdriver, mocha, selenium and  maven
+Strong experience in a range of JS frameworks – eg:  jQuery, YUI, ExtJs, Prototype
+You must be a self-starting, enthusiastic team-player who will be willing and able to help colleagues; articulate with excellent communication skills; deadline/delivery conscious; and flexible to changing priorities
+Bonus
+Experience with Node.js
+Experience with XMPP
+Experience with WebRTC
+Start date: ASAP
+Location: Barcelona or Murcia
+Offer: We offer creative freedom, as well as fun work environment

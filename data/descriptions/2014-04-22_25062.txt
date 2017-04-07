@@ -1,0 +1,10 @@
+
+Estamos buscando un programador/desarrolador para incorporacion inmediada como freelance.
+Requisitos imprescindibles:
+- Experiencia en entorno LAMP.
+- Experiencia en Symfony 2
+- Experiencia con MySQL.
+- Desarrollo con JQuery.
+- Uso de control de versiones GIT o SVN.
+Requisitos deseados:
+- Experiencia en Api's.

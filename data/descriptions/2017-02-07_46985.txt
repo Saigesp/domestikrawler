@@ -1,0 +1,19 @@
+
+MEEU se presenta como un multiespacio donde disfrutar del ocio experiencial con carácter cultural y vocación internacional, cosmopolita, con multitud de ofertas y con posibilidades de acoger eventos con todo tipo de contenidos de calidad.
+Ubicado en la estación madrileña de Chamartín, este espacio vanguardista, único en Madrid, nace con el objetivo de convertirse en un referente cultural y entretenimiento de Madrid, con especial interés por los eventos pop-up, donde se mezclan las artes plásticas, audiovisuales, música en directo, gastronomía, deporte, familia, negocios, oferta de lifestyle, con formatos en constante evolución y organizados tanto de forma propia como por terceros.
+Con todo esto, queremos ser un referente en el sector de ocio ligado a la tecnología, y ahora mismo estamos buscando a dos programadores de aplicaciones nativas para iOS y Android.
+Necesitamos a una persona acostumbrada a trabajar en equipo, dinámica con experiencia de al menos dos años en la programación iOS o Android.
+Valoraremos de manera muy positiva el que haya publicado alguna app o que haya participado de manera activa en alguna aplicación que actualmente pueda descargarse en Google Play o Apple Store.
+Ofrecemos una oferta salarial acorde a la experiencia, y un ambiente de trabajo joven y dinámico, en un sector de ocio pionero en España.
+Los requisitos son:
+- Conocimientos altos en lenguajes de programación nativa para iOS o Android (Java / Swift 3 / Objetive C).
+- Habilidad para escribir código limpio, legible y reutilizable.
+- Habilidad para depurar errores (debugging).
+- Conocimiento y experiencia en el uso de software de control de versiones GIT.
+- Desarrollo de APIs REST para la comunicación web con la aplicación.
+Se valorará:
+- Experiencia en el desarrollo UX de aplicaciones.
+- Conocimientos de Angular JS y otros frameworks.
+- Desarrollo híbrido (Phonegap o Cordoba).
+- Conocimientos de PHP y algunos de sus frameworks.
+

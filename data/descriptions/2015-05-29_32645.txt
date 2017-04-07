@@ -1,0 +1,35 @@
+
+Android Developer
+Location: Spain
+Duration: Full-Time
+Salary: Dependent on Experience and Productivity
+SuitePay is seeking an experienced Android Developer to create and support native payment acceptance products.    We seek an individual that can leverage a software development background with industry experience to make a difference in next-generation payment processing applications.  
+Responsibilities:
+•	Engineer robust and maintainable Android applications with the rest of the SuitePay development team.
+•	Provide outstanding applications with a positive user experience
+•	Meet project deadlines on an independent basis.
+•	Work independently, owning a project from start to finish 
+•	Ensure development adheres to defined requirements and specifications
+•	Work closely with QA to ensure code is clean and bug free
+Qualifications:
+•	At least 2-years developing and testing native Android apps
+•	Strongly proficient in Java
+•	Experience with SQLite and RDBMS
+•	Strong understanding of OOP
+•	Experience using RESTful and JSON web services
+•	Experience with consumer facing UI development
+•	Understands the key differences between the different Android OSes and the UI/UX specifics
+•	Experience with Git/SVN for version control
+•	Experience with public and/or private mobile optimized APIs
+•	Previously worked with development teams of 3+ people
+•	Has experience releasing apps in the Google Play Store
+•	Experience in building an SDK
+•	University Degree in CS
+•	Based in the BCN area
+•	Fluent English
+Bonus Qualifications:
+•	Experience with the Google Location Services API
+•	Experience with RxJava,  Dagger, Appcelerator and JQuery Mobile
+•	Experience with mobile payment applications
+•	Good graphical arts skills in developing apps
+Rates based on experience with increases for improved productivity, includes a benefits package.  

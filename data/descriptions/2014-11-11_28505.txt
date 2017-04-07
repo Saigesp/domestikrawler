@@ -1,0 +1,10 @@
+
+Diseñador digital con conocimientos de maquetación HTML + CSS para la realización de piezas online. 
+Incorporación inmediata en oficinas de Barcelona.
+Experiencia y conocimientos demostrables en:
+-	HTML 5
+-	CSS3
+-	Flash (animación en línea de tiempo)
+-	Programación AS2 (se valorará AS3)
+-	Web Responsive
+-	Maquetación emailings

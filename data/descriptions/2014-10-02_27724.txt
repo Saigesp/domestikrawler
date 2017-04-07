@@ -1,0 +1,10 @@
+
+Nortempo ETT selecciona desarrollador de juegos PHP para importante empresa sita en Hamburgo. 
+Funciones a desempeñar:
+- Creación y desarrollo de juegos. 
+- Desarrollo y mantenimiento de la estructura y lógica.
+Requisitos:
+- Amplio conocimiento práctico en PHP. 
+- Experiencia en el desarrollo de juegos. 
+- Experiencia con frameworks como Zend or Symfony. 
+- Experiencia práctica con Databases.

@@ -1,0 +1,29 @@
+
+Descripción de la oferta:	
+Gran empresa del sector industrial, con proyección internacional y proyectos de continua expansión y crecimiento, selecciona para su Departamento de IT ubicado en su sede central en Cornellá de Llobregat (Barcelona) Administrador/a de BBDD (Oracle y MySQL) en entornos Linux /Aix.
+Funciones:
+•	Administración de BDs Oracle y MySQL.
+•	Monitorización del rendimiento y la estabilidad de los diferentes entornos de BD administrados.
+•	Tunning activo de las BDs.
+•	Colaboración con equipos de Desarrollo para la optimización del rendimiento de las aplicaciones.
+•	Instalación Software y parches.
+•	Documentación de los entornos administrados.
+•	Troubleshooting y resolución de problemas.
+•	Scripting AIX/Linux.
+•	Colaborará en la administración de sistemas AIX y Linux.
+•	Parametrización del S.O. en relación al rendimiento de las BBDD.
+•	Migraciones de versión.
+Requisitos Mínimos:	
+•	Formación Universitaria (Informática o Telecomunicaciones).
+•	Experiencia en maquinaria industrial de 3 a 5 años.
+•	Experiencia contrastada, tanto en Oracle, como en MySQL.
+•	Experiencia en entornos UNIX / Linux en la línea de comandos: C, scripts, Oracle
+•	Buena comunicación tanto escrita como hablada.
+•	Nivel medio de inglés (escrito y hablado).
+•	Capacidad de trabajo en equipo.
+Se valorará:	
+•	Experiencia y conocimientos en Tomcat, Apache, ...
+•	Experiencia y conocimientos en SQLserver.
+•	Experiencia y conocimientos en soluciones BRS.
+•	Experiencia en empresa multinacional.
+

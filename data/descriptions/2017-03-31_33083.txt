@@ -1,0 +1,16 @@
+
+Simplelógica es una empresa de desarrollo que forma parte de The Cocktail. Contamos con un equipo de 20 personas entre desarrolladores de back, de front y jefes de proyecto.
+Buscamos un/a Desarrollador Front-end. Con esto entendemos que tienes conocimientos y experiencia trabajando con HTML, CSS, Javascript y que te sientes cómodo integrando HTML con código de servidor (Nosotros utilizamos Ruby, pero si tienes experiencia con PHP, Python, Java o cualquier otro nos va a parecer estupendamente).
+Trabajamos en un entorno joven y distendido, con un alto nivel de profesionalidad, donde se fomenta la responsabilidad individual y la colaboración. Nunca te irás a casa sin haber aprendido algo nuevo de tus compañeros.
+¿Qué esperamos de ti?
+- Más de 2 años de experiencia como desarrollador Front-end manejando HTML,CSS, JavaScript.
+- Nivel experto en JavaScript
+- Manejo librerías JS tipo: jQuery, zepto, Backbone.js, Ember.js ...
+- Dominio HTML5 y CSS3.
+- Experiencia con Sass.
+- Manejo de algún framework para generar estáticos: Nanoc, Middleman, Serve ...
+- Experiencia en desarrollo para Móviles (responsive design).
+- Desarrollo cross-browser.
+- Pasión por los estándares Web.
+- Experiencia con herramientas de control de versiones (idealmente git).
+El puesto de trabajo es presencial en nuestra oficina de Oviedo. Si crees que encajas bien en esta descripción y te atrae la idea de trabajar en un entorno agradable y con unos compañeros Extremadamente Simpáticos™, ponte en contacto con nosotros escribiéndonos a remembermyname@simplelogica.net

@@ -1,0 +1,6 @@
+
+Tric World 33, es una empresa Española que desarrolla software diseñado específicamente para los Recursos Humanos. 
+Estamos buscando programador JAVA para departamento de IT con conocimientos y/o esperiencia en eXtreme Programming (XP), Scrum así como en tecnologías Java, Java EE (Java Platform, Enterprise Edition), Hibernate, Spring, Groovy & Grails, Andorid, Objetive C, HTML, JavaScript, CSS, Linux, Tomcat y MySQL
+Posibilidades de crecimiento interno en función de valía.
+Graduados en IT con o sin experiencia laboral y con conocimiento en desarrollo de tipo Scrum metodologías ágiles.
+

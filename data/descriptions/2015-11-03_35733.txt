@@ -1,0 +1,32 @@
+
+Analista Programador Backend / Frontend
+Descripción del Puesto 
+Empresa internacional del sector de las Energías Renovables requiere en su Departamento de IT (Oficina de Sevilla) incorporación de un nuevo miembro con el rol de Analista Programador, con experiencia demostrable en las áreas de Back-end y Front-end para el desarrollo de soluciones informáticas en el ámbito empresarial. 
+Requisitos 
+Será imprescindible para desempeñar el trabajo un alto nivel de conocimiento y experiencia programando con las siguientes tecnologías, métodos y herramientas: 
+En el área de Backend:
+- Al menos un lenguaje del lado del servidor (Python / Ruby / .NET)
+- Al menos un framework MVC (Django / Ruby on Rails / ASP.NET)
+- SQL aplicado a alguna de las principales DB (SQL Server, MySQL, Oracle SQL)
+- Conexión de bases de datos (APIs / ODBCs)
+En el área de Frontend:
+- JavaScript, AJAX y jQuery
+- Consumo de datos a través de APIs Rest
+- HTML5, CSS3
+En el área de Análisis y Desarrollo de Proyectos:
+- Modelado Requisitos / Casos de uso / Reglas de negocio
+- Modelo de datos (Diagrama de clases) / Interfaces gráficas
+- Solidez en el uso de patrones de diseño y arquitectura de software
+- Solidez en el desarrollo de web apps
+Será muy valorable experiencia con:
+- AngularJS / Backbone.js / Ember.js
+- Otras librerías JS de representación de gráficas / mapas (Highcharts / OpenLayer)
+- Tecnologías JS del lado del servidor (node.js / stack MEAN)
+- Técnicas Ágiles de programación (TDD, extreme programming, inversión del control)
+Buen nivel de inglés.
+Se aportarán pruebas (proyectos realizados / titulaciones / referencias verificables) de todos los conocimientos requeridos.
+Ofrecemos 
+25.000€ bruto anual
+- Oportunidad de crecimiento dentro del área de desarrollo.
+- Buen ambiente laboral. Equipo joven, dinámico.
+- Horario de 9:00-18:00 (con pausa de 1 hora)

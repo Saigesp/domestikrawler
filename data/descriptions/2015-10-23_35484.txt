@@ -1,0 +1,30 @@
+
+KeeDigital is a fresh startup located in the heart of Barcelona. We are specialised in Digital Health & Fitness
+KeeDigital is all about wellness, we are committed to providing our users with the tools that will make them feel good. Founded in 2014, our dynamic and multi cutlural team has been working hard on different project, to come up with the digital health & fitness product that will stand out of the crowd. we have amazing international partners who trust in us and have been featured in international press including Vogue magazine and Corriere de la sera.
+ We have developed a very innovative wellness app, available on IOS and its currently live in the market. we are looking for a dynamic, creative and pro-active candidate to join our company, here is the offering.
+Job description: 
+Web Developer with experience in .Net, Microsoft SQL Server and Webservices, and knowledge of JSON and Entity Frameworks, and familiarity with Mobile Apps to join our product team in Barcelona
+Responsibilities:
+- Develop and maintain the Web Backend and SOAP api. 
+- Maintain DDBB (SQLSERVER) and evolve the data model. 
+- Administrate the pool of dedicated servers provisioning the service. 
+- Propose new functionalities to improve user experience.
+- Collaborate and coordinate a multidisciplinary team (UX/UI and Mobile Apps Developers) 
+- Fix bugs 
+- Stay tune for new technologies that may apply to our app 
+- In the future, lead the development team
+Requirements: 
+- At least 4 years of experience developing in .NET (C#).
+- Passion for code quality and test automation 
+- Experience in SOAP architectures and JSON 
+- Ability to work in teams 
+- Passion for technology
+- Experience in Objective C (IOS) programming is a plus
+- Experience in Java (Android) programming is a plus
+- Experience in HTML/CSS/jQuery is a plus
+Benefits:
+- join a dynamic team
+- flexible working hours
+- central office, easy transport system from all almost everywhere in Barcelona
+-sunny office !
+- salary to be discussed upon interview

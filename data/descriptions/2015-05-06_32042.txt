@@ -1,0 +1,17 @@
+
+Necesitamos varios programadores en CakePHP / Symfony / Zend, con experiencia demostrable en proyectos anteriores, para trabajar en nuestras oficinas de Madrid (Las Rozas).
+Requerimientos necesarios: 
+- Entre 1 y 4 años de experiencia en diseño web empleando patrones MVC. 
+- Conocimientos de HTML5. 
+- Nivel avanzado en Frameworks PHP. 
+- Experiencia en programación orientada a objetos y patrón MVC. 
+- Nivel avanzado en frameworks front-end como jQuery. 
+- Nivel avanzado JavaScript y CSS. 
+- Trabajar habitualmente con sistemas de repositorios (subversion, git, bitbucket,...). 
+- Personalidad emprendedora, dinámica y con muchas ganas de participar en un gran proyecto. 
+- Capacidad organizativa y de autogestión, así como experiencia trabajando en equipos pequeños o en solitario.
+Requerimientos deseables: 
+- Conocimientos de programación AS3, Air y Flex. 
+- Nivel de Ingles Medio - Alto. 
+- Carnet de conducir y coche propio. 
+- Capacidad de viajar.

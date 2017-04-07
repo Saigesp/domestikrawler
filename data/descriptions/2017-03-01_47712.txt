@@ -1,0 +1,25 @@
+
+We are looking for an outstanding Front end developer to be responsible for the coding, innovative design and layout of our website. You will build our website from concept all the way to completion from the bottom up, fashioning everything from the home page to site layout and function.
+Main responsibilities:
+●	 Write well designed, testable, efficient code by using best software development practices
+●	Create website layout/user interface by using standard HTML/CSS practices
+●	Integrate data from various back-end services and databases
+●	Gather and refine specifications and requirements based on technical needs
+●	Create and maintain software documentation
+●	Be responsible for maintaining, expanding, and scaling our site
+●	Stay plugged into emerging technologies/industry trends and apply them into operations and activities
+●	Cooperate with web designers to match visual design intent
+●	Cooperate with backend team for new features integration and/or bug fixing.
+Expertise and skills required:
+●	Proven working experience in web programming
+●	Familiarity with PHP
+●	Top-notch programming skills and in-depth knowledge of avascript, jQuery, LESS/SASS
+●	Familarity with bootstrap and other frontend framework (like React, AgularJS, Node.js)
+●	Familiarity with agile methodologies (Scrum, Kanban) / Jira
+●	Excellent team working skills
+●	A solid understanding of how web applications work including security (especially client side such as XSS), session management, and best development practices
+●	Adequate knowledge of relational database systems, Object Oriented Programming and web application development
+●	Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques.
+●	Proactive and used to work respecting deadlines
+●	BS in computer science or a related field
+

@@ -1,0 +1,19 @@
+
+En RocketROI buscamos gente que quiera desarrollar su carrera en uno de los sectores con más crecimiento de la actualidad. Por ello, requerimos de desarrolladores Java Backend con 2 o 3 años de experiencia que estén buscando nuevos retos tecnológicos, para realizar tareas de desarrollo de nuevas herramientas de la plataforma, perfeccionamiento de algoritmos y procesamiento de datos (Big Data).
+Además, construirás una sólida experiencia técnica y de servicios en marketing digital, aportando valor añadido 100% real a tu carrera profesional desde el primer momento. En RocketROI encontrarás un equipo joven y con ambición, formado por Desarrolladores, Data Scientists y profesionales del sector.
+Características mínimas:
+-2+ años de experiencia en puesto similar
+-Experto en tecnología Java/J2EE
+-Experiencia con los siguientes frameworks: servlets, JSP, JSF, EJB, JPA
+-Conocimientos en BBDD PostgreSQL
+-Conocimientos NoSql (Cassandra)
+-Experiencia en desarrollo web (HTML5, jQuery, etc.)
+-Certificación Java SUN/Oracle
+-Licenciados en matemáticas (o similares)
+Características deseadas:
+-Experiencia en Groovy/Grails
+-Conocimientos en TDD (Junit, etc.)
+-Trabajo con gestores de versiones (GIT, SVN)
+-Experiencia con el desarrollo de sistemas distribuidos y escalables (sistemas basados en web, aplicaciones web, portales web, servicios web, API).
+-Experiencia con metodologías de gestión y desarrollo de proyectos (SCRUM)
+-Experiencia en AWS (Amazon Web Services)

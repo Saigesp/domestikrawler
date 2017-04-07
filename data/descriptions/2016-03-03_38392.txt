@@ -1,0 +1,24 @@
+
+En Iwantic, primera agencia española especializada en selección de perfiles digitales, reclutamos a los candidatos más brillantes para los empleos que están cambiando el mundo.
+En esta ocasión, seleccionamos un Gerente de Sistemas (SAP) Business Intelligence con al menos 5-6 años de experiencia para unos de los grupos líderes mundiales en infraestructuras.
+Entre las funciones a desarrollar destacan:
+Desarrollar las soluciones en el ámbito de sistemas de información de Business Intelligence que soportan el Modelo Industrial del grupo.
+Asegurar, en su ámbito de responsabilidad, la gestión eficiente de las unidades de negocio mediante el uso de las buenas prácticas vinculadas a los sistemas de información.
+Dirigir proyectos que aporten nuevas soluciones al grupo o rollouts de las soluciones corporativas en nuevas Unidades de Negocio.
+Analizar los avances tecnológicos que puedan satisfacer nuevas necesidades de las empresas del grupo, identificando mejoras funcionales y tecnológicas, realizando tareas de investigación, desarrollo e innovación tecnológica (I+D+I).
+Presupuestar, planificar y realizar el seguimiento económico de los proyectos de su ámbito de responsabilidad.
+Planificar y realizar en reuniones periódicas con los usuarios clave de las diferentes empresas del Grupo con el objetivo de establecer un foro de colaboración que facilite el conocimiento de las operaciones vinculadas a las áreas de negocio así como el uso de los sistemas corporativos.
+Dirigir a los colaboradores tanto internos como externos, así como coordinar el resto de los recursos adjudicados a su ámbito de responsabilidad
+Requerimientos técnicos:
+Se requiere experiencia en los siguientes productos tecnológicos:
+Solución de SAP BPC (Business Planning y Consolidación) tanto en los ámbitos de planificación como de consolidación.
+Soluciones de la suite “Business Intelligence” de SAP.
+Plataforma SAP HANA/BW.
+SAP BusinessObjects Analysis, edition for Microsoft Office.
+SAP BusinessObjects Design Studio.
+Valoración de conocimiento de los modelos de datos subyacentes en los componentes (módulos) de SAP ECC (FI-CO-MM-PS).
+Formación requerida: Titulación superior (Ingeniería o Económicas).
+Experiencia mínima: 5-6 años (en posición similar o en empresa de consultoría).
+Idiomas: castellano e inglés.
+Salario según valía.
+

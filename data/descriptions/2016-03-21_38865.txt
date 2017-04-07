@@ -1,0 +1,23 @@
+
+Desde Enxendra buscamos un compañero de trabajo para incorporarse a nuestro equipo de Madrid.
+Somos una empresa de producto enfocada en desarrollar soluciones que facilitan la vida a personas y empresas en todo lo relativo a la factura electrónica y la firma electrónica.
+Buscamos una persona resolutiva y proactiva, a la que le guste el desarrollo y que se vea reflejada en el siguiente perfil.
+Qué pedimos
+- Amplios conocimientos de Java
+- Experiencia con Spring, Hibernate y Git.
+- Manejo en la capa cliente: HTML5, Bootstrap, JavaScript, CSS.
+- Experiencia en la creación y consumo de servicios web (REST y SOAP)
+- Ilusión y ganas por continuar aprendiendo y por mejorar constantemente.
+Valoraremos positivamente
+- Experiencia en TDD e integración continua.
+- Participación en proyectos open source.
+- Conocimientos de factura electrónica y firma electrónica.
+- Conocimientos de Blockchain.
+- Buen nivel de inglés.
+Qué te ofrecemos
+- Sueldo acorde a tu experiencia y tu valía.
+- Formar parte de la toma de decisiones en la definición técnica y funcional de nuevos productos y servicios.
+- Libertad y responsabilidad para desarrollar tu trabajo.
+- Flexibilidad de horario.
+- Posibilidad de teletrabajar algún día a la semana.
+Si crees que puedes encajar, no lo dudes, queremos conocerte :)

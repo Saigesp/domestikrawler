@@ -1,0 +1,9 @@
+
+En Wesapiens buscamos un programador para mantener y mejorar el Front-end (Java Script) y Back-end (Phyton y App Engine) de la plataforma http://www.wesapiens.org/new/ así como desarrollar la versión responsive y nuevas aplicaciones en la web del portal.
+Perfil: 
+Experiencia en los lenguajes de programación Phyton y JavaScript, se valorará muy positivamente el conocimiento en programación con Google App Engine y Backbone.js
+Ofrecemos:
+Incorporación inmediata
+Perspectivas de crecimiento y proyección profesional
+Posibilidad de contrato indefinido
+Salario a negociar en función de la valía, la capacidad resolutiva y la experiencia

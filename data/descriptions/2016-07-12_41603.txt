@@ -1,0 +1,10 @@
+
+La empresa c3-po usa la fuerza requiere una nueva incorporación para sus oficinas en Palma de Mallorca:
+Se requiere diseñador Web con las siguientes habilidades:
+- Diseñador web (Sketch, Illustrator o Photoshop)
+- Dominio de css y js
+- Conocimientos altos de less y jQuery
+- Conocimientos medios de desarrollo en WordPress
+El perfil que buscamos debería ser capaz de realizar un diseño web a partir de la estructura de la información aportada y de la base gráfica de nuestros clientes.
+Una vez el diseño está definido, debería ser capaz de desarrollar toda la parte front-end (css y js) y se valorará conocimientos de PHP.
+Imprescindible presentar portfolio.

@@ -1,0 +1,12 @@
+
+Buscamos un programador web para trabajar, en principio, media jornada, con posibilidad de ampliar a jornada completa más adelante.
+Deberá estar capacitado para desarrollar una web a partir de un PSD dividido en capas.
+Se requiere un alto nivel de:
+- HTML5
+- CSS3
+- AJAX
+- Javascript
+- jQuery
+- PHP
+- MySQL
+- Wordpress

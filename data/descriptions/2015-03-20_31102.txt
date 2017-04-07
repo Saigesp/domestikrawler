@@ -1,0 +1,4 @@
+
+Buscamos un desarrollador back-end senior (presencial en Madrid) que se maneje bien con PHP y MySQL en la producción de una plataforma web. La duración del proyecto es de al menos dos meses y en función de los resultados planteamos incorporar a la plantilla.
+La experiencia mínima es de un par de años con tecnologías web. Algo de producción front (html, css, jQuery) sería interesante puesto que tendrá que integrarse con el equipo de programadores front.
+Usamos una API REST, GIT para la gestión de versiones, jQuery para enganchar el front con el back y estamos implementando un mecanismo de Unit Testing. Si todo esto te suena bien contáctanos.

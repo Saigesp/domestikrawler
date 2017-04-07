@@ -1,0 +1,28 @@
+
+Oferta Desarrollador Web Backend y/o Frontend (autónomo/freelance):
+AeroDmarkets es una startup recién creada que pretende cambiar las reglas del juego en el mercado aeronáutico, mejorando la competencia y la interconexión entre compradores y vendedores.  Para ello el primer reto es desarrollar una apliación web que permita implementar las ideas que AeroDmarkets quiere poner en práctica. Esta plataforma debe ser totalmente innovadora, con una atención muy importante en el diseño de la experiencia de usuario.
+Si eres una persona con algo de experiencia en desarrollo de aplicaciones web en Python y te gustaría participar en una startup de reciente creación donde puedes crecer, aportar tus ideas al equipo y donde serás escuchado, no lo dudes únete!. Somos una start-up recién creada, con muchas ganas de sacar un nuevo producto que creemos puede suponer un cambio radical en este mercado tan cerrado. 
+Estamos basado en Madrid, pero no es necesario que residas allí si estás dispuesto a viajar a Madrid para tener reuniones con el equipo aproximadamente una vez al mes cara a cara y reuniones exprés por videoconferencia una vez a la semana.
+Incorporación inmediata. 
+Plazas disponibles: 2-3
+Perfil:
+- Capacidad para trabajar en equipo, y con plazos ajustados.
+- Eres dinámico.Te gusta asumir riesgos, y resolver rompecabezas.
+- Experiencia tanto en backend como frontend. Al menos una de las dos es necesaria.
+- Capacidad para resolver problemas y proponer soluciones al equipo.
+- Motivado y con ganas de empezar algo desde cero.
+Experiencia para backend:
+- Experiencia en desarrollo con Python y web2Py, Django se valorará. 
+- Competente en entornos Linux y conocimiento de estructura de servidor.
+- Experiencia con BBDD SQL (MySQL)
+- Experiencia control de versiones (Git)
+Experiencia para frontend:
+- Experiencia en creacion de webs con HTML,5 CSS3, javascript.
+- Experiencia con estructuras de datos JSON
+- Experiencia control de versiones (Git)
+Deseable:
+- Experiencia en despliegue de aplicaciones web
+- Experiencia en desarrollo de aplicaciones basados en modelos MVC y REST API
+- Experiencia en AngularJS (solo para frontend).
+Tiempo de contratación: Inicialmente 3 meses para desarrollar la aplicación básica o MVP (minimum value product), Ampliable 
+Rango de Salario: 20.000-24.000 euros brutos anuales.

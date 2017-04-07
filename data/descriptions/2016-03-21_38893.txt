@@ -1,0 +1,7 @@
+
+Necesitamos incorporar a una persona para participar en el desarrollo de aplicaciones web en PHP y HTML, principalmente destinadas al turismo (hoteles).
+Utilizamos un framework propio para la integración de plantillas. La curva de aprendizaje no es demasiado elevada.
+Requerimientos: 
+Se necesitan conocimientos y experiencia demostrable en programación PHP, maquetación HTML 5, Javascript (JQUERY), CSS3 ... 
+Se valorarán conocimientos de SQL, NODEJS, desarrollo de apps híbridas, otros frameworks, sistemas de control de versiones...
+Jornada completa

@@ -1,0 +1,73 @@
+
+Estamos buscando un desarrollador web senior de Backend / Frontend en entorno J2EE y Spring para desarrollo de una plataforma web, que integrada con el resto de componentes permite ofrecer a los usuarios experiencias en espacios inteligentes.
+El candidato debe ser capaz no solo de implementar sino también de definir y diseñar los distintos componentes de la plataforma junto con el resto del equipo y de gestionar a otros integrantes del equipo.
+El candidato informará directamente al CTO y trabajará estrechamente con los otros equipos tecnológicos (mobile, big data, etc.) para la creación de un gran proyecto.
+Responsabilidades:
+
+Diseño y construcción de la plataforma:
+
+
+	Autenticación y control de acceso.
+
+		Servicios web (API REST) para integración con dispositivos móviles
+	Módulo de gestión de entidades (CRUD).
+		Módulo cuadros de mando y reporting
+
+		Integración con CMS, CRM y otros sistemas.
+
+
+	Gestión de la integración continúa en los procesos de desarrollo y versionado de los distintos componentes de la plataforma.
+
+
+Requisitos:
+
+Ingeniero en Informática o similar.
+
+	Al menos 3 años de experiencia en desarrollo web JAVA.
+
+Capacidades:
+
+
+	Experiencia en arquitecturas escalables
+
+	Documentación a alto nivel de la solución.
+
+Visión general en conjunto de la solución e interacciones con otros componentes.
+
+	Mente técnica, abierta y despierta para las nuevas tecnologías.
+
+
+Conocimientos mínimos:
+
+
+	Spring Framework
+
+	Groovy/Grails
+
+	Tecnologías web: API REST, Web services, JSON, XML
+
+	HTML5, CSS3, Javascript, bootstrap.
+
+AngularJS, jQuery ,
+
+	Control de versiones GIT
+
+	Bases de datos MySQL, Postgres
+
+
+	Conocimientos deseables:
+
+
+		Aplicación de metodologías ágiles: SCRUM
+
+		Desarrollo de aplicaciones web móviles
+
+		Otros lenguajes como PHP, .NET
+
+		CMS, CRM, BCS
+
+		Bases de datos NoSQL: MongoDB
+
+		Cloud computing
+
+

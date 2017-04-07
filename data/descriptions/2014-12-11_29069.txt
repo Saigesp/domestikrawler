@@ -1,0 +1,23 @@
+
+This position is for an experienced Frontend Developer with 3-4 years experience minimum, specialising in Javascript, with experience of UX/UI practices, and working on high-traffic websites.
+You should be a self-starter who strives to exceed brief expectations, on time (or before, we’re cool with that), every time. Someone whom likes a challenge, and as a team player will bring additional skills to help us all learn and grow.
+There is going to be a loooot of work to do in 2015, so this is definitely only a position for someone whom knows they can hit the ground running and is passionate about their chosen career.
+We’re looking for you, so please help us by adding in your cover letter any work or experience you think sets you apart from other candidates.
+Minimum requeriments:
+- ¡¡¡PORTFOLIO!!! With definitive examples of visuals and code
+- Extremely competent with Javascript, specifically AngularJS is desired
+- Pixel perfect… Seriously.
+- Master of CSS, LESS, HTML, and PHP
+- Day-to-day experience working with Git and/or other versioning systems
+- Has worked in a development framework like Scrum etc
+- Web standards compliant
+- Experience cross-browser testing their work
+- Experience working with mock-ups and realising them in code
+- Professional level English
+You will definitely be asked to interview if you can show you:
+- Are visually minded, considering UX/UI as priorities in design and functionality when undertaking anything
+- Are clean and proficient with your code, always looking to improve and refine your work
+- Have experience for AAA brands and/or advertising agencies is a big bonus
+- Have a portfolio includes examples of having worked on high-traffic sites
+- Have worked with a framework like symfony (please list each/any and be honest about your ability in them)
+Thanks for taking the time to read through this, we’re excited to hear from you! Good luck!

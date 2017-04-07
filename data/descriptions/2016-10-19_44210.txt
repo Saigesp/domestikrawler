@@ -1,0 +1,9 @@
+
+ANEXIA ofrece soluciones de software, hardware y consultoría efectivas para todas las áreas de  negocio.
+Nuestro compromiso es ofrecer una ATENCIÓN GLOBAL a las necesidades informáticas y empresariales de nuestros clientes.
+La confianza depositada por nuestros clientes avala nuestra experiencia en Desarrollo de Software e Ingeniería de Sistemas. A su vez, nuestra especialización en el mundo de la empresa nos permite facilitar los procesos necesarios para facilitar las certificaciones de calidad ISO que su empresa merece.
+Fundada en 2002, Anexia tiene como objetivo hacer aumentar la productividad, la innovación y la reducción de costes a las empresas.
+En todas nuestras áreas de actuación, buscamos siempre ofrecer una atención totalmente personalizada, sincera y cercana con nuestros clientes.
+El enorme crecimiento en clientes y proyectos hace que necesitemos incorporar 3 programadores con experiencia trabajando con C#, Visual Studio 2010/2012, Net, Framework 3.5 o superior. Conocimientos HTML, Css, Javascript y JQQuery UI. Experiencia trabajando con SQL Server 2008 o superior. Experiencia con Linq para escribir queries optimas sobre bases de datos complejas.
+Ofrecemos contrato desde el primer día y salario a convenir en función de experiencia y valía.
+

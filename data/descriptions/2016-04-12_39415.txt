@@ -1,0 +1,18 @@
+
+En las próximas semanas incorporaremos a 2 perfiles de desarrollo en Android e iOS para ampliar nuestro equipo de movilidad en Madrid. 
+Conocimientos requeridos:
+- Imprescindible experiencia en desarrollo de aplicaciones nativas
+- Android: desarrollo de aplicaciones nativas con Java en Android Studio
+- iOS: desarrollo de aplicaciones nativas con Objective-C en Xcode.
+- Conocimientos de desarrollo de aplicaciones cliente-servidor y uso de APIs REST a través de HTTP Y JSON.
+- Conocimientos de control de versiones y publicación en Google Play Store y App Store.
+Se valorará:
+- Experiencia en frameworks para desarrollo a Apps híbridas (PhoneGap, Ionic, etc…)
+- Trabajo en equipo, iniciativa propia, creatividad y aportación de ideas.
+- Conocimiento de otros idiomas (inglés)
+¿Qué ofrecemos?
+Formación continua con nuestro equipo de desarrollo actual. 
+Jornada completa con horario flexible
+La posibilidad de trabajar en un entorno joven y dinámico.
+Salario a negociar en función de experiencia y conocimientos.
+

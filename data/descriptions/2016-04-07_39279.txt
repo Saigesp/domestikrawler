@@ -1,0 +1,24 @@
+
+En Iwantic, primera agencia española especializada en selección de perfiles digitales, reclutamos a los candidatos más brillantes para los empleos que están cambiando el mundo.
+En esta ocasión, seleccionamos un/a Director/a de QA, para importante empresa del sector Internet, con sede en Madrid.
+Será representante del equipo de QA en la empresa, por lo que es muy importante tener buenas habilidades de comunicación y proyectar el trabajo realizado del equipo a otros departamentos.
+Entre las funciones principales del puesto destacan: 
+Reporte directo al Gerente de Ingeniería.
+Gestión de las métricas de control de calidad para la mejora del rendimiento del equipo de desarrollo y el equipo de QA.
+Implementación de los procesos de calidad en desarrollo trabajando con equipos interdepartamentales. 
+Diseño y apoyo a las estrategias de verificación para escenarios técnicos complejos.
+Participación en la formación y tutoría de otros miembros del personal de QA.
+Trabajar estrechamente con equipos multi-funcionales, entregando productos de alta calidad.
+Requisitos:
+Mínimo de 7 años de experiencia en control de calidad de software, y un mínimo de 2 años de posición de liderazgo.
+Ingeniería Informática o disciplina relacionada.
+Gran capacidad de análisis y experiencia con métricas de control de calidad de software.
+Experiencia en testing de automatización / liderar proyectos de testing de automatización.
+Capacidad de adaptarse rápidamente a los nuevos cambios y prioridades.
+Capacidad de pensar con claridad y resolver problemas de manera eficiente y bajo presión.
+Experiencia en proyectos de desarrollo de software Ágil.
+Excelentes habilidades de resolución de problemas, comunicación interpersonal y gestión de proyectos.
+Gran capacidad de liderazgo, que inspire confianza en el equipo y el respeto, a la par que motivar a los miembros del equipo de una manera creativa y eficaz.
+Conocimientos acerca de las metodologías de desarrollo de software.
+Organización y orientación a resultados.
+

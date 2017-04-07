@@ -1,0 +1,21 @@
+
+Fundada en septiembre de 2009, LetsBonus es una de las mayores webs de comercio electrónico de nuestro país, además de la compañía de compra colectiva pionera en Europa y líder en España con 8 millones de subscriptores y 15.000 comercios colaboradores. Actualmente, la compañía se ha convertido en uno de los más completos marketplaces de planes de ocio y experiencias de nuestro país, con una selección diaria de más de 2.000 propuestas de gastronomía, belleza, cuidado personal, espectáculos, viajes y escapadas, formación y producto, entre otros, con descuentos de en torno a un 70%. La empresa cuenta con un equipo de unos 200 empleados, está presente en 93 localidades españolas y opera en Italia, Portugal y Chile. En 2016 LetsBonus ha pasado a formar parte de un grupo de empresas de e-commerce junto con Groupalia, Offerum y Ofertix, entre otras. 
+Responsabilidades
+● Formar parte del departamento de Business Intelligence.
+● Mantenimiento y evolución de la plataforma de BI.
+● Conocer las necesidades de reporting por parte de negocio y dar soluciones a dichas necesidades.
+● Definir e implementar flujos de información entre distintos sistemas colaborando con el equipo de IT.
+● Participar en el análisis, diseño e implementación del sistema de reporting.
+● Monitorizar el correcto funcionamiento del sistema e implementar controles.
+Se valorarán los conocimientos en:
+● Herramientas presentación datos: Tableau,​ Excel, Oracle Business Enterprise Edition, Qliqview
+● Big Data: Hadoop, Spark, Hive, Kafka, Cassandra, ElasticSearch.
+● Plataformas Email Service Provider: Selligent, ExactTarget, ...
+● Machine Learning: Algoritmos de recomendación, clasificación, ...
+● Lenguajes de programación: Scala, Java, Python, javascript, PHP, R
+● Docker, git
+Habilidad personal:
+● Capacidad de comunicación, colaboración en equipos.
+● Alto nivel de compromiso.
+● Flexibilidad para adaptarse a un entorno altamente cambiante.
+● Proactividad, entusiasmo, mejora contínua

@@ -1,0 +1,9 @@
+
+Buscamos un programador PHP en Madrid capital con conocimientos y experiencia para beca presencial de 1000-1200 euros en oficina de Cuatro Caminos.
+Formarás parte de un equipo para diferentes desarrollos trabajando en gestores de contenidos.
+Requisitos mínimos:
+- PHP y framewoks de desarrollo
+- SQL/MySQL
+- JS (JQuery)
+- XHTML/CSS (crossBrowser)
+- Al menos 1 año y medio de experiencia 

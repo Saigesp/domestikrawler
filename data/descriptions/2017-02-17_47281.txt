@@ -1,0 +1,49 @@
+
+En Zankyou estamos buscando perfiles técnicos para que se incorporen a nuestro actual equipo. No buscamos una experiencia determinada, sólo que te encante programar, que tengas ganas de aprender, de enseñar, mente abierta y, sobre todo, ganas de hacer las cosas bien.
+
+Dentro de una empresa de más de cien personas, el equipo de desarrollo es un pequeño reducto, como el pueblo de Astérix y Obélix en la Galia ;) En general, la media de edad de la empresa está entorno a los 30 años, con muchísimas nacionalidades, gracias a los países en los que tenemos presencia, como Rusia, Polonia, Holanda, Francia, Alemania, Suiza, Portugal, España, Brasil, Perú, Colombia, México, Chile, India, USA, UK,… ¡incluso tenemos algún madrileño!
+
+Entrar a formar parte del equipo Zankyou es una oportunidad única tanto a nivel profesional como de enriquecimiento personal debido a la variedad de retos a los que nos enfrentamos día a día.
+
+Requisitos mínimos
+- Saber programar, no importa el lenguaje, pero si tener conocimiento de programación orientada a objetos (OOP)
+- Ser una persona inquieta y que te encante investigar y aprender
+- Si te gusta tomarte unas birras y hacer deporte, ganarás puntos ;)
+- Inglés, escribimos siempre en el idioma de Shakespeare (y leemos, evidentemente), pero el inglés hablado también es muy necesario.
+- Eres autónomo, capaz de desarrollar módulos, apropiarte de ellos, responsabilizarte de su calidad y, sí, de sus bugs también ;) 
+ Bonus points
+- Programas en PHP. No hace falta que conozcas el lenguaje de memoria (para eso tenemos php.net), pero si que tengas una base para empezar a hacer tareas como churros
+- Programas en Javascript ¿qué sería de un full-stack si no sabe al menos extender un objeto de JS?
+- MySQL. Algún que otro join sabrás hacer, ¿no?
+- GIT. Si no, al menos SVN, que tengas alguna idea, al menos, de que significa ;)
+
+
+Y con éstos, Jackpot!
+- Experiencia en PHP 7
+- PHPUnit
+- Jenkins
+- Intregración continua
+- Dominas Zend casi como el primo menor de Zeev Suraski
+- Clean Code es tu libro de cabecera
+- PSR te suena a algo que no tiene nada que ver con la medicina
+- Que tengas un perfil en Github plagado de proyectos personales que estaremos encantados de cotillear
+
+Responsabilidades
+Esto dependerá de la experiencia en las tecnologías que domines o que conozcas, pero en poco tiempo cada compañero acaba siendo dueño y señor de módulo, proyectos, áreas de aplicación, etc.
+
+En Zankyou tenemos varios proyectos y puedes ser importante en cualquiera, también dependiendo de tus gustos y experiencia. Podrás trabajar a más nivel backend puro, quedarte más cono “javascriptero”, poder echar una mano en nuestras aplicaciones iOS o Android si te motiva, claro.
+
+Aquí trabajamos con Zend, pero no nos importa el framework, ya que debe ser una herramienta para trabajar, no una atadura para tu proyecto.
+
+Somos muy ágiles, tanto que usamos Scrum y Kanban al Zankyou Style. Sólo cogemos lo que necesitamos de cada metodología para ser más productivos.
+
+La búsqueda de nuevos candidatos viene porque nos faltan manos para llevar a cabo todas las ideas chulas que tenemos. Si todavía no te hemos convencido, a corto plazo vamos a movernos a PHP7 y a implantar integración continua, ¿te apetece? ;)
+
+El rango salarial varia en función de la experiencia, pero la horquilla puede estar en 18000-28000€ (sí, muy amplio, pero es que depende de la experiencia)
+
+Info adicional
+En Zankyou nos encanta el deporte. No tenemos un club de corredores como tal, pero somos muchos los que solemos salir juntos a entrenar. Tenemos algunos maratonianos en nuestras filas, otros mediomaratonianos y gente de distancias más cortas ;)
+
+Solemos hacer fiestas de empresa durante el año y alguna que otra escapada a la sierra, ¡el buen rollo está asegurado! Y, en particular, en el equipo de desarrollo, solemos quedar bastante para comer y tomar unas cañas.
+Firmado
+Un futuro compañero 

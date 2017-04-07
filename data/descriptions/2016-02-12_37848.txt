@@ -1,0 +1,5 @@
+
+Buscamos un desarrollador junior que le guste la web y que esté constantemente aprendiendo, capaz de transformar un prototipo en código ágil, legible y que una vez acabado se sienta orgulloso de él :P
+Actualmente trabajamos con PHP: Symfony y Wordpress, además conviene que te desenvuelvas con HTML / CSS, Javascript, Git y Sketch.
+Aunque no todo va a ser picar código, una parte del trabajo consistirá en crear y hacer seguimiento de campañas de Email Marketing, SEM y SEO, pero no es necesaria experiencia en este campo.
+Valoraremos un buen portfolio y que vivas cerca de la oficina (Las Rozas).

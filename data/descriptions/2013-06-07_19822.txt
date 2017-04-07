@@ -1,0 +1,30 @@
+
+Verticomm Network es una Startup ubicada en Barcelona, fundada en 2009 por 3 apasionados del vino y del ecommerce provenientes de empresas punteras de internet como Softonic o eDreams. Lo que empezó como un site de recomendaciones sociales de vino es hoy una red de marketplaces que abarca los sectores de vinos, destilados y cervezas, (Uvinum, en la actualidad con el mayor catálogo de Europa), multideporte (Sportivic), puericultura (Babibum) y mascotas (Mascotic, nuestra incorporación más reciente).
+¿Qué buscamos?
+Queremos incorporar un técnico experto en PHP5, con experiencia en orientación a objetos y patrones MVC, uso y optimización de bases de datos MySQL, así como una base sólida de Javascript &amp; AJAX (si ya usas JQuery, punto extra). Valoraremos experiencia o nociones de: GIT, Memcached, Sphinx, Apache, sistemas y algoritmos de filtrado colaborativo...
+Una de las patas clave de nuestro negocio es la integración de los catálogos de nuestros partners y la consolidación, adaptación y formateo de sus datos en nuestro catálogo, así como de todos los servicios que giran alrededor de la venta de sus productos en nuestros marketplaces. En definitiva: parsing de catálogos, integración con webservices de sus tiendas, tracking de envío, backend para la gestión de sus pedidos… ¿Te suena?
+Buscamos a alguien acostumbrado a resolver problemas en el Mundo Real™, capaz de mantener la mente fría en situaciones de trabajo bajo presión, meticuloso y cuidadoso en los detalles, pero sobretodo: alguien que ame lo que hace, con muchas ganas de aprender, de investigar y de intercambiar conocimiento con el equipo. Vamos… te buscamos a tí.
+¿Qué ofrecemos?
+Formar parte de un verdadero Equipo A de internet, en una compañía en pleno crecimiento, ayudando a construir el site que va a revolucionar el mundo del ecommerce en Europa a través del social shopping, los marketplaces verticales y las recomendaciones personalizadas.
+Queremos que seas parte y causa de esta revolución.
+Creemos firmemente que sólo podremos conseguirlo con un equipo humano excepcional, por eso cuidamos a nuestra gente: el horario es flexible de lunes a jueves y los viernes trabajamos hasta el mediodía, durante todo el año. Además, todos nuestros empleados pueden dedicar parte de su jornada laboral a proyectos de I+D propuestos por ellos mismos.
+¡Ah! Y casi cada viernes al mediodía catamos algún vino, cerveza o destilado en la oficina. ;-)
+Requisitos mínimos
+- Experiencia mínima de 2 años con PHP5 y MySQL.
+- Programación OO y uso de patrones MVC.
+- Conocimientos sólidos de Javascript &amp; AJAX.
+- Capacidad analítica. Cuidado por los detalles.
+- Buenos hábitos en cuanto a la organización del tiempo y el trabajo en equipo.
+- Verticomm es un proyecto con vocación internacional. Como mínimo, deberías poder defenderte en inglés.
+Puntos extra, para nota
+- Experiencia en parsing / data mining.
+- Haber trabajado con sistemas de control de versiones. Actualmente usamos GIT, pero también valdrían Mercurial, Subversion...
+- Uso de la librería de Javascript JQuery
+- Experiencia con motores de búsqueda fulltext como Sphinx o Lucene
+- Conocimientos de Memcached, Redis, MongoDB, Vagrant, Capistrano...
+- Experiencia con los Amazon Web Services: S3, EC2...
+- Experiencia con aplicaciones de e-commerce tipo Magento, osCommerce...
+- Haber trabajado con las API de Facebook, Twitter, Google (GData)...
+- Experiencia con algoritmos o sistemas de filtrado colaborativo
+- ¡Que te gusten el vino, el deporte, los niños o las mascotas! ;-)
+Si has leído esto y crees que eres La Persona Adecuada, estamos deseando conocerte: Envíanos un email a jobs+php@uvinum.com

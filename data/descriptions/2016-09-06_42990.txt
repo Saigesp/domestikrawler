@@ -1,0 +1,16 @@
+
+Nuclio, Venture Builder en Barcelona, necesita incorporar a su nuevo equipo técnico a un Junior Developer para creación de una nueva startup. Nuclio es una company builder en continuo flujo de ideas y startups. Emprendemos durante todo el año, creando, impulsando y desarrollando múltiples proyectos a la vez.
+Skills:
+Mínimo +1 años de experiencia. 
+Experiencia en POO, Websevice / REST, mysql, JSON. 
+Experiencia con GIT (control de Versiones). 
+Experiencia en algún framework (imprescincible). 
+Conocimientos demostrables en HTML5, CSS3, jQuery. 
+Capacidad para la resolución de problemas. 
+Capacidad para trabajar en un entorno cambiante y dinámico.
+¿Qué ofrecemos?
+Contrato indefinido con horario flexible 
+Ambiente Startup: flexible, ambicioso y con ganas de mejorar. 
+Trabajando codo con codo con compañeros con amplia experiencia en el sector. 
+Jornada completa o media jornada con horario flexible. 
+Buen ambiente de trabajo, trabajando con proyectos interesantes e innovadores.

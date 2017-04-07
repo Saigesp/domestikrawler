@@ -1,0 +1,13 @@
+
+Necesitamos un junior Enviroment Artist para nuestro siguiente juego multiplataforma (Playstation4, XboxOne, WiiU y Steam) con incorporación en enero.
+Tareas pricipales:
+- Interpretar los concepts.
+- Realizar en 3D y texturar los concepts
+- Iluminar los escenarios que previamente los diseñadores han montado.
+Requisitos:
+Conocimientos de 3d y texturado (sobretodo aplicado a enviroments, no necesitamos character artist).
+Conocimientos de Unity 5.
+Se trabajará desde casa.
+Se valorará:
+Conocimientos en Animación y Rig.
+Muchas gracias

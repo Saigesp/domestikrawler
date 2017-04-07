@@ -1,0 +1,22 @@
+
+Consultora especialista en Proyectos de integración de sistemas para Operadores de Telecomunicaciones, quiere incorporar un Consultor Java:
+•	Ingeniero técnico o superior 
+•	4 años de experiencia en proyectos de integración de sistemas. Se valorará positivamente la experiencia en proyectos para Operadoras de Telecomunicaciones
+•	Necesarios conocimientos avanzados de J2EE, administración de plataformas Weblogic y bases de datos (Oracle, Mysql, etc.)
+•	Se valorará experiencia demostrable trabajando con algunos de los siguientes productos de Oracle:
+o	OCCAS
+o	OCCAS-SC
+o	OCSG
+o	OCWSC
+o	SBCs
+•	Se valorará conocimientos o experiencia en las siguientes tecnologías / protocolos:
+o	SOAP / REST
+o	SIP
+o	Diameter
+o	WebRTC
+o	SMPP
+o   MM7
+•        Disponibilidad para viajes al extranjero
+•       Nivel inglés alto
+
+

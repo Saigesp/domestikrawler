@@ -1,0 +1,24 @@
+
+Estamos buscando Perfil senior de Analista de Seguridad de Aplicaciones  para Barcelona. La persona entraría a formar parte de un equipo multidisciplinar entre desarrolladores y Analistas de Seguridad TIC.
+Analista de Seguridad de Aplicaciones – Barcelona
+Las tareas a realizar serán las siguientes:
+• Realización de tareas de verificaciones de seguridad de aplicaciones de acuerdo con OWASP ASVS y otros estándares más comunes.
+• Realización de verificaciones de código fuente manuales de aplicativos que gestionan transacciones.
+• Elaboración de informes de resultados técnicos y ejecutivos
+• Conocimiento y experiencia en valoración de riesgo y threat modeling.
+• Experiencia en el análisis de causa raíz de vulnerabilidades identificadas
+Imprescindible:
+• Mínimo 2 años de experiencia en la realización de verificaciones de seguridad de aplicaciones.
+• Experiencias con OWASP Testing Guide v3/4 y OWASP TOP 10
+• Experiencia en gestión y definición de ciclos de vida del desarrollo del software (SDLC)
+• Experiencia en la definición y captura de requerimientos de seguridad en aplicaciones
+• Experto en Desarrollo de aplicaciones.
+Conocimientos deseados:
+• Experiencia en la realización de verificaciones de seguridad de aplicaciones automáticas.
+• Experiencia en verificación con OWASP ASVS v2
+• Experiencia en administración, operación y mantenimiento de HP Fortify SSC, Checkmarx o IBM AppScan
+• Experiencia en alguno de los siguientes lenguajes, Java/PHP/.NET/COBOL/ABAP-SAP
+• Experiencia en la elaboración de guías de remediación/mitigación
+• Certificaciones de seguridad
+• Nivel alto de ingles
+

@@ -1,0 +1,28 @@
+
+¿Quiénes somos?
+Pixel and Pixel es una agencia digital con más de 15 años de historia y una marcada obsesión por la creatividad, innovación y cuidado por el diseño de todos sus proyectos.
+¿Qué estamos buscando?
+<> Alguien que trabaja con pulcritud tanto la capa de presentación como su código, haciendo que el "look and feel" de sus proyectos brille a distancia.
+<> Alguien que sabe que con eso no ha hecho nada más que empezar, ya que después vendrán las animaciones, transiciones, experiencias dual screen.
+<> Alguien que conoce a la perfección las limitaciones de los diferentes navegadores y dispositivos ya que tiene experiencia en exprimir al máximo el potencial de cada uno de ellos.
+¿Qué te ofrecemos?
+<> La posibilidad de formar parte de una agencia en plena expansión, donde creatividad, arte y programación se encuentran bajo el mismo techo. 
+<> Formar parte de los procesos creativos y la oportunidad de diseñar campañas y acciones para marcas nacionales e internacionales de primer nivel. 
+<> Muy buen ambiente de trabajo. 
+<> Una agencia de referencia en cuanto a innovación y creatividad se refiere. 
+<> Incorporación inmediata.
+Algunos de nuestros clientes: 
+Mercedes-Benz, Mazda, NH Hoteles, Mutua Madrileña, Netflix, Google, EA Games...
+Imprescindible: 
+- HTML5 
+- CSS3 
+- Javascript 
+- Experiencia en desarrollos con Diseño Web Adaptativo (Responsive Web Design - RWD)
+- Mínimo 1 año de experiencia
+También valoraremos:
+- Frameworks Javascript (jQuery, Prototype, Angular, …) 
+- Otros frameworks (Bootstrap). 
+- Experiencia en el desarrollo de banners Rich-Media para distintas plataformas de Ad-Serving (DoubleClick, Syzmek, Flashtalking, …). 
+- Wordpress. 
+- Unity, Web 3D (threejs, WebGL, …) 
+- Inglés

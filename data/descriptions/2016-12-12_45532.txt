@@ -1,0 +1,14 @@
+
+Mytelecom es una empresa dedicada a la venta online de todo tipo de tecnología. Actualmente, precisamos de la incorporación de un programador front-end capaz de llevar a cabo todos los proyectos de diseño web bajo la supervisión del programador senior y del diseñador gráfico. 
+Los requisitos mínimos que estamos buscando son: 
+- Conocimientos avanzados de HTML5, CSS3, Javascript, Bootstrap y jQuery. 
+- Experiencia y conocimientos en el diseño responsive.
+- Conocimientos mínimos de PHP.
+- Facilidad a la hora de trabajar en equipo.
+- Conocimientos básicos de Photoshop. 
+También valoraremos: 
+- Conocimientos de Illustrator. 
+- Conocimientos SEO.
+- Conocimientos en Diseño de interfaces (UI) y experiencia de usuario (UX). 
+- Cualquier tipo de conocimiento sobre diseño gráfico. 
+ 

@@ -1,0 +1,16 @@
+
+Canales nació en 2008 como agencia de marketing y comunicación digital cuya actividad se ha centrado durante 5 año en aportar soluciones de Social Media y Comunicación a empresas e instituciones.
+Nuestras especialidades:
+Marketing Digital, ORM, Diseño y Desarrollo web, Estrategia Digital, Ecommerce, Creatividad, Public Relations, SEO/SEM/PPC/Adwords, Inbound marketing, Producción audiovisual, Monitorización
+Buscamos para incorporar a nuestro equipo de desarrollo web un perfil con los siguientes conocimientos:
+Necesarios:
+- PHP
+- HTML
+- CSS
+- JavaScript
+- MySQL
+Opcionales:
+- WordPress
+- iOS
+- Android
+

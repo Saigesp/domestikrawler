@@ -1,0 +1,37 @@
+
+¿Quiénes somos?
+Solucionex es una empresa especializada en el desarrollo de portales y aplicaciones Web sobre plataformas basadas en Software Libre. Llevamos desde el año 2006 desarrollando proyectos para todo tipo de clientes y sectores.
+Trabajamos para lograr la satisfacción del cliente acompañándole en la definición e implantación de sistemas que mejoren sus procesos de negocio.
+¿Qué buscamos?
+- Estamos interesados en incorporar a nuestro equipo de desarrollo un programador frontend y valoraríamos muy positivamente experiencia demostrable en AngularJS.
+- Las personas seleccionadas se incorporarán al desarrollo de proyectos basados principalmente en Drupal, Symfony o Magento.
+- Su puesto de trabajo estará en las oficinas de Solucionex situadas en la ciudad de Cáceres
+¿Cuáles son nuestros requisitos mínimos?
+- Experiencia demostrable con HTML5, CSS3 y jQuery
+- Preprocesadores de CSS (LESS o SASS)
+- Maquetación de proyectos basados en CMSs (por ejemplo Drupal, Wordpress…)
+- Ajax, Bootstrap, diseño responsive para dispositivos móviles…
+- Capacidades de diseño gráfico y manejo de programas de edición (Photoshop, Illustrator,..)
+- Manejo de sistemas de control de versiones (GIT)
+- Interés en el mundo de la programación web y motivación para el autoaprendizaje continuo.
+- Responsabilidad y capacidad de adaptación.
+- Ganas de aprender, mejorar y crecer profesionalmente de forma conjunta con el resto del equipo.
+¿Qué otros aspectos nos gustarían?
+A continuación indicamos algunos aspectos que valoraremos positivamente. No es necesario que tengas experiencia en todos. Se trata de aspectos que valoraremos. Oye, y si los controlas todos, pues genial! :-)
+- Experiencia en Frameworks Javascript como AngularJS
+- Cumplimiento de normativas de accesibilidad Web
+- Usabilidad Web
+- Experiencia con CMSs: Drupal o Wordpress
+- Capacidad de programación en Frameworks PHP como Symfony, Laravel, Zend
+- Plataformas de comercio electrónico como Magento.
+- Experiencia en metodologías ágiles (Scrum)
+- Conocimientos a nivel de manejo y configuración de sistemas Linux
+- Participación activa en alguna comunidad relacionada con el software libre
+¿Qué ofrecemos?
+- Entrar a formar parte de un equipo dinámico y con un buen ambiente de trabajo.
+- Participación en proyectos interesantes de clientes a nivel nacional
+- Contrato indefinido
+- Salario competitivo
+- Oficinas en el centro de Cáceres
+- Posibilidades de crecimiento solo limitadas por tus propios intereses
+- Jornada laboral flexible (con jornada intensiva los viernes y los meses de Julio y Agosto)

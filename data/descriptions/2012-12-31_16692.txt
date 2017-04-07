@@ -1,0 +1,8 @@
+
+Tengo una página web ya iniciada, en la que se han desarrollado juegos online multijugador. Se necesita finalizar el proyecto, incluir pasarelas de pago, instalar Certificados de Seguridad, desarrollar sonidos, realizar posicionamiento SEO y mantenimiento posterior.
+ Necesito una persona con dominio en PHP, HTML, CSS, MySQL y Action Scrip 3. Programador de juegos tipo tetris, joyas…
+Conocimientos en diseño grafico.
+Se ofrece contrato de trabajo a tiempo parcial de Lunes a Viernes de 8,30 a 13,30h. Salario de 13.000 € brutos anuales.
+Con posibilidades reales de promoción.
+El Centro de trabajo está en Villanueva de la Cañada (Madrid).
+

@@ -1,0 +1,9 @@
+
+Estamos buscando a un programador con conocimientos sólidos en Javascript y AngularJS >1.3, para trabajar en una empresa Portal de venta de entradas online.
+Participará en el desarrollo y mejoras de su plataforma, así como nuevos productos y funcionalidades relacionadas con el ticketing y con el control de acceso, que van a lanzar al mercado. 
+La persona que buscamos debe ser responsable, organizada y metódica, con capacidad de trabajar en un entorno ágil y con plazos definidos.
+Requisitos mínimos:
+- Conocimientos avanzados de Javascript.
+- Conocimiento de las principales herramientas de testing en javascript como Mocha, Chai y metodologías de test (TDD y BDD).
+- Conocimientos en testing E2E.
+- Conocimientos avanzados de Angular 1.3+ (Servicios de nativos de Angular como $compile, $sce, $location... modulos de Angular: ngRoute, ngCookies... scope events, promises, validación avanzada de formularios como FormController, ngModelController... Testing en E2E, servicios, APIs... Diferentes tipos de directivas y ciclo de vida.

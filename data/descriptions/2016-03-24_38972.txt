@@ -1,0 +1,23 @@
+
+
+Requisitos / Horarios / Descripción
+Estamos buscando un Desarrollador Senior con experienca en desarrollo de Aplicaciones móviles (Android & Unity 3D), Java y PHP para incorporar a nuestro equipo.
+Requisitos mínimos:
+- Estudios de Ingeniería Informática – Multimedia o Telecomunicaciones (recomendado) o Estudios F. P. Grado Superior – Informática (requisito mínimo).
+- Android Experiencia desarrollando aplicaciones para Android (Java, C#, C y Unity 3D).
+- PHP. Experiencia en desarrollo web con PHP y en algún framework MVC (en especial Symfony)
+- JAVA: Experiencia en desarrollo
+- Desarrollo HTML5 y Javascript
+- Conocimientos en la utilización de repositorios de control de código fuente.
+Valoraremos:
+- Conocimientos en desarrollo de apps con tecnología híbrida (HTML5, CSS3,JavaScript)
+- Experiencia en Tratamiento de Big Data y programación multi-hilo
+- Se valorará conocimientos en frameworks multiplataforma (Cocos2D, CoronaSDK, Unity3D, Titanium…)
+- Administración de servidores Apache/mySql , IIS/SQLServer
+- Experiencia con APIs de Redes Sociales (Facebook y Twitter), pasarelas de pago en móvil, geo-posicionamiento, aplicaciones con BBDD, …
+- Experiencia con notificaciones push
+Otros:
+- Frameworks de ecommerce y WordPress
+- Idiomas: Español, Inglés y Catalan
+Ofrecemos incorporación inmediata, contrato indefinido y posibilidades de promoción en una empresa muy dinámica con visión internacional y en continua expansión.
+

@@ -1,0 +1,13 @@
+
+Para nuestro equipo de producción de Santander, necesitamos un programador Front, con algo de experiencia y ganas de crecer:
+Requisitos indispensables:
+- Css con precompiladores (SASS, LESS o ambos)
+- Conocimientos de Bootstrap
+- Defenderse bien con JS (sí, hay muchos frameworks, con que hayas trabajado con alguno nos vale)
+- Que sepa maquetar una página a partir de un PSD
+La guinda (que si no sabes, no pasa nada porque aquí aprenderás):
+- Wordpress y PHP
+- CodeIgniter
+- AngularJS
+- Bases de datos relacionales
+- Linux

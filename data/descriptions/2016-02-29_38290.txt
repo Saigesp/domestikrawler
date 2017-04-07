@@ -1,0 +1,16 @@
+
+Datos del Puesto: 
+Reportando directamente al Director Técnico, es el responsable de diseñar, implementar y gestionar las herramientas que ayudan a los departamentos que usan el software de 3D (Maya + Arnold) para trabajar eficientemente con el software, hardware y los distintos sistemas y tecnologías de la empresa.
+FUNCIONES:
+•	Creación, desarrollo, testeo y mantenimiento de tecnologías nuevas para mejorar la productividad de los artistas 3D.
+•	Ayudar a los artistas a encontrar las soluciones y actuaciones necesarias para corregir los problemas que puedan surgir.
+•	Se coordina con los supervisores de los respectivos departamentos para recopilar datos de qué y cómo se han de desarrollar las posibles herramientas que automaticen tareas departamentales.
+•	Trabajar en estrecha colaboración con el equipo de producción para mantener y mejorar el flujo de trabajo, cumplir las cuotas y objetivos semanales.
+•	Crear y actualizar la documentación para las herramientas, técnicas y flujos de trabajo.
+REQUERIMIENTOS Y EXPERIENCIA:
+•	3 o más años de experiencia como desarrollador técnico enfocado al 3D.
+•	Excelentes conocimientos de software de animación 3D (Maya + Arnold).
+•	Conocimientos de lenguaje de programación MEL, python... 
+•	Excelentes habilidades de comunicación.
+•	Excelentes conocimientos de diseño de software, gráficos y el flujo de trabajo de producción.
+•	Valorable nivel alto de inglés.

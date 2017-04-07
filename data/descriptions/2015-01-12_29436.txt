@@ -1,0 +1,10 @@
+
+addSolutions, consultora de Barcelona, para uno de sus proyectos, busca:
+Características del puesto de trabajo:
+Para interesante proyecto web de 3 meses en Barcelona con portal Liferay, buscamos un programador con amplia experiencia en J2EE (spring, Struts, Hibernate, Quartz, Servlets, etc)
+Funciones:
+- Después de una formación en CMS Liferay, implementar los desarrollos de portlets y/o páginas segun wireframes. 
+Requisitios:
+- Experiencia mínima de 3 años en J2EE, Eclipse, Tomcat, HTML, Javascript, JQuery, SVN, etc
+- Habituado a trabajar en entornos multidisciplinares, 
+- Experiencia con SCRUM 

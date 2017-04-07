@@ -1,0 +1,53 @@
+
+Ofertix.com es uno de los portales de e-commerce líder en España. Trabajamos en distintas líneas de negocio: venta privada, ocio y escapadas, tienda permanente de perfumería y cosmética, venta full-price e incluso una tienda física. También gestionamos el Outlet on-line de El Corte Inglés.
+Desde el equipo de IT hemos desarrollado y mantenemos en Symfony 1 los frontales de ofertix.com, niceandcrazy.com y primeriti.es, así como todo el backoffice que permite mantener el negocio: desde el sistema de producción hasta el de gestión de stock y SCM, pasando por los TPVs de la tienda física. Todos los miembros del equipo trabajamos conjuntamente y participamos en los diversos proyectos y tecnologías de la empresa.
+Tenemos un nuevo proyecto en mente y ya nos toca hacerlo en Symfony 2. Si ya te has peleado con Bundles, Composer y Twig y quieres formar parte de nuestro equipo, inscríbete y lo hablamos.
+Responsabilidades
+
+ - Elaboración de nuevas funcionalidades en Symfony 2
+
+ - Participar en los procesos de mejora contínua
+
+ - Análisis, planificación y ejecución de refactorización de proyectos
+
+ - Mantenimiento del código en producción
+
+
+Requisitos
+
+ - Conocimiento de Symfony 2, JavaScript, JSON, manejo de eventos, estructura DOM y manipulación
+
+ - Buen nivel PHP5 y OO
+
+ - 3+ años de experiencia con aplicaciones web complejas
+
+ - Sólidas habilidades analíticas y de resolución de problemas
+
+ - Participación en la estabilización de código y programación de releases
+
+ - Tener adquiridas buenas prácticas en el desarrollo de código y arquitectura del mismo
+
+ - CSS
+
+ - MySQL
+
+
+Conocimientos deseados:
+
+ - Conocimientos de Symfony 1
+
+ - Conceptos de diseño/arquitectura OO
+
+ - Control de versiones - GIT
+
+ - Gestión de incidencias - Mantis, Redmine
+
+ - Documentación código
+
+ - jQuery
+
+ - ExtJS
+
+ - Redis
+
+

@@ -1,0 +1,13 @@
+
+Buscamos programador web para trabajar en el quipo de desarrollo de Evermeeting (www.evermeeting.com). 
+SMLabs es un start up que desarrolla software para la mejora de la productividad personal.
+Titulación:
+Ingeniería técnica o superior.
+Cocimientos:
+Programador web en el lado servidor: php, python o similares.
+Html, css y javascript.
+Pasión por los sistemas tipo unix/linux.
+Conocimientos de scripting, gestión de procesos, y planificación temporal.
+Experiencia en Apache y/o Nginx.
+Experiencia:
+Mínima de 3 años en puestos similares.

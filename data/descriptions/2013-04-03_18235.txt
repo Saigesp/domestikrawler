@@ -1,0 +1,5 @@
+
+Hola a todo el mundo!
+Estamos buscando autónomo especializado en C++ / IOS para una colaboración temporal, trabajando presencialmente con nosotros en el estudio durante aproximadamente un mes. 
+Estamos llevando a delante un proyecto de SDK relacionado con la reproducción de vídeos en 360º para IOS y próximamente para Android y necesitamos un poco de apoyo. 
+Incorporación: Cuanto antes ;)

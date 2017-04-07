@@ -1,0 +1,7 @@
+
+Experiencia en la creación de aplicaciones web.
+Lenguaje PHP, Python
+Conocimiento de bases de datos: SQL y PostgreSQL.
+Buscamos desarrollador en PHP 5.x y Python con al menos 3 años de experiencia.
+Creación de nuevos módulos de una aplicación.
+Modificación de módulos existentes 

@@ -1,0 +1,28 @@
+
+Ventura24 is recruiting a UX Designer with the following responsibilities:
+•	Define and create user interfaces, information architecture and work in user tests
+•	Build low and high fidelity prototypes for early stages of the development process
+•	Contribute with solutions to the company technological strategy, committing to the quality standards, design rules and architecture.
+Skills required:
+•	Proven experience with:
+•	Design user interfaces
+•	Architecture information definitions
+•	User tests
+•	Low and high definition prototyping with Axure
+•	Responsive design
+•	Excellent skills solving complex problems in a highly dynamic environment.
+•	Good level of English language, preferably having worked in multicultural environments.
+Nice to have:
+•	Knowledge of web design (Adobe Creative Suite tools)
+•	Experience in agile development methodologies (Scrum or Kanban)
+•	Experience in web technologies:
+•	HTML5 and CSS3
+•	JavaScript
+•	jQuery, AngularJS, RequireJS, validate.js
+•	Responsive Web Design
+•	Css frameworks such as Bootstrap or Foundation 
+•	Css preprocessors such as LESS or SASS
+•	Html preprocessors such as Jade
+•	Web performance optimization
+•	Version Control software such us Git or SVN
+

@@ -1,0 +1,18 @@
+
+Desde The Valley Talent, Head Hunter especializado en perfiles digitales, buscamos un Desarrollador de Juegos para importante empresa del sector ocio.
+El candidato, reportando al Director del Área de Desarrollo, desempeñará las siguientes funciones:
+•	Escritura de código claro y legible, bien documentado y reutilizable.
+•	Desarrollo de programas fiables y eficientes con capacidad de escalarse en sistemas distribuidos.
+•	Trabajo colaborativo con ingeniero y diseñadores para la creación de juegos.
+•	Involucración en los proyectos en todas las etapas, desde su concepción hasta su puesta en marcha y posterior mantenimiento y seguimiento.
+•	Optimización de recursos y rendimiento de los juegos.
+Requisitos y competencias personales
+o	Licenciado/ Graduado en Ingeniería Informática
+o	Experiencia de 1-3 años en diseño y desarrollo de juegos para entorno web.
+o	Dominio de la programación con HTML5, Javascrip, CSS3.
+o	Experiencia en el desarrollo para web en formato responsive.
+o	Conocimiento avanzado de tecnologías de desarrollo ágiles
+o	Se valorará positivamente el conocimiento de C++, Unity Wave y desarrollos Ios/Android.
+o	Nivel alto de Inglés
+Se considera imprescindible para el candidato su alta capacidad de adaptación a diversos entornos, capacidad de trabajo en equipo y estar al día en las últimas tendencias del sector.
+El puesto requiere un perfil proactivo, con alta capacidad de organización para la gestión de diferentes proyectos. Deberá ser una persona autónoma y muy familiarizada con metodologías ágiles de trabajo.

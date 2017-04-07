@@ -1,0 +1,20 @@
+
+Buscamos un/a maquetador para el equipo de Arte digital del departamento de Ecommerce.
+Funciones:
+- Traducir requerimientos y mockups en maquetaciones/desarrollos completamente funcionales usando JavaScript, HTML 5 y CSS de los diferentes proyectos de los que sea responsable.
+- Crear e integrar diseños para páginas web y contenidos digitales.
+- Control de timmings de las imágenes. 
+- Estructurar los elementos que componen el diseño de manera que puedan ser interpretados por un navegador. 
+- Implementar ciertas características en lenguajes de scripting, como JavaScript. 
+- Realizar la maquetación responsive y mobile.
+- Hacer seguimiento de los contenidos web. 
+- Integrar los fronts con el API y CMS.
+- Coordinar, organizar y  velar por el proceso de los contenidos con los departamentos de Imagen, IT y Marketing. 
+Requisitos: 
+- Estudios en Diseño gráfico o similar.
+- Mínimo 3 años de experiencia en maquetación web.
+- Valorable experiencia en empresas de fashion retail.
+- Conocimiento sólido de Photoshop, HTML5, CSS3, Javascript y otros CMS. 
+- Nivel avanzado de inglés.
+- Persona muy organizada y proactiva. 
+

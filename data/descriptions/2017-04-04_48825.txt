@@ -1,0 +1,24 @@
+
+Imprescindible nivel alto de inglés o alemán (B2-C1), ya que la coordinación del equipo de desarrollo se hace desde Alemania.
+Tus funciones:
+- Creación de interfaces web en JavaScript, HTML 5 y CSS 3
+- Diseño, desarrollo e implementación de soluciones web complejas para los portales propios de la empresa
+- Colaboración estrecha con el equipo backend para acordar interfaces entre sistemas
+- Participación en proyectos tecnológicos apasionantes con aportaciones propias creativas
+Tu perfil:
+- Amplia experiencia en desarrollo frontend con JavaScript, HTML 5 y CSS, así como en la integración de interfaces
+- Experiencia en el manejo de herramientas de control de versiones (SVN)
+- Imprescindible nivel alto de inglés o alemán (hablado y escrito)
+- Eres una persona autónoma, responsable y con pasión que realiza un trabajo de calidad
+- Tienes disposición para aprender nuevas tecnologías y nuevos enfoques para solucionar problemas
+Your role:
+- Implementation of web interfaces in JavaScript, HTML 5 and CSS 3
+- Design, development and implementation of complex web solutions for our own portals
+- Close cooperation with the back-end team to agree on interfaces between systems
+- You take part in exciting IT projects and you bring in your own ideas
+Your profile (Web Developer):
+- You have experience in front-end development using JavaScript, HTML 5 and CSS, as well as in interface integration
+- You have some experience with Apache Subversion (SVN)
+- Good command of German or English (spoken and written)
+- You work independently, responsibly and with passion aiming to deliver hight-end results
+- You are willing to learn new technologies and problem-solving approaches

@@ -1,0 +1,16 @@
+
+ Tenea Tecnologías selecciona 2 MAQUETADORES WEB para importante proyecto en Zona Valles
+Requisitos:
+- HTML5,
+- CSS3 (sobre todo efectos y animaciones)
+- Javascript (con énfasis en jQuery)
+- Crossbrowser compatibility
+- Responsive Web Design
+- Ember.js
+- Grunt
+Se ofrece:
+-Estabilidad laboral.
+-Incorporación inmediata.
+-Jornada Completa de lunes a viernes.
+- Incorporación opcional a los programas Just Certified People de Tenea Tecnologías (Cobertura del coste de los exámenes de certificación aprobados y bonificación de 300 euros por cada certificación obtenida).
+

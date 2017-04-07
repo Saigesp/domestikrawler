@@ -1,0 +1,20 @@
+
+Buscamos Analista Programador PHP encargado de analizar e implementar el backend de un servidor de contenidos a distribuir en distintas páginas webs.
+- Mantenimiento y optimización de plataformas de ventas de productos digitales.
+- Desarrollo de nuevos proyectos y nuevas funcionalidades.
+- Definición y diseño de una plataforma escalable y robusta.
+- Creación de webservices para comunicación cliente/servidor con aplicaciones móviles (iOS / Android) y otras tecnologias.
+El candidato ha de ser una persona con inquietudes propias, resolutiva, pro-activa con capacidad de analizar y aportar soluciones.
+Requisitos:
+• Alta capacidad de analisis y creación de estructuras de BBDD.
+• Nivel experto en PHP, HTML, CSS y JavaScript
+• Paradigma MVC
+• Soltura en entornos de desarrollo Eclipse.
+• Experiencia en el uso de framework: Symfony / Zend
+• Nivel alto optimización de querys.
+• Conocimientos de lenguaje SQL sobre MySQL
+• Configuración de servidores APACHE TOMCAT sobre Linux
+• Conocimientos de JAVA/MAVEN - JSON-REST
+Se valorará:
+• Conocimientos de Joomla (Administración y desarrollo)
+• Conocimientos programación iOS / Android

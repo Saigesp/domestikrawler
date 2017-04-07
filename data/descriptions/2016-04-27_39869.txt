@@ -1,0 +1,22 @@
+
+En Iwantic, seleccionamos, para una de las mayores empresas de comunicación, un Responsable de Seguridad, en Madrid. 
+Se requiere:
+Diseño y desarrollo de aplicaciones de uso interno (Phyton, Php, Bash)
+Certificados específicos en calidad.
+Mínimo, 5 años de experiencia demostrable en entornos Web/Hacking/Código, Sistemas, Comunicaciones, Normativas ISO y LOPD.
+Formación técnica.
+Entre las funciones a desempeñar se encuentran:
+Gestión con proveedores.
+Gestión de 2-3 personas en el equipo de Seguridad.
+Realización de informes.
+Auditoría & Hacking Ético & Pen-Testing: Aplicaciones Web, Sistemas, Nodos de comunicaciones & Wifi, aplicaciones Smarphone (puntualmente).
+Proyectos: toma de requisitos y seguimientos.
+Control, diseño y definición sobre los siguientes activos: Navegación corporativa (Proxy, Q.O.S.), Firewall. IPS, balanceador, Routing, Antivirus, Hardening/Bastionado, Motorización.
+Plantear soluciones técnicas y procedimientos a problemas que se presenten.
+Análisis de malware.
+Análisis forense y respuesta ante incidentes (Reactivo...)
+Implantación de contramedias a corto, medio y largo plazo.
+Documentación.
+Gestión y resolución de incidentes de seguridad.
+Gestión y seguimientos de proyectos de seguridad e implicación en otros para supervisión respecto a la seguridad.
+ 

@@ -1,0 +1,42 @@
+
+Gamelearn is the pioneer in the development of Serious Games worldwide.
+We create games and simulators that teach people useful skills for their personal and professional lives.
+We have more than a dozen international awards and we have been named "best startup" in both the United States and Spain.
+We have more than 1000 corporate clients in five continents (BBVA, Volvo, Adidas, Bayer, Camper, Coca-Cola, Decathlon, Ericsson, Europcar, Fujitsu, Iberia, Hyundai, Nivea, Panasonic, Pepsi...) 
+We are passionate about video games and things done right. We like a good environment and have fun at work (our Mini Football Table, ping pong table, video game consoles, sofas and caffeine help). 
+Join a young, multicultural, creative and innovative team with a great purpose: to help people become better. 
+We are looking for a highly capable Product Owner with more than 3 years experience working as a product owner and/or business analysis, elicitation, modeling, and verification; with strong experience overseeing the design, development and implementation of software solutions. The person will have experience in manage and track the status of requirements throughout the project lifecycle.
+In your main responsibilities:
+-Translate user requirements into functional ones by writing them into user stories with a proper format with their acceptance criteria.
+-Align the product backlog with the business priorities and analyze and verify requirements to make sure we build a great product. 
+-Work closely with business and technical teams.
+-Stakeholder management: transform stakeholders/client requirements into something workable.
+-Manage, prioritize and communicate the product backlog.
+-Transmit the goals and value of the stories to the development team, work with them to refine the stories.
+-Find the best of the SCRUM methodology to maximize development throughput.
+-Help out with releases of new features. Acceptance testing.
+-Facilitate the delivery of software into production through excellence in project management.
+-Participate in team meetings including (but not limited to) sprint planning, sprint reviews and retrospectives.
+We are looking a good team player with great availability to negotiate with internal stakeholders, customer-centric and ability to prioritization.
+Basic requirements:
+-Experience working with agile development teams and processes.
+-Deep knowledge in Scrum methodology is a must (Scrum Product Owner certification would be desired).
+-Business and product analysis, definition and prioritization in an Agile environment.
+-Experience in SaaS products is a plus.
+-Strong customer service orientation.
+-Excellent analytical and creative problem-solving skills.
+-Excellent listening, interpersonal, written, and oral communication skills.
+-Ability to effectively prioritize and execute tasks while under pressure.
+-Experience working in a team-oriented, collaborative environment.
+Good listener and observer.
+Desired requirements
+-Bachelor degree in computer science, engineering or equivalent.
+-Atlassian solutions, especially Jira.
+-Knowledge of additional project delivery methodologies.
+-High level of english
+-Leadership and initiative.
+-Proactive identification of problem areas along with proposing solutions to address them.
+-Willingness and capability to participate in product testing and release management.
+-Knowledge of wireframing and mock-uping tools, storyboarding, user journey mapping (Sketch, Axure...).
+-Previous experience in a videogame company.
+Salary: According to candidates value

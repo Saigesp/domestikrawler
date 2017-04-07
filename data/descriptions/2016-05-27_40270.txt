@@ -1,0 +1,24 @@
+
+Mproof, fundada en 1997, fabricante neerlandés de soluciones de software en el ámbito de la gestión de servicios y su partner estratégico para Iberia y Latinoamérica con sede en ZARAGOZA, busca contratar un FRONT END DEVELOPER, que nos ayude en nuestro crecimiento. Buscamos una persona ambiciosa, entusiasta y dispuesto a afrontar nuevos proyectos.
+Tareas principales
+•	Desarrollar la interface web de usuario, utilizando css, html y javascript
+•	Desarrollar aplicaciones web usando asp.net mvc, web api y wcf
+•	Proporcionar ideas y feedback para la nueva web UX (experiencia de usuario)
+•	Traducir prototipos ux en estándares html w3c funcionales
+Perfil
+•	Titulación universitaria o master en tic o conocimientos similares
+•	Al menos 3 años de experiencia en puestos similares 
+•	Alta orientación a resultados y capacidad para trabajar en equipos multidisciplinares
+•	Altos conocimientos de css y javascript y experiencia con algunos de los siguientes frameworks: jquery, angular.js
+•	Experiencia con rest, mvc/mvvm o cualquier otra arquitectura soa será valorada
+•	Conocimiento y experiencia con agile y scrum será valorada
+•	Valorable conocimientos en procesos de gestión de servicios (itil)
+•	Inglés fluido, hablado y escrito. Se valorará alemán.
+Se ofrece
+Incorporación a una empresa ágil, joven, con una media de edad de 30 años, que coopera con socios internacionales en el desarrollo y la venta de sus productos, y dentro de un ambiente informal, entusiasta y con una fuerte cultura “profesional”. 
+Salario competitivo, a negociar con los candidatos y con excelentes beneficios. 
+Horario flexible
+Lugar trabajo: Zaragoza, España
+Contrato laboral
+Salario en torno a 30.000€, según valía
+

@@ -1,0 +1,15 @@
+
+Agencia de publicidad busca programador junior front-end HTML5, CSS3, Javascript, para fortalecer nuestro equipo de desarrollo web.
+Requisitos mínimo: 
+- Maquetación HTML5 / CSS3.
+- Javascript y sus más conocidas librerias como Jquery.
+- Adobe Photoshop e Illustrator para poder implementar los diseños en la programación.
+- Que tenga experiencia demostrable en el desarrollo de piezas display en HTML5 tanto convencionales como Richmedia. 
+- Que esté familiarizado con adservers, Adform, Sizmek, weborama y Doubleclick.
+Requisitos deseables:
+- Familiarizado con SVG y CANVAS.
+- Conocimiento de librerías de animación en javascript o CSS (GASP, Animate.css).
+- Que sepa hacer debugging y no de por buena ninguna pieza sin tener la consola limpia de errores.
+- Que el código sea ordenado y sus repositorios de código también. 
+- Conocimientos sobre MediaQueries, Responsive Design, LESS/SASS, etc.
+Estará supervisado por un Director Técnico y tendrá compañeros de amplia experiencia de los que aprender.

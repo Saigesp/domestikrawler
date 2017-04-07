@@ -1,0 +1,17 @@
+
+Esta oferta de empleo va dirigida especialmente a estudiantes de ingeniería recién titulados o en el último curso de carrera con conocimientos de programación en Objective-C y deseable pero no imprescindible conocimientos de Swift. 
+Buscamos un candidato con muchas ganas de aprender a desarrollar aplicaciones Apple con interés por la tecnología, afán de hacer carrera en una empresa software, dispuesto a innovar y mejorar tanto personal como profesionalmente formando parte de un equipo que trabaja siempre a la vanguardia de la tecnología.
+La persona elegida entrará a formar parte de nuestro equipo de desarrollo de aplicaciones Apple para aprender la tecnología e implementar nuevas funcionalidades en nuestra plataforma.
+Conocimientos requeridos:
+Programación Objective-C. 
+Uso del entorno de desarrollo xCode.
+Manejo de patrones de diseño.
+Inglés nivel medio.
+Ofimática básica (Word, Excel).
+Se valora pero no es imprescindible: 
+Programación Swift.
+Gestión de storyboard con autolayout y size classes.
+Conocimientos en interfaces REST+JSON
+Conocimientos de sistemas de control de versiones (SVN)
+Patrón MVC.
+

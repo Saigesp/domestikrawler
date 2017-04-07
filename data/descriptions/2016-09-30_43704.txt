@@ -1,0 +1,5 @@
+
+En BQ la tecnología es nuestra pasión. Queremos crearla, compartirla y hacerla accesible a todos.
+Tenemos un compromiso de calidad con todo lo que hacemos: no nos conformamos con menos que lo excelente y queremos que esto se perciba en cada una de las cosas que creamos, incluida nuestra web.
+Para continuar con nuestro sueño buscamos incorporar al equipo de e-business un desarrollador Backend para nuestra web de e-commerce, que se sienta como pez en el agua con PHP y sepa nadar con frameworks de desarrollo.
+El candidato incorporado tendrá la ocasión de integrarse en un equipo de desarrollo con metodologías ágiles, participando activamente en el desarrollo de las web y comercios electrónicos de BQ.

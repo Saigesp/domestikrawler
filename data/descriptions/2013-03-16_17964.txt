@@ -1,0 +1,13 @@
+
+Nostro Studio es una empresa que nació hace 3 años y se ha especializado en el mercado móvil y de tecnología. Buscamos alguien joven, dinámico y con ganas de aprender y demostrar que es el ideal para quedarse con nosotros.. en este viaje hacia un futuro de las ideas.
+Buscamos un Desarrollador con cierta experiencia para desarrollo de páginas web responsive y Aplicaciones Mobile. 
+Skills a valorar:
+- HTML / CSS / JS
+- PHP
+- MySQL
+- JQueryMobile
+Skills PLUS:
+- Actionscript
+- Flash
+- Titanium
+- PhoneGap

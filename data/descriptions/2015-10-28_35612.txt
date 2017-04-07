@@ -1,0 +1,13 @@
+
+Ensip es una empresa conformada por un equipo de profesionales de telecomunicaciones que ofrece servicios de llamadas, sms y recargas móviles a Cuba y el mundo.
+Necesitamos incorporar  un Diseñador/Maquetador Web que tenga experiencia en:
+- Diseño y maquetación en entornos web así como newsletters, landing pages, etc.
+- Javascript, JQuery, JQueryUI, 
+- HTML5, CSS3
+- Conocimientos PHP nivel medio 
+- BBDD MySQL nivel medio 
+- Photoshop nivel alto 
+- Illustrator nivel alto
+- Experiencia en usabilidad, en SEO y Marketing Online será valorado positivamente.
+La persona contratada deberá tener un mínimo de 2 años de experiencia en diseño y maquetación.
+

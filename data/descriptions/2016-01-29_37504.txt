@@ -1,0 +1,25 @@
+
+Como desarrollador/a de front-end / Angular JS tendrás la responsabilidad de centrar la programación para crear y mejorar la experiencia de usuario. El cometido principal será la creación de interfaces para todo tipo de pantallas, para ofrecer la mejor usabilidad. Utilización de plantillas básicas HTML/CSS y mock-ups. Buscamos un alto nivel de implicación y entusiasmo por el desarrollo de aplicaciones robustas orientadas a la usabilidad. Acostumbrado a la creación de prototipos y pruebas piloto con usuarios para la posterior integración con las validaciones necesarias. También estarás trabajando mano a mano con nuestro equipo de desarrollo back-end, usando sus interfaces REST para acceder a las funcionalidades y datos fundamentales de nuestra plataforma. Creemos en un equipo dinámico y autónomo, donde cada integrante comparta sus ideas y conocimientos, y todos aprendan de sus habilidades y experiencia.
+RESPONSABILIDADES
+- Creación de nuestras aplicaciones front-end
+- Asegurando mayor eficiencia para dispositivos móviles y sobre mesa
+- Escribiendo código robusto para facilitar los trabajos/experiencia del usuario final
+- Proveer código AngularJs(JavaScript), HTML5, CSS3 testeado, idiomático y documentado
+- Coordinando con nuestros desarrolladores back-end para la creación de interfaces REST óptimas
+- Comunicación e integración con servicios externos web
+- Integración para la óptima aceptación en plataformas sociales y motores de búsqueda
+- Validación de acciones de usuarios en la parte del cliente y generando respuestas adecuadas y responsive
+- Escribiendo y manteniendo unit-testing básico
+- Automatizando procesos de instalación y compresión y simplificación de código
+HABILIDADES Y CUALIFICACIONES
+- Habilidad para JavaScipt y HTML5/CSS3
+- Conocimiento de creación de aplicaciones basadas en de AngularJS; demostrable con proyectos reales
+- Asegurando una cadena clara de dependencias (en lógica programática y estructura de ficheros)
+- Experiencia en el uso de interfaces REST
+- Escribir código que no bloquee la carga en los navegadores
+- Escribir módulos apropiados o extendiendo módulos de AngularJS
+- Familiaridad montando entornos web de desarrollo
+- Documentación en linea usando JSDoc u otras convenciones
+- Mínimo 3 años de experiencia laboral en el desarrollo Back-end/Python3
+- Preferido un título relacionado al sector
+- Español (hablar/escribir); Inglés (lo suficiente para lectura de documentación)

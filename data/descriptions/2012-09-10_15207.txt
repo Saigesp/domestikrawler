@@ -1,0 +1,9 @@
+
+Buscamos
+Una persona apasionada por el diseño y la programación web con motivación para formar parte de los proyectos en los que trabaja al estilo startup.
+Quienes somos
+SocialNest (en constitución), un nido de startups en proyectos online especializado en redes sociales. Actualmente en desarrollo: Challngr (iPhone/Android)
+Se requiere
+- Experiencia demostrable en diseño web utilitzando las herramientas de diseño comunes: Photoshop, Ilustrator, etc.
+- Nivel alto y experiencia demostrable en desarrollo HTML5, CSS 3, JQuery, Javascript.
+- Conocimientos PHP

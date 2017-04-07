@@ -1,0 +1,43 @@
+
+
+Empresa yuilop
+Localidad Murcia
+Mobile-app based communication service, putting your SIM in the cloud and make communication free again!
+Buscamos:
+If you are passionated about details and highest quality, testing every bit and identifying problems to make sure  our world-class, international real.time communication product fulfills user expectations on a quality communication service… you will like this position.
+Job Responsibilities
+Test planning, design, and implementation
+Providing test advice to developers
+Teaming up with developers to create automated  test suites
+Supporting continuous deployment systems
+Ofrecemos:
+We offer
+competitive salary plus variable bonus
+employee stock option programme
+as well as fun work environment in Murcia CEEIM with a fruit stocked kitchen and exciting learning experience
+Requerimos:
+Minimum Job Qualifications
+Experience in at least one scripting language (bash, lua, python, etc).
+Extensive experience on Linux platforms.
+Excellent communication skills.
+Experience with Mobile Platforms iOS and Android
+Preferred Job Qualifications
+2+ years of test automation experience.
+A BSc in Computer Science, Telecommunications or Electronic Engineering or equivalent.
+Working knowledge of SQL
+XMPP Knowledge is a plus
+Deseamos:
+Challenge: Sanity Bot
+Create an XMPP Bot using the language of your preference that test a list of external components availability using XEP-0199.
+The checks SHOULD be performed periodically every 5 minutes and provide a list of which services are online with the measured latency of the responses and a list of the components that did not replied within 5 seconds.
+The bot SHOULD be able to login in the XMPP Server using a regular JID and password.
+The bot SHOULD alert if the XMPP Server is not available or not accepting login.
+Please send the answer to this challenge with your application … we only consider applications/CVs with completed challenge! we assure you, you’ll get a response from us!
+Experiencia:
+1 a 3 años
+Idiomas:
+English and Spanish
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+Si estás interesado, inscríbete a la oferta en http://bit.ly/zGOpvd , te llevará menos de un minuto. Por favor, para darte un buen servicio, no nos envíes tu CV por email. 

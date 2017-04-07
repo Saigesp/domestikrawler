@@ -1,0 +1,37 @@
+
+Descripción de la oferta de trabajo
+LaComunity es una start-up en Barcelona del sector del alquiler vacacional en constante crecimiento.
+Buscamos un perfil de DevOps o SysAdmin con un nivel de experiencia avanzado (3 años mínimo), para incorporarse a nuestro equipo técnico. La creciente expansión de nuestra start-up ha incrementado las necesidades técnicas de la empresa.
+Tus tareas incluirán la monitorización y optimización de nuestra infraestructura técnica, mantenimineto de servidores y escalabilidad de nuestros servicios.
+Responsabilidades
+- 5 años de experiencia en la administración de sistemas Linux
+- 3 años de experiencia dando soporte a proyectos de desarrollo de software
+- Experiencia contrastable en la depuración y resolución de problemas
+- Experiencia en optimización y escalabilidad de MySQL con grandes volúmenes de datos
+- AWS, Git, Nginx, Apache, Puppet, Cacti, Ansible, Docker, etc
+- Experiencia en securización de aplicaciones PHP
+- Shell scripting
+- Despliegues de código
+Conocimientos Técnicos
+- Configuración, optimización y escalabilidad MySQL, Apache/Nginx
+- AWS, Git, Puppet, Cacti, Ansible, Docker
+- ElasticSearch, Redis, Varnish
+- Slack, Sensu, NewRelic, Logstash/Kibana
+Otras habilidades
+- Trabajo en equipo, especialmente con equipos de desarrollo de software
+- Adaptación y autosuficiencia
+- Autocrítica
+- Si tiene un manual, lo puedes aprender
+Valorable
+- Experiencia en plataformas online de reserva de hoteles, alquiler vacacional o similares
+- Imprescindible Amazon Web Services AWS
+- Conocimientos de metodologías ágiles (SCRUM/KANBAN) y las herramientas de gestión relacionadas (Jira)
+- Valorable conocimientos en diferentes lenguajes de programación (especialmente PHP/Python)
+- Haber trabajado con virtualización (Vagrant/Docker)
+- Integración Continua, Unit testing (Jenkins), Redis/Varnish
+Ofrecemos
+- Salario a negociar según experiencia del candidato.
+- Oficina bien comunicada en el centro de Barcelona.
+- Voz y voto en la toma de decisiones técnicas.
+- Ambiente de trabajo distendido e informal.
+- Oportunidad de evolucionar profesionalmente en una empresa en plena expansión y con una alta proyección de crecimiento.

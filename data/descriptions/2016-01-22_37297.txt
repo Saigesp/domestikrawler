@@ -1,0 +1,3 @@
+
+FantasticoPets, la App nº1 para mascotas en España está buscando un programador con experiencia en desarrollo de Apps para iPhone, incluyendo la parte de desarrollo de Web Services en PHP.
+En una primera fase el objetivo es completar la App ya existente desarrollada sobre xCode para acercarla al punto de desarrollo de la App para Android. Esto incluye la preparación para la recepción de notificaciones, la integración con iBeacons, y otras mejoras como la reducción del tamaño en sí de la App para hacerla más atractivas a los usuarios.

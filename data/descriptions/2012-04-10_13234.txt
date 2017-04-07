@@ -1,0 +1,14 @@
+
+En Boxprivee estamos buscando a una persona con experiencia demostrable en el desarrollo de portales E-Commerce con Magento.
+Programación de la evolución de la plataforma(Magento) en .php/mysql
+Identificar tendencias, oportunidades y riesgos relacionados con la tecnología
+Evaluar las plataformas tecnológicas idóneas para el negocio. Implementar las mejores prácticas.
+Establecer los procedimientos de desarrollo y seguridad
+Mejorar la usabilidad web.
+Dirigir los proyectos de desarrollo externalizados. (Aplicaciones facebook, blog, encuestas, etc.)
+Los conocimientos requeridos para el puesto son:
+- Lenguajes de programación: PHP, Javascript, jquery, SQL.
+- BBDD: MySQL.
+- Tecnologías Web: Maquetación HTML/CSS3.
+- Se valorarán: conocimientos de HTML5, LESS, CoffeeScript.
+Estamos valorando colaboraciones tanto freelance como con contrato a media o jornada completa. Es imprescindible residir en la provincia del puesto vacante (MADRID).

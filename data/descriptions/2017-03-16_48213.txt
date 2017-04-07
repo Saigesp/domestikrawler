@@ -1,0 +1,28 @@
+
+Estamos buscando Ingenieros de DevOps que nos ayuden a construir una plataforma cloud de tecnología punta desde el principio. En este puesto, en el que no faltarán los desafíos, esperamos que trabajes junto a un equipo de personas con talento para liderar la innovación en la nube, configurando los entornos de desarrollo y producción, y desplegando en ellos las últimas versiones de la plataforma usando metodologías Agile.
+Las tareas y responsabilidades de este puesto incluyen: 
+- Instalación, configuración y soporte de infraestructura DevOps 
+- Automatización de despliegues monitorización y configuración de sistemas de self-healing 
+- Automatización de funcionalidades complejas para mejorar la entrega de información 
+- Colaborar con otros miembros del equipo para crear métricas de rendimiento integral en aplicaciones clave de forma que se generen alertas al sobrepasar limites configurables (User/System Metrics) 
+- Colaborar para configurar entornos de prueba de carga junto a test automatizados de regresión, scripts/procesos/herramientas de planning de capacidad y análisis de datos proporcionados por herramientas de monitorización de rendimiento 
+- Participar en reuniones prescritas por los procesos Agile aplicados, colaborando en las tareas de extracción de requisitos, análisis y diseño entre otras
+- Mantenerse actualizado en las últimas tecnologías
+Habilidades técnicas: 
+- Mínimo 3 años de experiencia en administración en Linux 
+- Mínimo 2 años de experiencia en DevOps 
+- Experto en Linux, incluyendo tanto scripting como rendimiento 
+- Experiencia trabajando con sistemas de automatización de configuración y herramientas de despliegue de software en infraestructura como Puppet o Chef 
+- Experiencia con Continuous Integration, despliegue y operaciones (Jenkins or Travis CI) 
+- Experiencia con virtualización, contenedores o servicios cloud IaaS 
+- Experiencia con cualquier metodología Agile
+Habilidades adicionales: 
+- Certificación en alguna disciplina IT, preferiblemente por ITIL 
+- Experiencia desarrollando con Ruby 
+- Experiencia desarrollando con Golang 
+- Experiencia en administración de bases de datos 
+- Contribuciones a proyectos open-source y/o repositorios públicos en Github con tu trabajo 
+- Nivel alto de inglés, tanto hablado como escrito 
+- Alta motivación 
+- Disponibilidad para viajar 
+- Preparado para trabajar en equipo

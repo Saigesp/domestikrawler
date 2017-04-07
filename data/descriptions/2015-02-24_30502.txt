@@ -1,0 +1,26 @@
+
+Departamento: Servicios técnicos
+Estamos buscando un profesional como tú: 
+_Abierto siempre a explorar y aprovechar el potencial de los nuevos medios. 
+_Con ganas de conocer nuevas herramientas y aplicaciones.
+_Que está fascinado por la tecnología y todo lo nuevo que nos pone al alcance.
+Pero sobre todo queremos a una persona como tú:
+_Con iniciativa y sin miedo a enfrentarse a importantes retos.
+_Interesada en crecer dentro de una agencia con grandes cuentas y que apuesta por aplicar su propia filosofía creativa a las nuevas vertientes de la tecnología aplicada a la comunicación para alcanzar un futuro lleno de nuevas corrientes de negocio.
+Requisitos
+Estudios mínimos: Licenciado - Técnico
+Experiencia mínima: 1 año
+Imprescindible residente en: Barcelona
+Conocimientos informáticos: 
+Se requiere programador con buen nivel de programación C# con Visual Studio para el desarrollo de aplicaciones desktop, webs y webservices (mínimo 2 años de experiencia). Es necesario dominar HTML5, javascript con jQuery, el framework de desarrollo ASP.NET, y la gestión de base de datos mediante Microsoft SQL Server.
+Se valorarán conocimientos de Microsoft MVC, del gestor de contenidos Umbraco y de Adobe Flash.
+Idiomas : Castellano / catalán; muy valorado conocimientos de inglés e italiano
+Requisitos deseados: 
+Conocimiento a nivel técnico de plataformas de ecommerce : Prestashop y Magento
+Conocimiento de CMS : Umbraco, WordPress o Drupal
+En definitiva: 
+¡Queremos crecer contigo! 
+¡Queremos que formes parte de un equipo que valora el esfuerzo! 
+¡Queremos trabajar para ser parte del futuro más inmediato! 
+¡Queremos que evoluciones y aprendas junto a nosotros!
+

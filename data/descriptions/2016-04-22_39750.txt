@@ -1,0 +1,31 @@
+
+¿QUIÉNES SOMOS?
+Worldline (by Atos) es una empresa multinacional y líder en Europa en servicios transaccionales y pagos electrónicos. Ofrece servicios de IT que actúan como facilitadores de negocio para impulsar el crecimiento de sus clientes. Worldline generó ingresos anuales de 1.500 millones de euros en 2014, y emplea a más de 7.500 personas alrededor del mundo.
+Concretamente, nosotros trabajamos en Tempos 21, el Mobile Competence Center de Worldline, dónde contamos con más de 15 años desarrollando e implementando soluciones para dispositivos móviles, y durante los cuáles hemos realizado proyectos en la mayoría de las tecnologías del sector. Actualmente el equipo está formado por 70 profesionales polivalentes y organizadas/os en distintas áreas de trabajo.
+¿QUÉ TIPO DE PERFIL ESTAMOS BUSCANDO?
+Buscamos estudiantes de UX Design en su último año de carrera/master con vocación de especializarse en el sector de desarrollo de aplicaciones para móviles, responsive web design (RWD), wearables y aplicaciones web. No es necesario tener experiencia en desarrollos para móviles, pero sí que es importante que sea una persona inquieta, detallista y ordenada, con un alto nivel de inglés. Que esté interesada en las nuevas tecnologías y las últimas tendencias en movilidad, además de un “heavy user” de smartphones y tablets. Que sea asistente habitual a meetups, workshops y conferencias sobre tecnologías móviles, usabilidad, arquitectura de la información y diseño de la interacción.
+¿CUÁL ES EL OBJETIVO DE LA OFERTA?
+El objetivo consiste en formarte en las tecnologías y metodologías habituales de Tempos 21 para que, al finalizar la beca, puedas pasar a incorporarte a plantilla como Junior UX Designer.
+Tendrás asignado un mentor que será el responsable de guiarte a lo largo de este viaje, siendo tu referencia durante todo el proceso de aprendizaje. A pesar de ello, todos los integrantes del equipo somos muy majos y estaremos encantados de echarte una mano siempre que lo necesites.
+¿QUE APRENDERÉ EN ESTA BECA?
+Te especializarás en conceptualización de soluciones orientadas al usuario y elaboración de prototipos interactivos. Inicialmente, durante un periodo en que el tendrás que estudiar y asimilar información concreta sobre diseño centrado en el usuario (User Centred Design), principios de usabilidad y herramientas de prototipaje. Una vez finalizada esta etapa, te guiaremos bajo el enfoque “learn by doing”, dónde podrás participar en una gran diversidad de proyectos con clientes reales, siempre bajo la supervisión de tu mentor.
+Algunas de las cosas que aprenderás durante la beca son actividades relacionadas con:
+- Tests de usuario
+- Análisis heurísticos de interfaces de usuario
+- Prototipado con Axure, Justinmind y otras herramientas de wireframing
+- Elaboración de personas, scenarios y user stories
+- Identificación de limitaciones tecnológicas, aplicación de patrones, estándares y best practices
+- Benchmarking sectorial
+- Metodologias Agile
+¿ES UNA BECA REMUNERADA O ES UNA BECA DE FORMACIÓN SIN REMUNERACIÓN?
+Es una beca remunerada según el convenio que tengamos con tu universidad, aunque suele estar fijada en 7€/h. 
+¿COMO COMPAGINO MIS ESTUDIOS CON LA BECA?
+Somos conscientes que acabar tus estudios es lo mas importante, por lo que tendrás flexibilidad de horarios. Deberás realizar un total de 20h (jornada parcial) o 30h (jornada intensiva) semanales que podrás repartir dentro del horario laboral de Tempos21:
+Invierno
+    Lunes – Jueves: de 8:00h a 19:30h
+    Viernes: de 8:00h a 15:00h
+Verano
+    Lunes – Viernes: de 8:00h a 15:00h
+¿CUANTAS PLAZAS HAY DISPONIBLES?
+    Intern UX Designer: 1 plaza.
+

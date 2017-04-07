@@ -1,0 +1,12 @@
+
+Somos Beeva, una consultora tecnológica del BBVA con más de 15 años de experiencia en el sector de las tecnologías emergentes. Nuestra misión es implantar soluciones innovadoras en el campo de Big Data, Cloud Computing y API Strategy.
+BEEVA busca para su incorporación en plantilla, de forma estable, un Developer UI. 
+Requisitos:
+- Capacidad de Gestión y dotes de comunicación, presentaciones con clientes, etc.
+- Experiencia en HTML5, CSS3, JavaScript 
+- Experiencia en maquetación responsive y mobile
+- Conocimiento de AngularJS o de otras librerías y frameworks del actual ecosistema de Javascript
+- Herramientas de automatización (Gulp, Grunt) 
+- Visión de negocio
+Valorable:
+-Conocimiento en metodologías ágiles 

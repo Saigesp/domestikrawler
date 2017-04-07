@@ -1,0 +1,18 @@
+
+¡Hola! somos los creadores de Zeus. Hace unos meses ideamos una nueva manera de gestionar las empresas a través de paneles en videowalls instalados en las oficinas que muestran las kpis más importantes del negocio. A esto le llamamos Smart Visual Data. Conectándonos vía API a los softwares que utilizan las empresas y extraemos solo aquellos datos realmente relevantes para mostrarlos en paneles con diseños espectaculares. En nuestro equipo contamos con analistas, diseñadores, expertos en consultoría de negocio y programadores. Pero el producto está funcionando tan bien que necesitamos con urgencia un programador que se una a nuestro Olimpo.
+¿Y qué necesitamos exactamente? Un programador con experiencia en PHP, preferiblemente que haya hecho de Laravel su framework y mejor aún si tiene experiencia en estructura compleja de BBDD, y en conexiones vía API. Pero sobre todas las cosas buscamos a alguien que se apasione con su trabajo, que aporte ideas y que no se crea Rambo, aquí se trabaja en equipo. Que esté dispuesto a darlo todo siempre. Y a dar incluso un poco más cuando sea necesario. Que le guste la gente y quiera venir a sumar.
+Resumiendo:
+  Programador PHP con + 3 años experiencia. (Trabajarás con Laravel, aunque también valoramos tu experiencia en otros frameworks como Symfony, CakePHP,Yii...).
+ Valoramos mucho, conocimientos de Javascript y HTML5
+Tus tareas:
+- Realizar conexiones con diferentes softwares vía API o montaras los webservice que sean necesarios, para extraer aquellos datos que nos son de utilidad. 
+- Creación de la arquitectura necesaria para el almacenamiento de grandes cantidades de datos. ( si tienes experiencia con diferentes bases de datos cuéntanoslo).
+- Programación de diferentes aplicaciones de reporting en tiempo real. 
+- Trabajo con el equipo de maquetación tanto web como Mobile.
+¿Cómo se trabaja aquí?
+Tenemos horarios flexibles y creemos en la autogestión. Pero somos exigentes con la calidad
+y con los plazos. En Zeus trabajamos en un ambiente genial con gente joven pero con mucha
+experiencia.
+Estamos en pleno centro de Valencia en un edificio de dos plantas rodeados de terracitas
+ideales para acabar un día duro trabajo.
+

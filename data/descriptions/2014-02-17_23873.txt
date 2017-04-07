@@ -1,0 +1,22 @@
+
+Somos una empresa ubicada en el parque empresarial de Las Rozas de Madrid. 
+Buscamos un desarrollador web que tenga experiencia previa de mínimo 3 años desarrollando aplicaciones web con tecnologías LAMP y que este familiarizado con los patrones de diseño MVC. Debe ser capaz de gestionar un proyecto completo desde el análisis y la toma de datos hasta la entrega final al cliente.
+Las características del puesto requieren soltura en las siguientes tecnologías o capacidad para aprenderlas:
+SERVIDORES WEB:
+- Administración de servidor Windows server 2003 e IIS6
+- Administración de servidor Unix CentOS con Plesk y SSH
+- Administración de servidor SVN bajo Unix
+- Gestión de dominios y zonas DNS.
+TECNOLOGIAS WEB:
+- HTML y HTML5
+- CSS y CSS3 (SASS y LESS)
+- Responsive web design
+- PHP4 y PHP5 orientado a objetos con patrones MVC
+- MySQL version 5
+- Javascript (jQuery y JSON)
+- API de Paypal y Google
+- Capacidad para utilizar servidor SVN de control de versiones.
+HERRAMIENTAS GRÁFICAS:
+- Adobe Photoshop para desarrollo de interfaces y convertirlas a HTML
+- Adobe Illustrator para desarrollo y modificación de imágenes corporativas
+- Adobe In Design 

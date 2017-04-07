@@ -1,0 +1,33 @@
+
+
+En ideup! estamos buscando Desarrolladores PHP para ampliar nuestro equipo de Desarrollo. Buscamos personas capaces de trabajar en grupo, comprometidos y apasionados de las nuevas tecnologías, pero sobre todo que no les asuste enfrentarse con nuevos retos tecnológicos.Se incorporarán a un equipo muy cualificado y apasionados de la web. Un equipo que participa activamente en varias comunidades de software libre, que dan charlas en eventos técnicos y evangelizan sobre el uso de Drupal o Symfony como plataformas de desarrollo.
+
+Necesitamos personas que tengan experiencia demostrada en desarrollo web PHP y que cumplan los siguientes requisitos:
+    +2 años de experiencia en desarrollo con PHP5
+    Amplia experiencia en programación orientada a objetos
+    Experiencia con frameworks MVC PHP
+    +2 años de experiencia en MySQL
+    Experiencia en entornos Linux
+    Experiencia con sistemas de control de versiones
+Requisitos deseados:
+    Experiencia en desarrollo con Symfony 2 o Drupal (6-7)
+    Experiencia en uso y conexión de webservices
+    Conocimientos avanzados de JavaScript, jQuery
+    Conocimientos avanzados de GIT
+Bola extra:
+    Cuenta activa en GitHub, Bitbucket o Drupal.org para revisión de código o módulos personales
+Ofrecemos:
+    Trabajar en un equipo innovador, multidisciplinar y con pasión por internet.
+    Participar en proyectos para algunas de las principales marcas del país.
+    Utilizar o aprender nuevas tecnologias como RabbitMQ, MongoDB, PHPList...
+    Formación continua a cargo de la empresa con asistencia a eventos y congresos.
+    Posibilidad de trabajar desde tu casa un día a la semana.
+    Jornada reducida durante los dos meses de Verano.
+    Tickets Restaurant.
+Si estás interesado, envíanos tu CV (y si tienes perfiles de GitHub, Bitbucket o Drupal.org) a rh@ideup.com con el asunto 'Desarrollador PHP'.
+
+Se valorarán muy positivamente ejemplos de trabajos realizados y proyectos en los que hayas participado. Si tienes web personal, blog, twitter, Linkedin, o lo que quieras que conozcamos, envíanoslo también.
+
+Puesto de trabajo en Las Rozas (A6 - km23) hasta noviembre. A partir de diciembre oficinas en Madrid centro
+Lunes a jueves jornada completa, Viernes media jornada. Julio y Agosto de 8 a 15h.
+

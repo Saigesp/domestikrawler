@@ -1,0 +1,7 @@
+
+Necesitamos un maquetador/diseñador Web.
+Experiencia demostrable en usabilidad de aplicaciones Web y CSS para participar en la mejora de la experiencia de nuestros clientes en nuestra web interna.
+El proyecto partirá de nuestra web existente y se centrará en realizar un plan de mejora de usabilidad y diseño, con la realización de los ficheros CSS necesarios.
+Experiencia en la integración de gráficos (charts) es un plus.
+Experiencia en Mobile UI es un plus.
+La colaboración es puntual con posibilidad de ampliarla a otros proyectos.

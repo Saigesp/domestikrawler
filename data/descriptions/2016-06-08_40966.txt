@@ -1,0 +1,15 @@
+
+Buscamos una persona resolutiva, proactiva, creativa y con alta capacidad de organización para integrarse en un equipo multidisciplinar, para desarrollar nuevos proyectos de ecommerce. 
+· Necesaria y demostrable experiencia profesional de al menos 4 años con especialización en e-commerce.
+· Mínimo 4 años de experiencia en desarrollo de aplicaciones web en PHP.
+· Mínimo 2 años de experiencia con frameworks Symfony, Codeigniter, Laravel ó MVC.
+· Experiencia en tecnologías frontend : HTML5, CSS, JavaScript, jQuery, etc.. 
+· Maquetación web responsive
+· Valorable experiencia previa como responsable de equipo / proyecto.
+· Experiencia en integración con servicios web (SOAP).
+· Experiencia con bases de datos MySQL (imprescindible) y MongoDB (deseable)
+· Desarrollo Back-end y Front-end 
+· Preprocesadores css SASS/LESS  
+· Conocimientos demostrables en Seo / Analytics / Tag Manager / GSC
+· Conocimientos linux avanzados
+

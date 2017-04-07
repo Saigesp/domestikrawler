@@ -1,0 +1,13 @@
+
+About Us
+Giftry is an exciting start-up company focused on creating new and innovative ideas used by millions of people worldwide using the latest in mobile and cloud services, web and mobile technologies.  We strive to redefine how people give and receive gifts with their friends and family.  
+Job Description
+We're seeking an AngularJS programmer who thinks outside the box and isn’t afraid to push their limits. We're looking for someone who's as passionate as we are about social technology. You will be involved in every step of the development process, from brainstorming new product ideas, to final implementation.  You’ll have the opportunity to get in on the “ground floor” of a small, energetic start-up innovating in social gifting.
+Requirements
+·      Solid Javascript skills with AngularJS
+·      Experience with using scalable, web-based RESTful APIs
+·      Nice to have: Solid UI/UX experience, with HTML and CSS implementation abilities
+·      Nice to have: Experience with developing mobile apps for both iOS and Android
+·      Nice to have: jQuery, Groovy, Grails
+We are looking to hire quickly, so apply now!
+Compensation includes competitive pay, flexible work schedule, and potential employee equity package.

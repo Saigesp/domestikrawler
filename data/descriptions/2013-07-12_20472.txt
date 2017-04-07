@@ -1,0 +1,32 @@
+
+Description:
+- We need a seasoned and exceptional Lead Developer with a wide range of development experience to lead our in house development team and external developers. You will be an integral part of moving the business to the next level as the technical leader in our development team.
+- You will be driven by success and hungry for the opportunities provided by a young and rapidly expanding agency.
+- You will be a lead developer because of your overall development experience and development leadership experience.
+- Ideally you would be a .NET programmer who made the switch from PHP some years ago. We need a .NET developer with leadership experience who can lead PHP programmers and who doesn&amp;#39;t mind programming PHP from time to time.
+- Champion of development best practice in the business. Absorb, improve, develop and disseminate amongst the team the company&amp;#39;s best practice knowledgebase, write code which is a shining example of best practice.
+- Capable of writing technical specifications
+Requirements:
+- You will be working predominantly with English speaking clients in a business whose language of business is primarily English, you must have excellent English.
+- Many years of experience in web development and at least 3 years programming with object oriented PHP and at least 3 years of multi-programmer team experience
+- Experience specifying, estimating, managing and especially in leading other developers
+- You must be obsessive about delivering high quality code, testing, documentation and project delivery speed.
+- You must absolutely dominate: .NET C, SQL Server and IIS, HTML5, CSS, AJAX, JavaScript (jQuery)
+- You must absolutely dominate at least one version control system.
+- Client handling and requirement gathering experience.
+- Experience with project management systems.
+- Excellent planning, interpersonal, verbal and written communication skills. 
+- Release management including code version control, database change control and more simple control methods.
+
+It would be nice if you also:
+- Knew Spanish, Catalan or other languages
+- Knew other programming languages and/or databases especially PHP and MySQL
+- Had development experience with umbraco or nopCommerce
+- Had development experience with Drupal, WordPress, Joomla, Smarty, PHPList
+- Had experience with Symphony, Cake, Pear, Memcache, Kohana etc.
+- Had experience with Agile methodologies, or any other formal development management methodologies
+- Had system administration experience especially LAMP and Microsoft Server
+- Had development experience with Sage.
+- Had experience with Mercurial, SVN and/or other version control systems.
+
+

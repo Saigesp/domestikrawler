@@ -1,0 +1,12 @@
+
+Se busca programador  junior con experiencia demostrable en desarrollo de aplicaciones web a medida con PHP y MySQL (framework Symfony) 
+Funciones:
+- Desarrollo de aplicaciones web a medida.
+- Análisis, implantación y desarrollo de proyectos web.
+- Diseño de bases de datos.
+- Toma de requisitos relativa al proyecto web o webapp.
+- Definir las necesidades de los proyectos conjuntamente con el equipo técnico y comercial. 
+Requisitos/Conocimientos recomendados:
+- PHP / HTML5 / CSS3 / jQuery / MySQL 
+- Desarrollo web con Symfony 2 (Experiencia entre de 2-4 años) 
+- Conocimientos de gestión del tiempo o planificación

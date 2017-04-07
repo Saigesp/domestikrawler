@@ -1,0 +1,31 @@
+
+We are looking for a smart and skilled Software Engineer to work on our backend systems. The successful candidate will work with our team of scientists and engineers to design, develop, test and deploy large-scale data intensive components to extend our current system.
+Responsibilities:
+- Develop service-oriented components to enhance and evolve our data-intensive system.
+- Analyze upcoming business requirements and requests for improvement and design solutions and prototypes to tackle them elegantly.
+Essential qualifications:
+- Strong programming skills in Java, Python or other object oriented programming languages.
+- Strong OOP skills, as well as solid background in algorithms, data structures and software design.
+- Knowledge of machine learning, statistics and data mining.
+- Strong experience with SQL databases (MySQL or Postgres).
+- M.Sc. in Computer Science or equivalent experience.
+- Fluent English is required.
+- Work permit for the European Economic Area.
+Preferred qualifications:
+- Experience with unit testing and continuous integration is a plus.
+- Experience with Hadoop or other MapReduce framework is a plus.
+- Experience/knowledge of orchestration systems like Ansible and Docker is a plus.
+- Knowledge of AWS is a plus.
+- Experience in commissioning production machine learning systems is a plus.
+We offer:
+- Competitive salary + compensation package.
+- Relocation packages for candidates from outside Spain.
+- Flexible Schedule.
+- Choice between Linux or Mac personal laptop.
+- Spotify Premium subscription.
+- Snack-Bar.
+About us:
+Brandcrumb is focused on providing companies with enhanced knowledge of their online customers. Based on our patent-pending Predictive and Prescriptive platform, we help businesses make smart real-time decisions.
+We are a company based in Madrid with startup mentality, an exciting work environment and open mind policy. We are flexible when it comes to choosing technologies and solutions, always open to new proposals. In Brandcrumb you will be working with cutting edge technologies, using the latest technology advances to develop innovative and state of the art solutions.
+Specialised in: 
+Entity Disambiguation, Big Data, Online branding y Web Services.

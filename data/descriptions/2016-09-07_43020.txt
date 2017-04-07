@@ -1,0 +1,17 @@
+
+Dortoka Disseny somos empresa de comunicación gráfica, digital y audiovisual en Barcelona, buscamos un perfil FRONTEND/BACKEND DEVELOPER .
+Necesitamos Programador Frontend-backend con experiencia de 2-3 años en: 
+Experiencia desarrollo frontend y backend. 
+Experiencia en entornos de producción. 
+Experiencia en POO, Websevice / REST, mysql, JSON.
+Experiencia, CSS, Javascript (AJAX, framework jQuery), PHP y SQL. 
+Dominio desarrollo WordPress (plugins, temas). 
+Integraciones REST – Mobile
+Mantenimiento de servidores.
+Experiencia CSS3 y HTML5.  LESS, Ajax, Bootstrap, Foundation, DOM y Responsive Web Design.
+Capacidad para la resolución de problemas. 
+Capacidad para trabajar en un entorno cambiante y dinámico.
+Deseable: 
+- Arduino+sensores, Kinect 
+- Dibujo generativo con herramientas como Processing, OpenFrameworks y Max/MSP 
+- Conocimientos de UI/UX y Conocimientos de SEO/SEM

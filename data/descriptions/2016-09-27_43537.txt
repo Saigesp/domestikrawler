@@ -1,0 +1,11 @@
+
+Necesitamos un desarrollador para una App en iOS y Android que nos ha solicitado un cliente. Se trata de una App gratuita entre empresas que permita publicitar sus ofertas en campañas de duración corta. Nosotros nos encargaríamos del diseño y la definición de funcionalidades. El desarrollador deberá crear la App para iOS y para Android, así como publicarla en la AppleStore y Google Play para su descarga
+Descripción de la app
+Se trata de una herramienta de trabajo para dar apoyo al departamento comercial. El objetivo es optimizar el tiempo y conseguir más ventas. 
+La principal característica de la app es mantener informado en todo momento al cliente de las diferentes promociones de la empresa.
+Entre empresas no se podrán ver las Flashpromo que pongan cada una. Las Flashpromo sólo las pueden ver los clientes que se descarguen la App.
+En la app sólo se anuncian promociones flash (duración limitada max. 72h)
+¿Quienes somos?
+Innova, marketing online es un grupo multidisciplinar especializado en la gestión de las nuevas tecnologías al servicio del a comunicación. Somos un gabinete formado por expertos en marketing digital, publicistas, diseñadores web y desarolladores multimedia.
+Ofrecemos una gestión rápida, económica y eficaz de las necesidades de comunicación online. La empresa está fundada el año 2008 y desde entonces hemos desarrollado todo tipo de proyectos. Aquí algunos: http://innova.marketing/portfolios/
+Gestionamos todas las áreas de marketing digital: diseño web, ecommerce, gestión y envío de newsletters, campañas de Google Adwords, desarrollo multimedia, creación y dinamización de grupos en las redes sociales… en definitiva todos los servicios de marketing online que las empresas necesitan.

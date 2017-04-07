@@ -1,0 +1,11 @@
+
+Adesis Netlife es una compañía de servicios integrales perteneciente al grupo GFT, que ofrece asesoramiento y apoyo especializada en el ámbito de las nuevas tecnologías e Internet.
+Con más de 15 años de vida, Adesis Netlife ha desarrollado una presencia creciente en los principales centros de actividad españoles, europeos y en latinoamerica desde el año 2000.
+Contamos con un gran equipo de profesionales y en nuestro afán por contribuir a la innovación tecnológica participamos activamente en algunas de las iniciativas más punteras.
+Buscamos un maquetador web senior, con una clara orientación a la gestión de equipos, para trabajar en un importante cliente del sector asegurador a nivel nacional,.
+Requisitos mínimos
+- Nivel experto HTML5, CSS3, JavaScript
+- Conocimientos Accesibilidad
+- Conocimientos AngularJS
+- Nivel medio/alto inglés 
+- Interés e iniciativa por la gestión equipos/proveedores.

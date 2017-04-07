@@ -1,0 +1,7 @@
+
+Buscamos un desarrollador con experiencia en PHP, se valorara tener experiencia en Symfony2 u otros frameworks.
+Boletus es un proyecto joven en plena expansión, por lo que creemos que representa un reto interesante para cualquier desarrollador, ya que esa expansión nos va a permitir contemplar otras alternativas tecnológicas de cara a poder conseguir un rendimiento alto.
+Podrás formar parte de un equipo de desarrollo joven y multidisciplinar que te permitirá mejorar tus capacidades como desarrollador.
+Requirimientos:
+- 2 años de experiencia desarrollando en PHP
+- Experiencia en Frontend (HTML5, CSS y Javascript)

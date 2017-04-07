@@ -1,0 +1,6 @@
+
+Buscamos a un programador/a junior con capacidad para el desarrollo de proyectos.
+Conocimientos necesarios:
+- MySql, framework symfony 1.4 y 2.0, css 2 , css3
+- Programación: conocimientos altos de HTML, PHP. Que se maneje con herramientas CMS de gestión de contenidos tipo Wordpress, joomla.
+Valoraremos muy positivamente los conocimientos en Responsive Web Design.

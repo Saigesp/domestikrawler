@@ -1,0 +1,19 @@
+
+¡Hola! 
+Somos una empresa mediana que actualmente se encuentra en fase de expansión a nuevos mercados y líneas de negocio.
+Descripción 
+Se trata de un trabajo realizado desde la oficina donde el programador atenderá a los proyectos que le vengan dados desde el departamento de Marketing en relación a gestión de bases de datos y otras labores de programación.
+Conocimientos técnicos 
+•	PHP. 
+•	SQL. 
+•	Conocimiento de otros lenguajes (html5, css3, etc)
+Tareas que deberá realizar 
+- Su principal tarea será la optimización de la actual bases de referencias de la empresa y la gestión de la misma buscamos a una persona pro activa que nos aporte una nueva visión de la estructura de información en la empresa. 
+•	Desarrollar extensiones de funcionalidad para WordPress. 
+•	Desarrollar aplicaciones de gestión de datos en PHP y SQL, en función de las necesidades de los departamentos de la empresa. 
+•	Integrar las diferentes aplicaciones y sistemas de la empresa para poder intercolaborar entre sí.
+Otros aspectos puntuables 
+-	Conocimientos y/o experiencia en SEO. 
+-	Conocimientos y experiencia gestionando bases de datos SQL.
+Necesitamos a una persona divertida con ganas de trabajar en un ambiente joven, que no se calle sus ideas y que siempre tenga ganes de aportar su manera de hacer las cosas. Si crees que puedes encajar por favor envíanos tu Mail.
+Abstenerse empresas y autónomos.

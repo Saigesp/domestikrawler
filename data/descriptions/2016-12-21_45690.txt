@@ -1,0 +1,12 @@
+
+Hola,
+Somos una empresa de clases para alumnos on-line y buscamos a un desarrollador senior de PHP, JS freelance para ayudarnos en la implementación y mejora de nuestro módulo de chat.
+Competencias requeridas:
+- 5 años de experiencia en una empresa o como freelance.
+- Al menos una experiencia significativa con CometChat / ArrowChat en una web con tráfico alto.
+- Disponibilidad inmediata.
+- Basado en Barcelona.
+Competencias apreciadas:
+- Dominar Laravel 5 (o al menos Symfony).
+- Optimización de caché, administración de servidor.
+Desarrolladores de PHP sin experiencia ni con ArrowChat ni con CometChat (o módulo equivalente de chat) por favor abstenerse.

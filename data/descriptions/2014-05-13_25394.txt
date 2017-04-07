@@ -1,0 +1,12 @@
+
+En NECSIA IT Consulting estamos seleccionando un Diseñador Web / Front-End con más de 2 años de experiencia para proyecto en importante cliente final ubicado en Sabadell. 
+Requisitos:
+ - 2 años de experiencia mínimo en diseño y desarrollo front-end con Javascript, HTML, HTML5, CSS3.
+- Conocimiento en Gestión de Proyectos.
+- Conocimientos de diseño y capacidad de análisis de mejora de usabilidad de procesos.
+- SQL Server + Oracle a nivel usuario
+- Conocimientos de lenguajes: ASP.NET, VB.NET, PHP, JAVA. 
+- Capacidad comunicativa con el usuario final, tanto a nivel de impartir formación como de resolución de incidencias.
+
+Requisitos deseados:
+- Deseable disponer de nociones en entornos de prueba: HP Quality Center, ALM, QTP, UFT. 

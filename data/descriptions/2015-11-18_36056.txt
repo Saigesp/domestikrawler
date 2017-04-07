@@ -1,0 +1,26 @@
+
+*** ¿Qué es Guudjob? ***
+Aplicación móvil GRATUITA de VALORACIÓN del TRABAJO de cualquier profesional en tiempo real, generando dos tipos de output básicos:
+1.	Marketplace / catálogo de servicios personales y profesionales cercanos al usuario, con especial foco en profesiones / servicios relacionados con el hogar y familia, donde la recomendación y confianza es crítica (niñeras, profesores particulares, asistencia en hogar, wedding planners, cuidado de ancianos, animadores infantiles…)
+2.	Herramienta de gestión personalizada de la calidad de servicio para empresas, poniendo el foco inicial en cadenas de restauración
+La prensa nos llama el “TRIPADVISOR de Profesionales”
+Ver referencias de prensa: http://www.guudjob.com/referencias/
+*** ¿Por qué trabajar en Guudjob? ***
+•	Porque estamos ayudando a un gran número de profesionales a destacar en su trabajo.
+•	Una App que quiere traer la meritocracia al mundo laboral. El bueno destaca.
+•	Porque ayuda a crear empleos y construir una credibilidad profesional.
+•	Porque queremos cambiar la forma de trabajar en el mundo gracias a las valoraciones de profesionales.
+*** Requisitos ***
+- Al menos 2 años de experiencia demostrable en el desarrollo de aplicaciones móviles.
+- Capacidad de escribir código de calidad, escalable, testable y mantenible.
+- Conocimientos de metodologías ágiles (Scrum, Kanban, etc)
+- Experiencia en tests unitarios.
+- Experiencia en Git.
+- Conocimientos en User Experience y Personalización.
+- Conocimientos básicos de diseño para modificaciones in App.
+- Integración de Analítica In App con Flurry y otras herramientas.
+- Desarrollo de Animaciones
+- Uso de librerías de tercero
+*** ¿Qué Harás? ***
+Cambiar la forma de trabajar en el mundo gracias a las valoraciones de la App Guudjob, ayudando a los buenos profesionales a destacar. Trabajarás junto al equipo de desarrollo de backend, utilizando metodologías ágiles y con las últimas tecnologías disponibles. Te encargarás de añadir nuevas funcionalidades, optimizar y mantener las existentes. Tomarás decisiones respecto a la implementación de las soluciones planteadas, así como de la arquitectura necesaria para obtener un código de calidad.
+

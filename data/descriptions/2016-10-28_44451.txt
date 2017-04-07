@@ -1,0 +1,35 @@
+
+JOB DESCRIPTION
+You are a developer looking for an opportunity to work with an international brand. You thrive in fast-paced and interactive teams and have a Bachelor’s Degree in Computer Science or related field. You have at least one year of Salesforce Commerce Cloud experience, and also dominate current HTML/CSS/JS standards and frameworks.
+KEY RESPONSIBILITIES
+•	Use Demandware Script and other related development technologies, performs various backend coding tasks, such as design, development and testing of Demandware REST APIs, DW Pipelets and other back-end services.
+•	Support the maintenance and technical configuration of the e-commerce environment.
+•	Provide daily support, troubleshoot and bug fixing for existing clients
+•	Maintain and create code documentation
+•	Deliver software code that is built to scope and within the agreed upon goals.
+•	Successfully participate in the review of business requirements and functional specifications, providing feedback and analysis
+•	Produce interim deliverables (to include proofs of concept, prototypes etc.) in a timely manner, in addition to the final live site or application.
+•	Successfully work as a team member on large accounts
+•	Communicate and report any risks or possible delays to project managers
+•	Successfully take initiative to learn and research emerging technologies
+TECHNICAL QUALIFICATIONS
+•	Bachelor's Degree in IT or related functional business area or equivalent experience
+•	At least 1 year experience of developing for the Salesforce Commerce Cloud platform
+•	Certification in Salesforce Commerce Cloud strongly preferred (DEV101, CIP Certification)
+•	At least 3 years of web development: strong knowledge of HTML/CSS/JS 
+•	Proficiency in Eclipse IDE
+•	Proficiency in Back end programming languages and database management
+•	Experience in working with 3rd party system and API's
+•	Experience in NodeJS development is a plus
+PERSONAL COMPETENCIES
+•	Ability to balance multiple responsibilities and take initiative
+•	Ability to perform in a fast paced and highly interactive team environment
+•	Strong written and verbal communication skills, as well as problem solving skills (Fluent English obligatory, German a plus)
+•	Flexible, team oriented, self-motivated, proactive, and passionate.
+DETAILS
+Experience: Junior-Mid level
+Employment type: Full-time (40 hrs/week)
+Location: Barcelona, Spain
+International applicants welcome
+ABOUT MACHINAS
+Machinas is a leading multinational English speaking new-media company based in one of the most beautiful areas of Europe: Barcelona, Spain. We have over 16 years of experience specialising in e-commerce for the fashion industry. With clients such as ESPRIT, JACK WOLFSKIN and HUGO BOSS we are constantly evolving and developing our worldwide design solutions, our strategies and our team in order to remain the market leaders in this sector. We are a multinational team - our creative environment consists of individuals from over 15 countries.

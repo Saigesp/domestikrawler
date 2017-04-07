@@ -1,0 +1,33 @@
+
+¿Qué buscamos?
+Si eres un desarrollador/a senior con perfil Fullstack y te encantan los nuevos retos, si tienes ganas de seguir creciendo profesionalmente, si te apasiona tanto programar que hasta escribes código mientras duermes, si eres curioso y estás siempre dispuesto aprender... ¡Te estamos buscando!
+¿Qué hacemos?
+KOLECTA es una start-up de Fintech que ofrece soluciones para pagos en grupo mediante su sistema de botes online. La plataforma social de Kolecta permite reunir dinero entre amigos con el fin de hacer regalos en grupo, organizar eventos entre varias personas o recaudar dinero para una causa social. Trabajamos con las tiendas Online más prestigiosas como Amazon, Atrapalo, Wonderbox, Bebe de Paris, FNAC, Zalando, Groupalia, etc.
+ Actualmente estamos desarrollando un nuevo proyecto innovador para aplicar los métodos de pagos en grupo al sector turístico, que sin duda marcará un antes y un después en el mundo del Fintech. ¡Y te necesitamos para hacerlo!
+Requisitos:
+1. Experiencia mínima: 3 años.
+2. Back-end: PHP, MySQL.
+3. Front-end: CSS, HTML, JavaScript, JSON.
+4. Actitud positiva y capacidad de autonomía y liderazgo.
+5. Y por supuesto, pasión por la programación y el 'clean code'.
+
+Además se valorará:
+1. Experiencia en desarrollo de API REST
+2. Experiencia con proyectos nuevos o start-ups de nueva creación como programador.
+3. Proyectos propios en github o similar.
+Qué tendrás que hacer:
+1. Análisis y desarrollo de un nuevo proyecto.
+2. Desarrollar nuevas funcionalidades de la plataforma Kolecta.
+3. Desarrollar una API.
+4. Ayudar a la integración de la API creada.
+
+¿Qué ofrecemos?
+1. Incorporarse a una Start-up líder en su sector, con oportunidad de crecimiento profesional para liderar nuevas iniciativas y equipos.
+2. Contrato laboral indefinido.
+3. Salario bruto 24.000 - 30.000€  bruto / año + posibilidad de conseguir Stock Options  “phantom shares”.
+4. Participar activamente en el proyecto aportando nuevas ideas.
+5. Entorno laboral dinámico y agradable, con equipo en pleno crecimiento.
+6. Jornada laboral completa.
+7. Estamos situados en pleno centro de Madrid.
+8. Posibilidad de trabajar en remoto unos días a la semana.
+9. Incorporación inmediata.

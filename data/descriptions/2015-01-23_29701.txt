@@ -1,0 +1,38 @@
+
+¿Qué buscamos? 
+Buscamos un DESARROLLADOR/A SENIOR EN PHP que sea una persona proactiva y dinámica, con autonomía pero también capaz de trabajar en equipo para unirse a nosotros. Inicialmente tu trabajo estará centrado centrado en el desarrollo de un proyecto estratégico de backoffice.
+¿Qué requisitos debes cumplir? 
+- Estudios mínimos:
+        Ingeniero Técnico en Informática o similar
+- Experiencia mínima
+        2 años demostrables en desarrollo con PHP (te pediremos que nos enseñes proyectos concretos)
+Funciones y responsabilidades:
+- Toma de requisitos
+- Análisis y diseño de soluciones
+- Programación en PHP
+- Realización de pruebas / modelización
+Competencias básicas imprescindibles:
+- PHP
+- Symfony2 (o alternativamente Laravel, Yii, etc.)
+- MS SQL
+Competencias básicas deseable:
+- HTML5/CSS
+- Javascript (a nivel de UI, jQuery y Ajax)
+- Sistema de control de versiones (GIT)
+Competencias complementarias:
+- Administración de Unix/Linux
+- Integraciones con APIs de terceros
+- Unit Testing
+- Framework de Ajax (AngularJS, Backbone, etc.)
+- Frameworks UI (Bootstrap, LESS)
+Competencias personales:
+- Metódico y perfeccionista
+- Actitud proactiva y dinámica
+- Habilidades de comunicación
+- Iniciativa y autonomía
+- Trabajo en equipo
+¿Qué ofrecemos? 
+Si te vemos dentro del equipo, recibirás una oferta con un contrato indefinido  con un periodo de prueba, y un sueldo a convenir. Trabajarás en nuestras oficinas de Salamanca de Lunes a Jueves de 9 a 14 y de 15 a 18:30 y los Viernes y en verano de 8 a 15.
+¿Qué es Undanet?
+Undanet es una empresa de desarrollo de software y productora de contenidos digitales con más de una década de trayectoria.  Proveemos a nuestros clientes de estrategias web, diseño y soluciones digitales. 
+En 2015 vamos a seguir creciendo, en especial el departamento de desarrollo de soluciones de negocio para grandes empresas. 

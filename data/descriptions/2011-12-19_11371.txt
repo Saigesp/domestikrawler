@@ -1,0 +1,26 @@
+
+Analista-Programador Senior – Web
+Incorporándose en la Dirección de Innovación y Tecnología realizará funciones de Analista y Jefe de Proyectos, con responsabilidad directa sobre el equipo de desarrollo, para el diseño y ejecución de proyectos de eBusiness y Comunicación en Nuevos Medios.
+Funciones:
+Toma de requerimientos, recopilación de información y análisis y definición de los proyectos a desarrollar.
+Documentación técnica, seguimiento y presentación de soluciones a las necesidades del proyecto y cliente.
+Documentación del diseño de Software.
+Análisis de soluciones complejas, diseño de estructuras de datos y algoritmos necesarios para la resolución óptima de proyectos de eBusiness y Comunicación.
+Gestión del equipo de desarrollo, seguimiento y revisión diaria de las tareas asignadas, control requerimientos, etc. 
+Elaboración de planes de pruebas y test de calidad para los proyectos desarrollados.
+Requisitos:
+Ingeniero Técnico - Técnico en Informática de Gestión
+Experiencia mínima de 2 años en maquetación HTML + XHTML + CSS, XML y estándares w3c
+Familiarizado con desarrollos web complejos
+Sólida experiencia en análisis y programación
+Alta capacidad analítica, metódico y perfeccionista
+Proactividad y trabajo en equipo
+Habilidades para supervisar y trato con clientes.
+Conocimientos y experiencia en diseños UML, modelos Entidad-Relación y normalización de bbdd 
+Experiencia previa en la utilización de frameworks de desarrollo como Cake, CodeIgnitier, Symfony, Prototype, Scriptaculous, Mootols
+Experiencia previa en la utilización de herramientas de control de versiones tipo subversion, CSV
+Conocimientos de Linux
+Conocimientos básicos de JAVA, ASP, .NET
+Experiencia trabajando con webservices
+Conocimientos básicos en configuración de servidores web
+

@@ -1,0 +1,24 @@
+
+En Consumer Lab estamos buscando un front-end developer para un proyecto con largo recorrido.
+REQUISITOS Y CONOCIMIENTOS
+Formación de Ingeniería en multimedia o Ciclo formativo de grado superior.
+Experiencia desarrollando en los lenguajes: 
+•	Java (frameworks Spring/Google Guice) 
+Idealmente también en:
+•	javascript (frameworks jQuery, Bootstrap) 
+•	Html 4/5
+Imprescindible:
+Conocimientos y experiencia en gestores de contenidos, especialmente en OpenCMS. 
+Experiencia en maquetación responsive 
+Experiencia en maquetación de e-mailings
+Deseable:
+Experiencia en desarrollo de web services 
+Conocimientos y experiencia en Maven/Grade 
+Conocimientos y experiencia en el servidor de aplicaciones Tomcat. 
+Conocimientos en SQL 
+FUNCIONES Y ENTORNO
+La persona que buscamos se incorporará a un equipo humano que gestiona el digital de una gran compañía internacional de gran prestigio.
+Se responsabilizará de la maquetación web así como otros proyectos de maquetación y desarrollo, dando soporte a un jefe de proyecto.
+Es imprescindible aportar experiencia en las tecnologías requeridas. 
+El puesto de trabajo es en Barcelona, en unas oficinas muy céntricas y con muy buen ambiente de trabajo. Se requiere incorporación a la empresa, por favor abstenerse freelances.
+

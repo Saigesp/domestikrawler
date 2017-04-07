@@ -1,0 +1,11 @@
+
+Buscamos un diseñador / maquetador con experiencia en creación de interfaces mobile para un proyecto basado en PhoneGap. 
+Necesitamos a una persona que domine html5, con experiencia en interfaces mobile multiplataforma (ios, android...), experiencia con jquery mobile, modificar los estilos de jquery mobile, etc.
+En definitiva un auténtico crack en lo que se refiere a creación de interfaces mobile.
+Skills: html5, css3, jquery, jquery mobile.
+La oferta inicialmente es para 3 meses con la posibilidad de ser extendida. 
+Notorious es una prometedora startup fundada en Nueva York, cuyo objetivo es dar un servicio online de personal shopper através del móvil y para todos los bolsillos. Podéis ver nuestro vídeo presentación aquí: http://www.youtube.com/watch?v=jwNLZ9XL7As
+Podéis también ver algunos diseños aquí: 
+ http://cl.ly/image/1S2x0z0k0o40
+ http://cl.ly/image/2r0S3Y0x0D20
+ http://cl.ly/image/150H1u1y2l3j

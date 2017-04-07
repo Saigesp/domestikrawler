@@ -1,0 +1,26 @@
+
+Buscamos un perfil con experiencia en diseño gráfico además de interfaz y experiencia de usuario para entornos web.
+Requisitos mínimos:
+- Experto en Photoshop, Illustrator, etc
+- Capacidad para prototipar diseños y mockups a partir de conceptos
+- Diseñar iconos, banners e imágenes para nuestro producto
+- Experiencia en usabilidad de web apps y cross-browser
+- Diseño y maquetación de interfaces de usuario
+- Conocimientos básicos de programación web frontend
+Se valorará muy positivamente:
+- Experiencia en puestos similares
+- Control de versiones git
+- Diseño de templates como twig o similar
+- Conocimiento de librerías JS como jQuery
+Responsabilidades:
+- Mejora constante de la usabilidad del software
+- Asegurar la calidad de los diseños
+- Proveer de recursos gráficos las diferentes áreas del departamento
+- Trabajar junto al equipo de desarrollo.
+Lo que te ofrecemos:
+- Contrato fijo
+- El material informático que necesites
+- Remuneración según valía
+- Horario flexible
+- Incorporación inmediata
+- Equipo joven y muy buen ambiente

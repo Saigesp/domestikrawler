@@ -1,0 +1,12 @@
+
+Busquem un profesional junior i apassionat per la seva feina per integrar a l'equip de treball i fer-lo crèixer professionalment en un projecte a llarg plaç.
+Experiència demostrable mínim d'un any. 
+Imprescindible coneixements en:
+• CSS3, HTML5, JavaScript, jQuery.
+• Frameworks CSS: Bootstrap, Ink...
+• Frameworks JS:  Angular/React. 
+• PHP i MySQL.
+• Desenvolupament i integració sobre CMS com Wordpress i/o Drupal. 
+• SEO On-Page.
+Valorarem molt positivament coneixements de PhoneGap i/o Xcode.
+La seva feina consistirà en ajudar a maquetar i programar els projectes web (no ha de dissenyar) i evolucionar el CMS que l'empresa te desenvolupat.

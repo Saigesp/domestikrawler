@@ -1,0 +1,33 @@
+
+Empresa Softime Desarrollos Tecnologicos, S.L
+Localidad Madrid
+Softime es una empresa pequeña, joven. Nos dedicamos a cocinar soluciones en Internet para nuestros clientes. Tenemos amplia experiencia en comercio online e integración con sistemas de gestión comercial y financiera. Formamos parte de Startic Innovación, S.A, un grupo empresarial con empresas líderes en sus respectivos sectores, con presencia en Europa, Asia y Latinoamérica. Estamos en Madrid, cerca de Cuatro Caminos, en oficina soleada y con buenas condiciones de trabajo
+Buscamos:
+Buscamos incorporar un programador Web PHP Junior a nuestro equipo de desarrollo. Trabajamos con importantes empresas online, con metodología MVC y pases diarios a producción. Actualmente trabajamos con Zend Framework, aunque tenemos proyectos abiertos también en Java o versiones anteriores de PHP (5.2.6 principalmente).
+ Ofrecemos:
+Contrato temporal 1 año
+Jornada laboral compatible con la vida personal
+Ambiente relajado
+Capacidad de desarrollo profesional
+Oficina soleada
+Requerimos:
+Conocimientos demostrables en:
+PHP5
+OOP
+Creatividad y participación en la resolución de problemas.
+Sentido del humor, capacidad de trabajo en equipo.
+Deseamos:
+Conocimientos en Bases de Datos, manejo a nivel usuario de MySQL o PostgreSQL
+Conocimientos en Linux (manejo nivel usuario)
+Conocimientos en PHPUnit
+Algún Framework (Zend, Symfony)
+Test funcionales con Selenium, Cucumber, etc
+Cualquier otra tecnología web es bienvenida
+Experiencia:
+0 a 1 año
+Idiomas:
+Se valora conocimiento de inglés
+Condiciones:
+Tipo de contrato: De duración determinada
+Jornada: Completa
+Si estás interesado, inscríbete a la oferta en http://bit.ly/yFUK9X te llevará menos de un minuto. 

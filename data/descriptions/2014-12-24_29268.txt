@@ -1,0 +1,26 @@
+
+Conocimientos necesarios en:
+- PHP
+- JavaScript
+- MySQL
+- HTML5
+- Joomla
+- Prestashop
+- WordPress
+- CSS3
+- jQuery
+Requisitos mínimos:
+- Experiencia en desarrollos LAMP
+- Experiencia programación PHP
+- Optimización de BBDD (MySQL)
+- Conocimientos de maquetación HTML, CSS (valoramos conocimientos estándares, html5, accesibilidad, seo)
+- Desarrollo con javascript y jQuery
+- Desarrollo con Joomla, Wordpress y Prestashop
+Se valorará:
+- Administración/configuración servidores LAMP
+- Bootstrap
+- Manejo de Photoshop, Dreamweaver
+- Estudios Ingeniería Técnica o experiencia demostrable.
+- Capacidad de trabajo en equipo.
+· Preferible residencia en Elche,  VegaBaja (Alicante) o alrededores.
+· Incorporación inmediata. Jornada Completa. Horario 08:30h-17:30h (L-J) / 08:00h-15:00h (V)

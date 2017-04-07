@@ -1,0 +1,36 @@
+
+who we are 
+We help our clients to stay ahead of their competition by blending unique cross-platform experience design with well-versed engineering expertise, across touchpoint like web, mobile, car, watch or TV.
+At blended.io we believe that top notch digital services and physical products can only be achieved with a deep understanding in Engineering coupled with a holistic take on User Experience. Become a part of our growing team and work together with senior engineers and senior designers to craft products and services across soft- and hardware platforms for startups and corporate clients.
+ www.blended.io
+# who you are 
+- You have a user-centered mindset 
+- You have the necessary curiosity for people, digital products and design 
+- You are engaged at all times and willing to learn and improve
+# what you have accomplished 
+- BSc or MSc in Computer Science or relevant work experience 
+- You have 4+ years in iOS development 
+- You have published one or more iOS apps in the app store 
+- You have a deep knowledge in both Objective-C and Swift 3.0 
+- Experience with third-party libraries and REST APIs 
+- You have an understanding of basic Security and Encryption principles 
+- Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies 
+- Solid understanding of the full mobile development life cycle
+# what you will be in charge of 
+- Work in a cross-functional team 
+- Deliver high-quality work from design to production 
+- Implement great well developed functionality and a stunning experience 
+- Create unit-test codes for robustness, including edge cases, usability and general reliability 
+- Continuously discover, evaluate and implement new technologies to maximize development efficiency 
+- Take ownership of features, working with the team and stakeholders 
+- Work closely with engineers and designers 
+- Focus on long-term stability and maintainability
+# what we offer 
+- Full-time freelance position 
+- Work in teams with designers that know how to $ git commit 
+- Intriguing digital projects across platforms with international clients 
+- Remote or based in our office in the heart of Barcelona 
+- A chance to work with senior architects, engineers and designers, excellent growth potential 
+- Start: as soon as possible
+# why we do, what we do 
+@blended.io we believe that top notch digital services and physical products can only be achieved with a deep understanding in engineering coupled with a holistic take on User Experience. Neither engineering expertise alone will make products and services successful, one needs the deep understanding of people and their behaviour as well as the curiosity for why people behave as they do. On the flip side, neither experience design alone will be able to achieve that. It needs the blended of Experience & Engineering

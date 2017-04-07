@@ -1,0 +1,16 @@
+
+En Iwantic estamos buscando varios C++ Developer para una gran multinacional del sector ingeniería en Málaga.
+Queremos a alguien con iniciativa a quien le interese unirse a una compañía en crecimiento y con un equipo internacional, dinámico y con talento. 
+Funciones/Responsabilidades:
+-Ejecución y desarrollo de tests scripts, test conditions e input test data para Component Test, Integration Product Test y Regression Test así como dar soporte al cliente en la ejecución del User Acceptance Test.
+-Informar al Product Owner de cualquier incidente que pueda afectar a presupuesto, calidad del producto o al proceso de prueba.
+Requisitos mínimos: 
+-Licenciado en Ingeniería Informática o similar.
+-Nivel C1/C2 inglés. 
+-4/5 años de experiencia en puesto similar.
+-Flexibilidad. Disponibilidad para viajar.
+-Orientado a cliente y con dotes comunicativas.
+Se valorará:
+-Habilidades en C++,Unix/shellscript.
+-Certificado SCRUM developer.
+La persona seleccionada gozará de grandes beneficios sociales( tickets restaurante, seguros...), contrato indefinido y plan de carrera y formación desde un primer momento. Además hará uso de las últimas tecnologías del mercado y trabajará en un ambiente de gran visibilidad internacional.

@@ -1,0 +1,13 @@
+
+Deseamos incorporar un equipo de recién licenciados para colaborar en la realización de los productos digitales de nuestra Compañía dando apoyo en las siguientes funciones:
+    Realización de componentes de proyectos con tecnología web (actividades interactivas / flipbooks / slidebooks) utilizando herramientas específicas.
+    Montaje, carga de contenidos y pruebas de los componentes en entorno de desarrollo
+    Mantenimiento de productos (correcciones / actualizaciones)
+    Edición y tratamiento de audio, vídeo, imágenes
+    Conversiones de formato de archivos
+Formalizaremos un contrato en prácticas de 6 meses por lo que es necesario ser recién licenciado o estar en disposición de finalizar la titulación académica en 2015.
+Se valorará:
+    Conocimiento de tecnologías web (HTML, CSS, JS) y del estandar de empaquetado IMS SCORM.
+    Explotación de herramientas de producción digital (editores HTML, XML, gestores de contenidos, Adobe Creative Suite, etc.)
+    Manejo del software de edición y tratamiento de imágenes, audio, vídeo y animación (Adobe Creative Suite). Automatización de usos.
+    Atención al detalle. Precisión. Orden. Fiabilidad.

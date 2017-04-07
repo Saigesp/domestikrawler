@@ -1,0 +1,45 @@
+
+En MOTOBUYKERS estamos reclutando a un Project Manager con aspiración a CTO para posición estable.
+Datos/información de la compañía: 
+-	E-commerce + drop shipping 
+-	Alto tráfico -> 1,5M visitas unicas al mes 
+-	Gran volumen de datos (big data) 
+-	Metodologías ágiles - Scrum
+•	Somos E-commerce con modelo de negocio drop shipping. Cuanto más compleja sea la integración y la casuística, más retos se nos presentan, esto nos mola, nos va la marcha.
+•	Somos un sitio de Alto tráfico, tenemos mucha concurrencia. Por ello hemos de balancear las visitas entre distintos frontales y asegurarnos que no se producen caídas.
+•	Generamos un montón registros en la BBDD. Tenemos réplicas, balanceo de las BBDD y distribuimos las lecturas/escrituras. 
+•	Programamos en PHP, fácil, ágil y súper escalable. Eso si… lo hacemos con Objectos (POO) y MVC… Las cosas claras y ordenadas. Además algo de Ruby para hacer deploys con capistrano.
+•	Somos multidevice, por lo que estamos a la última en temas forntend (HTML5, responsive, less).
+•	Queremos ser los primeros en Google, por lo que el SEO es pan nuestro de cada día.
+•	Tenemos una app nativa, por lo que tocamos lenguajes iOS y Android, además de una API super molona.
+•	Trabajamos con SCRUM, todos sabemos lo que hay que hacer y sabemos lo que hacen los demás 
+ 
+Descripción de la posición 
+El Project Manager debe aportar una experiencia de 4-5 años en la definición y desarrollo de proyectos IT en entornos multidisciplinares.
+Deberá coordinar un equipo de 4-8 personas, con énfasis en las tareas de definición, planificación y seguimiento de los proyectos.
+Funciones: 
+-	Gestión del equipo. 
+-	Conceptualización y concreción de la solución funcional y desarrollo de la documentación correspondiente. 
+-	Garantizar cumplimiento de objetivos en calidad, tiempo y coste. Relación con los clientes, centrado en el seguimiento de los proyectos.
+Requisitos: 
+-	Ingeniería Técnica o superior en Informática. 
+-	Más de 2 años como responsable de proyectos en entornos de altor tráfico 
+-	Competencias requeridas 
+-	Liderazgo y capacidad de trabajo en equipo Orientado a objetivos 
+-	Capacidad de análisis 
+-	Capacidad de toma de decisiones 
+-	Gestión del estrés 
+-	Comunicación y capacidad de relación interpersonal Proactividad
+Requitistos técnicos: 
+-	Desarrollo en PHP (POO) en MVC + MySQL 
+-	Sistemas distribuidos entorno Linux (haproxy, master slave, lectura escritura) 
+-	HTML5 + CSS3 + less + Bootstrap + CDN 
+-	API REST + SOAP 
+-	Deploy + capistrano 
+-	iOS + Android 
+-	SEO + SEM
+Ofrecemos: 
+- Contrato indefinido. 
+- Incorporación inmediata a compañía con importantes oportunidades de crecimiento y desarrollo profesional. 
+- Formación especializada. 
+- Retribuciones competitivas

@@ -1,0 +1,25 @@
+
+Buscamos especialista en desarrollo Backend para INCORPORACIÓN INMEDIATA en Madrid.
+Nos ayudarás fundamentalmente en el área de desarrollo de Backend. Te incorporarás a un equipo de desarrollo que actualmente cuenta con tres desarrolladores back y uno front.
+QUÉ SOMOS
+Somos un pequeño estudio de desarrollo, trabajamos en el centro centro de Madrid y estamos especializados en el desarrollo de productos y servicios digitales a medida para empresas.
+Tenemos una clara orientación al cliente, buscamos su éxito y cumplir plenamente con las necesidades de los usuarios finales.
+Nos encanta la mejora continua, nos gustan los retos, las cosas sencillas y molonas, la comida, el lado friki de la vida, la buena cerveza, la tecnología y Batman.
+Aunque defendemos el trabajo en equipo coubicado, podrás trabajar en remoto puntualmente si lo necesitas, y organizar tu horario de forma bastante flexible, aunque solemos manejar como rangos de horario de entrada 8:00 - 8:30, y de salida 17:00 - 17:30, salvo los viernes que salimos a las 15:00, así como los meses de Julio y Agosto. Por cierto, tenemos libertad para decidir cuándo coger vacaciones y cuántos días disfrutar por año.
+Además nos gusta estar cómodos y así, para empezar, en nuestra oficina siempre hay fruta fresca, frutos secos y pan a tu disposición.
+Puedes contar con tiempo para asistir a charlas, cursos y talleres en horario laboral (estamos haciendo cuentas para ver si los pagamos también) y puedes pedir que compremos los libros que necesites.
+QUÉ HARÁS
+Trabajarás en el equipo de desarrollo a cargo fundamentalmente de tareas de desarrollo de Backend, ante todo eres una persona especialista en Backend PHP.
+REQUISITOS BÁSICOS PARA OPTAR AL PUESTO
+Persona con sentido común y sentido del humor.
+Especialista en PHP/MySQL (mínimo 1-2 años de experiencia demostrable)
+Conocimientos y experiencia en desarrollo con frameworks PHP (Symfony...)
+FACTORES QUE MEJORARÍAN EL SUELDO
+Experiencia en proyectos en los que el QA en general y el TDD en particular hayan sido relevantes.
+Experiencia en el uso de API RESTful, json
+Experiencia en el uso de herramientas de automatización tipo Bower, Composer, Gulp, Grunt...
+Buen nivel de Inglés y/o Francés.
+PROCESO DE SELECCIÓN
+Revisaremos tu candidatura, y nos pondremos en contacto por email o por teléfono si pensamos que puedes encajar, para que nos aclares dudas o para ampliar información sobre algún aspecto.
+Si sigue adelante la cosa, lo siguiente que haremos será avisarte para vernos en persona.
+Si eres la persona elegida, te propondremos un contrato indefinido con un periodo de prueba, y un sueldo a convenir según valía, experiencia y aspiraciones. El rango salarial que estamos barajando está entre 18.000 € y 21.000 € brutos anuales.

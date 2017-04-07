@@ -1,0 +1,5 @@
+
+Se precisa experto en programación orientada a objetos, especialmente en entorno PHP5 o superior. Amplios conocimientos de MySQL para entornos de alto volumen, con conocimientos de maquetación html y javascipt (jQuery).
+Su cometido será mantener y modernizar la aplicación online teenvio.com y la creación y mantenimiento de servicios programados en PHP, Perl y Python, aportando nuevas ideas para que nuestro servicio siga en constante evolución, es un trabajo con mucho I+D, hay que estar continuamente enfrentándose a retos.
+El entorno de trabajo, entorno de pruebas y entorno en producción es Debian GNU/Linux.
+

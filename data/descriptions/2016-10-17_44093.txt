@@ -1,0 +1,12 @@
+
+Buenos días,
+Para una página web (tipo social con miembros) ya construida, se requiere un/a profesional con buenos conocimientos de los siguientes programaciones: 
+- Lavarel
+- Node.Js
+- Angular
+- CSS
+Se trata de añadir funcionalidades a la página web existente. El trabajo será dividido en partes. Cada parte lleva su remuneración. 
+Por favor, abstenerse programadores que buscan un mayor número de clientes que luego no pueden cumplir con sus deadlines, gracias. 
+Interesad@s pueden mandar un email mencionando sus cv, experiencias previas y enlaces de trabajos ya realizados.
+Un saludo,
+Pieter.

@@ -1,0 +1,68 @@
+
+Estamos buscando un desarrollador de aplicaciones móviles senior con experiencia tanto en Android como iOS. El conocimiento de aplicaciones híbridas en PhoneGap será muy valorado también.
+El candidato informará directamente al CTO y trabajará estrechamente con los otros equipos tecnológicos para la creación de grandes proyectos.
+Responsabilidades:
+
+Desarrollo y mantenimiento de aplicaciones móviles para Android/iOS/PhoneGap.
+
+Mantenimiento y ampliación de una SDK de programación para integración con plataformas web.
+
+Generación rápida de aplicaciones de prueba de concepto.
+
+Conocimientos de UX para aplicaciones móviles.
+
+
+Requisitos:
+
+Ingeniero Técnico en Informática o Grado en Informática.
+
+Al menos 3 años de experiencia en puesto similar.
+
+Capacidades:
+
+
+Conocimiento de las últimas novedades de las plataformas de desarrollo Android/iOS.
+
+Documentación a alto nivel de la solución.
+
+Facilidad para tener una visión general en conjunto de la solución e interacciones con otros componentes.
+
+Mente técnica, abierta y despierta para las nuevas tecnologías.
+
+Aprecio de metodología TDD, CI y automatización de pruebas.
+
+
+Conocimientos mínimos:
+
+
+iOS.  Xcode y herramientas.
+
+Android. Programación con ADT o Android Studio.
+
+Notificaciones locales, Push (APNS y GCM) y geolocalizadas.
+Monitorización de regiones (GPS/WiFi/Cell/Beacons)
+Comunicaciones con servidores web: WS, RESTful, JSON, XML
+
+GIT
+
+Pruebas unitarias (JUnit, Instruments)
+
+Conocimientos deseables:
+
+
+PhoneGap / Codova
+
+Seguridad en las comunicaciones y pasarelas.
+
+Mockups y prototipos de aplicaciones móviles.
+
+Experiencia en alguna otras plataformas móvil: Windows Phone / Firefox OS / BlackBerry, etc.
+
+Aplicación de metodologías ágiles: SCRUM
+
+UX / Usabilidad / Accesibilidad.
+
+Integración Continua (CI) y pruebas funcionales automáticas.
+
+
+

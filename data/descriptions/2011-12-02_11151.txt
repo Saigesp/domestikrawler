@@ -1,0 +1,4 @@
+
+Buscamos un programador front-end freelance en entorno ExtJS / Sencha con buena base en PHP, especialmente en frameworks tipo CodeIgniter, Cake, etc.
+El proyecto consiste en una aplicación de gestion editorial en entorno web. Si estás habituado a este tipo de desarrollos, tienes experiencia demostrable (se valorarán mucho referencias) y valoras trabajar organizandote tu propio espacio y tiempo, ponte en contacto con nosotros. 
+Si la experiencia es satisfactoria por ambas partes, grandes posibilidades de continuar las colaboraciones en el futuro

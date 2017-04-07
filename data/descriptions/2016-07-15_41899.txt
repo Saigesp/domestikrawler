@@ -1,0 +1,28 @@
+
+¿Quiénes somos? 
+Aluxion Labs es una empresa de apps móviles joven y dinámica, definida dentro del área de la tecnología. El objetivo es ofrecer a nuestros clientes las soluciones creativas que buscan, posicionándoles entre sus competidores y diferenciándoles de ellos. Así, la parte de desarrollo está muy ligada al diseño, y cada app está ajustada al cliente. 
+La mezcla un uso sencillo, un diseño cuidado y un exclusivo desarrollo compone la esencia de lo que somos, atrayendo a grandes clientes y asumiendo algunos de los proyectos más ambiciosos a nivel nacional e internacional. 
+Nos avala, además, una dilatada experiencia en el medio, la percepción del modelo de negocio a estudiar, el trato con el usuario y el conocimiento de las últimas tecnologías. Por eso buscamos el mejor talento: todas aquellas personas involucradas en grandes proyectos e interesadas en crear productos muy cuidados.
+¿Qué buscamos? 
+Diseñador UI Senior que aporte calidad a nuestro equipo de diseño.
+¿Qué cualidades debes tener? 
+-Experiencia demostrable en diseño conceptual, definición de arquitecturas de información, diseño de interacción, elaboración de wireframes y prototipos. 
+-Manejo de herramientas de prototipado (Axure, Balsamiq Mockups...). 
+-Dominio de Sketch. 
+-Conocimientos de diseño multiplataforma. 
+-Persona muy proactiva, con iniciativa, analítica, creativa y con una especial atención por los detalles. 
+-Capacidad para trabajar en equipos multidisciplinares. 
+-Capacidad de gestión interna de proyectos, creación de tareas e informes. 
+-Imprescindible portfolio con trabajos realizados. 
+-Experiencia en la realización de test de usuarios, card sorting, focus groups, definición de personas y escenarios, etc. 
+-Haber trabajado en entornos de desarrollo con metodologías ágiles como SCRUM. 
+-Estar familiarizado con el uso de sistemas de control de versiones (Git/SVN) y de herramientas de gestión de proyectos. 
+-Buen nivel de inglés.
+¿Cuáles serán tus funciones? 
+-Te centrarás en conceptualizar y analizar proyectos de aplicaciones iOS/Android centrados en cada plataforma, definiendo la usabilidad y la arquitectura de información, diagramas de flujo y mapas de navegación. 
+-Elaborarás wireframes de baja y alta fidelidad y prototipos navegables. 
+-Determinarás la documentación de cada proyecto y participarás en las pruebas necesarias para verificar la mejor experiencia de usuario.
+¿Qué ofrecemos? 
+-Pack de retribución competitivo en función de la experiencia (incentivos por objetivos), contrato indefinido y posibilidad de participación en el capital social de la empresa a través de stock options. 
+-Colaboración en un proyecto dinámico, en continuo crecimiento e innovación. 
+-Ambiente startup: ambicioso, flexible, creativo y con grandes oportunidades de desarrollo profesional.

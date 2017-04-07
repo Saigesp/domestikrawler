@@ -1,0 +1,40 @@
+
+We are looking for a passionate and talented Frontend Developer to join our development team.
+We have more than one million collaborators (known as panelists) who give us their opinions in exchange for points which can be redeemed for any of the thousands of gifts we currently offer. We are now expanding into a worldwide scale and we want to make their experience more engaging and social by improving the panelist experience to a whole new level and, at the same time, providing the proper tools to make our own operations much more efficient.
+To do so we want to rebuild our panelist management platform from scratch, in a Service Oriented Architecture approach, adapting it to our current and future needs, and the volume of data we're currently dealing with, and also prepare it to handle the business growth we're experiencing.
+Main responsibilities:
+Participate in the definition and development of the presentation layer of our current and new applications
+Choose the more suitable technologies for each application, focusing on a mobile-first approach 
+Create a great user experience for each application
+
+What we offer 
+We offer a place in one of our development teams. In the IT team we are about 20 mates, among developers, systems/dev­ops & QA.
+We develop based on Agile methodologies: XP + Scrum, always adapted to our needs. We have two week sprints with demo and retrospective after each sprint. On the XP side we encourage to use TDD as well as code reviews and code conventions meetings.
+We are open-­minded about choosing the technology that suits better in each project and we love learning new technologies (languages, frameworks, tools, …) so we can widen our options. 
+Requisitos
+What we ask for
+As a team member, we expect you to contribute to different tasks and adapt to different situations. We are looking for a senior engineer but we will consider your application if your motivation or talent can compensate for your juniority.  We want you to enjoy software development and look for new challenges, willing to add your bit to our team.
+Mandatory skills:
+Software development patterns knowledge.
+Excellent English and good Spanish level
+UX expertise
+Responsive Web design
+Deep knowledge of HTML5 & CSS3
+Deep knowledge of Javascript internals
+Experience in usage of RESTful Http APIs
+Front­end development in modern frameworks such as ReactJS 
+Templating frameworks such as Handlebars, Bootstrap, ...
+Javascript build tools such as Grunt or Bower
+Personal Skills:
+Commitment with development and quality
+Willing to work in a dynamic, fast­-change, start­-up-­ish environment.
+Perfection­-driven attitude.
+Proactivity about development method or development techniques.
+Valuable skills:
+Unix power user
+Git
+CSS pre­processors such as Less or Saas
+Asynchronous paradigms such as Promises
+Testing frameworks
+Knowledge of NodeJS, Coffescript, ...
+ 

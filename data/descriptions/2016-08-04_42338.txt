@@ -1,0 +1,49 @@
+
+La empresa
+Somos una agencia de viajes online (OTA) y de promoción de actividades que nacimos en Internet hace más de 15 años. Actualmente con presencia en 9 países y referentes en el sector, siendo de las empresas más maduras de nuestro mercado.
+En Atrápalo nos esforzamos para que nuestros usuarios tengan la mejor experiencia. La clave de nuestro éxito es trabajar con las últimas tecnologías y tener el mejor talento técnico en nuestro equipo. Un equipo motivado por aprender, resolutivo, autónomo y con muchas ganas de hacer las cosas bien hechas y con rigor.
+ 
+El trabajo
+Como Full Stack Developer en el equipo técnico de Atrápalo, contribuirás al éxito de los proyectos en nuestras diferentes áreas de negocio aportando el conocimiento, experiencia y criterios necesarios para ayudarnos a seguir escalando niveles. Creemos que una gran empresa empieza por tener grandes profesionales construyendo los mejores productos. Y aquí es donde entras tú. Conceptos como SCRUM, SOLID, Clean Code, Continuous Refactoring, entre otras, te deberían de ser muy familiares. En Atrápalo consideramos que las tecnologías (especialmente las relacionadas con la Web) son un blanco en movimiento. Es por ello que para nosotros la formación continua y el estar siempre alerta son parte fundamental de nuestra cultura.
+Tu día a día:
+Desarrollar y mantener las nuevas y existentes aplicaciones, dando soporte al negocio. Con especial atención a la mantenibilidad, escalabilidad y rendimiento de las soluciones aportadas.
+Entregar código con Unit Tests
+Comunicar de modo efectivo y cordial con el resto de participantes del proyecto.
+Aplicar las tecnologías y soluciones que más se adecuen a los diferentes escenarios.
+Analizar y optimizar el uso de Bases de Datos a nivel de consultas. Mayormente MSQL.
+Refactorizar de modo efectivo código “legacy” usando las técnicas más apropiadas.
+Ayudar en la optimización y uso de herramientas que faciliten y mejoren la calidad del desarrollo.
+¿Qué ofrecemos? 
+- Contratación indefinida
+- Flexibilidad horaria en hora de entrada y hora de salida, y viernes tarde libre 
+- Formaciones técnicas semanales
+- Paquete de Retribución Flexible (Dietas, Transporte, Formación, Guardería, Salud)
+- Beneficios sociales,  y beneficios "Atrápalo"
+- Ubicación céntrica
+- Ambiente joven, dinámico y multidisciplinar
+- Nuevos retos tecnológicos
+¿Aceptas el reto? 
+Requisitos:
+CFGS Informática/Desarrollo de aplicaciones, Grado en Informática
+Experiencia profesional de 3 años o más en PHP5 (POO)
+Experiencia profesional de un año o más en equipos de desarrollo fuertemente orientados a tests unitarios.
+Interés personal por la formación continua y el desarrollo personal.
+Tus palabras clave
+POO
+SOLID
+PHP5
+Javascript
+TDD
+Unit Test / Code Coverage
+MySQL
+Redis
+Elasticsearch/Solr
+AJAX
+REST
+NodeJS
+Angular, React
+Patrones de diseño
+Devops
+Git 
+Jenkins
+Vagrant

@@ -1,0 +1,13 @@
+
+Dentro de nuestro proyecto ecommerce, buscamos la incorporación de un Responsable de Arquitectura UX. 
+La persona que se incorpore, se encargará de la usabilidad y del diseño de interacción con los clientes en la plataforma de comercio electrónico, así como liderar proyectos de desarrollo de productos en la Web , asegurando la usabilidad, user-experience y diseño de interacción. 
+Realizara  la toma de requisitos de negocio y el análisis funcional, propondrá el diseño de la interacción con el usuario, supervisara los desarrollos del Front-end y definirá la Guía de Estilo. 
+Requisitos: 
+- Estudios Superiores
+- Nivel alto de PROTO.IO, AXURE e InVISION
+- Se valorará conocimietnos de CSS, Maquetación HTML, Responsive Design, Tendencias UX
+- Nivel alto de inglés
+Competencias:
+- Orientación al cliente
+- Trabajo en equipo
+- Resolución de problemas

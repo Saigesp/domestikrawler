@@ -1,0 +1,8 @@
+
+Quantion es la empresa especializada en estrategia y tecnología para las empresas del futuro. En plena Era Digital acompañamos a las empresas y organizaciones en la transformación digital de sus procesos de negocio.
+Nos caracterizamos por nuestro ADN digital, la ilusión por nuevos retos y porque todos nuestros proyectos consisten en aportar la innovación tecnológica que necesitan nuestros clientes. En Quantion te ofrecemos la posibilidad de desarrollarte tanto profesional como personalmente en un ambiente dinámico, creativo y tecnológico.
+Buscamos incorporar un perfil de programación con un mínimo de 3 años de experiencia en desarrollos sobre SharePoint 2010, 2013 con .NET C# 3.5 o superior. 
+Skills Técnicos:
+- Amplios conocimientos de ASP.NET, HTML, CSS, Javascript y XSLT
+- Se valorarán conocimientos sobre herramientas de calidad, test y deploy sobre plataforma SharePoint.
+Buscamos personas atrevidas, inquietas, abiertas a aprender nuevas tecnologías y a las que les guste trabajar en equipo. 

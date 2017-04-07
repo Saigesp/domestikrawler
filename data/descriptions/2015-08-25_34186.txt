@@ -1,0 +1,4 @@
+
+En interdigital.es estamos especializados en el Diseño web y el Marketing online desde 1997. Desarrollamos proyectos de presencia rentable en Internet para nuestros clientes, innovando, adaptando nuestro servicio a la tecnología y al canal de Internet.
+Descripción del empleo
+Buscamos profesionales que conozcan el lenguaje de programación PHP y les guste aprovechar las librerías y CMS existentes (como WordPress, Drupal, PrestaShop o Magento) para integrar primero los módulos existentes ya en el mercado y programar a medida después los aspectos que sean necesarios para el proyecto.

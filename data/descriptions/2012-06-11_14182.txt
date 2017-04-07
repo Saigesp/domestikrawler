@@ -1,0 +1,17 @@
+
+We're looking for a enthusiastic and motivated php developer to increase our effort in social sports.
+He/She must meet those requirements:
+
+ have at least 2yr of experience with PHP and MySQL. 
+
+ have a base knowledge of Linux and LAMP environment in general
+
+ have at least 1yr of experience with javascript, in particular with the Mootools framework.
+
+ have a deep knowledge of CSS and HTML
+
+ must be confident with OOP development and the MVC pattern
+
+ must be able to use and work with SVN and GIT
+
+

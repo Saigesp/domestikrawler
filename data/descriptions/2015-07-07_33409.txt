@@ -1,0 +1,29 @@
+
+Ofrecemos la posibilidad de trabajar como desarrollador web para uno de nuestros grandes clientes, el cual está creciendo rápidamente como proveedor de hosting global.
+Esta empresa tiene una estructura organizativa horizontal, impregnada de un espíritu emprendedor, por lo que si te gusta ser creativo, encontrar soluciones e implementarlas con las tecnologías más recientes, encajarás perfectamente en este trabajo.
+Descripción:
+Capacidad de diseñar, construir y dar soporte a sistemas escritos en PHP. Las responsabilidades pueden variar desde un sencillo mantenimiento hasta la realización de tareas muy complejas. El desarrollo de software juega un papel importante. También es necesaria la capacidad de dar asistencia a colegas con perfiles no técnicos y la colaboración con otros departamentos.
+Requisitos:
+Conocimiento de arquitecturas de programacióny patrones de diseño web comunes.
+Experiencia demostrable con diseño e implementación de base de datos MySQL.
+Conocimiento de ORM.
+Competente con sistemas de control de versiones.
+Capaz de diseñar e implementar aplicaciones cliente-servidor robustas.
+Buen sentido para producir plataformas web altamente eficientes en cuanto a su usabilidad y el diseño de bases de datos.
+Se valorará positivamente:
+Experiencia con frameworks PHP (preferiblementeSymfony2).
+Conocimiento de NoSQL.
+Conocimientos básicos de tecnologías ISP tales como hardware de servidores y tecnologías de nube.
+Conocimiento del sistema de control de versiones Git.
+Ganas de experimentar con nuevas tecnologías y tendencias, así como con sistemas distribuidos, mecanismos de almacenamiento en caché, balanceo de carga, teorema de CAP.
+3 años de experiencia en PHP5 y en programación orientada a objetos.
+Manejo de entornos GNU / Linux.
+Aptitudes:
+Ganas de entender cómo funcionan las cosas.
+Capacidades de resolución de problemas complejos.
+Mentalidad abierta y proactiva.
+Auto-motivado con capacidad de priorizar, organizarse y cumplir con plazos.
+Altamente responsable con la calidad del trabajo que se realice.
+Capaz de trabajar en equipo, así como de forma independiente.
+Buenas habilidades de comunicación.
+Inglés, hablado y escrito.

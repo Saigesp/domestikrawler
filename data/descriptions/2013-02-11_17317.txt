@@ -1,0 +1,25 @@
+
+¡Hola! El perfil que estamos buscando se define más o menos así:
+REQUISITOS INDISPENSABLES:
+- Experto PHP/MySQL
+- Experiencia en creación de themes propios para Wordpress.
+- Experiencia en instalación y customización de tiendas Magento.
+- De PSD a HTML (HTML5, CSS3, JQuery, Ajax)
+- Experto maquetador. ¡Somos responsive!
+- Capacidad de llevar un proyecto web desde el PSD hasta la entrega al cliente.
+COSAS QUE SE TIENEN MUY EN CUENTA:
+- Orden y pulcritud en tu código. ¿Lo podrás compartir con otros programadores?
+- Proactividad.
+- Conocimientos de LESS o SASS.
+- Conocimientos de SEO y formateado Google-friendly
+- Dominio de Wordpress/Magento
+- Que se apañe con Photoshop
+- Amor por las cosas bien hechas
+- Sensibilidad hacia el diseño
+COSAS QUE MOLARÍA:
+- Conocimiento de Symfony/Zend
+- Conocimiento de Twitter Bootstrap
+- Manejo de GIT
+- Conocimientos de seguridad en servidores
+[POR FAVOR, NO ENVÍES NADA SI NO ERES DE VALENCIA O VIVES EN VALENCIA. ¡GRACIAS!]
+¡Gracias a todos por vuestro interés!

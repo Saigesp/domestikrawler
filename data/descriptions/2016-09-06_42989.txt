@@ -1,0 +1,21 @@
+
+Nuclio, Venture Builder en Barcelona, necesita incorporar a su nuevo equipo técnico a un Senior Backend Developer para el desarrollo de una nueva startup. Nuclio es una company builder en continuo flujo de ideas y startups. Emprendemos durante todo el año, creando, impulsando y desarrollando múltiples proyectos a la vez.
+Skills:
+Mínimo +3 años de experiencia. 
+Experiencia en POO, Websevice / REST, mysql, JSON. 
+Experiencia con GIT (control de Versiones). 
+Experiencia en algún framework (imprescindible). 
+Conocimientos demostrables en HTML5, CSS3, jQuery. 
+Capacidad para la resolución de problemas. 
+Capacidad para trabajar en un entorno cambiante y dinámico.
+Se valorará:
+Experiencia en integración o creación de API’s, REST. 
+Experiencia en integraciones REST – Mobile. 
+Conocimiento de MongoDB o cualquier NoSQL. 
+Mentalidad abierta y proactiva.
+¿Qué ofrecemos?
+Formar parte de la toma de decisiones respecto al proyecto y del roadmap. 
+Ambiente Startup: flexible, ambicioso y con ganas de mejorar. 
+Trabajando codo con codo con compañeros con amplia experiencia en el sector. 
+Jornada completa con horario flexible. 
+Buen ambiente de trabajo, trabajando con proyectos interesantes e innovadores.

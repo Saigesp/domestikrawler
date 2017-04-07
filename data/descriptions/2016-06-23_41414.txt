@@ -1,0 +1,23 @@
+
+•	Gestión de proyectos (presupuesto, recepción de material, maquetación, entregas, etc).
+•	Desarrollo y mantenimiento de proyectos: maquetación de plantillas en HTML5, basadas en el diseño validado por el Cliente.
+•	Subidas al servidor.
+•	Soporte a proyectos desarrollados que necesitan ajustes de maquetación, cambios de estilos, actualizaciones a HTML5, adaptaciones a otras plataformas como el móvil, etc.
+•	Maquetación de proyectos
+EXPERIENCIA PROFESIONAL en: 
+•	Maquetación en HTML5, XHTML, CSS3
+•	Estándares W3C
+•	Accesibilidad Web (normas WAI)
+•	Marcado semántico
+•	Crossbrowsing
+•	RWD (Responsive Web Design)
+•	Conocimientos básicos de JavaScript
+•	Gestión de proyectos
+•	Sublime Text 2
+•	Photoshop
+•	Gestor documental (Documentum)
+•	Validadores de código
+•	Validadores de accesibilidad
+•	Sistema de control de versiones (PlasticSCM)
+•	Office.
+

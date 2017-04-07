@@ -1,0 +1,18 @@
+
+Our client is a important Company with Own ERP and to extend his team they are searching for a SENIOR JAVA DEVELOPER
+Under moderate supervision, performs professional software engineering functions outlined below. Moderately complex programming functions are performed independently. May mentor junior software engineers or assist PM with project planning, estimating, scheduling, etc. Prepares technical documentation, and performs unit and possibly integration testing
+- Responsibilities:
+Performs maintenance and enhancement of new and/or existing software systems or product modules, on QAD supported platforms, such as UNIX, Windows, and NT.
+Performs analysis to define requirements for modifications including affected programs, expected behavior, related document changes, and test scenarios.
+Prepares program documentation of product components.
+Establishes technical proficiency in design, implementation, and unit testing.
+Strives to increase application knowledge.
+Follows QAD development standards.
+Performs related duties as required.
+REQUIREMENTS:
+	- Bachelor's degree in software engineering or computer science or equivalent work experience.
+- Good technical knowledge in software development methodologies, design and implementation.
+- Experience: 3+ years of related experience
+- Good analytical and design skills.
+- Good English level
+- Microsoft .Net knowledge

@@ -1,0 +1,18 @@
+
+Estamos buscando un programador fullstack para trabajar en proyectos web para comunicación y publicidad.
+Requisitos ideales:
+- PHP, RAILS, JS, JQUERY
+- Estilo de programación pulcro y ordenado: respetando principios SOLID,  DRY, ...
+- Experiencia en uso de herramientas de trabajo en equipo.
+- Excelente motivación y capacidad de trabajo en un entorno dinámico y multidisciplinar.
+- Sensibilidad con el diseño gráfico para poder integrarte en proyectos de orientación creativa.
+Extra:
+- Conocimientos de técnicas de desarrollo Ágil.
+- Programación CSS, SASS.
+- Programación IOS, Android
+¿Quiénes somos?
+Espadaysantacruz es un estudio de creación híbrida, especializado en crear experiencias visuales e interactivas para comunicación y publicidad.
+Nuestros procesos creativos se basan en un continua exploración e investigación en la tecnología digital y en la narrativa audiovisual. El estudio está compuesto por profesionales de la imagen, la gestión cultural, el diseño industrial y la informática. 
+¿Qué ofrecemos?
+- Trabajo de media jornada, que puede incrementarse por proyectos concretos.
+- Participarás en desarrollos para grandes marcas así como en proyectos internos.

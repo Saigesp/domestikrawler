@@ -1,0 +1,35 @@
+
+¡Hola! 
+Somos 24studio, un estudio creativo multidisciplinar especializado en marketing audiovisual. Conceptualizamos, dirigimos y desarrollamos contenidos audiovisuales en diversas plataformas, apoyándonos en la última tecnología para hacer de nuestros proyectos algo único. 
+En estos momentos estamos buscando a un talentoso Senior Full-stack Developer que se una a nuestro equipo, desarrollando ambiciosos proyectos digitales para clientes nacionales e internacionales.
+No estamos buscando diseñadores; estamos buscando Desarrolladores Web Senior Full-Stack.
+No buscamos externalizar proyectos. (Abstenerse agencias)
+Se requiere: 
+- Experiencia en desarrollo de Back y Frontend. 
+- Experiencia en entornos LAMP. 
+- Sólidos conocimientos de HTML/HTML5, CSS/CSS3 y Javascript. 
+- Buen manejo de frameworks JS como (jQuery, Angular, React, Backbone…) 
+- Sistema de control de versiones. (git) 
+- Conocimientos de frontend. (HTML5, CSS3, Javascript, responsive, Bootstrap) 
+- Manejo de Wordpress.
+- Capacidad de trabajar en equipo y habilidades organizativas.
+- Profesionalidad, responsabilidad y seriedad. 
+- Pasión y dedicación al proyecto.
+Aptitudes: 
+- Metodología en la ejecución de proyectos de desarrollo. 
+- Dedicación e implicación en el proyecto. 
+- Capacidad de aprendizaje e innovación. 
+- Capacidad de resolución y priorización de problemas. 
+- Trabajo en un equipo multidisciplinar. 
+- Proactividad es un must.
+Ofrecemos:
+- Horario Flexible de 8 horas diarias de lunes a viernes. 
+- Integración en un equipo joven con profesionales de múltiples disciplinas. 
+- Posibilidad de desarrollar una carrera profesional dentro de una empresa en pleno crecimiento.
+- Remuneración competitiva, acorde con la exigencia del puesto ofertado. 
+- Trabajar en el centro de Madrid con unas comunicaciones inmejorables. 
+- Muy buen ambiente de trabajo.
+- Trabajar en proyectos con carácter internacional.
+- Incorporación inmediata.
+¡Mucha suerte!
+

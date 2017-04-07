@@ -1,0 +1,21 @@
+
+Importante empresa de dedicada al desarrollo de aplicaciones informáticas y diseño y fabricación de equipos y dispositivos de control, busca un Ingeniero I+D/Programador para el departamento de I+D para su sede en la región de Osona/Valles Oriental.
+• Experiencia demostrable con desarrollo de Firmwares y software, con lenguajes C y C ++
+• Conocimiento exhaustivo de comunicaciones entre dispositivos, especialidad en desarrollo de protocolos de comunicación.
+• Experiencia en desarrollo de hardware en general, especialmente en diseño global de equipos
+• Experiencia en diseño y desarrollo de circuitos electrónicos de complejidad elevada.
+• Experiencia en el desarrollo de micro controladores.
+• Experiencia en programación de PLC
+•	Requisitos mínimos
+Experiencia en un puesto similar al menos 2 años
+Idiomas, Inglés a un nivel alto.
+Persona responsable, disciplinada y con alta capacidad de trabajo
+Requisitos valorables
+- Conocimiento de lenguaje ensamblador.
+- Conocimiento de sistemas embedded.
+- Conocimiento de S.O. Linux.
+- Conocimientos de SQL.
+- Conocimientos de electricidad.
+- Conocimientos de mecánica orientados a oficina técnica.
+- Conocimientos del sector de medios de pago, protocolos bancarios, teclados de Pin.Pad, certificaciones de equipos y sistemas para este sector
+

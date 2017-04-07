@@ -1,0 +1,25 @@
+
+eCliente
+Llevamos 10 años desarrollando aplicaciones web para mejorar la comunicación online. Nuestro medio es el online y nuestra filosofía también por lo que todos nuestros colaboradores eligen su lugar de trabajo.
+Qué buscamos
+Buscamos a una persona que esté apasionada por el medio online. Debe ser un heavy user de aplicaciones web y móvil (Google Docs, MailChimp, WordPress, etc.). Debe manejarse bien con la tecnología pero siempre desde el punto de vista del usuario.
+Debería ser alguien que sea capaz de analizar el comportamiento de los usuarios de una aplicación web y plantearse mejoras que redunden en una mayor productividad y facilidad de uso.
+Además debe ser capaz de documentar las mejoras mediante mockups, por lo que es necesario que tenga manejo de aplicaciones de wireframing.
+Cuales serían sus tareas
+- analizar comportamiento de usuarios
+- definir mejoras en los productos
+- realizar el testing de nuevos productos
+Qué pedimos al candidato
+- amplio conocimiento de aplicaciones online
+- visión de producto
+- conocimientos de marketing online
+- usabilidad
+- arquitectura web y prototipado
+- metodologías ágiles de desarrollo
+- atención a usuarios online
+- capacidad para integrarse en un equipo online
+Qué ofrecemos
+- integrarse en un equipo apasionado por las aplicaciones online
+- posibilidad de trabajar desde cualquier sitio
+- flexibilidad laboral
+- remuneración competitiva

@@ -1,0 +1,18 @@
+
+Duración Proyecto:
+Un mes a media jornada
+Ubicación:
+BCN 
+Objetivos:
+Construir una plantilla para una página web dónde se puede alojar un Reportaje Anual de Tendencias de una forma interactiva, dinámica y relevante. Será mayoritariamente en estilo Portfolio, con algunos rasgos similares a un blog, por ejemplo un Tag Cloud. 
+Responsabilidades:
+- Trabajar junto a un Project Manager y diseñadores gráficos y UX experimentados
+- Dar consejos expertos en cuánto a la implementación técnica y después de llegar a un diseño final, construir la plantilla. 
+- Encargarse del hosting, la programación, CSS y Javascript. 
+-Preferimos trabajar con Wordpress, sin embargo, si nos llega una propuesta de interesante para otra plataforma lo podríamos considerar.
+Experiencia/ Habilidades:
+- Experiencia en Wordpress/otra plataforma parecida
+- Full Stack o Front End: experiencia en programación HTML, CSS, Javascript.
+- Nos gustaría ver ejemplos de trabajos anteriores
+Fecha objetivo de incorporación:
+-Lo antes posible

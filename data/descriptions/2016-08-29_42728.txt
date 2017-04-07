@@ -1,0 +1,13 @@
+
+Buscamos a un programador web para que se una a nuestro equipo. Se trataría de un periodo de prácticas con contrato de media jornada, con posibilidades de contratación al finalizar dicho periodo.
+Se valorará que posea conocimientos en:
+-HTML
+-CSS
+-Javascript
+-jQuery
+-Experiencia en CMS a nivel programación.
+*Formación y titulación requerida:
+-FP Superior en Desarrollo de Aplicaciones Multiplataforma
+-FP Superior en Desarrollo de Aplicaciones Web
+-Ingeniería informática
+-Titulación oficial relacionada con la informática

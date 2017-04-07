@@ -1,0 +1,24 @@
+
+Buscamos una persona que ocupe el puesto de Programador de portales en Liferay, para incorporarse con nosotros a un proyecto de uno de nuestros clientes.
+Sus funciones serán:
+•	Desarrollar aplicaciones en Liferay.
+•	Conectar por medio de API REST a otros servicios.
+•	Uso del Service Builder, y APIS de Liferay. 
+Se necesita:
+•	Buen conocimiento de tecnologías web. HTML CSSS, JS, Ajax,
+•	Java. JAVAEE.
+•	SQL.
+•	Hibernate.
+Deseable más de 2 años de experiencia en desarrollo de aplicaciones web y más de uno en desarrollo con Liferay.
+Formación: Ingeniero técnico en Informática o superior.
+Experiencia mínima de 2 años de los que uno de ellos sea en Liferay.
+Se requieren Altos conocimientos de:
+-HTML.
+-CSS.
+-Javascript.
+-JAVA.
+-JAVA EE.
+-Desarrollo de Liferay.
+-SQL.
+-Hibernate.
+-Control de versiones SVN o GIT.

@@ -1,0 +1,34 @@
+
+Quienes somos
+En Tecsisa desarrollamos software cloud para el sector energético. Nos apasiona utilizar las tecnologías más punteras para crear productos innovadores que hagan la vida más fácil a nuestros clientes.
+Buscamos profesionales que compartan nuestra pasión y que quieran formar parte de un equipo formado por product owners, analistas, desarrolladores de front y back-end, DevOps, expertos en seguridad, etc., aportando su conocimiento y visión profesional.
+Si buscas una empresa que todos los días te ofrezca nuevos retos, disfrutas trabajando en equipo, investigando continuamente y formándote para estar a la última… ¡Queremos conocerte!
+Aparte de tu perfil técnico, conocimientos y experiencia también nos interesan tus valores como persona. 
+Buscamos personas con ilusión, compromiso, ganas de aprender, que sepan trabajar en equipo y que respeten a sus compañeros.
+Qué esperamos de ti:
+- 6 o mas años de experiencia en Frontend.
+- Imprescindible Git.
+- Dominio y conocimiento de los lenguajes HTML5, CSS3 y Javascript (preferiblemente ES6).
+- Conocimientos SMACSS, OOCSS, BEM u otros.
+- Experiencia LESS o pre-procesadores CSS del estilo.
+- Interés en SVG.
+- Experiencia con Angular JS o en su defecto frameworks SPA.
+- Experiencia con Node js.
+- Conocimiento con jQuery.
+- Conocimiento analytics (orientados a SPA).
+- Que no puedas vivir sin TDD o BDD.
+- Conocimientos y sensibilidad con la experiencia de usuario (UX).
+- Capacidad de trabajo en equipo ejerciendo el liderazgo técnico de front-end.
+- Valores cultura Open Source.
+- Que la tecnología sea tu pasión.
+Qué te ofrecemos:
+- Cultura abierta basada en la confianza y el trabajo en equipo.
+- Flexibilidad horaria. Jornada intensiva todos los viernes y durante julio y agosto. 
+- Ticket Restaurant o Plus de Comida. 
+- Oficina moderna y bien equipada. 
+- Office equipada. 
+- Cursos de idiomas con profesores nativos. 
+- Beneficios sociales. 
+- Formar parte de una plantilla multidisciplinar en constante crecimiento. 
+- Buen ambiente de trabajo y dinámico.
+

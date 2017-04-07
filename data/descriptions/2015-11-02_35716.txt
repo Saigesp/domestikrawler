@@ -1,0 +1,16 @@
+
+Buscamos incorporar un Analista en nuestro departamento de Business Intelligence.
+Formación: Estadística o Matemáticas
+Experiencia: En departamentos de BI, Control de Gestión, Audtorías financieras u operativas 
+Perfil conocimientos deseados:
+- SQL: Nivel avanzado deseado (se realizará prueba). 
+- Análisis de cohortes, análisis uni/multivariantes, regresiones logísticas, ciclos de vida…
+- Qlikview: Nivel medio deseado
+El desarrollo de sus responsabilidades girará entorno:
+1. Desarrollo de proyectos de análisis de:
+Perfiles de usuarios: comportamiento multicanal en CRMs de diversas tipologías, determinación de variables significativas para la optimización de los CRMs, modelos predictivos, implementación de los modelos en los sistemas junto con los recursos de ETL del departamento.
+2. Desarrollo continuo de los CRMs: mejora continua de los CRM mediante nuevas propuestas de operativa, segmentación, valoración, … buscando siempre la mejora de la conversión a objetivos de los clientes.
+3. Desarrollo de proyectos de BI:
+Toma de requerimientos de los diferentes proyectos, dimensionamiento de impacto, propuestas de metodologías y herramientas
+Trabajo en equipo con los recursos de Operaciones MKT+ETL para la mejora de los sistemas de gestión y análisis generales.
+Desarrollo de documentos en herramienta Qlikview tanto internos para la organización como externos para cliente (doble vertiente reporting/análisis).

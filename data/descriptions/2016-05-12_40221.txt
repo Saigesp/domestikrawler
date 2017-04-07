@@ -1,0 +1,34 @@
+
+¿De qué va esto? 
+Clintu.es es una marketplace para encontrar el servicio de limpieza del s.XXI.
+La tecnología es imprescindible para poder seguir creciendo rápidamente en un mercado que se está digitalizando. 
+Queremos conseguir con la limpieza doméstica lo que Idealista ha conseguido con los pisos y La Nevera Roja con la comida a domicilio.
+¿Cómo será mi trabajo y responsabilidades?
+Serás el primer developer “in house”
+Trabajar, codo con codo, con nuestro equipo tecnológico en el desarrollo de nuestra plataforma según el roadmap de producto
+Definir los siguientes pasos en el roadmap de producto
+Fichar en los próximos meses para ampliar el equipo Tech
+Hacer crecer nuestro marketplace y optimizar el proceso de reserva 
+Desarrollar nuevas funcionalidades en nuestra herramienta de gestión (Clintu Manager) para optimizar procesos internos
+Colaborar en la creación de nuevas plataformas (web y app) para clientes y limpiadores
+Identificar y evaluar nuevas soluciones tecnológicas, contribuyendo de forma directa a su desarrollo 
+¿Qué requisitos debo cumplir?
+Experiencia en desarrollo PHP con algún framework MVC (laravel…)
+Experiencia en frameworks MVC javascript (Angular…)
+Desarrollo y consumo de APIs y webservices SOAP y REST
+Administración de BBDD MySQL
+HTML5, CSS3 y Sass
+Conocimientos de sistemas de control de versiones, preferiblemente GIT.
+Detectar necesidades en los procesos y proponer soluciones tecnológicas para optimizarlos
+Ganas de crear un equipo Tech de primer nivel
+Persona resolutiva, con curiosidad y buen humor
+¿Qué oportunidades tendré en Clintu?
+Hacer un trabajo útil con impacto diario en el desarrollo de Clintu
+Formar parte de un proyecto con un potencial ENORME. Estamos en un mercado que hasta hace unos meses sólo existía offline.
+Seguir con Clintu y con participación en la empresa. Si crecemos ganamos todos.
+¿Qué ofrecemos?
+Sueldo a convenir según valía + plan options a los 6 meses 
+Oficina en Les Corts con mucha luz
+Horario flexible
+Cafés y té cortesía de Clintu
+Puedes ir vestid@ como quieras

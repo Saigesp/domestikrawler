@@ -1,0 +1,16 @@
+
+Ante todo estamos buscando a gente que disfrute mucho con su trabajo.
+Si nos eliges para trabajar, deberías saber que estamos deseando conocer a un Maestro en la maquetación CSS, con amplios conocimientos de HTML 5 y nivel Ninja en javascript. Sobretodo nos sentimos cómodos con jQuery y Knockoutjs.
+Nos interesaría que tuvieras experiencia. Somos un equipo altamente cualificado y queremos aprender de ti tanto como puedas aprender tú de nosotros.Buscamos personas innovadoras en sus ideas y en sus actitudes.
+Valoramos mucho tus conocimientos, pero más aún tus ganas y predisposición a investigar, aprender, estudiar, proponer y actuar.
+Los proyectos en los que estamos son muy motivantes tanto a nivel tecnológico como por funcionalidad.
+En definitiva: trabajamos mucho y muy a gusto.
+Requisitos necesarios:
+Nivel maestro en maquetación CSS
+HTML 5
+Javascript, generalmente con jQuery y Knockout
+Requisitos deseados:
+Analítica Web (GoogleAnalytics, Tests AB...)
+SEO
+SEM
+Usabilidad

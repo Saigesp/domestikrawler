@@ -1,0 +1,4 @@
+
+Hola a todos.
+En Galerna Estudio, estamos buscando un programador avanzado en Wordpress para el desarrollo a nivel interno de una serie de herramientas para gestionar tareas de administración técnicas y de clientes. Pueden utilizarse plugins existentes o una web paralela interconectada con el sistema de administración.
+Eso es todo, un saludo y gracias.

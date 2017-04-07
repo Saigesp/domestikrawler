@@ -1,0 +1,18 @@
+
+Buscamos perfil frontend junior que sepa trabajar en equipo.
+Requerimientos básicos:
+- Gestión y configuración de plataformas CMS, preferiblemente Wordpress,
+Prestashop y Magento.
+- Conocimientos necesarios: Javascript, CSS, HTML5, jQuery.
+- Conocimientos y experiencia en desarrollo bajo el entorno Apache Cordova.
+- Experiencia en AJAX y peticiones XHR.
+- Deseable conocimientos básicos de usuario y línea de comandos de
+servidores Linux.
+- Conocimientos UX/UI.
+Aspectos generales requeridos:
+- Proactividad e iniciativa
+- Organización
+- Atención al detalle
+- Autonomía en el trabajo y ganas de aprender
+Formará parte de un equipo que trabaja junto a los departamentos creativos
+y de marketing, por lo que saber trabajar en equipo es imprescindible.

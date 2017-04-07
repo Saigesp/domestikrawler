@@ -1,0 +1,20 @@
+
+En Dantex Group buscamos un programador en tecnologías Web para aplicaciones de video streaming diseñadas para una excelente experiencia de usuario.
+Los requisitos son: 
+-	Dominio del HTML5 + CSS3 
+-	Amplia experiencia JavaScript y jQuery.
+-	Desarrollo en ANGULAR.
+-	Conocimiento en instalación de entornos de desarrollo y control de versiones.
+-	Experiencia en instalación de entornos tipo Moodle u otro tipo de plataformas complejas.
+-	Programación en NODE.
+-	Experiencia en la instalación de BBDD y generación de WebServices Restful.
+Se valorará:
+-	Formación en arquitectura del software.
+-	Dominio de entornos WebLogic y BBDD Oracle.
+-	Dominio del lenguaje ActionScript para aplicaciones FLASH y FLEX.
+-	Experiencia en desarrollo de aplicaciones para móviles.
+-	Experiencia en desarrollo de WebApps para plataformas iOS.
+-	Experiencia en desarrollo en lenguajes tradicionales (C#, Java...)
+Salario:
+-	24.000,00-27.000,00 Euros Brutos/Anuales.
+

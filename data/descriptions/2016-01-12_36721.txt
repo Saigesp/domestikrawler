@@ -1,0 +1,28 @@
+
+Soamee
+¿Qué hacemos?
+Somos una pequeña agencia de desarrollo web y móvil en la que creemos fuertemente en el trabajo bien hecho y en la filosofía Open Source.
+¿Que buscamos?
+Estamos creciendo mucho últimamente y para los próximos meses esperamos más carga de trabajo. Por esto mismo, estamos buscando dos desarolladores móviles freelance (uno Android y otro iOS) como refuerzo para los proyectos que nos van llegando. Ahora mismo no tenemos ningún proyecto en concreto, pero esperamos necesitar ambos perfiles con los que colaborar continuamente (con posibilidad de en un futuro incorporarlo en plantilla).
+En concreto, para la parte de Android buscamos una persona que al menos conozca estas cosas (o le suenen):
+- Android
+- Patrones de diseño con Java
+- Support Libraries
+- Dagger, RxJava, Retrofit, ...
+- Clean Architecture
+- Testing: Robotium, Robolectric, Espresso, ...
+- CI con Jenkins
+- Git
+y para la parte de iOS, otra persona con conocimientos de:
+- iOS
+- Objetive-C o Swift.
+- MVC, MVVM o VIPER.
+- Support Libraries
+- CocoaPods
+- Clean Architecture
+- Testing: Quick, Sleipnir, Kiwi, ...
+- CI con Jenkins
+- Git
+No solo queremos que colabore en un proyecto concreto, sino que nos vaya acompañando en nuestro crecimiento, para lo que intentaremos tanto enseñarle nuestras metodologías como aprender todo lo que puedas aportar.
+Obviamente, valoraremos mucho tu perfil de github.
+Si tienes curiosidad por lo que hacemos nuestra web es www.soamee.com

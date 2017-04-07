@@ -1,0 +1,7 @@
+
+Necesitamos un presupuesto aproximado para la realización de una web sobre un laboratorio que vamos a abrir en julio 2013:
+- Varias páginas estáticas (tipo Quiénes somos, Dónde estamos..)
+- Noticias, esto debería ser facilmente gestionable a través del backend.
+- Envío automático de newsletter con las novedades de la web, así como recogida de datos desde la web.
+- Integración con redes sociales.
+La identidad corporativa la aportaríamos nosotros. 

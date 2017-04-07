@@ -1,0 +1,18 @@
+
+Somos una empresa joven, con dos años de vida en los cuales nos hemos posicionado como la empresa de referencia en el sector de los certificados energéticos en el canal online. 
+Estamos desarrollando una nueva plataforma y necesitamos incorporar un nuevo programador al equipo.
+Trabajamos en un entorno joven y distendido y con un alto nivel de profesionalidad.
+Aquí manejarás cosas como: 
+- Symfony 
+- Doctrine
+- Elasticsearch
+- React.js
+- Pasar de una arquitectura monolitica a una basada en cliente - servidor (frontales o apps - lógica de negocio) basado en el estándar REST
+- Oauth
+- Implementar POO y patrones de diseño, principalmente factory, observer y posiblemente decorator
+- Unittesting y functionaltesting
+Necesitamos de tí: 
+- Una persona proactiva 
+- Es necesaria experiencia. 
+- Investigación de nuevas tecnologías que nos ayuden a mejorar el desarrollo de nuestros productos. 
+Te esperamos

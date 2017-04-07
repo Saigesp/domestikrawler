@@ -1,0 +1,36 @@
+
+¿Que és SDD Brandcare?
+Es una agencia especialista en campañas online, diseño e imagen de marca, web, e-commerce partners, creatividad, social media, estrategias de marketing y community management. 
+Algunos de nuestros clientes son Motocard, Honda, Kawasaki Racing Team, Pirelli, Giacomini y Metzeler entre otros.
+Job Description:
+Estamos buscando un desarrollador web full-stack senior con al menos tres años de experiencia, al que le apasione escribir software elegante y estar al día en las últimas novedades en desarrollo de software.
+La persona seleccionada trabajará junto al equipo de desarrollo de un ecommerce con más de 20k visitas diarias en el desarrollo de la nueva versión del site usando Laravel 5 y TDD (test driven development).
+Requisitos mínimos:
+* 3 años de experiencia en desarrollo frontend PHP con frameworks MVC.
+* Amplio conocimiento de PHP, Laravel 4+ y Eloquent.
+* Amplio conocimiento de JavaScript y frameworks como jQuery, AngularJS, BackboneJS, etc. 
+* Amplio conocimiento de HTML5 y CSS responsive.
+* Experiencia con Git y GitHub o GitLab.
+* Experiencia demostrable con programación orientada a objetos.
+* Experiencia con desarrollo guiado por pruebas (test driven development).
+* Experiencia en bases de datos MySQL, transacciones y optimización de consultas.
+* Experiencia en desarrollo orientado a SEO.
+* Nivel alto en inglés leído y escrito.
+* Gran capacidad de autoaprendizaje y de búsqueda en Google.
+* Código elegante y buen criterio de naming de variables y funciones.
+* Conocimientos en seguridad informática orientada al desarrollo web.
+Requisitos deseados:
+* Experiencia con sistemas de Integación continua como GitLab CI o Jenkins. 
+* Experiencia en desarrollo de webs para dispositivos móviles.
+* Experiencia con Memcached y Redis.
+* Estar familiarizado con desarrollo de e-commerce.
+* Experiencia en desarrollo con metodologías ágiles (Scrum, Kanban).
+* Experiencia en diseño de aplicaciones y bases de datos.
+* Experiencia con CodeIgniter.
+* Experiencia en gestión de servidores Linux con LAMP stack.
+Pluses:
+* Cuenta en GitHub.
+* Perfil en Stack Overflow.
+* Perfil en Codewars o similar.
+* Conocimientos de ASP.NET.
+

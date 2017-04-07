@@ -1,0 +1,18 @@
+
+Analista Programador Senior .NET
+AKTIOS CONSULTORA IT de Barcelona, actualmente requiere un perfil ANALISTA PROGRAMADOR SENIOR .NET para trabajar en el departamento de Informática de una empresa reconocida a nivel internacional. Por nuestra parte, explicarte que somos una Consultora IT que trabaja con diferentes empresas y sectores. 
+Actualmente, una de nuestras empresas multinacionales con las que trabajamos de manera Outsourcing, se requiere de un perfil Analista-Programador.NET Senior para poder desarrollar diferentes proyectos dentro de la programación web/escritorio. 
+Descripción:
+Un Analista Programador .NET debe aportar capacidad de desarrollo, realización de test unitarios, interpretación de documentación, adaptación a las metodologías de desarrollo y trabajo en equipo. Además, es importante la capacidad para realizar diseños técnicos, para poder ir creciendo profesionalmente asumiendo nuevas responsabilidades. Además, el Analista-programador debe tener consolidada la capacidad de realizar diseños técnicos, debe ser capaz de definir test de integración y debe iniciarse en la gestión de pequeño equipo de trabajo.
+Mantenimiento evolutivo y creación de nuevas herramientas, de tipo backoffice, en un entorno Microsoft .Net (C# MVC 3.0) sobre SQL Server 2005/2008. Utilización de lenguajes frontend como jQuery o ExtJS. 
+Diseño de arquitectura, análisis, desarrollo y testing como NUnit. Utilización de metodologías ágiles (Scrum).Uso habitual de Team Foundation Server (TFS) o similar tales como Subversion, GIT... 
+Requisitos:
+Las capacidades técnicas que requerimos en este ámbito son conocimientos y experiencia sólida en:- Plataforma .Net (C#, VB, ASP, XAML) - C / C++ - - HTML 5 / XHTML 4.0 + Javascript - XML Tecnologias: - WPF - WCF / Wsdl - Silverlight + RIA Services - Entity Framework - LINQ - .Net Compact (PDA) - MVC 3 / 4 / Web API + SignalR - Testing de Visual Studio - Entity Framework 4 Bases de datos: - SQL Server – MySQL.
+Otros requisitos: Toma requerimientos / Documentos funcionales / Documentos de diseño técnico.
+Te ofrecemos:
+• Estabilidad laboral.
+• Perspectivas de crecimiento y proyección profesional.
+• Oportunidad de integrarte a un equipo de profesionales altamente cualificados.
+• Incorporarte en un equipo joven y entusiasta.
+• Salario a negociar en función de la valía y experiencia.
+Si eres una persona entusiasmada por las tendencias tecnológicas, comunicativa, con capacidad de análisis y gestión eficaz del tiempo, resolución de problemas técnicos/humanos complejos, iniciativa, organización, coordinación y que sepa trabajar en equipo, eres el candidato/a que estamos buscando.

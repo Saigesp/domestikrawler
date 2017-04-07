@@ -1,0 +1,26 @@
+
+What are we looking for?
+We are looking for a Front end web developer to implement web-based graphical user interfaces to expand the functionality of our online product offering.
+Candidates should have excellent front-end development skills based on an advanced knowledge of JavaScript, CSS… The web development team works closely with the Software Development to ensure correct implementation of designs, so good team working skills and the ability to meet deadlines are essential.
+What will your responsibilities be?
+• Develop, test, document, and maintain the front end of web-based applications  using HTML, CSS, JavaScript,
+• Produce prototypes to communicate user interactions and design ideas
+• Create templates for different CMS (Drupal, Wordpress,..)
+• Participate in creative brainstorming
+• Research user requirements through discussions with key stakeholders
+• Validate designs with customers
+• Maintain personal test environment (Apache with JSP and PHP)
+•	Apply user interaction principles, helping the end users meet their goals
+•	Maintain a good understanding of target audience and industry UI trends
+What traits should you posses?
+• 2 - 5 years experience working in a web design/product development environment
+• Hands on production experience with JavaScript, CSS, HTML, JQuery, XSL, XML, JSTL.
+• Demonstrated ability to debug front end applications
+• Strong understanding of the SDLC
+• Good understanding of application servers (e.g., JBoss, Tomcat, etc.) is desirable
+• Demonstrated knowledge of version control tools (e.g., CVS / SVN)
+• Experience with image editing and tools such as Photoshop/ Fireworks.
+• Strong attention to detail
+• Ability to work both collaboratively and with limited supervision
+• Strong English skills (verbal and written).
+

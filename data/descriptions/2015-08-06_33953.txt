@@ -1,0 +1,20 @@
+
+¿QUÉ NECESITAMOS?
+Necesitamos dos desarrolladores para trabajar con el equipo de front en el desarrollo y mejora del producto core de la empresa. Participaran activamente el el diseño y desarrollo de la arquitectura. Buscamos gente que sepa trabajar en equipo, exponer sus ideas y tenga pasión por los detalles y la programación.
+
+¿QUÉ OFRECEMOS?
+Trabajamos en un entorno joven y distendido, con un alto nivel de profesionalidad, donde se fomenta la responsabilidad individual y el crecimiento personal y profesional.
+Utilizamos metodologías agiles como Scrum y Kanban.
+Podrás participar en nuestro torneo de ping pong y tu primer Viernes te tocará ir a la nevera y repartir las cervezas.
+
+¿QUÉ ESPERAMOS?
+
+Se requiere conocimientos de:
+-       HTML5 y CSS 3
+-       AngularJS y librerías Ui-router, UI-bootstrap, etc
+-       Testing unitario (Karma) y E2E (Protractor)
+-       Javascript y uso de patrones
+-       LESS
+-       Git
+-       Grunt
+Se valoraran conocimientos en NodeJS y Scrum

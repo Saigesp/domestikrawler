@@ -1,0 +1,13 @@
+
+Precisamos incorporar un programador web para reforzar el departamento técnico.
+REQUISITOS IMPRESCINDIBLES:
+- PHP5
+- MYSQL
+- HTML5 / XHTML
+- CSS 2.1 / CSS 3
+- Javascript / Jquery
+- WordPress
+VALORABLE:
+-Desarrollo de aplicaciones móviles (IOS, Android).
+- Conocimiento de APIs de servicios web como Facebook, twitter o google.
+- Responsive design.

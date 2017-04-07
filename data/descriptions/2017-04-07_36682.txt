@@ -1,0 +1,11 @@
+
+Netberry Solutions selecciona a programadores FrontEnd Angular (o similares), que cuente con al menos 2 años de experiencia.
+Funciones:
+Desarrollo con Javascript utilizando Angular, Node.js y Boostrap o frameworks similares.
+Subversion/GIT
+Integración Continua (Jenkins o similares)
+Imprescindible: persona comprometida, y que valore el trabajo en equipo como fundamental.
+Valorable: contar con experiencia en desarrollo con java, parte BackEnd.
+El profesional se integrará en el equipo de desarrollo del cliente, en Las Rozas( Madrid).
+Horario laboral: de lunes a viernes de 09 a 18h
+

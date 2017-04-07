@@ -1,0 +1,22 @@
+
+Somos una empresa a nivel nacional e internacional actualmente en fase de
+expansión y crecimiento, que se dedica a la implantación de TIC en el sector
+de la automoción que precisa cubrir vacante de Programador PHP Developer.
+Si eres una persona proactiva, con iniciativa y experiencia en desarrollo PHP que puedes aportar soluciones tecnológicas, con capacidad para afrontar nuevos retos y con ganas de formar parte de un equipo joven, ofrecemos la posibilidad de incorporación inmediata con un contrato indefinido a tiempo completo en nuestras oficinas en Badalona (Barcelona).
+A fin de incentivar a nuestros trabajadores, la empresa ofrece cursos para el desarrollo profesional. En tu caso, te formaremos en el framework Symfony2, MongoDB así como en otras tecnologías relacionadas con los proyectos en los que podrías trabajar.
+Requisitos
+Nivel de estudios: Técnico superior.
+2 o más años de experiencia en desarrollo PHP y con BBDD MySQL
+Conocimientos en algún framework de desarrollo POO (Symfony2, Zend, CodeIgniter, Yii,...).
+Conocimientos en MVC.
+Conocimientos básicos de CSS3.
+Conocimientos en control de versiones (Git, Subversion o similar) 
+Conocimientos en metodologías ágiles (SCRUM) 
+Se valorará
+Experiencia en Symfony2.
+Conocimientos en MongoDB.
+Conocimientos en WebServices/SOAP.
+Conocimientos de otros lenguajes de programación como Javascript/AJAX, Node.js, Java.
+Conocimientos en programación de aplicaciones móviles (Android/iOS).
+Conocimientos en Responsive Design.
+Abstenerse freelance

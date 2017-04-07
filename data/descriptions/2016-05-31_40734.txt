@@ -1,0 +1,14 @@
+
+Estamos buscando un desarrollador senior en PHP para un nuevo proyecto en el Departamento de Tecnología de un cliente.
+Los requisitos para esta posición son: 
+- PHP, HTML, JavaScript
+Y los siguiente Frameworks: 
+- Symfony2 (Obligatorio)  
+- JQuery (Recomendable)
+- Doctrine (Recomendable)
+- Boostrap   
+El tiempo del proyecto es de una duración aproximada de más o menos unos 7 meses. 
+El perfil que buscamos es una persona seria, comprometida con su trabajo, autónoma desde el primer día.
+El rango salarial ira relacionado con su experiencia. El perfil perfecto es de una persona con 5 años de experiencia en estás tecnologías.
+La zona de trabajo, es pasado el hospital Ramon y Cajal.
+

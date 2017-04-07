@@ -1,0 +1,13 @@
+
+¿Eres Talentoso?. ¿Te gustaría trabajar con un equipo joven y con ganas de crecer?. ¿Te emocionas con lo que haces?. ¿Eres muy tech?. ¿No tienes miedo a enfrentarte a los retos?. Pues esta es tu oportunidad de formar parte del equipo de Kirubs.
+En nuestra empresa nunca nos aburrimos: trabajamos duro en grandes proyecto, superamos nuevos retos cada día, nos gusta bromear y mantener un aire distendido siempre, aunque estemos muy concentrados en lo que hacemos.
+Consideramos indispensables a las personas que forman nuestro equipo, sabemos la importancia de la fuerza del grupo, las sinergías que se forman siempre repercuten en el producto final, por ello valoramos y recompensamos el esfuerzo de cada uno.
+Estamos buscando al nuevo jefe de proyectos Android, ¿te apuntas?.
+Necesitamos que cumplas las siguientes funciones:
+- Planificar los proyectos
+- Creación: requerimientos + especificaciones + arquitectura + diseño técnico + gestión de desarrolladores bajo su mando + test y publicación en el Google Play.
+- Desarrollo: conocer Apis PayPal, Facebook, Twitter,…….. + Webservices + bases de datos
+Software: Eclipse (desarrollo) + Axur ( wireframes) + Repository (JIRA,….)
+Y te ofrecemos:
+Sueldo: Fijo + variable con un plan de crecimiento a 2 años.
+Equipo: Macbook + móvil de empresa + tablet Android Galaxy.

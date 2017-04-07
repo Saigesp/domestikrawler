@@ -1,0 +1,12 @@
+
+addSolutions, consultora de Barcelona, para uno de sus proyectos, busca:
+Características del puesto de trabajo:
+Para interesante proyecto web de 3 meses en Barcelona con portal Liferay, buscamos un maquetador HTML
+Funciones:
+- Después de una formación en CMS Liferay, Implementar la arquitectura de front end. 
+- Ser nexo de unión en un equipo de 3 programadores
+Requisitios:
+- Maquetador con experiencia en HTML5, 
+CSS3 (Bootstrap, maquetación responsive), 
+- Javascript / Jquery
+- Conocimientos de Java

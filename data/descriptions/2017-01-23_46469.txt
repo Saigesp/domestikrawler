@@ -1,0 +1,20 @@
+
+iClassics Productions es una "Startup" productora de experiencias interactivas en formato de Apps. Necesitamos ampliar nuestro equipo con:
+Un nuevo/a "Developer" 
+Requisitos mínimos
+- Ciclo formativo de grado medio.
+- Conocimiento del lenguaje C++
+- Haber trabajado con frameworks de juegos como Cocos2d-x, Unity, Sprite Kit, etc...
+- Git para control de versiones.
+- Capacidad de trabajo en equipo.
+Deseable:
+- Amplios conocimientos de Java y Objective-C
+- Conocer en profundidad el framework Cocos2d-x
+- Haber desplegado Apps en App Store, Google Play y/o Amazon App Store
+- Amante de buen código y buenas prácticas.
+Buscamos un profesional para su incorporación en iClassics Productions, S.L. para nuestras oficinas de Barcelona, con capacidad de gestión y resolución de problemas y alto grado de implicación en la consecución de objetivos. Buscamos una persona organizada y metódica en su trabajo, habituada a trabajar bajo presión y con capacidad de trabajar en equipo. Sensible al diseño, funcionalidad y elegancia. Creatividad e innovación.
+Ofrecemos incorporación inmediata y posibilidades de promoción en una empresa muy dinámica con visión internacional y en continua expansión.
+Sueldo según experiencia del candidato.
+Jornada Completa (15.000€) Bruto/año
+Por favor, si tienes interés contacta con nosotros para cerrar una entrevista en nuestras oficinas. Incorporación inmediata.
+Gracias,

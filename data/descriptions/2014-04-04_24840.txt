@@ -1,0 +1,6 @@
+
+- Desarrollará aplicaciones para realizar test automáticos con : Jenkings, Selenium, Jmeter.
+- Definirá los planes de pruebas funcionales. Manuales y/o automáticos.
+- Realizara los testings de versión y les dará seguimiento a las incidencias.
+- Formará parte del equipo de desarrollo, incorporándose en el área de Test, para encargarse de los testings.
+

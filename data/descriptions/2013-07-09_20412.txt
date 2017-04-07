@@ -1,0 +1,30 @@
+
+Nuestra empresa
+Hebo Partners es una consultoría de estrategía, diseño e implementación de plataformas móviles y digitales. 
+Realiza proyectos para marcas conocidas como startups. 
+A día de hoy necesita incorporar a un Frontend Designer &amp;amp; Web Developer para el proyecto camare.ro Camare.ro es una app para que el camarero sea tu móvil, y una vez en el restaurante puedas pedir tu comida y bebida directamente desde tu teléfono sin tener que esperar al camarero.
+Premiado como mejor nuevo proyecto del año por Madrid 2020 y respaldado por primeros locales y franquicias en Madrid. 
+Hebo Partners te proporciona un entorno de trabajo joven, dinámico y con mucho potencial de crecimiento y promoción.
+Perfil buscado: 
+Trabajamos utilizando Groovy on Grails por lo que es necesario tener ciertos conocimientos de Grails para desempeñar las funciones del puesto: 
+- Maquetación de las webs en desarrollo.
+- Comunicación e interacción con las funcionalidades desarrollas en el servidor. 
+- Diseño de la imagen, estilos visuales y argumentarios de venta.
+Conocimiento base: 
+Groovy on Grails 
+jquery 
+photoshop 
+AJAX 
+JSON 
+twitter bootstrap 
+google apis 
+html5 
+Advanced css
+Conocimiento deseado: 
+Java 
+Postgresql 
+Hibernate
+Incorporación: 
+Julio 2013
+Contrato: 
+Autónomo vinculado con fijo + variable

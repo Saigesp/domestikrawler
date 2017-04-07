@@ -1,0 +1,13 @@
+
+Quantion es la empresa especializada en estrategia y tecnología para las empresas del futuro. En plena Era Digital acompañamos a las empresas y organizaciones en la transformación digital de sus procesos de negocio.
+Nos caracterizamos por nuestro ADN digital, la ilusión por nuevos retos y porque todos nuestros proyectos consisten en aportar la innovación tecnológica que necesitan nuestros clientes. En Quantion te ofrecemos la posibilidad de desarrollarte tanto profesional como personalmente en un ambiente dinámico, creativo y tecnológico.
+Buscamos incorporar un/a programador/a con experiencia en:
+- PHP 5.6 o superior
+- MySQL  5.6
+- CSS3
+- HTML5
+Las funciones:
+Customización de plantilla Wordpress para adaptarla a un catálogo de productos y promociones.
+Instalación de plugins existentes para añadir funcionalidades, se deberá desarrollar uno ad-hoc.
+Si buscas una empresa donde poder aprender y desarrollar tu carrera profesional rodeado/a de un gran ambiente de trabajo, ¡te esperamos! 
+

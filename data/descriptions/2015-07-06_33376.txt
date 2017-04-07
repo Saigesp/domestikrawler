@@ -1,0 +1,15 @@
+
+Importante empresa necesita cubrir un puesto de Maquetador Web Developer Senior de front-end, para sus oficinas situadas en Madrid.
+-Requisitos mínimos:
+*Experiencia minima 3 años demostrable en puesto similar: 
+*Imprescindible HTML, HTML5 
+*Imprescindible Jquery y Javascript 
+*Se valorará conocimientos de Framework backbone, angular, …. 
+*Responsive Design en multidispositivo 
+*Framework como bootstrap y foundation 
+*Css3 
+*Conocimientos SEO 
+*Control de versiones Git 
+*Estándares W3"
+Tipo de contrato: Indefinido
+Ubicación: En las instalaciones del cliente en Madrid

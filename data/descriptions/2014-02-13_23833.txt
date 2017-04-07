@@ -1,0 +1,12 @@
+
+Onebox es una empresa que desarrolla tecnología para la comercialización de espectáculos y actividades de ocio en los recintos más importantes del país. 
+Buscamos un desarrollador con experiencia en tecnologías Java / JEE para para participar en la evolución constante de nuestra plataforma. 
+Participarás en el desarrollo de interfaz de aplicación web basados en tecnologías Java.
+Perfil:
+- Ingeniero Técnico y/o Superior en Informática o Grado Superior en Informática.
+- Experiencia deseable.
+Conocimientos requeridos:
+- Programación web (js, css, html, jquery)
+- HTML5 + CSS3
+- Ajax
+- Responsive (Foundation)

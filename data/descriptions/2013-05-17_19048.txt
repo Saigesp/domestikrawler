@@ -1,0 +1,26 @@
+
+Importante Empresa americana ubicada en Silicon Valley dedicada a las redes sociales necesita incorporar a través de su software factory española Desarrolladores Expertos HTML5 en la Comunidad de Madrid.
+El candidato o candidata se incorporará a un equipo de programación y desarrollo altamente cualificado, dentro de un entorno que integra las últimas tecnologías del mercado. 
+Su trabajo consistirá en:
+-	Programación en HTML5 de la interfaz del site
+-	Programación Responsive Web Design
+-	Optimización del rendimiento Front End del site
+Serán imprescindibles conocimientos y experiencia avanzada en:
+-	Programación con estándares web (tanto fija como adaptiva) y conocimientos de usabilidad
+-	HTML5 y CSS3
+Otros requisitos importantes: 
+-	JQuery
+-	JavaScript
+-	Integración Front End – Programación
+-	Desarrollos para iPhone/iPad
+Otros requisitos a valorar: 
+-	ASP.NET (Visual Studio 2010-12)
+-	Experiencia en el uso de APIs
+-	Programas de prototipados (wireframes) 
+-	Conocimientos de plug-ins
+-	Nociones de SEO
+Ofrecemos:
+-	Trabajo creativo con una fuerte capacidad de desarrollo profesional.
+-	Buen ambiente de trabajo en una empresa americana dinámica con horario de  7:00 a 15:00 o de 8:00 a 16:00 - según las preferencias personales -, trabajo en las propias oficinas y posibilidad de teletrabajo.
+Buscamos personas con estándares de calidad muy altos en su trabajo, y comprometidas con los resultados de su departamento y con la compañía.
+

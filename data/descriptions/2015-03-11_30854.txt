@@ -1,0 +1,29 @@
+
+New Relic
+Senior Front End Engineer - CSS/JavaScript/HTML
+Barcelona, Spain
+At New Relic, we provide our customers with instant and deep insight into their application’s behavior and performance. With our SaaS-based application performance monitoring (APM) solution, we have our customer’s backs by transparently instrumenting their application and reporting issues, often before the customer knows that there is a problem. We give our customers as much information as possible to help them tune their site’s reliability and performance.
+We are looking for an experienced Senior Front End Engineer to join our growing team. You will be involved in the entire technology stack and will be responsible for building single page Javascript web applications with complex and detailed User Interfaces. This role will also require you to be involved with technical design, and ultimately help shape the complex UI/UX.
+As a Software Engineer at New Relic, you will work with some of the best engineers and tackle some of the most complex problems in the industry and as a member of Barcelona team you will help shape and grow the 1st New Relic European development center.
+The right candidate likely has: 
+* Extensive experience building cross-browser, responsive, and scalable HTML & CSS
+* Experience working with modular CSS architectures (SUIT, BEM, SMACSS, OOCSS...)
+* Experience in working with the current Front-end scene, CSS pre/post-processors, build systems, module loaders, and dependency management.
+* Expertise in JavaScript, DOM and HTML5 APIs
+* Demonstrable ability to write complex MVC JavaScript applications. Our frontend is about 80% JavaScript!
+*  Design focus with strong attention to details and a strong understanding of UI and UX principles
+* Practice with design software such as Fireworks, Sketch, Illustrator.
+* Great team player skills
+* Ability to speak fluent English
+* Authorized to work in Spain (EEA, http://europa.eu/about-eu/countries/ )
+ 
+Bonus points for experience with Python/Django, being an Open source contributor, speaking Spanish and to master drifting skills at MK8.
+To apply:
+Please provide a cover letter telling us who you are and why this job, this product, and this company are the place for you, along with a resume that includes links to things you’re proud to have built!
+A little about us:
+New Relic is a software analytics company that, on behalf of our customers, makes sense of billions of metrics about millions of applications, all in real time. Our comprehensive SaaS-based solution for web and mobile applications consolidates the performance monitoring data into a single, powerful interface. Our 90,000+ customers use New Relic every day to optimize more than three million applications.
+New Relic is a San Francisco Best Places to Work award winner, an Oregon “Top Workplace” award winner, named a leader in the Gartner’s 2013 & 2014 “Magic Quadrant” for APM companies, a Top 100 OnDemand Company, Best of SaaS (THINKStrategies), Top 100 Coolest Cloud Computing (CRN); 10 Cloud Management Companies to Watch (NetworkWorld) – the list of accolades goes on. More important than all of that: we provide challenging work, opportunities to learn, high quality teammates, a standard-setting product, and a company on the move.
+We provide competitive compensation, stock options and big-company benefits (medical, etc.) all while maintaining the energy, agility, and fun of a start-up. We can help with relocation.
+To get started, click on the link below.  To fast track your application, let us know in your cover letter why this job, product, and/or company is of particular interest to you.  We look forward to talking!
+#LI-CV1
+Apply Here

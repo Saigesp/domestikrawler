@@ -1,0 +1,37 @@
+
+Hola somos Tramontana Ventures una joven Incubadora/Aceleradora de startups dedicada a la innovación tecnológica. Actualmente estamos estamos empezando un proyecto muy interesante en el ámbito mobile, para los cuales necesitamos un programador iOS .
+¿Qué buscamos en un candidato?
+•	Experiencia: De 1 a 3 años
+•	Que sea amante del buen código y las buenas prácticas
+•	Que tenga capacidad para trabajar en un equipo multidisciplinar
+•	Que no le tenga temor a la innovación y la exploración de nuevas vías & tendencias
+•	Experiencia previa demostrable en el desarrollo de aplicaciones mobile (IOS)
+•	Conocimientos en programación nativa para IOS
+o	Objective-C
+o	Swift
+o	Xcode
+o	Cocoa Touch
+•	Conocimientos y experiencia con:
+o	SailsJS
+o	NodeJS
+o	Sockets
+o	PHP & JavaScript
+o	SQLite
+•	Integración de analíticas & Notificaciones Push
+•	Integración y creación de APIs (especialmente centradas en operaciones de geolocalización mediante la API de Google Maps o Apple Maps)
+•	Experiencia en Frameworks para desarrollo de Apps híbridas
+•	Conocimientos básicos de UX
+Valorable 
+•	Conocimientos de:
+o	Cordoba
+o	Spring
+o	Hibernate
+o	MySQL
+o	HTML5
+o	Experiencia en metodologías ágile & scrum
+¿Qué ofrecemos?
+Buena remuneración
+Flexibilidad
+La posibilidad de crecer con la empresa
+Y muchas ganas de hacer cosas increibles
+

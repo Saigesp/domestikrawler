@@ -1,0 +1,13 @@
+
+Main functions:
+•	Delivering and manage cybersecurity projects and services.
+•	Analyse new trends and select appropriates to solve the client needs.
+•	Making security penetration test and technical reviews.
+•	Detecting new business opportunities.
+•	Development of new products and services related to the cybersecurity area.
+•	Contac with clients in order to knowing theirs needs and developing the right solution.
+•	Recognized security industry methodologies and best practices (ISO 27001, OSSTM, OWASP)
+Main requirements:
+Future candidate would have 2 or 3 years of experience in security services or projects around technical security (international experience will be value).
+In relation with education, the candidate should have a Degree Level or equivalent for Computer Science, Software or Telecommunication.
+Regarding to specifics knowledge, candidate must be good understanding of standard security tools such as: Wireshark, Nmap, W3af, Metasploit, Burp Suite, Nessus, Qualys, Acuntix. 

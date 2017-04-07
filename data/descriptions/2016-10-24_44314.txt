@@ -1,0 +1,15 @@
+
+Precisamos de Programador PHP con experiencia en e-commerce para la implementación y mantenimiento de proyectos e-commerce.
+FUNCIONES
+- Desarrollo principalmente de Front-end en Magento. 
+- Uso de PHP/mySQL, HTM/CSS, HTML5/CSS3, Javascript y Frameworks de Desarrollo.
+REQUISITOS MÍNIMOS
+- Imprescindible experiencia de más de 2 años como desarrollador PHP. 
+- Imprescindible nivel avanzado de PHP/mySQL, HTM/CSS, HTML5/CSS3, Javascript y Frameworks de Desarrollo. 
+- Imprescindible nivel medio/alto de inglés. 
+- Conocimiento de metodologías ágiles de desarrollo, Control de versiones (git), etc. 
+- Se pide calidad y experiencia en desarrollos y un total compromiso a medio y largo plazo.
+COMPETENCIAS PERSONALES
+- Capacidad de análisis y organización 
+- Pro actividad y dinamismo. 
+-Trabajo en equipo.

@@ -1,0 +1,4 @@
+
+Somos una empresa joven especializada en ofrecer soluciones de ambientación musical para empresas. Necesitamos un profesional freelance que se una al equipo para implementar mejoras en el reproductor de audio.
+Se requiere un desarrollador backend para implementar un buffering (el reproductor está basado en SoundManager 2). Son necesarios conocimientos demostrables de streaming de audio, PHP y Javascript. El reproductor está basado en SoundManager 2 gestionado con Icecast + Liquidsoap.
+El proyecto está planificado para una duración aproximada de 2 semanas y no se requiere presencia física. El salario dependerá de tus habilidades y el tiempo de desarrollo final.

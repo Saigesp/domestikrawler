@@ -1,0 +1,45 @@
+
+Mecalux es una compañía líder en el mercado mundial de sistemas de almacenaje, con más de 50 años de experiencia y una plantilla formada por más de 3.900 profesionales. Nuestra actividad consiste en el diseño, fabricación, comercialización y prestación de servicios relacionados con las estanterías metálicas, almacenes automáticos, software de gestión para almacenes y soluciones de intralogística en general. Con 4 centros tecnológicos en Europa y Estados Unidos, 11 centros productivos en Europa, América del Norte y del Sur, y ventas en más de 70 países, la compañía fundamenta su sólida posición de liderazgo a nivel internacional en la apuesta por nuevos mercados, la innovación tecnológica y la orientación a las necesidades del cliente.
+Buscamos a profesionales con talento que deseen incorporarse a una empresa dinámica en continua expansión y desarrollar su carrera en el sector de la logística, uno de los más innovadores del actual tejido empresarial.
+Funciones requeridas:
+•Participar en la evolución técnica de la plataforma.
+•Análisis, Programación y Testing de nuevos proyectos, mantenimientos correctivos y evolutivos.
+•Participación e implicación en un equipo de desarrollo ágil (Scrum).
+Requisitos Mínimos:
+•Titulado/a universitario/a (medio o superior), preferiblemente en Informática o Telecomunicaciones.
+•Perfil Analista Programador/a Senior J2EE.
+•Persona habituada a la toma de decisiones técnicas y a aconsejar qué soluciones técnicas deben implementarse.
+•Experiencia mínima de 5 años.
+•Residente en la comarca de Barcelona o Baix Llobregat.
+•Conocimientos requeridos: ◦Java Enterprise Edition 5+: Servlets, JSP, JPA.
+◦Uso extensivo de frameworks Java: “Spring Web MVC”, “Struts 1”, “Spring Core”, “Spring Security”.
+◦Hibernate.
+◦HTML y CSS.
+◦JavaScript, JQuery y Ajax.
+◦Rest / WebServices (JSON / XML).
+◦JUnit - Maven / Ant.
+◦Uso de patrones / estándares de diseño.
+◦Modelado y diseño de Base de Datos E/R.
+◦Uso de SQL y procedimientos almacenados.
+◦BBDD: PLSQL / Oracle / MySQL.
+◦SVN.
+◦Eclipse.
+Requisitos deseados:
+•Nuestro perfil ideal será puntual, trabajará en equipo, será detallista y técnicamente inquieto/a.
+•Se valorará conocimiento y experiencia en: ◦TDD
+◦KendoUI, Angular, Backbone o similar.
+◦Otros frameworks/complementos Java: Spring batch, Dozer…
+◦JBPM / ACTIVITI.
+◦Herramientas de Test: Selenium / Mockito - Integración continua: Jenkins / Hudson.
+◦Calidad de código: SonarQube.
+◦Tomcat 7+ / Weblogic.
+◦Docker.
+◦Scrum.
+◦Git.
+◦Redmine.
+◦Dominio del inglés.
+ Ofrecemos:
+•Contrato indefinido.
+•Incorporación a un equipo altamente cualificado y dentro de un proyecto atractivo técnicamente con alto interés profesional.
+•Remuneración de acuerdo a los conocimientos y experiencia aportados.
+ 

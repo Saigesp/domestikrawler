@@ -1,0 +1,31 @@
+
+Buscamos desarrollador PHP Senior en EXPRIVIA
+Buscamos talento, energía, optimismo, liderazgo, pasión, buen humor... en el cuerpo de un desarrollador PHP Senior para incorporación inmediata.
+Qué somos 
+Somos el departamento web del grupo Exprivia. Trabajamos en el centro de Madrid y estamos especializados en consultoría de negocios online. 
+En el área de desarrollo, hay proyectos a medida, aplicaciones móviles híbridas, tiendas online, CMS… 
+Nos gustan los retos, las cosas sencillas y molonas, la comida, el lado friki de la vida, la buena cerveza, la tecnología y Batman.
+Qué harás 
+- Liderarás el equipo de desarrollo y tendrás la mayor parte del peso del desarrollo backend de nuestros proyectos. 
+- Ayudarás a planificar proyectos y gestionar tareas, y tendrás, como todos, línea abierta con el cliente. 
+- Tus conocimientos e iniciativa nos ayudarán a crecer como personas y como profesionales. 
+- Aprenderás algo nuevo cada día y te divertirás.
+Requisitos básicos para optar al puesto 
+- Persona con sentido común y sentido del humor.
+- Filosofía de trabajo orientada a la iniciativa, a la resolución de problemas y al éxito.
+- Conocimientos y experiencia en metodologías ágiles (scrum...) 
+- Experiencia en el liderazgo de equipos de trabajo. 
+- Desarrollador experto en PHP/MySQL (mínimo 3 años de experiencia demostrable, necesario citar proyectos) 
+- Conocimientos y experiencia en desarrollo con frameworks PHP (cakePHP, Symfony…) Nota importante: Estamos abiertos a implantación de otras tecnologías.
+- Experiencia con Linux como entorno de trabajo. 
+- Nivel de inglés medio - alto.
+Factores que mejorarían el sueldo 
+- Experiencia en el trato directo con clientes y facilidad para hablar en público. 
+- Experiencia en metodología y gestión de proyectos. 
+- Experiencia en proyectos en los que QA en general y TDD en particular hayan sido relevantes.
+- Experiencia en el desarrollo con Cordova/Phonegap. 
+- Experiencia en proyectos de adaptación de software Open Source, especialmente Prestashop y Wordpress. 
+- Experiencia en el uso de sistemas de control de versiones SNV, GIT… 
+- Experiencia en la instalación y configuración de entornos de explotación de aplicaciones PHP. 
+- Experiencia en la monitorización y tuning de rendimiento de aplicaciones. 
+- Experiencia en seguridad de aplicaciones web.

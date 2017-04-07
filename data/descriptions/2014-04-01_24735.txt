@@ -1,0 +1,4 @@
+
+Buscamos desarrollador que se encarge de implementación de Openbravo en dos fases:
+- Una primera de instalacion básica
+- Una segunda de entrada de datos desde una web que se va hacer, a partir de Symphony. 

@@ -1,0 +1,30 @@
+
+PHP/MySQL senior developer
+Empresa Marketyou
+Localidad Barcelona
+marketyou es la primera web del mundo que te muestra tu valoración profesional y te ayuda a venderte en el mercado laboral.
+Buscamos:
+Programador con experiencia demostrable en el desarrollo de sitio web con PHP5 y MySQL.
+Domine la programación orientada a objetos, el modelo vista controlador y experiencia en al menos un framework MVC.
+Optimización de MySQL
+Ofrecemos:
+• Oportunidad de incorporarse a una compañía de nueva creación perteneciente al sector TIC, joven y dinámica, con gran potencial de crecimiento a nivel nacional e internacional.
+• Claras posibilidades de desarrollo profesional participando activamente en el crecimiento de la compañía.
+Requerimos:
+PHP 5
+HTML, JavaScript y alguna librería como jQuery
+Control de versiones (preferente Mercurial)
+
+Deseamos:
+Pruebas Unitarias (Unit Testing)
+Sistemas de plantillas (smarty)
+Sistemas de cache, apc, memcache
+Conocimiento de metodologías ágiles
+Experiencia:
+5 a 8 años
+Idiomas:
+Español y Inglés
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+¿Te interesa? Apúntate aquí http://bit.ly/stkATz 

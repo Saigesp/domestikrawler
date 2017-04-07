@@ -1,0 +1,18 @@
+
+Buscamos una persona apasionada por las apps, dinámica y con espíritu de equipo con al menos 2 años de experiencia trabajando en el desarrollo de apps.
+Puede ser una colaboración freelance o una incorporación en plantilla, depende del candidato. Ofrecemos la posibilidad de trabajar de forma remota, con la condición de acudir semanalmente a las reuniones de equipo Incorporación ASAP
+Responsabilidades:
+- Implementar mejoras en la app ya existente.
+- Diseño y creación de nuevas versiones y mejoras para iOS y Android.
+- Colaborar con equipos multi-funcionales para definir, diseñar y enviar nuevas características.
+- Corrección de bugs y la mejora de rendimiento de las aplicación.
+- Descubrir, evaluar e implementar nuevas tecnologías para maximizar la eficiencia del desarrollo.
+Imprescindible:
+- Experiencia con Xamarin o
+- capacidad para un rápido aprendizaje para trabajar con esta API.
+Se valorará también conocimientos de:
+- Experiencia con metodología de desarrollo ágil.
+- PHP 
+- SQL/MySQL 
+- JavaScript y jQuery
+- Css

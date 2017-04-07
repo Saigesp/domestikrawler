@@ -1,0 +1,18 @@
+
+Vuelve a comprar en las tiendas de tu barrio con Manzaning.
+Manzaning es la primera app que te permite comprar desde tu móvil pero como si estuvieras frente al mostrador. Más de 200 tiendas de Barcelona ya venden vía llamada telefónica o chat a través de nuestra plataforma.
+Manzaning nace hace unos meses cuando detectamos un vacío de mercado para el comercio de barrio. Cada vez más gente quiere volver a comprar en sus tiendas de siempre pero este long tail de comercios no tiene capacidades para desarrollar su tienda online. Para cubrir esta necesidad creamos Manzaning con la misión de dar la mejor experiencia de venta online para el comercio local a cliente y tienda.
+Manzaning está en expansión y necesitamos perfiles con energía, motivación y pasión por la nuevas tecnologías. Si te gusta el e-commerce y te atrae una experiencia en start up, Manzaning es tu empresa.
+En Manzaning te ofrecemos la oportunidad de aprender del equipo senior que lidera el proyecto, de aportar valor, implementar cambios y ver resultados reales. Ofrecemos contrato indefinido con período de pruebas previo.
+En estos momentos para el equipo IT estamos buscando a un programador full stack para:
+- desarrollo de nuevas funcionalidades para la parte back-end. 
+- mantener y evolucionar la API-REST que utilizan las aplicaciones para la comunicación con la BBDD
+- monitorización y tunning del servidor
+- apoyo al equipo comercial y de marketing
+Los conocimientos necesarios son para este puesto son:
+- Experiencia con lenguajes de programación back-end; actualmente es imprescindible PHP pero valoraremos experiencia con nuevas tecnologías del candidato
+- Experiencia en definición y mantenimiento de BBDD (SQL)
+- Experiencia en definición y desarrollo de API-REST
+- Experiencia en integración con otras API como (Google, TPV, etc)
+Valoraremos tambien muy positivamente si el candidato/a tiene experiencia en otras start-up's.
+

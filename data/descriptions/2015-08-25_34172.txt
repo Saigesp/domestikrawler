@@ -1,0 +1,29 @@
+
+Empresa
+Clubberize, startup situada en Barcelona, dedicada al desarrollo de soluciones tecnológicas para el mundo de la música electrónica busca incorporar a su equipo a un desarrollador frontend.
+Llevará a cabo la implementación de las diferentes interfaces de usuario necesarias para la plataforma web. Trabajando mano a mano con el equipo de backend y con el de UI y UX.
+Como desarrollador frontend, tendrá la responsabilidad de asegurar el correcto funcionamiento de la plataforma web, realizando la maquetación y programación javascript necesaria, e integrandolo con el backend.
+Se valoraran conocimientos de diseño.
+Responsabilidades
+Desarrollo de la parte de frontend de nuestra plataforma de acuerdo con el diseño establecido por el equipo de UI y UX.
+Requisitos Mínimos
+Haber trabajado con HTML5 y CSS3, así como frameworks (Bootstrap).
+Conocimientos de Javascript nativo.
+Conocimiento de frameworks JS (jQuery, Backbone, Angular, etc.).
+Experiencia en el uso de repositorios de código.
+Conocimiento básico de metodologías de desarrollo ágil (Scrum).
+Experiencia en el uso de sistemas de templating (Twig, Smarty).
+Persona metódica, estructurada y con iniciativa.
+Capacidad de trabajo en equipo.
+Requisitos Valorables
+Idiomas: Castellano nativo, inglés medio.
+Pasión por la música electrónica.
+Nociones de maquetación multidispositivo (responsive design) y optimización de carga.
+Conocimientos de diseño (Photoshop, Illustrator, Sketch).
+Conocimientos de wordpress.
+Conocimientos backend (PHP, MySQL) y patrones de diseño (MVC).
+Se ofrece
+Convenio de prácticas remunerado con horario Flexible.
+Equipo Joven y dinámico.
+Formación continua.
+Incorporación inmediata.

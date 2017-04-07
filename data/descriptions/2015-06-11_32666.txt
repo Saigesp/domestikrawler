@@ -1,0 +1,25 @@
+
+Besedo provides solutions for improved user experience and fraud prevention on internet, primarily with User Generated Content (UGC). Our clients are leading online companies in classifieds, dating, social networking, media, and games, for whom safety and consumer confidence is crucial. We help people to safely meet and make transactions online. Besedo was founded in 2002, has around 600 employees, and continues to grow. We are located in Sweden, Malta, Colombia, Mauritius and Malaysia, and provide our services in 17 different languages.
+The company is now looking to employ talented and passionate software Developers (based in Malta) to to help us build and improve Besedo’s premier moderation platform and in house tools. If you have technical skills and want to be involved in an exciting company, then this is the job for you
+Main Responsibilities
+•	Develop and maintain the services that comprise the Besedo moderation platform.
+•	Create, document and maintain platform level components that are used by the Besedo moderation platform.
+•	Troubleshoot and correct live issues.
+•	Ensure that all work is of acceptable quality.
+•	Contribute to a positive work environment.
+Skills, Knowledge & Expertise:
+•	A minimum of 1 to 2 years’ experience with software development
+•	Understanding of AJAX, MVC, HTML, and CSS
+•	Understanding of service scalability practices and techniques
+•	Self-motivated with strong initiative
+•	Excellent verbal and written communication skills (english)
+•	Able to work in a fast-paced, dynamic work environment
+Pluses 
+•	Experience working in a Scrum environment
+•	Experience using JavaScript / AngularJS or similar
+•	Experience using PHP
+•	Hands-on experience using Node.js
+•	Experience using LESS / SASS, jQuery and other front end technologies
+Offer
+This is an opportunity to be involved with the design, development and implementation of new features and new projects. Working with other developers you will tackle this using scrum in a fun and relaxed culture with a focus on teamwork, quality, and innovation. 
+This role represents a stimulating and rewarding challenge in a fast-moving and growing international organization in which you, along with friendly and professional colleagues, have the chance to influence and contribute to Besedo’s development. 

@@ -1,0 +1,5 @@
+
+En Pixel Studios estamos buscando un desarrollador senior backend / frontend especializado en Magento (1.9)
+El proyecto se trata de un marketplace para el mercado latinoamericano, donde se utilizará el módulo *uMarketplace (Unirgy)* como base, ya que ofrece todas las funcionalidades que se necesitan de entrada.
+Necesitamos una persona capaz de desarrollar módulos a medida si hace falta, alguna integración con un API externo de logística, etc. Se valorará muchísimo experiencia previa en este sector, como manejar grandes cantidades de taxonomías (tipo Amazon), importaciones masivas de referencias / productos, etc.
+El lugar de trabajo será nuestras oficinas en el centro de Valencia *(presencial), jornada completa*. Aunque ofrecemos muchísima flexibilidad con los horarios ;)

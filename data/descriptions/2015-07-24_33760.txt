@@ -1,0 +1,41 @@
+
+MRM//McCann Spain busca un Programador Senior Full Stack con al menos 5 años de experiencia que maneje tecnologías Open Source y también .NET.  
+Además, sería interesante que tuviera conocimientos para personalizar gestores de contenido y el uso de herramientas en cloud (SaaS).
+Las tecnologías que debes dominar o aprender a corto/medio plazo son:
+Lenguajes de programación:
+.NET
+	HTML5, CSS3, Bootstrap
+	JavaScript, jQuery, AJAX
+	Java, J2EE, JPA, JSP, JSTL, JDBC
+	PHP, PHP Frameworks
+	SQL, PL/SQL
+Bases de datos
+MySQL, Oracle, SQL Server
+Web/app servers:
+Apache, Tomcat, IIS, Ngnix, HAProxy, Weblogic
+CMS: 
+Sitecore, Kentico, CQ5, OpenCms, Drupal 
+ETL:
+Pentaho
+Redes Sociales:
+API Facebook, Twitter, Instagram, ...
+Build atuomation:
+Maven, Ant, Gradle, Archiva
+Control de versiones:
+Git
+IDE:
+Netbeans, Eclipse
+Automated Tools
+Caspio, Traction (SaaS databases, automated form generation)
+	Selligent, Neolane (Email marketing tools)
+	Tableau (Dashboards)
+Varios
+	Amazon AWS (hosting with autoscalling, ELB, EC2, RDS, S3)
+	Linux (Bash scripting, cron, basic maintenance)
+	Analytic tagging (Omniture, Google analytics)
+	Woopra (track users’ activity)
+	Xeerpa (social network profiling)
+	SEO
+Idiomas:
+Inglés comptencia profesional básica
+Se ofrece contrato a jornada completa e incorporación inmediata.

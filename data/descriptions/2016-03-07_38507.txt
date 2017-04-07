@@ -1,0 +1,31 @@
+
+Perfil fullstack, web developer PHP/Symfony2 con capacidad para maquetar y para desarrollar / mantener integraciones vía API, XML, SOAP.
+TAREAS
+*Desarrollo y mantenimiento web (con diseño de plantilla propio y gestor de contenidos propio en symfony2), tanto programación como maquetación
+*Desarrollar y mantener APIs externas
+*Desarrollar y mantener herramientas de reporting en base a BBDD de MySql
+REQUISITOS
+Imprescindible
+- PHP (> 3 años experiencia)
+- Symfony2 (> 1 año experiencia)
+- JSON
+- XML
+- API REST
+- Entorno LAMP
+- HTML5
+- CSS3
+- Bootstrap
+- Javascript
+- jQuery
+
+Valorable
+- WordPress
+- Prestashop
+- AngularJS
+- SOAP 
+CONDICIONES
+*Contrato de 6 meses y posteriormente contrato indefinido
+*Salario bruto anual de 25.000eur a 30.000eur (en función del candidato) en 14 pagas
+*Jornada completa
+*Horario de 9h a 18h y 1 viernes al mes de 9h a 14h
+*Posición para la oficina de HOTELjuice by SERHS en Barcelona

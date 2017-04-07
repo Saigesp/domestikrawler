@@ -1,0 +1,7 @@
+
+- Encargado del desarrollo de la aplicación nativa para dispositivos iOS.
+- Experiencia previa en desarrollo de aplicaciones con iOS, incluyendo interfaz gráfica, notificaciones push y conexión con servicios web SOAP y REST.
+- Opcional (deseable) experiencia con pasarelas de pago móvil nativas.
+Condiciones:
+- Contrato indefinido 
+- 2-3% equity

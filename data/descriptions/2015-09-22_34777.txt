@@ -1,0 +1,9 @@
+
+Playmedic es una agencia de marketing digital formado por un equipo joven y creativo. Buscamos un desarrollador experto con manejo de Wordpress, Prestashop, Drupal y Magento, con experiencia en programación de módulos y que sea capaz de adaptar el diseño y la funcionalidad de plantillas web para distintos CMS. 
+Conocimientos en:
+- HTML/CSS, Bootstrap, PHP, Javascript, JQuery, ASP.net, XML, MySQL y Git.
+- Conocimientos de diseño gráfico y manejo del programa Adobe Photoshop.
+Es esencial:
+Ser una persona atenta, minuciosa en su trabajo, ser capaz de trabajar bien en equipo y responder a fechas de entregas. 
+Capacidad para trabajar en varios proyectos al mismo tiempo.
+Experiencia en sistemas de gestión de contenidos y comercio electrónico como Wordpress, Prestashop, Drupal y Magento, así como en la maquetación de plantillas.

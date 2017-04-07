@@ -1,0 +1,12 @@
+
+Diseñador online y offline en beca.
+- Beca de 6 meses + posibilidad de prorrogar 6 meses más
+- Media jornada o jornada completa, en función de la disponibilidad del candidato.
+- Beca remunerada con 600€ si es jornada completa y 300€ si es media jornada.
+
+Requisitos:
+- Dominio del paquete Adobe.
+- WordPress
+- Diseño y programación en html5 y css3.
+- Conocimientos de base de datos.
+- Valorable: Nivel alto de inglés

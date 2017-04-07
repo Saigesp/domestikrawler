@@ -1,0 +1,15 @@
+
+Perfil del Candidato:
+PHP Experiencia en Symfony 2 de al menos 2-3 años
+Experiencia en webservices y servicios RESTFul, OAuth.
+Entorno virtual con Vagrant, VirtualBox, etc. Linux.
+AWS
+MongoDB, MySQL.
+GIT.
+Metodologías ágiles.
+Se valorará conocimientos con PhalconPHP y NodeJS.
+Uso de ansible y aprovisionamiento. 
+¿QUÉ OFRECEMOS?
+Trabajamos en un entorno joven y distendido, con un alto nivel de profesionalidad, donde se fomenta la responsabilidad individual y el crecimiento personal y profesional.
+Utilizamos metodologías ágiles como Scrum y Kanban.
+Estamos en el centro de Madrid, en Argüelles. 

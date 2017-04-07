@@ -1,0 +1,6 @@
+
+Somos una pequeña editorial de revistas. Necesitamos un developer para el desarrollo de una aplicación para entorno iOS y Android. La app sería una app como la que tiene la revista ELLE, donde meter contenidos de manera semanal por categorías (moda, belleza, etc...). 
+Los candidatos deben entregarnos una lista de las aplicaciones que han desarrollado, con links en la App Store de Apple, Google Play o BlackBerry App World. 
+Después de probar la versión beta, el desarrollador debe saber en qué consiste el paso de meter la App para aprobación en las tiendas de apps. 
+El presupuesto será cerrado y será por proyecto (App) aprobado, finalizado y subido en las Stores funcionando sin problemas.
+

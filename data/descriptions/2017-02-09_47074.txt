@@ -1,0 +1,22 @@
+
+Agencia de Marketing Online ubicada en Barcelona en pleno crecimiento precisa incorporar a un Programador PHP + HTML + CSS + JQuery Front-end especializado en Wordpress para jornada completa.
+TAREAS A DESARROLLAR
+- Maquetación web con Wordpress y a medida
+- Desarrollo web front en Wordpress
+- Integración de API's de terceros.
+REQUISITOS MÍNIMOS
+- Ingeniero / Graduado en Informática
+- Experiencia mínima de 3 años
+- Wordpress: creación de themes desde cero y modificación de existentes
+- Backend: PHP5, Javascript, experiencia con la integración de API's.
+- Front-end: CSS3 y HTML5
+- JQuery
+IMPORTANTE
+- Presentar portfolio de trabajos realizados
+- Incorporación inmediata.
+CONDICIONES
+- Tipo de contrato: freelance presencial o contrato indefinido
+- Sueldo 24.000 € brutos/año
+- Jornada laboral: de 9.00 a 14.00 y de 15.00 a 18.00 (flexibilidad), viernes jornada intensiva
+- Ubicación: C/Bori i Fontesa 39 (encima de l'Illa Diagonal).
+

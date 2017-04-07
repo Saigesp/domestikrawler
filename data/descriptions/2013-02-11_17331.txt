@@ -1,0 +1,8 @@
+
+Se necesita programador Java / JEE para desarrollar aplicaciones front-end (web) para unirse al equipo de desarrollo e integración de un portal bancario basada en las últimas tecnologías Web 2.0., portales y movilidad.
+Las tecnologías a utilizar y conocimientos que debe poseer del candidato son: 
+- Lenguaje de programación Java (entornos MVC: Struts 2, Tiles, Spring o similares) 
+- JavaScript 
+- Librerías jQuery o similares 
+- HTML/CSS 
+

@@ -1,0 +1,14 @@
+
+Programador de Unity
+REQUISITOS:
+Amplios conocimientos de Unity
+Experiencia en desarrollo de lógicas de juego: actores, eventos, scripts, IA, pathfinding, …
+Experiencia en al menos 1 desarrollo completo y haber pasado por todas las etapas de desarrollo.
+Conocimientos de programación gráfica
+SE VALORARÁ:
+C#
+Experiencia en realidad virtual (VR)
+Experiencia en desarrollo de diversos géneros de juego
+Conocimientos avanzados en programación gráfica y shaders
+Experiencia en lenguajes como C y C++
+Experiencia en desarrollo para Android e iOS

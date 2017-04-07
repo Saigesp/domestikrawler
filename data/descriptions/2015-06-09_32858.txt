@@ -1,0 +1,7 @@
+
+Buscamos un programador-maquetador web que pueda darnos apoyo en un par de proyectos ya arrancados en los que necesitará aplicar las siguientes tecnologías.
+1. Desarrollo web en entorno LAMP/WAMP. Es importante estar familiarizado con el funcionamiento de los principales CMS (Wordpress, Joomla y Prestashop principalmente) 
+2. Desarrollo backend de proyectos web y de ecommerce. PHP+MySQL.
+3. Desarrollo frontend. Maquetación HTML+CSS+Javascript (JQuery) a partir de plantillas preexistentes o desarrollando desde cero basándose en los diseños entregados. Estar familiarizado con los compiladores/preprocesadores de CSS (LESS y SASS) será valorado muy positivamente 
+4. DWR. Es muy importante que domine el Diseño Web Responsive y que sea capaz de adaptar un diseño a todas las resoluciones de pantalla. 
+4. Integración con Paypal como plataforma de gestión de pagos. También se valorará positivamente la experiencia con TPVs de entidades bancarias (Redsys, Elavon...)

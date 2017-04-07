@@ -1,0 +1,13 @@
+
+Sunflower Graphics busca a un MODELADOR 3D para incorporarse a nuestro equipo en el desarrollo de un videojuego.
+Requisitos:
+-	Interpretacion de concept y realización de modelado 3d en low polys
+-	Despliegue de UVW
+-	Texturizado del personaje.
+Se valorará:
+-	Experiencia o conocimiento 3D Studio Max.
+-	Experiencia o conocimiento de Unity.
+-	Experiencia o conocimiento de modelado low poly.
+-	Experiencia o conocimiento de texturizado 3D.
+-	Experiencia en proyectos de animación o videojuegos.
+No se valorarán candidatos que no adjunten una web, blog o dossier con muestra de trabajos.

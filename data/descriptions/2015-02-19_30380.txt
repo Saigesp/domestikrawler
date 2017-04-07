@@ -1,0 +1,13 @@
+
+En fase de crecimiento, buscamos un Ingeniero informático para incorporarse al equipo de desarrollo de la plataforma web Tiendeo, para realizar tareas de programación de nuevas funcionalidades y mejoras de la web, web mobile, webservices y base de datos, así como desarrollo en un entorno .NET con sistema de subversion e integración continua.
+Si quieres a una startup en crecimiento, con un ambiente joven, dinámico e internacional, donde tu opinión cuenta, no dudes y aplica !
+Requisitos
+Ingeniero Técnico o Superior en Informática 
+Se valorará experiencia de 1/2 como programador .NET en una empresa tecnológica.
+Conocimiento avanzado en entorno de desarrollo .NET (C#, SQL Server)
+Conocimiento avanzado en javascript, ajax y jquery.
+Conocimiento en maquetación web (HTML5 y CSS3)
+Conocimiento en sistemas de testing de tipo Nunit, Selenium.
+Experiencia en sistemas de trabajo en equipo de tipo Git o Subversion
+Valoraremos conocimientos en SEO y usuabilidad.
+Persona responsable, exigente, metódica, proactiva y con ganas de trabajar en un ambiante de startup.

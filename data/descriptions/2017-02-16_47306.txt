@@ -1,0 +1,17 @@
+
+Estudio gráfico situado en Zaragoza busca un/a PROGRAMADOR/A DELPHI - C++. Desarrollará las siguientes:
+Tareas:
+Analista programador.
+Lenguajes: C++. Delphi. C/C#. SQL.
+BBDD: PostgreSQL. Microsoft SQL Server o similar.
+Plataforma .NET (ensamblados, metadatos, enlace con librerías nativas, carga dinámica de ensamblados, creación/invocación dinámica de objetos, etc.).
+Conexión a empresas (SVN) y conoxiones remotas a servidores (empresas,FTP, web, etc.).
+Plataforma cygwin, VisualSVN y tortoiseSVN.
+Buscamos:
+Muy buen manejo de programación orientada a objetos.
+Buen manejo de arquitecturas Cliente-Servidor.
+Conocimientos sobre multithreading y mecanismos de sincronización.
+Imprescindible :
+Experiencia mínima de 8 años.
+Inglés a nivel C1 o equivalente para consulta de documentación técnica.
+Se ofrece: contrato indefinido, estabilidad laboral, incorporación inmediata, salario negociable.

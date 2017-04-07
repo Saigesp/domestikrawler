@@ -1,0 +1,28 @@
+
+Responsibilities
+Your main role will evolve developing web applications and mobile applications, as well as beautiful user interfaces and web pages
+You will take a significant role in front-end development
+You will be responsible for the maintenance of current projects and the creation of new ones.
+You will help the team to continuously improve the development process and to report progress and status to the stakeholders
+Technical Skills
+Experience with CSS and CSS preprocessors
+Proven track record working with JavaScript, beyond the use of frameworks or libraries
+Be up to date in FE development best practices
+Knowledge of Node.js and it¿s essential tools (grunt/gulp, bower¿)
+Basic management of design tools (Photoshop, Sketch¿)
+Basic design and usability knowledge
+Able to manage Git
+Experience developing with MV* Frameworks on JavaScript (AngularJS/Ember/Backbone¿)
+Understanding of CSS handicaps and able to apply best practices to make it sustainable
+Be up to date in design trends (material design¿)
+
+
+Soft skills
+Able to teach, learn and research
+Out of the box thinking
+A fun person to be around and all-around nice person
+Planning and Organizing skills
+A team player able to work with autonomy
+Creative thinking
+Curiosity and desire to learn about the wide range of topics around FE Development
+ 

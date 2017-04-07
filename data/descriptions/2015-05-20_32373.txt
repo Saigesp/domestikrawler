@@ -1,0 +1,19 @@
+
+En AKTIOS IT GLOBAL SERVICES estamos reclutando a un Backend Developer Senior . NET para posición estable ubicada en Barcelona.
+AKTIOS CONSULTORA IT de Barcelona, actualmente requiere un perfil PROGRAMADOR BACKEND SENIOR .NET. Por nuestra parte, explicarte que somos una Consultora IT Global que trabaja con diferentes empresas multinacionales y sectores. 
+El Programador Backend Senior .NET podrá desarrollar diferentes proyectos dentro de la programación web /escritorio. 
+Descripción:
+Un Programador Backend .NET debe aportar capacidad de desarrollo, realización de test unitarios, adaptación a las metodologías de desarrollo y trabajo en equipo. Además, es importante la capacidad para realizar diseños técnicos, para poder ir creciendo profesionalmente asumiendo nuevas responsabilidades. Además, debe ser capaz de definir test de integración y debe iniciarse en la gestión de pequeño equipo de trabajo.
+La persona seleccionada participará en proyectos muy interesantes dentro de la compañía, con oportunidades reales de crecimiento profesional, con un ambiente excepcional y con tecnologías avanzadas. Puedes aportarnos tu CV actualizado al correo xenia.armengod@aktios.com.
+REQUISITOS MÍNIMOS:
+Necesitamos Programadores Senior con experiencia de 4 años en:
+Productos y tecnologías: Windows Server, SQL Server, .NET Framework 4.0, ASP.NET 4.0, ASP.NET MVC 3, WebApi, Entity Framework.
+Lenguajes de programación: C#, SQL, javascript. 
+Técnicas y prácticas: TDD, BDD, DDD, design patterns, SCRUM, Coded UI Tests.
+Ingeniería Técnica Informática o similar.
+Ofrecemos:
+- Contrato indefinido.
+- Incorporación inmediata a compañía con importantes oportunidades de crecimiento y desarrollo profesional.
+- Formación especializada.
+- Retribuciones competitivas.
+Si eres una persona entusiasmada por las tendencias tecnológicas, comunicativa, con capacidad de análisis y gestión eficaz del tiempo, resolución de problemas técnicos/humanos complejos, iniciativa, organización, coordinación y que sepa trabajar en equipo, eres el candidato/a que estamos buscando. 

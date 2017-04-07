@@ -1,0 +1,14 @@
+
+REQUISITOS: 
+Programación PHP y JavaScript 
+Base de datos (MySQL, ...) 
+Conocimientos wordpress y prestashop
+SE VALORARÁ: 
+Experiencia con algún framework MVC (Symphony, Laravel, CodeIgniter, ...) 
+Uso de librerías y frameworks Javascript/CSS (JQuery, Bootstrap, ...) 
+Uso de sistema de control de versiones 
+SE OFRECE: 
+Trabajo estable en el noroeste de Madrid 
+Jornada laboral de lunes a jueves de 9:30 a 18.00 y viernes 9:30 a 15:00 
+Jornada intensiva en verano 
+Muy buen ambiente de trabajo en un entorno diferente y relajado

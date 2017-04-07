@@ -1,0 +1,18 @@
+
+Empresa del ramo de la estética necesita diseñador para mantenimiento y creación de sus sitios web. Autónomo y con residencia en la Comunidad de Madrid.
+Requisitos:
+1. Funciones: Mantenimiento, diseño y programación de sitios web y landing pages.
+3. Requisitos Básicos:
+- XHTML/CSS
+- Diseño Web orientado a la Usabilidad
+- Familiarizado con jQuery
+- Manejo de Photoshop y maquetación web.
+- Compatibilidad con distintos navegadores
+- Conocimientos de SEO
+- Usabilidad Web
+- HTML5/CSS3
+- Edición de plantillas de WordPress
+- Maquetación para dispositivos móviles
+- Javascript/AJAX
+- Manejo de las API más comunes: Google, Twitter, Facebook...
+

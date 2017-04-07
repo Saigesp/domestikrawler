@@ -1,0 +1,4 @@
+
+Jung von Matt is looking for a Web Developer to work in Hamburg.
+The ideal JvM Web Developer is capable of doing a lot. He/she is right at home in the world of web programming languages (HTML, CSS, PERL, PHP, ASP, JSP, ActionScript) and is a master when it comes to developing and linking databases (SQL). Prerequisites include knowledge in debugging programs, optimising browsers and search engines, establishing network and data security and handling cryptography. He/she is familiar with authoring tools and the basics of networking and operating systems (Linux, Mac OS, MS Windows). Other requirements include experience in analysing log data and compiling results. In other words, this person is responsible for mastering complex web projects for our online creative team.
+

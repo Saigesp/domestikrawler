@@ -1,0 +1,19 @@
+
+Perfil
+- Licenciado o estudiante de último año en Ingeniería informática o carrera técnica similar
+- Experiencia de programación en proyectos sobre WordPress (mínimo 3 años)
+- Conocimientos de HTML, PHP, CSS y Java Script
+- Interés en nuevas tecnologías, tendencias y dispositivos 
+Descripción del Puesto
+- Escribir código PHP limpio y bien estructurado para WordPress:
+* Conocimiento de las funcionalidades base de WordPress
+* Creación y adaptación de Widgets y Plugins
+* Integración y desarrollo sobre de Themes y Templates
+- Documentación del código y procesos realizados
+- Revisar y mejorar CSS
+- Desarrollar e implementar jQuery y Java Scripts
+- Atender y resolver incidencias técnicas de programación
+- Comprensión de los objetivos y estrategia digital de Sapos y Princesas
+- Comunicación regular y eficiente con equipo de diseño, redes sociales, estrategia y dirección
+- Identificar oportunidades de mejora y realizar propuestas de cambio
+

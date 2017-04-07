@@ -1,0 +1,9 @@
+
+Crear/Mejorar la App SECURYKID, una pulsera que incorpora Bluetooth 4.0.
+La app tiene que recoger la información que el chip almacena, mostrarla en la App y configurar 3 alarmas:
+    a) Temperatura ambiente: 
+    b) Intensidad de señal (que traducimos en una alarma de distancia según una librería que ya tenemos configurada por ingenieros expertos en Bluetooth).
+    c) Acelerómetro para "alarma de caída".
+Además lleva una pequeña memoria. Desde la App mostrará una media semanal del movimiento realizado.
+Es clave una arquitectura de uso sencilla, esquemática y simple (nada rebuscada o complicada) porque se trata de una App de uso funcional (no de entretenimiento, diversión o de ocio).
+Es preferible que la Agencia o freelance resida en Madrid.

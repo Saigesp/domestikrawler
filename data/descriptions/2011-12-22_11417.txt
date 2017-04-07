@@ -1,0 +1,33 @@
+
+Gameloft Ibérica busca a personas interesadas en unirse a nuestro equipo de Arte 3D (para puestos senior) en el estudio de Barcelona.
+Nuestro departamento de I+D 3D busca a artistas con talento que puedan contribuir a nuestro desafío de aprovechar al máximo el rendimiento gráfico excepcional y la capacidad de procesamiento de las nuevas plataformas portátiles.
+La línea que hasta ahora diferenciaba el rendimiento y calidad entre las consolas y los dispositivos portátiles se ha vuelto invisible gracias a las nuevas generaciones de smartphones, teléfonos táctiles y consolas portátiles que han salido al mercado a lo largo de 2011. 
+El hardware de los smartphones y las consolas ha avanzado de manera muy significativa y continúa evolucionando de forma exponencial. Gameloft ocupa un lugar ideal para aprovechar al máximo estas nuevas oportunidades en nuestro intento de igualar las expectativas de calidad de los juegos para dispositivos portátiles a las de los juegos de consola.
+Naturalmente, las facilidades tecnológicas de Gameloft, el flujo de trabajo y los perfiles de los equipos aumentan constantemente para dar cabida a una gama más amplia y flexible de perfiles de artistas y especializaciones. 
+El puesto presentado a continuación puede interesarte si dominas el modelado 3D en alta o baja resolución poligonal.
+¡Esperamos tener noticias tuyas!
+Trabajo y responsabilidades:
+Modelado de personajes 3D, atrezzo de personajes, vehículos y armas en alta y baja resolución poligonal, en función del perfil del proyecto. 
+Creación de texturas para personajes modelados usando diffuse, UV maps y normal mapping.
+Comprensión y seguimiento de la identidad del proyecto, así como de las técnicas marcadas por las direcciones técnica y artística.
+Implementación tanto para el juego como para las secuencias cinemáticas de modelos de personaje usando sombreado y soluciones comerciales o personalizadas de iluminación en tiempo real.
+Coordinación con el equipo de animación para asegurar una topología preparada-para-animar de los modelos en el juego. 
+Crear recursos para la dirección de arte y los prototipos de jugabilidad.
+Participación directa en el proceso de diseño de personajes junto con el concepto de arte, la animación y los equipos de diseño de juego para garantizar la optimización del uso de la poligonización, el sombreado y las texturas. 
+La especialización en el estilo (realista, de dibujos animados), la puesta en escena (moderna, dark-fantasy, ciencia ficción, cute…), la técnica de modelado (baja y alta resolución poligonal, Zbrush) y el contenido (accesorios, vehículos, modelado de personajes) será decidida tras la contratación, en función del perfil del candidato, su experiencia y los proyectos disponibles en Gameloft.
+Requisitos:
+•	Imprescindible experiencia en el manejo de 3d Studio Max y PhotoShop.
+•	Grandes conocimientos de anatomía.
+•	Habilidad para optimizar topologías en baja resolución poligonal o baja-media resolución poligonal teniendo en cuenta los requisitos artísticos y técnicos.
+•	Flexibilidad para adaptarse a diferentes estilos gráficos.
+•	Conocimiento de videojuegos y principios artísticos generales para personajes.
+•	Imprescindible ser residente o con disponibilidad para residir en: Barcelona
+Se valorará positivamente:
+•	Habilidad para modelar/esculpir en alta resolución poligonal.
+•	Experiencia previa en modelado de personajes en desarrollo de videojuegos o animación.
+•	Experiencia en cualquier otra experiencia relacionada con creación de personajes: animación, ilustración…
+•	Conocimiento general y experiencia con programas 3D
+Beneficios:
+- Oportunidad de trabajar y aprender en un entorno profesional, con personas apasionadas por la creación de videojuegos.
+- Ambiente de trabajo abierto, con un personal joven y dinámico.
+- Contrato indefinido, jornada completa y plan de carrera personalizado. 

@@ -1,0 +1,26 @@
+
+GeoCento is looking for an experienced software engineer able to work on both back and front ends of complex web applications. 
+The job is based in Madrid, Spain with some teleworking possible. Geocento was established three years ago with the goal of “making earth images accessible”, and is aimed at improving the experience for the wide range of users who make use of imagery in their businesses and operations, based on innovative web technologies and strong market development (www.geocento.com).
+We are a small, committed team with offices in Harwell, UK and Madrid, Spain, with ambitious goals
+for the company and we are looking for enthusiastic and energetic individuals who can help ensure,
+and share in, our success.
+Skills:
+Proven experience required in:
+● Knowledge of the Google Web Toolkit framework and the basic web technologies and standards at
+large (HTML, JS, AJAX)
+● Relational databases
+● Java, JPA and servlet containers
+● Standard software engineering good practices and techniques, including (agile) software
+development processes and tools
+● A taste for building complex mashups, in particular involving map technology (Google Maps,
+OpenLayers, etc...)
+● Enthusiastic manner and good team worker
+● Good English and communication skills (oral and written)
+Desired:
+● Experienced in Open Source GIS technology such as MapServer, GeoServer, Postgresql+postgis
+● Knowledge of other enabling solutions such as Lucene, NLP toolkits and any other relevant
+technology
+● Geospatial background, including one or both of GIS and earth observation.
+We offer a competitive and flexible remuneration package for an initial one year position that we
+expect to become permanent, with the potential for long term benefits that early involvement in a
+growing company can bring.

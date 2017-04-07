@@ -1,0 +1,4 @@
+
+Buscamos diseñador experto en patrones de diseño para móviles. La idea es que a partir de un prototipo funcional que aportamos nosotros cree los diseños de la aplicación a desarrollar para iOS y Android, teniendo en cuenta también el modo de funcionamiento en tablets con dichos sistemas.
+Imprescindible aportar portfolio con distintas aplicaciones nativas para que evaluemos si se ajusta al perfil del trabajo que queremos desarrollar.
+Se trata de una colaboración puntual pero que puede prolongarse en el tiempo ya que la aplicación que estamos desarrollando se podrá personalizar por cada cliente.

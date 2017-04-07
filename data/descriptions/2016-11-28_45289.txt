@@ -1,0 +1,5 @@
+
+En Totemcat buscamos un programador freelance con conocimientos de programación en nativo para iOS (concretamente en Objetive-C) que nos ayude de forma puntual en el desarrollo de un proyecto de app basado en dicha plataforma.
+Ofrecemos la posibilidad de trabajar en remoto, manteniendo esporádicamente reuniones de enfoque y seguimiento.
+Acerca de nuestra empresa: 
+Totemcat es un estudio de desarrollo de software especializado en el desarrollo de aplicaciones interactivas, entornos virtuales 3D y creación de apps para dispositivos móviles. Gracias a los perfiles multidisciplinares que componen nuestra plantilla, Totemcat es capaz de desarrollar aplicaciones de alta complejidad tecnológica de una manera eficiente y racional para cualquier plataforma, poniendo especial atención en el acabado gráfico y la experiencia de usuario, aspectos fundamentales en la creación de una aplicación. Nuestros servicios abarcan tanto el desarrollo de software como la creación de recursos gráficos, estando particularmente especializados en la creación de recursos 3D para videojuegos y entornos de simulación.

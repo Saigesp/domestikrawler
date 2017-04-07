@@ -1,0 +1,17 @@
+
+At BMAT we love music and technology! We analyze, index, and recognize all the music in the world to provide search, recommendation and monitoring solutions to the music industry. BMAT is a rapidly growing and passionate company, with a creative, multicultural and dynamic team which operates globally, working with more than 50 customers worldwide. Our clients include companies like Yamaha, EMI, Sony, Samsung, and Singtel.
+Job Summary
+You will contribute to the development and maintenance of a distributed platform that monitors the music in more than 2,500 channels across the world. 
+Essential Duties & Responsibilities
+•	Design and implementation of new features, bug fixing
+•	Platform maintenance: when an angry sysadmin tells you off because a process is overloading a machine or causing network congestion, you will remain unfazed and fix the problem quickly
+•	Communication with other departments: explain technical ideas to non technical people, translate customer needs into requirements
+Some technical details for the curious
+•	All our platform runs on Linux, with a few machines on Amazon EC2
+•	Our server-side code is written in Python, with a little bit of C here and there
+•	We use MySQL as a database
+•	Our source code is managed with git
+•	BMAT's lingua franca is Spanish / Catalan, so fluency in those languages would be a plus
+If you are familiar with those technologies, great! However, they are not mandatory.
+If you are enthusiastic and think you can help us make Vericast a better software, you are very much welcomed to apply!
+

@@ -1,0 +1,18 @@
+
+Our client is an important Online Travel Agency and for its quarter in Madrid it's searching for a Software Architect.
+Requirements
+- Bachelors in Computer Science/Engineering is preferred
+- Proactive person, always trying to improve skills
+- Enthusiastic desire to stay on top of changing internet, J2EE/Java trends
+- Extensive experience and knowledge in Design Patterns, Solid Principles and OOP
+- Demonstrable experience in Spring Framework (2.5.x or 3.x)
+- Experience on persistence layer and ORM ( JPA, Hibernate)
+- Minimum 2 years experience in a MVC framework ( Struts, JSF, Spring MVC) 
+Responsabilities:
+- Collaborate in a specific Team guided by an experienced Scrum Master, and Product Owner
+- Participate in the analysis, development and maintenance of enterprise-level J2EE applications.
+- Contributing to the planning and analyzing of high-level software strategies and solutions through  functional and technical expertise
+- Designing and implementing analyses that will identify requirements related to people, processes and technology
+- Designing, coding and testing program modules that meet design specifications
+- Being involved on the agile methodology created internaly based on SCRUM and KANBAN 
+

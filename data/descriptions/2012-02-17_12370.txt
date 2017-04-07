@@ -1,0 +1,28 @@
+
+Job Description &amp; Environment: 
+As a member of our engineering team, assist in the full cycle development of video games for smartphones, mobile phones or on-line games from start to finish. 
+Daily responsibilities include overseeing development and code debugging, and integrating graphics, sound and network components.
+Minimum requirements:
+-	Degree in Computer Science or Computer Engineering, or equivalent professional experience.
+-	3 years of professional programming experience for Senior positions (strong knowledge of J2ME/C/C++)
+-	Motivated, ambitious, able to work independently or as part of a team
+-	Good written and verbal communication skills
+-	Personal interest in video games and a solid understanding of its culture
+-	Fluent English 
+Assets:
+-	Strong knowledge of video games.
+-	Knowledge of Java internals
+-	J2ME, BREW experience
+-	Previous experience in FLASH
+Benefits:
+-	Opportunity to work in a newly created studio and learn in a professional environment with people who have a passion for creating video games;
+-	Open working climate with young, dynamic teams from around the world;
+-	Salary based upon experience and merit;
+-	Promotion possibilities: Senior Programmer, Senior Programmer 
+-	Permanent contract, full-time job and additional merit pay system;
+-	We are offering relocation support for candidates willing to move to Madrid.
+About Gameloft Madrid:
+-	The Madrid studio is being opened to create ambitious and cool video games of any genre on iPhone/iPad and mobile phones. Those games will be distributed in more than 150 countries.
+-	To join us in this adventure, we are looking for talented and motivated people willing to participate to the creation of tomorrow’s successes! 
+-	Over 50 Gameloft titles in catalogue have already sold over one million copies.
+Interested applicants should send their CV (and samples or demo reel) to recruitment.madrid@gameloft.com. Reference: “2D PROG”

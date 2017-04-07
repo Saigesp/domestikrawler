@@ -1,0 +1,6 @@
+
+Buscamos 1 programador/a con experiencia demostrable en programación HTML5, especialmente con experiencia en programación Canvas.
+Tenemos varias herramientas interactivas en Actionscript 2 (principalmente son simulaciones interactivas en 2D, ejercicios de seleccionar respuestas, cálculos con variables, etc) y estaríamos interesados en migrarlas a HTML5 
+Canvas.
+El trabajo principal por tanto es trasladar esas herramientas ya creadas en AS2 a lenguaje HTML5 Canvas.
+El trabajo se puede realizar completamente a distancia con comunicación a través de Skype o similares. 

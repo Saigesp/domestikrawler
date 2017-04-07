@@ -1,0 +1,20 @@
+
+En Linka, agencia interactiva situada en el centro de Barcelona, buscamos incorporar a un programador PHP.
+Las tareas a realizar son: 
+- Desarrollo de proyectos web con alto contenido frontend.
+- Participación en el análisis y definición de proyectos. 
+Buscamos alguien senior con demostrable experiencia en: 
+- Desarrollo en Frameworks PHP como Zend, Symphony o codeigniter.
+- Javascript y Jquery
+- Maquetación Responsive (Front-End Development)
+- Experiencia con sites grandes que requieran alto performance
+- Conocimiento de metodologías ágiles de trabajo como SCRUM o Kanban
+- Que use GIT
+Se valorará positivamente otros conocimientos complementarios como:
+- Knockout JS o Backbone.JS
+- Node.JS
+- Twitter Bootstrap
+- TDD
+- Experiencia en algún CMS (Wordpress, Drupal, Joomla, etc) o Herramienta e-Commerce (Magento, Prestashop)
+Ofrecemos contrato indefinido con retribución a definir en función del nivel del candidato.
+

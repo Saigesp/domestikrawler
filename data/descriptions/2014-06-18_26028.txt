@@ -1,0 +1,24 @@
+
+UNIR, Universidad Internacional de La Rioja, compañía líder en educación e-learning, selecciona un Analista Programador con una experiencia mínima de 3 años en MVC y Entity Framework .
+*Funciones:
+- Toma de requisitos y especificaciones técnicas.
+- Diseño de flujos funcionales 
+- Desarrollar código de back-end (principalmente utilizando MS Visual Studio en. NETC #) 
+- Desarrollo de aplicaciones web en ASP.NET MVC
+- Diseño y extensión de arquitectura DDD
+- Generación de pruebas unitarias 
+*Capacitación técnica:
+- Herramientas de modelado UML 
+- . NET Framework 4.5 (C#)
+- Entity Framework 5/6
+- ASP.NET MVC 4
+- Visual Studio 2010 o 2012
+- Web Services y Service Oriented Architecture (SOA)
+- SQL SERVER 2008 (superiores)
+
+*Requisitos mínimos:
+- Ingeniero en informática.
+- Experiencia mínima de 3 años en MVC y Entity Framework.
+*Requisitos deseados:
+-Conocimientos Office 365
+-Certificaciones Microsoft

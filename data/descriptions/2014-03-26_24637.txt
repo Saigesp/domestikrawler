@@ -1,0 +1,9 @@
+
+Estamos buscando un Diseñador Web que realice el rediseño de mochilas-portabebes.es
+El diseño actual es una plantilla responsive, a la que se incorporó un logo. El objetivo del rediseño es crear una mejor imagen de marca, darle personalidad a la página, mejorar la versión móvil e incorporar algunos elementos que ahora echamos de menos.
+No hay ninguna restricción en cuanto al nuevo diseño. Se puede cambiar el logo, los colores, la tipografía, la estructura, etc.
+Sólo necesitamos el diseño, pero si nos lo das en HTML mejor. Valoraremos que hayas hecho algo interesante, mejor si ha sido con e-commerce, y todavía mejor si tienes conocimientos de diseño de interfaz y usabilidad.
+Además de las páginas existentes necesitamos el diseño de:
+- Correos y Newsletter
+- Banners
+- Iconos de redes sociales, iconos de producto (accesorios que incorporan las mochilas, si permite porteo a la cadera, rango de edad, tejido...)

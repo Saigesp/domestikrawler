@@ -1,0 +1,28 @@
+
+¿Eres un auténtico CSS Master? 
+Somos Netropy, un estudio digital especializado en apoyo tecnológico a startups. 
+Tanto si eres freelance como si no, queremos saber de ti: Tenemos trabajos esperando y propuestas interesantes que hacerte.
+Esto es lo que estamos buscando
+Imprescindible que conozcas a fondo:
+
+CSS3 / HTML5
+
+Código HTML semántico
+
+Responsive design: Fluid layouts, Media Querys
+
+Crossbrowsing
+
+
+Que no te suene a chino:
+
+Preprocesadores CSS: Sass, Less, etc.
+
+Frameworks: Foundation, Twitter Bootstrap, etc.
+
+Twig
+
+Javascript
+
+
+Si cumples estos requisitos, mándanos tus trabajos a jobs@netropy.es

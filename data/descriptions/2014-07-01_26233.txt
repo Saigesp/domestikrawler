@@ -1,0 +1,17 @@
+
+Estamos buscando un Desarrollador PHP que bajo las directrices del creador nuestro Plataforma Ecommerce Simfony2  implemente, modifique o cambie nuestras aplicaciones web. 
+Buscamos a alguien con ideas que se implique en un proyecto que crece cada vez más. 
+Se trata de una empresa joven y muy dinámica, de gran proyección a corto plazo en diferentes sectores en el entorno Ecommerce. Actualmente gestionamos varios portales ecommerce. Tenemos buen ambiente de trabajo y disfrutamos haciendo grandes cosas
+Funciones:
+- Adaptaciones y cambios de la plataforma según necesidades de negocio
+- Revisar los requisitos del negocio, trabajando con otros miembros del equipo. 
+- Realizar un análisis técnico de los requisitos.  
+- Escritura limpia, modular, mediante código robusto para implementar los requerimientos deseados con poca o ninguna supervisión. 
+- Aportar ideas para hacer mejor las cosas
+Habilidades/requisitos deseados:
+- Que disfrute de su trabajo
+- Ganas e Ilusión
+- Lenguajes de Programación: PHP 
+- Habilidades adicionales: HTML, CSS, JavaScript Simfony2 
+- Estilo de trabajo detallista.
+- 1-3 años de experiencia en programación. 

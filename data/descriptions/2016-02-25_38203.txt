@@ -1,0 +1,13 @@
+
+Estamos buscando un programador PHP con experiencia Prestashop y Wordpress para incorporarse de forma inmediata a nuestra oficina de Barcelona.
+Buscamos una persona comprometida, activa y con muchas ganas de evolucionar y de demostrar sus capacidades en eCommerce y desarrollo web.
+Responsabilidades: 
+- Desarrollar proyectos de eCommerce. 
+- Desarrollar proyectos en Wordpress. 
+- Diseñar y programar extensiones Prestashop y Wordpress. 
+- Desarrollar aplicaciones web en PHP haciendo uso de frameworks.
+Formación y Experiencia: 
+- Formación académica especializada en desarrollo de aplicaciones web. 
+- Experiencia profesional en programación en PHP. 
+- Experiencia en Maquetación/Integración en Magento y Prestashop. 
+

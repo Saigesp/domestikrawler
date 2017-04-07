@@ -1,0 +1,17 @@
+
+Buscamos gente resolutiva que comparta nuestra visión de empresa, nuestro compromiso con los clientes, nuestra forma de entender el trabajo y que sean capaces no sólo de trabajar en proyectos web de manera integral, sino de aportar ideas, conceptos y enriquecer con sus propuestas a todo el equipo.
+REQUISITOS:
+• Amplia experiencia en Prestashop:
+- Conocimiento profundo del motor de Prestashop y su código a bajo nivel.
+- Programación adhoc de módulos propios, modificación de módulos existentes.
+- Parametrización de productos, configuración de funcionalidades de tienda, sistema, addons, etc.
+• Experto programador en lenguaje PHP.
+VALORAMOS:
+• Frameworks PHP (Laravel, Symfony, Zend).
+• Amplia experiencia en BBDD mySQL y su acceso desde PHP.
+• Amplia experiencia en desarrollo HTML5, CSS, Javascript.
+• Experiencia demostrable en el uso de Frameworks Javascript como Bootstrap, Angularjs, etc.
+OFRECEMOS:
+• Posibilidad de negociar otros tipos de contratos. 
+• Incorporación inmediata. 
+• Entorno laboral agradable.

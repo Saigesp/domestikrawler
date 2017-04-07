@@ -1,0 +1,12 @@
+
+1 perfil desarrollador web con experiencia y con ganas de integrarse en equipo de desarrollo digital para trabajar en proyectos innovadores y cuentas importantes, dentro de una agencia muy creativa y con muy buen rollo.
+IMPRESCINDIBLE:
+- Framework php (cake)
+- HTML5 & CSS3 & Less & Responsive & Jquery
+- Git o algún otro control de versiones
+- Wordpress
+- Desarrollo de plantillas de Emails
+SE VALORARÁ:
+Linux, Nodejs, Angular
+Contrato: jornada completa (9 a 18h)
+Envíanos un mail a alaparato@srburns.es

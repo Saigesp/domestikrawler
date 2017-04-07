@@ -1,0 +1,28 @@
+
+Flexiant es una compañía de cloud pionera en europa y estamos en proceso de rápida expansión, atendiendo a nuevos clientes y desarrollando nuevas y emocionantes soluciones software. Desarrollamos software de orquestación cloud para empresas de hosting, centros de datos y proveedores de telecomunicaciones.
+Estamos empezando un nuevo y excitante proyecto en Flexiant y buscamos a un desarrollador/a frontend expert@ en HTML5 y CSS3 para unirse a nuestro equipo en nuestra Oficina Española en Sevilla.
+El puesto:
+Como Desarrollador/a frontend, usarás metodologías Agile para escribir código frontend de alta calidad para una plataforma cloud innovadora. En este puesto no faltarán los desafíos, pues cada día deberás ayudar a un equipo de personas con talento, pequeño pero dinámico, a liderar la innovación en la nube.
+Lo que ofrecemos:
+- Proporcionamos un salario competitivo complementado por beneficios tales como seguro médico privado, suscripción a un gimnasio y stock options.
+- Las condiciones de trabajo incluyen horarios de trabajo flexibles, refrescos en la oficina y trabajar desde un iMac.
+Esperamos ofrecer un salario comprendido entre los 15.000€ y los 20.000€, aunque podríamos subir la cantidad para candidatos excepcionales.
+Experiencia y habilidades deseadas:
+Un buen candidato/a debería ser autónomo/a, aprender rápido y tener una actitud proactiva ante la resolución de problemas.
+También debería tener:
+· Expert@ en HTML5, CSS3.
+· Conocimientos de programación orientada a objetos. 
+· Titulación universitaria en Informática.
+· Nivel medio/alto de inglés técnico.
+El candidato/a ideal también tendría:
+· Al menos tres años de experiencia en el desarrollo de aplicaciones web.
+· Experiencia con JavaScript y jQuery.
+· Experiencia con AngularJS u otros frameworks similares.
+· Experiencia con GWT.
+· Experiencia con Fundation/Bootsrap.
+· Experiencia con GIT u otro sistema de control de versiones
+Además, nos gustaría saber si tienes alguna de las siguientes:
+· Experiencia con SASS.
+· Experiencia con HAML.
+· Experiencia con CoffeeScript.
+Sabemos que nadie tendrá todas las habilidades citadas, así que no te preocupes si no las puedes marcar todas. Principalmente lo que necesitamos es que seas capaz de lidiar con cualquier cosa que te pongamos por delante, que trabajes autónomamente y que produzcas código fiable a ser posible un poco antes de que nosotros siquiera pensemos en sugerirte empezar a escribirlo.

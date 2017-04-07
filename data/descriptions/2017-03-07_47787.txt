@@ -1,0 +1,19 @@
+
+En Veintidós Grados buscamos un programador front-end, perfeccionista, creativo, con buen ojo para interpretar el diseño y que se preocupe tanto del acabado final de una web como de la calidad de su código. Queremos a alguien que sepa hacer de una web algo único mediante sus animaciones y transiciones.
+Nos da igual que sepas Angular, React o cualquier otro framework de los que salen cada año, para nosotros lo importante es que conozcas cómo optimizar el rendimiento de una web, que te sientas cómodo en todas las pestañas de las Chrome Dev Tools, que entiendas el código de las librerías WebGL más habituales y no pienses que las cosas se hacen por arte de magia, pero sobre todo que tengas ambición por hacer cosas diferentes.
+Imprescindible:
+- Hábil en el aprendizaje. 
+- Javascript a muy buen nivel. 
+- CSS/SASS, HTML. 
+- GIT. 
+- Portfolio. 
+- Github o proyectos reales con ejemplos de código. 
+- Una mínima base de matemáticas, álgebra y cálculo. 
+Estaría bastante bien si además:
+- Supieras GLSL y tuvieras experiencia con Threejs y Pixi. 
+- Hayas programado alguna vez desde cero un motor físico con partículas, colisiones, etc. 
+- Tengas experiencia haciendo juegos de navegador.
+Qué ofrecemos:
+- Proyectos en los que podrás dejar volar tu imaginación. 
+- Flexibilidad a la hora de trabajar siempre que se cumplan los plazos. 
+

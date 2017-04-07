@@ -1,0 +1,9 @@
+
+Estamos buscando un perfil de desarrollador web PHP, MySQL, jQuery con capacidad resolutiva, acostumbrado a trabajar en equipo de forma coordinada con los compañeros.
+Al tanto de las últimas tecnologías e innovaciones en el ámbito web.
+Requisitos
+- Experiencia en desarrollo para CMS, fundamentalmente Joomla y Wordpress.
+- Familiarizado con entornos LAMP.
+Valorable
+- Desarrollo aplicaciones móviles, HTML5, CSS3
+

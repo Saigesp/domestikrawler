@@ -1,0 +1,7 @@
+
+Buscamos un maquetador web freelance con experiencia para maquetación de los proyectos que desarrollamos en CMS Drupal. (Diseños propios o adaptación de plantillas)
+Conocimientos:
+- HTML 
+- CSS 
+- Javascript
+Se valorarán conocimientos de CMS Drupal, programación backend (php) y conocimientos de maquetación para multidispositivos, smartphones, tablets.

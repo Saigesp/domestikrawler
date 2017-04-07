@@ -1,0 +1,22 @@
+
+//Acerca de nosotros
+Somos una empresa ubicada en Madrid especializada en desarrollo de aplicaciones B2C y B2B, principalmente e-commerce y aplicaciones de gestión. 
+//Qué buscamos
+Un perfil de maquetador/a web con conocimientos y experiencia en maquetación web responsive
+//Qué ofrecemos
+Incoporación en un equipo joven, contrato indefinido y salario en función de valía del candidato
+//Funciones:
+Reportando a un Analista Funcional de UX y siguiendo la metodología de VSF, se encargará, bajo su dirección, de realizar tareas relacionadas con la maquetación de interfaces para web y móviles (responsive) a partir del trabajo realizado por los diseñadores, más concretamente:
+-Maquetación HTML5 y CSS3 Responsive  y JavaScript
+-Maquetación e integración de temas responsive para aplicaciones a medida (B2B y B2C) y proyectos WordPress
+-Validación de HTML y CSS conforme a los estándares del w3c y de VSF
+-Verificación de compatibilidad entre versiones de navegadores y dispositivos
+//Requisitos mínimos:
+-Experiencia en puesto similar: 2 años
+-Nivel de estudios: Grado medio / Titulado medio
+-Conocimiento demostrable en maquetación:
+        HTML5 y CSS3 Responsive
+        Conocimientos de JavaScript / jQuery
+        Conocimientos avanzados de BootStrap (o similar)
+        Creación de plantillas / temas en WordPress
+

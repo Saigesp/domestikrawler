@@ -1,0 +1,32 @@
+
+Puesto:
+Programador website
+Departamento:
+Departamento de Informática y Marketing
+Empleados al cargo:
+0
+Salario:
+Según expectativa
+Ubicación:
+Barcelona
+Contrato:
+Inicialmente 3 meses, después 9 y posteriormente indefinido (contrato por cuenta ajena a jornada completa)
+Sistuación
+Somos una empresa mediana que actualmente se encuentra en fase de expansión a nuevos mercados y líneas de negocio. Por esta expansión y por una vacante en el departamento, se requieren nuevos miembros para el Departamento de Informática. 
+Descripción
+Se trata de un trabajo realizado desde la oficina donde el programador atenderá a los proyectos que le vengan dados desde el departamento de Marketing en relación a website, gestión de bases de datos y otras labores de programación.
+Conocimientos técnicos
+•	PHP.
+•	SQL.
+•	Conocimiento de otros lenguajes (html5, css3, etc)
+Capacidades
+•	Persona proactiva capaz de diseñar aplicaciones website.
+•	Programar de manera estructurada y documentada.
+Tareas que deberá realizar
+•	Desarrollar extensiones de funcionalidad para WordPress.
+•	Desarrollar aplicaciones de gestión de datos en PHP y SQL, en función de las necesidades de los departamentos de la empresa.
+•	Integrar las diferentes aplicaciones y sistemas de la empresa para poder intercolaborar entre sí.
+Otros aspectos puntuables
+-	Conocimientos y/o experiencia en SEO.
+-	Experiencia previa como responsable website.
+-	Conocimientos y experiencia gestionando bases de datos.

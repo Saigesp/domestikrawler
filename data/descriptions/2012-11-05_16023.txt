@@ -1,0 +1,11 @@
+
+Buscamos un programador Junior para el desarrollo de páginas web. Imprescindible buen nivel de:
+- PHP/MySql/XML
+- JavaScript/jQuery
+- HTML/CSS
+Se valorará:
+- Conocimientos de frameworks PHP (Simfony, CodeIgniter...)
+- Buen nivel de inglés
+- Nivel básico de herramientas de diseño (Photoshop, Illustrator...)
+- Herramientas de web móvil
+Se incorporará de inmediato a nuestro equipo en Torrevieja.

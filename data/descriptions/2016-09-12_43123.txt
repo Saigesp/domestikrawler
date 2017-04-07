@@ -1,0 +1,44 @@
+
+Buscamos diseñador y maquetador HTML/CSS/Bootstrap/Parallax/JS
+El perfil debe ser capaz de maquetar piezas digitales y armarlas en HTML. Así mismo crear sitios responsivos basados en CSS.
+Los diseños que proporcionamos son de gama alta (no sitios sencillos), por ende debe tener la capacidad de poder maquetar todo tipo de proyecto web.
+Debe ser muy rápido, creativo y cuidadoso del detalle (la maquetación debe quedar idéntico al diseño original proporcionado en Photoshop) para crear sitios pixel perfect y responsivos, así como landing pages.
+Adaptación a todos los navegadores (Chrome, Firefox, IE en sus diferentes versiones) así como a medios móviles (iPad, Celulares, Monitores TV, etc.)
+Requerimientos:
+- Maquetación directa, desde cero para proyectos de este tipo:
+ http://guglieri.com/
+ http://matthew.wagerfield.com/parallax/
+- Especializado en HTML5 (MediaQueries, código limpio y estructurado) 
+- Experiencia comprobable diseñando hojas de estilo  de alta gama CSS 3
+- Diseño muy bien hecho, limpio, responsivo  y muy detallado.
+- Nude.js
+- Javascript
+- JQuery (desarrollo con el DOM y jQuery) 
+- Parallax
+- Bootstrap 3
+- JSON
+- XML
+ - PHP
+- API Google Maps
+- Conocimiento de plataformas online (redes sociales, blogs, aplicaciones, etc). 
+- Conocimientos Gestión Facebook, Twitter, Google+ 
+- Manejo de Bases de Datos. SQL / MySQL (opcional)
+- Todo tipo de animaciones y efectos (no macromedia flash)
+- Players de video (Vimeo, Youtube)
+- Formularios (contacto, registro, etc.)
+- Buscadores simples y avanzados.
+- Todo tipo de diseño para sitios web (checkboxes, option button, etc,)
+- PhotoShop CC nivel avanzado
+- Implementación, desarrollo de módulos y manipulación de tienda Prestashop
+- Pasarelas de pago (PayU, PayPal, etc.)
+- Creación de GIF, loaders.
+- Maquetación de newsletters y aplicaciones digitalesIncorporación inmediata.
+- Maquetación de webapps.
+- Maquetación para Facebook y redes sociales.
+IMPORTANTE:
+- Trabajará tanto en Backend como en Frontend.
+- Conocimientos responsive 
+- Capacidad de gestión
+- Experiencia demostrable en maquetación HTML/CSS
+VITAL:
+Necesitamos un maquetador web que viva por y para ello.

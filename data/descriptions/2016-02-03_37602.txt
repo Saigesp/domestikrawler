@@ -1,0 +1,16 @@
+
+Estamos buscando un animador 3D para unirse a nuestro equipo en Madrid.
+Como animador 3D sera responsable de crear las animaciones principalmente de personajes con 3DMAX y BIPED con la ayuda de sistemas de captura de movimiento.
+Buscamos un estilo de animación realista, por lo que el trabajo principal del animador será capturar el movimiento con el traje de captura, refinar y limpiar las animaciones capturadas y corregir lo necesario para su aprobación final.
+Requisitos:
+-	Conocimientos avanzados en Autodesk 3D Studio Max y sistema BIPED
+-      Conocimientos de captura de movimiento.
+-	Experiencia en la configuración de personajes y rig
+-	Habilidades de trabajo en equipo
+-	Trabajar a tiempo completo o parcial desde nuestra oficina en Madrid, Nuevos Ministerios
+Se valorará:
+-	Licenciatura en animación 3D o Arte
+-	Experiencia en animación 3D para videojuegos
+-	Familiarizado con el software Unity y/o Unreal Engine 4
+-	Familiarizado con el modelado 3D y la creación de assets (texturas, materiales, iluminación, etc.)
+-	Buen conocimiento de Inglés

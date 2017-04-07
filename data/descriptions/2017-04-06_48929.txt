@@ -1,0 +1,34 @@
+
+We are currently looking for a Sharepoint Developer for our IT Department.
+Candidate will be responsible for the end-to-end development of new features on SharePoint and to directly support business users, SharePoint architects and other IT specialists on developed solutions and any SharePoint related topics.
+Responsibilities
+Working with users and other IT specialists on activities including but not limited to:
+·Assist on gathering and analyzing requirements of highly customized site structures and functionality to reflect business needs
+·Assist on solution technical design
+·Code and implement custom solutions in the SharePoint environment including the look and feel of SharePoint sites 
+·Create and maintain department sites and sub-sites within existing site collections
+·Create new workflows and assist with the management of site structure
+·Proactively contribute to technical documentation
+·Provide direct support to users
+We offer
+-Full-time (39 hours/week) contract, from Monday to Friday.
+-Contract: 6 months+Indefinite
+-Opportunity to join an international team
+Skills
+·In depth knowledge and understanding of SharePoint 2013 / 2016 features, best practices, common pitfalls and how to develop on, including:
+oMicrosoft SharePoint server 2013/2016 administration
+oASP.NET development
+oSharePoint Designer
+oUI/UX Design, with responsive HTML / CSS / JavaScript
+oPowerShell
+·Knowledge of SharePoint's logical farm architecture and product major Service Applications
+·Sound experience developing end-to-end custom SharePoint features and solutions
+·Experience working with Agile management practices
+·Excellent fluency in English and native level of Spanish
+Soft Skills
+·Ability to work with clients to understand their needs
+·Ability to maintain a positive relationship with customers and team members
+·High organizational capacity to deal with variable workload
+·Flexible and comfortable with constant change
+·Capability to work in a team environment, as well as independently
+_The recruitment processes and people involved in them (both recruiters and Project Managers) will not discriminate any candidacy because of age, disability, ethnic, marital status, gender, nationality, ideology, politic, race, religion and sexual orientation

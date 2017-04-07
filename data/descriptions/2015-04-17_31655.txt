@@ -1,0 +1,35 @@
+
+Overview:
+The latest. The greatest. No matter the tech, our tech-bods are on it. So when a technological hurdle presents itself, we’re ready to jump.
+
+DigitasLBi is looking for talented Lead Software Test engineers to join our industry recognised test team. The Test Technologists are responsible for delivering high quality and cutting edge web experiences by ensuring world class quality is maintained.  We're looking for a thought leader, somoeone who is passionate about web standards and finding innovative ways to use latest technology to solve our clients’ needs.
+
+The day to day low down:
+
+As a Test Leader you will have industry proven leadership experience in your craft skills. You will work lead other developers of small and large teams, delivering quality code that conforms to our high standards. You will also evangelise best practice in software engineering, and be able to share your expertise with our team and help shape their approach and knowledge
+You will be self-motivated and keen on using new & innovative tools and techniques with the inquisitive nature that will drive you to be on top of emerging ones. You will become a key member of the team embracing change, continually learning and sharing knowledge within a collaborative and technical environment.
+
+As the Lead Test Engineer you will have autonomy in delivering the project and defining the test strategy. You will be proactively making improvements to the delivery of the project both in terms of quality and cost. We're looking for an expert in test, someone that  holds up to date views concerning the state-of-the-art in the testing world and promotes new ideas and frameworks within the wider technology team. As the Lead Test Engineer you will continuously drive quality through collaboration with your reports and leads of other disciplines, working closely with interface development, creative, UX, etc. 
+
+
+Ideal candidate profile will be someone with all these amazing skills:
+
+- A people person, managing other team members
+- Enthusiastic about learning – reading, testing books and blogs and attending testing conferences
+- An experienced automated test lead, with a deep understanding of when and how it adds value
+- An expert in modern testing methodologies, practices and approaches and strong understanding of the system development life cycle (Waterfall, Agile – Scrum/XP/Lean/Kanban, RAD..), TDD and BDD
+- Producing test strategies, test plans, defect tracking, requirements capture and analysis to agreed deadlines
+- Promoting the use of new technologies and processes to improve the quality of the testing
+- Planning and estimating workstream-related activities accurately with senior project members
+- Demonstrating a flexible and pragmatic approach to completing workload to ensure delivery within agreed timeframes
+- Understanding of the value of Testing in software development and how it relates to the wider concept of Quality
+- Testing cutting edge mobile applications and web apps
+- Working with APIs and scripting languages
+- Experience of different approaches to testing including Selenium, Watir and Cumumber
+- Acting as the lead on web based testing projects involving a moderate to high degree of technical complexity
+- Working towards W3C WCAG 2.0 accessibility guidelines
+- Strong English language skills are essential.
+
+Does this sound like you?
+
+Please apply and our Talent Acquisition team will be in touch shortly.

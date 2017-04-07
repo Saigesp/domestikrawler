@@ -1,0 +1,30 @@
+
+Buscamos
+- Full Stack Developer.
+- Con ganas de aprender e innovar.
+Conocimientos técnicos:
+- POO/PHP.
+- Programación y conexión a APIs de terceros.
+- Bases de datos relacionales: MySQL y MS SQL.
+- Desarrollo de frontend web: HTML, CSS3, Javascript, jQuery.
+Se valorarán conocimientos de:
+- Todos los elementos que intervienen en el desarrollo: hardware, redes, servidores web, seguridad, rendimiento, etc.
+- Otros lenguajes de programación u otras plataformas de desarrollo.
+- CMS opensource: Wordpress, Joomla, Drupal.
+- Frameworks de PHP tipo Symfony, Yii, Laravel.
+Idiomas:
+- Catalán.
+- Castellano.
+- Inglés (Advanced).
+- Valoraremos otros como alemán, francés e italiano.
+Aptitudes:
+- Metodología en la ejecución de proyectos de desarrollo.
+- Dedicación e implicación en el proyecto.
+- Capacidad de aprendizaje e innovación.
+- Capacidad de resolución y priorización de problemas.
+- Trabajo en un equipo multidisciplinar.
+Ofrecemos
+- Jornada completa.
+- Incorporación inmediata.
+- Desarrollo de carrera profesional a largo plazo.
+

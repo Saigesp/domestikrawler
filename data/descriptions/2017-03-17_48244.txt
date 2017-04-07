@@ -1,0 +1,21 @@
+
+Buscamos s una persona activa, dinámica, comunicativa y resolutiva. Comprometida con el cumplimiento de la planificación, la calidad y la usabilidad de los entregables.
+Técnicamente, debe ser alguien que:
+* Tenga conocimientos avanzados del lenguaje SQL.
+* Cuente con experiencia en la composición y optimización de consultas complejas en SQL.
+* Cuente con experiencia demostrable en el desarrollo de procedimientos PL/SQL.
+* Sea usuario avanzado en el manejo de MS Excel.
+* Valorable si cuenta con experiencia en la herramienta QlikView (Developer y Designer), desarrollando scripts de carga y dashboards sobre repositorios masivos de datos de operación.
+Valoraremos positivamente (no es imprescindible):
+* Conocimientos a nivel de usuario de Linux.
+* Conocimientos y/o experiencia en lenguajes de programación orientada a objeto.
+* Conocimientos y/o experiencia en PHP u otros lenguajes de programación orientada a objeto.
+* Inglés intermedio.
+Valoramos positivamente formación universitaria: Ingeniería Técnica Informática de Gestión / Software; o Ingeniería Informática o Telecomunicaciones.
+Funciones:
+nvolucrados en diferentes proyectos relacionados con la gestión y explotación de datos de la compañía, su misión será la de:
+* Desarrollar y evolucionar Dashboards para la gestión del negocio.
+* Gestionar y validar datos del negocio en distintos sistemas. 
+* Evaluar y Corregir incidencias en los datos del negocio.
+* Automatizar procesos de extracción de datos y cálculo de KPIs del negocio.
+Ofrecemos salario a convenir, incorporación a una oficina "que mola", un equipo fantástico y un horario de lunes a viernes de 8,00-17,00h.

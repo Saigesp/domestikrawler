@@ -1,0 +1,18 @@
+
+Buscamos incorporar un Desarrollador Senior Front End con experiencia en diseño de arquitecturas para desarrollar soluciones que interactúan en tiempo real con millones de usuarios diarios. 
+Qué ofrecemos:
+- Participarás en el diseño, arquitectura e implementación de nuestra tecnología.
+- Aportarás visión de producto y un profundo conocimiento en tecnología a nuestro AdServer de Publicidad Nativa enfocándote en escalar nuestra plataforma y mantener una alta disponibilidad del servicio. 
+- Formarás parte del equipo CORE de una start up en plena expansión.
+Requisitos mínimos
+- Frameworks Modelo Vista Controlador (MVC) en Javascript, experiencia sólida y demostrable en proyectos utilizando AngularJS.
+- Diseño de Arquitectura Front End.
+- Nivel alto en HTML5, CSS (LESS /SASS) y Templating (mustache, handlebars, underscore, etc).
+- Desarrollos Multidispositivo Multicanal, Optimizado o con Responsive Design.
+- Conocimiento y experiencia en Seguridad (OAuth 2, Cookies, localStorage, sessionStorage) y Optimización de rendimientos Front End.
+- Definición / Ejecución de pruebas en javascript: Conocimiento de librerías (jasmine, qUnit, etc).
+Bonus Points:
+- Experiencia demostrable con algunas de estas herramientas: Yeoman, Grunt, Npm, Bower, jQuery, RequireJS, NodeJS.
+- Aplicación de Metodologías Agiles: Scrum, Kanban.
+- Aplicación normativa Clean Code.
+- Experiencia en desarrollo SPA (Single Page Application).

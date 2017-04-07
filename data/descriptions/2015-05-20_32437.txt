@@ -1,0 +1,13 @@
+
+Precisamos incorporar en el equipo de Tecnología de OgilvyOne  un/a desarrollador/a "front-end".
+Imprescindible 2 años de experiencia, y cumplir los siguientes requisitos:
+- Dominio de Adobe CS5 o CS6. 
+- Conocimientos de Flash as3 (para creación y animación de banners)
+- Experiencia demostrable en la maquetación HTML (newsletters, landings)
+- Capacidad de maquetar sites "Responsive" (imprescindible)
+- Conocimientos avanzados de jQuery, XHTML, CSS.
+Se valorará: 
+- Conocimientos avanzados de inglés
+- Capacidad de gestionar proyectos "on-going"
+- Experiencia previa en agencia digital como maquetador/a HTML
+Abstenerse free-lance o empresas de desarrollo. 

@@ -1,0 +1,23 @@
+
+¿Quiénes somos?
+Fundada en 2014, Aluxion Labs es una empresa de apps móviles joven y dinámica, definida dentro del área de la tecnología. El objetivo es ofrecer a nuestros clientes las soluciones creativas que buscan, posicionándoles entre sus competidores y diferenciándoles de ellos. La mezcla de un buen diseño, un uso sencillo y un exclusivo desarrollo compone la esencia de lo que somos, atrayendo a grandes clientes y asumiendo algunos de los proyectos más ambiciosos a nivel nacional. Nos avala, además, nuestra dilatada experiencia en el medio, la percepción del modelo de negocio a estudiar, el trato con el usuario y el conocimiento de las últimas tecnologías. 
+¿Qué buscamos?
+•	Un desarrollador backend con al menos 3 años de experiencia en Ruby on Rails. 
+¿Qué cualidades debes tener?
+•	Experiencia en desarrollo de APIs REST.
+•	Conocimientos HTML, jQuery.
+•	Destrezas con Rspec, Cucumber u otros frameworks de BDD y TDD en Ruby.
+•	Metodologías de desarrollo ágiles a nivel profesional: Scrum, Kanban, etc. 
+•	Habilidades de comunicación técnico-funcional. 
+•	Capacidad de respuesta ante la incertidumbre o situaciones desconocidas, y de resolución de problemas.
+•	Responsabilidad y cumplimiento de objetivos.
+*Se valorará positivamente la actividad en Github y/o Bitbucket con perfiles personales y la experiencia profesional en alguna startup tecnológica.
+¿Cuáles serán tus funciones?
+•	Desarrollarás nuevas funcionalidades para nuestras aplicaciones y las implementarás en nuestra API.
+•	Realizarás labores de mantenimiento y refactorización continuo del código actual y futuro.
+•	Ayudarás en la integración de nuestro sistema de testing.
+•	Formarás parte de un equipo de desarrollo formado por 12 personas, integrado con metodologías ágiles, y muy volcado con la calidad de código, testing y formación continua.
+¿Qué ofrecemos?
+•	Pack de retribución competitivo en función de la experiencia (incentivos por objetivos), contrato indefinido y posibilidad de participación en el capital social de la empresa a través de stock options.
+•	Ambiente startup: ambicioso, flexible, "fast-paced" y con ganas de cambiar el mundo.
+

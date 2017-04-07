@@ -1,0 +1,30 @@
+
+Objetivo: desarrollo de una tienda magento.
+Nosotros entregamos el concepto gráfico, para que de acuerdo a ese concepto se personalice la tienda magento.
+Usted debe:
+Personalizar todas las plantillas, incluidad las de e-mail.
+Configurar la tienda incluyento módulos de "los mas vendidos"; "últimos publicados". 
+Insertar un administrador de banners, para que el dueño de la tienda pueda modificarlos fácilmente.
+Todas las piezas publicitarias deberán poderse editar desde el administrador de la tienda
+Desarrollo fundamentado en conceptos de “usabilidad” y “navegabilidad”	
+Cabezote animado  	
+Logo animado 	
+Retoque y optimización de imágenes.
+Galería de imágenes.
+
+Configurar el catálogo de productos, 
+Configurar el motor de busqueda interno
+Configurar el registro de usuarios
+
+Configrar los formularios  contáctenos	
+Pie de página con dirección,  teléfono, fax, e-mail, etc	
+
+Mapa del sitio
+
+Configuirar el carrito de compra  usando como pasarela de pago: paypal y pagosonline.net (nosotros entregamos el plug in)
+Linkear el acceso a varias redes sociales 	 	 	 
+Debe indicar tiempo máximo de desarrollo y precio total
+Una vez entregado el proyecto, deberá dedicar si es necesario, dos horas para resolver dudas y corregir errores.
+Debe garantizar la solución inmediata y sin costo de errores de configuración, siempre que esos errores se presenten dentro de un periodo de 30 días.
+Debe garantizar confidencialidad absoluita sobre el proyecto.
+Debe entragar  TODOS los archivos que componen la tienda

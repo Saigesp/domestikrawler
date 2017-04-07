@@ -1,0 +1,13 @@
+
+ECB selecciona Front-End Senior Developers para una importante compañía de Tecnología e I+D en Automoción. Contratación directa en Alcobendas (Madrid) por parte del cliente:
+Requisitos:
+    -Al menos 4 años de experiencia desarrollando con Javascript, HTML5, CSS3.
+    -Restful/Soap Web Services, Ajax, Grunt, Gulp, SSAS, LESS.
+    -Valorable: TDD, GIT, Atlassian Tools, Java, etc.
+    -Muy buen nivel de inglés hablado y escrito. (Se realizará la entrevista en inglés).
+    -Con buena actitud para aportar ideas y estar abierto a aprender nuevas áreas y tecnologías.
+La Compañía ofrece:
+    -Remuneración muy competitiva, en función de la valía del candidato.
+    -Buen ambiente laboral.
+    -Contratación directa por parte del cliente en Madrid.
+    -Lugar de trabajo: Alcobendas (Madrid).

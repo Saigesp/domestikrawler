@@ -1,0 +1,9 @@
+
+Productora de contenidos para televisión busca artista de 3D y Motion Graphics senior (más de 6 años de experiencia profesional) para proyecto en concreto.
+- Modelar, texturizar e iluminar el exterior de un edificio con look futurista.
+- Integración de una pantalla en la fachada del edificio.
+- Componer el 3D del edificio en After e integrarlo en la imágen de una ciudad.
+- Movimientos de cámaras en after con el edificio en 3D integrado
+- Vestir el edificio en after con luces, glows, etc..
+- Generar un template para sustituir fácilmente en After el vídeo que se proyecta en la pantalla y algunos rótulos de la fachada.
+Incorporación inmediata

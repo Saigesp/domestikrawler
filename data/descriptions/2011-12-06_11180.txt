@@ -1,0 +1,26 @@
+
+Senior Web Developer
+The Position
+Key position in the company, you take the responsibility of the new projects development and make sure to deliver them on time. You'll work at every step. Analysis, programming, testing, releases, monitoring... You report directly to the CEO and contribute to the evolution of the company.
+Profile
+You are a talented developer, with both programming and project management skills. You are solutions-oriented, extremely organized.
+You are able to plan the projects development, and respect deadlines.
+Don't apply if you are looking for a quiet little job. We'll expect only the best from you.
+Requirements
+- You studied programming and computer science for 3+ years.
+- You know PHP and SQL inside out with 2+ years of PHP programming.
+- Object-Oriented Programming.
+- HTML, XML, JavaScript, CSS, AJAX and DHTML have no secrets for you.
+- Good knowledge of HTTP and TCP/IP protocols.
+- Good sysadmin skills under UNIX systems.
+- Good knowledge of Apache and MySQL.
+- You have worked on several online projects in the past and can show references.
+- Fluent English.
+Bonus Requirements
+- Experience with Memcached.
+- Experience with Cacti.
+- Web 2.0 development tools.
+- SEO Experience.
+- Experience with very high traffic web applications.
+Location
+Barcelona Office, Spain.

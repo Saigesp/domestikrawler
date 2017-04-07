@@ -1,0 +1,9 @@
+
+Experiencia mínima: 
+Al menos 1 año (Demostrar con ejemplos que estén disponibles para descarga en la App Store)
+Requisitos mínimos:
+Experiencia profesional desarrollando aplicaciones nativas para iOS
+(iPhone, iPad, iPod) utilizando Xcode / Objective C.
+También se valorará conocimientos en Android.
+Experiencia en aplicaciones dinámicas utilizando XML, REST, SOAP o JSON.
+Primer proyecto sería una WebApp bastante sencilla, una  oportunidad para evaluar posibilidad de más proyectos.

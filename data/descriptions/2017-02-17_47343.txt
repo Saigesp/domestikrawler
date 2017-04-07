@@ -1,0 +1,6 @@
+
+Altamira TI, consultora especializada en tecnologías de la información y los RRHH, necesita incorporar desarrolladores  y AP en Groovy  con amplia experiencia  para un proyecto estable dentro de uno de sus grandes clientes. 
+Se ofrece alta posibilidad de desarrollar carrera profesional dentro de la empresa si el desarrollo y desempeño es el esperado.
+Buscamos profesionales que puedan aportar experiencia en Spring boot y Groovy, con conocimientos en Angular, Spock, DSL y pruebas unitarias.
+Será muy valorada la experiencia en Docker y Jenkins.
+Se ofrece buen ambiente de trabajo, buena ubicación, salario negociable en función de la experiencia aportada por el candidato.

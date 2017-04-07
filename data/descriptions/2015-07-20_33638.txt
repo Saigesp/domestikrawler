@@ -1,0 +1,10 @@
+
+Hola buenos días, buscamos un animador 3D para proyecto concreto.
+La idea es crear un contenido de realidad virtual que se verá a traves de gafas tipo OculusRift, se grabará un recorrido en 360º al cual habría que incrustarle una serie de elementos 3D estereoscopicos.
+El candidato debería ser capaz de:
+- Animar un personaje, en principio comprado de librería.
+- Trackear movimiento de cámara.
+- Crear estereoscopía.
+- Dar salida para OculusRift.
+- Se valorará trabajo en cinema 4D
+Si te ves capaz de hacer todo esto por favor ponte en contacto con nosotros y te daremos todos los detalles para poder realizar un presupuesto.

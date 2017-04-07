@@ -1,0 +1,13 @@
+
+Necesitamos incorporar para una empresa en expansión situada en Barcelona capital un/a PROGRAMADOR/A VISUAL BASIC.NET
+La empresa es especialista en el desarrollo e implantación de soluciones de intercambio electrónico de datos (EDI) exclusivas 
+Ahora están desarrollando distintos proyectos, entre ellos uno  internacional y por este motivo necesitan ampliar su plantilla.
+Entrarías a trabajar en un muy buen ambiente laboral en proyectos muy interesantes.
+Se necesita:
+-  Ingeniería técnica Informática de Gestión
+-Nivel elevado en desarrollo de aplicaciones Windows con Microsoft Visual Studio .NET (preferiblemente Visual Basic)
+-Conocimientos elevados de SQL 
+- Nivel Conversación de inglés
+Se valora:
+- Conocimientos de desarrollo de aplicaciones Web con Microsoft Visual Studio .NET
+

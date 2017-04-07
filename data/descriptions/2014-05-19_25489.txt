@@ -1,0 +1,10 @@
+
+Programador front-end con experto en HTML/CSS, con conocimientos en Flexible Layouts, Fluid content y las particulares de la producción para tablets y nuevos dispositivos.
+Requisitos
+	•	Experto en HTML5, CSS, Javascript.
+	•	Solvencia en problemas de compatibilidad de navegadores, incluido dispositivos táctiles 
+	•	Conocimiento de herramientas de trabajo en equipo y control de versiones 
+Deseable
+	•	Experiencia en el sector de videojuegos
+	•	Conocimiento en frameworks Javascript como Angular JS.
+	•	Conocimiento de DART

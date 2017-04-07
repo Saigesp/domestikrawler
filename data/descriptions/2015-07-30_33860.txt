@@ -1,0 +1,21 @@
+
+Buscamos un programador para reforzar el equipo de desarrollo de un proyecto web de primera línea,  realizado en Symfony con entorno LAMP, que conozca y utilice buenas prácticas de programación OOP con un patrón MVC.
+Se ofrece: 
+Incorporación inmediata.
+Jornada laboral de lunes a jueves de 9 a 18:30 y viernes 9:00 a 15:00.
+Jornada intensiva en verano. 
+Contrato indefinido
+Funciones: 
+Hacerse cargo de una nueva linea internacional que se va a empezar. 
+Requisitos.
+- PHP. 
+- Syfmony.
+- Mysql. 
+- Git
+Se valorará:
+- Conocimiento de metodologías ágiles (scrum principalmente). 
+- Actitud proactiva.
+- Apache, Varnish 
+- Redis
+- Unit testing
+- Inglés 

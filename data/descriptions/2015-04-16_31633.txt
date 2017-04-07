@@ -1,0 +1,9 @@
+
+En Foxize School estamos buscando programador PHP para desarrollo de proyectos en entorno web.
+Necesitamos que tengas conocimientos sólidos de programación, BD y servidores web y valoraremos muy positivamente que también sepas: wordpress, drupal, framework symfony, XHTML + CSS, javascript y SVN.
+Buscamos una persona proactiva, con ganas de aprender, interesada en la informática como profesión y hobby. El trabajo es a jornada completa en Barcelona.
+Requisitos:    
+Estudios mínimos : Ciclo Formativo Grado Superior
+Experiencia mínima de al menos un año.
+Conocimientos necesarios: Conocimientos avanzados de PHP, MySQL, HTML5, CSS3, Ajax, jQuery.
+Valoraremos mucho que tengas conocimientos en wordpress, drupal, symfony, XHTML, CSS, Actionscript (flash), Javascript, AJAX, Java y .net. Servidores web Apache e IIS.

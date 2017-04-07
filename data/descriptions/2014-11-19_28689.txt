@@ -1,0 +1,33 @@
+
+Estamos buscando un programador presencial o no para el desarrollo de Apps con experiencia en las diferentes tecnologías para desarrollos nativos e híbridos. 
+Si tienes experiencia y capacidad para desarrollar en varias plataformas mejor que mejor.
+Programador Web Apps y Apps Híbridas
+- Experiencia en desarrollo de Web Apps y Apps híbridas 
+- Sólida experiencia en programación frontend 
+- Experiencia en desarrollos multidispositivo y multiplataforma 
+- Altos conocimientos y experiencia en HTML5, CSS3 y JS 
+- Uso de frameworks CSS (compass/less/sass) 
+- Programación OOJS (backbone.js/angular.js) 
+- Desarrollo NodeJS y Grunt 
+- Librerías JS (jQuery, jQueryUI, Bootstrap) 
+- Conocimiento y/o experiencia con PhoneGap
+- Definición y ejecución de pruebas unitarias con Jasmine
+- Referencias de Apps ya desarrolladas
+Programador iOS
+- Experiencia en desarrollo de aplicaciones nativas para iOS 
+- Sólida experiencia en Programación Orientada a Objetos 
+- Manejo de Sistemas de Control de Versiones/Repositorios 
+- Uso de WebServices (HTTP, JSON, XML, REST...) 
+- Objective-C, C, C++ y manejo de xCode 
+- Conocimientos SQL, SQLite, ARC, Core Data, GCD, Unit Testing. 
+- Uso de herramientas, librerías, plugins... 
+- Referencias de Apps ya desarrolladas 
+Programador Android
+- Experiencia en desarrollo de aplicaciones nativas Android 
+- Sólida experiencia en Programación Orientada a Objetos 
+- Manejo de Sistemas de Control de Versiones/Repositorios 
+- Sólidos conocimientos en la plataforma y SDK de Android 
+- Conocimientos y experiencia en el uso e integración de APIs 
+- JSON, XML, REST y otras formas de comunicación entre diferentes tecnologías 
+- Desarrollo JAVA, y manejo de entorno Eclipse/Android Studio 
+- Referencias de Apps ya desarrolladas

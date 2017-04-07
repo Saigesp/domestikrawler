@@ -1,0 +1,18 @@
+
+Madridnyc busca incorporar un formador ASP .NET. para proyecto en importante cliente final.
+Requisitos:
+•	Lugar de trabajo: Toledo
+•	Contrato por este curso
+•	Total horas: 50/60 horas
+•	Alumnos con experiencia y conocimiento en programación orientada a objetos, Cobol, SQL y Visual Studio (2.008)
+•	Horarios (en un principio, aunque podría variar): L – V de 9 a 12
+•	Conocimientos 
+o	Visual Studio .NET
+o	ASP .NET orientado a web
+o	Conocimientos avanzados de C# 
+o	Conocimientos avanzados de programación orientada a objetos
+o	Conocimientos y experiencia con problemas y fallos más típicos de este lenguaje
+o	Experiencia con pruebas de stress en cargas de datos masiva sobre servidores
+o	Experiencia de programación de sistemas con este lenguaje de programación
+Incorporación inmediata. Abstenerse aquellos que no residan en Toledo o alrededores.
+

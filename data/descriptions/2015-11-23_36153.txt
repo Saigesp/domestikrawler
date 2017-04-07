@@ -1,0 +1,23 @@
+
+Psico Smart Apps es una startup Barcelonesa con proyección mundial, en la vanguardia del desarrollo de aplicaciones médicas utilizando las últimas tecnologías móviles y realidad virtual. 
+Actualmente estamos buscando desarrollador Front-End que nos ayude a desarrollar nuestra plataforma comercial.
+¿Qué ofrecemos?: 
+	•	Incorporación en una de las startups revelación, con proyectos ambiciosos de ámbito internacional en la vanguardia de la tecnología.
+	•	Posibilidad de formar parte de un equipo joven y dinámico.
+	•	Puesto de trabajo presencial en Barcelona.
+	•	Contrato temporal a tiempo completo con posibilidad de indefinido.
+	•	Salario según experiencia.
+Requerimientos: 
+	•	Conocimientos amplios de Javascript.
+	•	Experiencia en el desarrollo de paginas web.
+	•	Capacidad de desarrollo cross-browser.
+	•	Disponibilidad de incorporación inmediata.
+	•	Persona no centrada únicamente en CMS.
+	•	Persona pro-activa, responsable, trabajadora y con ilusión por lo que hace.
+Bonus (Opcional) 
+	•	Conocimientos de Bootstrap y AngularJS.
+	•	Conocimientos de Laravel PHP Framework
+	•	Buen nivel de Ingles tanto hablado como escrito.
+	•	Conocimientos de algún lenguaje de programación back-end.
+	•	Experiencia en responsive design.
+

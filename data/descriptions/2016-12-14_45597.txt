@@ -1,0 +1,25 @@
+
+Who’s behind SyncRTC?
+Almost four years ago, our journey in the video-collaboration adventure started. You might have not heard about SyncRTC yet, but you probably know something about the MashMeTV team: the amazing blue platform that has reached over 1M users around the world. These are us, a young and funny multidisciplinary team that, after the success reached in the B2C market is about to step into the B2B with its new platform. Do you want to step in with us?
+What’s our offer?
+We offer you an opportunity to work in a challenging and positive environment while growing professionally. You will be given the opportunity to develop your skills and grow together with the team of professionals behind SyncRTC: a place where you’ll get the chance of learning something new everyday. We work hard, but our culture allows us to spend time to live incredibly funny moments! We enjoy our work and we want to continue feeling like a little family. For that reason we need a challenging mindset, eager to learn, the willingness to strive & thrive, and the illusion to create. 
+What do we need?
+Responsibilities
+Design and implement features in SyncRTC web & mobile web clients.
+Enhance our Progressive Web App improving performance, offline catching and push notifications.
+Write client-side code in Polymer for our UI and JS for our growing middleware.
+Desired skills:
+Medium/advanced experience with Javascript, CSS3 & HTML5.
+Experience with WebSockets and realtime technologies.
+Package management w. bower / npm.
+Familiarity with version control (git).
+We will also value positively:
+Experience with PWA’s core technologies, specially Service Workers.
+Knowledge about Web Components & Polymer.
+Knowledge of LESS, Docker or WebRTC.
+Familiarity with testing / continuous integration-deployment.
+Ability to work with background music, watching geek movies during lunch and playing to launch office fellows rolling on their chair.
+Once you are here...
+The Sorting Hat will assign you a mentor within the company depending on your house: Gryffrontend, Huffleback, Ravenmidd or Slythesting.
+As a first year employee you can bring an owl, a cat, a rat or a toad. Unfortunately, our corporate responsibility policy does not allow house-elves.
+

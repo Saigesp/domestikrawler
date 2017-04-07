@@ -1,0 +1,36 @@
+
+Kviar Ventures SL is a leading provider of inventory management solutions to the restaurant and wellness industries. Over 200 merchant partners use Kviar to apply elastic pricing based on supply and demand. Our members browse Kviar's list of high-end restaurants and leisure venues, make a free reservation and then receive 30% off the final bill, a discreet and seamless experience.  Kviar differentiates through its positioning as an invitation only private club for high-end members and merchants and also through its viral growth engine powered by user referrals.
+We are looking for a talented freelance front-end developer with good knowledge on PHP back-end development using Symfony framework. We want someone who can work with us in a long term relationship, doing a continuous evolution to our main product, adding new features and functionalities. The project will start with a first phase focused on redesigning our website, making it more appealing and using responsive design. You will work closely with the design team to make communication as fluid as possible and get the best product.
+Skills and Knowledge:
+
+3+ years in web development using HTML, JavaScript and CSS.
+
+2+ years in PHP web development.
+
+Responsive website development experience is a must. 
+
+Good knowledge of Symfony and MySQL.
+
+Bootstrap or Foundation knowledge is a plus.
+
+Used to work with SVN or GIT.
+
+You need to have good analytical and problem solving skills, good verbal and written communication skills.
+
+Education and Experience: 
+
+BS or higher degree required.
+
+Preferred degree in computer science or related field.
+
+3+ years experience in software development.
+
+2+ years experience developing web user interfaces.
+
+Team player attitude; solid positive energy. Strong interpersonal skills and an ability to work independently and with a group.
+
+Responsible, reliable, proactive.
+
+Language skills: fluent English oral and written as you will work with a multi-cultural team with English as main language.
+
+Please send your application to jobs@kviar.com

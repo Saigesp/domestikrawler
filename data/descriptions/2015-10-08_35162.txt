@@ -1,0 +1,11 @@
+
+Actualmente precisamos incorporar DESARROLLADORES WEB en .NET.
+Dentro del departamento de desarrollo, integrado en el equipo técnico, te encargarás de la programación de aplicaciones web orientadas al comercio electrónico, logística, plataformas de innovación, herramientas de marketing, 
+CONOCIMIENTOS ESPECIFICOS NECESARIOS:
+ - ASP.NET y C#.NET
+ - SQL SERVER, LINQ
+ - HTML, JAVASCRIPT, CSS
+Se valoraran positivamente la posesión de certificaciones Microsoft y conocimientos de MVC
+REQUISITOS DESEADOS:
+Se valorará conocimientos de Web services, ADO.Net, SQL transact y especialmente en administracion y programación de SQL Server, así como conocimientos en metodología de gestión de proyectos y conocimientos del modelo CMMI.
+Abstenerse candidatos sin experiencia en desarrollo en proyectos web basados en tecnología .NET

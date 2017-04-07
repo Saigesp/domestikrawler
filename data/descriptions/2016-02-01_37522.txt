@@ -1,0 +1,10 @@
+
+¿Qué harás?
+Creemos fielmente en la metodologías ágiles y el código limpio, por lo que escucharás a menudo Scrum, Jira, sprints, refactorización. Participarás cada mañana de nuestro daily Scrum y aprenderás a crear código limpio/mantenible/escalable. Tenemos un equipo de Android e iOS, por lo que participarás en las decisiones de diseño de los servicios y estructura de la bd.
+En tu día a día trabajarás junto a nuestro desarrollador senior, creando nuevas funcionalidades y mejorando la plataforma. Disfrutarás de un entorno de aprendizaje y mejora constante mediante revisiones de código, pair programming y reuniones de equipo.
+¿Qué ofrecemos?
+Contrato indefinido con remuneración anual de 16-18K en base a la experiencia.
+¿Qué buscamos?
+Buscamos un desarrollador Ruby on Rails junior (alrededor de 1 año de experiencia). ¿Es totalmente obligatorio tener un año de experiencia en Rails? No realmente si nos demuestras que eres capaz de tener cierta soltura en Rails (tener claro conceptos de MVP, cómo se crean modelos con ActiveRecord, cómo se conecta una vista con un controllador, etc). Valoraremos enormemente que el candidato pueda trabajar a jornada completa en nuestras oficinas en Madrid.
+¿Qué tecnologías usamos?
+Usamos Ruby 2.2, Rails 4.2, Puma, DelayedJob, API Rest + Json así como otras más que ya te contaremos. Nuestro backend con Rails atiende tanto peticiones de la web como de las apps de iOS y Android.

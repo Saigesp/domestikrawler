@@ -1,0 +1,17 @@
+
+¿Tienes experiencia en .NET y estás buscando desarrollar tu carrera en una empresa con presencia internacional? Ven y únete a nuestro equipo de IT en Emagister.
+Buscamos una persona con excepcionales valores personales y profesionales, autodidacta y con facilidad para el aprendizaje. Alguien con inquietudes por mejorar e ir más allá y que le apasione formar parte de un gran equipo.
+Requisitos mínimos:
+Experiencia mínima de 5 años en desarrollo web en .NET (Asp.Net, C#)
+Base de datos SQL Server (T-SQL, Stored Procedures)
+Desarrollo web: HTML5, javascript, CSS, jquery, AJAX, XML, JSON, REST
+Conocimientos de Git
+Uso de metodologías ágiles
+Se valorará:
+Conocimientos de los principios SOLID
+Experiencia en Unit testing, TDD
+Patrones de diseño, inyección de dependencias
+¿Qué ofrecemos?
+-Entorno con un nivel muy alto desde el punto de vista técnico y de negocio en una empresa puntera del sector.
+-Orientación a la acción.
+-Apuesta total por los miembros del equipo.

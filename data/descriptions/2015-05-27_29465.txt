@@ -1,0 +1,23 @@
+
+Buscamos a un desarrollador senior con al menos 3 años de experiencia para trabajar en nuestras oficinas. Con capacidad de trabajo en equipo, asumir nuevos retos, con iniciativa y responsabilidad en el trabajo. ¿Eres tú? :)
+Requisitos:
+• Desarrollo Web PHP/MySQL
+• Desarrollo de WebApps.
+• Javascript y librerías y frameworks JS (JQuery, AJAX, Node, Angular…).
+• Desarrollo de E-Commerce.
+• Conocimientos y experiencia a nivel de desarrollo en CMS, por ejemplo: WordPress, Drupal, Joomla y/o Prestashop 
+Se valorará:
+• Desarrollo de WebApps.
+• Se valorarán conocimientos de programación de WebApps.
+• Conocimientos de maquetación en HTML5 y CSS3.
+• Bootstrap
+• Conocimientos y/o experiencia en SEO.
+Funciones:
+-	Participar en el planteamiento inicial de los proyectos 
+-	Trabajar junto al equipo para levantar los requerimientos de desarrollo.
+-	Desarrollo de websites con CMS, html
+Se ofrece:
+• Contrato freelance (se requiere presencia).
+• 1.500 euros brutos mensuales. 
+• Horario:  (6 h / día). 
+• Buen clima laboral y apoyo constante.

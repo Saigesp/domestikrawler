@@ -1,0 +1,36 @@
+
+Dinamics Web agencia SEO, SEM y fábrica aplicaciones de alcance internacional, busca  técnico informático / telecomunicaciones para realización proyectos web / móvil.
+Ganas de realización profesional, posibilidades  de promoción  en empresa en crecimiento
+Incorporación inmediata
+Perfil Requerido :   
+o	Programación avanzada en lenguaje PHP, MySql, Java, Javascript y Gestión de bbdd
+o    	Maquetación HTML5 y CSS3 (Nivel alto)
+o    	Conocimiento de desarrollo de aplicaciones nativas para móvil:  Objective-C/Swing (iOS), Java (Android), HTML5, etc
+Tecnologias:
+PHP (Nivel alto)
+• Frameworks MVC (Zend Framework, Flow3, Laravel, Codeigniter…)
+• Orientado a objetos
+• Sistemas de plantillas (twig, smarty, typo3…)
+MySQL 
+• Administración de bases de datos
+• Mejora y optimización de estructura de datos y consultas
+Suite Adobe (Fireworks, Photoshop e Illustrator)
+Wireframing (prototipado)
+Conocimientos de SEO
+Control de versiones Git
+Procesos de debug (unit, emulados…)
+APIs (rest, xml soap…)
+Pasarelas de pago (SERMEPA, CECA, Paypal, Stripe…)
+• Conocimientos de tecnologías Python, C#, Redis, Symphony, Ruby on Rails, Postgresql, MySQL, etc.
+• Conocimiento de la filosofía de diseño “Responsive Web Design” y uso de media-queries, con el objetivo de que las aplicaciones puedan visualizarse en diferentes dispositivos (framework Bootstrap)
+• Conocimientos “Cross Browser Design” para que el diseño sea posible visualizarlo desde cualquier navegador y versión
+• Conocimientos de herramientas de pre-procesadores de CSS (LESS, SASS/Compass)
+• Debug en Chrome, firefox y explorer
+Funciones:
+Definición de proyectos: usabilidad, arquitectura de la información, tecnología, etc. 
+-	Participación en la construcción de las funciones,  interfaz y procesos de los proyectos Web
+-	Administración conjunta de la infraestructura de la empresa (Servidores, red...)
+-	Gestión de incidencias y reporting con cliente
+-	Planificación y ejecución de tareas de posicionamiento (SEO)
+-	Desarrollo de aplicaciones en Php (entorno LAMP)
+

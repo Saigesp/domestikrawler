@@ -1,0 +1,17 @@
+
+¿Sabes quién emite la última película que quieres ver? ¿Cuándo sale la próxima temporada de tu serie favorita? ¿Quieres verlo todo a un click?
+En Tviso estamos trabajando para proponer la nueva manera de ver la televisión, porque queremos ayudarte a hacer fácil lo que ahora no lo es, llevándote a lo que quieres ver de un modo simple y rápido. 
+Creemos en hacer simple lo complejo, y queremos crecer aprendiendo cosas nuevas cada día. No creemos en perder nuestro tiempo viendo cosas que no nos aportan, porque somos lo que vemos.
+En Sant Cugat (Barcelona), acompañado por un equipo experto y dinámico, te ofrecemos la oportunidad de entrar con nosotros a luchar contra la pérdida de tiempo que supone para todos la gestión de nuestro ecosistema audiovisual.
+¿Qué ofrecemos?
+Nos gusta cuidar a los nuestros. Aquí tendrás flexibilidad de horario y menú incluido en unas instalaciones espaciosas y con luz natural. 
+Estarás rodeado de buena gente que comparte nuestra manera de pensar. ¡Trabajaremos juntos para que tu proyección profesional y la de Tviso sean un éxito!
+¿Qué buscamos?
+Para completar nuestro equipo, necesitamos un Front End nivel ninja de Javascript, acostumbrado a trabajar en plataformas de última tecnología con gran volumen de tráfico. ¿Quieres ser uno de los nuestros? 
+Tareas relacionadas con la posición:
+- Mantener y desarrollar nuevas funcionalidades en la web, usando el framework VUE.js
+- Asegurar el buen rendimiento de la web en el navegador optimizando los recursos.
+- Probar el resultado conseguido con los navegadores y los dispositivos de más importancia como Safari, - Chrome o Firefox en PC, Android e iOS.
+- Testear y documentar con claridad el código trabajado.
+- Integrarse en un equipo que utiliza metodologías agile (Scrum)
+

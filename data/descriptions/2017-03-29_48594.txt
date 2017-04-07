@@ -1,0 +1,29 @@
+
+¿Te apasiona el desarrollo de software? ¿Eres inquiet@ con las nuevas tecnologías? Tribalyte sigue creciendo sin dejar de lado la máxima calidad en sus desarrollos.
+Buscamos un desarrollador sénior de aplicaciones multiplataforma / web para incorporarse a nuestro equipo del Área de Desarrollo de Software.
+Las funciones a realizar son:
+- Desarrollo de aplicaciones multiplataforma (Electron, Cordova / PhoneGap, Ionic Framework) basadas en tecnología web (AngularJS, Typescript, NodeJS, Bootstrap, Foundation).
+- Creación de front-end web (HTML5, CSS3, SCSS).
+- Programación de lógica de back-end (NodeJS).
+- Desarrollo de software para sector industrial de alta tecnología, tanto para clientes nacionales como internacionales.
+- Elaboración e implementación de planes de prueba, pruebas automatizadas.
+- Empleo de herramientas de control de versiones (Git).
+- Empleo de herramientas de análisis de código (linters).
+Características del puesto:
+- Incorporación a un equipo altamente cualificado e internacional.
+- Trabajo en proyectos de alto interés profesional, con tecnologías modernas y heterogéneas.
+- Buen ambiente de trabajo y horario flexible.
+- Oficina situada en Madrid centro (Chamberí).
+- Contrato indefinido a jornada completa.
+- Salario atractivo, con opción a participación de beneficios.
+- Formación continua.
+Conocimientos requeridos:
+- Mínimo 2 años de experiencia laboral demostrable en el sector.
+- Formación en desarrollo de software, informática, o ingeniería.
+- Manejo de lenguajes de desarrollo: Typescript, JavaScript, CSS3, HTML5. Valorable positivamente: Java, Swift, C, C++.
+- Procesos y metodologías de desarrollo de software.
+- Paradigmas de desarrollo como orientación a objetos, patrones de diseño, buenas prácticas, etc.
+- Nivel alto de inglés y español hablado y escrito.
+- Valorable positivamente interés en el desarrollo de negocio.
+¡Envíanos tu CV!
+

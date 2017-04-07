@@ -1,0 +1,29 @@
+
+Buscamos un programador de aplicaciones iOS, con amplios conocimientos de ObjectiveC, para el desarrollo de aplicaciones móviles, para un importante proyecto, con muchas posibilidades de proyección internacional.
+Una persona muy responsable, que empuje en el desarrollo del proyecto, tomándolo como propio. Se valorará y se ofrecerá un crecimiento profesional en base al grado de implicación y empuje, como al trabajo aportado.  
+Requisitos de la oferta:
+Conocimientos de programación objectiveC, para desarrollo de aplicaciones iOS.
+Conocimientos de Swift
+Amplios conocimientos de xCode.
+Conocimientos de desarrollo con el API de google Google Maps, Google FCM (notificaciones push, crash analytics, auth…)
+Experiencia con llamadas API REST, JSON
+Conocimientos de SQLite
+Conocimiento de GIT
+Experiencia de al menos dos años en desarrollo de aplicaciones para iPhone
+Se valorará conocimientos con metodología scrum y herramientas como JIRA, Bitbucket, Jenkins
+Se valorará conocimientos de Docker
+Se valorará conocimientos API Paypal y pasarelas de pago.
+De qué estarás al cargo…
+Trabajar en un equipo multidisciplinar
+Implementar la funcionalidad con un muy buen desarrollo y aportando una gran experiencia
+Crear test de prueba para asegurar la calidad del producto.
+Estar al día de nuevas tecnologías, evaluar e implementar para tener un desarrollo los más eficiente posible.
+Hacer tuyas las funcionalidades a desarrollar, trabajar en equipo y con los diferentes actores responsables del proyecto.
+Trabajar mano a mano con el resto de desarrolladores y diseñadores  
+Tomar responsabilidades en los plazos de  entrega y calidad de las funcionalidades desarrolladas
+Qué ofrecemos...
+Salario a convenir según experiencia (21k - 28k Brutos anuales)
+Oficina centro de Madrid
+Buen ambiente de trabajo
+Contrato indefinido
+Comienzo del trabajo, tan pronto como sea posible

@@ -1,0 +1,13 @@
+
+Programador Wordpress
+Requisitos mínimos:
+- Desenvolverse perfectamente en Wordpress. Desarrollo web, creación de plantillas y módulos
+  ( y si lo requiere modificación de plantillas ya creadas)
+- Nivel alto XHTML-HTML5 y CSS-CSS3 estándares W3C 
+  (si lo requiere el proyecto adaptado a dispositivos móviles y iPads)
+- Javascript, jQuery, PHP, MySQL
+Se valorará positivamente si..
+- Eres una persona organizada, metódica y responsable.
+- Si tienes conocimiento sobre gestión de tiendas online con Opencard o Prestashop.
+- Tienes conocimiento para la creación de Apps para móviles.
+- Residencia en Barcelona, indicar lugar, edad, enviar CV

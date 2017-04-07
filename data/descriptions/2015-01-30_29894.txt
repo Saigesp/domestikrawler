@@ -1,0 +1,27 @@
+
+EGA CONSULTORES, busca para importante empresa del sector tecnológico, Analista Programador Sharepoint 2010/2013 con al menos 2/3 años reales de trabajo en Sharepoint.
+Experiencia:
+ Angular JS (Recomendable) 
+Linq / Lambda
+JQuery (Nivel medio/alto)
+JavaScript 
+Ajax
+HTM y CSS
+HTM5 y CSS3
+Desarrollo de servicios web
+Desarrollo de aplicaciones globalizadas multi-idioma
+Test Unitarios 
+PowerShell
+CAML
+Webpart
+Webparts Visuales
+Modelo Objetos Sharepoint
+Servicios Web Sharepoint
+Event receivers
+XSLT
+Modelos de sitio
+SPServices
+Sandbox
+Delegate Controls
+FRANCES : recomendable, no excluyente. 
+

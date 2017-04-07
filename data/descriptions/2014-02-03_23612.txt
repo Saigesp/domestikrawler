@@ -1,0 +1,11 @@
+
+Somos una startup joven y estamos desarrollando una web de consumo colaborativo, para lo que necesitamos una persona que sirva de apoyo tanto en diseño como en frontend en nuestra oficina de Barcelona. Buscamos por ello un perfil híbrido, que se adentre en cada área con una visión global de ambas.
+En diseño, te encargarás de:
+- Diseño de interfaz para aplicaciones en web
+- Evaluaciones de usabilidad
+En frontend, te encargarás de:
+- Desarrollar código HTML5, limpio y semántico
+- Crear CSS3 con LESS y hacer que todo funcione perfecto en los navegadores principales y distintas resoluciones
+- Emplear y optimizar JS y jQuery
+- Angularjs
+Si crees que encajas en el perfil que buscamos y te gustaría formar parte de un equipo joven, con un proyecto motivador y ambicioso, envíanos tu portfafolio (también dribbble, Behance...) a jobs@cronnection.com

@@ -1,0 +1,24 @@
+
+Buscamos especialista en wordpress, con al menos 5 años de experiencia y gran dominio de este CMS
+Debe aportar:
+Capacidad de maquetación en HTML5, CSS
+Experiencia en SQL y MySQL
+Requisitos:
+•	Nivel muy alto en Wordpress: integración con Woocommerce. 
+•	Nivel muy alto en maquetación responsive: css3, y html5. 
+•	Nivel muy alto de javascript: vanilla y jQuery. 
+•	Nivel medio en API’s: googlemaps, facebook, twitter. 
+•	Nivel medio de otras plataformas de ecommerce: Magento, Prestashop…
+Valoramos:
+•	Conocer otros CMS: Drupal, Laravel… 
+•	Trabajar en entornos LAMP 
+•	Soltura con servidores Amazon 
+•	Nociones de Scrum.
+Ofrecemos:
+•	Incorporación inmediata a grupo de empresas desarrolladoras de negocios en internet.
+•	Entorno laboral agradable, oficinas en el centro de Madrid y  Alicante, en proceso de expansion Sevilla y Barcelona. 
+•	Proyectos interesantes y diferentes. 
+•	Un buen sueldo para poder vivir en el centro de Madrid, si te apetece.
+Debe entender la importancia del SEO para un proyecto y entender analytics!
+Conocimientos de PHP y/o Java serán muy tenidos en cuenta.
+Ideal que tenga experiencia en Magento y Prestashop (no determinante, pero si un plus), o como mínimo ser capaz de supervisar y aportar valor a los desarrollos del equipo. 

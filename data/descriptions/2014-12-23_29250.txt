@@ -1,0 +1,20 @@
+
+En Anatawa buscamos un becario a media jornada para soporte y administración de sistemas.
+¿Te gustan las redes y los sistemas? ¿Eres de los que se montan su ordenador por piezas? ¿Te gusta el cacharreo y siempre estás intentado aprender? 
+Si te gustan los servidores, los equipos, las redes y tienes muchas ganas de aprender y crecer como profesional te ofrecemos trabajar con nosotros. 
+Estamos buscando un becario a media jornada (con posibilidad de ampliación a jornada completa a corto plazo) que sepa desenvolverse con soporte a usuarios y con muchas ganas de aprender y formarse en administración de sistemas Unix, virtualización, servidores web, servidores de BBDD, etc.
+Tu cometido consistirá en:
+- Instalación, gestión y mantenimiento de hardware y software para los equipos de nuestra empresa, tanto a nivel de infraestructura como para soporte a nuestros empleados. 
+- Según te vayas formando, podrás ir ayudándonos con la administración de sistemas, tenemos proyectos muy interesantes que te ayudarán a crecer como profesional.
+Conocimientos requeridos:
+- Configuración de equipos PC y MAC 
+- Despliegue de Redes cableadas y wifi
+- Administración de routers y switchs 
+- Conocimientos mínimos a nivel de usuario en entornos Linux, uso de Terminal y comandos básicos Unix.
+Se valorarán positivamente (aunque no serán necesarios) conocimientos en:
+- Administración de servidores web (Apache, Nginx)
+- Administración de BBDD (MySQL, MongoDB, Redis, Oracle)
+- Virtualización Proxmox
+- Docker
+- Puppet, Cheff
+- Vagrant

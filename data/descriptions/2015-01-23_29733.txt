@@ -1,0 +1,9 @@
+
+¡Abstenerse diseñadores por favor! (no necesitamos).
+Developer PHP para desarrollo Front/Back para multiples proyectos. Se precisa persona para incorporarse a equipo joven y con un ambiente ejemplar. Se requiere un mínimo de experiencia demostrable a nivel de proyectos o skills.
+Lo que necesitamos:
+· Desarrollo PHP, Jquery, HTML, CSS. 
+· Imprescindible frameworks php tipo MVC, en concreto CakePHP, 
+· Capacidad para trabajar intensamente en una start up. 
+· Capacidad de trabajo en equipo y de liderazgo. 
+· Valorable la programación en nativo de dispositivos móviles o incluso con frameworks multiplataforma.

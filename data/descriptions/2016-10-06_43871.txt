@@ -1,0 +1,19 @@
+
+Tiendeo, en fase de crecimiento, precisa incorporar un Maquetador para trabajar en el desarrollo del Front End.
+Sus funciones se basarán en el desarrollo del Front End, Maquetación HTML, CSS y javascript a partir de librerías pero también desde el inicio.
+Buscamos un perfil mixto, con experiencia tanto en el área de diseño gráfico así como un dominio consolidado de Front-END
+Funciones:
+- Elaboración de bocetos y definición de prototipos
+- Optimización de carga de páginas
+- Generación de estilos
+- Generación de código HTML
+- Desarrollo de presentaciones, documentación general, y AI, UX & UI.
+- Maquetación adaptada a móviles y a newsletters
+REQUISITOS
+- Conocimientos avanzados en HTML, CSS, HTML5, CSS3, Javascript, jQuery
+- Experiencia con diferentes librerías y frameworks
+- Dominio de Adobe Photoshop, Illustrator e InDesign.
+- Formación afín a la posición
+- Conocimientos de Git, Javascript y jQuery
+- Habilidad para conceptualizar visualmente el mensaje y/o el producto
+- Habilidades artísticas y gusto por el detalle

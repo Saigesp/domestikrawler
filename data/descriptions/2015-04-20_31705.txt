@@ -1,0 +1,23 @@
+
+We are looking for a freelance (remote-work) Frontend Developer / HTML5 Bootstrap Integrator to work with customer project.
+Required skills and experience:
+	- HTML5
+	- CSS3
+	- Bootstrap 3 (with experience on customizing and adapting Bootstrap to bigger needs and custom components)
+	- LESS
+	- Javascript libraries / Jquery
+	- Crossbrowser compatibility
+	- Responsive technologies / Cross device compatibility
+	- Speak english (or French, but preferably English)
+	- (bonus) Knowledge of Javascript libraries / Jquery
+	- (bonus) Using javascript task runner like Grunt
+	- (bonus) Working with GIT and Jira
+	- (bonus) AngularJS or BackBone or Ember
+Main missions (short term):
+=> Working on existing Bootstrap pages markup with custom elements
+	- Fixing html structural and CSS visual glitches
+	- Adding new blocks and components
+	- Create new pages layouts using Bootstrap components and custom ones (ex: mini site for mobile app showcase)
+Main missions (later):
+=> Adapting existing Bootstrap markup pages using responsive technologies for mobile / tablet
+=> Creating mobile pages based on Bootstrap together with custom components.

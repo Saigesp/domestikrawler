@@ -1,0 +1,20 @@
+
+Estamos buscando un PROGRAMADOR FULL STACK SENIOR para incorporar a nuestro equipo de técnico. En la actualidad tenemos un departamento de IT de más de 20 personas. Utilizamos un stack moderno y practicamos la metodología Scrum.
+REQUISITOS:
+•	Formación en ingeniería Informática de gestión y/o análogos.
+•	Que te presentemos un problema y lo primero que hagas sea pensar y no ponerte a picar
+•	Que no te asusten los test unitarios, los refactors y hacer TDD
+•	Saber programar en PHP. Nosotros usamos Zend como framework pero si conoces otros (Symfony, Silex) nos vale
+•	Saber programar en JavaScript. Utilizamos Backbone.JS y en la parte de tests Grunt, Mocha, Karma, Sinon, Chai
+•	Que te desenvuelvas bien sobre Linux. Todo nuestros aplicativos corren sobre este sistema operativo y todos los programadores lo utilizan.
+OFRECEMOS:
+•	Trabajar en proyectos con carácter internacional. Uno de ellos envía más de 400M emails al mes y ha ganado los eAward2014/eAward2015 a mejor plataforma de email marketing.
+•	Herramientas de Trabajo: Sobremesa de última generación con 2 monitores. 
+•	Libertad para innovar y tomar decisiones sobre la infraestructura que usamos.
+•	Contrato laboral indefinido
+•	Retribución según valía
+•	Cheques Comida
+•	Plan de Retribución Flexible
+•	Trabajar en el centro de Madrid con unas comunicaciones inmejorables.
+•	Muy buen ambiente de trabajo
+

@@ -1,0 +1,18 @@
+
+TAREAS
+* Tomar un rol clave en el desarrollo de nuestros productos y participar activamente en su planificación junto al resto de departamentos implicados.
+* Trabajar junto al equipo de desarrollo para asegurar la entrega puntual de los productos, así como notificar progresos y estimaciones con precisión durante el proceso de desarrollo. 
+* Cooperar con el equipo de diseño para la creación de experiencias de usuario atractivas y simples de usar.
+* Aportar ideas para la implementación de nuevos servicios o de tecnologías emergentes.
+REQUISITOS
+* Experiencia mínima : 2 años
+* Experiencia probada en desarrollo web con PHP.
+* Javascript y jQuery nivel experto.
+* MySQL, conocimientos en diseño, replicación, particiones, transacciones, optimización....
+* Conocimiento de estándares web. 
+* Conocimientos de HTML y CSS.
+* Capacidad para seguir estándares de codificación y diseño establecidos por el propio equipo de desarrollo.
+* Habilidad para trabajar tanto en grupo como de forma individual, cumplir con fechas establecidas, bajo presión y solucionar problemas en poco tiempo.
+PREFERIBLE 
+* Vivir en la zona noroeste de la Comunidad de Madrid.
+

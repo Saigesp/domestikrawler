@@ -1,0 +1,5 @@
+
+Buscamos programador front. ¿Esto que quiere decir?
+- Sobrada experiencia en javascript – jquery, greensockjs, frameworks: createJS, kineticjs, modernizer, threeJS, box2d, ...
+- Amplios conocimientos en maquetación web (RD y AD).
+- Programador as3 para campañas display ya sean convencionales o richmedias. Conocer las tres principales plataformas weborama, sizmek/mediamind y doubleclick.

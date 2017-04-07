@@ -1,0 +1,23 @@
+
+At BMAT we love music and technology! We analyse, index, and recognize all the music in the world to provide search, recommendation and monitoring solutions to the music industry. BMAT is a rapidly growing and passionate company, with a creative, multicultural and dynamic team which operates globally, working with more than 50 customers worldwide. Our clients include companies like Yamaha, Universal, Sony, Samsung and SingTel.
+Reports to: Head of Software
+Location: Barcelona/Spain
+Job Summary
+Develop user interfaces to provide access to services (both internal and external) and CRUD operations towards database models while ensuring validity and consistency. 
+Essential Duties & Responsibilities:
+•	Provide non-technical people a way of interacting to high technical services with ease.
+•	Efficient use of frameworks and toolkits to develop usable and beautiful interfaces. 
+•	Understand the needs of our users with focus in their productivity and ease of use.
+•	Communication with back-end/services developers: share needs, improvements and future developments.
+•	Communication with other departments: explain technical ideas to non-technical people, translate customer needs into requirements.
+
+Technical Details:
+•	Our entire platform runs on Linux and for this project most of the computation power is hosted in Amazon EC2.
+•	The project you will be involved is written in Python (flask, wtform, SQLAlchemy…). Experience with this language and modules are a big plus. If you are comfortable using, writing and editing Javascript (Jquery, backbone plugins) would be great. 
+•	We use MySQL, Redis and Cassandra as database systems.
+•	Some of our current projects involve Hadoop, Spark and Elastic Search.
+•	Our source code is managed with git.
+•	BMAT's lingua franca is Spanish / Catalan, so fluency in one of those languages would be a plus 
+If you are familiar with those technologies, great! However, they are not mandatory.
+If you are enthusiastic and think you can help us make Vericast a better software, you are very much welcomed to apply!
+

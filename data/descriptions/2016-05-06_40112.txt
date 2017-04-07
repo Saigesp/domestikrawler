@@ -1,0 +1,20 @@
+
+En Iwantic estamos buscando un/a PHP Lead Developer para una de las empresas líderes en el sector de Internet en su sede de Barcelona.
+Entre las funciones del puesto se encuentran:
+- Tener en cuenta las peticiones de los clientes para proponer mejoras para la plataforma para que sea más eficiente.
+- Analizar la viabilidad de las necesidades de los clientes y la posibilidad de llevar a cabo las mejoras en el tiempo establecido.
+- Asegurarse que la compañía tiene todos los recursos que necesita.
+- Analizar, diseñar y desarrollar funcionalidades nuevas.
+- Dirigir un pequeño equipo, las actualizaciones y los plazos, y supervisar todo el proyecto en general. - -   - Tiene que asegurarse que el proyecto se está desarrollando con la mayor calidad y en el tiempo previsto.
+- Dar soporte y orientación técnica a los miembros del equipo.
+- Identificar y solucionar posibles problemas causados por la plataforma.
+Requisitos necesarios:
+- Título de Grado/Licenciatura (o superior) en Informática, Ingeniería u otra disciplina relacionada (Telecomunicaciones, Matemáticas, Física)
+- 2 años o más de experiencia en programación (especialmente en PHP y AJAX)
+- Conocimientos demostrables de tecnologías web, incluyendo PHP, HTML, XML, CSS, JavaScript y SQL, y nociones de JQuery, Mootools o Prototype.
+- Al menos un año de experiencia en algún lugar de trabajo parecido.
+- Estar acostumbrado a dirigir un equipo y los plazos de las actualizaciones. Tener liderazgo técnico y habilidades para la orientación.
+- Que sea capaz de solucionar problemas y aportar soluciones de forma rápida y eficaz.
+- Español y catalán: Nativo.
+- Inglés: C1 (Advanced).
+Salario según valía.

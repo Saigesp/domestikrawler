@@ -1,0 +1,9 @@
+
+¿Has terminado tus estudios de Programación? ¿Estás buscando trabajo? ¿Quieres crecer profesionalmente? ¿Te apetece formar parte de una gran empresa internacional?
+En Rhenus Logistics estamos buscando incorporar dos "Programadores Junior VB.NET / ASP.NET " en nuestra delegación de Barcelona (El Prat de Llobregat) de manera estable.
+Requisitos:
+- experiencia previa con VB.net, C# y ASP.Net: Proyectos web y librerías
+- conocimientos de SQL Server: base de datos y procedimientos almacenados
+- conocimientos de NET Framework 4.x
+- Nivel medio de inglés.
+No lo dudes, ¡Haznos llegar tu CV!

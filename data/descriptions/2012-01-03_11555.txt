@@ -1,0 +1,7 @@
+
+Alta experiencia con programación asíncrona, procesamiento en paralelo y un gran conocimiento del DOM.
+Experiencia con NodeJS, Memcache y el driver de MongoDB.
+El puesto cubre mayoritariamente necesidades de front-end pero también incluye una gran parte de back-end.
+Se valorará experiencia con CSS3, WebSockets, el elemento &lt;canvas&gt; y/o AS3.
+Abstenerse fans del jQuery.
+Trabajo presencial dentro de un equipo pequeño y joven. Jornada completa.

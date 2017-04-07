@@ -1,0 +1,8 @@
+
+Buscamos un programador BACK END con amplia experiencia en tecnología de Microsoft. El candidato deberá trabajar dentro de un grupo de 3 personas en la creación y mantenimiento de un grupo de aplicaciones, aportando su conocimiento y realizando los trabajos de programación que sean necesarios.
+Los requisitos son: 
+- Experiencia mínima de 3 años en un puesto similar 
+- Experiencia demostrable en tecnologías relacionadas (Microsoft) 
+- Amplios conocimientos en C# /.NET / MySQL / SQL Server 
+Se valora conocimiento en HTML5
+Se valorará conocimientos en sistemas y servidores 

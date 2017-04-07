@@ -1,0 +1,8 @@
+
+Hola,
+en Activotrade precisamos de un programador freelance con probada experiencia en desarrollo web en el framework Ruby on Rails para proyectos de colaboración continuada y/o soporte de tareas a corto plazo.
+Requisitos:
+- Experiencia demostrada trabajando en proyectos Ruby on Rails. 
+- Conocimiento de:  MySQL, Git, Redis, 
+- Experiencia usando RSpec, Rails 3.2+, Rails 2.2.
+- Extra: conocimientos de Javascript, AJAX, HTML y CSS

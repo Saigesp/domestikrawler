@@ -1,0 +1,21 @@
+
+Empresa distribuidora de vinos de alta gama precisa incorporar en plantilla un programador con experiencia en entornos web. El programador deberá realizar la nueva implementación web de la empresa en base a un modelo de tipo Front-Backoffice (gestor de contenidos) para una plataforma e-commerce. 
+Experiencia mínima: 3 años
+EDAD: A partir de 25 - 35 años.
+Requisitos:
+-Experiencia y sólidos conocimientos en arquitectura PHP, MySQL.
+-Conocimientos de diseño web.
+- Conocimientos de plataforma de pago via online.
+-Conocimientos sólidos FRONT (HTML, CSS, Javascript, JQuery,Twig,etc)
+-Entorno MVC Framework (Zend, Symfony2, etc)
+- SEM y SEO 
+-EDAD: SOLO DE 25 a 35 AÑOS.
+Muy Deseables:
+- CONOCIMIENTOS SOBRE VINOS O INTERES EN APRENDER.
+OTROS:
+- Experiencia mínima de 3 años como programador.
+- Nivel alto de INGLES, HABLADO Y ESCRITO.
+- Buena capacidad de organización y gestión de las tareas propias y de los programadores.
+- Capacidad de comunicación fluida y eficiente con perfiles no técnicos.
+Horario laboral 8h/día
+Incorporación inmediata

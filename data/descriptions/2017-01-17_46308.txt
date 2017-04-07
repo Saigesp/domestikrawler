@@ -1,0 +1,17 @@
+
+HRCS inicia un nuevo proceso de selección para incorporar 2-3 programadores/as con experiencia en Unity 3D, para incorporación en plantilla de importante empresa multinacional con sede en Málaga.
+Requisitos Mínimos
+· Los/as candidatos/as a esta posición deben tener un interés genuino en los últimos avances tecnológicos de la industria, incluyendo el desarrollo Unity 3D · 1+ años de experiencia profesional como desarrollador de Unity
+· Competencia en C# y otros lenguajes de scripting
+· Programación orientada a objetos.
+· Programación orientada a eventos.
+· Patrones de diseño de software.
+· Experiencia demostrada con desarrollo de juegos 2D/3D, realidad aumentada o realidad virtual
+· Conocimiento de las plataformas de control de versiones como GIT o SVN
+Requisitos Deseados
+· Conocimientos sobre programación de GPU y shaders.
+· Enfocado/a en la entrega de trabajo de calidad.
+· Capacidad para desarrollar interfaces de respuesta.
+· Trabajo en equipo, con actitud positiva y espíritu emprendedor. · Buen nivel de inglés tanto hablado como escrito.
+FUNCIONES
+- Diseño y desarrollo de aplicaciones en Unity 3D

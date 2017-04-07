@@ -1,0 +1,19 @@
+
+Hey Front-End developer who wants to develop professionally, we are looking for you!
+Join us in our brand new offices and be part of the leading pharmaceutic products ecommerce company.
+Great working environment**, an attractive contract, what else could you want?
+Basic qualifications 
+Write high quality HTML that is easy to read and scales well.
+Write majestic CSS that is friendly both to not-so-new browsers and the newest mobile devices.
+We work on our CSS using Sass, so (no surprise) you will need a solid Sass background. 
+Comfortable with javascript and jquery.
+Working experience with Github.
+Understand how JS, Images, and CSS impact performance.
+Basic level of english (because we communicate with our testers in english).
+Be very eager to learn.
+Preferred qualifications
+Knowledge of BEM, SMACSS or other methodologies for writing HTML or CSS.
+Experience in PHP.
+Experience with object oriented design patterns and principles.
+**We work in a very professional way and care about the details, but we also have a good time ;)
+

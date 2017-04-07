@@ -1,0 +1,28 @@
+
+We are seeking a talented Full Stack Ruby on Rails for the LettersTo brand that spans across Web, mobile, and print. The right candidate will be a talented Ruby on Rails Developer who has a passion for programming, possesses a good understanding of agile practices, and has a desire to join a team of exceptional developers working in a fast-paced environment to deliver first-class software.
+We also appreciate good collaboration skills (especially remotely), and experience working with product managers, designers, and developers.
+Responsibilities
+* Work in a fast paced collaborative and agile environment, following agile methodologies
+* Have an extensive knowledge of the entire stack and ability to operate as a Full Stack developer
+* Write clean, maintainable, reusable, reliable, and efficient Ruby code; Design robust, scalable and secure features
+* Contribute in all phases of the development lifecycle - architecture, design and development, user experience development, documentation, unit testing, delivery and maintenance
+* Monitoring and troubleshooting performance of the system as necessary
+Skills & Requirements
+Requirements
+* 3-years+ experience in Ruby on Rails development
+* 3-years+ experience in Agile development
+* Ability to work remotely
+* Good understanding of the syntax of Ruby and its nuances
+* Solid understanding of object-oriented programming
+* Ability to integrate multiple data sources and databases into one system
+* Experience with Test Driven Development (TDD), continuous integration
+* Proven working experience developing applications using modern, open source web frameworks and tools
+* Knowledge and experience in front-end technologies (HTML5, CSS3 & JQuery, JavaScript)
+* Experience with Git and a Pull Request code review process via Github
+LettersTo is a consumer service that lets friends, family and colleagues collaborate online to create a beautifully-bound collection of letters for a special recipient. The letters typically include sentiments of love, memories, best wishes, appreciation, advice, photos, etc. For example:
+* Letters to a bride & groom from their wedding guests
+* Letters to a parent or grandparent from all their extended family & friends for a birthday
+* Letters to a leader from colleagues whose lives the leader has inspired
+* Letters to a loved one's family as a memorial
+LettersTo books will be beautifully bound in a distinctive way to create an extraordinary, high-quality, meaningful gift. LettersTo provides a website and iOS/Android app for the organizer and all of the contributors to draft their letters online and select backgrounds, layouts, fonts, and include photos in creative templates. Once everyone has submitted their contribution, we print, bind and ship the physical book in delightful packaging.
+

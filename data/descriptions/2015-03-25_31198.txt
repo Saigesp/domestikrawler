@@ -1,0 +1,10 @@
+
+Aquidechillin busca desarrollador / programador drupal y java para desarrollo desde 0, y que posteriormente también nos ayude con la aplicación móvil. 
+No se aceptan presupuestos de agencias ni empresas. Sólo trabajadores "in-house", y en Madrid.
+En caso de no tener experiencia, se aceptaría el realizar un contrato remunerado en prácticas, con un salario menor al reflejado en esta oferta (600-1000 eur/mes).
+Escríbenos si manejas alguno de los siguientes, o si estás empezando a aprenderlos  y quieres seguir poniéndolos a prueba en el mercado:
+- Drupal
+- Java
+- C++
+- Se valorará positivamente saber o querer aprender Ruby On Rails, si bien no es imprescindible
+- Se valorará positivamente experiencia en desarrollos Android o IOS

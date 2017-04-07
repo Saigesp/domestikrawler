@@ -1,0 +1,27 @@
+
+Funciones requeridas:
+-Análisis y desarrollo de nuevas funcionalidades.
+-Definición y desarrollo de mejoras en la aplicación.
+-Formación y soporte a los usuarios.
+-Resolución y soporte de incidencias.
+Se ofrece:
+-Incorporación inmediata.
+-Incorporación a un equipo altamente cualificado y dentro de un proyecto de alto interés profesional.
+-Remuneración de acuerdo a los conocimientos y experiencia aportados.
+Requisitos:
+
+-Experiencia contrastada en desarrollo J2EE.
+-Experiencia con Spring MVC, Spring IoC, Spring Security.
+-Experiencia con JPA / Hibernate.
+-Experiencia contrastada en desarrollos sobre JBPM o Activiti BPM.
+-Experiencia en desarrollo de Apis mediante WebServices / Rest (JAXWS, JSON, WSDL , etc).
+-Experiencia en programación orientada a Servicios.
+-Experiencia con test unitarios (JUNIT) e Integración (Selenium).
+-Desarrollo sobre base de datos MySQL.
+-Experiencia en desarrollo JavaScript / Librerías UI
+-Uso de Maven.
+Se valorará: 
+-Experiencia contrastada en Alfresco 4.x/5.x
+-Experiencia con KendoUI.
+-Experiencia con Angular.
+-Experiencia con Dozer.

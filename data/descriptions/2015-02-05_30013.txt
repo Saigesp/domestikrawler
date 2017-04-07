@@ -1,0 +1,15 @@
+
+Green momit es una StartUp con más de 3 años de vida especializada en IoT (Internet of Things). Nuestro trabajo consiste en crear cosas (things), productos y soluciones que resuelven problemas de la vida real, mediante el uso de la tecnología más avanzada. 
+Nuestras oficinas están en Madrid y Londres. Somos un equipo de 30 personas, donde más del 50% son programadores y técnicos. 
+Buscamos incorporar uno o dos programadores al equipo de frontEnd. No pedimos años de experiencia, ni títulos, solo que nos demostréis que sois buenos. Los conocimientos que valoramos porque serán con los que trabajaréis todos los días son:
+- HTML 5
+- CSS 3
+- Javascript 
+- Apache cordova / phonegap 
+- Android / IOS
+- NodeJS
+- Java
+- MySQL 
+- Linux 
+- Scrum
+Si te gustan los retos, trabajar en equipo con la última tecnología, eres creativo e innovador y un buen programador, ya estás tardando en ponerte en contacto con nosotros. 

@@ -1,0 +1,9 @@
+
+Necesitamos un programador PHP con experiencia en WordPress para un importante proyecto con mucha proyección de futuro.
+Un perfil multidisciplinar, dinámico y muy resolutivo, que sea capaz de desarrollar en PHP e integrar con WordPress con consultas avanzadas a bases de datos MySQL. Necesitamos una persona capaz de desarrollar plugins, así como de adaptar perfectamente a las necesidades del proyecto cualquier elemento externo que pueda ser de utilidad. 
+Requerimos conocimientos de:
+PHP
+MySQL
+GIT
+Wordpress
+Jornada completa de lunes a jueves de 9 a 18,30 (1 hora para comer) y viernes de 9 a 15.

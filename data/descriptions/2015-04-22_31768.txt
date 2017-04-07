@@ -1,0 +1,16 @@
+
+THE JOB
+You are passionate about programming, software architecture and patterns. You are comfortable with agile development processes and tools such as refactors, unit testing, software repositories, branches, patches, etc. 
+You will join an international team of 8 engineers (CS and EE). Together with another member of the team you’ll share the architectural responsibilities. Your job will consist in designing new features, supporting other members of the team in implementing them, and make sure that the documentation and tests are up to date. You’ll have the opportunity to work with many different technologies in different areas: mobile, web, systems, Wi-Fi and mobile wireless networking, routing, telecommunications protocols, ...
+REQUIREMENTS
+Software architecture and patterns. Development processes and tools such as refactors, unit testing, software repositories, revision control tools. At least 2 years of experience.
+Optional:
+Understanding of SQL databases and web application technologies like Javascript, CSS, HTML, Ajax.
+Experience with jQuery, Sencha / ExtJS and highcharts / highstock, PHP and Perl will be a plus.
+THE COMPANY
+Social & Beyond is a Wayra-accelerated startup founded in 2012 which currently has 10 employees. We develop software to manage wifi infrastructure and engaging mobile wifi web portals. We are located at the Telefonica building near the beach. See pictures and videos of our work place here http://tyba.com/company/social-beyond
+We operate in Europe, South America and Russia.
+POSITION
+● Software Architect
+● Full-time, 8h Monday to Friday (40h per week) with flexible working hours
+● Permanent contract

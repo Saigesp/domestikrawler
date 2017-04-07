@@ -1,0 +1,23 @@
+
+Descripción de empleo:
+Definición e implementación de soluciones de software para departamento de marketing
+Responsabilidades y tareas:
+-	Definir, implementar y gestionar herramientas y plataformas acordes a las necesidades de la empresa.
+-	Dar soporte a los usuarios del software
+-	Desarrollo de mantenimientos evolutivos y mejoras.
+Aptitudes y conocimientos deseados:
+-	Imprescindible experiencia en desarrollo de sitios eCommerce y gestión de páginas web
+-	Experiencia con gestores de contenidos Wordpress, Joomla, Drupal
+-	Experiencia con herramientas de Opensource
+-	Capacidad de coordinación de personas y/o departamentos.
+-	Manejo de presupuestos
+-	Persona proactiva y al día con las tendencias en el sector de la tecnología de la información.
+-	Idiomas: Inglés nivel medio
+Requisitos técnicos:
+-	HTML/HTML5 
+-	CSS/CSS3 
+-	JavaScript y JQuery 
+-	MySQL y PHP
+-	Herramientas Open Source de eCommerce (Magento, Prestashop) 
+-	Se valorará experiencia en Zendesk y Magento
+-	Mínimo 3 años de experiencia

@@ -1,0 +1,25 @@
+
+En Iwantic estamos buscando un/a Desarrollador/a JAVA, para una gran compañía del sector distribución y gran consumo en Barcelona.
+Formando parte del Departamento de Marketing, reportará a la Responsable de E-Commerce y se encargará de realizar actualizaciones de la tienda online de la compañía. 
+Las funciones que desempeñará el/la candidato/a seleccionado/a serán:
+ - Interpretación de análisis funcionales.
+ - Implantación / desarrollo.
+ - Mantenimiento de aplicaciones.
+ - Pruebas.
+ - Casos de uso.
+Requisitos:
+- Formación técnica (FP o titulación universitaria).
+- Nivel de inglés medio alto (FCE)
+- Lenguajes: Java/J2EE
+- Frameworks de desarrollo: Struts, Spring, Groovy, PrimeFaces
+- Experiencia con IDEs (Entornos de Desarrollo Integrados): Eclipse
+- Persistencia de Objetos: Hibernate
+- Plataforma Java EE: Servlets, Web Services
+- Desarrollo orientado a incremental / Calidad: Jenkins, JUnit
+- Control de código: Subversión, Maven
+- Servidor de Aplicaciones: JBOSS
+- Bases de datos: DB2, PL/SQL
+- Capa de presentación web: JavaScript, AJAX, JQuery
+- Entornos de alta disponibilidad
+- Balanceos de carga
+Si eres una persona a la que le gusta trabajar en equipo, proactiva y responsable, flexible, asertiva y orientada a objetivos, ¡queremos contar contigo!

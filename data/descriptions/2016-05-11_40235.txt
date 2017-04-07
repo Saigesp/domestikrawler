@@ -1,0 +1,19 @@
+
+Actualmente estamos desarrollando diversas aplicaciones Apps (Ionic) y Webapps (PHP). Debido al crecimiento de un proyecto concreto, necesitamos incorporar a la plantilla a un desarrollador full stack, con soltura tanto a nivel de Frontend como Backend. No buscamos un nivel impresionante, pero sí a alguien con capacidad de aprendizaje para crecer al ritmo al que crece la empresa.
+Requerimientos mínimos:
+- PHP 5.x / 7.x
+- Manejo del modelo Entidad/Relación 
+- MYSQL/PostgreSQL
+- Javascript (Jquery/Angular...)
+- CSS
+- Conocimientos del MVC
+- Git
+Requerimientos deseables:
+- IONIC/Cordova
+- Laravel
+- NodeJS
+- UnitTest
+Aptitudes:
+- Trabajo en equipo
+-  Proactividad
+- Capacidad de aprendizaje

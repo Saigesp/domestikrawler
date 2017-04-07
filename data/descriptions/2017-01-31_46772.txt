@@ -1,0 +1,21 @@
+
+Buscamos un/a Programador Desarrollo FullStack con experiencia mínima de 2 años
+Se requiere:
+Experiencia en PHP.
+Experiencia en HTML5, Javascript, y CSS3.
+Experiencia en AngularJS o similar.
+Experiencia en trabajo con Javascript Task Runners (como GRUNT).
+Experiencia en lenguajes dinámicos para hojas de estilo (como LESS o SASS).
+WEB API (RESTful web services).
+Valorable:
+Experiencia con FrameWorks en PHP como Symfony, Laravel o CodeIgniter.
+Experiencia en otros lenguajes de servidor como .NET o Java.
+Experiencia en ReactJS.
+Experiencia con SASS.
+Experiencia en proyectos construidos bajo Bootstrap.
+Experiencia en la construcción de proyectos usando WordPress como plataforma.
+Alto nivel de inglés, sobre todo hablado.
+Se Ofrece:
+Ofrecemos contrato indefinido de programador para trabajar en un ambiente agradable y con un equipo joven pero con dilatada experiencia en el sector de diseño y programación web. Actycrea lleva dando guerra desde el 2006.
+Remuneración:
+Sueldo bruto anual entre 28.000€ – 38.000€ en 12 pagas (negociable según experiencia y valía) con contrato indefinido.

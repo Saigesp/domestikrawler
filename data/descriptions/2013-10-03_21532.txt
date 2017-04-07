@@ -1,0 +1,20 @@
+
+AGORIQUE is a subscription online B2B platform connecting up-and-coming fashion designers with mutli-brand retailers. AGORIQUE provides designers with a virtual showroom to exhibit and sell their collections and allows retailers to browse, custom search for brands &amp;amp; products and place orders. AGORIQUE understands the difficulties young designers face in this fast paced industry and we want to help bring wholesale fashion into the future. We are an exciting new start-up based in Barcelona with offices in NYC. We are growing quickly and are looking to add top talent to our team.
+Currently, we are looking for a front-end developer with the following profile:
+Required Skills:
+- Excellent HTML, XHTML, CSS programming skills
+- Experience in UX design
+- Layout experience
+- Experience in mobile
+- JavaScript deep knowledge
+- Control version systems (Git)
+Desired Skills:
+- Templating languages such as Slim or Haml
+- Coffeescript Experience
+- Less or Sass knowledge
+- Frontend frameworks such as: Backbone JS, Angular JS or Ember JS
+- Ruby Experience
+Benefits
+- Flexible schedule
+- Join an international team
+- Be part of a dynamic, growing start-up 

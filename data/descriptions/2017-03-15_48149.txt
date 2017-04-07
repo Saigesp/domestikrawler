@@ -1,0 +1,13 @@
+
+Somos una empresa de desarrollo de aplicaciones web fundada en el 2006.
+Buscamos a una persona con conocimientos avanzados en:
+- PHP
+- MYSQL
+- Javascript 
+- HTML5
+- CSS3
+- Bootstrap 
+El trabajo ofertado es a tiempo completo, indefinido y con incorporación inmediata.
+La experiencia mínima requerida es de 2 años demostrables.
+El sueldo ofertado es en función de los conocimientos del candidato / a.
+Se valorará positivamente conocimientos en diseño y trabajos en frameworks como Wordpress.

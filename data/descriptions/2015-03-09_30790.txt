@@ -1,0 +1,28 @@
+
+Rootmedia es una empresa joven emergente del sector TIC en la que trabajamos con las últimas tecnologías en publicidad mobile.
+Nos apasiona el diseño y el trabajo en equipo. Tenemos una plantilla de profesionales donde aprenderás en las últimas tecnologías.
+Queremos incorporar un diseñador gráfico / web para el equipo de diseño el cual trabajará en equipo con otros diseñadores  y programadores.
+Las funciones principales a desarrollar y conocimientos necesarios son:
+- Nivel alto en diseño de productos y landing pages. 
+- Generación de estilos y código html a utilizar. 
+- Maquetación cross browser (sobre todo enfocado a móviles)
+- Optimización de carga de las páginas 
+- Herramientas de diseño: Photoshop, Illustrator.
+- Capacidad muy alta de desarrollar productos desde cero, partiendo de un diseño propio hasta su maquetación final PSD to HTML
+- Detallista. Gusto por los detalles y el acabado final.
+- Desarrollo Front con HTML5, CSS3 Animations y JS.
+- Diseño en wordpress
+Requisitos: 
+- Experiencia demostrable de entre 2 y 5 años en puesto similar.
+- Experiencia en maquetación web: HTML5, CSS3 y DISEÑO RESPONSIVE (Éste punto es importante)
+-Experiencia en Diseño gráfico para web, diseño de logotipos, landing pages, elementos web (UI, buttons etc)
+-Experiencia en diseño adaptado para móvil
+-Jquery y Javascript
+-Movilidad geográfica
+Valoraremos positivamente: 
+- Framewoks tipo NODE o Angular JS 
+- Conocimientos de LESS o SASS
+- Poseer una gran capacidad creativa y habilidades artísticas en la elaboración de bocetos y prototipos. 
+- Capacidad de aprendizaje e innovación para estar al día en las tendencias creativas y tecnológicas. 
+- Capacidad de trabajo en equipo, autogestión, responsabilidad y buena predisposición.
+

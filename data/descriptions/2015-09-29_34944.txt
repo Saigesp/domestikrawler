@@ -1,0 +1,17 @@
+
+Desde The Valley Talent, Head Hunter especializado en perfiles digitales, buscamos un Desarrollador de Servidor de Juegos para importante empresa del sector ocio.
+El candidato, reportando al Director del Área de Desarrollo, desempeñará las siguientes funciones:
+•	Desarrollo de la lógica de juegos de diverso tipo.
+•	Desarrollo e integración de APIs para la comunicación con el front-end de los juegos, gestión de las operaciones con servidores de terceros y con las cuentas de usuario del jugador.
+•	Escritura de código claro y legible.
+•	Desarrollo de programas fiables y eficientes con capacidad de escalarse en sistemas distribuidos.
+•	Involucración en los proyectos, desde su concepción hasta su puesta en marcha y posterior mantenimiento y segumiento.
+•	Optimización de recursos y rendimiento de los juegos para su utilización con elevado volumen de tráfico.
+Requisitos y competencias personales
+o	Licenciado/ Graduado en Ingeniería Informática
+o	Experiencia de 1-3 años en puesto de desarrollo de servidores de juegos
+o	Dominio de la programación con Java, C++ o C#.
+o	Conocimiento avanzado de tecnologías de desarrollo ágiles
+o	Nivel alto de Inglés
+Se considera imprescindible para el candidato su alta capacidad de adaptación a diversos entornos, capacidad de trabajo en equipo y estar al día en las últimas tendencias del sector.
+El puesto requiere un perfil proactivo, con alta capacidad de organización para la gestión de diferentes proyectos. Deberá ser una persona autónoma y muy familiarizada con metodologías ágiles de trabajo.

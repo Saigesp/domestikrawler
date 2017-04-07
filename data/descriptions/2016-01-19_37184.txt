@@ -1,0 +1,14 @@
+
+Somos agencia de publicidad pequeña y de gente joven especializada en producción de vídeo páginas webs y apps.
+Buscamos un programador con ciertas nociones de diseño gráfico para producir páginas webs y aplicaciones móviles. El objetivo es que se incorpore lo antes posible para encargarse del departamento de desarrollo por las mañana o por la tardes indistintamente, como  prefiera el candidato, pero de moemento media jornada.
+Necesarios
+HTML5
+CSS
+Javascript
+Desarrollo de Apps híbridas (Cordova / Phonegap)
+Valorables
+Java. J2EE & Android
+IOS development
+Bases de datos. MySql, PostgreSQL
+Photoshop
+

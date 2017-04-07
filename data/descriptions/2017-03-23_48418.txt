@@ -1,0 +1,17 @@
+
+Cink es una compañía del grupo LLORENTE & CUENCA especialista en resolver retos estratégicos de innovación tecnológica, prototipado y transformación digital que ofrece servicios a clientes multinacionales ayudándolos en la definición de servicios digitales de nueva generación y promoviendo el cambio hacia una cultura digital.
+Buscamos incorporar un mobile developer en nuestra oficina ubicada en Barcelona.
+El profesional que se incorpore debe cumplir los siguientes requisitos:
+- Profesional centrado en el desarrollo de aplicaciones móviles usando herramientas de desarrollo multiplataforma.
+- Conocimientos de JavaScript. 
+- Deseable experiencia desarrollando aplicaciones en el entorno AppceleratorStudio (Titanium) y valorable experiencia en otros frameworks de desarrollo como Ionic, NativeScript o Ruymotion.
+- Profesionales responsables, con afán de superación.
+- Comprometidos con la Compañía y con el trabajo que desarrollan.
+- Clara orientación a cliente.
+- Profesionales orientados a trabajar por objetivos y resultados.
+Las principales responsabilidades serán las siguientes:
+- Dar soporte al ciclo de vida completo de la aplicación (toma de requisitos, conceptualización, diseño, desarrollo, pruebas, implantación y soporte).
+- Crear aplicaciones móviles plenamente funcionales, siguiendo las buenas prácticas de desarrollo.
+- Prestar especial atención al proceso de pruebas en las diferentes plataformas, principalmente Android e iOS.
+- Colaborar con el equipo para el diseño y correcta integración de aplicaciones móviles con el backend de las aplicaciones.
+- Negociar con el equipo la implementación de nuevas funcionalidades y la mejora de las ya implementadas.

@@ -1,0 +1,14 @@
+
+Estamos buscando un diseñador para el área digital (web, mobile, google glass...) con elevado grado de iniciativa y creatividad. 
+Requisitos:
+- Experiencia demostrable en el desarrollo de interfaces de usuario web
+- Conocimientos avanzados de usabilidad y diseño de la interacción
+- Capacidad de trabajo en equipo
+- Orientación a resultados
+- Autonomía 
+- Plataforma Adobe (Ilustrator, Photoshop,...)
+Se valorará:
+- Experiencia previa en sectores Financiero y e-Commerce.
+- Dominio de los estándares HTML5, XML y CSS
+- Conocimiento de desarrollo con librerías y frameworks basados en JavaScript (Bootstrap, jQuery, AngularJS, etc.)
+No se considerarán candidaturas que no cumplan los requisitos ni aquellas que planteen trabajo en remoto.

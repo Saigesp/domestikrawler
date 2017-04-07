@@ -1,0 +1,20 @@
+
+¿Sabías que Cognizant ha sido reconocida como una de las compañías más admiradas del mundo en las que trabajar?
+En nuestro centro de desarrollo en Valladolid buscamos un especialista en la tecnología PHP para trabajar con Drupal e incorporarse a un atractivo proyecto a nivel internacional.
+¿Quieres saber más sobre Cognizant y que podemos ofrecerte?
+ http://cognizantcareers.eu/es_es
+Responsabilidades:
+- Asegurarse de que las soluciones entregadas cumplan los requisitos técnicos y funcionales
+- Ofrecer ayuda técnica y soporte al resto del equipo
+- Revisar, aconsejar y asistir en la selección de funcionalidades apropiadas.
+- Proporcionar estimaciones para los proyectos asignados
+- Identificar riesgos técnicos
+Requisitos:
+- Al menos 5 años de experiencia en desarrollo web con conocimiento sólidos de PHP, preferiblemente experiencia en arquitectura.
+- Experiencia en Drupal será altamente valorada.
+- Conocimientos avanzados de LAMP (PHP), PHP5, MySQL y HTML/CSS/AJAX/JavaScript.
+- Conocimiento de seguridad de aplicaciones web.
+- Experiencia trabajando en equipos utilizando metodologías Ágiles.
+- Excelentes habilidades de comunicación y capacidad resolutiva.
+- Fluidez en Inglés tanto a nivel escrito como hablado, las entrevistas serán en Inglés.
+- Flexibilidad para viajar a oficina de cliente en el extranjero si fuera necesario.

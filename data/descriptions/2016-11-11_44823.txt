@@ -1,0 +1,29 @@
+
+Alea is an award-winning leader in the online gaming field. We are dedicated to delivering fully licensed, multi-platform casinos to our customers, while at the same time, offering high-performance gaming solutions and top-quality services to the market place.
+
+
+Here at Alea, we are building an awesome cloud-based casino engine, aiming to provide the best player experience in eGaming. And let's be honest, we simply want our software to be the best - less is just not acceptable.
+
+As a cutting-edge technology startup we also have provided the first Virtual Reality Casino experience in the world.
+
+Concerning our VR product, we are looking for a Senior C++ developer who will join our Virtual Reality team based in Barcelona, managing our Development team.
+
+The C++ leader will be our wizard of UnReal Engine (even if you haven't worked with Unreal, we can tech you!). You will be the technical bridge between the development and the Gaming, making the things work properly in order to build an awesome Virtual Reality Casino and provide a great player experience to our players.
+
+Who you are:
+
+-       You have an in depth knowledge of UnReal Engine (or other engines)
+-       You are a great C++ and Javascript Developer
+-       You have experience with GPU performance optimization
+-       You have been involved in complex virtual reality or gaming projects
+-       You are comfortable working with VR environment as Oculus, StreamVR or Google
+-       You have experience with sockets and Json.
+-       You speak English and you are ready to start living in Barcelona.
+-       You want to take part of an awesome VR project no matter what.
+
+What we offer:
+
+·       A really competitive salary package based on your experience.
+·       An awesome flexible benefits package, including Medical insurance, Gym, fresh fruit every day, Food and Transport card.
+·       To join an international, young and friendly work environment (we play videogames and have drink all together after work in our terrace).
+·       To work with the newest cutting-edge technologies (Virtual reality, Oculus)

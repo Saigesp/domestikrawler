@@ -1,0 +1,24 @@
+
+Somos 
+En OneTec somos especialistas en consultoría, análisis, diseño, integración y construcción de soluciones. Acompañamos a nuestros clientes en su transformación digital. 
+Integrados en el sólido Grupo Onetec, desde 2003 apostamos por el crecimiento continuo de las personas, basándolo en criterios de sostenibilidad y responsabilidad social. 
+Nuestra oferta en desarrollo web y móvil se completa gracias a Tanta que, desde 2001, define, desarrolla y ejecuta estrategias digitales para nuestros clientes, sus marcas y sus productos. 
+Nuestro core: Maximizar el valor entregado a nuestros clientes a través de la unión de innovación tecnología con metodologías ágiles.
+Buscamos
+Un/a experto/a en Front con Angular JS para incorporar a nuestro departamento de desarrollo. 
+Una persona tecnológicamente inquieta, con habilidades para convertirse en un referente tecnológico tanto para nuestros equipos, como para nuestros clientes. 
+Esta persona deberá poseer muy buenas dotes de comunicación e interlocución.
+Necesitamos que tenga sólida experiencia trabajando con:
+HTML5 + CSS3 
+Uso de preprocesadores CSS tipo Sass o Less 
+Frameworks como Bootstrap, Ionic… 
+Javascript experto, con AngularJS. 
+Se valorará experiencia con otros frameworks de JS como Backbone 
+Diseño de la arquitectura técnica de Frontend 
+Control de versiones en GIT 
+Metodologías de desarrollo ágiles
+Ofrecemos:
+- Trabajo en Madrid capital 
+- Salario competitivo en función de experiencia y conocimientos aportados 
+- Seguro Médico + Tickets
+

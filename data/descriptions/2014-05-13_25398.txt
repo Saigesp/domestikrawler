@@ -1,0 +1,17 @@
+
+Description
+We are looking for a freelance developer in the Barcelona Spain area preferable but can be someone working remotely. You will be working directly on our new stealth project that will change the nightlife.
+Duties:
+Develop, improve and maintain web app applications coded in Sencha / Sencha Touch
+Delivery Android , iphone and windows phone apps
+Collaborate closely with our design, UX and marketing team members in a fast-paced development environment
+Skills:
+HTML5, CSS3, JavaScript, AJAX, JQuery, JSON, Sencha , Sencha Touch, Phonegap
+Requirements:
+- Any experience with development for IOS or Android is a plus 
+- Experience with Object Oriented programming methodologies
+- Sharp, driven, entrepreneurial, strong communication skills
+- Ability to complete assignments with minimal supervision and direction
+Start Date: May 2014
+Salary: Depending on experience
+Location: No office. All work remote. We do online/personal meetings every week.

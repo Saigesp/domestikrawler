@@ -1,0 +1,15 @@
+
+addSolutions, consultora tecnológica de Barcelona, busca:
+Características del puesto de trabajo: 
+Para proyecto web en las oficinas de uno de nuestros clientes en Barcelona capital durante un período de 2 meses, buscamos 1 maquetador entorno WEB con un buen perfil de front end, para un proyecto de corta duración.
+Requisitios mínimos: 
+- Experiencia mínima de 2 años maquetando webs 
+- Maquetador con experiencia en HTML5 
+- Javascript 
+- Jquery 
+- CSS3 
+- Bootstrap (maquetación responsive) 
+Requisitios deseados: 
+- Conocimientos de Java 
+- Conocimientos en Layouts y themes de Liferay 
+- Desarrollo con IDE Eclipse  

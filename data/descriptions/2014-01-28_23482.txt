@@ -1,0 +1,9 @@
+
+Matmax somos un empresa joven que ofrece servicios profesionales a todo tipo de instaladores. Nos motiva centrarnos en nuestros usuarios ya que perseguimos que nos usen cada día como hacen con sus herramientas en el día a día.
+En matmax, estamos buscando un/a programador/a Ruby on Rails senior con experiencia en bases de datos PostgreSQL. Se valorará experiencia en administración de sistemas web Linux.
+Requisitos mínimos:
+- dos años de experiencia en Ruby on Rails.
+- familiarizado en metodologías Agile Scrum.
+- haber usado anteriormente algún sistema de control de versiones (preferentemente GIT).
+- experiencia en procesos de sincronización de bases de datos.
+No es necesario tener un gran dominio de HTML, CSS y JS, pero sí ser ordenado y preocuparse por hacer que el código sea entendible a ojos de otros desarrolladores.

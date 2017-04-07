@@ -1,0 +1,51 @@
+
+AKTIOS IT CONSULTANT is seeking a Solution Architect to work in a Multinational company with location in Palma de Mallorca.
+Description:
+Solution Architect primary goal is to ensure that the solution fits within the enterprise context, led and defined by the Enterprise Architecture team.
+To be involved in tasks like the following:
+- Lead the proposal of a technical solution for a business need.
+- Coordinate the rest of architects who participate during this process, in relation to the consistent usage of enterprise information, effective integration in with other applications, correct infrastructure definition and the compliance with the enterprise security policy.
+- Participate, support and review the technical designs related to each deliverable of the project
+- Support the business analysts in understanding the business needs and in translating them into technical language
+- Influence business process design.
+We need a candidate with these skills and facilities:
+• University Degree or equivalent.
+• English - full professional proficiency
+• Work in Palma de Mallorca.
+Knowledge
+ Software engineering.
+ ITIL
+ Agile & Lean
+ Project management.
+ SOAP
+ TOGAF
+ Content management Software. (Enterprise Architect, JIRA, Confluence).
+ Knowledge of Development Software Methodologies.
+ Knowledge of Definitions of Design applications solutions.
+Experience
+Experience in analysis and Requirement Management, in technical coordination of (Computer) systems. Development in Software modules and tests of deliverables. Implementation and Management of Product Software Changes and Product Software Life Cycle. Design with a view of meeting objectives. Good working knowledge of Software design Technologies such as:
+ Java, Eclipse/IntelliJ IDEA, Maven, JBoss Application Server, Apache Web Server, J2EE
+ XML, Web Services, SOA
+ UML
+ Life Cycle Management
+ PL/SQL y MySQL
+ Forms
+ JSP
+ JavaScript
+ SVN
+ Cloud services: AWS, S3, EC2, Puppet, Cloud Formation, SWF.
+Abilities & personal qualities:
+ Integrating vision.
+ Analysis skills
+ Conceptual and Abstract thinker.
+ Ability to solve technical problems.
+ Technical Leadership Skills.
+ Interpersonal Skills.
+ Multitasker
+ Organized
+ Ability to efficiently delegate tasks.
+ Good team player.
+We offer
+- Permanent contract 
+- Work in a multinational and recognized company.
+- Attractive salary and benefits.

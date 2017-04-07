@@ -1,0 +1,13 @@
+
+Melboss Music es una empresa con sede en San Francisco (Palo Alto), Los Angeles y Madrid.
+En Melboss buscamos un desarrollador front-end  para nuestra plataforma y para nuestros clientes. Buscamos a una persona brillante, inteligente, resolutiva y con ganas de aprender, alguien a quien le guste estar a la última en tecnología web.
+Requisitos Mínimos: 
+- Apasionado del desarrollo Front 
+- Experiencia con Bootstrap 3, maquetación Responsive, Preprocesadores CSS (Stylus, Less, Sass). 
+- Prestas atención a la optimización del código, buenas prácticas, estándares, clean code. 
+- Conocimientos de UX. 
+- Conoces frameworks JS como Angular, Ember y/o Backbone, Node.js
+- Familiarizado con sistemas MVC y controladores de versiones como GIT. 
+- ¿Tienes código en GitHub, BitBucket?, ¿trabajas con Sublime Text o similares (Webstorm, Vim)? 
+- Conocimientos de Wordpress
+- Conocimientos de diseño

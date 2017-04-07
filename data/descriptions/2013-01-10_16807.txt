@@ -1,0 +1,18 @@
+
+FREELANCE Y EMPRESAS ABSTENERSE
+Buscamos personas que compartan nuestra misma visión, nuestros mismos objetivos y que quieran cambiar y mejorar la sociedad actual, además de crecer profesionalmente en una empresa joven y dinámica con vocación internacional. Personas que sepan definir y desarrollar las principales características y aplicaciones de Saluspot para ayudar a las personas a vivir vidas más saludables y obtener la mejor información de salud disponible en internet. 
+Aprende más sobre Saluspot en nuestra web www.saluspot.com
+Tus responsabilidades serán las siguientes:
+- Definir la arquitectura y la infraestructura básica para el producto y construir un sitio que sea intuitivo y fácil de usar con código eficiente, reutilizable y fácil de mantener. 
+- Entender las necesidades reales comunicadas por los jefes de producto y diseñadores y llegar a soluciones óptimas, ademas de comprender cómo los usuarios responden al sitio para poder mejorarlo continuamente en base a esa comprensión. 
+- Ayudar a definir los procesos de ingeniería apropiados para el desarrollo rápido y eficiente del producto.
+Requisitos:
+- Título de grado o postgrado en informática que demuestre conocimientos profesionales en codificación y experiencia en la construcción de aplicaciones web.
+- Lenguajes de Programación: PHP5, HTML, JavaScript, XML, Ajax, CSS 
+- Tecnología LAMP 
+- BBDD: MySQL 
+- Sistemas Operativos: Linux 
+- Herramientas: Frameworks (Codeigniter, jquery, etc) 
+- Experiencia en Programación Orientada a Objetos con PHP5 
+- Valorable experiencia en desarrollos de software relacionados con Redes Sociales. 
+- Valorable experiencia en sistemas de control de código fuente como svn o git.

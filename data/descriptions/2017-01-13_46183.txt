@@ -1,0 +1,34 @@
+
+En Loycus estamos buscando un programador javascript con Angular JS, para unirse a un importante y ambicioso proyecto a nivel nacional e internacional, con muchas posibilidades de proyección y crecimiento.
+¿Qué es Loycus? 
+¡Todavía no podemos desvelarte los secretos de nuestro proyecto pero ya queda mucho menos para que se haga realidad! Aunque de momento te contaremos que Loycus va ser el mayor punto de encuentro de negocios y profesionales con todos los usuarios que tienen alrededor ;)
+¿Quieres formar parte de el?
+Estarás al cargo de:
+-Trabajar en un equipo multidisciplinar. 
+-Implementar la funcionalidad con un muy buen desarrollo y aportando una gran experiencia. 
+-Crear test de prueba para asegurar la calidad del producto. 
+-Estar al día de nuevas tecnologías, evaluar e implementar para tener un desarrollo lo más eficiente posible. 
+-Hacer tuyas las funcionalidades a desarrollar, trabajar en equipo y con los diferentes actores responsables del proyecto. 
+-Trabajar mano a mano con el resto de desarrolladores y diseñadores. 
+-Tomar responsabilidades en los plazos de entrega y calidad de las funcionalidades desarrolladas.
+Qué te ofrecemos:
+-Salario a convenir según experiencia (28k - 40k Brutos anuales) 
+-Muchas posibilidades de proyección dentro de la empresa. 
+-Oficina centro de Madrid. 
+-Buen ambiente de trabajo. 
+-Contrato indefinido. 
+-Disponibilidad inmediata. 
+-Aptitudes y conocimientos deseados
+Los requisitos para el puesto son:
+-Conocimientos de programación HTML5, CSS3, Angular Js. 
+-Experiencia con llamadas API REST, JSON. 
+-Conocimiento de GIT. 
+-Conocimiento de ES6. 
+-Se valorará conocimientos de Redux. 
+-Se valorará conocimientos de WebPack. 
+-Se valorará conocimientos de TDD. 
+-Se valorará conocimientos con metodología scrum y herramientas como JIRA, Bitbucket, Jenkins. 
+-Se valorará conocimientos de Docker. 
+-Se valorará conocimientos api paypal y pasarelas de pago. 
+-Se valorará conocimientos de integración con redes sociales. 
+-Experiencia de al menos un año en desarrollo de aplicaciones Web.

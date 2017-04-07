@@ -1,0 +1,23 @@
+
+Se busca desarrollador web junior freelance como apoyo para picos de trabajo recurrentes de forma no presencial para empezar a trabajar de manera inmediata. 
+Los proyectos a desarrollar, por el momento, serán proyectos Front-end o sitios web corporativos basados en Wordpress.
+REQUISITOS MÍNIMOS 
+- HTML/CSS (media queries)
+- Bootstrap
+- jQuery (Javascript)
+- PHP
+- Wordpress (conocer su funcionamiento)
+- GIT
+- Criterio en diseño y usabilidad
+- Manejo con Adobe Illustrator
+- Facilidad en trabajo online
+- Poder emitir facturas
+Todo lo que venga a partir de ahí relacionado con el mundo web es bienvenido (Manejo con APIs, LESS, AngularJS, Grunt, administración de servidores, Symfony2, cualquier otro lenguaje de programación lado servidor, conocer aspectos básicos de SEO...).
+Se valorará tener conocimientos en desarrollo de APPs móvil (tanto híbridas como nativas).
+Se busca a una persona con ganas, que esté ya curtida en el mundo web o, si no lo está, que tenga ganas de aprender. Importante que sea una persona fiel a los tiempos fijados, con facilidad en el trabajo online, mínima sensibilidad con el diseño y cierta autonomía.
+REMUNERACIÓN
+Por proyecto.
+SOBRE NOSOTROS
+https://www.linkedin.com/in/laurentdietrich
+https://www.linkedin.com/in/barrosismael
+http://www.domestika.org/es/ismael-barros

@@ -1,0 +1,22 @@
+
+
+Nnergix es una compañía innovadora formada por profesionales del sector de la energía con sólidos conocimientos basados en años de experiencia en el campo de las energía. 
+Ofrecemos un producto pionero en el mercado que aplica inteligencia artificial y data mining al campo de las energías renovables y producción energética. 
+El rol: 
+Como programador PHP te encargarás del desarrollo de nuestra plataforma de visualización de datos añadiendo nuevas funcionalidades, desarrollando soluciones personalizadas para nuestros clientes y en definitiva llevando nuestra plataforma al siguiente nivel. 
+Qué buscamos:  
+-Ingeniería técnica o superior en informática
+-Al menos 2 años de experiencia en rol similar 
+-Conocimientos avanzados de Javascript y experiencia con Angular 
+-Conocimientos avanzados de PHP y experiencia con Symfony 2
+-Experiencia con BBDD MongoDb será altamente valorado 
+-Conocimiento en herramientas de control de versiones (GIT)
+-Valorarle conocimientos de Linux y Apache 
+Qué te ofrecemos:  
+-Entorno flexible de trabajo, no tenemos horario, todos sabemos qué hacer y cómo debemos organizarnos 
+-Posibilidad de teletrabajo 
+-Posibilidad de tomar responsabilidad sobre un producto y hacerlo propio 
+-Buen ambiente y pasión por nuestro producto 
+Espacioso local comercial en calle Vallodonzella, ideal ubicación entre la comercial Ronda San Antoni y la transitada calle Joaquin Costa. Espacio por reformar con gran potencial dividido en una planta baja de unos 220 m2 y un piso superior de unos 40 m2. 
+El local dispone además de 2 aseos y un baño completo. 
+Local bien ubicado cerca de las paradas de metro de San Antoni, Urquinaona y Plaza Cataluña.

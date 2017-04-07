@@ -1,0 +1,22 @@
+
+En Emotion Experience creamos emociones y experiencias como eje central de nuestros proyectos, mediante soluciones creativas, innovadoras y tecnológicas de valor superior. Proyectamos y sostenemos estrategias de diálogo entre nuestros clientes y su mercado. Mediante esfuerzo, implicación y adaptación constante al cambio y a la mejora conseguimos crear valor empresarial, fidelizar los consumidores de nuestros clientes y disfrutar con lo que hacemos.
+Como resultado nuestros clientes nos recompensan con relaciones fructíferas y duraderas que permiten a nuestra gente evolucionar y crecer con ellos.
+"¡Si no existe lo creamos!”
+Buscamos: 
+Un desarrollador Java/C# con al menos 2 años de experiencia demostrables para desarrollar nuevas funcionalidades y crear software de calidad, testeable y mantenible. 
+Profesional con disposición para trabajar en equipo, innovad@r, creativ@, comprometid@ con el trabajo, integr@ en la toma de decisiones, capaz de adaptarse fácilmente a los cambios y los requerimientos de cada cliente/oferta. Y sobre todo que se emocione con lo que hace y le guste nuestro proyecto.
+Conocimientos técnicos requeridos:
+Software development patterns knowledge.
+Clean Code
+Java or C# Development  
+Experience in usage of RESTful Http APIs
+Android Development
+Unit Testing (JUnit or NUnit)
+Git 
+Conocimientos valorables:
+Arduino 
+PHP Api Development
+MySql
+GitFlow
+XMPP
+GNU\Linux (basic administration and DBus)

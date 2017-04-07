@@ -1,0 +1,16 @@
+
+Empresa especializada en venta on-line requiere un desarrollador JAVA para ayudar en la fase de internacionalización.
+El puesto de trabajo es a jornada completa.
+Se requieren conocimientos en las siguientes áreas/tecnologías:
+Requerido:
+- Spring
+- Hibernate
+- Entorno linux
+Altamente apreciado:
+- Eclipse
+- Hibernate Search
+- Git (o SVN)
+- Front-end: JQuery
+- bootstrap
+Se requiere experiencia en desarrollo web con estas tecnologías ya que el candidato tendrá autonomía en el trabajo.
+Ambiente laboral distendido, horarios flexibles, libros/formación, incrementos salariales, etc.

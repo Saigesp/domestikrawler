@@ -1,0 +1,4 @@
+
+HI PARTNERS es una firma global independiente especializada en asesoramiento financiero y gestión de inversiones en el sector hotelero. 
+Necesitamos desarrollar una base de datos relacional de complejidad baja, con un tiempo estimado de trabajo de 15 horas.
+Disponibilidad inmediata.

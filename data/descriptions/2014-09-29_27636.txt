@@ -1,0 +1,7 @@
+
+Multinacional con oficina en Madrid busca un desarrollador Drupal con experiencia demostrable de al menos 2 años  en el desarrollo de aplicaciones, definición y elección de módulos y desarrollo ad-hoc. 
+También es importante que tenga sólidos conocimientos de PHP/MySQL, maquetación web XHTML/CSS, Javascript/jQuery. 
+Se valorará positivamente experiencia en el manejo de APIs de redes sociales y maquetación responsive design.
+La persona seleccionada será responsable de la gestión del CMS para un importante cliente y del desarrollo de los nuevos módulos que sean necesarios. También participará en el desarrollo de otros proyectos de la agencia.
+Trabajo presencial en nuestra oficina a jornada completa. Previsión de mínimo dos años.
+Horario de 9:30 a 14:30 y 16:00 a 19:00 de lunes a jueves. Viernes de 8:00 a 15:00.

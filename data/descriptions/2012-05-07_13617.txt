@@ -1,0 +1,16 @@
+
+Nuestro cliente es una empresa dedicada al desarrollo de sensores inalámbricos situada en Barcelona ciudad. Precisa incorporar un/a PROGRAMADOR/A JAVA SERVIDOR
+REQUISITOS:
+- Ingeniería informática o CFGS
+- Programación Java Servidor: Servlets, JPA (Hibernate)
+- Diseño orientado a Objetos, UML, Patrones de diseño
+- Gestión de Bases de datos MySQL o similares
+- Gestión de servidores Linux
+- Gestión de servidores Apache Tomcat
+VALORABLE:
+- Muy valorable Conocimientos de procesos ETL/OLAP
+- Familiaridad con APIs J2EE (JTA, JAX-WS, JMS)
+- JUnit
+- Familiaridad con IDE Eclipse
+- Servicios Rest/JSON
+Contrato indefinido

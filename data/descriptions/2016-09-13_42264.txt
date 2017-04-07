@@ -1,0 +1,33 @@
+
+We are looking for a Software Engineer to participate in the development of bespoke built and scalable electoral modernization portfolio products and solutions to keep Innovating Democracy Worldwide. If you are a strong Software Engineer with an excellent knowledge of the Java stack who also finds the joy working with Javascript (AngularJS) to perform some tasks in the frontend when needed (or you have the interest to learn it), this is position is specially made for you.
+How can you help us?
+Your responsibilities as a Software Engineer will be the following: 
+
+-Development and optimization of reliable and secure applications used by millions of people.
+-Participation in the analysis and architectural design of a mission critical software.
+-Participation in the delivery of projects Worldwide. Some sporadic short-term trips may be required.
+-Contribution to a team of an outstanding engineering team willing to collaborate and to share knowledge with you.
+Requirements:
+-In-depth knowledge of the software development life cycle of Java applications in Tomcat server.
+-Experience working with Javascript, Node.js and/or AngularJS.
+-Experience in multiplatform development (Linux, UNIX, Windows).
+-Scripting skills (Python, Bash,...)
+-Knowledge of data access applications development and databases such as Oracle DB (or similar).
+-Sound knowledge of SQL, ODBC/JDBC , XML, Design Patterns.
+-University Degree, preferably in Computer Science or similar.
+-3-4 years in a similar position.
+Extra points for:
+-Experience Building projects in Javascript from scratch.
+-System Administration skills at any level.
+-Experience with testing tools such a s Postman, curl or similar.
+Skills:
+-Ability to work both independent and as part of a team.
+-Good analytical skills with a challenging and enquiring mind.
+-Good communication skills as well as organized, persistent and driven to get the things done.
+-Responsible and reliable.
+-Excellent English at both spoken and written levels.
+Job Advantages:
+-International working environment.
+-Creative and results focused team.
+-Opportunity to be part of the worldwide leader in its market.
+-Good offices in Barcelona city centre.

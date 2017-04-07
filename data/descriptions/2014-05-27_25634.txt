@@ -1,0 +1,20 @@
+
+Diseñador frontend
+Estamos buscando un diseñador web/gráfico en Barcelona. Vas estar dedicado a un único proyecto que te permitirá estar focalizado en un solo diseño de marca. Groupiest es un Software as a Service que utiliza tecnologías de Big Data para proporcionar el contenido más relevante para una empresa.
+En el día a día tendrás que diseñar y desarrollar (y rediseñar) partes nuevas del frontend de la aplicación web para que después el equipo de backend lo integre. Además también habrá landing pages, e-mails, etc.
+Trabajarás con un equipo cualificado pero muy amigable en un entorno startup perfecto para que desarrolles tus habilidades.
+Se valorará que estés al día del entorno de aplicaciones web para crear interfaces innovadoras, creativas y adaptadas a las últimas tendencias de diseño digital.
+Requisitos mínimos
+- Adobe Illustrator o similares.
+- UX En aplicaciones web
+- HTML5 y CSS3 avanzado.
+- Responsive design, media queries, etc.
+- Jquery intermedio.
+- Bootstrap o similares.
+Requisitos deseados
+- Experiencia con Wordpress.
+- Diseño en otras áreas (tarjetas, banners, etc.)
+Estudios mínimos
+Formación profesional superior o universidad.
+Jornada
+Completa

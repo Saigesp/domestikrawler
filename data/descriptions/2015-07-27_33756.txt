@@ -1,0 +1,11 @@
+
+Hola, volvemos a la carga buscando equipo. Nos encanta el talento y por eso vivimos con pasión el proceso de contratación de nuestros siguientes dos developers. Upplication es una piña, un equipo joven que hemos estado juntos sacando adelante el producto, las ventas, la comunicación y la inversión desde 2013 que fundamos la empresa.
+Hemos conseguido clientes en 63 países, ganadores de Wayra 2014 y lanzado más de 20 versiones de nuestro producto al mercado… y aun queda lo mejor. Estamos en un punto muy importante de la empresa, creciendo a buen ritmo mes a mes y mejorando día a día nuestro producto. Hemos aprendido mucho del producto y de nuestro cliente. Trabajamos con la metodología Scrum y con herramientas como Jira y Confluence (esperemos que te suenen…).
+Vamos a necesitar que le hayas metido mano a proyectos con tecnologías CSS3, Html5 (mobile first), Angular JS, ReactJS, Cordova, Git y Gulp y/o Grunt. 
+Además, si eres un poco fullstack, nos vendrá genial que no te de miedo tocar Java EE7 (JPA, CDI, EJB), Django, ExpressJS y MySQL. 
+¿Y las condiciones?
+- Las oficinas están en el centro de Madrid, son molonas.
+- Remuneración entre 24.000€ y 30.000€ al año, dependiendo de tus aptitudes.
+- Horario flexible.
+Si quieres cotillear nuestro proyecto este es nuestro perfil en GitHub y por supuesto nuestra web: www.upplication.com
+Te esperamos.

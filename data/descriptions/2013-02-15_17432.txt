@@ -1,0 +1,24 @@
+
+The ideal candidate must be able to complete tasks in a timely manner, inclined to maintain work of the highest standard, self-disciplined, able to adhere to PHP coding conventions and standards, and work with other team members located across the five continents. 
+You will be required to create and mantain websites and web applications based on Drupal 7 and our in house PHP framework. You will be working with the full stack, from crafting the markup (HTML, CSS) to working with the frontend (Vanilla JavaScript, jQuery) and the backend (custom PHP, Drupal 7). 
+Furthermore, you need to be able to create new pieces of software and maintain the old ones, perform backups, optimize and refactor working code, perform data migrations and other related tasks.
+Desired Skills:
+
+- Proficient in PHP, JavaScript (jQuery), HTML, CSS and MySQL
+- Hands-on experience with Drupal
+
+- Good to have Object Oriented Programming Skills (PHP5)
+- Must write efficient code with documentation
+
+- Can read code written by others
+
+- Must be a team player, posses a good attitude and be self-disciplined
+
+You have to:
+
+- Speak English
+
+- Be organized, creative and pay attention to detail
+
+- Be adaptable and eager to learn
+

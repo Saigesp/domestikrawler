@@ -1,0 +1,33 @@
+
+Se precisa un programador senior para apoyo al departamento de diseño y desarrollo web. 
+Licenciado/a o finalizado los estudios de Ingeniería Informática.
+Ofrecemos:
+· Trabajar en una agencia internacional. Con la visión de innovar en nuevas plataformas, tecnologías y canales.
+· Encontrarás nuevos retos trabajando con grandes clientes nacionales e internacionales.
+· Compartirás experiencias y casos de éxitos de diferentes clientes.
+· Un equipo de expertos multidisciplinares, pero sobre todo de alto nivel humano.
+· Muy buen ambiente de trabajo.
+Conocimientos requeridos:
+Tienda online
+Experiencia mínima de 2 años en la plataforma magento
+Lenguajes:
+PHP5 (Programación orientada a objetos)
+Javascript (Jquery)
+html/css/bootstrap
+Base de datos:
+MySQL/SQL
+Técnologías:
+SOAP, Json, Xml
+Sistemas operativos:
+Conocimientos de Linux
+Otros conocimientos valorables:
+Php framework
+Zend
+YII
+Symfony
+CMS
+Wordpress
+Modx
+Software
+Photoshop
+Illustrator

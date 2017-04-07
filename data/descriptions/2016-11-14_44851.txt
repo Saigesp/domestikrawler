@@ -1,0 +1,33 @@
+
+We are looking for Senior PHP developers willing to travel to the Netherlands (Accommodation is paid by us). If you want to work in an international and convivial environment with high level of professionalism and real opportunities to grow, start your career with us!
+You will be working on the S7 platform developed in-house by our client Magneds. S7 is a complete SAAS platform providing the customer with an innovative loyalty engine to bring loyalty solutions to their end-users.
+This job opportunity involves a first stay of several months in Tilburg (Netherlands) using English as working language.
+Responsibilities:
+· Working on internet applications and websites,
+· Taking part in the design of system architecture,
+· Working with system integrations,
+· Testing and bug fixing,
+· Cooperation with different teams.
+Required skills:
+· Very good knowledge of PHP,
+· Very good knowledge of MySQL
+· Very good knowledge of Object-Oriented Programing (OOP)
+· Fluent in English
+· Good knowledge of HTML5 and CSS
+· Good Knowledge of JAVAScript and JQuery
+· Good knowledge and use of the command line
+· Careful, proactive and structured at work
+Studies and experience:
+· Minimum 3 years of relevant working experience 
+· Technical University Degree background or similar preferred
+Desired:
+· Experience with version control systems
+· Experience with working and building of platforms
+· Experience with development of frameworks
+· Experience with MongoDB is a plus
+· Experience with Photoshop
+We Offer:
+· Competitive Salary
+· Paid accommodation during the stays in Netherlands
+· Highly experienced colleagues to team up with
+· Real opportunities to grow within our organisation.

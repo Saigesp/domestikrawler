@@ -1,0 +1,5 @@
+
+Buscamos programador Drupal (Drupal 7) con buenos conocimientos de la plataforma, capaz de crear sitios Drupal desde cero, dar soporte a portales ya existentes y con capacidad para crear módulos y especialmente themes.
+En particular es requerido un buen conocimiento de los siguientes módulos: Panel, View, Migrate y Drush. 
+Buscamos una persona que pueda trabajar de forma ordenada utilizando GIT y manteniendo los estándares de Drupal.
+Sera considerado como una ventaja el conocimiento del framework Symfony 2 (con Doctrine ORM) y experiencia en la programación en Javascript.

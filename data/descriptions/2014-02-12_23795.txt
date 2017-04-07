@@ -1,0 +1,10 @@
+
+Responsabilidades
+Desarrollo del front-end de la plataforma web, integrándolo con SDK´s, y API´s de cliente.
+
+Requisitos
+- Titulado en informática con experiencia en desarrollo web, muy valorable experiencia en comparadores de productos.
+- Imprescindible haber desarrollado con éxito un proyecto completo de plataforma de ecommerce, comparador o front-end de plataforma publicitaria. 
+- Experto en Analítica web Google Analytics y SEO
+- Ofrecemos un salario mensual bruto de 1.500€ y la posibilidad de consolidarse como CTO del proyecto.
+Estamos en el 22@ por lo que buscamos una persona que resida en Barcelona.

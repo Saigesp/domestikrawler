@@ -1,0 +1,20 @@
+
+Buscamos desarrollador web para ampliar nuestro equipo de mentes inquietas dentro del área tecnológica. Necesitamos que tenga disponibilidad inmediata y que sea capaz de trabajar en equipo, se incorporará en un momento de oportunidades, y por eso buscamos humanos comprometidos y proactivos, que no les asuste enfrentarse a nuevos retos tecnológicos. Se incorpora en un equipo muy cualificado, apasionado por el mundo digital y por hacer la vida más fácil a las personas, participando activamente en el desarrollo de una start-up con proyección internacional.
+Requisitos que debe cumplir:
+    2-3 años de experiencia en desarrollo avanzado con PHP
+    Conocimiento en POO
+    Experiencia con frameworks MVC (Symfony 2)
+    Experiencia con MySQL
+    Experiencia en tecnología asociada: Ajax, Javascript, REST.
+    Experiencia en entornos Linux
+Valoraremos:
+    Experiencia con framework jsMVC
+    Conocimientos en jQuery
+    Haber trabajado con GIT
+    Experiencia trabajando con plantillas Twig
+    Conocimiento metodologías SCRUM
+Ofrecemos:
+    Jornada laboral completa, presencial en el centro de Madrid
+    Sueldo según valía del candidato
+    Altas posibilidades de proyección en la empresa, como futuro CTO.
+    Trabajar en un equipo innovador y multidisciplinar en constante evolución.

@@ -1,0 +1,22 @@
+
+TEST SOFTWARE ENGINEER REF. 1259
+We are looking for software test engineers with experience, accustomed to working in critical environments and international projects.
+RESPONSIBILITIES:
+Develop test scripts, prepare the input data, and validate the results provided for one or more test plans, including different types of test: the component, assembly, the product, the performance, acceptance user testing and technical architecture.
+•	Develop, update and maintain the testing standards and procedures.
+•	Execute test scripts.
+•	Register the problems and issues in accordance with problem the project and issue management plans.
+•	Maintain good communication and working with the development team and other stakeholders involved to resolve problems arising from the testing process.
+•	Participate in the release control (when the application is transferred from the development team to the test team).
+REQUIREMENTS:
+•	Required education technical engineer
+•	Experience At least 1 year
+•	Minimum requirements
+- Over 1 years experience working with as Software Test Engineer
+- Fluent English (at least C1)
+Skills:
+- Good communication skills / ability to prepare presentations to stakeholders.
+- Hands on experience in Windows system administration, including issue investigation and resolution.
+- Experience working in challenging environments.
+- Team working.
+

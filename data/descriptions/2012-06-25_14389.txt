@@ -1,0 +1,12 @@
+
+Fandroid es una empresa con ya 2 años de recorrido y con sede en Barcelona. Necesitamos incorporar un programador senior para liderar el desarrollo de una nueva versión de nuestra web, el núcleo de nuestro negocio.
+Requisitos :
+2 años de experiencia en Análisis y Programación PHP/Java + MySQL + CSS + XHTML + Javascript.
+Experiencia en Frameworks de desarrollo.
+Experiencia en Sistemas de control de versiones.
+Conocimientos de administración de sistemas GNU/Linux, Apache2, DNS, FTP.
+Conocimientos de administración de MySQL.
+Incorporación imediata.
+Salario : 25.000€/30.000€
+Interesados enviar currículum a msolerprat@gmail.com
+

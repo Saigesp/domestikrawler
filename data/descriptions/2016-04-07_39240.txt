@@ -1,0 +1,9 @@
+
+Xeerpa ayuda a las Marcas a conocer con detalle a cada uno de sus clientes, interpretando la gran cantidad de datos que ellos mismos comparten en Redes Sociales. Nuestra tecnología Big Data está en la vanguardia mundial de las soluciones aplicadas al Marketing.
+Funciones:
+Buscamos a un desarrollador con al menos 2 años de experiencia, que haya trabajado en proyectos BigData.
+Habilidades:
+- Imprescindible conocimientos en NodeJS y MongoDB.
+- Se valorarán conocimientos en HTML, CSS3
+Lugar: Madrid
+

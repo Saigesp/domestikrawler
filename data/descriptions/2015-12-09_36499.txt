@@ -1,0 +1,13 @@
+
+Somos un estudio de diseño gráfico ubicado en Madrid.
+Estamos buscando un programador/a freelance experto/a en plataforma PrestaShop.
+Requisitos técnicos:
+- Experiencia comprobada con CMS (WordPress y PrestaShop). 
+- Experiencia desarrollo web. 
+- Maquetación HTML/CSS. 
+- Conocimiento de librerías y frameworks Javascript / CSS, incluyendo jQuery. 
+- Conocimientos en PHP. 
+- MySQL, programación en bases de datos. 
+Otros:
+- Preferible residente en Madrid.
+- Imprescindible poder facturar como autónomo. 

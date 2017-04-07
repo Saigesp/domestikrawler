@@ -1,0 +1,22 @@
+
+FUNCIONES DETALLADAS:
+- Colaborar en escalar la plataforma millones de usuarios (5 Millones)
+- Trabajar en la versión móvil para Android de May Feelings.
+- Implementar nuevas funcionalidades y colaborar creativamente en su desarrollo.
+Buscamos una persona que le apasione el desarrollo web/móvil que busque cambiar el mundo a través de la tecnología, y que le interese formar parte de un gran equipo emprendedor de un producto con una gran tracción inicial ya probada.
+Se trabajará empleando metodologías ágiles de desarrollo de software. La exigencia del puesto es alta, pues el impacto y la experiencia que se obtendrá será muy grande. 
+Se valorará aquellos candidatos abiertos a aprender y trabajar con nuevas plataformas.
+￼Para nuestra plataforma web buscamos programadores (Ingenieros Informáticos) con experiencia contrastada en las siguiente tecnologías:
+* Javascript * AJAX * HTML * CSS * PHP * Conocimientos de Bases de Datos con MySQL.
+Para nuestra plataforma móvil buscamos programadores con experiencia contrastada en las siguientes tecnologías móviles:
+* iOS (SDK iOS, XCode) * Android (SDK Android, Java) * Desarrollo móvil con HTML 5
+Especificaciones:
+Horario: 
+
+Jornada completa (8 horas)
+
+Media Jornada (4 horas)
+(Las dos opciones son válidas, nos adaptamos a las necesidades del interesado)
+￼
+Tiempo de duración:
+3 meses

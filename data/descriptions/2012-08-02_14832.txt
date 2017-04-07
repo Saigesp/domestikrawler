@@ -1,0 +1,20 @@
+
+En flash2flash estamos buscando un nuevo compañero.
+Necesitamos un diseñador y maquetador web, para incorporación a la plantilla de la agencia. Una persona que trabaje a medio camino entre el departamento creativo y el de programación, capaz de aportar soluciones a ambas ramas.
+En cuanto al diseño, buscamos alguien al que le apasione el arte y llevar a Internet las ideas más atractivas y potentes.
+Alguien ágil, moderno y con ganas de trabajar en un ambiente joven, divertido y exigente.
+No entramos en las herramientas porque ya las damos por supuestas. Además, valoraremos el portfolio de trabajos anteriores.
+En cuanto a la maquetación: 
+Alguien con buenos conocimientos de UI/UX. Experiencia demostrada en HTML y CSS, que ha utilizando el framework jQuery trabajando conjuntamente con los desarrolladores.
+3 años minimo de exp.
+Capacidad de convertir los diseños en PSD en maquetas con las páginas W3C estandar semanticas y válidas.
+Esencial:
+HTML, CSS y JS
+diseño de sitios webs complejos o aplicaciones
+trabajado con desarrolladores utilizando javascript/ajax dentro de los frameworks php (preferiblemente CodeIgniter)
+Deseados:
+Empleado pruebas de usabilidad en el proceso de diseño.
+Conocimiento de patrones de diseño
+Usado las herramientas como firebug, y slow, etc...
+Ponte en contacto con nosotros y hablamos, ok?
+

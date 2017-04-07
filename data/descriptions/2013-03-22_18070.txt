@@ -1,0 +1,17 @@
+
+Buscamos un equipo de programadores para un desarrollo de un portal en Internet de alta complejidad y envergadura.
+Y a su vez también buscamos profesionales en el campo de desarrollo de apps móviles. 
+ Descripción del requerimiento.
+- Página autoadministrable (no puede usar ningún producto que exista actualmente en el mercado, pero si referenciarse en él).
+-Debe ser escalable
+-Debe permitir registro de usuarios
+-Debe generar una web propia para cada usuario registrado, totalmente configurable y autoadministrable por el usuario
+-Debe administrar base de datos de imágenes e indexarlas.
+-Debe permitir el pago con WEBPAY.
+-Debe tener crédito por cada usuario de acuerdo al pago WEBPAY o con transferencia.
+-Y en cuanto a la programación de las aplicaciones móviles necesitamos el mismo nivel de funcionalidad que la web.
+-Y muchísimas otras funciones que cuando se cierre el contrato con la empresa que lo desarrolle, serán informados (así como también las referencias directas).
+- La programación puede ser en xHTML, Ruby, MySQL, PHP, o cualquiera que sea sugerida por la agencia.
+El equipo a ser elegido, debe presentar claramente su portafolio de portales creados, así como en todos los proyectos en los que haya participado.
+No olvidar adjuntar link o archivo donde poder ver el portafolio.
+IMPORTANTE: Si sólo trabajas para el desarrollo de aplicaciones móviles, también nos interesa que trabajes con nosotros.

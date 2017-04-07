@@ -1,0 +1,22 @@
+
+We are looking to add an experienced, full time full-stack developer. In our company we build software with care. We try to apply all our knowledge to build software that is maintainable, extensible and that can be change to adapt to the always changing business requirements.
+The ideal candidate must have great experience in Javascript full-stack environments, big experience in Continuous Delivery, with proactive and enthusiastic attitude with great communication skills.
+Profile requirement:
+BS in Computer Science, related degree, minimum 5 years experience.
+Experience working with MEAN stack as well as HTML5 game development.
+Experience working with Continuous Delivery environments.
+General technical skills:
+Agile methodologies and tools (SCRUM, Jira).
+Must be a clean coder and passionate about technology innovation.
+Strong proficiency with JavaScript.
+High knowledge of Node.js and frameworks available for it.
+Deep knowledge on developing REST APIs.
+Experience with Docker Containers and Microservices Architecture.
+Knowledge of React, Angular 2.0.
+Good understanding of front-end technologies such as HTML5 and CSS3.
+Experience with NoSQL databases.
+Knowledge in implementing automated testing platforms and unit tests (Mocha, Sinon, Chai, Supertest…).
+Proficient understanding of code versioning tools.
+Bonus track:
+Experience with HTML5 game development frameworks such a Pixi.js.
+Gross salary: depending on candidates value.

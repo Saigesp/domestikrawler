@@ -1,0 +1,15 @@
+
+Deseamos incorporar un programador web experto en PHP a la división de internet del Grupo HOLA S.A. (hola.com / hellomagazine.com) Buscamos una persona responsable, capaz de autogestionar su trabajo e integrarse en un equipo multidisplinar.
+Necesario:
+- Desarrollador en entorno Linux, Apache, PHP, MySQL-PostgreSQL.
+- Acostumbrado a trabajar con subversión y experiencia en framework de desarrollo de PHP, se valorará experiencia con Zend Framework
+- Conocimiento de Mencached y almacenes NoSQL
+- Ruby on Rails
+- Web Services, JSON
+- Con conocimientos de estandarés de XML, XHTML, HTML y CSS.
+Se valorará:
+- Experiencia en sitios con alto volumen de tráfico.
+- Experiencia o conocimientos en tecnologías orientadas a aplicaciones web (Memcached, MongoDB, RabbitMQ, Nginx...)
+- Inglés.
+- Conocimientos de posicionamiento en buscadores.
+También os podéis inscribir a través de http://www.infojobs.net/madrid/desarrollador-web-php-ruby-on-rails/of-ibd0c9d7ffb450e93c7ededd955bc50

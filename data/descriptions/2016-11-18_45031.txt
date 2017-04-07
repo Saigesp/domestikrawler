@@ -1,0 +1,14 @@
+
+Buscamos un programador de aplicaciones Android, con amplios conocimientos de java, para el desarrollo de una aplicación móvil, para un importante proyecto, con muchas posibilidades de proyección en todos los ámbitos.
+La aplicación móvil es una red social, y el programador seleccionado deberá, desarrollar la gestión de perfiles y roles de la aplicación. Así como integrar con otras redes sociales, facebook, twitter, linkedin... Para ello utilizará una serie de servicios API REST ya desarrollados, e implementara el diseño que se ha realizado.
+Tareas
+*Requisitos Imprescindibles
+Trabajo presencial
+Trabajar en un equipo multidisciplinar
+Implementar la funcionalidad con un muy buen desarrollo y aportando una gran experiencia
+Crear test de prueba para asegurar la calidad del producto.
+Estar al día de nuevas tecnologías, evaluar e implementar para tener un desarrollo los más eficiente posible.
+Hacer tuyas las funcionalidades a desarrollar, trabajar en equipo y con los diferentes actores responsables del proyecto.
+Trabajar mano a mano con el resto de desarrolladores y diseñadores 
+Tomar responsabilidades en los plazos de entrega y calidad de las funcionalidades desarrolladas
+

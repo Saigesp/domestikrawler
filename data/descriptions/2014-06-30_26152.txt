@@ -1,0 +1,6 @@
+
+Somos una empresa que nos dedicamos a los fondos de inversión y estamos cambiando nuestras bases de datos actuales.
+Necesitaríamos un programador que supiera mysql para poder modificar nuestras actuales bases de datos.
+Sería un trabajo con una duración determinada, pero con revisiones durante el año y seguimiento.
+El resto de la información se dará personalmente a los candidatos seleccionados.
+¡Muchas gracias!

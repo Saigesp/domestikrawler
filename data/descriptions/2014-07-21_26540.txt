@@ -1,0 +1,10 @@
+
+Buscamos un desarrollador web junior que se incorpore a nuestro departamento de MarkertingDirecto.com para realizar labores de mantemiento y desarrollo en nuestra web. Que tenga iniciativa, sea proactivo, y con conocimientos de diseño web.
+Se requiere experiencia de al menos un año en:
+-	Wordpress y manejo de los diferentes plugins (cache, galerías, plugins sociales).
+-	PHP.
+-	Maquetación HTML5, CSS3, Responsive Web.
+-	Experiencia en Javascript, jQuery.
+Se valorará:
+-	Elaboración de propias templates y propios plugins bajo wordpress.
+-	Conocimientos de APIs de Redes Sociales (Facebook, Twitter, Instagram).

@@ -1,0 +1,4 @@
+
+Se busca freelance o estudio (que puedan emitir factura), para la programación de un juego muy sencillo para una campaña de publicidad en facebook.
+Son necesarios conocimientos de flash, php, html 5 (...), e imprescindible saber implementarlo en facebook.
+La dinámica de juego será  muy sencilla. El objetivo será conseguir la mayor puntuación posible. Se subirá a un ranking  y, entre todos los participantes, quien tenga la mayor puntuación al final del día ganará el producto.

@@ -1,0 +1,7 @@
+
+Se demanda programador multimedia para el desarrollo y mantenimiento de productos interactivos en importante medio de servicios de la información.
+Trabajaremos manteniendo una sólida plataforma en actionscript3 y creando contenido en canvas mediante javascript, entre otros.
+Sería genial cualquier conocimiento relacionado con video on demand, aplicaciones móviles o 3d.
+Puesto estable y buen ambiente de trabajo.
+Tags:
+#actionscript3 #air #javascript #canvas #html5 #stage3d #webgl #video #streaming

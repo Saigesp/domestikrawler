@@ -1,0 +1,16 @@
+
+Visivalab es una empresa joven, con sede en Barcelona y en Italia. Nos dedicamos a proyectos digitales de contenido en el ámbito de la cultura, a nivel internacional.
+Gracias a nuestro crecimiento estamos necesitando un Programador, con altos conocimientos en PHP, JS, WP y Unity. No hace falta experiencia laboral previa, pero si los conocimientos. Estamos interesados en incorporar al equipo, alguien con ganas de aprender, de hacer y de investigar.
+Requerimos: 
+- Wordpress 
+- HTML5 
+- Java Script 
+- PHP 
+- MySQL 
+- Unity
+Valoraremos positivamente: 
+- Titulación superior en disciplinas relacionadas 
+- Dominio de inglés y / o italiano 
+- Otros lenguajes de programación 
+- Conocimientos en interactividad a partir de sensores espaciales
+

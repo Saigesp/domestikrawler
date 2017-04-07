@@ -1,0 +1,17 @@
+
+Desde visualNACert estamos buscando un programador/a diseñador/a UX /UI para nuestras oficinas de Rafelbunyol (Valencia), con talento y experiencia en el diseño  de atractivas aplicaciones web y/o aplicaciones móviles.
+El candidato ideal, es alguien apasionado por el diseño, la usabilidad, la simplificación para el usuario, responsable y ordenado en el trabajo, metódico, familiarizado con HTML5 y CSS3. 
+Te integrarás en un equipo de alto rendimiento multidisciplinar formado por expertos en desarrollos RIA (Rich Internet Applications), desarrolladores front, desarrolladores back, trabajando bajo modelos de desarrollo ágil. 
+Requisitos:
+[sub]Experiencia mínima de 2 años en:[/sub]
+Estándares W3C: HTML5 / CSS3
+Maquetación Responsive 
+Accesibilidad WCAG 2.0 
+Javascript y frameworks JQuery / Angular JS 
+Bootstrap 3 
+Desarrollo con un código limpio, que sea semántico y también reutilizable.
+Experiencia trabajando en equipos multidisciplinares. 
+Sólidos conocimientos en programas de diseño como Photoshop, Illustrator.
+Exquisitez en el diseño y atención por el detalle. 
+Nivel de inglés alto hablado y escrito. 
+Jornada completa. 

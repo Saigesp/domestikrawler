@@ -1,0 +1,16 @@
+
+Real Estate company settled in Barcelona is looking for a Mid-end developer with preferred skills: AngularJS+Symfony2+PHP.
+A young group with interesting and different profiles is waiting for you. With technologies as Elastic Search, CartoDB, GoogleMaps, RabbitMQ, Mandrill, AngularJS or Bootstrap, this is the right place to grow up, to learn and to teach. 
+Minimum requirements:
+- AngularJS (Backbone or Ember could be a good starting point) + Javascript + jQuery
+- Symfony2
+- PHP
+- Very good team player. 
+- Able to learn, able to teach
+- A portfolio / website demonstrations
+Preferred Skills (would be desired):
+- RabbitMQ
+- Redis
+- Elastic Search
+- Postgresql / SQLServer
+- Amazon Web Services (Ec2/S3 mainly)

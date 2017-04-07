@@ -1,0 +1,12 @@
+
+Buscamos un desarrollador Front End con experiencia en Canvas para unirse al equipo de Diseño. Dará apoyo en la creación de mockups interactivos y desarrollará estos Mock-ups en HTML5 para Desktop, Tablet y Móvil. Es imprescindible adjuntar CV.
+Conocimientos técnicos 
+- Dominio de JavaScript.
+- Al menos 3 años de experiencia en maquetación web: HTML5, CSS3, Js 
+- Se valorará que hayas trabajado con Angular JS, Bootstrap y tengas experiencia en SASS 
+- Se valorará el interés por UX. 
+- Se valorará conocimientos de Animación 2D. 
+- Cuidado por el detalle. Deberá documentar el código que escriba.
+Aptitudes sociales: 
+- Proactivo, resolutivo y dinámico. 
+- Capacidad de trabajar en equipo.

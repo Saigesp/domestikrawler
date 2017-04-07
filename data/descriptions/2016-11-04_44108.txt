@@ -1,0 +1,20 @@
+
+Hola!!, en alt120 comunicació interactiva, queremos incorporar un perfil de desarrollador front para nuestras oficinas de Barcelona.
+Las principales tareas a desarrollar serán:
+Requisitos necesarios: 
+- Maquetación HTML5/CSS3. 
+- JavaScript. jQuery, jQuery Mobile, MooTools… 
+- LESS, SAS 
+- Conocimientos avanzados de frameworks como Foundation y Bootstrap 
+- Wordpress (a nivel programación y estructura). 
+- Desarrollo crossBrowser 
+- Sistemas de control de versiones (Git).
+- Familiarizado con PHP.
+Requisitos valorados: 
+- Angular JS 
+- Capacidad creativa, pasión por el diseño y los detalles.
+- Organización y capacidad de autogestión. 
+Cualquier otro conocimiento bienvenido será.
+Salario: 
+12 pagas entre 17.000-24.000 € brutos anuales según capacidades del candidato.
+En esta oferta buscamos alguien presencial, por favor abstenerse freelances, agencias, estudios y equipos de desarrollo.

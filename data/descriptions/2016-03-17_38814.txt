@@ -1,0 +1,12 @@
+
+Nurun, necesita incorporar a su nuevo equipo técnico a un Front / Back Developer. Nurun es una agencia digital mundial cuyo negocio está centrado en conectar de nuevo, a través del concepto de utilidad digital, a las marcas con sus consumidores. 
+¿Qué necesitamos?
+- Al menos, 2 años de experiencia como desarrollador con las tecnologías descritas (PHP, MySQL, JS, JQuery, Apache...) 
+- Conocimientos de MVC. Si es con algún framework tipo Zend o Symfony, mejor. 
+- Conocimientos en desarrollo frontend (HTML, CSS y jQuery) 
+- Conocimientos de MySQL aplicados al desarrollo. Diseño y creación de BBDD, escritura de lenguaje SQL 
+- Git
+¿Qué ofrecemos?
+Trabajando codo con codo con compañeros con amplia experiencia en el sector. 
+Jornada completa con horario flexible. 
+Buen ambiente de trabajo, trabajando con proyectos interesantes e innovadores.

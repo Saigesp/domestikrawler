@@ -1,0 +1,46 @@
+
+Estamos actualmente en búsqueda de un perfil PHP para incorporarlo a nuestro equipo de desarrollo, principalmente para la parte de back-end, aunque también tendrá responsabilidades de maquetación. 
+La principal función que va a realizar es agilizar y evolucionar los servicios de la web ofrecidos por EsLife, utilizando principalmente esta tecnología.
+Estamos en búsqueda de alguien que quiera aportar conocimiento y práctica de nuevas herramientas y metodologías. Esta persona, deber ser alguien que sea proactivo, con ganas de aprender y enseñar, colaborativo con el equipo y receptivo a feedback.
+Deberes y Responsabilidades
+• Desarrollo y evolución de servicios web (RESTFul y SOAP)
+• Desarrollo y mantenimiento de Front-End
+• Desarrollo y mantenimiento de la arquitectura de la plataforma
+Conocimientos y experiencia 
+Se requiere:
+• Experto en de PHP y MySQL
+• Conocimiento avanzado de Laravel/Symfony/Silex/APIs
+• Conocimiento avanzado en sistemas de plantillas (TPLs/Blade)
+• Conocimiento avanzado en jQuery, Javascript y Ajax
+• Conocimiento avanzado en HTML5, CSS3 y Responsive
+Valorable:
+• OAuth, Servicios Cloud, Desarrollo de APIs de terceros
+• Conocimiento de sistemas
+• Experiencia en start-ups
+Cualidades Personales
+• Auto-motivado; capacidad para enfrentarse a nuevos retos; voluntad y capacidad de aprender
+• Creativo, capaz de innovar y de pensar diferente (“out-of-the-box thinking”)
+• Buenas habilidades de comunicación verbal y escrita
+• Excelente atención al detalle
+¿Qué ofrecemos?
+• La oportunidad de jugar un papel crucial en la revolución del mundo de los servicios en España
+• La oportunidad de trabajar en una empresa innovadora, ganadora de los programas Cink Emprende y Lanzadera y participado por Angels Capital y Plug &Play
+• Una experiencia que te permite desarrollarte personal y profesionalmente en una empresa con excelentes perspectivas de crecimiento
+• La oportunidad de llegar a formar parte del equipo de dirección de la empresa
+• La oportunidad de trabajar en con un excelente equipo
+• Un horario flexible, que te permita gestionar tu tiempo
+Tipo de Contrato: 
+Indefinido
+Tipo de Jornada:
+Completa
+Salario:
+Variable en función de la valía del candidato
+Años de experiencia:
+Mínimo 3 años de experiencia en puestos similares. 
+Nivel de estudios (Ed. Secundaria, Bachillerato, Diplomado…): 
+Indiferente aunque se valorará mejor a candidatos mejor formados.
+Idiomas (si se requiere):
+Necesario hablar y escribir castellano fluidamente. Se valorará si se conocen idiomas adicionales (principalmente inglés, francés y alemán)
+Localización: Valencia pero con flexibilidad para moverse/desplazase si fuera necesario
+Periodo de selección hasta: no hay una fecha concreta de cierre
+

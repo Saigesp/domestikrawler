@@ -1,0 +1,36 @@
+
+ABOUT THE JOB
+Responsibilities:
+As a Game economy designer, your responsibility is to understand how a game works as a service for its customers and how the customers behave in it, identifying and developing the purchase drivers in the game economy context, and providing constant data-driven recommendation on design, tuning and pricing in order to improve game financial performance.
+To do this, pre-release, you are able to design the virtual products a game will offer, define metrics that allow you to individually measure their impact in a given title, and work closely with the development team to see those design refined and metrics implemented.
+Once he game is launched, you are able to analyze the collected data and report which are the performing/underperforming aspects of the game economic model, why, and provide solutions to Gameloft management.
+This is a position requiring a mix of strong economy and marketing knowledge with passion for analytical game design and the emerging free-to-play business model.
+
+Your day to day duties include:
+Defining the virtual products and their statistics with the development team, and understanding how each of them contributes to the game dynamics.
+Identifying the potential sale drivers for the different product categories in the game economy, defining the key points of exposure for those drivers.
+Balancing the needs for those virtual products, their relation, life cycle, and their streams of availability.
+Managing pricing as to create specific price point roles, implement selling strategies for higher price points.
+Regularly provide user feedback and stat/price point tuning to development team based on play-testing, both during game development and post-release.
+Analyze the evolution of the metrics you defined to spot both monetization bottlenecks and facilitators, then report suggestions for the game design or strategy accordingly.
+PROFILE
+Skills:
+Strong sensitivity to gameplay and game design, understanding how to build needs and emotions in the context of a game.
+Strong analytical and formal thinking, able to break problems down in their key variables and identify the relations between them.
+Strong econometrics skills, able to model problems into quantitative systems, and draw qualitative conclusions out of quantitative data.
+Statistic knowledge, able to formulate ratios and indexes specific to each game, identifying specific weaknesses and strengths in its economy design.
+Strong marketing knowledge, able to formulate adequate selling strategies to improve the financial performance.
+Understanding of client/server architecture and data collecting pipeline and mining.
+Requirements:
+Graduate degree in Economics, Business Management or BA, preferably specialized in Marketing, Market Research or Strategic direction.
+Fluent written and spoken English, concise writing skills.
+Mastery of Excel.
+Deep, up-to-date knowledge of the free-to-play market, both web-based and on smartphones.
+Passion for games on all existing formats: board games, card games, sports, paper RPGs, gambling, all genres of videogames with special focus on MMOs and competitive games.
+Assets:
+Previous experience in econometrics / data mining
+Mastering of UI prototyping tools such as Flash
+Experience in community managing, marketing or product manager
+Previous experience as game designer, social designer or gambling designer
+Advanced understanding of SQL and/or Python.
+

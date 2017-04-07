@@ -1,0 +1,22 @@
+
+Realizar la programación de los proyectos bajo su responsabilidad, priorizando las acciones a acometer, con el fin de garantizar la ejecución e implantación de los proyectos de acuerdo con los estándares de calidad y eficiencia acordados con su responsable.
+Principales Funciones
+Programación avanzada en entornos web, utilizando:
+- PHP.
+- HTML5,  CSS, CSS3
+- JavaScript /  Ajax / JSON
+- Experiencia en desarrollo sobre framework Symfony.
+- Se valorará experiencia en el uso de librerías Bootstrap, Prototype, Less, JQuery
+- Experiencia en desarrollo en plataformas LAMP/ C, C++.
+- Scripting SO Linux
+Perfil del Candidato
+Conocimientos:
+- Formación: Ingeniero Técnico-Técnico en Informática de Gestión.
+- Experiencia: Al menos 2/3 años de experiencia en funciones similares.
+Idiomas: Inglés hablado y escrito.
+Competencias:
+- Perfil multidisciplinar con adaptación a la gestión.
+- Persona con Autonomía y capacidades de Organización y Trabajo en Equipo.
+- Clara Orientación a Resultados.
+- Iniciativa y capacidad para asumir responsabilidades 
+- Sólidas habilidades analíticas y de resolución de problemas

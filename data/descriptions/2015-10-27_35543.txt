@@ -1,0 +1,13 @@
+
+En Meelowlab buscamos a un Programador PHP para desarrollar webs, ecommerces, plugins, apps, etc. que tenga iniciativa, carácter resolutivo, sea un apasionad@ de su trabajo y que tenga una experiencia entre 1 y 3 años. 
+Con conocimientos imprescindibles de:
+- PHP: conocimientos de frameworks codeigniter, symfony, zend.
+- sql: mysql, mariadb,etc
+- Html5
+- CSS: conocimientos sass, less.
+- Javascript: conocimientos de jquery y bootstrap.
+- Wordpress, Joomla, Prestashop, Magento, etc.
+Tareas:
+- Programación y mantenimiento de páginas web y ecommerce.
+- Desarrollo de aplicaciones móviles y web.
+- Manejo de CMS y desarrollo de plugins.

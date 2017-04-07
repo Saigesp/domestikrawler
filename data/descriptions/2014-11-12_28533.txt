@@ -1,0 +1,12 @@
+
+Buscamos un desarrollador senior para la incorporación a nuestro equipo. 
+
+Somos una start-up que se ha aliado con un grupo emergente de hostelería de Madrid que cuenta con varios restaurantes con el fin de desarrollar un software que ofrece una solución única en el mercado permitiendo la gestión integral de los restaurantes en la nube.  
+
+Te ofrecemos la oportunidad de trabajar en un equipo joven y dinámico donde tu trabajo diario tenga un impacto importante en el desarrollo y la evolución de la empresa. Tu opinión nos importa y te ofrecemos la oportunidad de aprender sobre el sector de hostelería, las tecnologías más punteras que estamos usando en el desarrollo del proyecto, y la posibilidad de crecer profesional y personalmente.
+
+Para nosotros lo más importante es que te apasione lo que haces, que tengas muchísimas ganas de aprender y que demuestres un alto nivel de autonomía y auto-exigencia. Si crees que tu perfil podría encajar con esta descripción, estaríamos encantados de conocerte. 
+Conocimientos requeridos: 
+Principios de diseño SOLID, Patrones de diseño, NET4.5, C#, WPF, ASP.NET MVC, Web Api, Entity Framework, Test unitarios. 
+Conocimientos deseados:
+HTML5, JavaScript, AngularJs, Signal R, Metodologías ágiles (SCRUM), TDD, plataforma Azure

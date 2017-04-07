@@ -1,0 +1,22 @@
+
+Somos una lean startup financiada por inversores que está revolucionando la forma en que todos nos relacionamos con un medio de comunicación tradicional.  Hemos iniciado el prelanzamiento de nuestra webapp, en la que tenemos más de 1.000 visitas diarias, y pronto sacaremos las apps para iOS y Android. 
+Escalaremos a nivel internacional en unos pocos meses, y tenemos la intención de ser líderes en nuestro sector en España en un plazo de 1 año.
+Descripción del puesto de trabajo
+Serás responsable senior de la programación front-end de nuestra webapp. Desarrollarás los features más complejos de la webb, y junto con nuestro equipo de diseño crearás e implementarás rápidamente las mejoras de UX y de captación de usuarios de la web. También serás el responsable de cross-browsing y web-responsiveness.
+Formarás parte de nuestro equipo como casi-fundador; tendrás una posición senior dentro de nuestro equipo. Queremos que en unos pocos meses asumas la gestión de todos los procesos front-end de nuestra plataforma. 
+También te incorporarás en el proceso de conceptualización y diseño de las futuras iteraciones de nuestro producto. Formarás parte del equipo core del proyecto, y tu opinión jugará un papel cada vez más importante en la toma de decisiones de producto.
+Requerimientos
+•	Tienes experiencia y un dominio profundo de HTML, CSS, Javascript, JQuery y PHP. Tienes la capacidad y sientes la necesidad de ser creativo con estas herramientas. 
+•	Necesitamos que domines el cross-browing y la responsividad. Tenemos una webap compleja, y cualquier cabo suelto en términos de cross-browsing puede hacernos perder grandes volúmenes de usuarios. 
+•	Eres detallista y perfeccionista. Te gusta marcarte tus propios objetivos, y cumplirlos puntualmente. Eres gestor de equipos de una sola persona.
+•	Te gusta participar en el análisis del comportamiento de nuestros usuarios, y tienes la capacidad de implementar con rapidez las iteraciones de maquetación necesarias para optimizar los objetivos de conversión.   
+Si estás interesado, es crucial que veas la programación como un proceso íntimamente integrado con el diseño del producto, y la captación y conversión de usuarios. 
+Entiendes que una aplicación online debe ser mejorada continuamente en unos tiempos muy rápidos, según el comportamiento de sus usuarios, la estrategia de la competencia, y las tendencias del sector.  
+Qué ofrecemos
+Empezaremos por un período de prueba de 1 mes, que posteriormente convertiremos en una relación indefinida, ya sea como autónomo o como relación laboral.
+Tendrás una retribución fija inicial, al que añadiremos un variable tras el período de prueba. Queremos que hagas tuyo nuestro proyecto, por lo que estableceremos un plan de acciones de nuestra empresa, que irás consolidando con el transcurso del tiempo.  
+Trabajarás en nuestro local a media jornada o a jornada completa, según acordemos. Crearemos un entorno  de trabajo atractivo y flexible. Un rol profesional intenso no debería ser obstáculo para disfrutar de una vida personal completa.
+Dispondrás de tiempo para soñar, diseñar y desarrollar tus proyecto personales dentro del entorno de nuestra aplicación. En estos proyectos serás el único responsable y tomarás las decisiones.
+Ahora mismo tenemos nuestras instalaciones en el barrio de Gracia, a 2 minutos de la parada de metro  de Diagonal, Líneas 3 y 5.
+El sueldo será negociado caso a caso, pero partimos de una horquilla de entre 1.000 Euros/mes (30 horas por semana), y 1.400 Euros/mes (40 horas por semana). En cualquiera de los dos casos, un 2,5% del sueldo será abonado en forma de cervezas y pica-pica.
+

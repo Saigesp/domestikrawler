@@ -1,0 +1,37 @@
+
+Desde The Valley Talent HeadHunter especializado en perfiles digitales, seleccionamos para importante multinacional, un Responsable Técnico para su Departamento de IT, donde reportando al director del mismo, desempeñará las siguientes funciones:
+•Liderar los proyectos de Infraestructura y Desarrollo de software, con personal interno y externo (outsourced), reportando al responsable del departamento de IT.
+•Realizar evaluaciones de esfuerzo en tiempo y recursos para nuevos proyectos y modificaciones.
+•Diseñar soluciones software/hardware a partir del diseño de alto nivel proporcionado por los analistas funcionales del departamento.
+•Planificar proyectos de infraestructura y desarrollo software, asignando y coordinando las tareas realizadas por los miembros de ambos equipos, en especial las realizadas por partners de outsourcing, y reportar progresos e incidencias al responsable del departamento de IT.
+•Asistir en la coordinación de proyectos y tareas de integración o implantación de aplicaciones de negocio globales con equipos de IT de otros países.
+•Supervisar y mantener el buen funcionamiento de interfaces de integración entre aplicaciones locales y globales.
+•Supervisar y mantener el buen funcionamiento de todos los sistemas de Infraestructura: AD, redes, VmWare, IIS, SQL server, SSRS, Integration Services, Sharepoint, TFS, etc.
+•Asistir al equipo de Service Desk en la resolución de aquellas incidencias de Infraestructura y Aplicaciones de Negocio que excedan sus conocimientos y competencias.
+•Organizar reuniones periódicas para seguimiento de proyectos e incidencias en ambas áreas de Infraestructura y Desarrollo software.
+•Detectar ineficiencias y proponer mejoras en sistemas, aplicaciones y procesos ya existentes. Mejora continua.
+REQUISITOS:
+•Conocimientos imprescindibles: 
+o    Titulado superior, preferiblemente ingeniero informático.
+o    Varios años de experiencia demostrable en puesto de responsabilidad similar.
+o    Amplios conocimientos y experiencia en:
+•Programación (.net, XML, JavaScript y SQL imprescindibles; java y otros valorables).
+•Programación de servicios web XML.
+•Plataformas IIS, SQL server, Visual studio, SharePoint, SQL Server Integration y Reporting Services.
+•Metodologías de programación y planificación de proyectos de desarrollo.
+•Infraestructura IT: Active Directory, redes, telefonía IP y video HD Cisco, sistemas NAS, virtualización servidor y escritorio VMWare, Windows Server, soluciones backup y DR y sistemas de seguridad perimetral y escritorio.
+o    Nivel de inglés MUY alto, hablado y escrito, para interacción con países europeos y USA.
+•Conocimientos valorados pero no imprescindibles:
+o    Técnicas de programación y despliegue de contenidos multimedia como HTML5, flash o Ajax.
+o    Desarrollo de apps, en especial en plataforma iOS.
+o    Seguridad en servicios web.
+o    Herramientas CRM de Microsoft y Salesforce. 
+o    Herramienta de gestión de proyectos software Team Foundation Server.
+
+•Aptitudes:
+o    Enfocado a objetivos y cliente.
+o    Bien organizado y responsable.
+o    Gestión de equipos y proyectos.
+o    Trabajo en equipo multidisciplinar y global.
+o    Ganas de aprender e innovar.
+

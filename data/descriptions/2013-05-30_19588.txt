@@ -1,0 +1,16 @@
+
+You want to make your passion a rewarding and challenging experience? 
+Become part of our Start- up project!
+Description 
+Reporting directly to our Management team and in close collaboration with our graphic designer, you will be responsible for the architecture, programming, testing and documentation of our web page.
+The ideal candidate will be responsible to start and complete projects on a scheduled basis, inclined to maintain highest standard of quality of our systems. 
+Responsible for layout, visual appearance and usability of our web project, must ensure that our brand continuity is maintained. We need a self-disciplined candidate to adhere to PHP coding conventions and standards.
+Our ideal candidate Requirements:
+-	Must be proficient in PHP, MySQL, CSS, HTML, Javascript, AJAX, XML 
+-	Experienced with Joomla, WordPress, Drupal, Magento. 
+-	Must write efficient code with documentation and must read code written by others.
+-	Experience in debugging code
+-	Excellent written communication skills (English) 
+-	Dedication and commitment towards work. Self- Disciplined.
+-	Web Engineering is preferred.
+This is a great opportunity to carve out a new culture, assist a growing business and join an exciting Start - up environment!  If you are passionate for PHP, this is your next career move!!

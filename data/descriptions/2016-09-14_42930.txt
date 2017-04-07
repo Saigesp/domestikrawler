@@ -1,0 +1,6 @@
+
+Buscamos un Programador/a Web con conocimientos y amplia experiencia en PHP, Javascript, JQuery, Bootstrap, HTML y CSS para incorporación inmediata.
+Sus tareas se centrarán en mantener y desarrollar proyectos propios de la empresa en distintos entornos de producción.
+Se valoran conocimientos en Laravel, Codeigniter y Oscommerce (y otros e-commerce)
+Estamos abiertos a distintos perfiles de Programadores pero requerimos una base de conocimiento muy sólida y experiencia en el sector e-commerce como programador.
+Es un requisito INDISPENSABLE residir en Murcia, España.

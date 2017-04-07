@@ -1,0 +1,29 @@
+
+El Programador Senior, reportará al Responsable de IT y desempañará las siguientes funciones: 
+* Definir la calidad de los sistemas de gestión. 
+* Garantizar la viabilidad del producto. 
+* Mantener registros exactos del trabajo realizado, así como descripción de los programas informáticos. 
+* Diseñar y desarrollar sistemas informáticos. 
+* Designar las tareas para los miembros del equipo y establecer los timings. 
+* Seguir especificaciones. 
+* Utilizar códigos, herramientas y lenguajes de programación. 
+* Utilizar datos en muestreo para probar software. 
+* Estar siempre al día sobre la evolución de los lenguajes de software y de programación, así como de las nuevas herramientas informáticas. 
+* Adaptar programas existentes. 
+* Analizar necesidades en software. 
+* Compilar informes y elaborar manuales. 
+Conocimientos requeridos:
+* AngularJS Bases de datos Jefe de proyecto Web Linux MongoDB MySQL PHP Symfony . 
+* Php 7, Symfony 2 y AngularJS. 
+* Bases de datos MySQL y MongoDB. 
+* Linux. 
+Conocimientos deseados:
+* ElasticSearch. 
+* Redis. 
+* Varnish. 
+* Metodologías ágiles. 
+Requisitos:
+* Licenciatura o Grado Superior en Informática. 
+* Experiencia mínima de al menos 5 años en posiciones similares, habiendo participado en proyectos web relevantes. 
+* Experiencia en gestión de equipos. 
+

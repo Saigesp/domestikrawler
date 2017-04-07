@@ -1,0 +1,17 @@
+
+Se busca Magento Developer Freelance de manera urgente para incorporación inmediata en varios proyectos.
+Imprescindibles los siguientes requisitos:
+•  Experiencia mínima de 2 años en trabajo con plantillas en Magento
+•  Adaptación de HTML personalizado a plantillas Magento
+•  Conocimientos de HTML5 + CSS3 + maquetación responsive + grids + Bootstrap (o similar).
+•  Uso, configuración y adaptación de extensiones de Magento.
+•  Conocimiento (nivel frontend developer) de PHP.
+•  Enlaces a proyectos terminados
+•  Demostración de conocimientos
+Se valorará  de manera importante los conocimientos o experiencia previa en: 
+•  Otros CMS (Wordpress, Joomla! ...)
+•  Conocimiento de Javascript/jQuery + AJAX
+•  Metodologías ágiles. Git
+•  Laravel 5.1 / Symfony 2
+Otros datos
+•  Trabajo no presencial

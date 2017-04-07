@@ -1,0 +1,12 @@
+
+Buscamos un programador senior que se pueda incorporar al equipo para dar soporte al equipo de User interface desarrollando un amplio rango de soluciones.
+Los proyectos que desarrollamos van desde aplicaciones multiplataforma (Android, iOS, Windows phone 8) para ofrecer soluciones a entornos de restauración, comercios, autopistas y cajeros, hasta máquinas/productos  con software que corre sobre hardware embebed: C++, Qt sobre linux o windows (librerías qml, no todo C++),
+Es por ello que buscamos una persona que pueda manejarse en un rango bastante amplio, en entornos de desarrollo variados. No es necesario que sea experto en todos, pero sí que se vea capaz de atacar un proyecto de este tipo por partes, que englobe las diferentes plataformas que podrían tener cabida dentro de una solución tecnológica compleja.
+Ejemplos de productos:
+-cajeros automáticos.
+-máquinas de cobro y monética variadas.
+-dispositivos táctiles de vending complejos etc…
+Necesitamos un programador de mente inquieta, que le interesen los últimos avances y posibilidades y no se quede atascado en un lenguaje de programación por comodidad. 
+El primer proyecto a desarrollar sería una máquina de vending con interface táctil enfocada a entornos de restauración, lo que implicaría:
+-UI gráfica para el dispositivo táctil siguiendo las especificaciones detalladas de los UI designers del equipo.
+-Back end de toda la funcionalidad de la máquina, comunicación entre las diferentes partes de hardware del equipo, etc...

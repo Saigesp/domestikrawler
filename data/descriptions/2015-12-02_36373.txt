@@ -1,0 +1,8 @@
+
+Hola, estamos buscando un programador capaz de montar una tienda online en una plataforma drupal. 
+El sitio ya está construido y funcionando, sólo hace falta implementar la tienda. 
+Se trata del portal www.brandemia.org
+Una plataforma dedicada a publicar artículos sobre diseño de marcas. 
+Nos gustaría disponer de una persona que nos ayudara a implementar esta tienda, de manera que los usuarios puedan efectuar pagos en distintos apartados de la web como 'entradas para eventos', 'compra de libros', etc. 
+Nos gustaría que nos mandáiseis una idea de propuesta y una horquilla aproximada de lo que podría costarnos y os daremos más datos para que podamos concretar mejor todo. 
+

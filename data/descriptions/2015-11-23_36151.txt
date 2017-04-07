@@ -1,0 +1,40 @@
+
+Hi!
+We are TWO, a boutique UK agency based in London, and we are looking for a HTML5 / CSS3 / JavaScript Front End Developer to support our creative team based in Madrid.
+Job Description 
+Front End HTML5 Developer, heavily involved in the development of advertising (HTML5 Banners) and websites using HTML, CSS, Javascript in-house platforms and frameworks. This role reports to the Head of development in UK, and Creative Lead in Madrid.
+Qualifications
+Minimum of 2 years web development experience in either agency or client environment 
+Strong oral and written communication skills with both teams and clients 
+Expert knowledge of HTML5, CSS, and Javascript (jQuery) 
+Expert understanding of the latest and legacy browser capabilities, including mobile 
+Familiarity with version control 
+Experience of delivering beautiful online experiences that comply with corporate brand guidelines 
+Experience with adobe flash and animation. 
+Experience with illustrator and photoshop for creating graphics assets from supplied creative
+The required skills are: 
+HTML5 
+Advanced level CSS3 
+Advanced level JavaScript 
+UI Frameworks such as Bootstrap 
+LESS 
+JS Frameworks (JQuery, Greensock GSAP, Create JS) 
+Adobe Creative Suite (Flash, Illustrator and Photoshop) 
+RESTful web APIs
+Experience in the following would also be a benefit: 
+Angular JS 
+Phonegap 
+AS3 
+PHP
+Scope of Role 
+Collaborate with the creative team to deliver great digital projects, on time to specification, and on budget! 
+Build and design fully responsive multimedia advertising that achieve clients goals 
+Be able to take a digital project from initial layout to a fully responsive, functioning, live asset 
+Build on content management systems 
+Use HTML / CSS / JavaScript to develop visually stunning, user-driven digital pieces such banners, websites, web applications, widgets, portals and apps 
+Maintain beautiful and well-documented code 
+Connect to third-party and in-house platforms using various RESTful web APIs 
+Proactively perform cross-browser testing and optimization
+Salary 
+Salary is completely negotiable based on experience of the above.
+

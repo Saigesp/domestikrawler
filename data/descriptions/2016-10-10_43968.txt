@@ -1,0 +1,30 @@
+
+¿QUIÉNES SOMOS?:
+SIDN es una agencia digital con más de 14 años de experiencia, pionera en España en gran parte de servicios relacionados con el marketing digital y la publicidad en internet. Contamos con más de 40 expertos en marketing digital, prestamos servicios de forma directa en más de 10 idiomas con proyectos en cerca de 60 países.
+Somos la agencia digital española con mayor reconocimiento internacional en los últimos tres años (mejor campaña de mobile marketing de Europa 2016, mejor campaña SEO de Europa 2016, mejor agencia PPC, etc)
+¿QUÉ ESTAMOS BUSCANDO?:
+Buscamos desarrollador web Front-end freelance, con experiencia comprobable de al menos 2 años en:
+- Desarrollo de sitios web en WordPress (a nivel programador): desarrollo a partir de child theme, tanto con plantillas prediseñadas como desde starter theme (como Underscores).
+- Maquetación web (HTML5, CSS y jQuery).
+- Desarrollo RWD o diseño adaptativo.
+- Bootstrap o frameworks similares.
+- Conocimientos en optimización e implementación de medidas de seguridad en WordPress.
+Que sea capaz de:
+- Mantener y preservar la calidad de los diseños en el desarrollo.
+- Mantenimiento de la calidad del código.
+- Cumplir plazos de entrega de proyectos.
+- Trabajar en coordinación con nuestro equipo de desarrollo.
+SE DARÁ PRIORIDAD A LOS CANDIDATOS CON:
+- Residencia en Granada o alrededores, que nos posibilite poder tener un contacto más cercano. 
+- Posibilidad de incorporación inmediata.
+TAMBIÉN VALORAMOS EXPERIENCIA EN:
+- Dominio de otros CMS, principalmente Drupal, Joomla y Prestashop.
+- Herramientas de diseño web: Sketch, Adobe XD, Photoshop e Illustrator.
+- Conocimiento en software de control de versiones (Git - Bitbucket).
+- Desarrollo SEO OnPage.
+- Preprocesadores CSS (LESS, Sass).
+- Experiencia en configuración de servidores y migraciones de dominios.
+OFRECEMOS:
+- Trabajo en un entorno joven, profesional y creativo en una de las agencias digitales más reconocidas.
+- Posibilidad de incorporarse a la plantilla integrándose en el equipo o realización de proyectos independientes de desarrollo web con presupuesto según objetivos a convenir por el desarrollador.
+- Espacio de trabajo en nuestra agencia en caso de que la persona prefiera trabajar junto a nuestro departamento de desarrollo.

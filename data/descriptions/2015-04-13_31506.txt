@@ -1,0 +1,14 @@
+
+addSolutions, consultora de Barcelona, para uno de sus clientes finales, busca:
+Características del puesto de trabajo:
+Para interesante proyecto web para uno de nuestros clientes, buscamos programadores junior entorno WEB con un buen perfil de front end, para desarrollar una larga carrera profesional.
+Requisitios mínimos: 
+- Experiencia mínima de 1 año programando
+- Maquetador con experiencia en HTML5, CSS3 (Bootstrap, maquetación responsive)
+- Javascript / Jquery 
+- PHP
+- SQL (MySQL)
+Requisitios deseados: 
+- Conocimientos de Java
+- SQL Server
+- Oracle

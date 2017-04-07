@@ -1,0 +1,49 @@
+
+Founded in 2008, Suntransfers.com has swiftly grown to become Europe's favourite private airport transfer company. We now provide an unrivalled choice of services and destinations ranging from VIP city transfers to low cost holiday taxis operated from more than 500 airports and travel gateways worldwide.
+Featured in Inc Europe’s 5000 fastest growing companies and fast gaining recognition within the Barcelona startup community, Suntransfers.com is a British-led success story with ambitions to become a leading global player in this dynamic sector.
+Due to our continuous growth and success, we are recruiting a talented Frontend Engineer to join our expanding team.
+The successful applicant will work closely with our Lead Developer to build, improve & maintain web based applications. You will be expected to produce high quality code to create a modular, top-notch frontend architecture to support our evolving business.
+Responsibilities:
+- Write well designed, testable, efficient code
+- Tailor and deploy software tools, processes and metrics
+- Develop cross platform and multi browser compatible solutions
+- Optimize page load speed and website performance
+- Performance oriented with a focus on maximising conversions
+- Adopt a mobile first mindset
+Required skills and experience:
+- 8+ years experience in web development 
+- Passionate to learn new technologies or how to apply business patterns.
+- SOLID and Clean Code practitioner
+- DDD, TDD and Hexagonal Architectures
+- Design patterns
+- Passionate for improving flow performance.
+- Advanced Javascript:
+- Package dependencies such as Bower, NPM
+- Build tools such as JSPM, Grunt, Gulp, Browserify, Webpack
+- Asynchronous loaders such as RequireJS
+- Cross Domain development
+- SPAs
+- Expertise with caching systems (SessionStorage, LocalStorage, Indexed DB, Web SQL) 
+- Excellent knowledge of Communication with microservices
+- Deep knowledge in AngularJS 1.X
+- Solid HTML5 & CSS3 skills
+- Deep knowledge in CSS pre-processors (LESS, SASS).
+- Aggressive problem diagnosis and creative problem solving skills
+- Strong organisational skills to juggle multiple tasks within the constraints of  timelines and budgets with business acumen
+- Experience with scalable and modular architectures of CSS (SMACSS, BEM, OOCSS)
+- Experience with scalable and modular architectures in AngularJs
+- Experience with responsive frameworks such as Bootstrap, Foundation, Skeleton
+- Experience with a VCS (preferably Git)
+- Familiarity with product engineering, software testing and agile techniques.
+Desirable skills: 
+- Bachelor's Degree in Computer Science or equivalent work experience is required
+- Deep knowledge in AngularJS 1.4+
+- Knowledge of ReactJS, Angular 2 or NativeScript.
+- Accuracy in user experience.
+- Ninja coder
+We are offering:
+- A fast-paced, challenging environment that’s fun to work in
+- A chance to work with diverse, passionate colleagues who have a range of skills and experience
+- A work environment where people respect each other, support each other and have a strong work ethic
+- To be rewarded with a competitive salary, bonus and benefits that include 24 days paid holiday (+ bank holidays), social events plus staff & family discounts on our products
+

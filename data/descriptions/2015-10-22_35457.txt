@@ -1,0 +1,9 @@
+
+En la agencia ADN Comunicació ( http://www.adncomunicacio.com ) estamos buscando un​​ jefe de departamento de IT y desarrollador​​/a​​​​ senior "full​ stack" para incorporarse ​​​a nuestro equipo de desarrollo​.
+Idealmente buscamos a alguien con conocimientos de PHP o Pytho​​n​ (se valorará muy positivamente experiencia en frameworks com Django, Zendframework, Symfony o Laravel ...) y con una buena base a nivel frontend: HTML5, JS, CSS, Sass/LESS ( a tener en cuenta conocimientos de frameworks como Bootstrap o similar, Angular JS, gestores de tareas como Grunt o Gulp).
+Los proyectos que se realizan en ADN Comunicació suelen ser muy variados, así que buscamos personas que no tengan miedo de enfrentarse a nuevos retos, resolutivas y apasionadas de la programación web.
+Haber trabajado en el desarrollo de aplicaciones móviles híbridas (Ionic) o nativas es un plus, así como valoramos muy positivamente experiencia gestionando un equipo.
+La oferta es para trabajar de forma presencial y estable.
+Contrato indefinido (con periodo de prueba).
+Incorporación inmediata.
+

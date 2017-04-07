@@ -1,0 +1,38 @@
+
+At WePlann we're looking for a full time .NET Developer to work with a small, growing team developing web based applications.
+
+We are looking for a person with a lot of talent, ideas and above all, significant motivation to excel inside of an internet start-up.
+
+The ideal candidate will have a deep passion for programming excellence and will have the ability to quickly learn new technologies.
+
+The position requires:
+To be based in Barcelona, Spain.
+English fluency is mandatory
+3-5 Years of experience. (Preferably in e-commerce)
+University Degree in Computers Science or a related field
+
+Responsibilities include, but are not limited to:
+Develop and program new graphical interfaces for an eCommerce application
+Develop well-tested, high performance, scalable web based application components
+Stay current on new technologies and best practices
+Provide input on new designs and architecture, as needed
+Experience developing, and deploying web based applications with ASP.NET using C#
+Experience with ASP.NET MVC
+Experience with Javascript, jQuery, AJAX
+
+Requirements / Skills:
+.NET 4.0, C#
+MVC
+Razor View Engine
+4.0, WebAPI, SQL Server
+IIS7
+AJAX
+jQuery
+HTML5 / CSS
+SQL 2008 R2 
+About WePlann
+WePlann is an e-commerce company offering unique, quality travel experiences: tickets to shows, cabarets and attractions, as well as helicopter tours, small-group guided tours, and transfers for individuals (FITs) traveling to top global destinations.
+WePlann.com personalizes our markets’ buying experience through local language content, local currency pricing and local product preferences, all supported by local customer service.
+We encourage our customers to share their travel plans on social media networks to increase our products’ awareness and facilitate word-of-mouth communication among social contacts. 
+
+

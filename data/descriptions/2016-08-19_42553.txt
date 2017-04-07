@@ -1,0 +1,24 @@
+
+Desde Iwantic, seleccionamos un/a PHP DEVELOPER para participar activamente en el desarrollo tecnológico para uno de nuestros clientes en Barcelona.
+Funciones:
+-       Mejora y optimización del frontend
+-       Maquetación css en entorno SASS
+-       Implementación de nuevas funcionalidades en backend
+-       Soporte técnico a los diferentes departamentos de la empresa
+-       Optimización de clases y módulos existentes
+-       Mejora y optimización de base de datos (MYSQL)
+ 
+Requisitos:
+-          Grado superior en desarrollo de aplicaciones web (DAW) o en desarrollo en          aplicaciones informáticas (DAI)
+-          Experiencia entre 1 y 3 años.
+-          Mínimo 1 año de experiencia en e-commerce o sites de alto rendimiento
+-          Nivel medio-alto de inglés
+-          Imprescindible altos conocimientos php (OOP) / mysql
+-          Conocimientos maquetación html (CSS)
+-          Preferible conocimientos básicos de diseño
+-          Preferiblemente conocimientos Magento o Zend Framework
+-          Valorable conocimientos Memcached y Vamish
+-          Valorable conocimientos Jquery y prototype
+-          Valorable conocimientos SEO
+-          Persona con carácter emprendedor
+Retribución según valía del candidato/a

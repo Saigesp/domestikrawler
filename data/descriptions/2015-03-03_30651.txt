@@ -1,0 +1,21 @@
+
+Nos gustaría incorporar un Responsable Calidad (QA - Testing) y publicación que se incorporará a nuestro equipo para definir y ejecutar los procesos de Calidad (QA, Quality Assurance - Testing), y la publicación (release) de los productos digitales.
+Responsabilidades:
+    Definir y diseñar de planes de Pruebas Integradas (SIT) y Unitarias que garanticen el correcto funcionamiento de los productos digitales, teniendo en cuenta todos los sistemas involucrados.
+    Realizar la planificación y seguimiento de la ejecución de los planes de calidad (SIT, UAT, Pruebas de Usuario) interna o con proveedores.
+    Realizar el control y seguimiento de la corrección de los defectos de software.
+    Gestionar la herramienta de planificación de pruebas y control de incidencias.
+    Coordinar las entregas de software realizadas por los equipos de desarrollo, tanto internos como externos, así como en los entornos donde se producen (producción o previos a producción).
+    Gestionar y coordinar equipos de QA.
+    Entregar versiones finales para su publicación.
+    Mantener el registro de control de versiones.
+    Colaborar con el dto. de IT/Proyectos en las pruebas de aplicaciones; QA Testing cycles- integración, sistema, regresión, estrés, volumen, etc.
+Requisitos mínimos:
+    Ciclo Formativo Grado Superior Informática.
+    Certificación del ISTQB (Avanced) International Software Testing Qualification Board.
+    Experiencia de al menos 3 años en el calidad y pruebas de productos basados en tecnologías web.
+    Conocimiento de tecnologías web (HTML5, CSS3, JS).
+    Herramientas de QA, testing y automatización.
+    Calidad y eficacia en el trabajo.
+    Flexibilidad y adaptabilidad al cambio.
+    Gestión de proveedores y proyectos con multitud de componentes y variables.

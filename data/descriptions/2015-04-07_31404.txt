@@ -1,0 +1,5 @@
+
+En LPS buscamos un desarrollador Frontend con JavaScript y framework AngularJS, JQuery o similar.
+El trabajo estará enfocado a la implementación del frontend de nuestra plataforma SWESS, mediante AngularJS (o JavaScript), HTML5 y CSS3.
+El candidato deberá tener una experiencia mínima de 6 meses y formación en ingeniería informática, de telecomunicaciones o un FP equivalente.
+Será muy valorable tener conocimiento en HTTP y el uso y manejo de SQL.

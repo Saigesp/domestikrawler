@@ -1,0 +1,37 @@
+
+En GTO Europe (oficina en Madrid) ofrecemos un puesto de Desarrollador/a Web especializado en WordPress para apoyar a nuestro departamento de producción.
+Buscamos alguien que quiera programar cosas chulas, que quiera crecer. Alguien que sea un apasionado de lo suyo, resolutivo, con ganas de aprender, y que desee formar parte de una plantilla joven y dinámica, en una agencia 100% digital en plena expansión con sede central en New York y oficinas en San Francisco, Milán y Madrid.
+Se ofrece:
+- Contrato indefinido con 6 meses de prueba.
+- Un ambiente de trabajo genial, con un buen rollo importante y gente estupenda.
+- Una oportunidad de crecimiento y de que aportes al departamento lo mejor de ti.
+- Participación con clientes y marcas de primer nivel.
+Se requiere:
+- Alto conocimiento en CMS WordPress con 2 años de experiencia (maquetación y desarrollo de plugins).
+- Experiencia demostrable en desarrollos HTML 5, CSS3 y Javascript.
+- Experiencia en Bootstrap y jQuery.
+- Experiencia en maquetación Responsive y Crossbrowser.
+- Conocimientos de PHP, y que te manejes con el codex de WordPress.
+- Maquetación de newsletter.
+- Manejo efectivo de BBDD (Mysql).
+- Manejo mínimo de Photoshop como para sacar capas y objetos.
+- Nivel intermedio-alto de inglés, hablado y escrito, para comunicarte con nuestros colegas americanos.
+- Tus funciones se enfocarían en el área de programación web principalmente con websites, banners, landingpages, newsletter, etc.
+- La persona que buscamos debe ser organizada y metódica, capacidad de trabajar con agilidad y en equipo, involucrada en las redes sociales, amante de las aplicaciones móviles y con nociones en diseño web de interfaces, web corporativas, microsites, etc.
+- Disponibilidad para trabajar en la oficina de Madrid con nosotros a jornada completa.
+Idealmente se desea:
+- Experiencia demostrable en programación de banners (Richmedia, HTML5).
+- Google Web Designer.
+- Que conozcas el Api de Facebook y Google.
+- Conocimientos de Angular.
+- Framework Ionic.
+¿QUÉ HACE GTO EUROPE?
+GTO Europe es la filial europea de Greater Than One, una Agencia de Marketing Digital con sede central en Nueva York y oficina en San Francisco y Milán. La filial europea se encuentra en Madrid centro y cuenta con un equipo multidisciplinar llevando a cabo importantes proyectos para clientes de diversos sectores, pero especializados en el sector Farma / Salud.
+El tipo de servicios que prestamos a nuestros clientes son:
+- Creatividad y Diseño
+- Desarrollo web y programación de otras soluciones digitales (apps, emailing, etc.)
+- Posicionamiento SEO y Analítica Web
+- Gestión de Redes Sociales y Reputación Online
+- Gestión de Publicidad online y SEM
+- Creación de contenidos digitales
+- Consultoría y Soluciones Estratégicas

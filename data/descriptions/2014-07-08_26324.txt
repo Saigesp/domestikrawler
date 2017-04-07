@@ -1,0 +1,8 @@
+
+Precisamos incorporar un Analista Programador con al menos 4 años de experiencia haciendo desarrollo de aplicaciones web con PHP y MySQL.
+Estamos buscando un programador con conocimientos en:
+- PHP y MySQL
+- Conceptos POO
+- Otros requisitos técnicos requeridos: HTML, CSS, JSP, Javascript, Jquery, Ajax, servidores Apache Web Server.
+- 4 años de experiencia en desarrollo de aplicaciones web con PHP y MySQL.
+- Se valorarán conocimientos de frameworks de PHP.

@@ -1,0 +1,24 @@
+
+Flexiant es una compañía de cloud pionera en Europa y estamos en proceso de rápida expansión, atendiendo a nuevos clientes y desarrollando nuevas y emocionantes soluciones software. Desarrollamos software de orquestación cloud para empresas de hosting, centros de datos y proveedores de telecomunicaciones.
+Estamos empezando un nuevo y excitante proyecto en Flexiant y buscamos a un Diseñador web UI/UX para unirse a nuestro equipo en nuestra Oficina Española en Sevilla.
+El puesto:
+Trabajarás en el desarrollo y mantenimiento de una aplicación basada en las ultimas tecnologías web. Diseñarás e implementarás nuevas interfaces de usuario, funcionalidades y workflows, desde wireframes y mockups hasta el código final de producción harás uso de metodologías Agile para contribuir en el desarrollo de una plataforma cloud innovadora. En este puesto no faltarán los desafíos, pues cada día deberás ayudar a un equipo de personas con talento, pequeño pero dinámico, a liderar la innovación en la nube.
+Lo que ofrecemos::
+El salario estará comprendido entre los 25.000€ y los 32.000€, aunque podríamos subir la cantidad para candidatos excepcionales.
+Experiencia y habilidades esenciales:
+* Autonomía, capacidad de aprendizaje y actitud proactiva ante la resolución de problemas
+* Al menos tres años de experiencia en el desarrollo de aplicaciones web.
+* Conocimientos y experiencia en UX, usabilidad y diseño/maquetación para aplicaciones web
+* Expert@ en HTML5, CSS3.
+* Nivel medio/alto de inglés técnico.
+* Portfolio, demos o trabajos publicados.
+Experiencia y habilidades deseadas:
+* Conocimientos de Javascript.
+* Experiencia con AngularJS u otros frameworks similares.
+* Experiencia con Fundation/Bootsrap.
+* Experiencia con GIT u otro sistema de control de versiones
+Además, nos gustaría saber si tienes alguna de las siguientes:
+* Experiencia con SASS.
+* Experiencia con HAML.
+* Experiencia con CoffeeScript.
+Sabemos que nadie cumplirá con todos los requisitos citados así que no te preocupes si no los puedes marcar todos. Principalmente lo que necesitamos es que seas capaz de lidiar con cualquier cosa que te pongamos por delante, que trabajes autónomamente y que produzcas código fiable a ser posible un poco antes de que nosotros siquiera pensemos en sugerirte empezar a escribirlo.

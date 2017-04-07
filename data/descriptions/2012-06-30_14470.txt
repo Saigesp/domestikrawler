@@ -1,0 +1,11 @@
+
+Buscamos desarrollador con experiencia en aplicaciones para iOS para julio y agosto.
+Habilidades requeridas:
+Objective-C
+Subversion
+Se valorará experiencia con librería Cocos2D o Chipmunk.
+Somos finalistas en el concurso de Atari para desarrollar una nueva versión del juego Pong.
+Tenemos el juego a medio desarrollo pero necesitamos uno o dos desarrolladores más para cumplir con la fecha de final de proyecto (principio de agosto).
+El desarrollo podría ser presencial (en Barcelona) o remoto (mediante nuestro servidor de Subversion)
+Si te apetece colaborar en el desarrollo del nuevo juego, avísanos por email.
+¡Muchas gracias!

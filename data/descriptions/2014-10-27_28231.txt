@@ -1,0 +1,13 @@
+
+Se busca un artista 3D con experiencia demostrable en estas tareas:
+
+Modelado en baja poligonización a partir de concepts 2d para uso en dispositivos móviles (alta optimización de triangulos y vertices)
+Modelado en alta poligonización para materiales de marketing
+Rigging  y animación
+Texturas optimizadas para móviles
+En jemchicomac hemos desarrollado con éxito nuestro primer juego, Crazy Belts (http://bit.ly/1rHCqEP) diponible para plataformas PC y móvil. El juego está distribuido en todo el mundo con nuestro publisher Immanitas Entertainment (http://www.gamasutra.com/view/pressreleases/208491/Immanitas_Entertainment_cooperates_with_Spanish_gamedeveloper_Jemchicomac.php)
+Requisitos:
+Residir en territorio español
+Conocimiento demostrable en diseño 3d para videojuegos, idealmente en entorno móvil
+Predisposición para trabajar en remoto y junto con el equipo de desarrollo para integrar los gráficos con el engine del juego de manera óptima
+Disponibilidad de al menos media jornada para el desarrollo de la actividad (compatible con estudios u otros trabajos de media jornada) Abstenerse candidatos que ya estén trabajando a tiempo completo

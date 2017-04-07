@@ -1,0 +1,16 @@
+
+The Keenfolks 
+"Con un ADN propio, The Keenfolks se presenta como un equipo de profesionales al servicio de tu organización, preparados para acompañarte desde la fase de exploración y análisis más temprana hasta el momento de llevar tu producto o servicio a la vida de la gente. Evaluando y explorando nuevos modelos de uso desde diferentes perspectivas para reducir la incertidumbre asociada a la innovación."
+Qué hacemos 
+Estrategia. Evaluación de activos: 
+Ayudamos a las organizaciones a visualizar e identificar el actual mapa de activos que determinar la cadena de valor de la organización, con el fin de determinar que es económicamente viable y técnicamente factible para lograr nuevos objetivos de crecimiento. Siempre dentro del marco de actuación que responde a “que quiero ser” y “que estoy dispuesto a arriesgar para conseguirlo”.
+Exploración. Reduciendo el riesgo de incertidumbre asociado a la innovación 
+Para determinar qué oportunidades de negocio me esperan, debo basar mis conclusiones en un exhaustivo análisis del cliente potencial, con datos extraídos de estudios etnográficos, cuantitativos y cualitativos, perfiles psicológicos y estudios de conducta de compra que me permitan conocer qué perfiles son susceptibles de captación y cuál debería ser el mensaje bajo el cual presentar mi producto, servicio u organización.
+Dirección Creativa 
+Mediante un proceso de co-creación, avanzando de forma cíclica a través de la observación, la construcción de frameworks basados en necesidades de usuarios y definiendo aquellos principios que deben servir de inspiración para el diseño, damos con soluciones basadas en escenarios y conceptos afines al público identificado como prioritario, en areas como producto, digital, branding y comunicación.
+Materialización de productos o Servicios 
+Con una naturaleza industrial y plenamente dedicada a la experimentación, en The Keenfolks ayudamos a nuestros clientes a definir estrategias que permitan la materialización y puesta en marcha de productos, servicios o campañas mediante el acompañamiento en la implementación, desarrollo y producción de los distintos materiales.
+Qué buscamos 
+Precisamos incorporar un perfil especializado en el desarrollo de software embebido para microcontroladores, ya sea para plataformas como Arduino, Raspberry, Beaglebone, como para microcontroladores específicos.
+Se requiere que tenga conocimientos técnicos en electrónica, programación de sensores, micro-controladores, montaje de prototipos, etc...
+Incorporación: Inmediata.

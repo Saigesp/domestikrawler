@@ -1,0 +1,9 @@
+
+En Yunbit plataforma de soluciones de negocio en la nube, estamos buscando un programador con iniciativa para la implementación de proyectos tecnológicos e i+D de producto.
+Debe tener una experiencia mínima de al menos 2 años en programación PHP, Javascript y MySQL (que lo dominen perfectamente). En entorno LAMP (Linux, Apache, MySQL y PHP). Y debe cumplir los siguientes requisitos:
+ - Solvencia en escribir consultas SQL y optimización de su rendimiento.
+ - Administración de MySQL nivel medio
+ - Uso de javascript, jQuery y Webservices (REST, XmlRpc, SOAP)
+ - Conocimientos de HTML y CSS
+Queremos incorporar a nuestro equipo programadores con vocación de creación de producto e I+D para una plataforma de soluciones de gestión empresarial en modelo PaaS única en España, con soluciones de ERP, CRM, RRHH, Ecommerce, Marketing, etc...
+Os estamos esperando!

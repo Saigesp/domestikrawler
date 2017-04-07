@@ -1,0 +1,10 @@
+
+Importante grupo empresarial está buscando un Analista Programador Android para trabajar en sus oficinas situadas en Madrid.
+Los candidatos deberán aportar un mínimo de 3 años de experiencia en el desarrollo con Android, experiencia en desarrollo de aplicaciones con interfaces complejas, alto grado de conocimiento en el SDKs de Android, API nativa y habilidad para desarrollar la aplicación end-to-end en varios tipos de dispositivos
+Valorable experiencia en php, con Frameworks Spring y/o Hibernate, HTML5, CSS, javascript
+Las principales responsabilidades del puesto incluyen:
+- desarrollar aplicaciones Android
+- colaborar con los equipos de diseño y análisis para desarrollar nuevas funcionalidades o mejorar las existentes.
+- realizar test unitarios
+- mejorar el rendimiento de la aplicación
+Se ofrece un contrato con más de 1 año de duración para trabajar en sus oficinas ubicadas en Madrid, a tiempo completo.

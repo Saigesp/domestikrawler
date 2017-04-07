@@ -1,0 +1,26 @@
+
+Requisitos:
+- Wordpress en sus últimas versiones. Desarrollo de themes y plugins.
+- PHP5 / OOP / Clean Code.
+- HTML5 / CSS3.
+- Javascript / JQuery.
+- MySQL.
+- Control de versiones con GIT.
+- Sólidos conocimientos S.O. Linux: sistema de ficheros, gestión de procesos, configuración de Apache, etc.
+Se valorará:
+- Integración continua (Bamboo, Jenkins, etc).
+- SASS.
+- Grunt y Bower.
+- Frameworks de PHP.
+- Bases de datos NoSQL.
+- Motores de búsqueda: ElasticSearch, SOLR.
+- Go (golang).
+Experiencia necesaria:
+Al menos 2 años de experiencia reciente en desarrollo con PHP5.
+Al menos 1 año de experiencia reciente en desarrollo de plugins y themes de Wordpress.
+Al menos 2 años de experiencia con el sistema operativo Linux.
+Al menos 1 año de experiencia en la construcción de microservicios REST.
+Por favor, abstenerse candidatos que no cumplan los requisitos (se hará prueba de nivel) o que no puedan desplazarse diariamente a Aravaca (Madrid).
+Se ofrece un puesto estable, con muy buen ambiente de trabajo, horario flexible con posibilidad de trabajar algún día desde casa.
+El sueldo será acorde a los conocimientos del candidato. Rango salarial de la oferta: 27.000 - 30.000 €.
+Contrato: 6 meses, y si todo va bien se renovará a indefinido.

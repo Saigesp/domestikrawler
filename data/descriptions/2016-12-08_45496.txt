@@ -1,0 +1,5 @@
+
+Buscamos un programador Android freelance en Madrid para realizar tareas de mantenimiento en aplicación ya desarrollada y en funcionamiento.
+La aplicación es un sistema de reproducción de vídeos consistente en una app emisora y una app receptora (instalada en varios dispositivos) que intercambian información entre ellas a través de mensajes push.
+La persona que buscamos deberá tener conocimientos de gestión y reproducción de vídeos en Android, gestión de señales a través de push, descarga y sincronización de ficheros con la nube y optimización de memoria.
+El profesional buscado deberá contar con disponibilidad para dar un servicio ágil, y la posibilidad para acudir al menos una vez por semana a nuestra oficina en Las Rozas para realizar pruebas.

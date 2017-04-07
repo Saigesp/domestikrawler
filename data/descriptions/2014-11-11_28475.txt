@@ -1,0 +1,20 @@
+
+Buscamos a un desarrollador web con amplia experiencia.
+Como Desarrollador Web Senior serás responsable de diseñar, desarrollar e implementar aplicaciones web escalables para clientes multinacionales de sectores como electrónica y telecomunicaciones, y dirigidas a un amplio público.
+Te integrarás en un equipo muy dinámico que desarrolla acciones de marketing y comunicación, asegurándote de que tus desarrollos web cumplen con los ambiciosos objetivos de la organización y liderando proactivamente una continua mejora de los mismos.
+Requisitos
+•	Programación: Javascript, AJAX, jQuery, HTML5, CSS3. Se valorarán conocimientos en frameworks Javascript y lenguajes Ruby y Python.
+•	Experiencia en sistemas de control de versiones, idealmente Git. 
+•	Bases de datos: SQL. Se valorará NoSQL.
+•	Diseño responsive.
+•	Maquetación web.
+•	Gestión de CMS y adaptación de temas y plug-in.
+Se valorará
+•	Manejo de herramientas de diseño.
+•	Se valorarán conocimientos de UX.
+•	conocimiento de analítica web.
+Otros
+•	Alto nivel de autonomía y proactividad.
+•	Motivación para estar siempre al día de las últimas tendencias.
+•	Buen nivel de inglés.
+•	Dedicación exclusiva

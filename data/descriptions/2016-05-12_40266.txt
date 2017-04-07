@@ -1,0 +1,54 @@
+
+Company details:
+We are based in Madrid, the core of the Spanish culture, a place where you can get steeped in our passion, traditions, the perfect place not only to let spring our ideas.
+Our Mission:
+At SofiaSquare we have a simple mission: “To make people smarter”.
+We are just focused on people. Students are able to change the world, thanks to the teachers who love to educate them.
+We value design skills, programming ability and teamwork. You will be helping the design processes and the implementation of high-performing systems that link students with teachers.
+During the most part of your time, you will be working on Php, MySql, Java, Android and iOS. We require experience in our staff but, if you are skilled on the technologies we use, it is always a plus!
+We are searching a great co-worker and a practical person, besides a determined coder. Passion, dedication and desire to make the difference is a must!
+Our Culture:
+Hard work, dedication, passion and the desire of changing the life of many people are our grounds, as much as fun and strong team spirit reinforce us!
+We trust on our team!
+What about you?
+Do you consider yourself an open minded, actively cooperative and team hard- worker?
+Do you believe that the diversity, trust, hands-on approach and willingness to learn from each other are the key factors of success?
+Do you consider yourself an ambitious person, passionate about both technology and entrepreneurship?
+Do you have a hands-on mentality?
+Do you speak English and Spanish fluently?
+Do you want to be part of a new Edtech Company which will change the world?
+Do you consider yourself a quick thinker and a proactive person?
+We are putting all our efforts on building a dream team! A true dream team!
+Your Responsibilities:
+What will be you in charge of?
+•	To grow the company from a Start Up to a Edtech company.
+•	To Build a dream IT Team.
+•	Defining the technology architecture, development environment, software and corresponding licenses for product   development.
+•	Defining the product’s versions plan and design the deliveries deadlines.
+•	Defining and setting up the agile work methodology to be followed by the team.
+•	Defining the quality management system.
+•	Guaranteeing the product availability.
+•	Defining the prevention plans in order to recover data and reset the service.
+•	Leading and organizing the technology   team.
+•	Handling relationship with providers.
+Skills & Experience:
+•	Bachelor’s degree in IT.
+•	+5  years’ experience .
+•	Mobile Applications and responsive design, UX (HTML5, CSS3 (framework bootstrap, foundation...).
+•	PHP, iOs, Android, Linux, Jav, MySQL, Symfony.
+•	Framework Bootstrap.
+•	Test  Driven Development
+•	Agile Methodologies & Scrum.
+•	Postgraduate in process improvement and system architecture (servers, data bases, communications).
+•	Wide knowledge in development environments, Frameworks, Webservices, data bases, etc.
+•	Knowledge of agile methodologies, XP and PMP.
+•	Experience in leading technology and software development teams with agile methodologies.
+•	Experience in leading R&D software process.
+•	Experience in software development for IOs and   Android.
+Desired Skills:
+•	Strong negotiating & modeling skills.
+•	Highly motivated, energetic personality, entrepreneurial, self-motivated mentality; driven at all times to meet and exceed   goals.
+•	Ability to work with all levels within the team and across the   organization.
+•	Entrepreneurial with a passion to win, high energy, responsive, and results-driven self-starter.
+•	Ability to work in a complex systems environment.
+

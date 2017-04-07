@@ -1,0 +1,15 @@
+
+En Axel Springer España, trabajamos en el desarrollo y evolución de varias webs de alto tráfico (www.autobild.es, www.computerhoy.com, www.hobbyconsolas.com). Tenemos un equipo de Desarrollo-Web, formado por gente de back, front y sistemas y buscamos reforzar el equipo con una persona experta en técnicas de optimización de rendimiento web (WPO).
+Requisitos mínimos: 
+- Experto/a en Javascript
+- Amplios conocimientos de browsers y optimización del renderizado
+- Amplios conocimientos de HTML, CSS, compresión, minificación, etc 
+- Amplios conocimientos de servidores web y caché
+- Experiencia en pruebas multinavegador y multidispositvo
+- Experiencia en GIT
+Se valorará:
+- Conocimientos de herramientas de Tag Management
+- Conocimientos de Drupal, Symfony, AngularJS
+- Conocimientos del metodologías ágiles 
+Ofrecemos contrato TRADE, jornada laboral de 8:00h a 15:00h (todo el año) y posibilidad de trabajo remoto.
+

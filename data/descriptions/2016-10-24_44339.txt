@@ -1,0 +1,11 @@
+
+Estamos buscando un Desarrollador Android con experiencia para un proyecto propio.
+El desarrollo se puede realizar en remoto, aunque necesitariamos asistencia presencial en algunas de las reuniones, en Madrid. Trabajará conmigo, el desarrollador de la API, para establecer la mejor forma de llevar a cabo el desarrollo. 
+El tiempo estimado de desarrollo es de 3 a 4 semanas y el sueldo es de 1.000-1.200€ por el proyecto, dependiendo de la experiencia.
+Se valorará:
+ - experiencia previa
+ - uso de APIs en Android
+Muchas gracias,
+Un saludo,
+Alex
+

@@ -1,0 +1,21 @@
+
+Unique, consultoría multinacional de RRHH selecciona para importante compañia holandesa de videojuegos que precisa incorporar en su plantilla varios puestos para Desarrollador web.
+
+Las funciones consisten en:  
+- Construcción de nuevas plataformas.
+- Mejora del código para conseguir una mejor experiencia y rendimiento visual para el usuario.
+- Asegurar compatibilidad entre navegadores.
+- Participación en todo el proceso de desarrollo, incluidas las pruebas de calidad.
+
+Requisitos del puesto:
+- Experiencia con Javascript (jQuery, ajax, json...)/OOD/OOP
+- Experiencia con HTML5/CSS.
+- Experiencia en el desarrollo en múltiples navegadores.
+- Conocimiento de Flash/AS3
+- Familiarizado con TDD
+- Imprescindible nivel alto de inglés (no se valorarán candidaturas que no cumplan este requisito)
+- Permiso de trabajo para la UE.
+
+Salario: En función de experiencia
+Horario: Flexible.
+Contrato: Proyecto de larga duración

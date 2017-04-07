@@ -1,0 +1,42 @@
+
+Job Description
+As the Front End Developer / Architect, you will be responsible for designing, building and iterating our scalable JavaScript Application Framework. You will bring a fresh perspective about JS architecture, performance and scalability.
+You are an ambitious, innovative team member with extensive experience dealing with complex modules, sandboxes, application core/ controllesr and libraries. You also have an open mind; a dose of humility; the ability to listen to others’ opinions and to bring teams together while prioritizing problem solving over “being right”. 
+You understand and embrace the inherent challenges and potential rewards of such an environment (e.g. fluid structure; ever-evolving roadmap, and a culture where team success is essential and rewarded and nobody has time for “prima donnas”). 
+Yes, you got it. We are looking for an ambitious and humble Front End Developer / Architect to add value as an individual contributor; as a team member and, in certain cases, as a project leader in our fast-paced early-stage start-up. 
+Functional Profile
+The Front End Developer will focus his / her efforts on teaming-up with the Front End Development team and work closely with the CEO, UX/UI designers and pipe engineers.
+Compensation
+The Front End Developer will be compensated with a competitive base salary, bonus opportunity and stock options.  Relocation is not available.  Visa transfers are not possible.
+Desired Skills &amp; Experience
+The ideal candidate will have demonstrated success in the following areas:
+•	Deep hardcore JavaScript.
+•	HTML 5 and CSS3.
+•	jQuery and jQuery Mobile.
+•	Web Services, Web sockets, REST, APIs (data / tools) consuming and developing.
+•	Advanced knowledge and understanding of architecture, applications systems design and integration required.
+•	Experience in designing sandboxes around security, consistency and communication.
+•	Strong knowledge of design and architecture patterns.
+•	Excellent organizational skills with the ability to work with cross-functional teams.
+Desired Skills/Characteristics:
+•	Ability to roll-up their sleeves and be a team player. Ability to prioritize multiple projects; work in a fast paced environment and proactively initiate/self-start.
+•	High energy level, integrity, and a strong work ethic.
+•	Team-oriented and have a collaborative approach to creative development.
+•	Excellent attention to detail and strong communication skills.
+•	Passion for resolving problems with practical and realistic solutions.
+•	A good level of English (written and spoken).
+•	Great sense of humor (especially on Mondays or in the middle of a fire drill).
+•	Out-of-the-box approach desired. Experience concentrating and avoiding the “media-noise” as well as the “next-consumer-app” much appreciated. Stay current with Street trends rather than market trends.
+•	Bachelor degree or Master or equivalent years of hands–on experience. We are unbiased between book smarts vs. code smarts. We want the best ﬁt, not the best brand.
+Other:
+•	S/he will be energetic; have a positive attitude and be able to communicate their passion.
+•	S/he will also blend ambition with humility and have a demonstrated ability to focus on results while rewarding team members and acknowledging their contributions.
+•	S/he will be well organized and an excellent communicator written and verbal forms
+Company Description
+ www.thedigitalmarvels.com – HQ New York City (Gotham HQ; Manhattan), Barcelona, Spain (Gaudi Labs; Downtown Barcelona, near La Sagrada Familia).
+The Digital Marvels is the world’s first commerce omni-channel platform. In 1 year we have created the most innovative product /platform in the industry; attracted 15+ of the most talented people in the tech / software industry and engaged with and validated our approach with 40+ clients in the retail / fashion / luxury and insurance / banking industries.  Most recently, our investors, all of whom are individuals with amazing track records in these industries, have given us an additional level of validation. Collectively, our investors and advisors bring C-level experience in the American, Asian (including mainland China) and European markets at the following companies:
+
+Retail / Fashion / Luxury:  Gucci, Burberry, All Saints, Alexander McQueen, Christies, LVMH, VFCorp, Abercrombie &amp; Fitch, MCM Fashion Group, DFS Gallery, Harvey Nichols and Ralph Lauren.
+
+Banking / Insurance: Morgan Stanley, Bridgewater Associates, CDIB Capital*, Deutsche Bank, Bank of America , Merrill Lynch, ABN AMRO, Perella Weinberg Partners and New York Life Insurance.
+If you always wondered what it was like to be part of the “glory days” at Apple, Microsoft, 3M,  Costco, Intel, Nike,  Idealab, J.Crew, Palm, etc… please give us a shout.

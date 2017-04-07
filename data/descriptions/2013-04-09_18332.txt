@@ -1,0 +1,13 @@
+
+PERFIL 
+Se requiere un maquetador con experiencia en la ejecución de todo tipo de piezas online para proyectos web y mobile y programación front-end. 
+Es requisito el conocimiento de maquetación accesible bajo los estándares W3C y según las normas WCAG 
+Se solicita autonomía y capacidad de trabajo en equipo. El candidato debe ser capaz de recibir una creatividad en formato psd o análogo y realizar un entregable final en XHTML y CSS estándar idéntica a la pieza original y que pase una auditoría de accesibilidad y sea compatible con todos los navegadores 
+LENGUAJES Y PROGRAMAS 
+Se requiere ser experto en los lenguajes HTML (inclusive HTML5) y CSS (inclusive CSS3), disponer de conocimientos de Javascript y manejarse con soltura con las librerías de Jquery. 
+Debe tener dominio sobre los programas y herramientas habituales para desarrollo front y control de los diferentes navegadores y de sus utilidades para desarrolladores. 
+OTROS CONOCIMIENTOS 
+Se valorará también sus conocimientos en usabilidad, experiencia del usuario y arquitectura de la información. 
+Se valorará la experiencia en maquetación responsiva y la participación en proyectos de diseño para dispositivos móviles. 
+Aunque no será la responsabilidad del candidato, también se valora los conocimientos en diseño gráfico y manejo de Photoshop. 
+

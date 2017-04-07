@@ -1,0 +1,18 @@
+
+Buscamos un Arquitecto de Networking con nivel alto de Inglés para desarrollar carrera profesional en importante compañía multinacional.
+Funciones del rol profesional:
+- Diseño y dimensionamiento de soluciones conjuntas SDN / NFV.
+- Proponer, coordinar y llevar a cabo las pruebas y ensayos con clientes estratégicos.
+- Ofrecer soluciones SDN / NFV.
+- Desarrollar herramientas de marketing.
+Estudios mínimos:
+Ingeniero Técnico
+Requisitos mínimos:
+- Al menos 3 - 4 años de experiencia como Arquitecto de soluciones de redes.
+- Buenos conocimientos en soluciones de redes y virtualización.
+- Experiencia en soluciones de preventa.
+- Buenos conocimientos en conceptos como SDN/Openflow.
+- vCPE, vEPC, Orquestación y OpenFlow.
+- Inglés alto.
+Estamos en búsqueda permanente de talento, de implicación, de motivación, de responsabilidad, de pasión, de esfuerzo, de compañerismo y de ideas, que permitan seguir haciendo crecer y mejorar este proyecto común en el que estamos todos. Si sientes inquietud, te atrae afrontar nuevos retos y trabajar en un buen ambiente de trabajo ¡te esperamos!
+PROFILE, es una compañía en constante crecimiento y expansión con más de dieciséis años de experiencia ofreciendo servicios de Consultoría, Desarrollo, Diseño e Implantación de Tecnologías de la Información, con sedes en Madrid, Barcelona, Tarragona y Santander.

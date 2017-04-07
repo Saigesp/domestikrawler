@@ -1,0 +1,8 @@
+
+Hola!
+Buscamos un programador web freelance para desarrollar una página en WordPress, cuyo diseño ya esta elaborado. 
+Requisitos:
+- Que tenga conocimiento avanzado de las funcionalidades de WordPress,
+- Escribir código PHP limpio y bien estructurado porque la página será actualizada diariamente,
+- Integración y desarrollo sobre Themes y Templates,
+- Creación y adaptación de Widgets y Plugins.

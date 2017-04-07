@@ -1,0 +1,40 @@
+
+Onebox es una empresa líder en el desarrollo de tecnología para la venta de entradas de espectáculos y actividades de ocio. Ubicados en Barcelona, nació con el objetivo de devolver a los organizadores de eventos el control total sobre sus eventos, gracias a una plataforma innovadora que les permite gestionar su venta de entradas de manera centralizada.
+Nuestra filosofía se centra en cuatro aspectos clave: Innovación, Servicio al Cliente, Espíritu de Equipo y Atención a la Calidad. Para conseguirlo trabajamos con metodologías ágiles para el desarrollo de nuestro producto y buscamos a profesionales que compartan la preocupación por la agilización de procesos. 
+Si eres una persona motivada, enérgica, con ganas de trabajar en una empresa en expansión internacional, en un ambiente joven, dinámico y con ganas de aprender y desarrollarte ¡eres la persona que buscamos! 
+Misión del puesto:
+El Product Owner es una persona altamente activa, que crea sinergias con los diferentes stakeholders: clientes externos, Product Manager, Desarrolladores, Operaciones, Dirección, para para convertir conceptos en realidades tangibles de producto, para aportar valor añadido al cliente.
+Nuestros Product Owners se encargan de retos tan importantes como hacer una plataforma estable para el uso concurrente de miles de usuarios por minuto, en diferentes husos horarios.
+Trabajarás en cloud, con herramientas como JIRA y Confluence, en un momento de implementación de metodologías ágiles: Scrum, Lean. 
+Tus responsabilidades del día a día serán:
+•	Crear, priorizar y mantener el product backlog.
+•	Definir funcionalidades y características del producto, mediante historias de usuario y criterios de aceptación.
+•	Detectar las necesidades de negocio y convertirlas en oportunidad de desarrollo.
+•	Proponer fechas de lanzamiento y contenido.
+•	Participar en los daily standups, Sprint planning, demos y retrospectivas del equipo.
+•	Evaluar el progreso del producto y aprobar / rechazar el trabajo realizado.
+•	Hacer seguimiento de la evolución del producto, guiar al equipo técnico y mantener informados a los stakeholders.
+¿Qué buscamos?:
+•	2 o más años de experiencia como Product Owner en entornos ágiles, tipo SCRUM.
+•	Una persona dinámica, que disfruta los retos y hace propuestas.
+•	Capacidad de comunicación con todos los actores que intervienen en la toma de decisiones.
+•	Actitud positiva e innovadora para el diseño y desarrollo de nuevas funcionalidades.
+•	Orientación al cliente.
+•	Conocimientos de UX.
+Ganarás puntos si además:
+•	Tienes conocimientos analítica web.
+•	Tienes la certificación Product owner.
+•	Conocimiento del sector del ticketing
+•	Nivel alto de inglés.
+•	Sabes usar herramientas de diseño
+¿Qué ofrecemos?
+Una compañía dinámica y en pleno crecimiento, que apuesta por la formación continua de su equipo, altamente motivado y ambicioso. Además, ofrecemos beneficios como:
+-	Opción de disfrutar de retribución flexible.
+-	Clases de inglés.
+-	Horario flexible de entrada y de comida.
+-	Fruta variada.
+-	Viernes jornada intensiva.
+-	Bonus si traes otros grandes profesionales como tú.
+-	Eventos mensuales de After Work.
+-	Sorteos periódicos de viajes en Europa.
+

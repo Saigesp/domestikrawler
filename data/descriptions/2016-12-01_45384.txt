@@ -1,0 +1,14 @@
+
+Avanade es una consultora multinacional con presencia en más de 80 países en el mundo, apasionada por el mundo de la tecnología, el progreso y la digitalización. En continuo crecimiento y cambio, buscamos siempre la mejora de nuestros proyectos trabajando en las últimas versiones tecnológicas siempre bajo el paraguas de Microsoft, tecnología que aplicamos en todos nuestros proyectos.
+En nuestro afán por seguir creciendo, buscamos profesionales que quieran desarrollar su carrera en entorno AngularJS y que aporten todo su conocimiento en Avanade para continuar creciento junt@s. Buscamos personas con experiencia en:
+- Desarrollo con HTML5 y frameworks Javascript
+- Utilización del framework AngularJS
+- Utilización de APIs REST
+- Test Unitarios (Jasmine, Karma,..)
+- Automatización de los procesos de build (Gulp,..)
+- Web.Api
+- Experiencia en tecnología .Net
+Ofrecemos:
+- Salario competitivo con beneficios sociales
+- Plan de carrera personalizado para tener progresión profesional
+- Incorporación en una empresa con vocación social con conciliación laboral & personal

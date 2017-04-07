@@ -1,0 +1,5 @@
+
+Buenas.
+Estoy buscando un programador de tiendas virtuales en Magento para un cliente dedicado al merchandising.
+Sería conveniente que tuviera conocimientos en PHP, JavaScript y MySQL.
+Dentro de la tienda se deberá desarrollar un configurador de productos personalizado, por lo que deberá saber programar/adaptar el código necesario y/o programarlo desde cero en caso de que fuera necesario.

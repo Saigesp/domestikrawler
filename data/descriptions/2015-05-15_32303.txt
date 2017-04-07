@@ -1,0 +1,19 @@
+
+Se busca programador PHP con experiencia en desarrollo de proyectos en Internet para incorporar de forma inmediata en nuestras oficinas de Barcelona.
+Requisitos mínimos: 
+- Experto en PHP y MySQL, con experiencia profesional de más de 3 años. 
+- Experiencia y dominio en programación orientada a objetos. 
+- Conocimientos avanzados de XHTML, CSS2 y CSS3 
+- Conocimientos avanzados en Javascript, jQuery y librerías similares. 
+- Conocimientos avanzados de Wordpress.
+Requisitos valorables: 
+- Muy valorado: conocimientos en configuración de servidores y en entornos LAMP. 
+- Experiencia en el manejo de plantillas (Smarty, PowerTemplate...) 
+- Dominio de Frameworks PHP (Zend, Symfony, etc.) 
+- Experiencia con SVN, Unit Testing, Xdebug y/o acceleradores PHP. 
+- Uso avanzado de Photoshop. 
+- Conocimientos en desarrollo de aplicaciones móviles (Android, iPhone) 
+- Nivel intermedio de inglés
+Tipo de contrato: Inicial de 6 meses + Indefinido 
+Horario: de 9 a 18 horas 
+Sueldo: de 25.000 a 30.000€

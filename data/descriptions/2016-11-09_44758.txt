@@ -1,0 +1,24 @@
+
+En Iwantic estamos buscando un Lead Technical Artist, para una empresa del sector gaming en Sevilla. 
+Si te apasiona el mundo de los videojuegos y estás buscando dar un salto profesional, liderando proyectos y equipos de trabajo... ¡esta es tu oportunidad!
+Funciones:
+- Uso de herramientas y habilidades técnicas y creativas para crear y componer escenas de juegos de alta calidad.
+- Crear (codificar), configurar y optimizar materiales y shaders con Unity.
+- Revisar y corregir recursos 3D para optimizar los aspectos visuales y de rendimiento gráfico.
+- Configurar, renderizar y optimizar las luces para los game maps.
+- Optimizar y gestionar los recursos artísticos, de forma que proporcionen la calidad visual y gráfica establecida por el Director de Arte, el Director de Producción y el Director de Estudio. 
+Requisitos:
+- Mínimo de 1 año de experiencia como technical artist en la industria de los videojuegos. 
+- Amplio conocimiento y experiencia con Unity, incluyendo configuración de luces, creación y configuración de shaders/materiales y optimización (Particle systems is a must). 
+- Conocimientos de herramientas 3D como Autodesk 3D Studio Max, Autodesk Maya, ZBrush, V-ray, Adobe Photoshop, Allegorithmic Substance Painter.
+- Experiencia demostrable en documentación técnica (creación, actualización, etc). 
+- Capacidad para liderar un equipo de 4 personas.
+- Disponibilidad para residir en Sevilla.
+Requisitos deseados:
+- Formación en Arte o Programación. 
+- Experiencia en el desarrollo de videojuegos móviles.
+- Experiencia con otros motores de videojuegos, como Unreal.
+- Haber participado en el lanzamiento de videojuegos A+ o AA. 
+- Experiencia en modelado, texturización o animación. 
+- Nivel de español e inglés fluido.
+Si estás buscando formar parte de un equipo joven, donde puedas aportar ideas, liderar equipos, con un atractivo paquete retributivo, ¡no dudes en aplicar!

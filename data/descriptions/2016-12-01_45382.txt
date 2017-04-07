@@ -1,0 +1,10 @@
+
+Technology Managed Services ofrece servicios tecnológicos desde su conceptualización hasta su puesta en marcha. Contamos con un sólido portfolio de soluciones en Tecnologías de la Información, Procesos de Negocios, Ingeniería e Infraestructuras Tecnológicas.
+Somos un equipo humano altamente cualificado, cuya principal misión es satisfacer las necesidades actuales y futuras de nuestros clientes. Siendo el Distribuidor exclusivo de BinaryTree para Iberia.
+Seleccionamos para uno de nuestros clientes en Madrid un desarrollador Xamarin.
+Se requiere experiencia de al menos un año con las siguientes tecnologías:
+-Visual Studio
+-Desarrollo móvil será muy valorable tener aplicaciones publicadas.
+-Xamarin
+-Xamarin Forms
+-Experiencia en Google Play y AppStore

@@ -1,0 +1,20 @@
+
+DESCRIPCIÓN DEL PUESTO
+Programador web con amplia experiencia tanto del lado cliente (HTML5, JavaScript, Jquery, CSS) como del lado servidor (PHP, Sql), para el desarrollo de un portal de almacenamiento de archivos multimedia que integrará aplicaciones de comercio electrónico (TPV, PayPal).
+Buscamos una persona integral para el diseño global del portal, prestando especial atención a los protocolos de seguridad y a la eficencia en las consultas a la base de datos.
+Se ofrece incorporación a un proyecto de nueva creación muy innovador y con importantes posibilidades de crecimiento.
+
+REQUISITOS
+Estudios mínimos:     Formación Profesional de Grado Superior
+Experiencia:     2 años – Indicar referencias a los portales en los que se haya trabajado y secciones programadas
+Requisitos mínimos:     PHP, Sql, JavaScript, Jquery, HTML5, CSS, protocolos de seguridad web, integración de TPV.
+Requisitos deseables:     Ajax
+
+CONTRATO
+Duración:     1 año
+Jornada:     Completa
+Incorporación:     Inmediata
+Salario:     25.000 € (posibilidad de otros incentivos añadidos)
+
+RECEPCIÓN DE CANDIDATURAS
+Envío de currículum:  urbancloud@urbancloud.org

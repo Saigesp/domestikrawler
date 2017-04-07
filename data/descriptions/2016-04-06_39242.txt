@@ -1,0 +1,19 @@
+
+En Quesabesde estamos buscando a un desarrollador web para su inmediata incorporación a nuestro equipo. Si la descripción de la oferta coincide con tu perfil, no dudes en contactar con nosotros.
+PERFIL DE LA OFERTA:
+Buscamos a un técnico de sistemas y desarrollador web que pueda colaborar con nuestro equipo en nuestras oficinas en la zona del Maresme. Es requisito necesario que resida en el área de Barcelona.
+ESTUDIOS MÍNIMOS:
+Formación profesional de grado superior en Informática.
+EXPERIENCIA MÍNIMA:
+Tres años trabajando con las tecnologías descritas a continuación (experiencia demostrable).
+CONOCIMIENTOS NECESARIOS:
+• Administrador de sistemas con conocimientos de desarrollo web. 
+• Conocimiento de Linux, especialmente en distribuciones Ubuntu y Debian. 
+• Experiencia con servidores Apache y Ngnix.
+• Monitorización de servidores (experiencia en herramientas como NewRelic y Munin). 
+• PHP (Symfony 1.4 / 2)
+• Bases de datos: MySql
+SE VALORARÁ:
+• E-commerce (PrestaShop)
+• SEO
+• HTML5 + CSS3

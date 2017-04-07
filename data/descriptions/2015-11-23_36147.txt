@@ -1,0 +1,38 @@
+
+Descripción de la oferta:	
+Gran empresa del sector industrial, con proyección internacional y proyectos de continua expansión y crecimiento, selecciona un/a Arquitecto/a .NET para su Dpto. de Tecnologías de la Información.
+
+Funciones:
+•	Se integrará en equipo de trabajo para implementar nuevo sistema orientado al diseño de soluciones de sistemas logísticos y de almacenaje así como en otras aplicaciones relacionadas.
+•	Colaborará en la definición de la arquitectura del nuevo sistema a desarrollar y en la mejora de los existentes.
+•	Realizará la programación de componentes del sistema y de otras aplicaciones.
+•	Diseños técnicos, pruebas unitarias, pruebas integradas y de calidad del software.
+•	Conocer las soluciones técnicas actuales y hacer propuestas de mejora.
+•	Conocer y comprender las características y lógica de funcionamiento de los productos de la Compañía
+
+Requisitos Mínimos:	
+•	Titulación universitaria media o superior, preferiblemente Informática o Telecomunicaciones (sin descartar otras titulaciones universitarias)
+•	Años de experiencia:  Más de 5 años
+•	Definición de arquitectura de aplicaciones complejas y con gran volumen de usuarios.
+•	Definición de especificaciones y diseños técnicos.
+•	Metodología de desarrollo de proyectos.
+•	Modelado de bases de datos.
+•	Soporte técnico a equipos de desarrollo.
+•	Implementación de soluciones desktop y web.
+•	Visual Studio 2013
+•	Lenguajes: C# (.NET Framework 4.0 / 4.5), javascript, JQuery, ASP.NET, WPF
+•	MVC 4.x/5.x. MVVM
+•	Desarrollo con arquitecturas y tecnologías orientadas a servicios web: WCF / REST / WEB API.
+•	SQL, LinQ.
+•	Bases de datos relacionales: MySQL y/o SQL Server 2008 o superior.
+•	Unit Testing
+Se valorará:	
+•	AngularJS
+•	Repositorios: SVN / TFS / GIT
+•	ORM: EF5 o superior.
+•	UI: basados en AJAX / Json.
+•	Telerik Kendo
+•	Experiencia en desarrollo aplicaciones gráficas y/o CAD.
+•	Conocimientos de frameworks de dibujo y motores gráficos, 2D y 3D
+•	Bases de datos relacionales (embebidas): SQLite3, SQLDB.
+

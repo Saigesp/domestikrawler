@@ -1,0 +1,13 @@
+
+REMSOL EUROPE es una empresa joven, dinámica y dedicada al mundo del smarthome. Altamente tecnológica, dedicamos nuestros esfuerzos a la creación de hardware y software para el mercado de consumo.
+Oferta dirigida a:
+Ingeniero/a Técnico en Informática de Gestión 
+Ingeniero/a Técnico de Telecomunicación
+Ofrecemos:
+- Media jornada remunerada.
+- Trabajar en una Startup tecnológica con proyectos muy interesantes.
+- Alta posibilidad de entrar en nuestro equipo de ingeniería pasado el periodo de prueba. 
+Perfil:
+- Conocimiento programación Java y C++.
+- Entorno linux.
+- Preferible experiencia en programación para  Android.

@@ -1,0 +1,28 @@
+
+Somos San Telmo Cloud, una firma italo mexico argentina, que se dedica a la creación de negocios, al desarrollo tecnológico y a los servicios de diseño con un enfoque especializado en estrategia creativa, interacción y diseño de interfaz de usuario. Nos comprometemos a proveer productos y servicios basados en el equilibrio estético, la funcionalidad y la innovación. 
+Buscamos programadores Senior en PHP+HTML 5+CSS3+Java+Phyton para incorporar a nuestra plantilla.
+Requisitos: 
+- Experiencia mínima de cinco años. 
+- Imprescindible conocimientos de: 
+.Java/J2EE Nativo nivel Senior
+. JQuery 
+. PHP Nivel Senior
+. MySQL 
+. HTML 5 
+. CSS 3 
+. Javascript.
+. Bootstrap (sitios responsivos)
+. Excelente diseñando y desarrollando hojas de estilo responsivas
+. Parallax (animaciones y efectos)
+. Familiarizado con los protocols web (HTTP, TLS, SSL etc). 
+. Familiarizado con Tecnologías API (OAuth, HTTP RPCs)
+. Google Maps
+. QR´s
+. Bluetooth
+. Conexión a dispositivos remotos como impresoras, lectores de barras y QR´s
+. Pasarelas de cobro como Paypal, Authorize, etc...
+. Familiarizado con charts (gráficas)
+. Experto en el desarrollo Oncloud y arquitectura de tres capas
+. SSL
+. Java+Android
+. Conexión con webservices de apps móviles Android / iOS

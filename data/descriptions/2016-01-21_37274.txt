@@ -1,0 +1,22 @@
+
+En iSalud.com buscamos un Full-Stack Web Developer con amplia experiencia en Zend Framework, Node.js, SOAP, REST, ... para incorporar al equipo de desarrollo, que conozca bien y le sean familiares todas las facetas del front-end y del back-end, demostrando conocimiento sobre servidores, redes, data modeling, APIs, UI y UX .
+Ofrecemos Contrato Indefinido a tiempo completo en la compañía líder especialista en asesoramiento de seguros médicos en España.
+Antes de apuntarte revisa detenidamente nuestros requerimientos mínimos, si cumples con ellos esperamos contar contigo.
+Requisitos
+    Estudios mínimos: Formación Profesional Grado Superior
+    Experiencia mínima: 4 años
+    Conocimientos necesarios
+        Zend Framework
+        node.js
+        SOAP
+        REST
+        jQuery
+        HTML5
+        CSS3
+        Git
+        PHP 5
+    Amplia experiencia en el uso de:
+    - Zend Framework
+    - Node.js SOAP, REST
+    - Tecnologías web (HTML5, CSS3, Javascript, Jquery).
+    - Git

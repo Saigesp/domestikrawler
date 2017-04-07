@@ -1,0 +1,12 @@
+
+Empresa tecnológica con 10 años de experiencia en el desarrollo de entornos virtuales de aprendizaje necesita incorporar a un programador especializado en PHP con el siguiente perfil:
+Experto programado en PHP
+Dominio de lenguaje SQL para MySQL
+Conocimientos avanzados en Javascript/jQuery
+Conocimientos de HTML5/CSS3
+Mínimo de 2 años de experiencia.
+Se valorarán positivamente si además se tienen conocimientos en:
+Programación Orientada a Objetos
+Uso del framework Twitter Bootstrap
+Usabilidad y estética Web
+Buscamos gente activa, que le guste trabajar en equipo y participar en las decisiones de cada proyecto.

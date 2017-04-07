@@ -1,0 +1,21 @@
+
+Melt Group busca para importante empresa en Zaragoza, perfiles con capacidad:
+o Organizativa.
+o Negociación.
+o Liderazgo.
+Se ofrece un plan de carrera profesional, apostando por grandes profesionales del sector:
+Tú reto profesional:
+Administración avanzada de sistemas Linux, preferiblemente distribuciones RHEL/CentOS.
+Experiencia en entornos web de alto tráfico.
+Administración avanzada de servidores web: Nginx, Apache.
+Amplios conocimientos de administración de bases de datos, preferiblemente MySQL.
+Seguridad en entornos web.
+Conocimientos de networking (TCP/IP, balanceadores, routers, etc).
+Experiencia con Varnish.
+Conocimientos de PHP.
+Conocimientos de algún sistema SCM, preferiblemente GIT.
+Experiencia en cloud AWS: arquitectura, despliegues, devops.
+Conocimientos de herramientas de gestión de configuraciones y administración remota tipo Chef, Puppet, Ansible, Fabric etc.
+Monitorización de sistemas complejos (Zabbix, Nagios, SNMP, etc).
+Scripting avanzado (Bash, Perl, Python) para la automatización y monitorización.
+

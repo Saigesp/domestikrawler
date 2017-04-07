@@ -1,0 +1,14 @@
+
+El equipo de OnTheGoSystems es autor y responsable de muchos conocidos plugins para WordPress, como WPML, Toolset, Types, Views, CRED, Access entre otros. Nuestros plugins funcionan en cientos de miles de páginas web, probablemente en todos los idiomas de la Tierra.
+En la actualidad, más de 500.000 sitios comerciales usan nuestros productos. Tu trabajo influirá en cientos de nuestros clientes en todo el mundo.
+Buscamos un desarrollador experto en plugins para WordPress para que se una a nuestra familia. Prometemos retos, un trabajo interesante y un ambiente de trabajo inmejorable.
+Requerimientos:
+- Graduado o Licenciado en Informática
+- +5 años de experiencia en desarrollo PHP
+-  Sólida experiencia en desarrollo de plugins y temas para WordPress
+-  Sólida experiencia en uso eficiente de MySQL
+-  Buen nivel de inglés tanto hablado como escrito
+-  Habilidad para liderar un proyecto complejo, incluyendo análisis previo y desarrollo
+-  Ganas de trabajar en un equipo deslocalizado
+Sobre nosotros:
+OnTheGoSystems se fundó en 2007 y es una empresa global con empleados en todo el mundo.

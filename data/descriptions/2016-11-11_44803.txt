@@ -1,0 +1,8 @@
+
+En OPTretina buscamos incorporar un programador web PHP/JS que nos ayude a desarrollar nuestra plataforma de teleoftalmología. Nuestra misión es evitar que las máximas personas posibles se queden ciegas y ayudar a crear un mundo un poco mejor.
+Esperamos que seas una persona dinámica, con iniciativa, resolutiva, que trabajes de forma independiente y como parte de un equipo. Seas capaz de trabajar en un entorno cambiante, escribas código limpio, documentado, mantenible y escalable.
+En la parte técnica, nos interesa que tengas conocimientos en PHP, Angular JS y MySQL. Te sientas cómodo bajo UNIX y seas capaz de integrar cualquier API REST o servicios externos de terceros con nuestro sistema. Estes familiarizado con GIT, Integración Continua y SCRUM.
+Queremos que crezcas profesionalmente, trabajaras codo a codo con un equipo de programadores seniors de 1er nivel que te ayudaran a crecer con las técnicas y metodologías propias de un proyecto internacional en gran crecimiento (tenemos operaciones en España, Andorra, Francia, Alemania, México, Colombia y Singapur entre otros)
+Ofrecemos un buen ambiente de trabajo tipo Startup (premiada, entre otros, como la mejor iniciativa empresarial de Cataluña por la AIJEC) y jornada completa con horario flexible. Queremos que trabajes de forma presencial en nuestras oficinas de Sant Cugat (Barcelona). Hay sitio para aparcar en la puerta y estamos a 7 minutos a pie de los FFGG.
+Ofrecemos un salario de 25.000€ brutos anuales, con contrato fijo desde el 1er día.
+Si no te contagias con el entusiasmo, no tienes inquietudes, talento y ganas, por favor, abstente de presentarte.

@@ -1,0 +1,22 @@
+
+Dimensional Webs, empresa con más de 10 años de experiencia en diseño web, busca programadores Full Stack (Front/Back) con al menos 2-3 años de experiencia en desarrollos web, para trabajar a tiempo completo en nuestras oficinas de San Martín de la Vega (Madrid Sur).
+
+Imprescindible poseer conocimientos y manejo demostrable en estas áreas:
+• Estándares web W3C.  
+• HTML y CSS en sus últimas versiones.
+• PHP5, PHP6 y PHP7.
+• Bases de datos relacionales como MySQL.
+• JavaScript.
+• Instalación e implementación de Plataformas de Pago TPV.
+• Consumo y desarrollo de APIs Rest tanto desde PHP.
+• Frameworks MVC PHP (Symfony, Laravel, Zend Framework, etc…) 
+• Fameworks JavaScript (AngularJS, NodeJS, etc…) 
+• Experiencia en entorno de servidor LAMP.
+Ofrecemos:
+• Formación inicial remunerada.
+• Sueldo fijo con contrato. 
+• Trabajar con las últimas tecnologías.
+• Excelente ambiente de trabajo.
+• Planes de evolución interna en la empresa.
+• Incorporación inmediata en una empresa con una continua evolución.
+

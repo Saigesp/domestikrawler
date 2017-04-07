@@ -1,0 +1,14 @@
+
+- Confirmed experience using Php, MySql, Javascript, Ajax (JQuery), MongoDB y HTML5/CSS3. 
+- LAMP servers administration 
+- Knowledges in these fields are a plus:  NodeJs, framework Php , Qt et C++
+- If possible, have a github page to show example of your code
+- Minimum expérience: 2 years
+- French or English is a plus
+---------------------------------------------------------------------------------
+- Amplia experiencia en Php, MySql, Javascript, Ajax (JQuery), MongoDB y HTML5/CSS3. 
+- Experiencia contastada administracion de un servidor LAMP
+- Conocimientos valorables: framework Php, Node Js, Qt y C++
+- Proponer un link a una pagina Github para tener ejemplos del codigo
+- Experiencia minima 2 años
+- Francés or inglés is a plus

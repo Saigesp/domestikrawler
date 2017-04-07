@@ -1,0 +1,19 @@
+
+CRAFT, una de las compañías del Grupo McCann Erickson, está buscando incorporar en su equipo de producción digital un programador frontend con al rededor de 3 años de experiencia.
+Los requisitos mínimos que necesitaríamos que tuviera este nuevo perfil son:
+- Dominio de HTML5, CSS3 y Javascript.
+- Experiencia en desarrollo de webs responsive, microsites y landings, piezas display y newsletters.
+- Experiencia animando por código usando librerías como GSAP o por linea de tiempo.
+- Conocimientos de entorno LAMP y experiencia trabajando con CMS.
+- APIs de terceros como Google Maps, Facebook, Twitter, etc.
+- Dominio de la suite de Adobe para tareas relacionadas con el frontend.
+Deseable / Se valorará:
+- Experiencia en agencia de marketing/publicidad
+- Experiencia trabajando con Adobe Animate (antes Flash), Adobe Edge, Google Web Design, así como los diversos adservers como Doubleclick o Sizmek(Mediamind).
+- Conocimientos sólidos de programación, OOP, patrones MVC, etc.
+- Experiencia en Canvas y/o WebGL.
+- Frameworks js como Angular, Foundation, Backbone, Node, etc.
+- Preprocesadores CSS como Sass, Less.
+- Herramientas como npm, Bower, Gulp y/o Grunt.
+- Experiencia en metodologías ágiles (SCRUM, KANBAN, etc).
+Ofrecemos sueldo según valía y pertenecer a un equipo en constante crecimiento.

@@ -1,0 +1,16 @@
+
+Somos una empresa especializada en el desarrollo de proyectos en el ámbito cultural, social y educativo.
+Buscamos un especialista en el desarrollo de temas de Drupal 6.
+Experiencia mínima: Al menos 1 año.
+Requisitos mínimos:
+- Buenas habilidades en el desarrollo de temas (TPL, utilización de hooks de tema, etc.).
+- Buenos conocimientos de PHP, HTML y JQuery.
+- Experto en CSS y Javascript.
+- Nivel alto de inglés técnico (leído y escrito).
+- Residir en Madrid o disponibilidad para viajar frecuentemente (1 vez a la semana como mínimo).
+Valorable:
+- Conocimiento de sistemas de control de versiones (SVN, GIT).
+- Experiencia en desarrollo de temas con Drupal 7.
+- Desarrollo de temas con 960 como tema base.
+- Conocimientos de accesibilidad web.
+Si eres un drupalista entusiasta y buscas desarrollar tus habilidades profesionales en un ambiente joven y creativo, no dudes en enviarnos tu CV y/o portafolio a: jobs@dtysc.com

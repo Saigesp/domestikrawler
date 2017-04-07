@@ -1,0 +1,7 @@
+
+En Alterkeys creemos firmemente que existe una forma diferente de viajar, una en la que te sientas en casa sin estarlo, en cualquier parte del mundo. Creemos que para una experiencia diferente de viaje es importante el sentimiento de comunidad, que es el que tratamos de crear entre todos nuestros usuarios, ya sean huéspedes o anfitriones. Pero no queremos que nadie tengo que preocuparse por nada dentro de esta comunidad, por ello, implementamos medidas de seguridad tanto para propietarios como viajeros.
+Para ello, buscamos una persona encargada de desarrollar procesos de integración; desarrollo de nueva API, entre otros.
+ Al menos 2-3 años de experiencia en desarrollo de aplicaciones Web con php5.
+- Al menos 2 años de experiencia en el desarrollo de aplicaciones con algún framework MVC: Symfony, cakePHP o similar.
+- Experiencia con algún framework javascript, por ejemplo: jQuery.
+- Experiencia en entornos LAMP.

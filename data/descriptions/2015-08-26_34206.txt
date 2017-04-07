@@ -1,0 +1,12 @@
+
+Hola, estamos buscando una o varias personas, según el perfil de cada uno, para incorporarse inmediatamente al departamento de producción. Sus labores serán las siguientes:
+- Creación de banners y piezas rich media en HTML5
+- Creación de banners y piezas rich media en flash
+- Creación de piezas con especificaciones ad-hoc para adservers como Sizmek o DoubleClick Studio
+- Maquetación front de webs y microsites
+Para ello, necesitamos que estés seguro en algunos campos. Los que marcamos con asterisco son esenciales, en los demás no es necesario que seas un/a maestro/a o que los conozcas:
+- *Conocimiento avanzado de CSS y HTML
+- *Experiencia en producción de banners y piezas para Sizmek y Doubleclick
+- *Experiencia en Flash
+- Conocimientos básicos de Javascript, node.js o PHP
+Somos una empresa con 5 años en el sector, que trabaja para las más importantes agencias de publicidad españolas. Te ofrecemos un entorno de trabajo inmejorable, un equipo joven y un ambiente de 10 :)

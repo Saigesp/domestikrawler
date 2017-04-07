@@ -1,0 +1,30 @@
+
+Necesitamos un desarrollador web junior para incorporar al equipo de Pleis en su departamento de Tecnología y Producto, reportando de manera directa al CTO y contribuyendo al desarrollo y mantenimiento evolutivo de los portales que estamos preparando.
+Buscamos gente responsable y con iniciativa, con interés en la tecnología, y ganas de asumir retos en una empresa con gran potencial de crecimiento.
+Se requieren conocimientos de  PHP 5 orientado a objetos y experiencia con el framework Symfony 2.
+Se valorará haber demostrado interés en estas tecnologías y haber desarrollado proyectos personales con ellas.
+Además, se requieren nociones de MySQL y habilidades de maquetación y desarrollo front-end.
+Capacidades a valorar:
+
+- Conocimiento de Symfony 2 o, en su defecto, cualquier otro framework de PHP 5 orientado a objetos
+
+- Gestión de bases de datos MySQL
+
+- Desarrollo front- end: XHTML, CSS, jQuery y nociones de Twig
+
+- Manejo fluído de repositorios Git
+
+- Soltura en la utilización de sistemas UNIX
+
+- Interés por la optimización y los sistemas de alto rendimiento
+
+- Inquietud por conocer las últimas tecnologías y herramientas disponibles
+
+- Sensibilidad hacia el diseño de producto y UX.
+
+
+Ofrecemos a elección del trabajador contrato fijo con incorporación inmediata, o colaboración estable como autónomo con una retribución fija mensual.
+--
+Pleis Target SL es una empresa fundada a principios de año por un equipo de gente joven, nativos digitales con ganas de revolucionar los portales verticales en Internet.
+Nos gusta la gente con ganas de aprender, que tenga ilusión por nuevos proyectos, por su trabajo, y disfrute con él. A cambio, te ofrecemos un trabajo estable a jornada completa, con horario flexible, continuidad a largo plazo y perspectivas de progresión en la empresa.
+La oficina de Pleis se encuentra en la calle Guzmán el Bueno de Madrid, bien comunicada en transporte público y en ella disfrutarás de un ambiente de trabajo joven, divertido y agradable.

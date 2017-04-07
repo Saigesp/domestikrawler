@@ -1,0 +1,15 @@
+
+Hola! Buscamos un desarrollador Web que domine entornos de gestión de contenidos -principalmente Drupal- y con amplios conocimientos de PHP. 
+Ser capaz de integrar programación con la maquetación sin que se nos pongan los pelos de punta será una de tus tareas principales. Nuestro estudio gestiona un volumen alto de proyectos –algunos de lo más interesante, de verdad- y necesitamos refuerzos, principalmente en el área de desarrollo. 
+¿Qué necesitamos? 
+Encontrar una persona con excelentes conocimientos técnicos, con una inmejorable actitud para hacer frente a los retos que cada día cruzan nuestras puertas y con dotes de comunicación. 
+¿Qué esperamos de ti?
+Que cumplas o intentes cumplir a toda costa los plazos de entrega, que puedas trabajar en equipo –y créenos, vale la pena el equipo que hay aquí- y que seas capaz también de gestionar tu trabajo de manera autónoma y responsable.
+Para estar interesado en nuestra oferta se supone que deberías dominar cosas como las que enumeramos a continuación (cuantas más, mejor) y claro está, superar nuestro detector de “fakes” en la entrevista:
+•	Desarrollo en Drupal 7 (tanto Site-building como Front-end). Conocimientos de Wordpress serían un plus (aunque si dominas Drupal… “piece of cake” como dirían por ahí). 
+•	Conocimientos amplios de PHP. Familiarizado con Frameworks PHP, especialmente con CodeIgniter. 
+•	Desarrollo de versiones Mobile Responsive, temas Front-end con HTML5, CSS3, JavaScript y JQuery. 
+•	Familiarizado con BBDD Drupal, APIs, MySQL... 
+•	Experiencia trabajando utilizando control de versiones  (Git and GitHub).
+Si todo esto te suena a pan comido o no todo todo pero crees que podrías hacerlo genial igualmente, ponte en contacto con nosotros y envíanos algunas referencias de trabajos tuyos. Nos pondremos en contacto contigo en un periquete.
+

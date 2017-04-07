@@ -1,0 +1,9 @@
+
+Buscamos un especialista en desarrollo en Wordpress para una pequeña colaboración puntual, por favor enviad directamente presupuesto según las siguientes especificaciones:
+"Se ha ido ya mamá" realizará el diseño de la página web (onepage) en Wordpress a partir del tema Avada. El objetivo de la página es ofrecer un servicio básico de traducción de documentos.
+
+El programador se encargará únicamente de implementar en la página las siguientes funcionalidades:
+- Ofrecer la posibilidad de subir el documento que se desea traducir en formato pdf o word. Los usuarios tendrán la posibilidad de subir documentos de una, dos, tres y cuatro páginas que podrán ser
+traducidos seleccionando una de estas dos combinaciones:  » ES>EN » EN>ES, cada una de las cuales tendrá un precio diferente (total: 8 opciones de precio). Se podrá abonar el servicio a través de la página (Integración de modos de pago por TPV de INGDirect y Paypal). El programador se encargará también de ajustar el/los email/s (sólo texto) de confirmación que se generen de esta operación en ambos idiomas. 
+La moneda será únicamente Euro.
+- Pequeños ajustes de PHP derivados de la integración del plugin WPML (realizada por Se ha ido ya mamá) en menú, formularios, footer para ajustarlos al idioma secundario (inglés).

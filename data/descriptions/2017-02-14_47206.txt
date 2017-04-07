@@ -1,0 +1,35 @@
+
+Worldreader (www.worldreader.org) is on a mission to bring digital books to every child and her family, so that they can improve their lives through the power of technology.
+To accomplish our goals, Worldreader has created a worldwide logistics system, to provide literacy training and support, co-publish books with African and US publishers, measure our results obsessively, report on our progress, and raise money and awareness for our mission. We have a worldwide team of 80+ staff and volunteers across seven countries and three continents that have graduated from the world’s best schools, companies, and non-profits and have accomplished the nearly impossible.  
+An ethos of working hard, having fun and making history inspires our culture, and the team shares a passion for reading and philanthropy. 
+We aspire to reach millions of children and families worldwide. We believe that by hiring people larger than we are, we will end up with an organization of Giants.
+About the Position
+Worldreader’s Digital Production team is looking for an e-book and quality assurance expert to process and publish large batches of content onto our digital platforms. The ideal candidate will have a flare for reducing manual inputs, a knack for problem solving, and the ability to balance the need for speed with high-quality outputs.
+Reporting to the Digital Production Manager, the E-book and Quality Assurance Specialist will:
+- Manage relationships with publishers’ technical teams pertaining to the processing and publishing of e-books
+- Coordinate with technical solutions providers on the digitization of books
+- Troubleshoot e-book issues related to markup language, structure, layout, style, format, size, language, etc.
+- Apply and automate fixes and edits to large batches of e-books
+- Optimize the display of e-books for different digital platforms and various e-reading devices (mobile phones and e-readers)
+- Upload e-books to Worldreader’s digital platforms via internal content management systems and make available for reading on various devices
+- Own the enhancement of internal content management systems by communicating feedback on their performance and building up plans for streamlining the ingestion of content
+- Perform platform- and device-specific quality assurance on uploaded books to eliminate potential errors and guarantee the best possible display
+- Develop and implement strategies and techniques to ensure that all digital platforms receive a similar high level of e-book quality
+- Take care of file maintenance and housekeeping
+Candidate Attributes:
+- 1-2 years in a similar role, troubleshooting e-books and performing QA
+- Expertise in XML, HTML, and CSS
+- Familiarity with standard EPUB and MOBI specifications
+- Experience with desktop publishing software (Adobe InDesign, QuarkXPress, KindleGen), OCR software, - FTP sites, and CMSs is a plus
+- Grasp of project management and CRM tools, such as JIRA and Salesforce
+- Numbers wizard, metadata nerd, Excel master
+- Obsessive attention to detail and organization
+- Ability to communicate complex information in a high-level way
+- Problem-solving orientation and a fine sense of responsibility
+- Pro-active and can-do attitude combined with a thirst for challenges
+- Ability to work independently, with minimum supervision
+- Motivation to work in a dynamic environment, wearing multiple hats and balancing several priorities at the same time
+- Excellent written and verbal English communication skills
+- Fluency in Spanish, French, Arabic, or indigenous African or Indian languages considered a plus
+- Passion about Worldreader’s mission
+

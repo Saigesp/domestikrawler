@@ -1,0 +1,13 @@
+
+Reco Technology es una empresa ubicada en Madrid. Nuestra empresa se especializa en el sector de los videojuegos para distintas plataformas.
+El perfil que buscamos:
+Programador de videojuegos con dominio de Unity3D y Android.
+Responsabilidades:
+- Realizar el porting de Unity 3D a Android e implementar la funcionalidad de los juegos en ambas plataformas.
+Requisito imprescindible: 
+- Dominio del motor, y conocimiento de ambos lenguajes y entornos.
+Requerimientos adicionales:
+- Conocimiento de varios lenguajes de programación: C, C++, C#. 
+- Conocimientos de Direct X, Open GL.
+HORARIO:  9:00 a 18:00
+

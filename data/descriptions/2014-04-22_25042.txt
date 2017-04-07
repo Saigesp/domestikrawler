@@ -1,0 +1,14 @@
+
+Buscamos a una persona con experiencia acreditada.
+- ASP.NET WebForms VS 2012
+Lenguaje C#
+Arquitectura capas.
+Patrón MVP (Movel View Presenter)
+- HTML5 , CSS3, JQuery , JavaScript, AJAX
+- BBDD SQLServer 2008 R2: Funciones y Procedimientos almacenados.
+Desarrollo páginas aspx heredadas de una página MASTER y que contenga controles de usuarios (ascx) de consulta / edición / muestra de datos de acuerdo al patrón MVP (asaptación al entorno webforms del patrón MVC), puede ver info aquí: https://github.com/webformsmvp/webformsmvp
+- Además trabajamos con controles de terceros: Obout, Stimulsoft, GaiaWare, Scheduler.Net
+- El diseño está desarrollado en HTML5 CSS3 Boostrap JQuery (tendría que adaptar los formularios al diseño ya dado y que hereda de la págia MASTER)
+- De todas formas tendría ejemplos para que pudiera conocer en profundidad como se está desarrollando.
+- Todo el tema de BBDD iría por nuestra cuenta, y el core principal del programa también, eso no lo tendría que tocar.
+- Se valorará mucho experiencia con Stimulsoft.

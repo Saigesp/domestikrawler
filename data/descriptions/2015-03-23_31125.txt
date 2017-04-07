@@ -1,0 +1,16 @@
+
+Hola
+Somos una recien estrenada Start-up con muchas ganas de crecer y hacer cosas importantes.
+Hemos creado nuestra pagina web con Ruby y estamos buscando a una persona que sea nuestra referencia tecnólogica en el proyecto, supervisando la web, mejorando sus funcionalidades y aportando soporte y asesoria continua.
+El cantidato ideal debe tener un perfil Senior con experiencia demostrable en desarrollos similares, ser proactivo (se valora mucho la propuesta de mejoras y evoluciones) y sobre todo implicado y de rapida respuesta cuando se requiera.
+La incorporación es inmediata.
+Tareas
+A nivel técnico estos son los minimos requirimientos deseados:
+- Ruby on Rails y Sql. 
+- Conocimientos de Api Twitter, Facebook y Google maps. 
+- Conocimientos de CSS3 / SASS y Bootstrap 3 
+- Javascript, Jquery, HTML 5 
+- Conocimientos de Photoshop. No es imprescindible diseño, (aunque valorable). 
+- Servidores y Droplets, tipo Digital Ocean. 
+- Wordpress 
+- SEO, no hace falta ser un guru, pero si sera valorable.

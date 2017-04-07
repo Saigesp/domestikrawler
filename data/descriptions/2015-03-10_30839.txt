@@ -1,0 +1,7 @@
+
+La compañía: HI Iberia Ingeniería y Proyectos - empresa de consultoría para grandes clientes-.
+Más de 20 años en el sector de las telecomunicaciones y más de 150 reconocidos profesionales son la mejor de nuestras garantías. En HI iberia trabajamos con las empresas más prestigiosas y las principales compañías españolas e internacionales para liderar proyectos sostenibles y de alto valor añadido.
+Selecciona UX Developer, para diferentes proyectos de gran evergadura
+Requisitos:
+-Experiencia en Javascript y Css.
+- Responsive Design 

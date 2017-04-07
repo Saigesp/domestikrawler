@@ -1,0 +1,23 @@
+
+En neventum buscamos programador php junior con conocimientos de HTML5/CSS3 para incorporarse al equipo técnico de desarrollo de los sites de la empresa así como del panel de gestión interno.
+Funciones
+Escribir código eficiente, limpio, mantenible y reutilizable
+Desarrollar y desplegar nuevas funcionalidades y herramientas,
+Encontrar, probar, diagnosticar y solucionar problemas de software 
+maquetar en base a un diseño y/o libro de estilos
+Requisitos mínimos
+Experiencia en entornos LAMP (Linux + Apache + MySQL + PHP)
+Programación orientada a objetos y arquitecturas MVC
+Experiencia en bases de datos.
+Conocimientos HTML5, CSS3
+Conocimientos Javascript (jQuery)
+Conocimiento en control de versiones (Git)
+Gran atención por los detalles y vocación por la calidad
+Metódico y riguroso
+Autonomía para resolver los problemas
+Predisposición de trabajo en equipo 
+Requisitos deseados
+Conocimientos de Laravel o otro framework
+Maquetación responsive con (Boostrap)
+Conocimientos en el uso de procesador de estilos (Sass)
+Conocimientos utilizando las herramientas bower y Grunt 

@@ -1,0 +1,30 @@
+
+DESCRIPCIÓN
+Puesto vacante:	Desarrollador
+Nivel:	Empleado
+Personal a cargo:	0
+Número de vacantes:	1
+Descripción de la oferta:	Agencia de rápido crecimiento especializada en Marketing y RRPP Online (SEO/PPC/SMO/ORM)  precisa de un Desarrollador/Programador para unirse a su equipo de manera inmediata.  Las responsabilidades del candidato seleccionado incluirán:
+- Mantenimiento de desarrollos y herramientas internas relacionadas con los servicios que ofrece dobleO
+- Desarrollo de sitios y aplicaciones web para terceros
+Es una posición que permitirá al candidato desarrollar sus habilidades en el campo de la programación a la vez que adquiere conocimientos avanzados de marketing online mientras disfruta de una ambiente de trabajo distendido, horario flexible y muchas posibilidades de crecimiento.
+REQUISITOS
+Estudios mínimos: FP/Grado Medio  o Licenciado
+Experiencia mínima: No Requerida
+Requisitos mínimos: 
+- Maquetación web: HTML, HTML5, CSS2 y 3, Javascript (JQuery, jQuery ui).
+- Desarrollo de aplicaciones con PHP y MySQL
+- Amplios conocimientos en desarrollo de Drupal y WordPress
+- Conocimientos de otros CMS tipo Magento, Joomla, prestashop, etc
+- Conocimientos de framework tipo Codeigniter, Symfony2, Yii, etc.
+Requisitos deseados:	
+-  Alta capacidad analítica y de organización.
+-  Proactividad, flexiblidad y dinámismo.
+-  Buen humor
+CONTRATO
+Tipo de contrato: Indefinido
+Jornada laboral: Completa
+Horario:  Lunes a Jueves de 9:00 a 19:00 Viernes de 9:30 a 14:00
+Localización: Oficinas en Preciados, 44 (Madrid)
+SALARIO
+Salario:	21.000 € – 24.000 € Bruto/año (dependiendo de la experiencia)

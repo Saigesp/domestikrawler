@@ -1,0 +1,11 @@
+
+eMexs es una empresa que posee más de diez años de experiencia en el sector de Internet, nuevas tecnologías y marketing online. Además dispone de experiencia en el sector comercial y en marketing directo.
+Actualmente buscamos a un desarrollador de aplicaciones móviles para integrarse en un equipo que lleva a cabo proyectos tecnológicos punteros, tanto desde un punto de vista tecnológico como analítico, y que cuente con los siguientes conocimientos:
+- Javascript, jQuery, HTML5 y CSS3
+- Cordova / Phonegapp
+- Swift, Objective-C y Java
+Se valorará experiencia en AngularJS y Angular UI Mobile, así como otros frameworks para desarrollo de aplicaciones mobile híbridas.
+¿Qué ofrecemos? 
+La posibilidad de trabajar en una agencia con un ambiente de trabajo joven y dinámico. Un proyecto empresarial en continuo desarrollo en donde el candidato tendrá la posibilidad de crecimiento dentro de su área.
+Disponibilidad: Inmediata
+Jornada: Completa

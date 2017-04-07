@@ -1,0 +1,31 @@
+
+En Wallo.com estamos buscando a dos full stack developers para unirse a nuestro equipo y desarrollar el futuro de las finanzas personales. Queremos a perfiles con capacidad de crecimiento profesional, interés por afrontar nuevos retos y pasión por las nuevas tecnologías. 
+RESPONSABILIDADES
+•	Desarrollar nuevas aplicaciones cubriendo todo el ciclo de vida del proyecto desde análisis y desarrollo hasta test y documentación.
+•	Mantener las aplicaciones existentes a partir de bugs y feedback recibidos.
+•	Desarrollar y mantener los procesos y servicios de la plataforma
+•	Colaborar y comunicar apropiadamente con el resto de miembros del equipo.
+REQUISITOS
+•	Ruby on Rails o NodeJS
+•	Javascript / HTML / CSS
+•	Bases de datos MySQL
+VALORAMOS POSITIVAMENTE 
+•	Experiencia en noSQL (MongoDB, Redis)
+•	Conocimientos en arquitecturas distribuidas y paradigma Map/Reduce 
+•	Experiencia con Amazon Web Services (EC2, S3, DynamoDB, ..)
+•	Conocimientos de diseño de UI/UX
+•	Pre-preprocesadores CSS LESS / SASS
+•	Experiencia con frameworks tipo AngularJS, React, Ember, Backbone...
+•	Manejo de herramientas de test y automatización PhantomJS, Selenium, Cucumber, Capybara.
+•	Herramientas de integración continua como Jenkins, CodeShip, Travis, Gulp, Capistrano, Grunt
+PERFIL
+•	Grado de Informática / Ingeniería o equivalente
+•	Mínimo 2 años de experiencia profesional
+•	Actitud resolutiva y capacidad de trabajo en equipo
+•	Inglés fluido
+OFRECEMOS
+•	Contratación indefinida
+•	Autonomía y flexibilidad para desarrollarte y aportar al máximo. 
+•	Paquete de Retribución Flexible (Formación, Guardería, Salud)
+•	Nuevos retos tecnológicos
+

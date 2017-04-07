@@ -1,0 +1,14 @@
+
+Continex selecciona un Analista Desarrollador para incorporarse en un grupo de desarrollo en el área de la Administración Pública. 
+Seleccionamos un Analista Desarrollador con experiencia profesional en Java, Bases de Datos MySQL, Maquetación Web / HTML / CSS3 / JavaScript y Análisis UML.. La persona seleccionada se incorporará en importante y estable proyecto de la administración pública.
+Las funciones del puesto serán:
+- Revisar la especificación de requisitos.
+- Realizar el Diseño detallado de la aplicación.
+- Llevar a cabo la programación de la aplicación.
+- Prestar apoyo al responsable del proyecto en las reuniones de seguimiento.
+- Dar soporte en la fase de pruebas del desarrollo.
+Ofrecemos:
+- Incorporación inmediata y de carácter estable a la plantilla de Continex
+- Proyecto estable y de larga duración
+- Participación en proyectos de tecnologías destacables en el sector
+- Salario acorde con la experiencia aportada

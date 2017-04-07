@@ -1,0 +1,26 @@
+
+We are looking for a front/back-end programer to join our studio in Barcelona to develop and create websites, majority with a mobile-first approach. 
+The position is open now and all professionals are welcome to apply!
+Profile:   
+- You love design   
+- UI/UX experience
+- 3 years minimum experience  
+- Eager to learn new Web/Mobile technologies 
+- Good design sense   
+- Innovative & attractive portfolio   
+- English and Spanish speaking   
+- Reside in Barcelona
+Minimum skills: 
+ - HTML5 
+- PHP 
+- CSS3 and CSS pre compilers (SASS, LESS or Stylus) 
+- Javascript and some framework like jQuery, AngularJS, etc. 
+- MySQL or any other SQL engine - Experience with HTML frameworks (Foundation, Bootstrap, etc.) 
+- WordPress (Themes and Plugins developing) 
+- MVC pattern
+Additional skills: 
+- Experience working with an PHP Framework like; laravel, CodeIgniter, Symfony 2 (laravel 4 is a plus) 
+- Experience working with WordPress 
+- Experience working with Git 
+- Knowledge of Apache and Linux Server
+Metropolis is a small design studio based in the heart of Barcelona, focusing primarily on digital design and crafting awesome UI/UX. Our client base includes major international players, along with local businesses. No client is too small or too big!

@@ -1,0 +1,10 @@
+
+Para importante empresa del sector Ocio, Viajes y Turismo seleccionamos Programadores .net WEB con experiencia en tecnologías Microsoft para incorporarse de manera indefinida a la empresa. 
+Sus funciones principales serán:
+- Desarrollo e implementación de páginas web y procesos para nuestros proyectos WEB (Front y Back).
+- Integración con plataformas y sistemas de información terceros (Webservices, fichero, ...).
+Los requisitos mínimos son:
+- Experiencia mínima entre 2 - 4 años asp/vb.net 3.5/4.0
+- webservices (asmx), Ajax y javascript
+- HTML, CSS y jquery
+- SQL SERVER

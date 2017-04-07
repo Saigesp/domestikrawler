@@ -1,0 +1,11 @@
+
+En Ununuzi estamos buscando un Desarrollador .NET para incorporarse a nuestro proyecto de desarrollo. Ununuzi es una startup  joven y dinámica, con un proyecto innovador y con gran potencial de crecimiento. Fundada por profesionales y emprendores con mas de 20 años de experiencia en diferentes sectores, que lideran un proyecto único y novedosos en el mercado español
+Buscamos a alguien con iniciativa propia, inquietud y compromiso ante un proyecto interesante y retador. Con visión de medio / largo plazo para el desarrollo de su carrera dentro del proyecto de compañía.
+REQUISITOS:
+-Experiencia de 1-2 años en programación entorno .NET
+-Formación: Ciclo Medio/Superior o Titulación Universitaria.
+-Conocimientos de .NET
+-Iniciativa y orientación a resultados
+Se valorará:
+-Deseable conocimiento C++
+-Deseable conocimiento Azure 

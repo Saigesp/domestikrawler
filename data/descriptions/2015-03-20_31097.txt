@@ -1,0 +1,27 @@
+
+Descripción Perfil:
+Somos una importante agencia de publicidad interactiva  y buscamos un  Android Senior Developer para incorporarse a nuestro equipo de entusiastas y apasionados por el mundo digital.
+¿Y cuál sería tu misión?
+- Diseñar, desarrollar y garantizar la calidad de las apps.
+- Analizar las diversas alternativas de implementación para llegar a la mejor solución técnica posible.
+- Participar en el proceso de concepción de nuevas apps aportando tu conocimiento técnico.
+- Liderar técnicamente el desarrollo de arquitecturas Android, estableciendo las bases para la mejora continua en el desarrollo de proyectos Android.
+¿Y para que aportes, que debes traer en tu mochila?
+- Formación en Ingeniería Informática o experiencia equivalente.
+- Mínimo 2 años de experiencia contrastada en entornos Android.
+- Experiencia en integración de apps con APIs REST.
+- Conocimientos de SDKs de analítica (Google Analytics), gestión de errores/logs (Crashlystics), push notifications (Parse, Urban Airship), librerías Square y social media (Twitter, Facebook, etc.), 
+- Se valorara positivamente experiencia en el desarrollo de apps iOS y/o frameworks cross.
+- Conocimientos de herramientas de gestión git, beanstalk y trello.
+Perfil:
+- Capacidad analítica.
+- Habilidad para trabajar de manera independiente.
+- Proactividad.
+- Responsabilidad.
+- Capacidad de liderazgo e inspiración para el resto del equipo mobile.
+Y después de pedir la carta de los reyes ¿qué ofrecemos?
+- Entorno de trabajo joven y multidisciplinar.
+- Oficina bien comunicada y centralizada.
+- Oportunidad de trabajar en proyectos para clientes de sectores muy diversos.
+- Aprender y ¡aprender mucho!
+

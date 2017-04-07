@@ -1,0 +1,12 @@
+
+¿Qué buscamos?
+Una persona resolutiva con ganas de incorporarse a Hall Street. Un ingeniero de software  con experiencia en Desarrollo web, apasionado por internet, con ganas de evolucionar cómo profesional, que sepa trabajar en equipo y sienta gusto por lo que hace.
+¿Qué ofrecemos?
+Un proyecto global y apasionante, formado por un equipo de profesionales altamente comprometidos y que demuestran cada día su pasión por lo que hacen
+¿Qué esperamos de ti?
+- Entre 3 y 5 años de experiencia en programación de aplicaciones web
+- Excelente conocimiento de PHP y experiencia usando Symfony como framework de desarrollo
+- Conocimiento deJavascript y del uso de frameworks Javascript (Jquery, AngularJs, Backbone)
+- Conocimientos de BBDD relacionales SQL
+- Preferiblemente haber trabajado con procesos de desarrollo ágiles
+- Capacidad para aprender y de desenvolverse en un entorno en constante evolución

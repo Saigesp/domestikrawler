@@ -1,0 +1,16 @@
+
+Nombre oferta:
+Analista programador J2EE/php
+Requisitos:
+•	JavaSE / JavaEE.
+•	Hibernate, JPA.
+•	Spring {Framework, Data, Security, Batch, web flow, web services, social}.
+•	Maven, SVN.
+•	Servidor de aplicaciones weblogic, base de datos Oracle y MySQL.
+•	PHP5.
+•	HTML, CSS, JS.
+Condiciones:
+•	Zona de trabajo: Las rozas
+•	Contrato: indefinido
+•	Duración del proyecto: 1 año y medio aproximadamente.
+•	Muy valorable disponibilidad inmediata de incorporación.

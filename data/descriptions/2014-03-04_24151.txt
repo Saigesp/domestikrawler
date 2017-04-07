@@ -1,0 +1,24 @@
+
+Buscamos un analista-programador con experiencia en PHP 5 orientado a objetos, HTML5, CSS3, JavaScript, y MySQL (arquitectura LAMP).
+Se ofrece formar parte de una empresa en fase de expansión.
+Posibilidades reales de crecimiento profesional según inquietudes y habilidades de los candidatos.
+El candidato se encargaría de:
+- la creación de aplicaciones online de gestión y portales con nuestra herramienta de gestión de contenidos 
+- desarrollo de nuevas funcionalidades para nuestra herramienta de gestión de contenidos en PHP 5
+- soporte técnico a usuarios
+- mantenimiento de portales de clientes 
+- desarrollos puntuales de aplicaciones a medida en otras tecnologías (se valorarán conocimientos de otras tecnologías: .NET, Visual Basic, Fox pro, Access, o en SO como Linux o Windows Server...). También se valorará experiencia en Análisis y Documentación, y diseño de bases de datos, así como en animación con HTML5.
+REQUISITOS MINIMOS 
+Alguna titulación oficial en Informática.
+Experiencia demostrable en PHP 5 orientado a objetos y dominio de HTML+JS (mínimo 2 años).
+REQUISITOS DESEADOS 
+MySQL
+Proactividad
+Trabajo en equipo
+Ganas de unirse a una pequeña empresa con perspectivas reales de crecimiento a corto plazo
+El sueldo será acorde con la experiencia aportada. Para ello, se realizará una entrevista personal, y se llevará a cabo un test técnico de conocimientos.
+Incorporación inmediata.
+Beneficios Laborales:
+Porcentaje sobre objetivos
+Flexibilidad horaria y organizativa
+Plan de conciliación laboral y familiar

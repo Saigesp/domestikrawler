@@ -1,0 +1,15 @@
+
+Hola! Somos una startup, establecida en Las Palmas a punto de ver la luz que busca un desarrollador front-end que nos ayude a que nuestro proyecto pueda ver la luz!
+La plataforma consiste en un generador de cv's visuales y atractivos para los usuarios y empresas de RRHH. 
+Buscamos incorporar a un desarrollador que sea capaz de terminar el proyecto y después de esto, incorporarlo definitivamente al equipo.
+Para ello necesitamos sobre todo experiencia, no nos importa que no hayas estudiado si eres capaz de llevar el proyecto a cabo. También que exista comunicación fluida y constante entre el desarrollador y el resto de miembros del equipo, sobre todo con nuestro diseñador, con el que trabajarás mano a mano.
+Éstas son algunos de lenguajes que necesitamos que controles:
+- Javascript
+- HTML, CSS
+- PHP
+- Twitter Bootstrap
+- Cocimiento entorno Ruby
+Como puedes leer en el título, no necesitamos presencia física en la oficina, puedes trabajar con nosotros donde quiera que estés.
+Sueldo
+Lo más sensato creemos es tratar esto durante la entrevista, siempre será acorde a tu valía. Preferimos que seas tú quien tase el trabajo
+Te esperamos!

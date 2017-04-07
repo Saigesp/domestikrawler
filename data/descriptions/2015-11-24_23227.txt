@@ -1,0 +1,55 @@
+
+Busco Programador/a Web Senior PHP FullStack Freelance y Presencial, con sólida experiencia en PHP/MySQL; con pasión por la programación y especial atención a aspectos como rendimiento y calidad, para ampliar equipo de desarrollo, en oficina ubicada en los alrededores de Marbella (Málaga). 
+Si DRY, Solid y KISS tienen cabida en tu día a día, serás bienvenido/a.
+FUNCIONES A DESARROLLAR
+Desarrollará funciones de análisis, diseño y programación web en entornos LAMP/LEMP. Además se requiere experiencia en bases de datos NoSQL, especialmente con MongoDB.
+QUÉ SE BUSCA
+Una persona con una actitud acorde a:
+
+ Proactivo/a y autodidacta
+
+ Mente abierta, capaz de compartir sus opiniones y aceptar otras ideas
+
+ Capaz de trabajar en equipo
+
+
+REQUISITOS MÍNIMOS
+
+ Inglés, hablado y escrito.
+
+ Experiencia con PHP5, OOP y MVC.
+
+ Experiencia con frameworks PHP, especialmente con Zend Framework
+
+ Experiencia con MongoDB.
+
+ Experiencia con MySQL así como en optimización de consultas SQL.
+
+ Experiencia con SOAP, REST...
+
+
+REQUISITOS DESEADOS
+
+ Conocimientos de Unit Testing.
+
+ Conocimientos de Composer.
+
+ Conocimientos de Memcache, Varnish Cache.
+
+ Conocimientos de otros frameworks PHP: LaravelPHP, SlimPHP...
+
+ Conocimientos en HTML5, CSS3, JS/jQuery, etc.
+
+ Conocimientos en RWD
+
+
+QUÉ SE OFRECE
+    Trabajar en proyectos de alto rendimiento, con las últimas tecnologías y técnicas web: WPO, CDN, Motores de Búsqueda, RWD...
+    Salario: 2200 - 2400€ brutos / al mes*
+    Vacaciones: 20 días de vacaciones pagadas
+    Horario: De 9:00 a 18:00, de Lunes a Viernes.
+    Contrato: Autónomo Intracomunitario
+    Servicio de Gestor/Contable
+    Periodo de Prueba: 6 meses
+NOTA El contrato se hará como autónomo intracomunitario, pues el 100% de la facturación se realiza a clientes europeos. De este modo, la emisión de facturas se realizará sin IVA y, por tanto, del salario bruto se tendrá que descontar la cuota de la Seguridad Social para obtener el sueldo neto aproximado (ya que se pueden aportar gastos deducibles).
+    Por ejemplo: 2200€ brutos / mes - Cuota de Seguridad Social (aprox 280€) = 1920€ sueldo neto / mes, más los gastos deducibles que se puedan aportar.

@@ -1,0 +1,29 @@
+
+Seleccionamos Desarrollador Web con experiencia mínima de 3 años en el desarrollo de sites utilizando tecnologías LAMP , en particular PHP con orientación a objetos, autónomo y con experiencia en entornos de integración continua.
+Sus tareas principales se centrarán en el desarrollo y mantenimiento denuestros portales, el análisis y el diseño arquitectural de las nuevas funcionalidadesde los mismos. 
+Se valorarán adicionalmente experiencia y conocimientos en el uso de frameworks PHP (Symfony / Symfony2 )
+Sobre ti: 
+- Programar es tu vocación y tu obsesión; eres devoto del aprendizaje técnico con libros y blogs técnicos. 
+- Tienes formación en Informática, Telecos, Matemáticas o similares.
+- Eres una persona autónoma,analítica y resolutiva.
+- Estás acostumbrado a trabajar en equipo ya sonreir de vez en cuando.
+- Has programado sites de alto tráfico en plataformas LAMP.
+- Te obsesiona la calidad y la mantenibilidad del código que haces y conoces la importancia detener un site optimizado, escalable y rápido.
+- Soportas bien la presión de trabajar en un site de alto tráfico y en entornos cambiantes.
+- No programas webs,desarrollas aplicaciones de software en plataforma web.
+Te encargarás de:
+- Desarrollar nuevas secciones y mantener las existentes usando PHP5, OOP, AJAX, Smarty yMySQL entre otros.
+- Optimizar el código existente para que sigamos creciendo sin perder velocidad. Análisis y propuesta de refactoring de la plataforma.
+- Definir junto con el equipo de producto nuevos requerimientos para los proyectos quedesarrollarás.
+OFRECEMOS*
+Seguro médico
+Ticket Restaurant
+Más de 23 dias de vacaciones + 1 dia de vacaciones por tu cumpleaños.
+Ambiente de trabajo agradable. Código de vestimenta informal.
+keywords: php5, symfony2, mysql, refactoring, developer, subversions,
+Requisitos mínimos:	informática, Telecos, Matemáticas o similares.
+3- 5 años de experiencia utilizando PHP y otras tecnologías orientadas a objetos (Java, C/C++/Objective C, C#) 
+Experiencia con frameworks PHP ( Symfony, Symfony2).
+Experiencia en entornos de integración continua, (GIT, Subversions), unit testing. 
+Buen nivel de SQL (MySQL particularmente).
+Actitud proactiva, apasionado de la tecnología, trabajo en equipo, motivación.

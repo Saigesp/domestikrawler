@@ -1,0 +1,30 @@
+
+Ingeniero Electrónico o de Telecomunicaciones (Microcontroladores).
+Aptitudes personales:
+- Inglés y castellano.
+Experiencia y conocimientos técnicos en los siguientes campos:
+Programación uC con lenguaje de bajo nivel:
+- C
+Programación orientada a objetos:
+- C ++
+- Detección y solución de problemas, debug de aplicaciones.
+- Tests unitarios.
+- Conocimientos de Linux a nivel de usuario.
+- Protocolos de comunicaciones.
+- Buses industriales, sobre todo RS-232. (I2C, SPI, USB, MDB).
+- Control de versiones SVN.
+- Documentación del código.
+- Conocimientos en instrumental básico de laboratorio: osciloscopio, analizador de protocolos, multímetro.
+- Html, css, javascript.
+Deseado:
+- Assembler
+- Programación orientada a objetos:
+Delphi
+C #
+- Otros protocolos de comunicaciones: Ethernet, WiFi, Bluetooth.
+- Debug con J-TAG.
+- Sistemas de pago EMV.
+- Tarjetas de proximidad / NFC (Mifare Classic, defi, ...).
+- uC Linux y compilación cruzada.
+- jquery.
+- Control de versiones: SourceSafe y GIT.

@@ -1,0 +1,29 @@
+
+Descripción:
+Buscamos a una persona con un perfil de Frontend Developer para cubrir una vacante en nuestra división de diseño y programación web. Requerimos una persona que sepa tocar muy bien WordPress y maquetación.
+Requisitos mínimos:
+- Experiencia en HTML5 y CSS3 (Less/Sass).
+- Experiencia demostrable con JavaScript y JQuery.
+- Conocimientos sólidos de PHP en WordPress (Sage/Roots).
+- Experiencia con algún VCS, especialmente GIT.
+- Experiencia con Magento o PrestaShop.
+Se valorará:
+- Experiencia con diferentes frameworks PHP.
+- Experiencia con diferentes frameworks JavaScript.
+- Experiencia con servidores Linux.
+- Conocimientos de RequireJS y AngularJS.
+Aptitudes:
+- Dinamismo, capacidad de adaptación y aprendizaje
+- Iniciativa
+- Capacidad de trabajo en equipo
+Ofrecemos:
+- Proyectos de diversa índole
+- iMac de 27"
+- Buen ambiente de trabajo
+- Vestimenta informal
+- Maquina de café
+Condiciones:
+- Tipo de contrato: Indefinido.
+- Horario: de 8:00 a 14:00 h. y de 15:30 a 18:00 h de lunes a jueves. Viernes de 8:00 a 14:00h - Tarde Libre.
+- 1100€ netos / mensuales más objetivos.
+

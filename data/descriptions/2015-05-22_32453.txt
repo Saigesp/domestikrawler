@@ -1,0 +1,16 @@
+
+* Sus funciones serán:
+Desarrollo de funcionalidades de Wordpress, mejorando o agregando nuevas características
+*Requisitos Técnicos:
+-	Experiencia en desarrollos basados en PHP/MySQL
+-	Conocimientos de CMS Worpress y Joomla
+-	CSS
+*Se valorarán conocimientos de: 
+- Javascript, HTML5 y CSS3
+- Desarrollo o ampliación de themes y/o plugins
+- Capacidad de aplicar técnicas SEO
+*Tipo de contrato:
+-	Freelance
+-	Teletrabajo
+-	Precio/hora a convenir
+

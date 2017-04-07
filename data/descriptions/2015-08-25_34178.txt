@@ -1,0 +1,16 @@
+
+Empresa de consolidada trayectoria a nivel nacional, precisa incorporar en sus oficinas ubicadas en Barcelona centro desarrolladores en ASP.NET.
+La persona seleccionada trabajará en el desarrollo de nuevos productos así como en la evolución de soluciones de largo recorrido y penetración en mercados internacionales. Colaborará en un equipo multidisciplinar formado por equipos de FrontEnd, BackEnd, Diseño y Comunicación. Organizados en un marco de metodologías ágiles, participará en la gestión del ciclo de vida de las aplicaciones mediante SCRUM con Visual Studio Online.
+En la incorporación pasará a formar parte de uno de los equipos de desarrollo, gestionados por líderes de equipo, y seguirá un programa de bienvenida, formación, gestión del potencial, evaluación del desempeño y plan de carrera.
+Con muchos proyectos en curso y otros por formar nuevos equipos, necesitamos desarrolladores con conocimientos en alguno de las tecnologías siguientes para incorporarse en alguno de los equipos.
+- ASP.NET
+- Winforms.NET
+- Webservices
+- Interfaces / Integraciones
+- SSOs(Single Sign On)
+- SQL Server / Transact SQL
+- HTML /CSS / Web Responsive
+- SCRUM
+Se ofrece: 
+Incorporación estable, plan de carrera, formación, confianza, gestión de equipo, y participación en un grupo de profesionales motivados y comprometidos. 
+Del mismo modo, se ofrece flexibilidad horaria y organizativa (real), beneficios sociales, plan de conciliación laboral y familiar, plan de compensación flexible.

@@ -1,0 +1,37 @@
+
+Job description
+ChangeYourFlight is a promising startup seeking a talented and enthusiastic Web Software Engineer, to join our team in sunny Barcelona. As a Software Engineer, working with us, your mission will be to ensure our Web platform is always available, fast, scalable, and fulfills all upcoming needs while engineered to withstand demand. 
+Main functions include: 
+•	Evolve the development and testing of the platform based on the demand
+•	Review and influence ongoing design, architecture, standards and methods
+•	Execute and participate in the prioritization of upcoming IT projects and improvements
+•	Support the process of standardizing the integration of new airlines
+•	Support the research of new technologies and services 
+Skills and Experience
+Requirements:
+•	BS or MS in Computer Science (IT Engineer), or equivalent field
+•	3+ years of professional experience building Web applications 
+•	Strong object-oriented programming experience (e.g. Java)
+•	Experience working with Application Servers (e.g. Tomcat, JBOSS)
+•	Experience defining and building SOA and Web Services (e.g. J2EE)
+•	Experience with relational databases and SQL (e.g. MySQL, Oracle)
+•	Good communication and collaboration skills; Fluent in English
+Highly valued:
+•	Passion for the Web and making things happen!
+•	Analytical and problem-solving skills
+•	Comfortable with Linux / Unix environments, Apache, and Tomcat
+•	Front-end development know-how (JavaScript, PHP or HTML/CSS)
+•	Past experience with algorithm and data-structures
+•	Confident working in an open, agile, and evolving company
+•	Take work seriously while having fun!
+Offer 
+•	Participate in an ambitious and promising international project 
+•	Work closely in a multidisciplinary team of entrepreneurs with relevant working experience
+•	Be part of a highly technological and business focus start-up company
+•	Opportunity to learn, share and grow within a hard-working team! 
+Conditions 
+•	Location: Barcelona (mandatory) 
+•	Incorporation: February-March 2012
+•	Position type: Permanent 
+•	Employment type: Full-time 
+•	Competitive Salary and Benefits, depending on experience

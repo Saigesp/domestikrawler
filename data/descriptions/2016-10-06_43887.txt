@@ -1,0 +1,14 @@
+
+Buscamos una persona con capacidad de diseño actual, creativa, dinámica y responsable que sea capaz de crear las bases de diseño y tendencia en nuestra empresa, así como perfil de desarrollador web.
+Imprescindible:
+- Experiencia comprobable en diseño web UX/UI (al menos 3 años) 
+- HTML5/CSS3 y Responsive para maquetado de alto desempeño. Animaciones, efectos en sliders, imágenes, transiciones, etc.
+- Perfil de programador con amplia experiencia en:
+ JavaScript, PHP, JSon, Ajax, XML, JQuery, Bootstrap, Google Maps
+- Experiencia con framework MVC javascript (Backbone JS, Magento, Angular...) 
+- Experiencia en el desarrollo y programación de formularios de contacto, de google maps, wizards(pasos) en formularios (tabs), etc.
+- Experiencia en el implementación, desarrollo de módulos para tiendas virtuales como PrestaShop, poder modificarlo e implementarlo a plantillas personalizadas, además de poder conectarlo a pasarelas de pago, google maps, etc.
+- Conocimientos de Photoshop para manipular los archivos .psd
+- Manejo de Proto.io y/o de Adobe Experience Design para creación de demos.
+Se valorará si el candidato tiene más conocimientos que puedan beneficiar los desarrollos. 
+

@@ -1,0 +1,20 @@
+
+En Iwantic  estamos buscando un Maquetador/a Web para el desarrollo digital de una gran compañía, de rápido crecimiento y formada por un equipo joven, talentoso y dinámico, en Barcelona.
+Si eres una persona comprometida, con gran capacidad resolutiva y te gustan los retos, ¡este trabajo es para ti!
+Funciones a desempeñar:
+-Realizar Mockups siguiendo las guías de estilo del cliente y de su Look&Feel.
+-Revisión del cross-browser.
+-Aplicar Responsive a las UI.
+-Maquetación de interficies a partir de diseños ya establecidos.
+Requisitos deseados:
+-Experiencia de al menos 1/2 años como maquetador/a web.
+-Formación mínima: Ciclo Formativo en Multimedia o Diseño Web.
+-Dominio de HTML5, CSS, CSS3, Bootstrap, Photoshop, Mac OS.
+-Conocimiento Cross-Browser y Resposive Design & Media Queries.
+-Inglés: Nivel medio.
+-Catalán y español: Nativo.
+Valorable:
+-Conocimientos básicos de terminal.
+-Conocimientos de Javascript.
+Se ofrece contratación indefinida, jornada laboral completa, formación inicial, promoción interna, horario flexible y buena conciliación vida familiar-laboral.
+

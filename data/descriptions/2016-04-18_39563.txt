@@ -1,0 +1,11 @@
+
+Buscamos un programador BACK END con amplia experiencia en tecnología de Microsoft, para desarrollar un nuevo CRM empresarial a medida. El candidato deberá trabajar dentro de un grupo de 5 personas en la confección del aplicativo, aportando su conocimiento y realizando los trabajos de programación que sean necesarios. Este aplicativo forma parte de un importante programa de mejora tecnológica, con la creación de nuevas plataformas y su mantenimiento a largo plazo.
+Los requisitos son:
+- Experiencia mínima de 3 años en un puesto similar
+- Experiencia en puesta en marcha o configuración de TFS (Team Foundation Server)
+- Experiencia demostrable en tecnologías relacionadas (Microsoft)
+- Linq to Entities/Entity Framework
+- Amplios conocimientos en C# /.NET / MySQL / SQL Server
+- Se valorará conocimientos en sistemas y servidores
+- Estudios mínimos de FPI o Grado Medio 
+

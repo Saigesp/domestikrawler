@@ -1,0 +1,4 @@
+
+Inneva Pharma es una empresa especializada en la imagen médica en 3D. 
+Actualmente nos encontramos inmersos en un proyecto para el cual estamos buscando un programador freelance para el desarrollo de un visor 3D de anatomía humana en Unity 3D. 
+El proyecto tendrá 3 meses de desarrollo.

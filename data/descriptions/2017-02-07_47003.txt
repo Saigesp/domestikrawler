@@ -1,0 +1,20 @@
+
+Loyal Guru is building a leading loyalty platform for the food retail industry, and as things are going great for us we need more developers!
+Are you a passionate developer? Are you obsessed with quality? Are you a pragmatic thinker and a keen problem solver? Do new technologies excite you? Are you ready to take on big challenges? Do you take pride in the code you write and the work you produce? If so, we need to talk.
+We’re looking for talented, passionate, and pragmatic fullstack developers. You’ll join our growing team of developers in Barcelona, and will be comfortable working in an agile environment. Your personal and professional growth is important to us, and we believe we provide the right support and company culture to help you thrive.
+# Requirements:
+## Core skills:
+- Back end - you have significant experience with a few server-side languages, such as Ruby, GO, Ruby, Java, node, and know what their strengths and weaknesses are. And also you have in-depth knowlegde with some related frameworks ( Ruby on Rails, etc.. )
+- Front end - you should be comfortable writing plain javascript as well as having experience working with modern frameworks like Angular Js
+- Database - you have a solid understanding of SQL and have good working knowledge of at least one of the mainline databases (Postgresql, Sql ).
+- General - you are comfortable using git and the command line, and have seen the benefits of working in a constant deployment environment.
+## Bonus skills
+- Back end - you have in-depth experience designing solutions involving queues ( Sidekiq, Resque, etc..), you had the chance to develop and design an API from zero
+- Front end - you have worked with modern hybrid app frameworks like Ionic Framework, Appcelerator Titanium, etc..
+- Database - You've got experience using Google Big Query.You know the pros and cons of SQL v NoSQL databases. You know how and when to use Redis
+- General - You've got some experience in ETL solutions, you have been involved in moving from a monolithic application to microservices, and some of your deployments have been on Heroku/Amazon or similar systems.
+# Why work with us
+- Become the foundation of a growing company: We are a small team now, but things are going great for us and we need solid foundations, so the incoming candidates can expect to become a key-player in our company
+- Aquire experience in a diverse tech stack: You'll work developing a Restfull API, hybrid applications, solutions involving Big Data, integrations with some top CRM/ERP's... you'll gain a transversal knowledge across different programming paradigms and different technologies
+- Friendly Office / Friendly team: We spent a lot of our lifetime working, we want this time to make it count, we want you to be happy at your workplace, we want to be surrounded by friendly people. So we'll make what its in our hands to accomplish this atmosphere.
+- Free Craft-Beer: We are building or new office on top of a Craft Beer Factory, so expect free top quality craft beer when you like.

@@ -1,0 +1,34 @@
+
+Tecsisa precisa incorporar un Desarrollador con al menos 3 años de experiencia con Javascript, HTML5 y CSS3.
+El candidato/a seleccionado se incorporará al equipo de desarrollo de un producto cloud orientado el sector energético, el cual estará basado en tecnologías nativas para el cloud como Scala, Akka o Spark, incorporando interfaces de usuario innovadoras con AngularJS o D3.js.
+Su función será la de Desarrollador FrontEnd, haciéndose cargo de labores de diseño y desarrollo de interfaces de usuario de la solución dentro del contexto de un equipo SCRUM.
+Ofrecemos:
+•	La oportunidad de incorporarse a un importante e innovador proyecto cloud dentro de una empresa en auge dentro del sector IT
+•	Incorporación a un equipo innovador, joven y ágil.	
+•	Flexibilidad horaria
+•	Contratación indefinida y beneficios sociales
+Requisitos:
+Estudios Mínimos: Ciclo Formativo Grado Superior – Informática
+Requisitos mínimos:
+- Al menos tres años de experiencia en desarrollo FrontEnd
+- Dominio de las tecnologías Javascript, HTML5 y CSS3
+- Orientación al testing
+- Usabilidad y experiencia de usuario
+- Capacidad de trabajo en equipo
+- Pasión por la tecnología
+- Orientación a resultados
+Deseables
+- Experiencia con AngularJS
+- Experiencia con Backbone, Ember, Meteor, React, etc
+- Experiencia con el tratamiento de imágenes SVG
+- Experiencia con jQuery
+- Programación funcional
+- Experiencia con Node.js
+- Experiencia con Gruntjs, Bower y Yeoman
+- Experiencia con D3.js
+Contrato:
+Jornada Laboral: Completa
+Tipo de contratación: Indefinida
+Beneficios sociales
+Salario en función de valía del candidato
+

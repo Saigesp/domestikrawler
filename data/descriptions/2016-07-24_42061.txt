@@ -1,0 +1,19 @@
+
+¿Qué buscamos?
+Buscamos un desarrollador freelance con conocimientos avanzados de PHP y bases de datos MySQL/SQL Server, así como Javascript y HTML, y experiencia demostrable en desarrollo adhoc de CMS y eCommerce.
+El puesto no es presencial, se puede trabajar desde cualquier punto de España, pero sí que necesitamos que haya comunicación fluida e inmediata, por skype, móvil y email. 
+¿Quiénes somos?
+Somos una agencia digital ubicada en Madrid con grandes clientes multinacionales del sector farmacéutico, cultural y lujo. 
+¿Qué ofrecemos?
+- La posibilidad de trabajar en proyectos interesantes y potentes para grandes marcas
+- La posibilidad de trabajar de forma autónoma y en remoto
+- Buen ambiente de trabajo colaborativo, flexible.
+- Buena remuneración por proyecto
+Se requiere 
+- Experiencia de 3 años o más en PHP y BBDD.
+- Conocimientos básicos en administración de sistemas Linux.
+- Uso de APIs REST a través de HTTP Y JSON.  
+- Persona responsable y organizada
+- Buen comunicador
+- Inglés técnico 
+

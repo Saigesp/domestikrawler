@@ -1,0 +1,16 @@
+
+Estoy buscando un desarrollador front end, con inglés alto. Es para un proyecto de  5 años. 
+Debe conocer:
+- Jquery
+- Gitgrunt
+- Angular
+- Bower
+- Test unitario. 
+- Validaciones javascript
+- Control de dependencias
+- Etc.
+Trabajar con otros compañeros en Inglaterra e india.
+El centro de trabajo es por el retiro.
+El inglés debe ser alto ya que todos los días se mantendrá una reunión con los diferentes compañeros ubicados en los diferentes países.
+Una oportunidad para aportar tus conocimientos y al mismo tiempo aprender del resto de compañeros.
+

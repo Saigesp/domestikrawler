@@ -1,0 +1,5 @@
+
+We are seeking an experienced part time freelance UI developer, with a proven track record in W3C compliant HTML and CSS websites.   He must be able to demonstrate knowledge of improving web page load and rendering speed, DOM structure optimization, etc.  In addition, he must be capable of creating an efficient and reusable site wide HTML/CSS structure.
+The candidate will be responsible for rewriting and improving current page structure, using HTML and CSS. He will be also the bridge between User Experience (UX) and the development teams; working from Photoshop mock-ups to deliver production ready HTML/CSS.  Responsive /Fluid &amp; SASS previous experience is a must. In order to be considered to this position the candidate should provide a link to previous projects.  A high level of attention to detail is a must. 
+Note: The project will be carried out in our offices in Barcelona
+

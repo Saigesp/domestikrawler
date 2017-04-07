@@ -1,0 +1,20 @@
+
+OwlU is an e-educational start up with an artificial intelligence based learning management system. We are launching our learning management system later this year and we are looking for a Lead Ruby Developer. This position is based out of Madrid.
+Required
+Your job is to make sure that OwlU platform is cutting edge, consistently exceeding expectations, and is intuitive to students, parents, teachers, and school administrators. You will need to be the lead on the platform architecture and leading the developers. As such, you are passionate about building top of the line products and working with/leading other developers and coding yourself. 
+Our developers are based out of Granada and our testing ground is a Colegio in Sevilla so you will need to be able to occasionally travel, prioritize goals, and set deadlines.
+We are ideally looking for someone with e-learning experience and that has worked with start-ups and likes the fast pace environment. Passion is a priority. 
+Responsibilities:
+•	Be the lead on technical development architecting a solid platform prepared for a growing customer base
+•	Lead Developer in RoR 
+•	You will help build and enhance our pilot platform; also ensuring our January launch is on time. 
+•	Manage the product schedule and identify what needs to go into the product.
+•	Work with business leaders to understand the company’s long-term business goals.
+•	Customer discovery (interviews, surveys, customer monitoring) to find product-market fit
+•	You are extremely ambitious, have a can-do attitude and live our mission
+Required skills:
+•	+4 years in development of technical products
+•	+3 years in agile methodologies, specifically SCRUM
+•	Mastery RoR and a strong understanding of underlying systems on which web-applications are developed
+•	Fluency in English is required. Please apply in English
+

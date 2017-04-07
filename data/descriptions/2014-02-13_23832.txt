@@ -1,0 +1,16 @@
+
+Onebox es una empresa que desarrolla tecnología para la comercialización de
+espectáculos y actividades de ocio en los recintos más importantes del país.
+Buscamos un desarrollador con experiencia en tecnologías FLEX para para participar en la evolución constante de nuestra plataforma.
+Principales funciones:
+- Participar en el desarrollo de RIA’s en Flex/AIR.
+- Integración con los módulos Backend.
+Perfil:
+- Ingeniería técnica y/o superior en Informática.
+- Experiencia deseable.
+Conocimientos requeridos:
+- Flex, Air, actionscript.
+Frameworks como Parsley, Craingorm, etc.. 
+Maven.
+Conocimientos deseados:
+J2EE y mySQL

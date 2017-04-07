@@ -1,0 +1,40 @@
+
+Life Length, the world’s leader in telomere measurement and testing, is seeking to
+recruit a Software developer for its facilities in the Cantoblanco Campus in Madrid.
+The successful candidate will join the only company in the world able to offer a highly
+scalable technology to measure the percentage of short telomeres in individual cells
+and which has vast applications for drug development and clinical trials in the pharma
+and biotech industries as well as for physicians working in personalized and
+preventative medicine.
+What we offer:
+ Competitive salary commensurate with experience
+ Potential equity participation in the company
+ Chance to participate in the development of one of Spain’s most high profile life
+sciences companies
+ Great team environment with world-class scientists and management team
+Job Summary: The software developer is almost entirely focused on computer
+software develop and the successful candidate is expected to work independently and
+as part of a team of engineering staff.
+The role includes conducting and supporting software design and implementation, as
+well as managing data, writing reports and manuals, web and desktop software
+development and working alongside other engineering staff.
+Additional duties include but are not limited to:
+ Relational data base management.
+ Desktop software development.
+ Software error management.
+ Documentation management.
+ Backup maintenance.
+ Hardware maintenance.
+ Local network maintenance.
+ Presenting results to senior staff.
+ Provide help about software issues.
+ Attend all R&D meetings.
+Required Qualifications: 
+ Fluent written and spoken English. 
+ Bachelor's degree in computer programming or similar. 
+ Knowledge working with relational data bases.
+  Knowledge, and experience with OOP (Object oriented programming).
+  Knowledge with .NET. (is desirable) 
+ Experience operating, maintaining and troubleshooting software issues 
+ Self-starter, team player and problem solver. Willing to learn new technologies.
+

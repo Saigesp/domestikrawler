@@ -1,0 +1,5 @@
+
+Se busca Diseñador web senior freelance para proyecto de actualización de web con moodle. El proyecto consistiría en lo siguiente:
+•	 Homepage de la academia con wordpress o Joomla integrado con moodle, 
+•	 Tienda online para un campus de formación en moodle. Sería una tienda online con matriculación automática, la tienda cobra con tarjeta o transferencia los cursos y es la propia tienda la que matricula al alumno y le envía los datos de acceso. Además querría la instalación del  módulo para que se emitan los certificados los propios alumnos al finalizar el curso. La versión de moodle que disponemos es  2.0.3.
+•	También estaríamos interesado en posicionamiento en buscadores.

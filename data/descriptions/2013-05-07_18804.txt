@@ -1,0 +1,7 @@
+
+Desde fanscup.com, buscamos a un desarrollador frontend experto en JS. Otras aptitudes frontend como HTML, CSS y diseño ya están cubiertas.
+La oferta es a modo de colaboración durante 2 meses aproximadamente para el desarrollo de un nuevo proyecto de la empresa. Es imprescindible trabajar al menos dos días presenciales en nuestras oficinas de Sant Cugat.
+El site tendrá que soportar un gran volumen de tráfico concurrente y será una web adaptada a cualquier dispositivo, desde smartphone hasta desktop; con lo que la habilidad para estructurar y optimizar código es imprescindible.
+Se valorará la experiencia con frameworks y desarrollo de plugins.
+Si crees que cumples el perfil y estás interesado, podemos concertar una entrevista en nuestras oficinas.
+

@@ -1,0 +1,20 @@
+
+Nuestro cliente, empresa líder en servicios deportivos, busca incorporar para su sede central  en Alicante un Director IT con experiencia en áreas de Infraestructura y Desarrollo de la compañía con nivel alto de inglés.
+Experiencia en departamento de IT integrado en empresa, acostumbrado a la administración de ERP (preferiblemente Navision), una de sus funciones será la implantación del nuevo ERP.
+Acostumbrado a la integración de sistemas, experiencia en desarrollo de protocolos IT, administración de servicios de IT de los diferentes departamentos (CRM, gestión documental etc). Es imprescindible tener experiencia en las dos áreas.
+Sus funciones: 
+- Desarrollo, implantación, seguimiento general y técnico de las infraestructuras, telecomunicaciones y los sistemas de información internos.
+Conocimientos avanzados de los siguientes aspectos y tecnologías:
+- Administrador (windows, SQLserver, nociones de linux,IOS)
+- Administrador de redes (networking, configuración firewall)
+- Conocimientos de administración de servidores webs (hosting y dominios)
+- Conocimientos de centralitas IP: preferible Cisco.
+- Sistemas operativos: Microsoft windows server 2003, 2008, 2012 Windows 7, 8 y 10
+- Bases de datos: Sqlserver y Mysql
+- Desarrollo con Visual Basic 6, Visual Basic.net, valorable conocimientos de C#
+- Conocimientos HTML,webservices.
+- MS Reporting services, Crystal reports, valorable Qlikview.
+- Gestión de proveedores externos.
+- Búsqueda de soluciones nuevas que permitan mejorar control de costes, mejora de productividad y eficiencia.
+- Conocer el marco regulatorio de LOPD.
+

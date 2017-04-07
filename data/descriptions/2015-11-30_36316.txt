@@ -1,0 +1,16 @@
+
+As a Senior iOS and Android Engineer, your role will be to apply your expertise of application development based on a set of product requirements. Such requirements will include UI wireframes and product definition documents to create a fully functioning and robust application.
+Your primary focus will be on the development of the application, making all decisions in relation to implementation, providing expert knowledge, and team collaboration on coding standards and reviews. You will work directly on a day-to-day basis with a software development life cycle to ensure that the delivery of the product is timely and that the product itself is of high quality.
+In addition to iOS and Android development, you will have the opportunity to both work with and gain technical knowledge regarding a span of technologies including: java, web/application servers, JSON, web services, as well as other new and evolving technologies.
+This is a full-time position which offers benefits, stock options, and a high degree of autonomy. Your work will heavily influence, if not dictate, all stages of product development varying from conception to those versions which have already been released
+Desired Skills & Experience
+What you bring to the role:
+- BS or MS in Telecom or Electrical Engineering, Computer Science or equivalent experience with a MINIMUM of 2 + years of professional development with iOS
+- Provide samples of your work (Portfolio)
+- Passionate about mobile and user interaction with Smartphones
+- Able to work independently in a fast-paced start-up
+- Expert in iOS SDK, Cocoa, Apple deployment process, and popular iOS testing and productivity tools
+-Expert in Android
+- Git experience is highly preferred
+- Exceptional problem solving and communication skills both written and verbal
+- Comfortable working in a dynamic startup environment

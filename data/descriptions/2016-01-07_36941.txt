@@ -1,0 +1,36 @@
+
+En Eshop Ventures buscamos un apasionado de la tecnología que nos acompañe en nuestra visión de hacer un proyecto ambicioso.  
+Somos una de las compañías probablemente más potentes ecommerce nacidas en España y seguro que nos reconoces por alguno de nuestros portales: Mimub, Mamuky, El Armario de la Tele, Expirit, Molet, Matby, Nonabox.
+¿Qué perfil buscamos?
+•	Desarrollador Back con experiencia en Magento.
+•	Formará parte de nuestro equipo de desarrollo tecnológico formado por +15 personas
+¿Cuál es el know how técnico que buscamos?
+•	Experiencia demostrable como programador back Magento. 
+o	Modificación de módulos
+o	Desarrollo de módulos completos.
+•	Experiencia en integración con otros sistemas. 
+o	Integración con ERP, herramientas de marketing, etc.
+o	Pasarelas de pago
+o	integración con operadores logísticos
+•	Experiencia en desarrollo front.
+•	Se valorará experiencia en Magento Enterprise.
+•	Experiencia en gestión de repositorios GIT.
+•	Experiencia en uso de APIs de Magento.
+•	Experiencia en integración de aplicaciones móviles (deseable).
+•	Experiencia en herramientas de gestión de proyectos.
+•	Se valorará actitud de trabajo en equipo y capacidad de liderazgo.s
+¿Qué tipo de persona nos gustaría encontrarnos?
+•	Que hagas fácil lo difícil
+•	Que consigas que el desarrollo parezca sencillo para 120 personas ajenas a la tecnología.
+•	Que pienses las cosas dos veces antes de empezar con la primera línea de código.
+•	Que seas amante de las metodologías ágiles de desarrollo.
+•	Que seas miembro activo de algún grupo de usuarios o comunidad de desarrolladores
+•	El conocimiento alto de cualquier otro lenguaje de programación
+•	Que te apetezca hacer algo importante profesionalmente.
+•	Que seas feliz al venir a trabajar con nosotros.
+¿Qué ofrecemos?
+•	Salario bruto, en función de tu experiencia.
+•	Contrato indefinido
+•	Incorporación en nuestras oficinas de Madrid.
+•	Formar parte de un equipo de 140 personas que intentan hacer algo grande en el mundo del ecommerce.
+

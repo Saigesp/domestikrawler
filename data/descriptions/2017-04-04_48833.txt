@@ -1,0 +1,26 @@
+
+En Destinia buscamos un diseñador UX/UI que nos ayude a definir la manera en la que nuestros usuarios viajan.
+Te ofrecemos: 
+-Inmejorable ambiente de trabajo.
+- Incorporación en una empresa con una continua evolución.
+-Formar parte del proceso de creación en un equipo multidisciplinar.
+-Oficinas en el centro de Madrid, en Gran Vía. 
+-Incorporación inmediata.
+ Tus funciones serán:
+ -Entender nuestros diferentes productos y sus especificaciones para mejorar la experiencia de nuestros clientes, adaptarte a nuestro estilo visual y reforzar la imagen de marca con tus propuestas. 
+-Idear, prototipar y diseñar nuevas funcionalidades y mejoras de los procesos de conversión aplicando buenas prácticas de usabilidad y UX, teniendo en cuenta el uso en multidispositivo. Trabajarás codo con codo con el Product Owner para que los diseños se adapten a las requerimientos de negocio y las necesidades de nuestros usuarios. 
+-Trabajar con nuestros equipos de desarrollo para implementar correctamente todos los diseños, mejoras e interacciones definidas.
+ -Analizar el impacto de las mejoras planteadas a través de A/B testing, tests de usuarios, test heurísticos, etc.
+  Requisitos mínimos: 
+-Al menos 2 años de experiencia en diseño UX/UI y plataformas eCommerce.
+-Manejo de herramientas de diseño y prototipado (Adobe Photoshop, Adobe Illustrator, Sketch3). 
+-Experiencia con herramientas para el análisis de datos y su correcto uso e implementación en el proceso de diseño. 
+-Experiencia en diseños responsive y multidispositivos (Mobile first). 
+-Perfil creativo y resolutivo, con capacidad de adaptación a la hora de encontrar diferentes soluciones a nuestros retos de diseño.
+-Portfolio con trabajos online para web y móvil (RWD).  
+Requisitos deseados: 
+-Atención al detalle y capacidad de autogestión. 
+-Conocimientos HTML5 y CSS3.
+ -Experiencia con prototipos interactivos (Axure, Invision, Zeplin). 
+-Familiaridad con metodologías ágiles de trabajo.
+

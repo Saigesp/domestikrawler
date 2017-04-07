@@ -1,0 +1,25 @@
+
+Sólo lo impensable es imposible. Cuando empezamos nuestro proyecto hace 6 años, nuestra visión de cambiar la experiencia de los clientes en todo el mundo sonaba a ciencia ficción. Hoy en día es más real que nunca, pero no es suficiente.
+Queremos seguir reinventando la forma en la que los clientes interactúan con los espacios físicos, la forma en que la gente piensa acerca de ellos y la forma en que experimenta el tiempo que pasan en ellas. Si quieres ayudarnos a transformar el paradigma de la experiencia del cliente y redefinir el concepto de “estar" en un espacio físico, queremos que trabajes con nosotros.
+Buscamos talento para formar parte del equipo STAY y nos acompañe en nuestro camino para transformar la experiencia del cliente. Si crees que cumples con los requisitos envíanos tu C.V.
+Se requiere:
+Experiencia mínima 3 años programando con PHP 5 en entorno LAMP
+Haber desarrollado proyectos web con algún framework de desarrollo PHP, preferiblemente Silex Framework
+Experiencia desarrollando bajo el patrón MVC
+Conocimientos sólidos de:
+Programación orientada a objetos
+MySQL
+Javascript, AJAX y JSON
+HTML
+Experiencia usando sistemas de control de versiones, preferiblemente Git
+Capacidad de análisis de problemas proponiendo soluciones y/o mejoras
+Capacidad de trabajo en equipo
+Se valorará
+- Habilidad para identificar funcionalidades nuevas y definición de interfaces gráficas
+- Habilitad para trabajar de forma independiente y auto organizarse
+- Habilidad para establecer timelines y tiempos de ejecución de forma efectiva
+- Nivel medio de inglés
+Ofrecemos contrato indefinido, salario competitivo y Plan Formativo-Carrera.
+-Estudios Deseables: Ingeniero Técnico- Técnico en informática de Sistemas. 
+-Buen nivel de inglés
+

@@ -1,0 +1,24 @@
+
+En Talemtus buscamos desarrolladores Laravel para incorporarse en un proyecto muy interesante dentro del área de la tecnología. 
+Nos especializamos en juntar empresas-proyectos interesantes con buenos desarrolladores que encajen y quieran apoyar otros equipos técnicos. Ahora tenemos una Startup residente en Google Campus Madrid que necesita un desarrollador Laravel.
+Por un lado, ofrecemos:
+• Participar en el desarrollo de un ambicioso proyecto en Internet de ámbito  internacional en un sector atractivo y en constante crecimiento. 
+•  Formar parte de un equipo joven, dinámico y emprendedor donde se promueve la innovación, se comparte know-how y se valora el talento, la creatividad y la participación en la toma de decisiones.
+•   Flexibilidad de horarios y de jornada. Incorporación inmediata a jornada completa.
+•   Contrato indefinido.
+Por otro lado, buscamos:
+- Requisitos mínimos del candidato.
+•    Conocimientos avanzados del Framework PHP Laravel (http://laravel.com/)
+•    Conocimientos avanzados del Framework AngularJS (https://angularjs.org/)
+•    Conocimientos avanzados del Framework Ionic (http://ionicframework.com/)
+•    Conocimientos avanzados de maquetación (CSS, HTML5)
+•    Conocimientos avanzados de MSYQL
+•    Conocimiento y uso habitual de repositorios (subversion, git, bitbucket,...)
+- Requisitos deseados.
+•    Conocimientos avanzados de Postman (https://www.getpostman.com/)
+•    Nivel alto de inglés.
+•    Conocimiento y uso de metodologías agiles para la gestión de proyectos.
+•    Experiencia con AWS.
+- Experiencia
+•    Mínimo 3 años de experiencia en puestos similares.
+Buscamos una persona que se implique en todas las fases del desarrollo del proyecto (desde el análisis, la implementación y la puesta en producción) participando también en la elaboración del concepto y prototipos.

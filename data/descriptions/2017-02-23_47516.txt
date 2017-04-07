@@ -1,0 +1,14 @@
+
+Seleccionamos Programador Ruby on Rails con al menos tres años de experiencia demostrable.
+Conocimientos técnicos necesarios:
+- *HTML*
+- *JavaScript*
+- *MySQL* u otro sistema de gestión de bases de datos *SQL*
+Conocimientos valorables:
+- *Linux*
+- *Apache* o *nginx*
+Ofrecemos:
+- Incorporación inmediata y de carácter estable a la plantilla de Continex
+- Proyecto estable y de larga duración
+- Participación en proyectos de tecnologías destacables en el sector
+- Salario acorde con la experiencia aportada

@@ -1,0 +1,25 @@
+
+Se ofrece un puesto de trabajo indefinido en un entorno de un equipo de profesionales de Internet con mucha experiencia. Se valorarán muy positivamente ser un apasionado de la programación, centrado en la calidad y rendimiento del producto final, con iniciativa para resolver los problemas y con capacidad artística y creativa, además valoraremos muy positivamente todos estos requisitos deseables:
+Requisitos
+* De 3 a 5 años de experiencia en un puesto similar, estamos buscando desarrolladores Full Stack en entornos LAMP
+* Capacidad de desarrollo en JavaScript nativo
+* Experiencia avanzada con CSS2/3, así como HTML5
+* Muy valorable conocimiento de AngularJS, JQuery y otros Frameworks de JavaScripts
+* Grunt, Gulp o similares (preprocesador de CSS, plantillas HTML y otras herramientas similares)
+* Facilidad de manejo con APIs de terceros.
+* Conciencia en maquetas Cross-Browser, responsive y performance en cliente
+* Conocimientos de PHP y valorable experiencia con Frameworks como Symfony
+* Experiencia avanzada de estándares de intercambio de datos (JSON/XML)
+* Manejo de Photoshop
+* GIT
+Requisitos opcionales
+* Experiencia con NodeJS
+* Sketch
+* ReactJS
+* Experiencia con APIs de terceros como las redes sociales (Facebook/Twitter) y Google Maps
+* Interacción con gestores de contenido CMS
+* Experiencia en entornos Mac como usuario
+* Conocimientos basicos de SQL
+* Experiencia con adserver publicitario (DFP idealmente)
+* Usabilidad
+* Experiencia en programación contra sistemas de analítica web

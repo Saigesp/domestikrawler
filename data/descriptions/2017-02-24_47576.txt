@@ -1,0 +1,11 @@
+
+Buscamos un perfil de Frontend Developer para ampliar nuestro equipo de desarrollo de I+D:
+Experiencia de al menos 2 años en:
+- Desarrollo de proyectos front-end.
+- Tecnologías: JavaScript, JQuery, Html5, Css3, Less, Sass Ajax, Bootstrap, DOM, Responsive Wed Design.
+- Desarrollo con frameworks tipo: Backbone.js, Marionette.
+- Trabajo con API REST/JSON.
+Requisitos deseados
+Conocimientos de Machine Learning, Inteligencia artificial...
+MNEMO es una consultora española, con proyección multinacional, afianzada en México y Colombia, y cuya vocación es dar a nuestros clientes el mejor servicio a través de grandes proyectos enmarcados en el mundo de las Nuevas Tecnologías y Seguridad IT, ámbitos estrechamente ligados por la globalización y digitalización que caracterizan el mundo en el que vivimos.
+

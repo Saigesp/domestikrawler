@@ -1,0 +1,24 @@
+
+We are looking for an experienced Quality Assurance Engineer with automation skills to join the Services team. Day to day you will be watching over the quality of Scytl’s solutions. Your work will have a huge impact as our solutions are transforming the way that electoral processes are managed worldwide.
+At Scytl we value creativity, proactivity, overall view, strong teamwork mindset and a commitment to guarantee the customer’s satisfaction.
+The ideal candidate is a Quality Assurance Engineer with ability to work in a collaborative environment, with minimal supervision, within several projects and different instructions that may differ from team to team. If you enjoy testing, finding problems, analyzing risks and assessing quality, this is definitely the place to be. 
+How can you help us?
+As a QA Automation Engineer you will be responsible of:
+-Developing test plans and test cases based on business requirements and functional specifications.
+-Building automated tests.
+-Bug reporting and tracking.
+-Building and delivering QA documentation.
+-Controlling and completing coherence between Requirements / Use Cases and tests scenario's.
+Requirements:
+-Solid experience in functional, regression and user acceptance testing methodologies.
+-Relevant experience in test cases automation process, automation tools (Selenium, Jmeter,..) and scripting languages such as Python / Bash / Java.
+-Working experience using QA tools like HP ALM, TestRail, Redmine, HP AGM.
+-Knowledge of performance, load, stress, data interface and data migration tests.
+-Familiar with continuous integration tools such as Jenkins.
+-Familiarity with SQL/NoSQL databases, writing and executing queries.
+-Knowledge about Behaviour Driven Development (BDD) and Test Driven Development (TDD) principles.
+-Experience testing RESTful APIs.
+-Written and spoken English at Negotiation level.
+Extra points for:
+-ISTQB certified testers.
+-Working knowledge of Java or any other object oriented programming language.

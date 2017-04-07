@@ -1,0 +1,14 @@
+
+Sobre la empresa: 
+Network 3.0 es el resultado de una red de profesionales formados en diferentes campos que poseen unas habilidades excelentes en susodichos campos, contamos con creativos e inversores privados. 
+Sobre la oferta:
+En Network hay varios departamentos: negocios web, inmobiliarias... uno de estos departamentos es el departamento de inversiones que ahora mismo se encuentra en expansión, trabajamos con robots que operan en bolsa con grandes cantidades de capital diversificando en diferentes mercados ofreciendo rentabilidades de un 3% a un 6% mensual a interés compuesto a nuestros clientes mientras que el banco ofrece un 0.3 al año, nuestros robots llevan funcionando 3 años y siempre han cerrado con ganancias pues tenemos una fórmula que funciona, ganamos tanto a la baja como a la alza. Trabajamos con empresas como Ethical Global y Maxow capital. 
+Ahora mismo queremos realizar nuevos productos que sabemos que son realmente competitivos pues en Europa hay apenas dos empresas que hacen lo mismo que nosotros y nos queremos desmarcar por completo, para ello estamos buscando personas comprometidas con unas habilidades en concreto que quieran colaborar en nuestras innovaciones.
+Éste es el perfil que estamos buscando:
+1) Alguien que en C++ sepa usar y compilar DLLs, usar una API HTTP, trabajar con Bridges, crear métodos síncronos y asíncronos. Tiene que ser un experto en multithreading  y controlar de Ensamblador (No tiene porque ser un experto pero que si sepa manipular funciones ya escritas cómodamente).
+
+2) Alguien que conozca el desarrollo de páginas web en PHP sin el uso de frameworks. Conocimientos de PostgreSQL para hacer queries sencillas, experiencia en el uso de Ajax y JQuery.
+
+3) Es básico que tenga experiencia con J2EE, Spring y Hybernate. Tiene que conocer Node.js aunque no tiene por qué ser un experto (aunque evidentemente si lo es mucho mejor). Es clave que sepa de MongoDB, que es, como funciona y un ejemplo de una aplicación desarrollada o que haya colaborado en que se usa.
+seguimos trabajando, 
+Jordi

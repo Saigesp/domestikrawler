@@ -1,0 +1,20 @@
+
+En dotaptap buscamos un desarrollador de aplicaciones bajo plataforma iOS. No ofrecemos un puesto presencial por lo que preferimos que seas freelance, pero estaríamos encantados de que fueras de Madrid para poder reunirnos en una cafetería de vez en cuando.
+Los requisitos que necesitamos son:
+
+Experiencia en Objective-C
+
+Experiencia en arquitectura y desarrollo de aplicaciones nativas
+
+Experiencia en desarrollo de aplicaciones para iPad
+
+Que te encante tu trabajo y quieras compartir parte de el con la comunidad
+
+
+Sería deseable pero no indispensable que:
+
+Tuvieras experiencia bajo plataforma Cocos2d y/o Corona SDK
+
+Tuvieras experiencia en sistemas de control de versiones git (por ejemplo github)
+
+Trabajarías mano a mano con un ilustrador y un director de producto. Nuestro objetivo es hacer aplicaciones intuitivas y divertidas para niños con las que puedan aprender. Tenemos muchas aplicaciones por desarrollar, así que, si eres bueno tenemos trabajo para mucho tiempo :-)

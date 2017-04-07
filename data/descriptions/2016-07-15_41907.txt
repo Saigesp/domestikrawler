@@ -1,0 +1,47 @@
+
+Dinamics Web agencia Web, SEO, SEM y fábrica aplicaciones busca  técnico informático / telecomunicaciones para realización proyectos web y SEO
+Urge, incorporación imediata
+Formación a cargo empresa
+Ganas de realización profesional, posibilidades  de promoción
+Tareas a realizar:
+Análisis, desarrollo y implementación Webs y proyectos, implementación técnicas SEO
+Reporting y elaboración informes
+Conocimientos requeridos (se realizara breve test):
+Maquetación HTML y CSS (Al menos 2 años)
+• HTML5 y CSS3
+• Programación estilos CCS
+• Conocimiento de la filosofía de diseño “Responsive Web Design” y uso de media-queries, con el objetivo de que las aplicaciones puedan visualizarse en diferentes dispositivos (framework Bootstrap)
+• Conocimientos “Cross Browser Design” para que el diseño sea posible visualizarlo desde cualquier navegador y versión
+• Wireframing (prototipado)
+• Conocimientos de herramientas de preprocesadores de CSS (LESS, SASS/Compass)
+• Debug en Chrome, firefox y explorer
+JavaScript 
+• Orientación a objetos
+• Programación asíncrona
+• DOM y Eventos
+• jQuery
+• Compresión y optimización de código
+PHP (Conocimientos básicos)
+- Formación Adicional consejable con Plus retribución:
+Mysql
+Sistemas de plantillas (twig, smarty, typo3…)
+Conocimiento  Frameworks MVC
+Programación orientada a objetos
+Conocimientos sistemas (linux, webservers) preferible
+Conocimiento Frameworks MVC
+Git 
+Prestashop 
+APIs (rest, xml soap…)
+Experiencia demostrable
+Suite Adobe (Fireworks, Photoshop e Illustrator)
+Requisitos deseados:
+Persona metódica y constante
+Comunicador
+Flexible
+Capacidad aprendizaje
+Experiencia proyectos código abierto y CMS:  Wordpress, Prestashop, Drupal, osCommmerce, algún Framework...
+Condiciones:
+Trabajo estable superada la formación y plazo prueba
+Incorporación inmediata
+Retribución a convenir
+

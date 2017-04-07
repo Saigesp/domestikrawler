@@ -1,0 +1,21 @@
+
+Eres un apasionado de las nuevas tecnologías, proactivo, exquisito con los detalles y con muchas ganas de aprender. 
+Somos la empresa del grupo Startic (BqReaders, MemoriasUSB.com) que diseña y cocina todas las interfaces del grupo. Gestionamos las webs corporativas del grupo y las de los distintos proyectos con clientes externos. Tenemos amplia experiencia en comercio online e integración con sistemas de gestión comercial y financiera. Las empresas del grupo son líderes en sus respectivos sectores, con presencia en Europa, Asia y Latinoamérica. 
+Ofrecemos:
+· Contrato indefinido
+· Estabilidad laboral
+· Horario flexible
+· Seguro médico con Cigna
+· Conciliación de la vida laboral y familiar (se trabajan las horas salvo excepciones que lo son de verdad)
+· Grupo en crecimiento (hemos triplicado empleados este año)
+Imprescindible:
+· Conocimientos demostrables en XHTML y CSS.
+· Conocimientos demostrables en JavaScript y uso de jQuery.
+· Manejo básico de herramientas de diseño: Illustrator, Photoshop, etc.
+· Sensibilidad con el diseño y atención a los detalles.
+Valoraremos:
+· Experiencia con HTML5 y CSS3
+· Responsive
+· Conocimientos de SEO, accesibilidad y estándares W3C.
+· Diseño de interfaces web.
+· Ser capaz de trabajar con una mínima supervisión y con capacidad para tomar la iniciativa.

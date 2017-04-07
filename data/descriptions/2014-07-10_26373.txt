@@ -1,0 +1,34 @@
+
+We are a small and fast-growing multi-service marketing enterprise in the online gaming industry, now expanding and creating a new office in Barcelona.
+We want to hire a talented Developer looking for a challenging and exciting work environment in an Online Marketing company.
+We offer a permanent contract with competitive salary in a flexible, international and english-speaking work environment. 
+The Role
+As a developer, you will be working closely with our CTO and our development team. You will be responsible for developing and maintaining our websites and our Backoffice tools (Databases, BI, Marketing email tool, etc..)
+These responsibilities include:
+•	Develop requested changes or new features with optimal quality and with respect for the timeframes you commit on.
+•	Write well-commented and sustainable code
+•	Ensure that your developments answer to the business team needs
+•	Thoroughly document your work
+•	Keep up with the latest technologies
+•	Proactively report to management about your work
+o	Use our task tracking tools
+o	Propose new solutions or new features
+•	Help put in place and document best practices and procedures for development at Tuukay
+•	Conduct feasibility studies
+•	Participate in Workshops with our other teams (SEO, Marketing, Customer Support, …) in order to help them brief new features for our websites 
+About you
+We are looking for passionate, self-driven and proactive individuals. We want to build a team that enjoy working together and are willing to help us take our project to the next level.
+We are looking for people with the following skills:
+•	2+ years of experience in a similar position
+•	Very good level in Spoken and Written English
+•	Strong skills in PHP and Wordpress website development
+•	Strong skills in HTML5, CSS3 and Javascript
+•	Strong skills in MySQL databases management (query optimization, database scripting etc ..)
+•	Good understanding of Linux shell scripting (mainly using bash)
+•	Good understanding of Agile methodologies (SCRUM & KANBAN)
+•	Curious and Problem solving personality
+The following Skills would be a plus:
+•	Node JS knowledge
+•	NoSql databases knowledge (especially MongoDB)
+•	BI reports and Datawarehouse building knowledge 
+•	Email deliverability knowledge

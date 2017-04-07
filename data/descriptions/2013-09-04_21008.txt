@@ -1,0 +1,30 @@
+
+Nuestro cliente es una empresa espezializada en juegos en plataformas movil e internet  con un gran éxito internacional, y es el mayor sitio web de juegos en línea de Internet. Esta compañía desarrolla,
+publica y distribuye más de 800 juegos. Tienen ya más de 10 años de experiencia por lo que es una compañía muy afianzada en el sector. Desarrollan su actividad en todo el mundo a través de sus distintas sedes. En la actualidad están buscando un Administrador de BBDD, para una de las centrales, localizada en Lisboa (Portugal). 
+Funciones del puesto: 
+•	Reportar al gerente de la base de datos todas las tareas de administración.
+•	Bajo la dirección del arquitecto de la base de datos, actuar como el encargado principal de la puesta en práctica y aplicación de los recursos necesarios en la construcción y soporte de las soluciones.
+•	Aportar conocimientos sobre la configuración de base de datos, en lo que respecta a la implementación y despliegue de las mismas.
+•	Implementación de nuevos servicios en las bases de datos definidos por los planes de despliegue.
+•	Crear rutinas de automatización para simplificar y agilizar la administración de bases de datos.
+•	Servir de enlace con los ingenieros de redes y sistemas para conseguir implementar las nuevas soluciones propuestas.
+•	Prestar apoyo a otros equipos técnicos y operativos de la empresa, ubicados en cualquiera de las diferentes oficinas con las que cuenta la empresa.
+•	Realizar tareas rutinarias de limpieza general y mantenimiento en los servicios de las bases de datos de la empresa y mecanismos de apoyo. 
+•	Tomar iniciativas para mejorar la estabilidad de la plataforma mediante la mejora de los flujos de procesos, metodologías y normas para la gestión.
+•	Deberá prestar asistencia técnica y orientación a otros miembros del equipo de BBDD.
+•	Será el responsable de reportar la documentación de los sistemas existentes y  de los nuevos cambios.
+Requisitos:
+Se busca a una persona sociable, buen trabajador de equipo, apasionado y dedicado.
+El candidato ideal deberá tener conocimiento y experiencia en los siguientes aspectos:
+- 3 a 5 años de experiencia de administrador con sistemas como MySQL / MariaDB, u otros de bases de datos relacionales, tales como Oracle, PostgreSQL, DB2, SQL Server.
+- Habilidades profesionales en automatización de comandos: Bash, Perl, Python, etc.
+- Sólida comprensión de los patrones de replica y tecnologías de las bases de datos relacionales como master/slave, master-to-master, materialized views, Data Guard, etc.
+- Tener familiaridad con los sistemas basados en Unix / Linux.
+- Experiencia con centros de soporte multi-datos.
+- Experiencia en los sistema de seguimiento de fallos y de gestión de tareas, tales como Jira.
+- Técnicas estándar de monitorización de bases de datos.
+- Imprescindible posibilidad de cambio de residencia.
+Otras habilidades deseables:
+NoSQL / experiencia en sistemas de base de datos no relacionales, tales como Redis, Hadoop o Mongodb.
+Experiencia laboral sistemas de programación, tales como Quartz or Rundeck.
+

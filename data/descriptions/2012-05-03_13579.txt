@@ -1,0 +1,8 @@
+
+Buscamos un programador con experiencia en entornos web para integrarse en el equipo técnico del proyecto Comunitats. 
+En Comunitats utilizamos: 
+Python/Django 
+SQL/Mysql 
+Javascript/JQuery/Ajax 
+HTML/XHTML/CSS 
+

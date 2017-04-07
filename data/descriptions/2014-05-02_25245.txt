@@ -1,0 +1,4 @@
+
+Buscamos programador web con experiencia de al menos cinco años en desarrollos web.
+Dominio de lenguajes de programación web, fundamentalmente PHP, conocimiento y utilización de Frameworks, BBDD MySQL, Javascript, JQuery, Html5 y CSS. Asimismo, dominio de los requisitos necesarios a la hora de programar para el posicionamiento SEO.
+Se valorará muy positivamente el desarrollo de aplicaciones Web con gestores de contenido (JOOMLA, DRUPAL y/o WORDPRESS), así como de tiendas online con Magento o Prestasop.

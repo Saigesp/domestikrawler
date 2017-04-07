@@ -1,0 +1,23 @@
+
+Key Accountability and Responsibilities
+•	Cares about the user experience, core interaction design skills, and a good un-derstanding of usability.
+•	Love problem solving, execute elegant solutions and enjoys iterating.
+•	Good eye for design and will sweat the tiny details
+•	You are agnostic about the technology stack and will use the right tool for the job.
+•	You understand how the browser works internally and how that affects how you write features in order to make them as performant as possible.
+Key Skills, Knowledge, Experience and Competencies
+
+•	Not afraid of technical challenges, in fact you hunger for the impossible.
+•	Passionate about new technologies and problems to solve. You’re ready to offer fresh ideas.
+•	Have experience and enjoy working in an agile development (SCRUM) team.
+•	You thrive on coding. We look for humble craftsmen who enjoy learning and sharing knowledge.
+•	You breathe, eat and dream code and algorithms, just because you love it.
+•	Enthusiastic, self-motivated, proactive, self-sufficient, but also a team oriented.
+Technical requirements:
+•	Rock-solid programming skills in JavaScript. Expertise that must go well beyond jQuery. It will be an important plus having experience using a structured MVVM fra-mework such as Angular.js, Backbone.js or Ember.js
+•	High-proficiency in HTML5/CSS3/Responsive (Required experience in ZURB’s Foundation, SASS)
+•	Working experience in control version system such as Git, SVN.
+•	Experience applying Scrum/Kanban
+•	Code applying Test Driven Development (TDD) is a must
+•	Some programming skills(PHP, Python, Ruby) and knowledge in object-oriented languages is a plus
+

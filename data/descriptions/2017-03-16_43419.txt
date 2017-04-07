@@ -1,0 +1,23 @@
+
+Con el lanzamiento de nuestro Global Cloud Marketplace, Ingram Micro Cloud está cambiando la forma de hacer negocios en la nube. Somos un proveedor de servicios en la nube principal (mCSP), que permite a las organizaciones configurar, aprovisionar y gestionar las tecnologías de la nube con confianza y facilidad.
+Como parte del equipo de ingeniería, apoyarás la implementación de productos y soluciones en el Cloud Marketplace. Para ello será necesario el diseño y la configuración de los productos/ servicios en la plataforma eCommerce, así como el trabajo con diferentes equipos para conducir las pruebas y procedimientos de solución de errores, la atención al segundo nivel o realizar demos para los diferentes grupos de interés.
+Las responsabilidades incluyen:
+-	Desplegar nuevos productos en Odin Automation y en el Cloud Marketplace.
+-	Revisar, testear el trabajo, y proporcionar un recorrido a través del sistema al cliente.
+-	Proporcionar apoyo durante QA / UAT antes del lanzamiento y el segundo nivel de soporte post-lanzamiento.
+Habilidades requeridas:
+-	Conocimiento de los servicios de hosting: dominio y manejo de DNS, servicios de correo y web, bases de datos
+-	Experiencia con soluciones eCommerce y CMS
+-	Alto nivel de Inglés (escrito y verbal)
+-	Gran capacidad de análisis y habilidades para resolver problemas
+Habilidades fundamentales:
+-	Buen comunicador (tanto escrita como verbalmente)
+-	Capacidad de escuchar, moderar, presentar, comunicar, mediar y negociar
+-	Listo para trabajar en una empresa global, con diferentes culturas y zonas horarias
+-	Cómodo realizando demostraciones, presentaciones y sesiones de entrenamiento en el lugar y de forma remota
+-	Dispuesto a aprender y desarrollar nuevas habilidades
+Se trata de una beca de prácticas de al menos 6 meses de duración (es necesario estar matriculado en universidad, FP...)  con la posición de incorporarse en nuestra plantilla.
+La compañía proporciona clases gratuitas tanto de inglés como de español durante el período de prácticas además de bebidas y fruta gratis en la oficina, también contamos con una actividad llamada Toastmaster, la cual ayuda a mejorar la comunicación en público.
+En agosto tenemos horario reducido desde las 8 hasta las 15 horas al igual que los viernes a lo largo de todo el año.
+Nuestras oficinas están situadas en el Parque Tecnológico de Santander (PCTCAN), este está comunicado con el centro de la ciudad con varios autobuses a lo largo del día.
+En la actualidad somos casi 100 personas en la oficina y ¡todavía estamos creciendo!

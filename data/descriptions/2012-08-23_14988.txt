@@ -1,0 +1,23 @@
+
+Unono.net es el primer calendario universitario global. Basándose en las últimas tecnologías y utilizando los lenguajes más recientes, brinda al público universitario
+un nuevo espacio virtual comunitario donde interactuar.
+
+En Unono encontrarás una proyección y una carrera que nunca se quedará atrás. Estamos duplicando nuestra plantilla, siempre con los mejores, para seguir trabajando en un ambiente laboral profesional y efectivo que deje margen para tu inspiración y aportaciones.
+
+Lo que debes controlar para unirte a nuestro equipo es:
+
+- .Net 4.0 (C#), MVC 3.0, LINQ
+- SQL Server 2008
+- jQuery, Ajax, JavaScript
+- HTML5, CSS
+- Git u otro control de versiones
+
+Si puedes demostrarnos tener unos conocimientos que se salen de lo común, y si te desenvuelves sin problemas en un equipo ameno y flexible, pero dispuesto a hacer lo que haga falta por el proyecto, no dudes en unirte a una empresa que nunca se queda atrás en innovación y creatividad.
+
+Las fases de la selección son:
+
+-       1º - Prueba técnica: demuestra resolviendo unos problemas que te pasamos por mail que eres uno de los buenos.
+
+-       2º - Entrevista personal: Conoce al equipo y convéncenos de que eres la mejor opción para el puesto. Además, se te planteará un pequeño examen.
+
+Ofrecemos un contrato indefinido a jornada completa, salario a convenir en la entrevista. La incorporación será inmediata; los primeros días se destinarán para realizar un curso formativo acerca del framework (remunerado) y cuando seas todo un experto en el lenguaje, te recibiremos en la oficina en Avenida Manoteras, en Madrid.

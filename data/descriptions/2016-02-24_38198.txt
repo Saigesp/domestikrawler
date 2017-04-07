@@ -1,0 +1,11 @@
+
+En Million Mountains buscamos a un Diseñador / Programador web capaz de trasladar los diseños del equipo creativo a lenguaje web.
+La ubicación del candidato es indiferente. 
+REQUISITOS
+- Experiencia demostrable con portfolio ( imprescindible)
+- PHP, Javascript, HTML5 y CSS3. 
+- CMS Wordpress.
+- Dominio PSD/Illustrator  para utilizar los archivos generados por el equipo creativo. 
+- Conocimientos de maquetación web responsive.
+- Sensibilidad y gusto en el diseño.
+- Capacidad de trabajo en equipo

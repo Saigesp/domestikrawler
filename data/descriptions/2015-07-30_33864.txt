@@ -1,0 +1,10 @@
+
+Precisamos la incorporación inmediata de un Maquetador Web
+Sus labores son las de maquetar e integrar en los diferentes CMS los diseños realizados por el departamento de diseño y marketing.
+La persona debe ser capaz, de una manera ágil y fluida de plasmar al 100% el diseño propuesto dentro de un entorno de CMS
+Requisitos mínimos
+- Al menos 2 años de experiencia profesional en puesto similar.
+- Experiencia en integración y maquetación de Wordpress.
+- Experiencia en diseño web, diseño UX/UI, Responsive Design, CSS3, HTML5, JQuery, Javascript.
+- Fuertes conocimientos en Bootstrap con experiencia demostrable en su uso.
+- Conocimientos en programas de diseño como Photoshop o Illustrator.

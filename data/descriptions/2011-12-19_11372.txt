@@ -1,0 +1,11 @@
+
+Maquetador web
+Requisitos 
+- Conocimiento avanzado de XHTML, CSS y estándares web.
+- Conocimientos avanzados de Javascript.
+- Conocimientos de Photoshop y Flash.
+- Persona acostumbrada a trabajar en equipos multidisciplinares.
+- Experiencia en accesibilidad, usabilidad y estándares.
+- Programación básica en PHP.
+- Experiencia con gestores de contenidos
+

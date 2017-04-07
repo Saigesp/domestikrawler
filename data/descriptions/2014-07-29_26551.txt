@@ -1,0 +1,17 @@
+
+Consultoría tecnológica especializada en el mundo del gambling precisa de incorporación inmediata de programador de backend PHP con experiencia en Wordpress y Frontend Javascript.
+Tareas:
+- Desarrollo de páginas web y APIs en PHP
+Requisitos:
+- Conocimientos de inglés
+- Capacidad de trabajo en equipo
+- Capacidad de trabajo bajo presión y con plazos
+- Buenas prácticas de programación (clases, código limpio y reusable)
+- Experiencia previa o proyectos propios demostrables
+- Conocimiento de frameworks PHP (Yii, Symfony, Laravel,...)
+- Que sepa desarrollar wordpress
+- Conocimiento de Javascript (jQuery)
+Ofrecemos:
+- Trabajo presencial full time (8 horas) 
+- 6 meses en plantilla
+- Incorporación según valía a partir del sexto mes, con contrato indefinido y revisión de salario

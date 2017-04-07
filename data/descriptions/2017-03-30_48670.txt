@@ -1,0 +1,26 @@
+
+Somos una empresa de Desarrollo de aplicaciones web en Las Rozas de Madrid, necesitamos un Programador Web Back/Front para poder desarrollar los proyectos que tenemos en cartera, con una programación limpia, fiable y ajustada a los estándares de programación w3c y consejos de posicionamiento de Google.
+
+Los requisitos mínimos que pedimos son los siguientes:
+HTML5
+CSS3
+Javascript / JQuery
+PHP
+MySql
+Requisitos adicionales:
+Uso librería PDO para MySQL.
+Uso de apis (Facebook, YouTube, Google Maps,etc.).
+Conocimientos del Framework Bootstrap.
+Manejo de Photoshop, Ilustrator, InDesign, etc.
+Lugar de residencia: Madrid.
+
+Se ofrece:
+Entorno de trabajo joven y dinámico.
+Desarrollo profesional.
+Estabilidad laboral.
+Incorporación inmediata.
+Jornada completa.
+Horario: L-V 09:00h-14:00h 14:30h-18:00h; V 09:00h-15:00h.
+Salario Bruto : 22.000 € - 24.000 €.
+
+El trabajo se realizará desde la oficina ubicada en Las Rozas (Madrid), preferible residente de la zona noroeste de Madrid.

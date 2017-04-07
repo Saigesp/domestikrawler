@@ -1,0 +1,22 @@
+
+Buscamos desarrollador web freelance, en principio para proyectos puntuales y si todo va bien para una colaboración a largo plazo (abstenerse agencias).
+Requisitos imprescindibles:
+
+- Uso avanzado del sistema de control de versiones GIT.
+- Amplios conocimientos y experiencia con: PHP, JavaScript y JQuery. 
+- Experiencia con Wordpress como desarrollador (preferible enviar una muestra de los trabajos realizados).
+- Conocimiento sobre uso de Hooks y Child Themes.
+- Uso de Linux o MacOS como herramienta de trabajo habitual.
+Características del trabajo: 
+- No es presencial pero si necesitamos contacto continuo vía Skype o Gtalk, un control del tiempo dedicado a cada tarea asignada a través de nuestro gestor de proyectos (Redmine) y la asistencia periódica a reuniones de estatus. 
+- Disponemos de espacio de trabajo en nuestra oficina en el caso de que sea necesario.
+- El trabajo se realizará coordinándose con nuestro responsable de programación o con el miembro del equipo seleccionado para el proyecto asignado.
+- Es fundamental el uso del control de versiones así como la configuración en local del proyecto asignado.
+Bola extra: 
+- Experiencia con Drupal (preferible enviar una muestra de los trabajos realizados).
+- Experiencia con Prestashop (preferible enviar una muestra de los trabajos realizados).
+- Conocimientos y experiencia con: HTML, CSS/CSS3.
+- Se valorarán Plugins subidos al repositorio de Wordpress.
+Remuneración: 
+- Estableceremos una estimación de horas para el total de tareas asignadas por proyecto 
+- El precio hora será negociable dependiendo del proyecto y del perfil del candidato.

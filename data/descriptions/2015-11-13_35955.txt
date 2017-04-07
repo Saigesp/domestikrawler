@@ -1,0 +1,24 @@
+
+Buscamos Senior Developer .Net para incorporarse a un grupo de trabajo joven, dinámico y altamente cualificado. El candidato seleccionado deberá ser apasionado por las nuevas tecnologías web, la experiencia de usuario, las apps y la innovación tecnológica.
+A continuación se detallan los conocimiento técnicos necesarios:
+
+- .NET Framework 4.5 (+) (C#5) 
+- ASP.NET MVC 4 o superior 
+- Javascript (JQuery, AJAX)  
+- Servicios REST - JSON 
+- Servicios WCF
+- Habituado a trabajar con código fuente (TFS, Team Foundation Server). 
+- Conocimientos de Programación orientada a objectos (OOP/POO) 
+- ADO.NET (Enterprise Library) / ADP.NET
+
+Bases de datos: Oracle Database, modelado de datos, creación de packages y stored procedures. Y no relacionales. 
+
+Se valorarán conocimientos de: 
+- Telerik ASP.NET MVC Extensions / KendoUI 
+- Report Viewer 2010 (ASP.NET Controls) 
+- RabbitMQ (o broker de mensajes) 
+- ASP.NET Web API 2 (HTTP Services / REST Services) 
+- Azure
+- MongoDB 
+- Desarrollo Mobile Android/IOS (Xamarin C# o nativo) 
+- AngularJS

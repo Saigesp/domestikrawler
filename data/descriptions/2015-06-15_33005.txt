@@ -1,0 +1,10 @@
+
+En Dantex Group buscamos un programador en tecnologías Web para aplicaciones de video streaming diseñadas para una excelente experiencia de usuario.
+Los requisitos son: 
+-	Dominio del HTML5 + CSS3 
+-	Amplia experiencia JavaScript y jQuery.
+-	Desarrollo en ANGULAR.
+-	Conocimiento en instalación de entornos de desarrollo y control de versiones.
+-	Programación en NODE.
+-	Experiencia en la instalación de BBDD y generación de WebServices Restful.
+Dantex Group es una consultoría estratégica especializada en la planificación, asesoría y desarrollo de proyectos de Marketing, Comunicación y Ventas, mediante las más avanzadas técnicas de Comunicación Digital.

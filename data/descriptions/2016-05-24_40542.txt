@@ -1,0 +1,31 @@
+
+¿De qué va la cosa? 
+Somos una agencia joven (todos por debajo de los 36 años) que realiza grandes proyectos basados en aplicaciones móviles (híbridas y nativas) y desarrollos web.
+Creamos soluciones IT para grandes clientes como Vodafone o Credit Suisse, aparte de proyectos propios apasionantes.
+Nuestro equipo está compuesto por gente muy creativa y con perfil emprendedor, con ganas de aportar ideas, con proyectos propios dentro y fuera de la agencia. Nos gusta la flexibilidad en los horarios, pero al mismo tiempo trabajar duro, ser responsables y ofrecer a nuestros clientes un servicio excepcional.
+Tenemos nuestra oficina a 30 metros de la Puerta del Sol y mola mucho :)
+Estamos creciendo, tenemos importantes proyectos a la vuelta de la esquina y necesitamos incorporar un desarrollador Full Stack especializado en Ruby on Rails con experiencia y ganas de llevar al límite sus conocimientos.
+
+¿Qué retos tengo que afrontar y cuáles serán mis responsabilidades? 
+No estarás solo, pero serás el único desarrollador web de nuestros proyectos, encargado de decidir qué tecnología usar y cómo darle forma. 
+Necesitamos que seas un crack, que puedas hacerte cargo tanto del desarrollo front-end como del back-end y de la comunicación web con aplicaciones móviles a través de API-REST. 
+Además es fundamental que tengas conocimientos para montar entornos Ruby on Rails en servidores.
+Tendrás autonomía para tomar decisiones y poder aportar ideas a los proyectos, así como aconsejar y evaluar e introducir nuevas tecnologías a medida que sean necesarias. Aquí tu trabajo contará y sumará al resto del equipo.
+
+¿Qué requisitos técnicos debo cumplir? 
+
+Experiencia mínima de 2 años.
+
+Alto conocimiento en desarrollo de aplicaciones web bajo Ruby on Rails.
+
+Desarrollo y consumo de API-REST entre aplicaciones móviles y aplicaciones web.
+
+Bases de datos: MySQL y un mínimo de MongoDB.
+
+Procesos en Background: Sidekiq bajo Redis.
+
+HTML5, CSS3, JavaScript, jQuery
+
+Framework Bootstrap.
+
+Conocimientos de sistemas de control de versiones: GIT, Bitbucket o GitHub.

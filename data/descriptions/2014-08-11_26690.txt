@@ -1,0 +1,4 @@
+
+Buscamos un programador con experiencia en Symfony 2 para modificar un portal ya desarrollado e implementar nuevas funcionalidades.
+Nos urge mucho, así que debe de tener disponibilidad inmediata.
+

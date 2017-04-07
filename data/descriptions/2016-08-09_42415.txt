@@ -1,0 +1,11 @@
+
+Importante empresa inglesa dedicada a la producción multimedia y ganadora de un Bafta, necesita un desarrollador freelance no presencial para la implementación de una galería interactiva de arte para iPad. El cliente final es un importante artista de reconocido prestigio.
+En principio seria un trabajo hasta mediados de Septiembre pero podría alargarse hasta Octubre o incluso Noviembre, dependiendo del feedback del cliente final. Se facturaría por día trabajado.
+Requisitos:
+Experiencia con UI y AVplayer/AVFoundation.
+Persistent storage Core Data.
+Conexiones con RestFul web services.
+Multithreading.
+Objective C o Swift.
+Importante mandar portfolio con trabajos publicados.
+

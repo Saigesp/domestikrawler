@@ -1,0 +1,39 @@
+
+The Web Developer is a professional in object-oriented programing with expertise in front-end technologies such as HTML, CSS and JS and able to work in one or several projects providing a solution that follows the best practices. His role in the project includes analysis of requirements, estimations, development using popular or client custom frameworks, programing and implementing self-assessment quality assurance testing.
+The ideal person must be highly proactive, always looking for improvement on his daily duties, ensure good time management (including down time), good communication skills (team collaboration, calls, chat, email, tickets) with excellent response times that takes pride in world class code conventions.
+Hands-on / Conceptual Technical Skills
+· Required:
+
+o   5-6 years of experience at Javascript
+o   Medium-high English level
+o   Templates development & maintenance
+o   HTML (HTML 4.01, XHTML, HTML 5)
+o   CSS (CSS1, CSS2, CSS3, cross-browsing, pixel perfect concept, validation).
+o   JS (DOM, Core, JSON, AJAX, Frameworks: jQuery, Node, Backbone, AngularJS)
+o   SEO (e.g. SEO meta tags, search engine friendly URLs and canonical URLs, etc).
+· A plus:
+o   Experience at AngularJs
+o   Experience at WCAG (Accesibilidad web)
+o   Image Manipulation ( e.g. Photoshop, slicing images, sprite creation, image size optimization, etc).
+o   XML/JSON (Understanding /manipulation of XML and JSON files).
+o   Front End Tools( e.g. SVN, Git, Pixel perfect, emulators, Charles, Fiddler, HttpFox, Network tab).
+o   Quality Assurance (experience In Unit testing and peer reviews).
+o   Experience working creating emails.
+o   CMS Templating (e.g. Wordpress, Joomla, CQ5).
+o   Knowledge in accessibility and usability concepts applied to web sites
+o   Social Networks (Experience integrating modules and client-side API from Facebook, Twitter, G+, Pinterest).
+o   Analytics (Integration with Google Analytics and Tag Manager).
+- Qualifications:
+Possible Academic Background:
+o   Programming, Computer Science, Web Development, Software Engineer, Information Technology.
+
+Soft Skills
+o   Proven capacity for problem solving.
+o   Ability to constantly learn and update body of knowledge with emerging and best practice technologies, even when assigned project is not regularly using them.
+o   Commitment to a quality philosophy of zero defects and pixel perfection.
+o   Understanding of User Experience practices.
+o   A customer service mentality and attitude where the work is approached with empathy, enthusiasm, ownership, responsibility, adaptability, balance and resilience.
+o   Cleverness for best coding practices.
+o   Advanced English is a plus.
+Please also note that Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, or gender identity. 
+

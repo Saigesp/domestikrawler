@@ -1,0 +1,15 @@
+
+Buscamos un programador y desarrollador, en Valencia, de webs y webapps para ios y android.
+Cuéntanos lo que sabes de:
+Xcode, Eclipse, ObjectiveC, HTML ,MySQL, Javascript, PHP, Nimblekit, Jquery, Android Market, el loop de Wordpress, CSS, Certificados AppleStore.
+Se valorará:
+Experiencia en el desarrollo de aplicaciones sencillas para smartphones.
+Experiencia demostrable en desarrollo iOS i Android
+Haber validado aplicaciones en el App Store.
+Experiencia en el Android Market.
+Conocimientos avanzados en el CMS Wordpress
+Experiencia con el paquete en el entorno de Adobe.
+Manejo de BDD con Mysql y PHP.
+Capacidad para el trabajo en equipo.
+Abstenerse estudios y agencias.
+Imprescindible experiencia demostrable.

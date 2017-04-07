@@ -1,0 +1,22 @@
+
+Introduction
+Machinas is a leading multinational English speaking new-media company based in one of the most beautiful areas of Europe, Barcelona, Spain.
+We have over 14 years of experience specialising in e-commerce for the fashion industry.
+With clients such as ESCADA, ESPRIT, HUGO BOSS and JACK WOLFSKIN we are constantly evolving and developing our worldwide design solutions, our strategies and our team in order to remain the market leaders in this sector. 
+We work to high standards in creativity and innovation; but also in accuracy, e-commerce speed and with the professional relation to our clients.
+We are a multinational team - our creative environment consists of individuals from over 15 countries. 
+The Role
+This position is for someone with the ability to self-manage and provide the jobs on schedule for the strict deadlines that we work to.
+We expect you to be comfortable working with such programs as Photoshop and Dreamweaver as well as slicing and optimizing images, writing clean HTML and CSS, creating translations, experience building newsletters with cross-browser debugging and familiarity with responsive design (media queries), amongst other things.
+Requirements:
+- Analytical approach
+- Excellent eye for detail
+- Advanced level of English
+Technical skills:
+- HTML5
+- CSS3
+- Proficient with Adobe Creative Suite software (Dreamweaver and Photoshop)
+- Pro-active and able to show initiative/ideas to constantly improve the user experience and quality of the site.
+- Experience of working to W3C standards
+- Managing the development and implementation of technical features
+

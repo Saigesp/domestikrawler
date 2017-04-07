@@ -1,0 +1,15 @@
+
+Buscamos un especialista 3D para unirse al equipo de Diseño. Su principal función será la creación de assets y animaciones para nuestro mundo virtual y hacer renders de producto con Vray. Es imprescindible adjuntar CV y porfolio de trabajos.
+Conocimientos técnicos:
+· 2 año de experiencia mínima en el desarrollo de Videojuegos.
+· Experto en modelado 3D en Hi y Low Poly, modelos arquitectónicos y props (3D Studio Max), iluminación y render en Vray.
+· Experto en animación 3D, rigging de personajes y sistema BIPED.
+· Solvencia mapeando UVs y elaboración de mapas de textura, optimizando la cantidad de materiales en la escena. Experiencia en la creación de lightmaps y Heightmaps.
+· Se valorará el Manejo de Unity 3D a nivel de arte y creación de FX partículas.
+· Conocimientos de escultura. Especialidad en estilo gráfico realista.
+· Conocimientos en fotografía (iluminación y lentes).
+Aptitudes sociales:
+· Proactivo, resolutivo y dinámico.
+· Capacidad de trabajar en equipo.
+· Atención al detalle.
+

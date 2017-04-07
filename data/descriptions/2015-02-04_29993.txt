@@ -1,0 +1,18 @@
+
+Buscamos a un desarrollador senior, con iniciativa y capacidad de resolver los problemas que se plantean diariamente en el departamento de desarrollo.
+Requisitos 
+Que sepas PHP 5 y uses Symfony 2 en tus proyectos
+Que no te asuste programar en Front-end
+Que uses GIT
+Que sepas algo de servidores LINUX
+Deseable
+Tener cultura visual
+Que puedas maquetar cualquier cosa
+Experiencia en desarrollo mobile
+Experiencia en Frameworks javascripts, especialmente  AngularJS
+ 
+Qué ofrecemos 
+Contrato indefinido
+Muy buen ambiente de trabajo
+Excelente horario
+Sueldo entre 18.000 - 21.000 €

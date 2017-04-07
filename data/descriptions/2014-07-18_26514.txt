@@ -1,0 +1,5 @@
+
+Requisitos:
+- Programación usando librerias gráficas como: opengl, webgl, raphael, svg.
+- Programación en javascript.
+Formará parte del equipo de desarrollo, incorporandose en el área de programación gráfica de 2D y 3D.

@@ -1,0 +1,20 @@
+
+Buscamos un programador-maquetador familiarizado con el desarrollo sobre gestores de contenido (principalemte Wordpress, Joomla y Prestashop) y con conocimientos de diseño web responsive. Es necesario residir en Madrid para trabajo presencial en nuestra oficina.
+El candidato elegido se encargará de:
+1. Desarrollo y gestión del backend de proyectos web y de ecommerce.
+2. Desarrollo frontend. Maquetación html+CSS a partir de plantillas preexistentes o desarrollándo desde cero basándose en los diseños entregados. Es muy importante que sea capaz de adaptar ese diseño a todas las resoluciones de pantalla.
+3. Gestión de servidores (web, mail y DNS).
+4. Realizar labores de mantenimiento, actualización y soporte técnico en las web de nuestros clientes.
+5. Maquetación de emails.
+7. Elaborar informes de analítica web.
+Necesitamos que esté familiarizado y pueda desarrollar en las siguientes tecnologías:
+1. Desarrollo web en entorno LAMP/WAMP. 
+2. Diseño, programación y maquetación web: CSS3, HTML5, PHP, Javascript (JQuery) y MySQL. Muy importante dominar el diseño web responsive.
+3. Experiencia demostrable en desarrollo basado en CMS: Joomla y Wordpress principalmente. Drupal se valorará positivamente 
+4. Software eCommerce: VirtueMart, Prestashop y Woocomerce (principalmente). Magento se valorará positivamente. 
+5. Gestión de servidores: Cpanel, Parallels Plesk. 
+6. Se valorará muy positivamente el conocimiento de SEO, SEM y Analytics.
+Se ofrece:
+1. 750€ brutos mes
+2. Jornada de 9 a 15 de lunes a viernes
+3. Contrato formativo con alta en la Seguridad Social y vacaciones remuneradas

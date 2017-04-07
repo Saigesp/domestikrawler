@@ -1,0 +1,12 @@
+
+Somos una empresa especializada en el desarrollo de aplicaciones web y móvil y software empresarial con una clara apuesta por la calidad y la mejora continua. Nuestro equipo está formado por profesionales en usabilidad, diseño, maquetación, gestión de proyectos y desarrollo en varias tecnologías.
+Trabajamos en un ambiente joven y distendido donde se fomenta la iniciativa y la innovación. Queremos ser una empresa que aprende de su equipo y donde las personas se desarrollen profesionalmente.
+Desarrolladores con al menos 3 años años de experiencia en programación PHP:
+    - Desarrollo sobre Zend Framework y/o desarrollo de plugins para Wordpress
+    - Con experiencia en el uso de APIs REST o servicios web XML
+     - Valoramos especialmente la sensibilidad de los desarroladores a la usabilidad
+     - Familiarizados con metodologías ágiles de programación y TDD
+     -  Entusiastas por investigar nuevas herramientas y tecnologías.
+      - Familiarizados con temas relacionados seguridad, escalabilidad, performance, cache, SEO, etc…
+    -  Con ganas de trabajar en equipo y de aportar y compartir conocimiento
+    -  Se valorarán muy positivamente conocimientos de otras tecnologías y nivel avanzado de Javascript  

@@ -1,0 +1,20 @@
+
+Arrancamos Tiendeo en 2011 con el objetivo de ayudar a los consumidores a encontrar las mejoras ofertas de las tiendas a su alrededor. Durante estos últimos 3 años hemos ido creciendo hasta convertirnos en un referente en los medios online con soluciones innovadoras en torno al buzoneo digital.
+Hoy somos una compañía presente en más de 30 países, con más de 70 empleados, sede en Barcelona y trabajamos con los retailers y marcas más importantes del mundo. Hasta aquí hemos llegado con un equipo creativo, innovador e internacional, con ganas de mejorar día a día.
+En fase de crecimiento, buscamos un Ingeniero informático para incorporarse al equipo de desarrollo de la plataforma web Tiendeo, para realizar tareas de programación de nuevas funcionalidades y mejoras de la web, web mobile, webservices y base de datos, así como desarrollo en un entorno .NET con sistema de subversion e integración continua.
+Si quieres a una startup en crecimiento, con un ambiente joven, dinámico e internacional, donde tu opinión cuenta, no dudes y aplica !
+¿Qué buscamos?
+Ingeniero Técnico o Superior en Informática 
+Experiencia de desarrollo de 1 un año o más en entorno de desarrollo en .NET, Java o PHP 
+Conocimiento avanzado en javascript, ajax y jquery
+Conocimiento en maquetación web (HTML5 y CSS3) 
+Conocimiento en sistemas de testing de tipo Nunit, Selenium. 
+Experiencia en sistemas de trabajo en equipo de tipo Git o Subversion 
+Valoraremos conocimientos en SEO y usuabilidad 
+Persona responsable, exigente, metódica, proactiva y con ganas de trabajar en un ambiente de startup.
+¿Qué ofrecemos?
+Incorporación en un equipo de alto rendimiento, que apuesta por la innovación y la mejora constante, en busca siempre de un elevado nivel de calidad
+Entorno joven, dinámico e internacional
+Contratación estable
+Salario en función de valía aportada
+y…vistas al mar !!

@@ -1,0 +1,3 @@
+
+Se necesita hacer que el modulo Attribute Wizard Pro (link http://www.presto-changeo.com/es/attribute-modules/34-attribute-wizard-pro.html), sea compatible con la versión movil de prestashop. También que sea compatible con el zoom de los productos personalizados.
+Busca presupuesto aproximado para el trabajo

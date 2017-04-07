@@ -1,0 +1,17 @@
+
+Funciones: 
+- Diseño/Maquetación Web 
+- Inserción e integraciones de formatos publicitarios on line en soportes web. 
+- Desarrollo de formatos en multidispositivo: mobile, Tablet, desktop. 
+- Gestión de campañas publicitarias.
+Requisitos: 
+- Diseño/Maquetación Web con al menos un año de experiencia profesional demostrable. 
+- Conocimiento de HTML, JAVASCRIPT, HTML5, CSS, CSS3 y AJAX. 
+- Conocimiento del funcionamiento de gestores de contenidos (CMS) así como de plantillas: WordPress/Joomla. 
+- Conocimientos de formatos Rich Media, Web, vídeo y mobile. 
+- Manejo de herramientas de edición gráfica: Photoshop, After Effects, etc. 
+- Capacidad de trabajo en equipo y concentración, atención al detalle, capacidad de autogestión, resolución de problemas y priorización de los mismos. Capacidad de comunicación (Interlocución con agencias creativas-medios/soportes/interdepartamental).
+Se valorará: 
+- Inglés. Nivel medio-alto demostrable. 
+- Conocimiento de herramientas/Plataformas de AdServing. Se valorarán especialmente los conocimientos de DFA/DFP, Sizmek, Weborama, FlashTalking, Appnexus, Smartserver, Adform, GDAX. 
+- Experiencia en el sector de la publicidad digital.

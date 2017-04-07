@@ -1,0 +1,11 @@
+
+Desde ICA estamos incorporando tres Analistas programadores .net para colaborar en un proyecto de larga duración con posibilidades reales de trayectoria profesional dentro de nuestra compañía acompañado de un plan de formación en últimas tecnologías.
+El perfiles requeridos es
+- Analista programador .net con experiencia previa en análisis y programación de 3/4 años en entorno .net, con ASP.net, C# y MVC.
+Requisitos mínimos
+- Experiencia en .NET (C# y ASP.NET).
+- Experiencia en JavaScript, HTML y CSS.
+- Experiencia en BBDD MySQL y SQL Server.
+- Conocimientos de Sharepoint
+- Conocimientos de diseño de arquitectura .net
+- Perfil autónomo y proactivo con habilidades comunicativas.

@@ -1,0 +1,23 @@
+
+We are looking for an iOS Team Lead to join our team, eager to join a multicultural and challenging environment who will lead the iOS team based in Barcelona to deliver global mobile projects. We are thinking not only about iOS platform expert but about Team Lead who enjoys mentoring developers and is committed to collaborative problem solving, sophisticated design, and the creation of quality products.
+Given our focus is on mobile, you can expect an environment where you can learn a lot, not only regarding technology, but also how the mobile business works in all its aspects. We hope you are as passionate and thrilled as we are about mobile and its possibilities. Come and share it with us.
+Functional skills & experience required
+ 4+ years of experience as iOS Software Engineer
+ Possess a strong knowledge of core Computer Science subjects such as data structures and algorithms
+ Ability to understand and debug large and complex code bases
+ Proficient in memory management, networking concepts and practice
+ Good experience and understanding of Version Control Systems (Git)
+ Be able to handle a project's full life cycle (planning, executing, delivery...)
+ Experience with agile software development methodologies (Scrum...)
+ Have the ability to communicate in a team environment using English (reading, writing and verbally) with other software developers, with sales people and non-technical people
+iOS platform requirements
+ ObjC, - Expert
+ Autolayout - Expert
+ Git - Expert
+ Xcode & iOS SDK - Expert
+ HTTP, SSL/TLS, REST and SOAP - Expert
+ Object Oriented Programming - Expert
+ Clean code, best practices, software architecture - Expert
+ MVC – Expert
+ Continuous Integration (Jenkins, etc...) - Advanced
+ 3rd party Frameworks and libraries

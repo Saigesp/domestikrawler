@@ -1,0 +1,13 @@
+
+Se busca un desarrollador web freelance especializado en la creación de mapas para proyecto del sector turismo.
+El desarrollador se encargaría de coger las riendas de la plataforma desde el minuto 1 trabajando codo con codo con el diseñador; no buscamos solo a un developer que ejecute sino que participe y asesore sobre la mejor tecnología a utilizar, que se involucre, que le guste debatir y discutir sin miedo.  
+Requisitos:
+- Experiencia y dominio de framework y librerías relacionadas con la creación de mapas (leaflet, mapbox...o similares)
+- Back-end: experiencia y dominio desarrollando bajo framework MVC y bbdd mysql
+- Front-end: Javascript, jQuery, HTML5, CSS3, y framework responsive
+- Maquetación
+Fundamental:
+Pasión por el detalle, perfeccionista y acostumbrado a trabajar en un entorno de desarrollo ágil y basado en módulos.
+El proyecto consta de diferentes fases: Empezaremos con la creación de un prototipado con funcionalidades limitadas para luego ampliar y crear cliente móvil.
+Si quieres conocer más detalles acerca del proyecto escribe a helloriders10@gmail.com.
+GAAAAAAS.

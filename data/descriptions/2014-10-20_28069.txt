@@ -1,0 +1,26 @@
+
+ROLE:
+We’re looking for a CTO - IT director who is excited about travel, technology, and the prospect of improving the world by enabling global entrepreneurship. You’ll work closely with the founders on every part of the site, deploy daily, iterate quickly, and measure absolutely everything.
+We don’t believe in breaking down engineering roles into “front-end” or “back-end” distinctions — if you’re working on the website, you’ll be expected to know (or learn) whatever it takes to get the job done. It's probably best if you’re familiar with PHP (with or without frameworks) and HTML, CSS, Javascript, and other core standard technologies of the web.
+But...we’re a startup, so being self-motivated, proactive and independent is probably more important than any particular technology on your resume.
+REQUIREMENTS:
+- A strong programming background.
+- Management expertise in a IT department.
+- Demonstrated expertise with PHP programming language (and preferably many).
+- Knowledge of basic computer science concepts, such as data structures and algorithmic complexity.
+BONUS POINTS:
+- Experience delivering real products.
+- You can get things done.
+- Expertise in Building a team and hiring.
+- Able to apply best practices in the company.
+- Knowledge of 360º areas of an IT department such as: Front end, Back end, Systems, SEO, Human resources, etc in order to lead a team.
+- SCRUM experience. 
+Company:Trip4real.com
+Industry: eTravel 
+Area: IT team
+Place: Barcelona
+Job type: Full time
+trip4real is global community marketplace that connects travelers seeking authentic, quality activities and tours with local experts who offer unique things to do. With trip4real, travelers can access truly amazing experiences—from slow-shopping in Barcelona to Portraits of the streets of Madrid, or even Spain's Chef house cooking & dinner. Trip4real lists experiences in all Spain and helps more than 20.000 tourists to discover Spain from the local side. Headquartered in Barcelona, it has satellite offices in Madrid, Sevilla, Valencia and San Sebastián. And will be opening soon in London and Paris. 
+Trip4real started on February 2013 and has now more than 10 people in the team plus it has raised 2 rounds since start: 150K€ with famous chef Ferran Adrià and SCPF and 1M€ with Kibo ventures and Caixa Capital Risc. 
+
+Join a passionate and motivated team changing the way people travel into a more authentic way as well as helping locals make a living doing what they love!

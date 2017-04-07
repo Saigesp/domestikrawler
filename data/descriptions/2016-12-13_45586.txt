@@ -1,0 +1,18 @@
+
+Melboss Music es una empresa con sede en San Francisco (Palo Alto), Los Angeles y Madrid.
+En Melboss buscamos un desarrollador front-end & back-end para nuestra plataforma y para nuestros clientes. Buscamos a una persona brillante, inteligente, resolutiva y con ganas de aprender, alguien a quien le guste estar a la última en tecnología web.
+Requisitos: 
+- Experiencia en desarrollo de Back y Frontend 
+- Conocimientos de JavaScript y AJAX (con jQuery) 
+- Experiencia en entornos LAMP 
+- Sistema de control de versiones (git) 
+- Conocimientos de frontend (HTML5, CSS3, Javascript, responsive, Bootstrap) 
+- Capacidad de trabajar en equipo y habilidades organizativas 
+- Profesionalidad, responsabilidad y seriedad 
+- Pasión y dedicación al proyecto
+Conocimientos valorables: 
+- CakePHP, Symfony u otro frameword de PHP 
+- Experiencia en programación Ruby 
+- Programación en iOS (Xcode) 
+- Programación en Android
+Es imprescindible que el candidato sea una persona proactiva y con iniciativa, además de poseer habilidades de comunicación, trabajo en equipo y con capacidad para resolución de incidencias técnicas.

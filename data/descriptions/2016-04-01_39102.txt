@@ -1,0 +1,12 @@
+
+¿Te interesan los proyectos innovadores? Si es lo que estás buscando con estas prácticas participarás en el proyecto de "Análisis de los Procesos de Negocio" de Meliá Hotels International, modelando dichos procesos y analizando las oportunidades de mejora que se detecten desde el punto de vista de los sistemas informáticos que los soportan.
+Tus funciones principales consistirán en ayudar en el mantenimiento del inventario de los elementos que conforman la Arquitectura de Empresa: Procesos de Negocio, Aplicaciones, Integraciones, Infraestructura e Información que se utiliza en Meliá Hotels International.
+Aprenderás
+•	Arquitectura de empresa como herramienta para la estrategia de IT 
+•	Componentes de la arquitectura de empresa: desde los procesos de negocio hasta las infraestructuras. 
+•	Análisis y modelado de procesos de negocio. Descripción de los procesos. 
+•	Identificar y planificar acciones de mejora IT ligadas a los procesos de negocio
+Buscamos
+•	Estudiante del grado en ingeniería informática o ciclo formativo de grado superior 
+•	Escritura técnica 
+•	Nivel medio de inglés, especialmente en la escritura

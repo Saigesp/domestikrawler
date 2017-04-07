@@ -1,0 +1,5 @@
+
+Buscamos un programador creativo con 3/5 años de experiencia e interés por la creatividad, el marketing, el diseño y las cosas bien hechas que sepa complementar las ideas con el punto de vista creativo de la tecnología (y también parirlas de cero, claro). Picadores de código puros y duros, abstenerse.
+Definirá los criterios/requisitos de programación y los calendarios de los proyectos de la agencia y de nuestros clientes para hacerlos internamente o coordinar eventuales subcontrataciones. 
+Además, participará en el desarrollo de la estrategia digital de la agencia: metodologías de trabajo, perfiles necesarios, desarrollo de negocio, formación, etc.
+Requisitos: buen equilibrio de conocimientos de HTML 5, CSS, Javascript, AJAX, Flash/AS3, optimización SEO, accesibilidad y estándares W3C, etc. No es necesario estar especializado en back end pero sí tener capacidad suficiente para coordinarse con proveedores externos y equipos de IT de nuestros clientes. El nivel de inglés deberá ser suficiente para interlocuciones por email, teléfono y eventuales presentaciones.

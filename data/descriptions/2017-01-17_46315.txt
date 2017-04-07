@@ -1,0 +1,35 @@
+
+Estudios mínimos: Grado Superior en aplicaciones informáticas
+Requisitos imprescindibles: 
+Experiencia demostrable en arquitecturas front orientadas a productos web y frameworks como Angular, o WebComponents. 
+Amplio conocimiento de Javascript, y uso de frameworks como AngularJS (imprescindible) y jQuery, 
+Análisis y definición de cada proyecto junto al resto del equipo de Desarrollo.
+HTML5/CSS3, Bootstrap y responsive.
+Animaciones con CSS y JS.
+Conocimientos de Usabilidad y Experiencia de usuario.
+Experiencia en arquitecturas desacopladas
+Experiencia demostrable en control de versiones (Git, GitHub)
+Experiencia en desarrollo y testing para múltiples navegadores y dispositivos.
+Persona muy detallista, organizada y resolutiva. 
+Nivel alto de inglés hablado y escrito.
+Se valorará:
+Perfil Github, Bitbucket u otras plataformas.
+Experiencia en desarrollo con metodologías ágiles (Scrum, Kanban).
+Maquetación bajo estándares HTML/HTML5/CSS.
+Conocimiento de gestores como WordPress, Drupal o Prestashop.
+Desarrollo de aplicaciones iOS y Android. 
+Se valorará experiencia en integración del Front con Gestores de contenidos 
+En Gobalo como agencia creativa digital, conectamos marcas, proyectos y personas utilizando las últimas tendencias tecnológicas para crear experiencias web únicas. 
+Estamos buscando un/a profesional que sepa desarrollar, liderar proyectos, comunicarse con el cliente, gestionar proyectos internacionales e implementar soluciones eficaces en estos casos.
+Sus responsabilidades dentro del equipo serán:
+Definir la arquitectura frontend que mejor se adapte a los proyectos, tanto por funcionalidad como por rendimiento o mantenibilidad
+Colaborar con el equipo de Diseño ) en la definición e implementación de la solución técnica escogida.
+Asegurar el cumplimiento de las buenas prácticas de usabilidad, calidad y rendimiento.
+Cuidar la máxima calidad en la visualización y los pequeños detalles. Buscamos  una persona muy detallista y organizada. 
+¿Qué ofrecemos?
+- Formar parte de un equipo muy joven con muchas ganas de hacer cosas cada vez más grandes.
+- Ambiente joven y distendido, donde venir a trabajar nunca sea un problema, con horario flexible y posibilidad de teletrabajar.
+- Total libertad para proponer ideas y desarrollarlas. 
+- Jornada completa. 
+- Formación continua. 
+- Salario, según experiencia y valía.

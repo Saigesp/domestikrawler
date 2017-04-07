@@ -1,0 +1,27 @@
+
+ITRS, empresa internacional dedicada al desarrollo de software de gestión para grandes empresas y con sedes en Singapur, Londres y Hong Kong, precisa de Software Engineering Consultant para su nueva sede ubicada en Málaga. 
+Requisitos
+MÍNIMOS:
+• Experienced with HTML5 / Javascript, a minimum of 5 years
+• Experienced CSS, a minimum of 5 years
+• Experienced in Web Sockets / Real time push – delivery
+• Experienced in Single Page Web Applications
+• Experienced in Node JS
+• Experienced with client side frameworks: Backbone, Knockout or Angular
+• Experience in testing web applications (Jasmine)
+• Experience with the views advanced in HTML Javascript (D3)
+• High level of English
+ 
+DESEADO:
+• Experience as a software developer for banks
+
+Funciones
+• Design, installation, testing and maintenance of software systems
+• Reviewing current systems
+• Presenting ideas for system improvements
+• Producing detailed specifications and writing the programme codes
+• Testing the product in controlled, real situations before going live
+• Deliver implementations in accordance with coding standards and conventions.
+ 
+Ofrecemos
+Salary Gross Anual: Negotiable

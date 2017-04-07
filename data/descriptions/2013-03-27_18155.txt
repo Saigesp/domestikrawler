@@ -1,0 +1,19 @@
+
+Lo que nosotros te ofrecemos:
+Si te motiva el trabajo de desarrollo y la innovación y quieres formar parte de una empresa con perspectiva y objetivos ambiciosos, te ofrecemos formar parte de un grupo multinacional, con presencia en Suiza, Alemania, Austria y España, un ambiente dinámico y multicultural con un gran potencial de desarrollo y talento.
+Requisitos:
+-Experiencia laboral previa de al menos 2 años en proyectos de implementación de CMS Alfresco	
+-API Java CMIS 
+-J2EE / Spring / REST 
+-Webservices, WebScripts, JavaScript
+-Alfresco v3.x / v.4.x 
+-Desarrollo de extensiones al modelo de Alfresco 
+-Lucene / SOLR 
+-Gestión de particiones 
+-Conocimientos a nivel funcional de gestión documental
+-Buen nivel de inglés hablado y escrito 
+Se valorará muy positivamente:
+-ACE: Alfresco Certified Engineer 
+-ACA: Alfresco Certified Administrator
+-Nivel de alemán
+

@@ -1,0 +1,27 @@
+
+Kunstmaan es una importante agencia belga de comunicación. Seleccionamos desarrolladores PHP para trabajar en un nuevo equipo que se está creando en Málaga, España.
+Kunstmaan busca desarrolladores PHP para reforzar su sólido departamento digital. Dentro de uno de nuestros ágiles equipos tendrás la oportunidad de trabajar en proyectos innovadores y desafiantes. Y lo harás no sólo con un equipo consolidado y los mejores expertos, como maestros de scrum, arquitectos informáticos, desarrolladores frontend y desarrolladores backend, sino también con estrategas de la comunicación, redactores, creativos y diseñadores. Te esperan proyectos que van desde una plataforma, una API hiper rápida, hasta una atrevida campaña.
+Como desarrollador en Kunstmaan tendrás la oportunidad de realizarte (continuar desarrollándote) personalmente de manera permanente y a grandes pasos. Cada año asistirás al menos a una conferencia, tomarás la palabra en reuniones y charlas, trabajarás en software de código abierto y desplegarás tus habilidades en todo lo que hagas. ¡Y si necesitas algo para hacerlo, ningún problema, sólo tienes que pedirlo!
+Del mismo modo, tendrás también la posibilidad de dejar tu huella en Kunstmaan y en nuestra manera de trabajar. Trabajamos con métodos ágiles y cada retrospectiva nos enseña lecciones valiosas que luego implementamos. Si las cosas se pueden hacer mejor, la frase "Porque siempre lo hemos hecho así", no tiene cabida. 
+Te damos también la oportunidad de:
+Asumir la responsabilidad completa de proyectos.
+Trabajar estrechamente con perfiles muy diferentes, dentro de Kunstmaan y con nuestros clientes.
+Desarrollar la arquitectura de sistemas complejos.
+Aprender de tus colegas, pero también, enseñarles a ellos.
+Entregarte completamente en un entorno creativo y muy variado.
+
+Para todo eso tendrás que tener los siguientes requisitos:
+
+Un conocimiento profundo de PHP y de programación orientada a objetos (se valorarán conocimientos de Symfony2).
+Las bases de datos como MySQL y PostgreSQL no deben tener secretos para ti.
+
+Te desenvuelves bien en tecnologías frontend como Javascript (Vanilla, jQuery, Angular, …), HTML y CSS.
+No te da miedo probar cosas nuevas, Node, Swift, "la siguiente novedad", etc.
+Hablas, escribes y lees con fluidez inglés.
+Tienes experiencia relevante demostrable. Puedes considerar como experiencia la experiencia laboral, la experiencia en proyectos de código abierto o la experiencia en otro idioma/entorno, y tener muchas ganas de seguir creciendo.
+
+¿Qué obtienes a cambio?
+Tienes la oportunidad de trabajar en un equipo muy motivados con otros desarrolladores backend, con los mejores ordenadores y herramientas a tu disposición. 
+Aunque permanezcas en España con un pequeño equipo y la mayor parte de tus colegas residan en Lovaina (Bélgica), haremos nuestro mejor esfuerzo para que te sientas parte de nuestra familia, con buenos servicios de comunicación, así como viajes a Bélgica de vez en cuando. 
+Por otra parte se ofrece contrato laboral con salario bruto anual de entre 20K y 30K, así como otros beneficios. ¡Tendrás la oportunidad de desarrollar aún más tus habilidades a través de cursos de formación, conferencias y, por supuesto, proyectos desafiantes!
+

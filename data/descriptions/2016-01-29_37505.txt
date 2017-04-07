@@ -1,0 +1,24 @@
+
+DESCRIPCIÓN DEL PUESTO
+Como programador en Python3 tendrás la responsabilidad para manejar toda la interacción de datos entre las bases de datos, los servicios y el usuario, exponiéndolos a través de una interfaz REST. Usamos Pyramid como framework y buscamos tu capacidad de extraer el mejor rendimiento de las bases de datos y de crear interfaces seguras. La filosofía de uso de Python es mediante un código elegante, reutilizable y testeable, yesperamos que está sea también tu manera de trabajar. Además de trabajar con Python también manejarás una gran variedad de librerías, éstas pueden ser servicios externos o librerías de sistema, como ffmpeg. Como desarrollador de back-end deberías estar familiarizado con el uso y la instalación de sistemas UNIX. No serás responsable del mantenimiento del sistema de producción pero si es un conocimiento que vendrá muy bien para diseñar nuestra infraestructura de acuerdo a los requisitos de las funcionalidades que estarás integrando. Como nuestro entorno son las soluciones de vídeo streaming, podrás diseñar para sistemas distribuidos, CDN, flujos de trabajo asíncrono y manejo de ficheros.
+RESPONSABILIDADES
+- Diseño y implementación de aplicaciones low-latency, high-availability y performant
+- Integración con elementos de cara al usuario desarrollado por el equipo de front-end con la lógica back-end
+- Integración con librerías y servicio internos y externos
+- Escribir código reutilizable, testeable y eficiente
+- Crear estructuras de BBDD con SQLAlchemy
+- Implementación de conceptos de seguridad y protección de datos
+- Validación de todos los datos que entran por los usuarios
+HABILIDADES Y CUALIFICACIONES
+- Experto en Python3 y frameworks como Pyramid (o similar)
+- Familiar con librarías ORM (preferido: SQLAlchemy)
+- Capaz de integrar con varios fuentes de datos y bases de datos en un mismo sistema
+- Comprensión de motores de plantillas
+- Conocimiento básico de tecnologías front-end; JavaScript, HTML5 y CSS3
+- Familiarizado con accesibilidad y cumplimiento de estandartes de seguridad
+- Conocimiento básico de entornos Linux/Apache
+- Habilidad profunda de testear código y hacer debugging
+- Conocimiento práctico de herramientas de control de versión (GIT)
+- Mínimo 3 años de experiencia laboral en el desarrollo Back-end/Python3
+- Valorable título relacionado
+- Español (hablar/escribir); Inglés (lo suficiente para lectura de documentación)

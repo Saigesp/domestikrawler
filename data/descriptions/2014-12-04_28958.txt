@@ -1,0 +1,17 @@
+
+Real Estate company settled in Barcelona is looking for a Backend developer with experience in Symfony2.
+
+A young group with interesting and different profiles is waiting for you. With technologies as Elastic Search, CartoDB, GoogleMaps, RabbitMQ, Mandrill, AngularJS or Bootstrap, this is the right place to grow up, to learn and to teach.
+​
+Minimum requirements:
+- 2+ years of experience developing in Symfony2 + Doctrine
+- Very good team player
+- Able to learn, able to teach
+- A portfolio / website demonstrations
+​Preferred Skills (will be a big plus):
+- AngularJS/Javascript/jQuery
+- RabbitMQ
+- Redis
+- Elastic Search
+- Postgresql / SQLServer
+- Amazon Web Services (Ec2/S3 mainly)

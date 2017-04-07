@@ -1,0 +1,14 @@
+
+En el departamento de Producción Digital de Shackleton en Madrid buscamos programador Back-End
+- Configuración entorno LAMP / WAMP
+- Desarrollo bajo arquitectura MVC y orientado a objetos
+- Bases de datos Mysql y SQLServer
+- Lenguajes de programación PHP y Asp.Net.
+- Conocimientos avanzados de Drupal
+Deseable:
+- Conocimientos de AS3/Flex
+- Joomla, Wordpress, Prestashop o Magento (además de Drupal)
+- Java, Objective-C (Phonegap, Air, Titanium)
+- Conocimientos de Accesibilidad y SEO
+- Conocimientos de Sistemas
+- Nivel medio-alto de inglés

@@ -1,0 +1,32 @@
+
+We are looking for front-end developers with a visual and conceptual side to them. Not just someone who does the work, but who thinks critically and will contribute to the creative process.
+At Antiloop we don’t limit ourselves to just websites. We like cutting edge technologies. Things like interactive installations, virtual and augmented reality, and other phygital tech. Because of this, we like to bring a creative touch to the development of our projects. When we code, we always think about the visual side. If you share this vision, you might be the one we are looking for!
+Sounds like your dream job? Keep reading to see if you meet the requirements...
+TECHNICAL KNOWLEDGE AND EXPERIENCE
+· Candidates for this position must have a genuine interest in the latest technological developments in the industry to include HTML5, CSS3
+· 1+ years of professional experience as a front-end web developer
+· Proficiency in HTML/CSS, JavaScript and other scripting languages
+· Ability to develop responsive interfaces, ideally with a mobile-first approach
+· Demonstrated experience with the following JavaScript libraries: Jquery, Modernizr, TweenMax, and Handlebars
+· Demonstrated experience with at least one of the following MVC frameworks: AngularJS, Backbone, or Ember
+· You have experience working with pre-processed languages such as: SASS, LESS, CoffeeScript and HAML
+· Working knowledge of PHP or Ruby on Rails is desirable
+· Since you will be working in a team, you must have knowledge of version control platforms such as GIT or SVN
+MEETING ONE OF THE FOLLOWING REQUIREMENTS IS A PLUS
+· Working knowledge of Unity OR openFrameworks and Kinect
+· Previous experience with Javascript rendering engines such as WebGL, Three.JS or Pixi
+OTHER SKILLS AND EXPERIENCE
+· You have a focus on delivering quality work rather than speedy work
+· You can adapt quickly to changes and new feature requirements
+· Experience working with Adobe Photoshop and Illustrator
+· Strong knowledge of design principles, typography, user interfaces, Web standards and usability
+· Team player with a positive attitude and an entrepreneurial spirit · Available for periodic work related travel
+· Must have an excellent level of English
+· An at least intermediate level of Spanish is preferred
+· Any other language is a plus!
+OFFER
+· A young, international, and dynamic work environment
+· The chance to work on cutting edge projects for international clients
+· Opportunities to experiment with innovative technologies
+· A competitive salary based on knowledge and experience
+

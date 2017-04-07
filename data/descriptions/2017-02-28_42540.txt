@@ -1,0 +1,38 @@
+
+Buscamos a alguien con más de 8 años de experiencia en el sector, entre otras tareas debe ser capaz de aterrizar ideas de negocio mediante sesiones específicas en grupo y darles mayor definición. Durante ese proceso se apoyará en los artefactos de la profesión que considere apropiados, hasta llegar a la fase de prototipado.
+Sesiones de grupo:  Antes de la definición como tal, tenemos una fase de diseño estratégico donde hay que organizar y saber dirigir sesiones de trabajo cocreativo, creando el escenario donde se produzcan las conversaciones necesarias: propósito del proyecto, temas difíciles, objetivos de negocio, dudas… y posteriormente saber elaborar el entregable resultante.
+Definición de producto: Parte fundamental de esta definición es la realización de prototipos interactivos de fidelidad media-alta, basados en patrones y estándares con un punto de innovación donde proceda. Que propicien diseños de calidad, basados en sistemas, rejillas, módulos y componentes.
+No únicamente pero sí es frecuente que en Paradigma realicemos aplicaciones complejas, operacionales, cuadros de mando etc. Por ello buscamos mentes capaces de entender requisitos de negocio difíciles, para así ser capaz de simplificar flujos y aportar soluciones valiosas. Esta definición puede incluir procesos de diseño de servicios no exclusivamente digitales.
+Nos gusta la gente apasionada por Internet y la tecnología, comprometida, con capacidad de autogestión y sentido del humor. Gente flexible que puntualmente eche una mano de buen grado en tareas menos glamurosas.
+Además de lo descrito hasta aquí, te ocuparás de:
+· Crear experiencias de cliente brillantes, globales y con gusto por el detalle.
+· Defender la calidad, coherencia e innovación del producto ante todo tipo de agentes externos, incluso internos.
+· Definir la arquitectura de información y comportamiento (interacción, flujos de procesos, etc..), lo que puede suponer escribir y mantener la documentación sobre especificaciones del producto.
+· Investigación y test con usuarios (de guerrilla generalmente).
+· Conocer e incorporar las mejores tendencias del mercado.
+· Definir las prioridades de diseño del proyecto en el que te incorpores.
+· Colaborar en la labor de preventa, aportando conocimiento en propuestas y ofertas de respuesta a RFP, RFI, RFQ.
+¿Por qué trabajar en Paradigma?
+· Respetamos tu tiempo y tu vida personal. Hay bastante trabajo que hacer pero saliendo a tu hora y en gran medida autogestionado.
+· Trabajarás con compañeros de back y front-end muy capaces que pueden desarrollar el producto más brillante que seas capaz de definir.
+· Tenemos una oficina cómoda, con un gran ambiente de trabajo, ping pong, terraza, recreativa, fruta y café. 
+· Equipo Mac o Windows a negociar y monitor de 27 pulgadas.
+· Horario de entrada y salida flexible.
+· Dos días de teletrabajo a la semana.
+· Dos meses de jornada reducida en verano.
+· Estamos en Pozuelo, en un área muy agradable, más cerca de lo que parece, a 10 minutos de Moncloa.
+Otros requisitos:
+· Herramientas de diseño habituales y prototipado preferiblemente en AxureRP
+· ¡Presentar un portfolio de gran calidad!
+· Un mínimo de 8 años en el sector.
+· Un mínimo de 4 años de experiencia como miembro de algún equipo de Experiencia de Usuario.
+· Experiencia trabajando con equipos multidisciplinares. Necesitamos que defiendas tu diseño pero que aceptes otros puntos de vista.
+· Conocimientos sólidos de los principios de interacción hombre-máquina y atención máxima al detalle.
+Valorable, no requerido:
+· Conocimientos de analítica y optimización de la conversión.
+· No te dedicarás a ello pero conocimientos de desarrollo front-end siempre son un bagaje recomendable.
+· En cuanto a diseño visual, si puedes hacerlo o ayudar, estupendo.
+· Capacidad de redacción.
+· Que sepas hablar inglés a nivel conversacional.
+· Capacidad para proponer acciones en el ámbito del marketing y de la comunicación.
+· Conocimiento de metodología Scrum / Lean UX.

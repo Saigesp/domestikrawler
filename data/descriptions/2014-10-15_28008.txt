@@ -1,0 +1,22 @@
+
+Quiénes somos:
+MyBrana es una start-up de reciente creación en el campo de las aplicaciones para móviles y plataformas de contenido, mediante el uso de Realidad  Aumentada y geo-localización. En Mybrana desarrollamos software con soluciones interactivas que combinan elementos reales y virtuales. Con base en California y España, Mybrana está formada por un grupo de profesionales altamente preparados y motivados que quieren cambiar la forma en la que interactuamos con el mundo a través del uso de tecnologías centradas en el usuario. Muestra visión es convertirnos en la referencia de la nueva generación de aplicaciones que fusionan el mundo virtual y el real.
+A quién buscamos:
+Desarrollador Android-Unity3D con experiencia en desarrollo de aplicaciones móviles.
+Descripción del Puesto.
+Los principales funciones del puesto son:
+•	Desarrollo de apps y juegos en realidad aumentada para dispositivos móviles.
+•	Desarrollo de  nuevas funcionalidades y mantenimiento de aplicaciones para Android.
+Cualificación:
+•	Ingeniero Informático.
+•	Experiencia con Android de al menos 2 años. 
+•	Dominio de Unity3D, C++, C, C#, Java y Javascript.
+•	Se valorará experiencia en Objective-C.
+•	Se valorará experiencia previa en Realidad Aumentada.
+•	Se valorará haber desarrollado aplicaciones o juegos sobre plataformas móviles.
+•	Nivel muy alto de inglés.
+Que oferecemos:
+La posibilidad de trabajar con un equipo de gran talento en una compañía que lidere la industria de la Realidad Aumentada. Ofrecemos incorporación inmediata a una start-up en desarrollo con un gran potencial de desarrollo y aprendizaje en un entorno de trabajo excelente. 
+Salario a convenir.
+Lugar de trabajo: Madrid.
+

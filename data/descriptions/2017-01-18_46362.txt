@@ -1,0 +1,31 @@
+
+Raet (raet.com) is the leading HR software company and cloud solutions provider with millions of users worldwide and over 50 years of experience. Headquartered in the Netherlands, with hubs in Europe and Latin America, our HR platform helps more than 1500 clients with Human Capital Management (HCM), ranging from Standard payroll to funky eHRM (Human Resource Management) products in the public and private sector.
+Are you passionate about IT, and want to build cool stuff that has an impact on how people work day by day? Do you get a kick out of developing state of the art software? Are you up for a real challenge to become the best Infrastructure Engineer?
+In Madrid we have already established a major tech hub and agile environment to enable us to develop a new innovative and user friendly HR platform solution that will really rock our industry. We have more than 100 software developers, UX designers and professional staff among others. We want to expand substantially over the coming years, so we are looking for committed people who believe in our long term perspective.
+Finally, and ultimately most important, we are looking for team members who share our mindset & core values: Smart, Helpful, Conscious, Expert & Reliable.  Are you up for it?
+We are looking for Infrastructure Engineer who will be reporting the right hand of the Cloud Operations manager. You will bring a lot of technical infra and operations experience. You enjoy continuously improving team processes and aligning priorities with other teams. Working in and with distributed teams is for you already second-nature: you are excited about our teams being distributed across different continents.
+We are looking for a team player who takes initiative and has a getting-things-done attitude, who is not afraid of complexity and enjoys a good challenge. You must be able to handle a fast-paced work environment, juggling several different tasks at the same time while setting the right priorities. You have some experience in managing a small team effectively. Some international travel is no issue for you.
+ROLES AND RESPONSABILITIES
+•	Experience with Agile methodologies such as Scrum and Kanban is a plus
+•	Experience with IT service management and ITIL processes is a plus
+•	Hands-on experience managing Production Infrastructure (Cloud Computing, Microsoft server, storage and virtualization)
+•	Multiple years of experience in scripting languages such as PowerShell
+•	Experience with configuration management tools such as Puppet, Chef, or Ansible is a plus
+•	Ability to organize and manage your team to reliably support production environments
+•	Ensure deliverables are completed within target timeframes and are consistently of high quality
+•	Getting things done attitude
+WE OFFER
+Raet as an employer of reference chooses to work in a different scheme than other organizations. We are conscious that flexibility, development and a fair compensation package bring huge benefits to the employee as well as the company
+•	Work with the best professionals in an innovative and international hub
+•	Development and growth opportunities within the company
+•	Available exchange programs with many workplaces in Argentina, Peru, Mexico, Spain, Belgium and the Netherlands
+•	Inspiring environment to learn and develop yourself with training opportunities
+•	Autonomy day (Take a day off from your daily duties to research, innovate or self-learning)
+•	Permanent contract and attractive salaries (according to experience)
+•	Flexible working hours, 7-10h / 16-19h (Free on Friday afternoons)
+•	During August finish at 15 every day
+•	Occasional flexible hours to work from home
+•	As a plus, apart from your salary, we offer all employees free Health insurance, ticket restaurant and ticket transport
+•	Macbook pro or HP laptop
+•	Onboarding program (1 week stay in the beautiful city of Amersfoort, Netherlands headquarters)
+

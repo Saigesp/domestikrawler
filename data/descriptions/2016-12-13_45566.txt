@@ -1,0 +1,18 @@
+
+Buscamos analista programador con al menos dos años de experiencia para formar parte del equipo de desarrollo de una start up innovadora en su sector.
+Las funciones están relacionadas con el análisis, desarrollo y mantenimiento de la aplicación web, para lo que se requieren los siguientes conocimientos:
+- ASP.NET MVC 
+- Microsoft SQL Server 
+- Entity Framework 
+- Javascript + Jquery 
+- HTML 5, CSS3, Responsive Design
+- Diseño y programación de Webservices
+Otros conocimientos valorables:
+- Team Foundation Server
+- Crystal Reports
+- Desarrollo mediante metodologías Agile
+- Diseño e instalación de servidores de desarrollo, preproducción y producción.
+Contamos con un equipo joven y dinámico en constante crecimiento, con el que damos forma a un novedoso proyecto cuyo objetivo es liderar su sector en internet.  Si eres una persona responsable, dinámica, proactiva, acostumbrada a trabajar con equipos multidisciplinares y quieres formar parte de este gran proyecto, contacta con nosotros.
+Nivel de estudios deseado:
+- Ingeniero informático
+- Formación Profesional de Grado Superior de la familia profesional de Informática.

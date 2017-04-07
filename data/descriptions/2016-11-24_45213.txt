@@ -1,0 +1,20 @@
+
+Hola!!, en alt120 comunicació interactiva, queremos incorporar un perfil de maquetador web para nuestras oficinas de Barcelona.
+Las principales tareas a desarrollar serán:
+Requisitos necesarios: 
+- Maquetación HTML5/CSS3. 
+- Conocimientos de frameworks como Foundation y Bootstrap 
+- "mimo" en los detallista, elementos gráficos y diseños.
+Requisitos valorados: 
+- JavaScript. jQuery, jQuery Mobile, MooTools… 
+- LESS, SAS 
+- Wordpress (a nivel programación y estructura). 
+- Desarrollo crossBrowser 
+- Sistemas de control de versiones (Git). 
+- Familiarizado con PHP. 
+- Angular JS 
+- Organización y capacidad de autogestión.
+Cualquier otro conocimiento bienvenido será.
+Salario: 
+12 pagas entre 16.000-21.000 € brutos anuales según capacidades del candidato.
+En esta oferta buscamos alguien presencial, por favor abstenerse freelances, agencias, estudios y equipos de desarrollo.

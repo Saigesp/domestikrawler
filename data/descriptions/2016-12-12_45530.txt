@@ -1,0 +1,6 @@
+
+Technology Managed Services ofrece servicios tecnológicos desde su conceptualización hasta su puesta en marcha. Contamos con un sólido portfolio de soluciones en Tecnologías de la Información, Procesos de Negocios, Ingeniería e Infraestructuras Tecnológicas.
+Somos un equipo humano altamente cualificado, cuya principal misión es satisfacer las necesidades actuales y futuras de nuestros clientes. Siendo el Distribuidor exclusivo de BinaryTree para Iberia.
+Seleccionamos para nuestras oficinas en Madrid un programador Android que posea conocimientos en:  
+Xamarin, Java, Android, HTML5, CSS3, XML, MySQL, Agile methodology, SVN, JSON, Eclipse, Android Studio, Linux y Windows.
+La función será colaborar en un proyecto I+D basado en tecnologías móviles de largo recorrido y estratégico dentro de la compañía para lo que se requiere conocimientos de desarrollo y arquitectura a nivel técnico en el desarrollo de sitios y aplicaciones web, con capacidad de aportación de valor a negocio .

@@ -1,0 +1,34 @@
+
+En Eshop Ventures buscamos un apasionado de la tecnología que nos acompañe en nuestra visión de hacer un proyecto ambicioso.  
+Somos una de las compañías probablemente más potentes ecommerce nacidas en España y seguro que nos reconoces por alguno de nuestros portales: Mimub, Mamuky, El Armario de la Tele, Expirit, Molet, Matby, Nonabox.
+¿Qué perfil buscamos?
+•	Desarrollador Front con experiencia en Magento.
+•	Formará parte de nuestro equipo de desarrollo tecnológico formado por +15 personas
+¿Cuál es el know how técnico que buscamos?
+Se requiere un desarrollador con al menos 1 año de experiencia en desarrollos front con Magento, el candidato debe poder resolverse bien en los siguientes aspectos.
+•	Capacidad demostrable en edición de plantillas en Magento.
+•	Capacidad de maquetación en HMTL, HTML5, CSS
+•	Capacidad de programación en JavaScript, JQuery.
+•	Capacidad de maquetación usando Bootstrap 3.
+•	Dominio de maquetación de diseños responsive
+•	Experiencia en sistemas GNU/linux.
+•	Conocimiento de SQL y experiencia en MySQL
+•	Experiencia en proyectos open source
+•	Se valoraría haber desarrollado proyectos alojados en AWS o similar
+¿Qué tipo de persona nos gustaría encontrarnos?
+•	Que hagas fácil lo difícil
+•	Que consigas que el desarrollo parezca sencillo para 120 personas ajenas a la tecnología.
+•	Que pienses las cosas dos veces antes de empezar con la primera línea de código.
+•	Que seas amante de las metodologías ágiles de desarrollo.
+•	Que seas miembro activo de algún grupo de usuarios o comunidad de desarrolladores
+•	El conocimiento alto de cualquier otro lenguaje de programación
+•	Que te apetezca hacer algo importante profesionalmente.
+•	Que seas feliz al venir a trabajar con nosotros.
+¿Qué valoramos muy positivamente?
+•	Experiencia anterior en OpenERP
+¿Qué ofrecemos?
+•	Salario bruto, en función de tu experiencia.
+•	Contrato indefinido
+•	Incorporación en nuestras oficinas de Madrid.
+•	Formar parte de un equipo de 140 personas que intentan hacer algo grande en el mundo del ecommerce.
+

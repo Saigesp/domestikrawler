@@ -1,0 +1,14 @@
+
+Funciones:
+-	Realización de la documentación y planificación tareas
+- Mantenimiento preventivo y correctivo
+- Desarrollo incidencias abiertas
+- Respuesta a incidencias puntuales del sistema
+- Soporte técnico al Departamento eCommerce de empresas.
+-Gestión de incidencias de los clientes
+- Soporte a la consolidación y coherencia de datos.
+-Mantenimiento preventivo (monitorización interfaces, reindexaciones artículos, etc)
+- Planificación y ejecución de la migración del eShop a la versión Magento Enterprise.
+Requisitos:
+Profesionales del sector con formación universitaria. Aportando experiencia mínima de un año en Magento/e-Commerce Opensource
+

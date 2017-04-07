@@ -1,0 +1,19 @@
+
+El proyecto empresarial de 6DLab está basado en la aplicación de soluciones tecnológicas innovadoras en todos los ámbitos multimedia y telecomunicaciones.
+Trabajamos en el desarrollo, optimización y producción de soluciones tanto de software como de hardware en las que se potencia el uso de lo visual y auditivo.
+Estamos buscando una persona para incorporarse en nuestro equipo que cumpla los siguientes requisitos:
+Imprescindible: 
+HTML5, CSS3 y Javascript 
+Aplicaciones híbridas con Cordova/ionic 
+AngularJS 
+REST APIs 
+AWS (S3, RDS y otros) 
+Muy deseable: 
+Python 
+Django
+Valoraríamos también conocimientos en: 
+Unity 5 
+C#/C++ 
+Java/Objective C/Swift (para Android e iOS) 
+Unreal Engine 4 
+Cardboard/Oculus Rift/HTC Vive/Samsung Gear

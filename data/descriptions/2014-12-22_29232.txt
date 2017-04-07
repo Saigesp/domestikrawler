@@ -1,0 +1,15 @@
+
+Hola a todos,
+Meridiad es una empresa ubicada en el centro de Madrid dedicada a la creatividad, comunicación y consultoría de proyectos interactivos.
+Para ampliar nuestro departamento de desarrollo buscamos una persona con experiencia, amante de la programación y de la experimentación creativa a través del código. Trabajarás en proyectos web corporativos, ecommerce, campañas publicitarias, etc.
+Para que te tengamos en cuenta como candidato deberás acreditar tus conocimientos avanzados y experiencia con:
+PHP
+MySQL
+WordPress
+Drupal
+HTML
+CSS
+Javascript
+Desarrollo responsive
+Valoraremos cualquier otro conocimiento que puedas aportar.
+

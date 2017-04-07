@@ -1,0 +1,9 @@
+
+- Minimum 3 years building flash applications in ActionScript 3.0 OOP, Adobe AIR
+- Fully proficient in Flash CS5/CS6, Actionscript 2 & 3, Flash Builder or Eclipse, HTML5, CSS3, jQuery and creative toolsets like Adobe Photoshop, Illustrator  and Dreamweaver
+- Using Flash Builder to build Flash assets from existing Flash files or from scratch
+- Writing and cleaning scalable, reusable, clean code and document it.
+- ActionScript code using international programming rules, object-oriented coding is required
+- Hands-on knowledge of PHP, and/ or MySQL is highly desirable
+- Must also be creative, detail-oriented, highly organized and a hunger to learn continuing developments in the field. Interest in experimenting with new technologies; eager to learn Javascript, HTML and CSS3 experience a plus
+- Good communication skills. English and German language is required

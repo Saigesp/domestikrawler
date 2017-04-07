@@ -1,0 +1,28 @@
+
+We are currently looking for Java / Java EE (J2EE) software developer. In this position you will participate in designing, developing and maintaining ERP software for the retail 
+industry company operating fashion brand stores like Tommy Hilfiger, Guess, 
+Desigual and others in several European countries.
+Responsibilities:
+* Participate in technical analysis and design decisions 
+* Take responsibility for delivering efficient and quality software
+* Be willing and able to explore new techniques to help solve demanding and changing
+business needs
+* Fix the bugs/problems
+* Document the tasks and deliverables
+* Contribute to project planning and reporting
+Requirements:
+* University degree (or graduating) in Computer Science or related degree
+* Ability to effectively communicate in English
+* 2+ years experience in Java / Java EE technologies
+* OOP and common design patterns knowledge
+* Technical competences:
+	Java EE technology stack (JSF, EJB3, JMS, JPA etc.)
+	Hibernate
+	HTML, CSS, JavaScript, AJAX
+	XML standards and related technologies
+	Web Services (SOAP), REST
+	Application servers: JBoss, Tomcat
+	RDBMS: MySQL (MySQL Cluster/Galera is a plus)
+We offer:
+* Competetive salary
+* Flat hierarhy, short decision paths

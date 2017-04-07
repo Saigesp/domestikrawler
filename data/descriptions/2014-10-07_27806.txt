@@ -1,0 +1,40 @@
+
+Esperamos que seas un apasionado del desarrollo web, que tengas un perfil técnico a nivel de programación aunque también poseas nociones de organización y gestión. Necesitamos alguien que pueda tomar requisitos, analizarlos, ver qué y cómo hay que implementar esos requisitos, estime el tiempo necesario para sus tareas y todo esto de forma muy autónoma.
+Necesitamos una persona que aporte ideas al resto del equipo, comprometida y que disfrute al máximo del entorno startup.
+Habilidades:
+Capacidad de trabajar de forma autónoma.
+Agilidad resolviendo incidencias.
+Conocimientos y experiencia con web services.
+Conocimientos en tareas de migración de datos.
+Capacidad para analizar e implementar nuevos requisitos.
+Conocimientos técnicos necesarios:
+- Arquitectura MVC,
+- PHP, Preferiblemente CakePhp,
+- MySQL,
+- Frameworks de Javascript:
+- Prototype,
+- AJAX,
+- Mootools,
+- JQuery,
+- CSS,
+- HTML,
+- Arquitecturas LAMP,
+- Gestión de servidores
+- cURL, jSon, XML
+Necesidad de contrato de autónomo, full time.
+Nuestra visión:
+En Alterkeys creemos que existe una forma diferente de viajar, una en la que te sientas en casa sin estarlo, en cualquier parte del mundo. Pero no queremos que nadie tengo que preocuparse por nada dentro de esta comunidad, por ello, implementamos medidas de seguridad para los dos tipos de usuarios:
+Para los anfitriones:
+- Cuando alquilan su casa/barco/castillo/ etc (sí, tenemos alojamientos realmente alucinantes!) su propiedad queda asegurada automática y gratuitamente con la conocida aseguradora AIG, quien, en su cooperación con Alterkeys ofrece el mejor seguro para anfitriones que existe en el mercado. Cualquier propiedad en Europa, alquilada a través de Alterkeys queda asegurada con hasta 500.000€ para robos y desperfectos.
+- Se asegura de que el huésped ha pagado, incluso antes de que éste llegue. Dado que el huésped paga al confirmarse la reserva, cuando el anfitrión le recibe, no tiene que preocuparse de pedir el pago ni de problemas de impago. Sabe que el huésped ha pagado la cantidad que él ha estipulado y que la recibirá por parte de Alterkeys.
+Para los huéspedes:
+- Cuando realizan una reserva, el pago lo mantiene Alterkeys, y no transferiremos este pago al anfitrión hasta pasadas 24 horas de la llegada del huésped, para que éste tenga tiempo de asegurarse de que todo está conforme a lo que vio en nuestra web, y no haya sorpresas de última hora.
+- No le cobramos ningún %, por lo cual no se lleva desagradables sorpresas cuando va a hacer el pago (¿cuántas veces te ha pasado que vas a comprar un producto o billete pensando en un precio y cuando estás ya casi terminando te ponen nuevas tasas/suplementos/etc?).
+Estos son sólo algunos aspectos a destacar, lógicamente, podríamos escribir muchas más ventajas, pero creo que a modo de introducción te puedes empezar a hacer una idea.
+Dónde está la empresa actualmente:
+- En Octubre de 2012 ganamos el premio de Madrid Emprende & Gestiona Radio al proyecto de mayor viabilidad.
+- En Mayo de 2013 ganamos la convocatoria del programa Lanzadera (impulsado por el presidente de Mercadona Juan Roig), a la que acudieron más de 4.200 empresas.
+- Hemos tenido importantes apariciones en prensa, televisión y radio (TVE, Telecinco, ABC, El País, El Mundo, BBC, COPE –entre otros-).
+- En Junio de 2014 hemos obtenido el premio de Actualidad Económica por ser una de las mejores ideas del año.
+- Tenemos 100.000 alojamientos en más de 5000 ciudades diferentes.
+Y contigo ¡llegaremos mucho más lejos!

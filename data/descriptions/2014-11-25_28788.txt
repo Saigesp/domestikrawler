@@ -1,0 +1,6 @@
+
+Hola,
+Estamos buscando un programador experto en Shopify en Barcelona (freelance)
+En estos momentos tenemos un pequeño problema con un snippet que instalamos según estas instrucciones: https://ecommerce.shopify.com/c/ecommerce-design/t/display-related-products-by-vendor-a-k-a-more-works-by-this-artist-109321
+El caso es que en algunos productos funciona bien y en otros no.
+Ahora mismo tenemos este problema para solucionar, pero la idea es tener un colaborador habitual para cuando surjan temas de programación y desarrollo en Shopify.

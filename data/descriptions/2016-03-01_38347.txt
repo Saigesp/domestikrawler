@@ -1,0 +1,12 @@
+
+Tracor es un Instituto de Postgrado especialista en Comunicación que lleva prestando sus servicios formativos hace 26 años y que colabora intensamente hace aproximadamente 11 años con la Universidad San Pablo-CEU. Todos nuestros Másteres tienen carácter oficial, son muy completos y se desarrollan durante dos años de duración. Nuestra metodología pedagógica está basada en los valores de la autonomía en el aprendizaje (aprender a aprender), así como en la aplicación práctica de todos los conceptos tratados en cada una de las materias que se desarrollan. 
+En la actualidad buscamos incorporar un becario o recién licenciado/FP en prácticas a nuestro departamento de IT para apoyar en la siguientes funciones.
+- Administración de sistemas.
+- Gestión de servidores web LAMP
+- Programación: PHP, Java, HTML5.
+- Gestión de contenidos.
+- Dar soporte a los usuarios tanto a nivel hardware como software.
+- Gestión bases de datos MySQL
+- Funciones administrativas adscritas al puesto.
+Posibilidad de incorporación tanto de media jornada como en jornada completa.
+

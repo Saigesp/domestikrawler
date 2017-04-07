@@ -1,0 +1,24 @@
+
+Oi es una importante agencia inmobiliaria de Barcelona. Se destaca como la empresa más innovadora en su sector, dotando a su equipo y clientes con las herramientas tecnológicas más vanguardistas. Estamos seleccionamos desarrolladores PHP para trabajar en un nuevo equipo que se está creando la siguiente revolución en sistemas informáticos para el sector.
+Oi busca desarrolladores PHP para reforzar su sólido departamento digital. Dentro de uno de nuestros ágiles equipos tendrás la oportunidad de trabajar en proyectos innovadores y desafiantes. Y lo harás no sólo con un equipo consolidado y los mejores expertos, como maestros de scrum, arquitectos informáticos, desarrolladores frontend y desarrolladores backend, sino también con expertos de la comunicación, redactores, creativos y diseñadores. Te esperan proyectos que van desde una plataforma, una API hiper rápida, hasta una atrevida campaña de marketing directo.
+Como desarrollador en Oi tendrás la oportunidad de realizarte (continuar desarrollándote) personalmente de manera permanente y a grandes pasos. Cada año asistirás al menos a una conferencia, tomarás la palabra en reuniones y charlas, trabajarás en software de código abierto y desplegarás tus habilidades en todo lo que hagas. ¡Y si necesitas algo para hacerlo, ningún problema, sólo tienes que pedirlo!
+Del mismo modo, tendrás también la posibilidad de dejar tu huella en Oi y en nuestra manera de trabajar. Trabajamos con métodos ágiles y cada retrospectiva nos enseña lecciones valiosas que luego implementamos. 
+Thomas Edison decía: “siempre hay una manera mejor de hacer las cosas, encuéntrala!” Y cuando la encuentres compártela!, nunca te diremos “...lo venimos haciendo así hace tanto tiempo y ya nos vale.”
+Te damos también la oportunidad de:
+- Asumir la responsabilidad completa de proyectos
+- Trabajar estrechamente con perfiles muy diferentes.
+- Desarrollar la arquitectura de sistemas complejos.
+- Aprender de tus colegas, pero también, enseñarles a ellos.
+- Entregarte completamente en un entorno creativo y muy variado.
+Para todo eso tendrás que tener los siguientes requisitos:
+- Un conocimiento profundo de PHP y de programación orientada a objetos (se valorarán conocimientos de Symfony2).
+- Las bases de datos como MySQL y PostgreSQL no deben tener secretos para ti.
+- Te desenvuelves bien en tecnologías frontend como Javascript (Vanilla, jQuery, Angular, …), HTML y CSS.
+- No te da miedo probar cosas nuevas, Node, Swift, "la siguiente novedad", etc.
+- Hablas, escribes y lees con fluidez inglés.
+- Buscar soluciones utilizando Google y RTFM!
+- Tienes experiencia relevante demostrable. Puedes considerar como experiencia la experiencia laboral, la experiencia en proyectos de código abierto o la experiencia en otro idioma/entorno, y tener muchas ganas de seguir creciendo.
+- Enviar CV con links a trabajos en los que participaste especificando tu rol en cada uno y cómo te destacaste en cada uno.
+¿Qué obtienes a cambio? 
+Tienes la oportunidad de trabajar en un equipo muy motivados con otros desarrolladores backend, con los mejores ordenadores y herramientas a tu disposición. Trabajar en una ubicación privilegiada en Barcelona, una de las mejores ciudades para vivir en el  mundo.
+Por otra parte se ofrece contrato laboral con salario bruto anual de entre 15K y 20K, así como otros beneficios. ¡Tendrás la oportunidad de desarrollar aún más tus habilidades a través de cursos de formación, conferencias y, por supuesto, proyectos desafiantes!

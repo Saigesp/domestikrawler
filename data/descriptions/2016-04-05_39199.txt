@@ -1,0 +1,46 @@
+
+AKTIOS is seeking an Application Architect - Java to work in a permanent position in Barcelona. We are an IT Consultancy who works in different sectors and functional areas of the companies, providing 360º solutions to our clients. 
+The successful candidate will be responsible for analysing and designing high performance solutions and mission critical applications.
+Description:
+As part of our development team, the application architect will predominantly be involved in building business solutions by creating new and modifying existing software applications. The candidate will stretch his skills and grow his careers as a primary contributor in designing, coding, testing, debugging, documenting and supporting all types of applications consistent with the established specifications and business requirements in order to deliver business value.
+If you are passionate about technology and Java... we want to hear from you! 
+The main responsibilities of this person are:
+•	Analyse business requirements
+•	Design solution architecture
+•	Participate actively in development phase
+•	Ensure unit and integration testing and all checking
+•	Follow programming standards and project methodologies
+We need a candidate with these skills and facilities:
+•	Degree educated in Computer Science or a closely related subject 
+•	Good level of English
+•	Minimum 3 year of professional experience with a similar role in development tasks
+Knowledge
+1.	Technical knowledge required:
+a.	J2SE, Spring framework
+b.	SQL
+c.	Apache Maven, Container JEE6        
+d.	XML, JSON and REST API
+e.	Tomcat
+f.	Knowledge of ORM (hibernate, myBatis…)
+g.	Amazon AWS or other cloud providers experience
+h.	Software architecture and design patterns
+i.	Experience in AGILE methodologies 
+Nice to have:
+1.	Official Java Oracle certifications
+2.	Angular JS, Bootstrap, jQuery…
+Abilities & personal qualities:
+•	Integrating vision
+•	Analysis skills
+•	Conceptual and Abstract thinker
+•	Ability to solve technical problems
+•	Technical Leadership Skills
+•	Interpersonal Skills
+•	Multitasker
+•	Organized
+•	Ability to efficiently delegate tasks
+•	Good team player
+We offer
+- Permanent contract 
+- Nice work environment 
+- To be part of a company which provides professional growth opportunities 
+

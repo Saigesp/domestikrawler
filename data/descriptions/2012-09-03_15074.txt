@@ -1,0 +1,49 @@
+
+About the Position:
+
+Dreamstar are looking for a number of highly experienced senior web application developers, and UI/UX designers, both to grow our existing team, and create new teams dedicated to new projects.
+We currently serve over 400 million pages per month (and growing), and the role will be a great opportunity for you to learn how we did it using industry standard applications, programming languages, and development tools.
+In addition to growing the number of users we have using our current sites, we also have a number of brand new projects in the pipeline which could provide the right person the opportunity to make their mark on the future strategy of the company.
+Using well known applications, such as Jira (inc. Greenhopper, Confluence, Bamboo, etc.), we produce applications in PHP and JavaScript using technologies such as NodeJS (with Express &amp; Moustache), MySQL, Solr, Nginx, Zend, Varnish, HA Proxy, Redis, and RabbitMQ.
+Agile is the buzz word around here, and our goal is to deliver working functionality after every iteration - eventually we want to move to continuous deployment.
+We expect all team members to work hard, and play hard, and Dreamstar is committed to providing an enjoyable atmosphere within the working environment in which people can produce their best work.  The ethos here is all about working as a team, we’re not looking for “RockStars”, we’re looking for highly skilled and experienced team players that wish to both share their skills with, and learn new skills from, our excellent team.
+You’ll find Dreamstar to be a well established, solid company, that has a “Startup” mentality - we place a great deal of value on being profitable now, but our focus is on growing a business that has a solid foundation on which we can innovate.
+
+About You:
+
+We are looking for people who’ll easily integrate into the business, and that means someone who shares our vision, ambitions, and more than anything, the same traits as our current teams - i.e. someone who works hard, plays harder, and takes pride in delivering a top quality service to our users.
+You’ll be the sort of person who plays with technology for kicks.  You’ll embrace things that are different, rather than sticking with the ways you know.  Your default answer will be “I can do that”, rather than “It’s not my job”.  You’ll want to develop “kick-ass” solutions, not “It’ll do” code.
+You’ll want your work life to be full of interesting challenges, and will take pleasure in creating new functionality enabling users to get the best from our sites.
+More than anything you’ll be the sort of person who wants to be part of a great team, that shares the praise (and the blame) as a team member, and can work with your peers to ensure both you, and they, are best utilising each others knowledge and experience to produce great products.  
+
+Desired Skills &amp; Experience
+Responsibilities:
+Work with product owner &amp; key stakeholders to understand business requirements - then turn these requirements into working software
+Write unit tests, then the code, to deliver high quality solutions
+Tackle unfamiliar problems, and take the time to discover “best practice”
+Contribute creative and innovative ideas to the business and your team-mates
+Requirements:
+2-7 years of recent experience in hands-on software design and coding
+University Degree/Title in Computer Science or similar (or a great reason for not having one, and believe us, there are plenty)
+Excellent problem solving, creative thinking and self-motivation skills
+Strong design and coding experience in backend development or web UI/UX development or both
+Experience with scripting languages such as PHP and JavaScript
+Experience with MySQL, or other relational database(s)
+European citizenship, or permanent resident status, required
+English language skills (the primary language of the company)
+Preferred skills &amp; abilities (bonus round!)
+The following attributes, while not required, would be valuable to the team and useful in many of the tasks and projects you’ll be assigned:
+Understanding of, and agreement with, Agile principles
+The ability to quickly learn and apply new technologies; experience with programming and debugging in complex distributed environments -OR- Lots of front end web development experience in MVC frameworks, including integrating with complex back end systems and/or web services, and optimizing for responsiveness in front end applications
+Experience in open source technologies with broad skills in technologies such as PHP, NodeJS, Memcached, Boost, AJAX, RabbitMQ, Solr, etc.
+Strong SQL and data model design skills; experience with one or more databases (such as MySQL, Oracle, SQL, PIG, Tokyo Tyrant, Cassandra (and Big Table), Mongo DB, SimpleDB, Redis and/or others) in a production environment
+Experience with jQuery, or similar frontend JS libraries
+Knowledge of web services: both utilization and creation of APIs
+Strong platform skills in Linux
+Participation in the social web (blogosphere, 4chan, youtube, twitter, etc.)
+Experience in a high-energy startup or an enterprise class software company is a plus
+
+Company Description
+Dreamstar Cash was founded in 2003 and focused on creating/managing Adult sites. The Internet was just becoming widespread and it was clear that Adult content was in high demand. The first employee joined the company in 2004, and the first full time developer arrived in 2006. The startup mentality/approach to getting stuff done still forms a major part of the company culture to this day.
+Over the years Dreamstar Cash has moved office 4 times, grown to a team of nearly 20 people and managed to build a network of sites that handle Millions of Visitors per Day, and is constantly on the lookout for new opportunities and business models to explore. http://www.dreamstarcash.com
+

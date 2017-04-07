@@ -1,0 +1,16 @@
+
+Seleccionamos un Técnico de Sistemas con experiencia en:
+- Operación, administración y mantenimiento VMWare
+- Se valorará muy positivamente experiencia no solo en Vsphere sino también en View (VDI)
+- Experiencia en planificación de CPD
+- Experiencia en cableado de datos y enrackado de servidores
+- Montaje de servidores, sustitución de piezas dañadas, consolas
+- Montaje de S.O.(Windows y Linux) con el correspondiente particionado de discos, instalación de drivers, etc.
+Requisitos mínimos:
+o vSphere
+o VMware
+o Windows
+o Linux
+o Cableado
+o Administración
+o Mantenimiento

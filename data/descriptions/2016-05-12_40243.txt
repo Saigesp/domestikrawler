@@ -1,0 +1,14 @@
+
+Hola a todos,
+en Pulpolab buscamos un crack de la maquetación web, experto en HTML y CSS (LESS), pero sobre todo obsesionado por el pixel-perfect. 
+El candidato es alguien que si ve un texto dentro de un botón mal alineado de 1px, le da un ataque al corazón ;)
+Tenemos un proyecto por empezar ahora mismo, de desarrollo modular para el CMS propio del cliente.
+Si te identificas con ese perfil por favor escríbenos y te enviaremos un test online de la duración de 20 minutos con el cual podremos comprobar tu atención para los detalles, no tendrás que escribir nada de código, solo mirar y notar errores.
+Gracias y good luck.
+------------
+Hello everyone,
+in [b]Pulpolab[/ b] we're looking for the best [b] web layouting developer [/ b], expert in HTML and CSS (LESS) but mostly [b]obsessed for pixel-perfect[/ b].
+We look for somebody who if sees a button within a 1px misaligned text, he gets an heart attack.
+We have a project to start right now, and many others in the coming weeks. 
+If you identify yourself with this profile please contact us and we will send an online test (duration of 20 minutes) with which we can check your attention for details, you do not have to write any code, just look and notice mistakes.
+Thanks and good luck!

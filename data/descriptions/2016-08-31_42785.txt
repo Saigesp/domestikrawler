@@ -1,0 +1,19 @@
+
+En boream estamos buscando Analistas Programadores Frontend Senior, con una sólida trayectoria y experiencia en desarrollos con fuerte componente JavaScript, especializados en los frameworks MVC JS.
+Características de la oferta:
+* Incorporación a proyectos de primer nivel, que te permitirán seguir creciendo como profesional. 
+* Formación continua en las tecnologías del sector. 
+* Trabajo presencial en Madrid. 
+* Oferta salarial según valía (>32k €/año).
+Necesitamos que tengas soltura en lo siguiente:
+* Capacidades en el diseño de la Arquitectura Técnica de Frontend. 
+* Javascript experto, aplicado en soluciones SPA/SPI con frameworks MVC como AngularJS y/o ReactJS. 
+* Empleo de Webcomponents con librería Polymer y su ecosistema.
+* HTML5 + CSS3, multidispositivo aplicando técnicas RWD con la aplicación de frameworks como Bootstrap, Foundation o Ionic. 
+* Automatización de tareas con Grunt/Gulp, así como control de versiones en GIT
+* Conocer y tener experiencia en metodologías ágiles tipo Scrum o Kanban. 
+Genial si pilotas o conoces algo de esto otro:
+* Definición y desarrollo de Testing Automático. 
+* Procesos y entornos de Integración Continua.
+* AWS, microservicios y Docker.
+* Y ya la leche es si tienes alguna experiencia “full-stack”, con MeteorJS o NodeJS.

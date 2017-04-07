@@ -1,0 +1,15 @@
+
+My client is a leading iGaming operator with a huge presence in Latam and Spain. They are looking for a Front End Developer to join their bright and innovative development team located at their head office in Barcelona. 
+
+You will join a small and highly experienced team of designers and developers. You will take ownership of a range of new and existing live betting products. You will maintain and improve various systems and web apps that my client holds and creates on a day to day basis. You will enjoy keeping up to date with emerging trends and will be able to advise on the best technology solution for specific project needs. 
+
+Key Responsibilities: 
+Have a strong Javascript experience with Object Oriented Programing
+Knowledge of Node JS
+Be very confident with Html and Css technologies.
+Good knowledge of web services and connections using Xml and Json 
+Skills:
+University Degree in Computer Science or equivalent.
+3 year of experience in similar role
+Spanish or Portuguese and English required
+Good verbal and written English skills

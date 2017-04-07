@@ -1,0 +1,19 @@
+
+En Iwantic, primera agencia española especializada en selección de perfiles digitales, reclutamos a los candidatos más brillantes para los empleos que están cambiando el mundo.
+En este caso seleccionamos para una de las mayores empresas del sector de la Alimentación Europea con sede en Madrid, un Arquitecto Software con experiencia en ANGULARJS.
+Entre las funciones del puesto se encuentran:
+Diseño, evolución y mantenimiento de las arquitecturas software de sistemas de tienda y web (fundamentalmente en las arquitecturas de Front-End).
+Coordinación técnica de los desarrolladores de FrontEnd.
+Experiencia en metodologías ágiles (Valorable SCRUM).
+Soporte técnico a los equipos de desarrollo.
+Asegurar el cumplimienbto de las buenas prácticas de usabilidad y maquetación.
+Control de la calidad de los desarrollos.
+Elaborar documentación de procedimientos y recomendaciones de arquitectura.
+Requisitos necesarios:
+Titulación universitaria (preferiblemente Informática).
+Al menos 3 años de experiencia profesional.
+Conocimientos y experiencia en Arquitecturas de Front, tales como HTML5 / JavaScript: AngularJS (imprescindible), así como experiencia en arquitecturas Back - Java/Spring.
+Se valorarán conocimientos de maquetación.
+Valorables conocimientos de Scrum.
+Se ofrece pertenecer a una de las mayores empresas del sector, estabilidad y plan de carrera.
+ 

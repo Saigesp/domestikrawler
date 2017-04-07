@@ -1,0 +1,11 @@
+
+En Playroom estamos buscando un perfil de Desarrollador Web con las siguientes características:
+- Programación front-end (XHTML + CSS + jQuery)
+- Programación back-end (PHP)
+- Conocimiento de Base de Datos MySQL
+- Desarrollo web con CMS: Wordpress
+Se valorará también:
+- Conocimientos en diseño web responsive
+- Desarrollo de aplicaciones Facebook
+- Nociones sobre plataformas de video
+- Sistemas

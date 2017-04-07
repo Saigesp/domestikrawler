@@ -1,0 +1,8 @@
+
+Buscamos un perfil de programador y desarrollador web para unirse a nuestro equipo. Requisitos 
+Tecnologías: PHP, Symfony, Magento, Javascript, CSS, MySQL. Se valorará
+experiencia en Web services, OAuth, Rabbit MQ, Testing (Php Unit),
+Administración de servidores Linux, Bootstrap, maquetación web, Responsive
+Design, JQuery, Backbone JS, Control de versiones (GIT), Zend Framework.
+Horario de Lunes a viernes de: 09:00 a 14:00 y de 16:00 a 19:00
+

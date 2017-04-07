@@ -1,0 +1,10 @@
+
+Buscamos un desarrollador iOS y web para realizar la primera versión comercial de nuestra app Teistus.
+Teistus pretende ser un sistema de valoración de restaurantes con recompensa monetaria en el que los usuarios ganan dinero por sus valoraciones sobre restaurantes.
+Teistus generará así big data suficiente para vender packs de información a los restaurantes y también les permitirá notificar y promocionarse mediante notificaciones push a nuestros usuarios.
+El producto está diseñado, el mercado estudiado y la estrategia planeada, tenemos la financiación y buscamos al desarrollador que nos lance al mercado.
+La persona interesada deberá tener cierto carácter emprendedor, conocer las responsabilidades y limitaciones de una startup emergente y tener la capacidad de llevar el proyecto a cabo de forma total, necesitamos que sepa de iOS y que pueda diseñar una plataforma web para la gestión de los datos extraídos de la app.
+No es necesario estar titulado siempre que se sepan hacer las cosas bien.
+Ofrecemos un salario + posibilidad de acciones de la compañía.
+*Agencias, empresas,... tenemos muchos presupuestos para subcontratar, buscamos un desarrollador técnologico comprometido con el proyecto por lo que si aceptamos una empresa será a cambio de un precio bajo y cediendo acciones para exigir compromiso.
+Más información en www.teistus.com

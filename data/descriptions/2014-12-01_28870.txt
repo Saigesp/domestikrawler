@@ -1,0 +1,16 @@
+
+AKTIOS CONSULTORA IT de Barcelona, actualmente requiere un perfil PROGRAMADOR .NET. Por nuestra parte, explicarte que somos una Consultora IT que trabaja con diferentes empresas y sectores. Actualmente, una de las empresas multinacionales con las que trabajamos de manera Outsourcing, requiere de un perfil Programador.NET Junior para poder desarrollar diferentes proyectos dentro de la programación web /escritorio.
+Descripción:
+Un Programador .NET debe aportar capacidad de desarrollo, adaptación a las metodologías de desarrollo y trabajo en equipo. Además, es importante la capacidad para realizar diseños técnicos, para poder ir creciendo profesionalmente asumiendo nuevas responsabilidades. 
+Requisitos:
+Las capacidades técnicas que requerimos en este ámbito son conocimientos y experiencia  en:
+- Plataforma .Net (C#, VB, ASP, XAML) - C / C++/HTML 5 / XHTML 4.0 + Javascript - XML 
+Tecnologias:
+- WPF - WCF / Wsdl - Silverlight + RIA Services - Entity Framework - LINQ - .Net Compact (PDA) - MVC 3 / 4 / - Entity Framework 4 
+Bases de datos: - SQL Server – MySQL.
+Te ofrecemos:
+• Estabilidad laboral.
+• Perspectivas de crecimiento y proyección profesional.
+• Oportunidad de integrarte a un equipo de profesionales altamente cualificados.
+• Incorporarte en un equipo joven y entusiasta.
+• Salario a negociar en función de la valía y experiencia.

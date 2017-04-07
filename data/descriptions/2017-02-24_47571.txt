@@ -1,0 +1,11 @@
+
+Estamos buscando a un Analista programador con conocimientos sólidos de PHP, concretamente en Symfony 2+, para trabajar en una empresa Portal de venta de entradas online.
+Participará en el desarrollo y mejoras de su plataforma, así como nuevos productos y funcionalidades relacionadas con el ticketing y con el control de acceso, que van a lanzar al mercado. 
+La persona que buscamos debe ser responsable, organizada y metódica, con capacidad de trabajar en un entorno ágil y con plazos definidos.
+Requisitos mínimos:
+- Experiencia demostrable y buen nivel de desarrollo en Symfony 2+ (creación de bundles, doctrine, security, routing, services, event dispatcher, forms, dependency injection)
+- Experiencia creando tests unitarios/funcionales (PHPUnit)
+- Cuidado y orden a la hora de aplicar las buenas prácticas y organización de clases/código
+- Experiencia creando y consumiendo webservices y servicios RESTful, autenticación OAuth
+- Conocimientos básicos de Redis / SQL
+- Control de versiones GIT

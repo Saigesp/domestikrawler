@@ -1,0 +1,8 @@
+
+Somos Studioclam empresa centrada en la realización de apps e infografías. 
+Estamos buscando un Front-end y un back-end developer para la realización de una plataforma en la que se incluya un juego en formato quiz basado en samples de audio.
+Se tendría que realizar la plataforma, así como el juego y la posible compartibilidad con diferentes plataformas como Facebook, google +.
+Falta definir el precio de la oferta ya que aún estamos definiendo el contenido de la plataforma y dependerá del trabajo exacto que se tenga que hacer.
+Un saludo, 
+Ferran, dirección Studioclam.
+

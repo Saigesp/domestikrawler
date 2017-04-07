@@ -1,0 +1,39 @@
+
+Start-up de venta online, especializada en el sector de la motocicleta, con distintas líneas de negocio, se encuentra en expansión nacional e internacional. 
+•	Somos E-commerce con modelo de negocio drop shipping. Cuanto más compleja sea la integración y la casuística, más retos se nos presentan, esto nos mola, nos va la marcha. 
+•	Somos un sitio de Alto tráfico, tenemos mucha concurrencia. 
+•	Generamos un montón registros en la BBDD. Hay que ser super cuidadoso con los datos, es el activo de la empresa!
+•	Buscamos hacer el mejor código: Programamos en PHP y mantenemos en mente los conceptos  SOLID, KISS, DRY y YAGNI.
+•	Somos multidevice, por lo que estamos a la última en temas frontend (HTML5, responsive, less).
+•	Tenemos una app nativa y nos comunicamos con ella con una API REST super molona.
+•	Trabajamos con SCRUM, todos sabemos lo que hay que hacer y sabemos lo que hacen los demás
+Misión
+Conjuntamente con el equipo de Desarrollo de IT, tendrá como misión aplicar nuevas funcionalidades, optimización y mantenimiento del código en todos sus procesos.
+Requisitos de formación: Ingeniero informático
+Requisitos técnicos básicos e impresicinbles:
+-	Experiencia en programación PHP5
+-	Experiencia en programación POO
+-	Alto conocimiento de SQL
+-	Comodidad en un entorno UNIX
+-	Conocimiento en sistemas de control de versiones(GIT/SVN). 
+-	Experiencia de programación con JavaScript y jQuery. 
+-	Experience with web services (REST, SOAP)
+Requisitos técnicos valorados como PLUS:
+•	Experience with usual Design-Pattern
+•	Experiencia con bases de datos NoSQL
+•	Experiencia con Continuous Integration
+Requisitos técnicos DESEABLES:
+•	Familiarizado con el testeo de frameworks PHPUnit, PHPSpec, Behat, scripted testing, BDD/TDD
+•	Familiarizado con el “Test Driven Development” e integraciones contiunas. 
+Requisitos de experiencia:
+•	Experiencia mínima de 3 años en una posición de Programador PHP 5 y desarrollo en POO
+•	Experiencia en entornos e-commerce
+•	Persona metódica con alta capacidad de trabajo, proactividad, habilidades comunicativas, trabajo en equipo, visión de negocio y orientación a resultados. 
+•	Valorable conocimientos del sector de la motocicleta.
+Se ofrece
+•	Empresa joven en pleno crecimiento y expansión a nivel nacional e internacional.
+•	Buen ambiente de trabajo, con un focus elevado a la orientación a resultados y a la productividad.
+•	Potenciamos el desarrollo y el crecimiento profesional. 
+•	retribución en función de la experiencia
+•	posibilidades de crecimiento y de desarrollo
+

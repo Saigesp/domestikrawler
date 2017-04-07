@@ -1,0 +1,21 @@
+
+Importante empresa internacional dedicada al desarrollo de software de la gestión para grandes empresas y con sedes en Singapur, Londres y Hong Kong, precisa de Sénior Developer Node JS para su nueva sede ubicada en Málaga.
+Requisitos
+Experience in BDD and TDD for testing SPA applications using E2E (Selenium, Protactor) and Unit testing (The Intern, Karma).  
+Experienced with web technologies: HTML5 APIs, CSS3 and JavaScript standard ES6.
+Experience with reactive and functional programming.
+Experience with visualizations libraries like D3 with SVG, Canvas or WebGL.
+Experienced in latest web standard transport protocols (Web Sockets, SSE, HTTP2 and Real time Pub/Sub)
+Experienced in Single Page Web Applications and knowledge in new JavaScript frameworks like Polymer or Aurelia.
+Experienced with rendering libraries like Virtual-Dom or ReactJS.
+Experienced with unidirectional data flow like Flux architectures.
+Experienced in asynchronous programming with NodeJS and NPM packages.
+High level of English
+Funciones
+.- Reviewing current systems
+.- Presenting ideas for system improvements
+.- Producing detailed specifications and writing the program codes
+.- Testing the product in controlled, real situations before going live
+.- Deliver implementations in accordance with coding standards and conventions.
+Ofrecemos
+Salary Gross Anual: Negotiable

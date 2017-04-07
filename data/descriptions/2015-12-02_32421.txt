@@ -1,0 +1,13 @@
+
+Buscamos Desarrollador web, recién Licenciado y con muchísimas ganas de trabajar o agencia que de soporte. Hay posibilidades reales de hacer un plan de carrera.
+Dependerá directamente de la persona encargada del desarrollo de la plataforma, y se busca que sepa de Front End y Reponsive. 
+Los conocimientos que se valoraran a parte son: 
+-HTML5 
+-JQUERY 
+-CSS3 
+-J2EE: Experiencia con Spring MVC usando JSP para las vistas y Hibernate+JPA. 
+-BBDD: MySQL 
+-Movil: Android (Java) o iOS (Swift). Una de las dos. 
+-Gestión de código: GIT ,o similares.
+Pedimos máximo compromiso e implicación. Es una oportunidad única, para entrar a formar parte de una proyecto muy ambicioso. 
+La incorporación será inmediata.

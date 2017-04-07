@@ -1,0 +1,36 @@
+
+Descripción de la oferta
+Departamento Técnico
+Estamos buscando un desarrollador senior con experiencia contrastable en desarrollo de aplicaciones web basadas en Magento o Zend Framework en general, PHP, MySQL, patrones de programación y bases de datos.
+Las funciones del puesto de trabajo será el desarrollo y mantenimiento de funcionalidades sobre plataforma Magento, tanto en la tienda ya existente como en todas las integraciones, nuevas funcionalidades y evoluciones del producto.
+Se valorará muy positivamente:
+• Experiencia con Magento o cualquier otra plataforma de e-Commerce
+• Experiencia en administración de servidores Debian
+• Se valorará experiencia en maquetación en html5 con jquery.
+El candidato/a seleccionado se integrará en un equipo existente de 4 personas entre backend y frontend.
+
+Algunas de las metodologías y tecnologías con las que trabajará son:
+• GIT
+• Linux
+• Magento
+• PHP5 & PHP-FPM
+• MySQL
+• SOAP / REST
+• Wordpress
+Requisitos:
+•  Estudios mínimos:
+Ingeniero Técnico - Técnico en Informática de Gestión
+Experiencia mínima:
+• Al menos 2 años
+Conocimientos necesarios:
+• Magento, PHP, Mysql
+Sobre Aomm.tv
+Somos una startup de nueva creación que hemos desarrollado una plataforma online en español que ofrece clases de yoga y pilates rodadas en vídeo que se pueden practicar en cualquier lugar y a cualquier hora para adaptarse al ritmo de vida de cada persona. El yoga y el pilates son dos técnicas muy eficaces para mantenerse en forma y llevar a una vida saludable y por eso las queremos hacer accesibles a personas hispanoparlantes de todo el mundo a través de nuestra plataforma.
+La plataforma ofrece lo siguiente:
+Un amplio catálogo de vídeos con clases de yoga, pilates y meditación de distintos estilos, profesores, niveles y duraciones. El usuario puede elegir las clases que mejor se adaptan a sus necesidades y practicar cuando y donde quiera. El catálogo se va ampliando todas las semanas con la incorporación de nuevas clases.
+Programas personalizados de prácticas y clases por ejemplo para ponerse en forma, combatir el estrés o mejorar la salud de la espalda.
+Un blog con contenidos de vida saludable como consejos de nutrición, artículos y entrevistas con expertos.
+Acceso a todas las clases y los contenidos de la  plataforma a través de un ordenador, una TV o cualquier dispositivo móvil.
+Nuestro equipo
+Nuestro equipo actual está formado por 5 personas del sector tecnológico, el mundo del yoga,  la producción audiovisual, el marketing  y la comunicación. Nos apasiona el yoga y la tecnología, y tenemos una gran motivación por el proyecto.
+

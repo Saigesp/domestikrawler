@@ -1,0 +1,29 @@
+
+Purpose of the Role:
+FloraQueen is hiring Wordpress / Woocommerce Developer! We are building a lot of web-based tools both for our customers and staff. We are looking for someone with strong skills in web standards and development who is a TECH passionate to join our PHP team.
+Key Responsibilities:
+•	Highly proficient with PHP and extensive exp. with WordPress (themes, plugins, 3+ years of experience)
+•	Extensive expertise working in Woocommerce
+•	Experience with mySQL
+•	High skills with the following technologies: XHTML, CSS, JavaScript (JQuery is a must).
+•	Be familiar with: HTTP protocol, scalable web apps, Memcached
+•	Written and Spoken English
+•	Ability to learn new technologies
+•	Ability to work in GNU/Linux environment
+•	Be familiar with essential SEO duties
+Essential Skills:
+•	Experience with ecommerce websites
+•	Experience with high traffic websites
+•	Experience working with sites having a huge amount of concurrent users
+•	Be strong in other programming languages (such as Python)
+Education
+•	Honours degree level education in relevant discipline (such as Computer Science, HCI,
+Architecture or Design), or equivalent demonstrated knowledge.
+Personality
+•	Creative
+•	Smart
+•	Keep it simple
+•	Curiosity for knowledge
+•	Desire to share your experiences and knowledge
+•	Being able to focus on your duties
+

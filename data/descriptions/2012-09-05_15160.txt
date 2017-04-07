@@ -1,0 +1,24 @@
+
+Madridnyc busca incorporar a su plantilla un Analista Programador Sénior PHP para proyecto en importante cliente final, líder internacional del mercado de directorios, servicios de publicidad y marketing directo.
+Funciones: Servicio con alto expertise en PHP5, JS, HTML5 y MySQL, con dominio de la programación orientada a objetos, modelo vista controlador, patrones de diseño y elaboración de documentación técnica.
+Requisitos mínimos:
+- Experto en PHP5 y MySQL, con experiencia de al menos 5 años.
+- Experiencia probada en el framework Yii.
+- Uso de sistemas de control de versiones (svn) y motores de plantillas (twig, smarty)
+- Ant y Maven para la generación de buidls y teamcity para sistema de integración continua
+- Amplios conocimientos de Javascript: jQuery,...
+- Integración con servicios web
+- Experiencia en orientación a objetos, patrón MVC, DAO y aplicación de patrones de diseño
+- Cumplimiento de estándares de seguridad en desarrollo web
+- Documentación de la solución usando notación UML (preferiblemente con Entreprise Architect)
+- Nivel alto de inglés. Surgirá la necesidad de comunircarse al menos vía email con equipos de habla inglesa.
+Requisitos deseados:
+- Experiencia con pruebas unitarias (unit testing)
+- Certificación Zend PHP 5.3
+- Certificación MySQL 5 Developer
+- Disponibilidad inmediata de incorporación
+Te ofrecemos:
+- La oportunidad de desarrollar tu carrera profesional en una empresa dinámica, emprendedora y creativa y trabajar en proyectos innovadores y con herramientas de última generación. 
+- Poder desarrollarte profesionalmente en proyectos estables y de envergadura, rodeado de un gran equipo de profesionales, altamente cualificados y motivados.
+- Plan de Formación que contempla tanto formación Técnica específica, de Habilidades para el desempeño de tu trabajo diario y de Idiomas
+ABSTENERSE AQUELLAS PERSONAS QUE NO CUMPLAN REQUISITOS. CLIENTE EN MADRID, TRABAJO PRESENCIAL.

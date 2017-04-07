@@ -1,0 +1,30 @@
+
+In netRivals we help hundreds of businesses optimize their sales adopting real-time pricing policies. To achieve so, our systems compare millions of products on a daily basis so that our customers are able to find their rivals.
+We work in more than 20 countries for big and small customers without discrimination and we are aiming to democratize the analysis of prices and competitors. We want that both retailers and brands get an accurate vision of their markets in real time at an unbeatable price. 
+Do you want to join us and help our customers become more competitive?
+The Role:
+Are you the owner of an inquiring mind? Do you believe that technology can help you speed up decision-making and find solutions faster? Then, netRivals might be the place for you.
+We are currently looking for a dynamic individual who’s keen on web applications development and willing to join our young, enthusiastic and multidisciplinary team. 
+As a Developer, you will engage with an experienced cross-disciplinary staff to bring innovative ideas to our applications. You must be responsive, flexible and able to succeed within an open collaborative peer environment.
+If you meet these requirements, we would like to hear from you!
+Basic Qualifications:
+* 2+ years of programming experience and at least two years of recent work in PHP 5
+* Knowledge of OOP
+* Good knowledge of HTML, CSS and Javascript (also jQuery & Ajax)
+* Good knowledge of MySQL
+* Good knowledge of LAMP environment
+* Working knowledge of source control tools (Git)
+* Strong analytical and problem-solving skills
+Preferred Qualifications:
+* Boostrap
+* Automated Testing Tools: selenium/phantomjs/jasmine or similar
+* Backend testing tools: PHPUnit
+* Deployment experience
+* Knowledge on noSQL technologies such as Solr, Sphinx, Elastic, Hadoop, MongoDB
+* Knowledge on eCommerce CMS (Magento, Prestashop, OpenCart, Shopify...)
+This is what we offer!
+Exceptional work environment
+English Courses
+Competitive salary
+Flexible working hours: 8 - 10h / 17 - 19h
+Fridays working hours: 8 - 10h / 14 - 16h

@@ -1,0 +1,44 @@
+
+Precisamos incorporar en nuestras propias oficinas de Barcelona centro un Técnico de Sistemas.
+En tu incorporación pasarás a formar parte del equipo de Sistemas. Seguirás un programa de Bienvenida, Formación, Evaluación del desempeño, Gestión del potencial, y Plan de carrera.
+Con muchos proyectos en curso y otros por formar nuevos equipos, necesitamos un Técnico de Sistemas con los siguientes requisitos:
+Requisitos mínimos:
+- Licenciatura Ingeniero Superior o Técnico de Informática (Gestión o Sistemas), grado de Ingeniera Informática o cursando
+- Capacidad de trabajo en equipo
+- Persona comprometida, organizada, empática y con facilidad de trato al usuario final
+- Capacidad de multitarea, proactividad, y orientada al resultado
+- Habituado en redacción de procedimientos tecnológicos
+- Nivel medio de inglés
+Mínimo dos años de experiencia en:
+- Administración servidores familia HP y Dell
+- Administración en Windows Server 2008/2012 (Active Directory, DNS, DHCP, Directivas de seguridad, File Server, Print Server, Actualizaciones WSUS, IIS Server 7.5, 8.5)
+- Administración SQL Server 2008/ 2012 /2014
+- Administración Vmware 5.x 6.x
+- Administración de servidores LINUX: Centos, Ubuntu…
+- Administración copias de seguridad:
+    * Veeam Backup Essentials 7.x /8.x
+    * Backup Exec 2013/2015
+- Conocimientos de routing, switching
+- Administración MCaffe 5.3.x
+- Monitorización del sistema (nagios, cacti…)
+- Administración Firewalls, puertos, reglas
+- Administración del correo: Google Gmail, Google Groups etc
+- Soporte técnico usuarios
+Requisitos Deseados:
+- Conocimientos de Cabinas NetApp
+- Conocimientos de seguridad:
+- Securización de servidores
+- Gestión de Vulnerabilidades
+- Correlación de eventos de seguridad
+- Gestión de incidentes: IPS, IDS
+- Gestión de DLP
+- Seguridad perimetral. Tecnología Sonic Wall
+- Criptografía básica: criptografía simétrica, asimétrica, y protocolos de comunicación
+- Conocimientos ISO 27001, ISO 9001, LOPD, LSSI
+- Conocimientos de ITIL
+- También valoraremos un nivel alto de inglés.
+Ofrecemos un contrato indefinido con retribución salarial acorde con la experiencia aportada, y oportunidades reales de promoción y crecimiento.
+Trabajarás a jornada completa con flexibilidad horaria y organizativa (formalizada). Todos los viernes del año la jornada es intensiva, y dispondrás de 21 días más de tu elección para trabajar con jornada intensiva a lo largo del año.
+Dispondrás de beneficios sociales, plan de conciliación laboral y familiar y plan de compensación flexible.
+La incorporación es estable, buscamos dimensionar nuestros equipos de estructura para seguir mejorando con tu ayuda.
+Salario a convenir según experiencia.

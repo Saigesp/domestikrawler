@@ -1,0 +1,17 @@
+
+We are looking for web/db developers to expand our development team.
+We are looking for very dynamic people that fit into a mobile profile. The job is going to be performed remotely always, with occasional in-person attendance meetings. This job positions are meant to be permanent in the company.
+Responsibilities
+------------------
+The candidate would be part of the development team reporting to the Dev Team Manager, and would be performing either one of these tasks, according to your skills:
+- HTML CSS composition (HTML5, CCS3)
+- UI Front-end development (HTML5, CSS3, Javascript, jQuery, JSON, Intersystems Cache)
+- Server Side DB development ( Intersystems Cache, SQL)
+Skills
+----------
+Required Mandaroty skills:
+- English
+- HTML, CSS, SQL, JavaScript
+Preferred Skills:
+- Intersystems Cache
+- jQuery, JSON, XML

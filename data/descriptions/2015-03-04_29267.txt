@@ -1,0 +1,15 @@
+
+En SmartPort buscamos un desarrollador de iOS con  experiencia  para incorporarse de forma inmediata en nuestro equipo.
+Somos un equipo dinámico y flexible, que solo buscamos una cosa: ¡Ser el puerto mas grande del mundo!
+Para ellos necesitamos un desarrollador/a iOS para nuestra aplicación SmartPort en iPhone/iPad. 
+Es ideal que el perfil que buscamos cuente con conocimientos y dominio de:
+- X-code
+- Objective-c
+- Cocoa framework/foundation
+- CoreData.
+- MVC.
+-Swift es deseable.
+- Git
+- Proceso de despliegue y configuración de cuenta en Apple.
+- Dominio del idioma inglés es deseable.
+Si quieres saber de nosotros, visita www.smartport.io

@@ -1,0 +1,16 @@
+
+Main functions:
+•	Exploitation of Data Warehouse (extraction, purification and processing of data).
+•	Identification and quantification of predictive relationships in the data provided by the client, to transform information into useful knowledge facilitated business.
+•	Identification of variables to be used as inputs in the predictive model.
+•	Development of simulation models.
+•	Application of combined techniques of multivariate analysis.
+•	Mathematical internal customer support in order to maximize profitability.
+•	Support in Big Data solutions presale tasks.
+•	Integrate dashboards, for reporting.
+•	Requirements gathering.
+Main requirements:
+The successful candidate must have a minimum of 4 years experience in data mining efforts, having been the last two Big Data environment. Must prove experience in PHP / PL / SQL programming and R.
+It is required University degree in Mathematics, Physics, Statistics or Computer Science. It is also essential to demonstrate high level of English.
+Regarding to personal skills, the candidate must have strong analytical and communication skills. Must be a proactive person, willing to work in collaborative environments.
+

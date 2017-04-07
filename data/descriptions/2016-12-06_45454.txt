@@ -1,0 +1,25 @@
+
+WANUP, spin-off de Catalonia Hotels & Resorts especializada en programas de fidelización para el sector hotelero desea incorporar un/a Product Owner Procesos para sus oficinas centrales en Barcelona. En el modelo que planteamos para Wanup, los Product Owner de aplicaciones estarán en las áreas de negocio y los Product Owner de aplicaciones estándar y procesos estarán en IT.
+Sus principales funciones y responsabilidades para el puesto serán:
+- Definir el roadmap de los productos tecnológicos basados en aplicaciones estándar que configuran el mapa de sistemas de información de Wanup, como Salesforce, Integraciones y otros sistemas principalmente de Back Office.
+- Redactar las funcionalidades en base a user stories en la herramienta de gestión con su formato y Acceptance Criteria.
+- Coordinar funcionalmente con los demás PO de Wanup, la inclusión en el backlog de cada equipo de desarrollo de producto las funcionalidades necesarias acorde a las prioridades establecidas.
+- Coordinar con los proveedores de implantación el correcto entendimiento y definición de los requerimientos.
+- Mantener priorizado el backlog de cada ciclo de desarrollo alineado con las prioridades de la compañía.
+- Realizar la gestión del cambio y la formación a los usuarios de negocio.
+- Realizar la User Acceptance Test (UAT) de las funcionalidades durante el sprint.
+Buscamos un perfil analítico con 2 años de experiencia mínimo en definición funcional de aplicaciones estándar como Salesforce y aplicaciones de backoffice.
+- 2 años de experiencia como Product Owner y/ o analista funcional.
+- Conocimientos en definición de procesos.
+- Conocimientos de herramientas estándar como CRM (preferentemente Salesforce), integraciones entre sistemas, aplicaciones de backoffice.
+- Experiencia demostrable de colaboración con equipos de desarrollo de software, mínimo 2 años.
+- Valorable formación en Ingeniería.
+- Idiomas: inglés y español (ambos fluidos).
+- Perfil analítico metódico y detallista.
+
+¿Que ofrecemos?
+- Posición full time y contrato indefinido (con 6 meses de prueba).
+- Salario competitivo (según perfil y nivel de experiencia).
+- Incorporación máxima: Enero 2017.
+- Trabajo desde nuestro HQ de Barcelona, en un ambiente dinámico e internacional.
+- Oportunidad de crecimiento profesional en la empresa.

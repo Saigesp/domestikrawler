@@ -1,0 +1,13 @@
+
+En Novigo (empresa de soluciones interactivas del Grupo Secuoya), precisamos la incorporación de un desarrollador web (front-end developer) con al menos 2 años de experiencia laboral, para puesto a jornada completa (9 a 14:00h y de 15:00h a 18:00h), con conocimientos en HTML, CSS, Javascript y Diseño web.
+Requisitos mínimos: 
+ - HTML5 y CSS3.
+- Responsive Design - media queries 
+- Entorno Bootstrap
+- Implementación y maquetación de Javascript y jQuery.
+- AngularJS.
+- Estudios: Licenciado o ciclo formativo superior.
+Se valorarán conocimientos en:
+- Diseño de look&feel para prototipos y maquetas (Photoshop, Ilustrador).
+- UX / UI 
+- Usabilidad

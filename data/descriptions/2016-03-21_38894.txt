@@ -1,0 +1,13 @@
+
+Buscamos a un programador con experiencia contrastada en el desarrollo de aplicaciones móviles (smartphones, tablets y wearables) en Android e iOS para nuestros próximos proyectos.
+Experiencia requerida:
+- Android: desarrollo de aplicaciones nativas con Android SDK, Android Studio y las diferentes versiones de su API.
+- iOS: creación de proyectos con XCODE.
+- Buenas capacidades de gestión de los proyectos en todas sus fases de creación, desarrollo, y fases de control de calidad.
+- Conocimientos de control de versiones, posicionamiento ASO y publicación en Google Play Store y App Store.
+Se considerará importante la experiencia en otros ámbitos de desarrollo como programación web en C# .NET y Sql Server, así como tecnologías HTML5/CSS3.
+Formará parte del departamento de desarrollo y colaborará estrechamente con las áreas de Marketing.
+Ofrecemos:
+Infoe.es (Infoestructura) es una empresa de servicios profesionales de comunicación en la nube que lleva más de 25 años en funcionamiento y 15 de ellos trabajando en Internet. Ofrece fax virtual, sms por volumen y centralita virtual.
+Somos una empresa sólida afincada en Madrid con un equipo humano multidisciplinar que consigue ofrecer el mejor servicio a nuestros clientes. Durante los últimos años hemos crecido y creemos que si un profesional es bueno, éste debe crecer también. Apostamos por nuestros empleados.
+

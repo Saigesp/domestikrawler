@@ -1,0 +1,27 @@
+
+Si te encanta tu profesión como desarrollador y trabajas habitualmente con PHP y Javascript, queremos conocerte :-)
+Regalador.com es la mayor tienda de regalos online de España. Buscamos un nuevo compañero que lleve años trabajando con frameworks PHP, a quien le guste desarrollar con orientación a objetos y utilizando las mejores prácticas y que odie reinventar la rueda. Queremos aprender de ti y que aprendas de nosotros para juntos hacer de Regalador.com una tienda cada día mejor.
+Disfrutamos de una estupenda y luminosa oficina en Alcobendas.
+Aquí tienes todos los detalles del puesto:
+Tareas
+- Mantener y mejorar la infraestructura backend y frontend.
+- Analizar, diseñar y desarrollar nuevas funcionalidades y mejorar las actuales, siempre teniendo en mente al usuario final y la calidad del código.
+- Tener un ojo en cualquier tecnología que consideres interesante y pueda ser útil en el futuro.
+- Aportar nuevas ideas y conocimientos.
+Requisitos técnicos y de experiencia
+- Control absoluto de PHP y Javascript orientado a objetos en su interacción con HTML y CSS
+- Experiencia mínima de 3 años como desarrollador en equipo usando GIT
+- Soltura con Linux, LAMP y SQL
+- Tener la visión global de la arquitectura que rodea una aplicación web de última generación (tecnologías, interacciones, seguridad, protocolos, tiempos...)
+- Aplicar buenas prácticas de desarrollo (¿SOLID significa algo para tí?, TDD...) 
+- Código propio como ejemplo de trabajo
+Requisitos personales 
+- Autonomía y responsabilidad para definir, valorar y gestionar de forma ordenada todas tus tareas y poder desconectar de ellas cuando el contexto lo exija
+- Capacidad de análisis y creatividad para la resolución de problemas
+- Capacidad de de autoformación continua
+- Entender, analizar y aceptar de forma relajada, las fortalezas y debilidades de cada tecnología
+- Inglés medio
+- Y, sobre todo, ser buena persona y disfrutar trabajando con otra buena gente
+Requisitos deseables
+- Inglés alto
+- AngularJS, AWS, TDD, Node, SASS, Composer

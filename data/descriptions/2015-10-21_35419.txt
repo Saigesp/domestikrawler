@@ -1,0 +1,35 @@
+
+Empresa desarrolladora de plataformas online multidispositivo, busca el siguiente perfil:
+Programador Senior
+Perfil Base (más de 2 años en)
+Microsoft SQL Server
+ASP
+PHP
+Javascript
+AJAX
+HTML5
+CSS3
+Control de versiones SVN
+Medio (más de 3 años en): 
+Drupal
+Creación de módulos
+Servicios web
+Temas
+Vistas
+Entidades
+Desarrollo para móviles
+Phonegap
+Android
+IOS
+Administración de servidores
+Medio (más de 5 años en):
+Gestión de proyectos
+Planificación
+Gestión de recursos
+Gestión de desastres
+ITIL
+TRAC
+Redmine
+CRM
+ERP
+Virtualización

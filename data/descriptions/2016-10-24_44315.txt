@@ -1,0 +1,34 @@
+
+Innovadeluxe Diseño y Desarrollo, busca programador para desarrollo de módulos y plantillas para Prestashop y aplicaciones web a medida para trabajar en nuestra oficina en Alcalá de Henares (Madrid). Si no tienes trabajo o quieres cambiar para formar parte de una empresa con mucho futuro y con proyectos muy interesantes, ponte en contacto con nosotros y cuéntanos toda tu experiencia en el mundo del desarrollo web.
+Buscamos solo programadores PHP con experiencia demostrable aunque no sea necesariamente con PrestaShop (tendrás formación interna de PrestaShop), pero se valorará mucho que ya hayan trabajado con PrestaShop.
+ Tus responsabilidades serán:
+• Desarrollar módulos PHP para PrestaShop
+• Modificación (CSS) de plantillas para PrestaShop
+• Desarrollo de aplicaciones a medida
+• Trato con clientes en el proceso de desarrollo
+• Servicio de soporte a clientes internacionales (por e-mail)
+
+Se requiere (IMPRESCINDIBLE):
+• Ingeniería informática o Ingeniería Técnica o FP de Grado superior
+• Información sobre proyectos realizados (se confirmará su experiencia)
+• Experiencia demostrable, mínimo 1 año
+• Buen nivel demostrable de programación con PHP
+• Buen nivel demostrable de programación JavaScript (jquery y similares)
+• Buen nivel demostrable con bases de datos MySQL
+• Buen nivel demostrable de maquetación con CSS (Bootstrap)
+• Nivel alto de Inglés o Francés para dar soporte a clientes internacionales
+
+También valoraremos:
+• Buen nivel de Smarty
+• Buen nivel de Symfony2 u otros frameworks para desarrollo de aplicaciones a medida
+• Buen nivel de Prestashop
+• Buen nivel de otros idiomas
+• Se tendrá muy en cuenta los candidatos bilingües (Español/francés o Español/Italiano o Español/Inglés)
+Tipo de relación:
+Buscamos un programador para incorporación inmediata en plantilla. Dicha persona será parte de un equipo de trabajo presencial (oficina en Alcalá de Henares), dónde podrá aportar y aprender. Aunque el trabajo es presencial en la oficina de Alcalá de Henares, existe la posibilidad de trabajar algunos días de forma remota. No buscamos freelances, ni trabajadores 100% en remoto.
+¿Qué ofrecemos?:
+• El sueldo entre 21.000€ y 26.000€
+• Contrato laboral Indefinido
+• Posibilidad de trabajo remoto (algunos días)
+• Formación interna de PrestaShop
+• Jornada Intensiva en verano (mañana)

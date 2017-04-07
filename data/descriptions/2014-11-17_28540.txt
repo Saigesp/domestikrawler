@@ -1,0 +1,7 @@
+
+Se busca programador de PHP orientado a objetos con 3 años de experiencia. 
+Se requiere conocimiento de algún framework MVC como Laravel o Symphony.
+Se dedicaría a tareas de programación de backed(PHP) y frontend de páginas web.
+Se requieren conocimiento de PHP orientado a objetos así como conocimientos básicos de HTML, CSS y javascript.
+Se valorará conocimiento de frameworks MVC para PHP, como Laravel o symphony. Así mismo es deseable conocimientos de Wordpress y Prestashop.
+Jornada completa (9h a 18h).

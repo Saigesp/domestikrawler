@@ -1,0 +1,11 @@
+
+En Playmoss (www.playmoss.com) estamos buscando un desarrollador web back-end con conocimientos y experiencia trabajando en PHP y MySQL, freelance y con disponibilidad inmediata. 
+Playmoss es una startup cuya actividad principal gira en torno al mundo de la música.
+Buscamos una persona motivada para integrarse en un proyecto de estas características. Debería ser un apasionado de la programación, internet, las nuevas tecnologías y con afinidad por la música y el diseño.
+Se requiere experiencia en:
+Desarrollo en PHP 5 
+Alto nivel en MySQL 
+Patrones de diseño MVC y experiencia con frameworks 
+Se valorará que tenga experiencia y/o conocimientos de front-end
+Control de versiones 
+Se valorará que resida en Barcelona o alrededores para poder hacer reuniones puntuales, pero no es imprescindible.

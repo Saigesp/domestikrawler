@@ -1,0 +1,9 @@
+
+Somos una empresa de desarrollo de aplicaciones para modelado 3D (www.tdmsolutions.com).
+Buscamos programadores de C++ y/o Objective-C, tanto perfil Junior como Senior, para incorporación inmediata.
+El candidato debe tener conocimientos de:
+> Programación orientada a objetos, C++, Objective-C. 
+> Conocimientos básicos de git.
+> Inglés, nivel avanzado.
+Se valorará pero no es imprescindible:
+> OpenGl, conocimientos de 3D.

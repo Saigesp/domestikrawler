@@ -1,0 +1,13 @@
+
+Actualmente estamos buscando para incorporar a nuestra compañía un Analista-Programador .NET que se encargue del Desarrollo y Mantenimiento de aplicaciones
+en .NET (Experiencia mínima de 1 año).
+Será necesario que haya trabajado con:
+- ASP.NET (ASP+) c# Microsoft .NET Framework SQL Server (MVC, WEBFORMS)
+- C# , ASP.NET,
+- Javascript , jquery, JSON, AJAX y CSS.
+- Experiencia en Entorno Visual Studio 2010.
+- Experiencia en SQL Server a nivel de Consultas , conexión y acceso.
+- Experiencia en desarrollos de Web Services con .NET.
+Requisitos deseados:
+- Conocimientos de programación en JAVA
+- Capacidad de análisis e iniciativa para la toma proactiva de decisiones.

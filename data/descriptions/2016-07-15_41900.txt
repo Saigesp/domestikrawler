@@ -1,0 +1,12 @@
+
+Buscamos para nuestro departamento informático un desarrollador móvil con amplia experiencia en Android 
+Se trabajará con tecnológicas como: 
+- Dominio de Java Android en Android Studio o Eclipse y dependencias.
+- Experiencia en programación a bajo nivel con NDK
+- Librerías como RoboLibraries, Gson, Retrofit, Picasso, Android Annotations.
+- Android Wear, Google Maps, Google Play Services, AdMob, QR, etc.
+- Dependencias en Maven, Gradle.
+- Adicionalmente, JUnit, Mockito, TestFairy, HockeyApp, UrbanAirship, etc. HTTP, HTML/CSS, JavaScript y AngularJS.
+- Se valorará conocimientos en .NET, Titanium, Apache Cordova, NativeScript, Bootstrap, jQuery Mobile
+Valoramos candidatos con ganas de aprender, iniciativa, dedicación en el trabajo a realizar, y te ofrecemos trabajar con las últimas tecnologías desarrollándote en innovadores proyectos que permitirán potenciar tus capacidades, formación en habilidades profesionales, un ambiente técnico donde podrás crecer profesionalmente y personalmente.
+

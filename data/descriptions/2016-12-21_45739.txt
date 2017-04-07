@@ -1,0 +1,13 @@
+
+Somos una consultoría de comunicación con más de 20 años de experiencia, situada en Elche (Parque empresarial de Torrellano). Ofrecemos servicios plenos y para nosotros lo más importante son: la integralidad de la acciones comunicativas y la creatividad.
+En el departamento de desarrollo web generamos sitios vinculados a campañas de comunicación, grandes desarrollos de e-commerce, aplicaciones y siempre estamos abiertos a innovaciones tecnológicas de cualquier tipo. 
+PUESTO
+- Desarrollo de páginas web basadas en Wordpress, PHP y MySQL 
+- Programación de modulos y plugins en Wordpress 
+En la empresa realizamos todo tipo de diseños web vinculados a campañas de comunicación.
+REQUISITOS MÍNIMOS: 
+- Experiencia demostrable en programación en entorno servidor y cliente con tecnologias web: HTML, CSS3 y Sass/LESS, JQuery y Wordpress (a nivel programador). 
+- PHP, MySQL y configuración de servidores. 
+- Habituado a trabajar en equipo. 
+INCORPORACIÓN: Inmediata
+JORNADA: Media jornada (con posibilidad de ampliación) 

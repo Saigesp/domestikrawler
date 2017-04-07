@@ -1,0 +1,5 @@
+
+Desarrollamos soluciones para entornos educativos de todas las edades. Estamos buscando un diseñador web con HTML5 y CSS3, con conocimientos de UI/UX. Sería deseable conocimientos de programación, pero no es imprescindible. 
+El proyecto consiste en desarrollar un dashboard para una aplicación que hemos desarrollado. Serán dos versiones, una para estudiantes universitarios, grados y postgrados y otra versión diferente para un entorno escolar. Los usuarios utilizarán la plataforma desde tablets o portátiles, por lo que es necesario que sea responsive design.
+Trabajo en nuestras oficinas situadas en Madrid, calle Orense 16, 1º A mientras dure el proyecto. 
+Nuestro objetivo es establecer una relación duradera y de confianza para otras colaboraciones.

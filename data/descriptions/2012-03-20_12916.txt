@@ -1,0 +1,3 @@
+
+Se busca programador PHP con más de 3 años de experiencia y con conocimientos de patrones de diseño software, sobre todo MVC.
+Se valorarán conocimientos en HTML5 (jQuery, CSS3)

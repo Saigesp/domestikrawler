@@ -1,0 +1,18 @@
+
+invoost is an online social stock trading game. We are a true start up and
+the recent winners of IE Business School Venture Lab and just got into
+Telefonica’s Wayra Accelerator. A freemium version of our game is
+on Expansion.com and we are launching in the UK our real money game
+with some of the largest financial websites in September. Check out our
+video at http://vimeo.com/40933553
+We are looking for rockstar Rails developer with prior development
+experience (+3 years) to join our product development team. We are
+dedicated to using the latest open source technologies and are looking for
+our engineers to push the envelope with us.
+What you need for this position:
+- Solid knowledge of Html 5, CSS
+- Experience with Backbone.js, Coffeescript, Node.js and MySQL
+- Level of English: Fluent or Advanced
+What's in it for you:
+- Work from home or in our office in Gran Via.
+- Working for a high energy start up with huge growth potential.

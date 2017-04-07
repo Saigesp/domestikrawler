@@ -1,0 +1,6 @@
+
+We’re looking for a junior developer with an incredible level of attention to detail and a passion for coding digital interfaces, to come and work in our close-knit team of digital Pirates. The role will be focused on front-end skills: HTML, CSS and JavaScript, though it’s what you can do with those skills that really counts.
+We’re looking here for rising stars with 1-3 years of industry experience but who punch above their weight. Applicants: Your challenge is to dazzle us with your skills by demonstrating some of your work – not just commercial work, we want to see those experimental side projects you’ve been working on too.
+You should be able to demonstrate that you write clean and well-structured code that passes W3C validation where possible. You should have an understanding of the terms ‘progressive enhancement’ and ‘graceful degradation’, and have experience with responsive layouts for supporting a range of devices.
+Craft and Innovation is what we love at Pirata and what we expect all Pirates to have in abundance, regardless of role.
+Average / OK developers need not apply.

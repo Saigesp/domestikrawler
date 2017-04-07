@@ -1,0 +1,10 @@
+
+Importante empresa del sector público  precisa incorporar Analistas de Programación JAVA para formar parte de proyectos de 2 a 5 años para la administración pública en Madrid, Zaragoza y Valencia.
+Funciones:
+Elaborar el análisis funcional de nuevas aplicaciones para la organización, así como actualizar y mejorar las ya existentes; deberá controlar, analizar y supervisar el desarrollo funcional de las aplicaciones informáticas, asegurando su correcta explotación y su óptimo rendimiento.
+Buscamos: 
+Profesionales con más de cuatro años de experiencia en programación J2EE, (JSP, Servlets). 
+Conocimiento de herramientas como subversion, ant o maven. 
+Experiencia con un servidor como Tomcat, Jboss, webShepre Aplication server, etc. 
+Conocimiento de alguna base de datos y algo de unix (Linux). 
+Valorable haber usado struts, spring, hibernate, gwt o algún otro framework. 

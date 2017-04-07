@@ -1,0 +1,11 @@
+
+DCOS Consulting es una empresa española que centra su actividad en el ámbito de las Tecnologías de la Información. Desde su creación en 2007, ha desarrollado múltiples proyectos en distintos entornos tecnológicos así como para diferentes sectores de actividad.
+La experiencia acumulada convierte a DCOS Consulting en un referente en Consultoría, Distribución e integración de Tecnologías Software y Servicios Profesionales.
+Actualmente nos encontramos en la búsqueda de  Analistas Funcionales con conocimientos en desarrollo y mantenimiento correctivo y evolutivo de proyecto de Banca.  
+Obligatorio:
+Conocimiento funcional del área de pagos y cobros, transferencias, recibos, cheques, operaciones diversas, compensación, Sepa, experiencia en pruebas e integración de soluciones de estos aplicativos, conocimientos de la normativa legal:
+Host
+DB2
+JCL`s
+Control-M
+

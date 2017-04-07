@@ -1,0 +1,19 @@
+
+Seleccionamos a una persona apasionada por las tecnologías web y negocios de Internet, con experiencia demostrable y con motivación para hacer de reclamador.es la empresa de referencia en las reclamaciones de consumidores frente a aerolíneas. Tu experiencia debe incluir tanto backend como frontend.
+REQUISITOS
+Perfil:
+- Aprendes rápido y te gusta solucionar problemas de forma práctica.
+- Tienes experiencia de más de 2 años en ambientes web y te mantienes constantemente actualizado.
+- Te motiva trabajar en algo que contribuya a mejorar el entorno.
+Experiencia requerida:
+- Uno o más años de experiencia en desarrollo con Python y Django
+- Experiencia tanto backend como frontend.
+- Competente en entornos Unix/Linux
+- Experiencia con BBDD relacionales (Postgres, MySQL)
+- Conocimientos en HTML/CSS y Javascript
+- Experiencia control de versiones (Git)
+Experiencia valorada (no requerida):
+- Experiencia en escalabilidad web
+- Conceptos de desarrollo ágil
+Se ofrece:
+Incorporación a empresa en expansión, ganadora del premio seedrocket de startup 2012 y con accionistas de prestgio como Cabides &amp;amp; Partners, Francois Derbaix (toprural) Noelia Fernández Arroyo (VP Yahoo- Europe), Carlos Blanco (IT Net).

@@ -1,0 +1,4 @@
+
+El trabajo consiste en aplicar cambios a un proyecto realizado en Zend. Son cambios fáciles pero requieren conocimientos del framework Zend para poder ser aplicados. Por ejemplo, cambiar unos links, quitar campos de un formulario y hacer aparecer el mensaje de cookies obligado en todas las webs de España.
+Explicaremos los cambios y la persona interesada podrá hacer un presupuesto que presentaremos al cliente final. Nos interesa mucho tener un proveedor de Zend fiable ya que tenemos varios proyectos realizados con este framework y necesitan mantenimiento y ampliaciones. Si eres freelance y dominas el framework Zend, por favor, ponte en contacto con Matilda Interactiva (persona de contacto Anto).
+Sobre los plazos de entrega nos pondríamos de acuerdo. Lo que si nos urge un poco es encontrar el proveedor y poder enviar un presupuesto.

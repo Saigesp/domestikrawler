@@ -1,0 +1,9 @@
+
+Para nuestro equipo de desarrollos Endphasys, precisamos un experto programador Web en PHP y con experiencia en CMS Drupal.
+Experiencia mínima de 4 años en desarrollo de páginas web en PHP y MySQL, con conocimientos de jQuery.
+Experiencia de 1 año mínimo en el uso de Drupal 7 y creación de módulos.
+Conocimientos en el uso de web services basados en SOAP, JSON, XML.
+Conocimientos nivel medio en Linux (uso de comandos shell) y configuración de servidor a nivel medio (.htaccess).
+Se valorará conocimientos de idioma inglés a nivel B2 o equivalente para consulta de documentación técnica.
+Capacidad de trabajo en equipo.
+

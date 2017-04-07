@@ -1,0 +1,7 @@
+
+¡Hola! somos the Itch company, somos una empresa muy joven, en constante crecimiento, buscamos una persona con ilusión y ganas que esté familiarizado con al menos uno de los siguientes lenguajes de programación:
+Web: Html 5, Css o Derivados.
+Games: Sobre todo para plataformas móviles IOS & Android con Unity o similar.
+Apps: Con soporte para IOS o Android, Javascript o derivados.
+Se valorará positivamente conocimientos de diseño, aunque no es imprescindible.
+Si eres una persona a la que no le asustan los retos y quieres formar parte de un gran equipo creativo, no lo dudes ¡ponte en contacto con nosotros!

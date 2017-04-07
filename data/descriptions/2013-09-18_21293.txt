@@ -1,0 +1,13 @@
+
+Una Pyme alemana muy avanzada técnicamente y dedicada al ámbito de la telemedicina necesita incorporar desarrolladores java para un equipo interno de consultores. 
+Desarrollador Java Junior 
+Funciones: 
+Programación en Java en el área de la tecnología medicinal
+Seguir con desarrollo de la plataforma de telemedicina
+Desarrollo de Soluciones de Reporting en base de JasperReports
+Concepción, Implementación y Pruebas de componentes nuevos de software
+Aplicación de tecnologías modernas (Java SE/EE 5/6, Eclipse RCP/RAP, OSGi, JBoss, Maven, Subversion)
+El candidato debe tener buenos conocimientos de Java SE/EE, Eclipse y Subversion, conocimientos en bases de datos (SQL), experiencia en la elaboración de Reports con iReport y JasperReports e idealmente experiencia en Business Intelligence
+Buscamos un profesional con estudios universitarios y una experiencia menor de un año.
+Además debe conocer alemán a nivel B1 e inglés a nivel B2.
+El salario mínimo es de 36,000 euros y el horario es de jornada completa alemana, es decir de 8 a 17 horas. El contrato es de un año con posterior conversión a indefinido.

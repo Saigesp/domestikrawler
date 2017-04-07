@@ -1,0 +1,16 @@
+
+En McCann Barcelona estamos buscando incorporar a un programador júnior a nuestro equipo, ¿podrías ser tú?
+Su función principal será la maquetación de newsletters y programación de promociones en las plataformas Offerpop y/o Easypromos, pero también te pediremos ayuda en otros proyectos web. Colaborarás con el equipo creativo que te proporcionará todo lo que necesites de diseño.
+Los requisitos mínimos son:
+- Experiencia mínima de un año en lenguajes HTML y CSS
+- Experiencia en la maquetación de e-mails
+- Conocimiento de las limitaciones de diseño de e-mails
+- Uso de Photoshop a nivel medio/bajo
+Y deseables son:
+- Experiencia en herramientas de testeo de mails (Litmus o similar)
+- Experiencia en herramientas de envío de mails (MailChimp, MailRelay, Salesforce Marketing Cloud...)
+- Conocimientos de e-mail marketing (buenas praxis, tests A/B...)
+- Conocimiento de análisis del comportamiento de usuarios
+- Experiencia desarrollando webforms
+Si crees que este puesto es para ti, por favor, envíanos tu CV.
+

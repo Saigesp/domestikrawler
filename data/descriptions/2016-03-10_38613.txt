@@ -1,0 +1,15 @@
+
+En Worköholics buscamos una persona para incorporarse a la agencia, en el área de diseño UI y desarrollo frontend. 
+Requisitos:  
+- Conocimientos de diseño de interacción y usabilidad. 
+- Conocimientos de software de diseño web. Paquete Adobe (Photoshop, AI)
+- Ganas de crecer como diseñador frontend, ampliando tus conocimientos en HTML5 y CSS3.
+ - Residencia en Bilbao o alrededores.
+Valoramos:  
+- Portafolio.
+- Conocimientos de diseño optimizado para SEO. 
+- Uso de preprocesadores CSS tipo Sass o Less .
+- Conocimientos de Javascript. 
+- Frontend frameworks y metodología de desarrollo ágil. 
+ - Perfiles sociales activos. 
+Nota. Quisiéramos responder a todas las personas que os tomáis el tiempo en preparar vuestra candidatura, pero en función del volumen es posible que sólo podamos dar respuesta a las personas pre-seleccionadas. Agradecemos vuestra comprensión.

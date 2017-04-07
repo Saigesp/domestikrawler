@@ -1,0 +1,39 @@
+
+En Minijuegos buscamos un Desarrollador de Interfaz que se una a nuestro equipo en Madrid y nos ayude en la continua evolución y mejora de nuestra plataforma.
+MiniJuegos sigue creciendo, tenemos una capa social cuya masa de usuarios aumenta rápidamente, un API  propia de integración de juegos, un editor de avatares único , marcas blancas, sites internacionales y una nueva web mobile en camino entre otras cosas.
+Trabajarás codo con codo con un equipo de desarrolladores, frontenderos, diseñadores e ilustradores muy entusiastas (y un poco troll alguno).
+No buscamos tanto conocimiento como actitud. Queremos alguien que disfrute participando en proyectos digitales, aprendiendo y trabajando en equipo. Si cumples eso estaremos felices de enseñarte lo que haga falta en cuanto a tecnología y procedimientos.
+QUÉ HARÁS
+Convertir diseños en un bonito HTML y CSS semántico, estándar y multiplataforma.
+Participar en el desarrollo y mejora de nuestros distintos productos y funcionalidades siguiendo unas pautas de código marcadas.
+Solucionar incidencias multinavegador (crossbrowsing).
+Maquetar newsletters.
+Colaborar en la planificación y coordinación de las tareas del proyecto con el resto del equipo.
+Aportar ideas de cara a innovación o aplicación de nuevas tecnologías.
+QUÉ ERES
+Tienes amplios conocimientos de HTML5 y CSS3.
+Conoces Javascript.
+Te interesan los estándares web.
+Te manejas sin problemas en programas de edición de imagen (Sketch, Fireworks, Photoshop).
+Sabes cómo cazar un bug y resolverlo en distintos navegadores.
+Tienes la mente puesta en la experiencia de usuario y en hacerla lo más fácil y agradable posible.
+Tienes criterio estético.
+Tomas café (o no).
+QUÉ MOLARÍA
+Que conozcas GIT.
+Que conozcas preprocesadores css (SASS, LESS).
+Que sepas debuggear Javascript con la consola del navegador.
+Que tengas conocimientos de diseño responsive.
+Que tengas conocimientos de PHP.
+Que tengas cierta mano para el diseño.
+Que tomes café.
+TE OFRECEMOS
+Contrato indefinido.
+Salario competivivo.
+Un horario que te permite hacer vida durante la semana (de 8:30 a 17:00 de lunes a jueves, de 8:00 a 15:00 los viernes y jornada intensiva durante julio y agosto).
+Un entorno agradable en una bonita oficina en el centro de Madrid.
+Posibilidad de trabajar en remoto un día por semana.
+Libertad para configurar tu entorno de trabajo (hardware y software).
+Seguro médico.
+Cafetera.
+Fruta fresca.

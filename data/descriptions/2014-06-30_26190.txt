@@ -1,0 +1,40 @@
+
+Nuestra visión:
+En Alterkeys creemos que existe una forma diferente de viajar, una en la que te sientas en casa sin estarlo, en cualquier parte del mundo. Creemos que para una experiencia diferente de viaje es importante el sentimiento de comunidad, que es el que tratamos de crear entre todos nuestros usuarios, ya sean huéspedes o anfitriones. Pero no queremos que nadie tengo que preocuparse por nada dentro de esta comunidad, por ello, implementamos medidas de seguridad para los dos tipos de usuarios:
+• Para los anfitriones:
+- Cuando alquilan su casa/habitación/barco/castillo/ etc (sí, tenemos alojamientos realmente alucinantes! ?) su propiedad queda asegurada automática y gratuitamente con la conocida aseguradora AIG, quien, en su cooperación con Alterkeys ofrece el mejor seguro para anfitriones que existe en el mercado. Cualquier propiedad en Europa, alquilada a través de Alterkeys queda asegurada con hasta 500.000€ para robos y desperfectos. 
+- Se asegura de que el huésped ha pagado, incluso antes de que éste llegue. Dado que el huésped paga al confirmarse la reserva, cuando el anfitrión le recibe, no tiene que preocuparse de pedir el pago ni de problemas de impago. Sabe que el huésped ha pagado la cantidad que él ha estipulado y que la recibirá por parte de Alterkeys.
+• Para los huéspedes:
+- Cuando realizan una reserva, el pago lo mantiene Alterkeys, y no transferiremos este pago al anfitrión hasta pasadas 24 horas de la llegada del huésped, para que éste tenga tiempo de asegurarse de que todo está conforme a lo que vio en nuestra web, y no haya sorpresas de última hora. 
+- No le cobramos ningún %, por lo cual no se lleva desagradables sorpresas cuando va a hacer el pago (¿cuántas veces te ha pasado que vas a comprar un producto o billete pensando en un precio y cuando estás ya casi terminando te ponen nuevas tasas/suplementos/etc?).
+Estos son sólo algunos aspectos a destacar, lógicamente, podríamos escribir muchas más ventajas, pero creo que a modo de introducción te puedes empezar a hacer una idea.
+Dónde está la empresa actualmente:
+- En Octubre de 2012 ganamos el premio de Madrid Emprende & Gestiona Radio al proyecto de mayor viabilidad.
+- En Mayo de 2013 ganamos la convocatoria del programa Lanzadera (impulsado por el presidente de Mercadona Juan Roig), a la que acudieron más de 4.200 empresas.
+- Hemos tenido importantes apariciones en prensa, televisión y radio (TVE, Telecinco, ABC, El País, El Mundo, BBC, COPE –entre otros-).
+- Tenemos 100.000 alojamientos en más de 5000 ciudades diferentes.
+Dónde esperamos llegar en los próximos meses:
+- Desarrollar una web 2.0, con grandes mejoras en diseño y en experiencia de usuario. Para ello, estamos preparando un equipo in-house de desarrollo.
+- Incrementar el número de noches vendidas.
+- Incrementar el número de países donde estamos presentes.
+En este caso, el primer punto es el que más te afectaría, en caso de entrar con nosotros. 
+Incorporaremos a un CTO que se encargue de gestionar los primeros cambios y, bajo su responsabilidad, se incorporarán en el futuro, algún/os desarrolladores (aún por determinar el número). Nuestro CTO se encargará de la parte de desarrollo y mantenimiento de la web. 
+Su misión, sería, junto con los departamentos de Atención al Cliente, Ventas y Marketing, aportar nuevas ideas y mejoras, estudiar su viabilidad y encargarse de todas las fases del propio desarrollo, desde la toma de requisitos y estudio de casos de uso, hasta el mantenimiento posterior de esta funcionalidad, pasando por el desarrollo y la ejecución de protocolos de pruebas y puesta en producción.
+En esta persona, buscamos alguien con mucha iniciativa y pasión por el desarrollo web. No buscamos sólo un desarollador capaz de implementar las funcionalidades que se le pidan, sino que esperamos que, como parte del equipo directivo, vele por la continua mejora de Alterkeys como un fin suyo. 
+En Alterkeys somos una gran familia, y los socios intentamos involucrarnos en todas las áreas (aunque lógicamente cada uno tiene la suya propia), pero creemos que fomentando el trabajo en equipo desde los puestos más altos y remando todos en la misma dirección, podemos llegar más lejos que si cada uno sólo cuida de lo suyo. En definitiva, no buscamos un trabajador, sino un socio. Por supuesto, como socio se le asignaría un % de la empresa, de la forma en que se acuerde.
+Y como CTO, en cuanto a los conocimientos técnicos, estos son los que esperamos de la persona que se incorpore en este puesto:
+- Arquitectura MVC, 
+- PHP, Preferiblemente CakePhp, 
+- MySQL, 
+- Frameworks de Javascript: 
+- Prototype, 
+- AJAX, 
+- Mootools, 
+- JQuery, 
+- CSS, 
+- HTML, 
+- Arquitecturas LAMP, 
+- Gestión de servidores 
+Deseable: cURL, jSon, XML 
+Si te parece interesante, ¡no lo dudes más! Contacta con nosotros.
+¿Dónde te vas a despertar mañana?

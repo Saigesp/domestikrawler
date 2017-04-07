@@ -1,0 +1,39 @@
+
+About us
+Media Motive is a fast growing online company with offices in France, Columbia, Romania and in Alicante in Spain, we have just opened a new office in Barcelona (Plaza Universidad), specialized in online innovation. 
+Main responsibilities : 
+Overall you are the technical voice of Barcelona office and a corner stone to help us achieve our main goals : innovation, retention, data analysis. 
+As pioneer technical resource in our team, your work will count and you will make a difference. 
+You will be responsible for : 
+•	Team up with the Marketing to translate our projects into solutions. You’ll start with a clean slate and design the achitecture of our solutions. 
+•	Analysis, coding, testing and debugging of our sites. 
+•	Development of the front end of all our sites : you’ll team up with our designer and marketing team 
+•	We’ll also listen to and expect suggestion of new tools in order to bring innovation to our sites and implement it. 
+•	Create or integrate a CMS
+Your personality : 
+You have an analytical approach of code and projects and have at heart to make good usefull projects. Passionate about new technologies, you have an eye for details and deeply value quality in all things. Your main qualities are : 
+Autonomous
+Looking for solutions 
+Proactive
+Curious
+Hands on and eager to solve problems
+Resourceful
+Willing to understand the teams requirements and translate it into technical achievements
+Always looking for innovations and updates in your field
+Technical requirements : 
+Master degree in Computer Science
+PHP
+MySQL
+Javascript
+HTML5
+CSS3
+REST APIs
+Git
+Email integration
+good to have
+SEO knowledge
+NoSQL databases (Mongodb)
+Frontend MVC framework (Backbone, Angular .. )
+Languages 
+working language: English. Any other language welcome.
+

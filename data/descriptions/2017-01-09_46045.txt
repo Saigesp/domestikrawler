@@ -1,0 +1,21 @@
+
+Somos una joven empresa madrileña que le va a dar la vuelta al mercado como si fuera un calcetín.
+TU PRINCIPAL OCUPACIÓN
+Estamos buscando una persona que se dedicará a:
+  > Desarrollo Front y Back-end en PHP (bootstrap)
+  > Integración de API´s de terceros.
+  > Automatización de procesos.
+  > Creación de webservices.
+  > Administración de BBDD.
+CONOCIMIENTOS
+Los conocimientos que necesita para desarrollar su trabajo son:
+  > Conocimiento de Amazon Web Services y/o configuración de servidores
+  > Sistemas de control de versiones: git, svn.
+  > Nivel de inglés medio
+  > CSS3 y HTML5 (experiencia con frameworks - Bootstrap).
+  > PHP5 (POO), Javascript (experiencia con Frameworks - JQUERY, Laravel, Symfony); experiencia con el desarrollo e integración de API's.
+¿QUÉ OFRECEMOS?
+Nuestra oficina mola un montón y aquí vas a pasar muchas horas pero te lo vas a pasar genial.
+Como estamos empezando, los comienzos son duros pero muy satisfactorios... además de un futuro prometedor.
+Vas a tener toda la autonomía del mundo para trabajar.
+Tendrás un horario muy flexible y una valoración por objetivos... vamos, lo que nos gusta a todos.

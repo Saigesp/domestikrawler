@@ -1,0 +1,21 @@
+
+Job Description
+24/i specializes in creating apps for TV. We build software for all the major Smart TV brands (Samsung, LG, Philips, Sony, etc), gaming consoles (Xbox, Playstation), settop boxes and any other device that is connected to your TV, including tablets and smartphones.
+As JavaScript Developer you will work on creating beautiful, well performing Smart TV apps for our international clients. You will join our team of experienced developers and designers, who will get you up to speed with the ins and outs of developing for TV in no time.
+Most TV platforms are web-based, so you will make heavy use of your skills in JavaScript, CSS and HTML. The central pillar of much of our software is our AppCore: a JavaScript library which allows us to easily write TV apps once and deploy them to many different TV platforms easily. You will become fluent in its use in our existing and new apps.
+In addition to working on the various products and projects in our portfolio, we expect you to participate in and proactively suggest R&D projects when interesting new technology emerges which is relevant to the TV market.
+Key responsibilities:
+● Developing state of the art coding solutions for TV’s, set-top boxes, gaming consoles and any other device that is connected to your TV
+● Assisting in the development of various projects and products in our portfolio, as member of a team with other developers and designers
+● Researching new, emerging technologies in the TV market to keep us on the cutting edge
+● Learning new technologies and skills in the quickly evolving world of TV
+Must haves for this job:
+● Experience with JavaScript, HTML and CSS
+● Good grasp of the Dutch or English language
+● Eagerness to learn!
+Nice to haves:
+● Experience with developing for Smart TV platforms
+● Experience with CoffeeScript, Node.js, RequireJS or other JavaScript based libraries/languages
+● Experience with version control systems (preferably Git)
+● Experience with streaming video, video on demand and DRM.
+● Experience in other programming languages (preferably PHP, Java or ObjectiveC)

@@ -1,0 +1,16 @@
+
+En La Despensa estamos buscando a un desarrollador back-end freelance presencial con talento y experiencia. Una persona resolutiva, que sepa trabajar en equipo, que le gusten implicarse en retos, que le apasione el código pero que no sea un bot.
+Conocimientos imprescindibles:
+· Experiencia mínima de 2 años en desarrollos ad-hoc en entornos LAMP
+· Symfony 2
+· Trabajo con APIs de redes sociales, Google, etc.
+· Conocimientos de HTML + CSS + Javascript
+· Buenas prácticas de programación y código limpio
+Conocimientos deseables:
+· Control de versiones con GIT
+· Conocimientos de responsive
+· Gestión de servidores Linux-Ubuntu
+· Amazon web services (EC2)
+Necesitamos sacar adelante varios proyectos en las próximas semanas-meses.
+La Despensa es una extraña agencia de publicidad con bola disco en los baños, aunque realmente fue concebida como una secta de la felicidad. Experimentamos, buscamos el qué, pero alucinamos con el cómo. No distinguimos entre on y off porque pensamos que el formato existe en el momento en que lo inventas. Y tenemos unas bonitas oficinas en San Bernardo.
+

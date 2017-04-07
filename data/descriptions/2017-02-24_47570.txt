@@ -1,0 +1,13 @@
+
+Estamos buscando un Programador Senior Frontend en tecnologías .Net / MVC, Html, CSS, JQuery para trabajar en una empresa joven de portales educativos situada en Granollers.
+Entre sus funciones están las del desarrollo de 2 aplicativos entre los que está una aula virtual. 
+Se ofrece contrato Indefinido
+Empresa joven y dinámica con muy buen ambiente de trabajo
+Jornada completa y viernes intensiva
+Salario negociable
+Requisitos mínimos:
+- Experiencia en desarrollo web con tecnología ASP.NET (MVC y WebForms).
+- Nivel alto en HTML5 / CSS3.
+- Experiencia con JQuery u otro tipo de frameworks cliente tipo Angular2, TypeScript.
+- Experiencia con bases de datos relacionales y no relacionales (SQL Server y MongoDB, preferiblemente).
+- Haber trabajado con motores de búsqueda (preferiblemente Elasticsearch / Apache Lucene / SolR).

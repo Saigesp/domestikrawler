@@ -1,0 +1,45 @@
+
+¿Eres un experto en desarrollo web? ¿Quieres revolucionar el mundo de la enseñanza de idiomas? El momento es ahora. Desarrolla tu potencial y vive una experiencia profesional única en 8Belts. 
+Queremos que te incorpores de manera inmediata al equipo de Tecnología y Producto de 8Belts como responsable de desarrollo y tecnología para poner en valor tu talento y experiencia junto a un gran equipo de profesionales. Formarás parte de un área esencial en 8Belts: el software y la experiencia de usuario de 8Belts. Contribuirás al desarrollo del software de 8Belts y a grandes retos tecnológicos junto a nuestro querido equipo.
+¿Eres tú la persona que estamos buscando? 
+¿Cuáles serán tus misiones?
+Ser responsable de que se cumplan los proyectos tecnológicos planteados.
+Gestión, planificación del proyecto y supervisión del trabajo de otros programadores.
+Implicación en la programación de scripts para las herramientas tecnológicas de 8Belts.
+Análisis funcional de bases de datos de 8Belts.
+Realización de soportes correctivos, preventivos y reactivos.
+Apoyo y desarrollo de testados de funcionalidad y seguridad
+Documentación rigurosa de procesos. Implementación de código de alta calidad.
+Análisis de las necesidades de los usuarios, software y factores externos para el desarrollo de la tecnología de 8Belts.
+Creación de nuevas funcionalidades y colaborar en los nuevos proyectos a nivel tecnológico.
+Desarrollar elementos de marketing automatizado.
+¿Qué necesitas?
+Experiencia en:
+Al menos 4 años en desarrollo web. 
+Valorable: experiencia en desarrollo de aplicaciones móviles.
+Desarrollos de experiencias de usuario.
+Bases de datos relacionales.
+Valorable: experiencia en Dominio Framework PHP Yii y adaptación de páginas responsive.
+Experiencia con sistemas de control de versiones Git.
+Conocimientos en:
+PHP 5 y desarrollo de scripts.
+MySQL, lenguaje SQL y modelado de BDs.
+HTML5, CSS, Javascript, jQuerry, Ajax.
+Implementación de medios de pagos virtuales (TPVs, Paypal o similares).
+Implementación y desarrollo de CRM.
+S.O. Linux.
+¿Quiénes nos apasionan?
+Persona con ilusión, humildad, deseo de aprender continuamente y compartir lo aprendido.
+Alta capacidad de organización, planificación y comunicación.
+Liderazgo basado en el optimismo, la empatía y la orientación hacia las personas.
+Colaboración y capacidad de trabajo en equipo. Un líder cooperativo y receptivo.
+Altas dosis de compromiso: trabajo y cumplimiento de resultados.
+Innovadores, con espíritu creativo. De fácil adaptación al cambio. 
+Ofrecemos
+Oportunidad de desarrollar tu talento y experiencia en un proyecto sin precedente, revolucionando la enseñanza de idiomas, en un equipo en crecimiento.
+Salario compuesto de un fijo y un variable según los resultados obtenidos.  Según valía del candidato.
+Contrato laboral en una empresa de idiomas referente en España.
+Entorno de trabajo innovador y flexible, a la vanguardia de la empresa tradicional.
+Posibilidad de formación para tu crecimiento profesional.
+Si quieres saber más sobre nosotros:  https://www.youtube.com/watch?v=PFVSfiNxX7c
+

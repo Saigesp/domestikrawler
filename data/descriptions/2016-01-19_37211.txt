@@ -1,0 +1,11 @@
+
+Desde Iwantic seleccionamos un Desarrollado Frontend de aplicaciones con al menos 3 años de experiencia para empresa líder especializada en multiplataforma y multidispositivo en Madrid.
+Entre los requisitos del puesto, se requiere: 
+- Licenciado en Ingeniería Informática, Ingeniero en Telecomunicaciones o similar.
+- Al menos 3 años de experiencia en Frontend. 
+- Conocimiento en HTML5, JavaScript, CSS3, AngularJS, Bootstrap… 
+- Conocimiento en herramientas y utilidades de desarrollo, tales como: Bower, Grunt, Yeoman, Maven.
+- Manejo de herramientas de Control de versiones: Git, SVN.
+Además, será valorable:
+- Experiencia en Apache Flex, Android e iPhone.
+El salario está entre 30.000 y 36.000 euros rutos anuales, según valía.

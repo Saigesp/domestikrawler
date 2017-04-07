@@ -1,0 +1,67 @@
+
+In StackOps we use Openstack to build Cloud Computing solutions for our clients. We are looking for virtualization, storage and/or network experts who are willing to work in one of the top software projects in the open source arena. For us, it is a plus to be knowledgeable in Openstack Cloud platform, but we also will consider experts in Amazon Web Services, Eucalyptus or VMware vCloud Director.
+And if you have some experience in automation solutions such as Fabric, Puppet, Chef, or Python we are definitely interested in having you onboard.
+What do we offer:
+
+Permanent contract
+
+Competitive salary 
+
+Flexible office hours. Partial telework
+
+Social benefits
+
+Working on a top edge global project
+
+What we look for:
+
+Computer Science Engineer / Technical engineer or analogue degree
+
+Experience of 5+ years Linux system administration both at a hardware and OS level
+
+Openstack deployment skills
+
+Advanced knowledge of scripting languages such as Python and Bash
+
+Team working skills, especially with developers
+
+Good communication skills with client side sysadmins
+
+Expertise in TCP/IP
+
+Virtualized environments management skills with libvirt
+
+Experience in tool such as Fabric, Chef or Puppet
+
+DevOp oriented
+
+High level written and spoken English
+
+What we would like:
+
+Openstack skills
+
+Advanced knowledge on KVM
+
+Other scripting languages such as Ruby or Perl
+
+Experience managing integrated hardware environments like Cisco UCS, Dell iDRAC or HP SIM
+
+Experience in Large Scale deployments
+
+Bilingual English/Spanish
+
+
+What are your tasks:
+
+Help to resolve the issues of our products in our customers.
+
+Define procedures and routines to keep our solutions up and running healthy.
+
+Help to develop and evolve the system architecture of StackOps Products.
+
+Deployment, along with the development team, of the new processes defined
+
+Training and mentoring of the junior development team members
+
+Availability to travel world wide (&lt;25% of your time)

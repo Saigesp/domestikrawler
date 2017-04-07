@@ -1,0 +1,13 @@
+
+Atmira, consultora especializada en ofrecer soluciones y desarrollos software incorpora en Barcelona un AQ Testing Funcional que se integrará en el proyecto de uno de nuestros principales clientes líder en el sector e-commerce. Pensamos en un profesional con 3 años de experiencia en el área QA.
+Requisitos:
+- Experiencia QA Testing funcional: realización de pruebas funcionales, definición de casos de test, documentación.
+- Experiencia administración Subversion (hooks,...).
+- Experiencia con creación de scripts en sistemas Linux (bash,perl,...)
+Deseable:
+- Experiencia en entornos LAMP.
+- Experiencia desarrollando pruebas automatizadas con Selenium.
+- Conocimientos básicos JMeter.
+- Experiencia con AWS.
+- Valorable tener certificación ISTQB Foundation Level.
+Se ofrece un contrato indefinido.

@@ -1,0 +1,7 @@
+
+Se busca Freelance  Developer Front-end para maquetar web (a partir del diseño hecho) para startup de mobile app.
+- Bootstrap.
+- Responsive.
+- Php.
+- jQuery
+ 

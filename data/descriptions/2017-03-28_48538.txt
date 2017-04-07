@@ -1,0 +1,17 @@
+
+Somos una empresa dedicada al mundo mobile actualmente buscando un desarrollador freelance de Android para proyecto de larga duración. 
+-El trabajo será en remoto con reuniones presenciales semanales. 
+-Se abonará factura a final de cada mes con el recuento de horas.
+-Se trabajará con metodología Agile.
+-Se trabajará con sprints de 15 dias con una demo al finalizar.
+Imprescindible:
+- Experiencia demostrable con apps publicadas en google play.
+- Experiéncia demostrable con orientación a objetos y MVC.
+- Mínimo 3 años de experiencia.
+- Dominio de Git con gitflow.
+- Dominio de API REST.
+- Dominio de push notifications y deep linking.
+Se valorará:
+- Experiéncia con Jira y confluence.
+-Experiéncia con crashlytics y fabric.
+ 

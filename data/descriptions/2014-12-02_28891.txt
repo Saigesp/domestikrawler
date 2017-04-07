@@ -1,0 +1,20 @@
+
+Si buscas nuevos retos y crecer profesionalmente, Rezoloco te ofrece una oportunidad que no puedes dejar escapar...
+Rezoloco es una empresa donde se hacen cosas desde wordpress, hasta el uso de framework como laravel, sin olvidar applicaciones para móvil hybrid, o TV. No tenemos limite de tecnología, usamos todo lo que se hace según lo que necesitan los proyectos. 
+Nuestro candidato ideal tiene formación técnica de base y aporta 2 años de experiencia en los siguientes requisitos:
+- Programación Web PHP. 
+- Plataformas Drupal, Wordpress o otro CMS
+- Bases de datos MySQL/MariaDB. 
+- Javascript, Jquery y Bootstrap/Foundation 
+- Conocimientos de maquetación en HTML 5 y CSS3.
+- Uso de SASS
+- Uso de GRUNT o GULP 
+- Conociemiento del uso de  algunas API, facebook, google ... 
+Lo que no sabes te lo enseñamos.
+Como candidato seleccionado te unirás al equipo de Desarrolladores Web  y llevarás a cabo las siguientes funciones:
+- Configuración de sitios en Drupal/Wordpress/Framework
+- Desarrollo de sitios con CMS + librerías JavaScript 
+- Desarrollos en PHP/JavaScript 
+- Adecuación de módulos de Drupal/Wordpress
+* Se garantiza confidencialidad en todo el proceso de selección.
+¡Estamos esperando a un profesional como tú!

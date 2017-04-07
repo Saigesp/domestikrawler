@@ -1,0 +1,16 @@
+
+En nuestro equipo contamos con analistas, diseñadores, expertos en consultoría de negocio y programadores. Además necesitamos con urgencia un programador que se una a nuestro Olimpo.
+¿Qué necesitamos exactamente?
+Un programador con experiencia en PHP, preferiblemente que haya hecho de Laravel su framework y mejor aún si tiene experiencia en estructura compleja de BBDD, y en conexiones vía API. 
+Pero sobre todas las cosas buscamos a alguien que se apasione con su trabajo, que aporte ideas y que no se crea Rambo, aquí se trabaja en equipo. Que esté dispuesto a darlo todo siempre. Y a dar incluso un poco más cuando sea necesario. Que le guste la gente y quiera venir a sumar. 
+Resumiendo:
+Programador PHP con + 3 años experiencia. (Trabajarás con Laravel, aunque también valoramos tu experiencia en otros frameworks como Symfony, CakePHP,Yii...) 
+Valoramos mucho, conocimientos de Javascript y HTML5
+Tus tareas:
+Tu trabajo consistirá, en realizar conexiones con diferentes softwares vía API o montarás los webservice que sean necesarios, para extraer aquellos datos que nos son de utilidad.
+Creación de la arquitectura necesaria para el almacenamiento de grandes cantidades de datos. (Si tienes experiencia con diferentes bases de datos cuéntanoslo) 
+Programación de diferentes aplicaciones de reporting en tiempo real.
+Trabajo con el equipo de maquetación tanto web como Mobile
+¿Como se trabaja aquí?
+Tenemos horarios flexibles y creemos en la autogestión. Pero somos exigentes con la calidad y con los plazos. En Zeus trabajamos en un ambiente genial con gente joven pero con mucha experiencia. 
+Estamos en pleno centro de Valencia en un edificio de dos plantas rodeados de terracitas ideales para acabar un día duro trabajo. 

@@ -1,0 +1,10 @@
+
+Hooptap es una aplicación móvil para que las marcas puedan promocionar sus productos en un entorno lúdico, donde las marcas proponen acciones a los clientes, realizar una foto, leer un QR, acudir a lugar y hacer checking, contestar un pregunta, pasalapalabra a otro usuario y los clientes obtienen premios y puntos de forma divertida.
+Buscamos un Diseñador Gráfico Junior con sensibilidad por la usabilidad:
+Requisitos:
+
+- Suite de Adobe, Photoshop, Illustrator y demás programas de Adobe
+- Conocimientos HTML y CSS
+Importante:
+
+No se valorará ningún CV que no incluya un portfolio de trabajos realizados. 

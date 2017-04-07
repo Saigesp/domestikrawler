@@ -1,0 +1,17 @@
+
+Creative HotHouse is looking for a iOS Developer for an in-house project with experience in the following APIs:
+- Core Data 
+- Core Location 
+- AVFoundation (video manipulation) 
+- Core Graphics / Core Image 
+- AFNetworking or similar 
+- UiKit Customization 
+- TableViews / CollectionViews 
+- Connection to APIs (RESTful) services 
+- Multithreading (GDC,blocks)
+Important:
+Send us your online portfolio/references of work you made.
+Spanish is a must and English is highly valued, as we work in international markets. We need you to work at our very cool and open office space in Poble Nou, Barcelona. Please abstain if you do not live here.
+Creative HotHouse is a Code Temple; accelerator of developer entrepreneurs building beautiful and profitable software for the South East Asian markets.
+Check us out at: www.facebook.com/creativehothouse
+Follow us on twitter: @CHH_BCN

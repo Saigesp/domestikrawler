@@ -1,0 +1,25 @@
+
+Empresa
+Eraltech nace como respuesta a la demanda de soluciones tecnológicas disruptivas de algunos clientes de SIVICOM , así como una inquietud innovadora presente en el ADN del grupo. 
+Somos  proveedor en Gestión de Servicios IT para la industria, teniendo entre nuestras principales líneas de negocio servicios de consultoría onshore, nearshore y offshore, integración y desarrollo de sistemas y subcontratación IT. 
+Hemos nacido hace menos de 1 año y ya somos más de 30 empleados  y seguimos ampliando nuestro equipo de profesionales.
+Descripción de empleo
+Interesante Startup ubicada en Barcelona precisa incorporar para su equipo de desarrollo un Front End Developer Senior con conocimientos y experiencia contrastada en AngularJs. 
+La persona seleccionada participará en la definición de la arquitectura de aplicación AngularJS así como su desarrollo. 
+Se ofrece la oportunidad de formar parte de un gran equipo de profesionales, trabajar con las últimas tecnologías en el mercado, proyectos de gran envergadura, desarrollo profesional... 
+Además de: 
+- Contrato indefinido. 
+- Salario según valía del candidato 
+- Interesante paquete retributivo en base al cumplimiento de objetivos. 
+- Flexibilidad horaria y jornada intensiva los viernes.
+Requisitos:
+- Javascript
+- Experiencia en AngularJS (2 años mínimo)
+- Experiencia en HTML5/CSS3
+- Experiencia en Responsive web design
+- Uso de control de versiones (Git)
+  Valorable:
+- Uso de herramientas como Yeoman, Bower, Grunt
+- Conocimientos en E2E testing: Protractor/Jasmine
+- Experiencia en el uso de API REST
+

@@ -1,0 +1,44 @@
+
+Director tecnico/Programador senior
+Perfil para incorporar en plantilla, con contrato indefinido, detallo requisitos, responsabilidades y características de la oferta.
+Responsabilidades como Director Técnico:
+- Ser la persona de referencia en aspectos técnicos dentro de lo agencia:implica interlocutar con proveedores para decidir la mejor solución técnica a un proyecto.
+- Atender posibles incidencias técnicas: Como director técnico debe ser responsable de organizar posibles soluciones a problemas que surjan con clientes y proyectos, siendo la persona encargada de articular las soluciones pertinentes con el resto del equipo.
+- Validar el trabajo de proveedores y equipo.
+- Establecer una metodología común de trabajo para el departamento, así como un marco tecnológico y de desarrollo común, basado en la elección de un framework unico.
+- Elegir las plataformas oficiales de desarrollo en la agencia (tanto CMS para cada proyecto y Framework) y validar la mas adecuada para cada proyecto.
+- Interlocutar con proveedores de Hosting o tecnologías afines al desarrollo.
+- Interlocutor responsable de evaluar y consensuar, junto con el responsable de producción: timmings, elección de la tecnología y asignación responsable interno/externo del proyecto.
+Responsabilidades como programador Senior:
+- Dominio de PHP 4 y 5
+- Conocimientos avanzados de Framework MVC:  Symfony (Sylex), CodeIgniter, CakePHP, Zend, etc..- - Conocimientos de CMS comerciales: Drupal, Wordpress ...
+- Conocimiento de las principales APIs: Twitter, FB, Youtube...
+- Javascript, jQuery
+- SQL y diseño de BBDD relacionales
+- Sistemas de control de versiones (Git)
+Será deseable que conozca:
+- Técnicas de caché en servidores
+- Conocimientos de Linux 
+- Conocimientos Apache y protocolo HTTP
+-------------------------------------------------------------------------------
+Aptitudes:
+- Capacidad resolución de problemas
+- Flexibilidad
+- pro-activo
+- responsable
+- Comprometido
+- Confiable
+- Dirección de equipo.
+Requisitos:
+Experiencia mínima de 4-5 años en el sector. 
+Titulación universitaria.
+Incorporación inmediata (max 15 dias)
+Ventajas diversas:
+ - Clientes y proyectos de alto nivel. 
+- Contrato indefinido.
+- Gran ambiente de trabajo.
+- Proyectos punteros, creativos y muy variados
+- Agencia en crecimiento, proyección de trabajo interesante
+Remuneración:
+Según valia, pero acorde con varemos de mercado/perfil.
+

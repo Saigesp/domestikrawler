@@ -1,0 +1,4 @@
+
+Se requieren conocimientos de desarrollo en entornos LAMP (Linux, Apache, MySQL y PHP) y se valorarán habilidades JavaScript/AJAX (especialmente jQuery). También valoraremos la existencia de proyectos personales que reflejen sus inquietudes y habilidades.
+La aplicación existente está desarrollada en PHP, PHP 5, Codeigniter. Convendrían conocimientos y/o experiencia con este sistema. Gestión de versiones GIT.
+Candidatos interesados por favor enviar CV a pdlp@dispon.es

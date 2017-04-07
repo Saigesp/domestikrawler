@@ -1,0 +1,11 @@
+
+Buscamos un freelance que pueda hacernos los cambios que necesitamos en la web de la Agencia www.agencialevel.com
+- cambiar texto del footer
+- bajar los breadcrumbs
+- Configurar correctamente las urls amigables 
+- incluir código semántico en las migas de pan
+- incluir código semántico en el listado y la ficha de artistas 
+- Incluir todo el código javascript en un único archivo
+- Incluir todo el código CSS en un  único archivo 
+- Minificar el código CSS y Java script 
+

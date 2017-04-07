@@ -1,0 +1,14 @@
+
+-- Role Overview
+As a Web Frontend Developer​ you will join the core engineering team of Mobile Jazz. You will
+work closely together with other web developers, as well as with UX experts and graphic
+designers on delivering excellent consulting work for our international clients.
+-- Requirements
+● Fluent in English.
+● Feel comfortable writing JS as well as having experience working with modern frameworks like AngularJS or React.
+● Have a solid understanding of SQL and have good working knowledge of MySql.
+● Feel comfortable using git and the command line, and understand the benefits of working in a continuous integration / deployment environment.
+● Personal projects that show an aptitude for engineering and product sense.
+Bonus Skills and experience
+● Front end - you have worked with SASS and have experience working with Compass, Bootstrap, Foundation or other CSS frameworks.
+● Back end - you have in-depth experience with PHP and object-oriented programming.

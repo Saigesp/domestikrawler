@@ -1,0 +1,6 @@
+
+Buenos días.
+Buscamos programadores para desarrollar tres proyectos de apps móviles.
+El primero es una aplicación que cruza resultados a respuestas de un formulario para generar matches con perfumes que tenemos en una BBDD.
+El segundo es una aplicación que usando apis de subida de vídeos y geolocalización invita a usuarios a grabar piruetas de deportes urbanos, compartirlas y dominar las "zonas" donde los vídeos se grabaron en función a cantidad de votos. (pantallazos aquí: http://es.slideshare.net/Corintio49/urban-freedom)
+El tercero es un videojuego para móviles que mezcla el managing/tycoon con el tower defense. El jugador gestiona una mazmorra añadiendo pisos y contratando monstruos para defenderla del constante asedio de héroes.

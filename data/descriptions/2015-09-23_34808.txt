@@ -1,0 +1,9 @@
+
+Innofis es una empresa internacional, que ofrece soluciones innovadoras orientadas a canales digitales, cubriendo todos los aspectos de la cadena de valor desde el análisis estratégico a la puesta en marcha de soluciones completas.
+Si reúnes los siguientes requisitos no dudes en contactarnos:
+- Ingeniero Técnico
+- Experiencia mínima 4 años
+- Conocimientos y experiencia: PHP, Javascript, HTML, CSS, Mysql, Wordpress, Webservices, CodeIgniter SOAP y REST.
+- Se valorará conocimientos en programación de módulos de Drupal 7
+- Inglés nivel medio
+

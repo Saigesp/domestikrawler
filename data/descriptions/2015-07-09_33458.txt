@@ -1,0 +1,8 @@
+
+CapturaCamera busca un ingeniero informático con conocimientos en desarrollo multiplataforma, para ayudar en la creación y desarrollo de aplicaciones para una cámara propia que graba en 360 grados.
+Las aplicaciones multiplataforma se desarrollarán en Haxe (conocimiento no obligatorio, pero si evaluado de forma positiva). Se evaluará positivamente conocimientos en lenguajes de programación C++, Java, así como uso de la API OpenGL y aplicaciones 3D. También cuenta de forma positiva aplicaciones móviles y/o escritorio que haya desarrollado o participado.
+Ofrecemos:
+Incorporación inmediata.
+Perspectivas de crecimiento y proyección profesional.
+Salario a negociar en función de la valía, la experiencia y la capacidad resolutiva.
+Trabajo presencial a tiempo completo en Granada.

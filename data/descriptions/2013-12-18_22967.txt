@@ -1,0 +1,11 @@
+
+Departamento: Departamento Multimedia
+Descripción de la oferta:
+Agencia de publicidad con más de 20 años de experiencia en el sector precisa un Programador PHP web versátil con capacidad para el desarrollo de proyectos interactivos en distintos soportes. Programación y creación de páginas web, bases de datos, animaciones interactivas, microsites, videos corporativos, etc.
+
+Deseamos incorporar un programador web con conocimientos avanzados de PHP. Se valorará conocimientos en los entornos XHTML5, CSS3, Javascript y CMS’s, AJAX, así como nociones  de Edición y Post Producción de Vídeo para poder trabajar en el Departamento de desarrollo de Aplicaciones Multimedia de la empresa.
+
+Descripción Requisitos
+Requisitos mínimos:
+Experiencia acreditada en el desarrollo de proyectos multimedia y web con dominio del lenguaje PHP, valorándose conocimientos de Flash, Dreamweaver (o similar), así como un amplio conocimiento de los CMS más utilizados del mercado, como Joomla!, Drupal, Wordpress, etc. Ha de tener un conocimiento avanzado de XHTML, PHP, hojas de estilo CSS, Bases de datos MySQL, XML, Programación ActionScript, JavaScript (JQuery, motools...). 
+Se valorará el dominio de herramientas de edición de video, Adobe After Effects, Adobe Premiere, Motion Graphics y/o similares.

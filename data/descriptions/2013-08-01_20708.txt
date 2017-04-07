@@ -1,0 +1,8 @@
+
+Precisamos de experto en programación y montaje de tiendas online en Magento para adaptar a un nuevo diseño un site que está actualmente online y funcionando.
+El diseño incorpora importantes cambios de estilos y de funcionalidades de todas las plantillas, así como de las zonas donde se sitúan los elementos del actual site.
+Cabe destacar los siguiente cambios funcionales:
+- Añadir venta cruzada.
+- Incluir OneStepCheckOut.
+- Modificar la funcionalidad de los slideshow.
+- Incluir la consulta al seguimiento de pedidos para usuarios que compraron con y sin registro.

@@ -1,0 +1,24 @@
+
+OKSofás es un grupo formado por más de 60 tiendas dedicadas a la venta de sofás y descanso, con una gran variedad de productos de alta calidad.
+Necesitamos incorporar a nuestro departamento de informática ubicado en Terrassa un responsable de mantenimiento, capaz de gestionar las incidencias que se puedan plantear en nuestro sistema de gestión, instalación y configuración de ordenadores Windows, helpdesk y control de las copias de seguridad.
+Qué tendrás que hacer: 
+Tendrás que desarrollar nuevas funcionalidades para nuestro producto, dar soporte IT a tiendas y oficinas, mantener nuestra página web y contribuir con nuevas ideas al negocio.
+Qué te ofrecemos: 
+Salario en función de tu valía y experiencia. 
+Contrato indefinido con 3 meses de prueba. 
+Incorporación a una empresa consolidada en el mercado y un puesto estable. 
+Formación continua en un buen ambiente de trabajo. 
+Oficinas en Terrassa con zonas de aparcamiento.
+Qué necesitamos: 
+Experiencia de mínimo 1 año en mantenimiento de sistemas informáticos Windows/Linux. 
+Muchas ganas de trabajar y motivación por el trabajo bien hecho. 
+Conocimientos básicos de programación PHP
+Se valorará: 
+Actitud y ganas de aprender y renovarse continuamente. 
+Gestión de sistemas Linux 
+Bases de datos mySQL 
+Programación en entornos LAMP 
+Gestión de backups 
+Conocimientos básicos de frontend (JS, CSS3 y HTML5). 
+Conocimientos SEO 
+Idiomas

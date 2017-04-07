@@ -1,0 +1,22 @@
+
+SUMMON PRESS es una empresa que se dedica a la comunicación digital, radicada en el centro de Valencia. Somos un equipo joven, dinámico y apasionado por el mundo web y las nuevas tecnologías. Aportamos más de 6 años de experiencia en el sector, desarrollando proyectos digitales propios de diferentes temáticas para un público tanto nacional como internacional. 
+El objetivo principal es colaborar con nuestro departamento de proyectos, para dar apoyo en todas las tareas relacionadas con el desarrollo de portales propios.
+
+El/la candidata/a ideal debe poseer conocimientos y experiencia en:
+-	CSS3
+-	HTML5
+-	IQuery
+-	JavaScript
+-	WordPress
+-	PHP
+-	Responsive Web Design (RWD)
+-	MySQL
+-	Diseño Web
+Además, aunque no es obligatorio, también valoraremos conocimientos en: SEO, Bootstrap/Fundation, Sass/Compass, Aplicaciones móviles en Titanium, Magento, CakePHP, SEM y UX.
+En cuanto a experiencia, valoraremos:
+-	Creación de themes para WordPress
+-	HTML: Código limpio y semántico
+-	CSS3
+-	Responsive Web Design: Adaptar los propios proyectos a todos los dispositivos
+-	Diseño web: Buscamos una persona que sepa hacer buenos acabados, actualizado y con conocimientos de diseño.
+-	Programación en PHP/mySQL: al menos debes saber hacer lo básico. Mucho mejor si eres experto/a.

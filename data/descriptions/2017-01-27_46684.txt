@@ -1,0 +1,13 @@
+
+Funciones:
+Dar soporte al equipo de Solutions de Opinno para el desarrollo de distintos proyectos relacionados con tecnología Mobile.
+Requisitos:
+• Inquietud por adquirir experiencia y conocimientos en la creación de aplicaciones móviles. 
+• Conocimientos de lenguajes de programación iOS (Swift y Objetive-c) o Android (Java)
+• Conocimientos en ASO (App Store Optimization) y Watch iOS.
+• Experiencia en proyectos de movilidad. 
+• Nivel intermedio de inglés.
+• Conocimientos de las siguientes tecnologías. PHP, HTML 5 y CSS 3 y utilización de servicios JSON.
+• Manejo de XCode, Interface Builder.
+• Conocimientos de algunas librerías o frameworks (e.g: JQuery, JQuery Mobile, PhoneGap)
+

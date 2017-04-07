@@ -1,0 +1,21 @@
+
+Buscamos un perfil Senior Front-end Developer para incorporarse a un grupo de trabajo joven, dinámico y altamente cualificado. El candidato seleccionado deberá ser apasionado por las nuevas tecnologías web, la experiencia de usuario, las apps y la innovación.
+Requisitos
+- Ingeniería Técnica Informática o mínimo 3 años de experiencia.
+- Sólida experiencia en DHTML, HTML 5 y CSS 3.
+- Nivel alto en Aplicaciones Javascript basada en POO.
+- Experiencia en desarrollo de aplicaciones web REST complejas en Javascript
+- Nivel alto en interpretación de documentos JSON.
+- Habilidad para desarrollar código reusable en aplicaciones de alto rendimiento.
+- Experiencia con sistemas de templates.
+- Experiencia en Aplicaciones a tiempo real.
+- Experiencia en desarrollos y solución de bugs cross-browser.
+- Experiencia con desarrollo orientado a datos: analíticas, test A/B, etc.
+- Experiencia en desarrollos TDD y/o BDD en JS.
+Se valorará:
+- Persona pro activa, dinámica y con ganas de crecer.
+- Capacidad de aportar nuevas ideas y soluciones.
+- Estar siempre a la última a nivel tecnológico.
+- Alto nivel de inglés.
+- Experiencia en entornes subversión (Eclipse).
+- Experiencia en Aplicaciones Mobile.

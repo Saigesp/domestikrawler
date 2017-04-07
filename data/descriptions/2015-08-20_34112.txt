@@ -1,0 +1,20 @@
+
+Somos San Telmo Cloud, una firma italo mexico argentina, que se dedica a la creación de negocios, al desarrollo tecnológico y a los servicios de diseño con un enfoque especializado en estrategia creativa, interacción y diseño de interfaz de usuario. Nos comprometemos a proveer productos y servicios basados en el equilibrio estético, la funcionalidad y la innovación. 
+Estamos solicitando para nuestra empresa Desarrolladores Móviles con las siguiente características:
+- Experiencia en el desarrollo de aplicaciones móviles iOS & Android a nivel senior.
+- Mínimo de 3 a 5 años desarrollando aplicaciones móviles a nivel Senior.
+- Amplia capacidad para la creación y desarrollo de Web Services para conexión de bases de datos SQLLite,/MySQL con las aplicaciones móviles, a través de administradores de contenido (CMS).
+- Creación de APIS, scripts, efectos y animaciones de primer nivel tanto en iOS como en Android.   
+- Experiencia en HTML5 + CSS3 para el armado de paneles de administración y landing pages de las aplicaciones móviles.
+- Excelente control, experiencia y dominio de xcode, Objective C, Swift.
+- Excelente capacidad de desarrollo en Java para aplicaciones android.
+- Conocimientos avanzados de bootstrap, Parallax.js, para administradores web de control sobre las apps móviles.
+- Conocmiento de metodología: modelo-vista-controlador (iOS/Android/Web)
+- Experiencia en el desarrollo a nivel 3 capas (administrador maestro, administrador empresa, administrador usuario final).
+- Armado de parte gráfica de la aplicación móvil(corte de imagenes), se requiere buen manejo de photoshop para corte, ya que no se les asigna diseñador gráfico para ello.
+- Desarrollo de aplicaciones con Beacons y dispositivos externos.
+- Amplio conocimiento y desarrollo de aplicaciones móviles con: google maps, apis de redes sociales (Facebook, Twitter, Google+), gráficas y estadísticas (charts), exportación de archivos (.pdf, .xls), importación de datos desde archivos (.xml, txt, .cvs), entre otros.
+- Conexión móvil con dispositivos físicos tales como Beacons (Gimbal, Beaconic, etc.,), impresoras de tickets, lectores de códigos (QR/Barras),  vía NFC, bluetooh.
+- Saber generar QR´s vía dispositivo móvil, así como con PHP y Java.
+- Excelente conocimiento y capacidad de desarrollo en PHP, JQuery, Ajax, Javascript.
+

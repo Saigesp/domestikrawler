@@ -1,0 +1,10 @@
+
+Buscamos un profesional con las siguientes características:
+-          Ingeniero técnico informatico
+-          2-3 años de experiencia
+-          Experiencia probada en sistemas Microsoft (Windows 7 y Windows 2008)
+-          Conocimiento sobre redes locales y remotas (VPN)
+-          Conocimiento en desarrollo bajo Visual Studio y SQL Server – Deseable: Experiencia previa en proyectos en VB.NET y C#
+-          Experiencia en documentación de proyectos y procesos
+-          Actitud positiva y con carácter resolutivo
+-          Disponibilidad inmediata

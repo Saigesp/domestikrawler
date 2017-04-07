@@ -1,0 +1,8 @@
+
+La agencia de publicidad Dimensión, de Donostia-San Sebastián, está buscando a un maquetador/progamador que se incorpore lo antes posible. 
+Además de que sea buena persona, que llegue con puntualidad y que se organice bien, necesitamos:
+- Que sepa de HTML5, CSS3, JavaScript, jQuery, PHP, MySQL.
+- Que tenga conocimientos de desarrollo de temas de WordPress para adaptar el CMS a las necesidades de cada proyecto.
+- Que se desenvuelva en la creación de contenido animado en HTML5 puro.
+Esta persona trabajaría a tiempo completo en la agencia.
+

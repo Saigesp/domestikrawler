@@ -1,0 +1,10 @@
+
+Departamento: Departamento de Marketing
+Descripción de la oferta:
+Sevibe Cells, Empresa dedicada a la conservación de células madre del cordón umbilical, precisa programador freelance con conocieminteos avanzados de Zend Frameworks para su web y  con capacidad para el desarrollo de proyectos interactivos en distintos soportes.
+Requerimientos:
+• Solida experiencia en código abierto Zend Frameworks y  PHP, Java or similar.
+• Solida experiencia en Javascript, Ajax, CSS, WebServices , HTML5 
+• Amplio conocimiento del CMS wordpress.
+• Conocimientos de SEO.
+• Residente de Barcelona o alrededores.

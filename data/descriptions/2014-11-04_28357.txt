@@ -1,0 +1,25 @@
+
+Job Description:
+As a Junior Backend Engineer, you will innovate, learn and participate in a start­up that is going to do great things.
+We are looking for smart, flexible, innovative thinkers and team workers who aren’t afraid of challenges.
+Mínimum studies:
+Ingeniero Técnico Informático
+Experience:
+1 ­o 2 years
+Required:
+- Experience in solid and clean coding in Java.
+- Experience in MySQL or MongoDB.
+­ - Knowledge of RESTful APIs.
+- Knowledge of GitHub.
+- Knowledge of integrating code with different Web APIs.
+­- Familiar with agile methodologies.
+A plus:
+­ - Experience in test driven development (TDD).
+­ - Experience in coding clean, object­oriented, namespaced PHP frameworks.
+­ - Knowledge of modeling and building complex and large data management systems and applications based on relational and/or NoSQL databases.
+- Knowledge of JavaScript (jQuery or similar).
+- Knowledge of Javascript Frameworks (Angular, BackBone, etc..).
+- Level of English medium / high.
+­ - Hands­on experience in Natural Language Processing and/or Machine Learning.
+Type of contract:
+Permanent

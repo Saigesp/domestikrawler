@@ -1,0 +1,15 @@
+
+En Quipu buscamos un desarrollador backend per a un nuevo producto muy prometedor a full-time. Buscamos a una persona brillante, inteligente, resolutiva y con ganas de aprender, alguien a quien le guste estar a la última en tecnología web y quiera contribuir a crear un producto revolucionario con nosotros.
+Requisitos:
+- Experiencia en Ruby y Ruby on Rails
+- Sistema de control de versiones (git, Subversion o Mercurial)
+- Conocimiento de bases de datos (MySQL o PostgreSQL)
+- Conocimiento de sistema de testing, tanto unitario como de integración
+- Conocimiento de administración de sistemas
+Librerias Javascript, como jQuery
+Se valorará experiencia en:
+- Frameworks Javascript (EmberJS, Backbone o Meteor)
+- Sistemas de deployment automatizado
+- Sistemas de integración contínua
+- Optimización de aplicaciones web
+Damos la oportunidad de aprender de desarrolladores muy buenos y con experiencia, y estar cerca del núcleo de una aceleradora de startups muy enérgica: itnig. Quipu forma parte de un ecosistema completo de startups que proporciona mucho más que una gran experiencia laboral: quedamos juntos fuera de la oficina, montamos barbacoas, conferencias, eventos, acogemos desarrolladores internacionales, y hasta tenemos una mesa de ping pong.

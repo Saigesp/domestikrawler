@@ -1,0 +1,12 @@
+
+En Fihoca, consultora en sistemas de Información y Telecomunicaciones, precisamos incorporar a nuestro equipo de profesionales Diseñador con el siguiente pefil:
+- En el apartado de maquetación: HTML 4 y 5, CSS 2 y 3 (MediaQueries, código limpio y estructurado)
+- Entorno de desarrollo, Eclipse preferiblemente o Notepad++.
+JavaScript: desarrollo con el DOM y jQuery. 
+- Valorable REST o jSON.
+- Maquetación con el Framework de capa de presentación Bootstrap 2
+- Que sepa realizar temas para Liferay 6.1. Si sabe realizar Hooks y Porlets es un plus
+- Conocimientos de Liferay 6.1. Valorable Configuración Liferay 6.1 
+- Programación con Java 6
+- Base de datos MySQL o SQL Server: Gestión estandar, select, inserts …
+- Saber usar las herramientas: PhotoShop CS2 o mayor, inDesign CS5

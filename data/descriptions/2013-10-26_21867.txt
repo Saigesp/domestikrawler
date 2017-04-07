@@ -1,0 +1,7 @@
+
+Se busca programador freelance con experiencia en desarrollo web.
+Requisitos mínimos:
+- conocimiento de PHP y MySQL
+- conocimiento de Javascript y librerias como jQuery
+- conocimiento de Wordpress, Magento y Prestashop
+Se busca preferiblemente en Valencia y provincia.

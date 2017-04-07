@@ -1,0 +1,18 @@
+
+Founded in 2005 in Barcelona, Spain, Inbenta is a company specialized in Artificial Intelligence and Natural Language Processing, with offices worldwide: USA, EU (France, Netherlands and Spain), South America (Brazil, Chile, Mexico) and Asia (Singapore).
+The team at Inbenta is a spirited, creative, adaptable and hard­working group. We know how to celebrate our successes and are excited to be apart of a challenging project with the opportunity to growing with the Company. There is no better place to develop your career than at Inbenta!
+What are we looking for?
+We are looking for a P​HP Developer b​ased in Barcelona, interested in developing frontend and backend applications in Artificial Intelligence environment a​nd excited to join a rapidly­growing company with a young, dynamic and talented people. You’ll be part of our team, working with C­level executives and have a major hand in building very successful features for Inbenta. We always work on interesting projects with high technology and have a good time doing it.
+Requirements:
+* 1+ year of software development experience in PHP and AJAX
+* Demonstrable knowledge of web technologies including PHP, HTML, XML, CSS, JavaScript, SQL
+* Good knowledge of JQuery, Mootools or Prototype
+* Spanish. English (at least First Certificate Level)
+* BS/MS degree in Computer Science, Engineering or a related subject (Telecommunications, Mathematics, Physics).
+* Passion for best design and coding practices and a desire to develop new bold ideas
+What do we offer?
+- At Inbenta we value initiative, creativity, imagination and responsibility. We reward it with fast internal promotions.
+- Developers will work coordinated with our COO in Barcelona and our CTO in Silicon Valley
+Thrives in a fast paced environment. Enjoys multi­lingual, multi­cultural environments, as Inbenta has customers worldwide.
+- Enjoy adding to value to a multi­skill team to of software architects, computational linguists, and user experience specialists
+If you want to work in a international environment and in a fast grown company, do not hesitate and Join us!

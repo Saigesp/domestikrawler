@@ -1,0 +1,19 @@
+
+En [Q] interactiva estamos buscando incorporar un desarrollador web, principalmente centrado en backend, pero con capacidad de trabajo en el front. 
+Sobre el puesto
+El puesto ofertado es para un proyecto en el que llevamos metidos más de 2 años, y que requiere un perfil dedicado a tiempo completo, por lo que el candidato ha de asimilar que si bien el proyecto requiere de tareas de mantenimiento, principalmente son de evolución y desarrollo sobre unos servicios online existentes.
+El proyecto es suficientemente grande como para tocar diferentes aspectos del desarrollo backend, desde la comunicación con fuentes de datos externas por diferentes medios, gestión de tipos de información muy variada, proyecto multi lenguaje, optimización de consultas SQL por trabajar con algunas tablas de millones de registros, etc.
+La incorporación sería inminente.
+Sobre el candidato
+Buscamos a una persona con al menos 3 años de experiencia demostrable en desarrollo backend con PHP, con experiencia en proyectos de una complejidad media-alta, conocimiento de frameworks MVC (preferiblemente Laravel) y con capacidad de desenvolverse también en el lado frontend (preferiblemente conocimiento de Bootstrap 3, pre-procesadores CSS,etc.)
+Es interesante, debido a la naturaleza del proyecto, que tenga capacidades analíticas y de comprensión, es decir, las tareas a realizar no son mecánicas sino que en muchos casos requieren procesos elaborados desde el origen, que hay que trasladar a la solución online.
+Preferimos a alguien que pueda estar físicamente en el estudio pero no descartamos el trabajo a distancia, aunque como segunda opción... lo importante para nosotros es que las cosas se hagan y se hagan bien. 
+Sobre [Q]
+Ahora es cuando tendríamos que decir lo guays y divertidos que podemos ser, pero preferimos que lo comprobéis por vosotros mismos si nos venís a conocer. Unas pinceladas:
+
+Nuestro horario es de lunes a viernes de 8 a 14 y de 16 a 18 horas, aunque dentro de unos márgenes somos flexibles a pequeñas modificaciones sobre el mismo.
+
+Hay barra libre de café o similar, y de vez en cuando algún saqueo a lugares cercanos que nos abastecen de ricos bollos/pastelitos.
+
+La ubicación de las oficinas está en una zona residencial al lado del Parque de Invierno (un buen pulmón donde poder hacer deporte, ya que hasta contamos con duchas en el estudio) y en el horario mencionado de entrada, es relativamente fácil encontrar para aparcar.
+Sobre quiénes formamos la empresa y lo que hacemos... si visitáis nuestra web que tenéis en la misma oferta, podéis tener una idea... a algunos de nosotros ya nos tenéis también localizados por aquí desde hace mucho tiempo seguro. 

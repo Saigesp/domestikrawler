@@ -1,0 +1,18 @@
+
+Buscamos expertos en Python, si eres uno de ellos, ¡queremos conocerte!
+Si buscas incorporarte a una empresa líder en la industria donde desarrollar una apasionante carrera profesional esta es tu oportunidad.
+SIPAY PLUS, pasarela de pagos con casi 25 años de trayectoria especializada en ofrecer soluciones de pago innovadoras, simples, seguras y omnicanales, trabaja para consolidar su presencia en Europa y expandir su cobertura global, gracias a la innovación y al desarrollo continuo de productos.
+Descripción del puesto
+Buscamos incorporar a nuestra empresa un Programador Python con experiencia al menos de dos años. Su objetivo será emprender proyectos de desde cero en la parte de API con la tecnología base REST/JSON/TornadoWeb, además de la extensión de proyectos ya existentes.
+Habilidades y experiencia
+Perfil proactivo, comprometido, metódico, con capacidad de organización y aprendizaje. Con conocimiento sobre:
+•	Python 2.7 / 3.5 (imprescindible)
+•	TornadoWeb, DJAngo, Linux, JSON, XML, (no limitativo)
+•	Explotación de Webservices tipo REST
+•	Control de versiones basado en GIT
+•	Metodologías de desarrollo ágiles (Kanban, Scrum)
+•	Pruebas unitarias
+Información adicional
+•	2 Vacantes
+•	Contrato indefinido
+•	Salario a convenir según valía

@@ -1,0 +1,13 @@
+
+Buscamos SENIOR RIGGERS para largometraje de animación internacional.
+Funciones:
+•	Implementar sistemas de control de rig de animación para personajes complejos usando Maya.
+•	Modelado de blend shapes para expresiones faciales y librerías de poses
+•	Implementar rigs para personajes low y high.
+•	Trabajar con los animadores para diseñar, crear y mantener rigs de animación para que los personajes estén limpios, eficientes y fáciles de animar.
+•	Diseñar interfaces de usuario y controles
+Requisitos:
+•	Experiencia probada en largometrajes de animación como Rigger.
+•	Software: Experiencia en Maya.
+•	Nivel alto de inglés
+•	Posibilidad de viajar por períodos a otros países

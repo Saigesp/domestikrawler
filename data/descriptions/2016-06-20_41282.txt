@@ -1,0 +1,15 @@
+
+En Iwantic estamos buscando varios Microstrategy Analyst para una gran multinacional del sector ingeniería en sus sedes de Barcelona y Madrid.
+Queremos a alguien con iniciativa a quien le interese unirse a una compañía en crecimiento y con un equipo internacional, dinámico y con talento. 
+Funciones/Responsabilidades:
+-Definir la arquitectura necesaria para implementar el almacén de datos (Data Warehouse) así como identificar mejoras.
+-Definir los procesos de carga del Data Warehouse.
+-Parametrización del Storage Manager.
+-Configuración y parametrización del Query Manager.
+-Definir e implementar tareas de ajuste avanzadas del Manager Database.
+-Optimización de las operaciones DML.
+Requisitos:
+-Nivel b1/b2 inglés. 
+-Experiencia de 2-4 años en puesto similar.
+-Valorable conocimientos de Cognos, DataStage.
+La persona seleccionada gozará de grandes beneficios sociales (tickets restaurante, seguros...), contrato indefinido y plan de carrera y formación desde un primer momento. Además hará uso de las últimas tecnologías del mercado y trabajará en un ambiente de gran visibilidad internacional.

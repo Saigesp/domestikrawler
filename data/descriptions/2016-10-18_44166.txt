@@ -1,0 +1,21 @@
+
+En Iwantic estamos buscamos un/a IOT Developer (Internet of Things), para una gran empresa tecnológica de base digital en A Coruña.
+La persona seleccionada formará parte del Departamento de I+D de la compañía, desarrollando soluciones de hardware y software. 
+Se requerirá experiencia demostrable en la planificación y programación de proyectos relacionados con la implantación tecnológica en industria, así como el desarrollo de sensores y actuadores industriales.
+Funciones:
+- Diseño e implementación de soluciones tanto hardware como software que permitan mejoras en los procesos de producción de nuestros clientes.
+- Capacidad de análisis en planta industrial para detectar tecnologías que optimicen esos procesos.
+- Gestión de las nuevas opciones de desarrollo open source con microcontroladores, placas embebed, PLC, SCADA, sensores, actuadores etc, para implementación en industria.
+Requisitos:
+- Experiencia mínima de 3 años en puesto similar.
+- Titulación Superior en Informática, Telecomunicaciones o similar.
+- Experiencia en la gestión de entrega de desarrollos complejos incluyento IOT, M2M, cloud, Smart factory, internet of things, desarrollo de sistemas embebidos etc..
+- Profundos conocimientos de tecnologías de telecomunicaciones IOT (WPAN, Zwave, ZigBee, 6LowPAN, MQTT, COAP, OPC UA, PLC, SCADA, ...).
+- Conocimientos de las plataformas Arduino/RaspberryPi/UDOO/OPC/
+- Ser consciente de la importancia de los plazos con el cliente.
+- Conocimiento amplio del entorno industrial.
+- Conocimientos de lenguajes de programación (Javascript, C#, )
+- Nivel alto de inglés hablado y escrito.
+- Disponibilidad para trabajar en A Coruña.
+Salario según valía, acorde a mercado. 
+Si quieres dar un salto en tu carrera, ¡no dudes en aplicar a esta oferta!

@@ -1,0 +1,36 @@
+
+Us: A group of fun, nice, passionate people working on the cutting edge of the interactive industry to deliver new and inventive projects to our clients.
+You: A senior/mid-level innovative, talented, and savvy developer who likes to push the limits of technology. 
+The ideal Front-End Developer candidate will have a good understanding of both the creative and technical aspects of the trade, a strong interest in exploring new techniques and possess creative problem-solving skills. Since B-Reel is a highly collaborative environment strong communication skills and an inclination toward teamwork are a must. This position is located in our Barcelona office.
+The role:
+-Work with teams of Creatives, Producers, and other Developers to build and maintain exceptional products and projects
+-Help team to understand technical opportunities and limitations
+-Solve problems through debugging and troubleshooting
+-Learn and enhance an existing code base 
+The Why:
+B-Reel consistently strives to be one of the best employers in the industry. We offer:
+-A fun, casual and positive work environment
+-Good snacks
+-Nice colleagues
+-Revolving control of the office music selection
+-The opportunity to work on highly innovative and new technologies for some of the most prestigious and cool clients out there
+The Tech:
+-Front-end languages such as HTML, Javascript and CSS
+-HTML5 (Canvas/WebGL/WebAudio API/Etc)
+-Version control systems (Git)
+These things are required:
+-Object oriented design and programming
+-Good skills in analysis and conceptual design
+-Ability to adapt and learn in a fast paced environment
+-Strong debugging principles and perseverance
+-Team player with good communication skills who is comfortable collaborating with people from all types of creative/ technical backgrounds
+-Proficient in English
+-Be creative and curious to learn new technologies and push limits
+These things are nice to have:
+-Bachelor in Computer Science (or closely related)
+-Shaders Programming (GLSL)
+-Experience in platforms like Openframeworks, Arduino or Processing
+-Experience with Back-end development: PHP, Node.js, Python or similar
+-Experience with Mobile development and Virtual Reality: iOS, Unity, Unreal or Android
+-Knowledge of design/animation process and familiarity with its tools
+B-Reel Barcelona is a small, young studio in the Group. Our office is located in Poble Nou Barcelona district. A formerly industrial area that has become the perfect place for tech innovation businesses and new start-ups in Barcelona.

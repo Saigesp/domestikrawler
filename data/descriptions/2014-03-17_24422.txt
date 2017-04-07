@@ -1,0 +1,19 @@
+
+Descripción:
+Precisamos programador con capacidad para desarrollo de proyectos web en equipo, con experiencia enprogramación PHP y conocimientos en Symfony2, para un importante proyecto internacional.
+Requisitos mínimos:
+- Experiencia en proyectos PHP.
+- Conocimientos en Symfony2.
+- Capacidad para trabajar en equipo.
+- Conocimientos básicos de HTML5 y CSS3.
+Se valorará:
+- Conocimientos en programación de aplicaciones móviles (cualquier sistema).
+- Conocimientos de otros lenguajes de programación como Javascript/AJAX o Vb .net.
+- Experiencia trabajando con control de versiones (Git).
+- Conocimientos en SEO.
+- Conocimientos en Linux.
+- Nivel de estudios: Técnico superior.
+Condiciones:
+- Tipo de contrato: Indefinido.
+- Horario: de 9:00 a 13:30 h. y de 15:00 a 18:30 h. de lunes a viernes.
+- Sueldo: 21.500 a 22.000 € brutos anuales.

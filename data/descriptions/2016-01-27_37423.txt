@@ -1,0 +1,12 @@
+
+Buscamos Ingeniero Técnico en Informática para incorporación al Departamento de Desarrollo.
+Requisitos imprescindibles:
+C# (.NET)
+WCF
+Valorable:
+Desarrollo dispositivos móviles:
+Android, iOS, Phonegap, ...
+AngularJS
+Preferible Ing. Técnico en Informática pero se considerarán perfiles de Formación Profesional o equivalentes y sin titulación, pero con experiencia.
+Idioma: inglés.
+La experiencia se valorará caso por caso, no es vinculante.

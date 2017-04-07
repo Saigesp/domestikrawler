@@ -1,0 +1,13 @@
+
+Seleccionamos un Analista Programador Android / iOS con al menos 2 años de experiencia en:
+·Conocimientos técnicos imprescindibles:
+Desarrollo Android nativo (Java/Android Studio)
+Base de datos local SQL Lite
+Pruebas unitarias con Roboelectric o similar.
+Javascript
+·Requisitos valorables no imprescindibles:
+JQuery, Angular JS y otros frameworks
+Desarrollo iOS nativo (Objective-C)
+Desarrollo iOS con Swift 
+Desarrollo hibrido (Phonegap o Cordoba)
+Desarrollo para wearables (Android Wear, watchOS, Tizen)

@@ -1,0 +1,27 @@
+
+En Bluumi, precisamos incorporar un Analista Programador especializado en Movilidad, para liderar diferentes proyectos de movilidad.
+Reportará de forma directa al CTO de la compañía y su función es coordinar el equipo de backend, frontend y movilidad que le sea asignado.
+Se requiere:
+3/4 años de experiencia en gestión/dirección de equipos de desarrollo para aplicaciones de movilidad.
+
+Perfil de desarrollo:
+•	Android – Java
+•	iOS – Objective C
+•	WP8x/UWP – C#
+•	Experiencia centrada en una o varias de estas tecnologías/lenguajes.
+•	Fundamentalmente aplicaciones nativas
+•	Integración de Web Services (restful/SOAP)
+•	Integraciones de PUSH Services (SNS/Firebase)
+•	Persistencia de base datos (SQLite/CoreData)
+Perfil de Gestión
+•	Creación, asignación y gestión de tareas (Redmine/JIRA)
+•	Control de tiempos
+•	Calidad del producto generado por del grupo de trabajo
+•	Administración de repositorios de código (SVN/Git)
+Se valorarán positivamente conocimientos:
+•	AngularJS
+•	NodeJS
+•	php (CodeIgniter/Yii2)
+•	MongoDB
+•	Integraciones de aplicaciones nativas con VR/AR
+

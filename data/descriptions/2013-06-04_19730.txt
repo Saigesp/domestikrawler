@@ -1,0 +1,13 @@
+
+Somos una joven start-up de Madrid.
+Buscamos un/a maquetador freelance a media jornada (mañanas). 
+Requisitos mínimos
+- Dominio de HTML5 y CSS3
+- Buen nivel de javascript y jQuery 
+- Uso de estándares web
+- Técnicas de "responsive design", mediaqueries
+- Desarrollo para plataformas móviles 
+Requisitos deseados
+- Capacidad para escribir código limpio reutilizable
+- Creación de estructuras sólidas y estables
+- Haber trabajado con algún framework de CSS

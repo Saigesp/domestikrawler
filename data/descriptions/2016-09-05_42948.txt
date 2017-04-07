@@ -1,0 +1,33 @@
+
+Descripción de empleo:
+Gestión de proyectos y aplicaciones móviles de la empresa, así como desarrollo y optimización de herramientas y aplicativos Android.
+Aptitudes y conocimientos deseados:
+Si tu pasión son las apps, en Yourmob Solutions tienes una gran oportunidad. ¡No esperes más y preséntanos tu candidatura!
+Seguimos creciendo y ampliando fronteras y para ello te necesitamos en nuestro departamento de tecnología para participar activamente en nuestro proyecto de aplicaciones para móvil.
+Se trabajará en equipo junto con otra persona Senior y en interno, para nuestros propios productos y servicios (no somos consultora).
+
+¿Que te ofrecemos?
+- Estabilidad y flexibilidad horaria. 
+- Contrato indefinido 
+- Retribución salarial atractiva. 
+- Plan de Carrera  
+
+Estamos buscando un programador de aplicaciones móviles sobre sistemas operativos Android.
+Necesitamos un perfil de programador con conocimientos y experiencia sobre desarrollo nativo de aplicaciones Android. Se encargará de crear, utilizar y mantener aplicaciones Android con todo lo que ello conlleva. Estamos abiertos a perfiles Junior y Senior, en función de la valía del candidato. 
+
+Requisitos: 
+- Formación en ingeniería técnica o FP de informática. 
+- Experiencia en desarrollo nativo Android. 
+- Experiencia en PHP, MySQL, JSON, HTML, Javascript, Google Cloud Messaging, Bootstrap.
+- Experiencia en proceso de subida de apps a Google Play. 
+- Experiencia en creación, utilización y mantenimiento de APIs Rest. 
+- Experiencia aplicando y utilizando patrones de diseño como MVC, MVVM, etc. 
+- Experiencia utilizando sistemas de control de versiones, preferiblemente git. 
+- Inglés para desarrollo y documentación técnica 
+
+Se valorará: 
+
+- Inglés: hablado y escrito.  
+- Experiencia en desarrollo nativo iOS.
+
+Se uno de los primeros solicitantes, estaremos encantados de recibirte con nosotros :)

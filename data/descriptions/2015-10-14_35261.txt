@@ -1,0 +1,29 @@
+
+Ingenia a multinational company in the information technology, telecommunications and Internet sector is looking for Senior Frontend Developer in Málaga.
+Funciones:
+•	To take high level designs & requirements and participate in the design, development and implementation of our software
+•	To ensure the development of good quality product within the agreed timeframes
+•	Work directly with our customer in a long term project. This is an international customer established in a strategic market that considers software as a highly valuable asset.
+•	Join a 100% Agile (SCRUM) development team, using tools such Jira6, Crucible, Confluence.
+•	Be a part of a wonderful team work environment where pro-activity and creativity in finding solutions and improvements, are appreciated as highly valuable characteristics.
+•	Use the latest development tools in a SaaS approach.
+•	Have a technical career plan in a highly qualified environment
+Requisitos:
+Mínimos:
+•	+3 years of proven experience developing enterprise web Front End Developments.
+•	Evidence of high-level participation in online, web or SaaS orientated commercial projects utilizing the skills listed below.
+•	Strong Javascript coding ability (procedural and Object-Oriented)
+•	Demonstrable experience of Javascript frameworks such as Angular.js, Bootstrap, etc.
+•	Demonstrable knowledge and use of jQuery
+•	Excellent HTML5 skills
+•	Experience implementing responsive websites
+•	Excellent CSS knowledge and skills (not just the latest CSS3)
+•	Attention to detail (pixel-perfect implementation of a designer's vision)
+•	FLuent english
+Deseables:
+•	Experience of Front End build automation and Unit Testing
+•	Experience of using Drupal Core Features.
+•	Experience using API's
+•	Continuous Integration/Continuous Delivery
+•	Prefer working within or iterative or agile development process (SCRUM)
+•	Experience of using a Drupal to build Dynamic Websites  

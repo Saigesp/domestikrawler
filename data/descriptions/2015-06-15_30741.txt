@@ -1,0 +1,13 @@
+
+Se busca técnico de render para la serie de animación en 3D Flying Squirrels. La serie consta de 26 episodios de 13 minutos de animación 3D con pequeños detalles en 2D. Es una serie de aventuras para público preadolescente, con elementos tanto fantásticos como de ciencia ficción.
+El trabajo duraría alrededor de 3 meses y se realizaría en Barcelona.
+Imprescindible el conocimiento de: 
+_autodesk maya 
+_motor de render mental ray 
+_shaders 
+_render layers / render passes 
+Se valorará positivamente: 
+- Capacidad de trabajar en equipo
+- Organización y cumplir deadlines
+- Nivel de inglés medio-alto
+- Conocimiento de iluminación y 3D

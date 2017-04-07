@@ -1,0 +1,26 @@
+
+En The Summer Agency seguimos creciendo, por eso estamos buscando un perfil de back-end senior para dar apoyo al equipo de desarrollo web.
+Buscamos persona
+- Con ganas de trabajar en un ambiente joven y dinámico.
+- Resolutiva y proactiva.
+- Con gran pasión por el desarrollo web y de aplicaciones móviles.
+- Con gran capacidad de comunicación.
+- Con experiencia en proyectos Agiles.
+Conocimientos y experiencia demostrable en:
+- Desarrollo en PHP y MySQL.
+- Desarrollo de webservices (API Rest, SOAP)
+- Programación AJAX (JSON, XML, etc..)
+- Creación, modificación y adaptación de plugins de  Wordpress.
+- Diseño de modelos de datos y arquitecturas funcionales.
+Valorable:
+- Conocimientos de TINCAN API y LRS 
+- Conocimientos en desarrollo de apps híbridas (Titanium, XDK, Phonegap,...)
+- Conocimiento de otros lenguajes de programación (.NET principalmente).
+- Conocimiento de gestión de servidores y servicios de hosting.
+- Conocimiento y uso de JIRA / CONFLUENCE
+Funciones del puesto
+- Desarrollo del back-end de un proyecto de gran envergadura.
+- Incorporación inmediata.
+Imprescindible mostrar portfolio con los últimos trabajos realizados. 
+Realizarás una prueba de nivel en nuestras oficinas.
+

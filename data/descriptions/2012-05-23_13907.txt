@@ -1,0 +1,33 @@
+
+We are looking for a Web Analyst whose main responsibility is to analyze web data orientated to conversion rates, to give response to analysis issues related to product/business decisions, and to assure all data measures are correct. 
+Tasks:
+•Support the analytic needs of a business unit by analyzing web traffic using clickstream tools such as Google Analytics, ClickTracks, Omniture etc. 
+•Use standard BI tools, such as Qlikview (preferred), Brio or Business Objects, to produce reports relating to outcomes.
+•Lead driving core insights from the data to suggest, create and execute multivariate or a/b/c tests that drive fundamental improvements to the site experience.
+•Focus on multiple business unit websites and support all facets of the decision making platform (clickstream analysis, outcomes analysis, search analysis, multivariate testing analysis). 
+•Work with the website technology team closely to identify gaps in the data capture strategy and collaboratively implement enhancements. 
+•Use sound judgment to identify issues and escalates when appropriate.
+•Using strong analytical skills provide insights as well as recommendations for changes and convince key Company decision makers of business benefits of the proposed solutions.
+Typical Deliverables:
+•Weekly, monthly reports (excel, BI tools, clickstream analytics).
+•Website behavior and customer experience analysis.
+•Data consolidation and validation.
+•Coordinating tags, tracking parameter implementations.
+•Lead creation and completion of Multivariate and A/B testing documents (from hypothesis creation to influencing creatives to identifying success metrics) and post test analysis.
+•Business requirements synthesized from multiple sources including product managers, development teams, and functional group members.
+Requirements:
+•Bachelor’s degree in Statistics / Mathematics.
+•At least 1 year working with standard clickstream analysis tools: Google Analytics, Omniture, ClickTracks, WebTrends, HBX, CoreMetrics etc.
+•At least 1 year of experience in advanced web analytics methodologies such as experimentation and testing, competitive analysis, surveys and market research.
+•At least 1 year of experience in one or more roles in an online ecommerce or online support environments.
+•Experience with Business Intelligence tools, such as Qlikview (preferred) Brio, Business Objects, MicroStrategy, Cognos etc 
+•Experience in writing and tuning sql queries in an online or offline environment.
+•2 years of experience in using the Microsoft Office suite with very strong Excel skills.
+•Mid-level expertise in the SEM (Search Engine Marketing) / PPC (Pay Per Click) and SEO (Search Engine Optimization) strategies and a minimum 1 year experience measure success of SEM/PPC and SEO campaigns / efforts.
+•Capability to understand the complex web ecosystems and best practices and apply this knowledge to their work.
+•Excellent communication skills and ability to interact with all levels of end users and technical resources.
+•To be capable to handle multiple tasks, switch priorities and focus as needed.
+•High level in Spanish and English.
+•Team spirit, positive and collaborative attitude, adaptable, empathic, pro-active.
+Desirable: Google Analytics Certificate
+

@@ -1,0 +1,34 @@
+
+StopApp es una app móvil que ayuda a los padres a enseñar (de una manera divertida) a sus hijos/as a no sobreutilizar los dispositivos móviles (DDMM).
+En estos momentos tenemos un fondo de inversión dispuesto a invertir en el proyecto, con lo que buscamos un CTO con conocimiento de Android Nativo (Java) y crear aplicaciones no nativas mediante phonegap o similares.
+Como pionero técnico en el equipo serás responsable de definir la estrategia técnica y proporcionar una dirección en cuanto a tecnología se refiere.
+Trabajarás cerca del diseñador como de la persona encargada del SEO.
+Nuestro equipo está compuesto por tres perfiles diferentes: Un business developer, un perfil de comunicación y RRPP y diseñador de experiencias.
+Hasta la fecha, disponemos de nuestra beta (no para padres) realizada en Android Nativo (Java). Este es el core de nuestra app, y a partir de aquí se podría empezar a trabajar en PHP y con una aplicación no nativa tipo phonegap (esto dependerá de la recomendación del desarrollador).
+¿A quién buscamos?
+- Un Programador con experiencia en programar en Android Nativo (Java).
+- Exeperiencia en crear aplicaciones no nativas tipo phonegap, así como sacar la aplicación tanto para Android como para iOS.
+- Capaz de crear una app desde cero.
+- Conocimiento de PHP avanzado.
+- Conocimiento para trabajar con nuestra API Rest.
+- Querer formar parte de un muy equipo potente y de un proyecto con enormes posibilidades.
+- Que le guste trabajar en equipo, así como trabajar con diferentes perfiles como diseñadores o business developers.
+- Capacidad para la resolución de problemas.
+- Persona capaz de liderar un equipo técnico.
+- Entender diagramas de flujo (userflow) y conocimientos básicos de Photoshop sólo para sacar colores, iconos o tipografías.
+- Experiencia creando cuentas Premium en Android.
+- Conocimientos de control de versiones.
+- Conocimientos de herramientas de marketing orientado a Android e iOS.
+- Persona responsable y organizada, orientada a resultados con actitud proactiva y con facilidad de adaptarse a nuestra forma de trabajo.
+- Buena comunicación, tanto a nivel oral como escrita.
+- Saber documentar perfectamente el desarrollo que va realizando.
+- Ambición por resolver problemas reales y enfrentarse a situaciones nuevas.
+- Que tenga muchas ganas de aprender.
+¿Qué ofrecemos?
+- Formar parte de la toma de decisiones respecto al proyecto.
+- Formar parte de un equipo internacional y multidisciplinar.
+- Trabajando codo con codo con compañeros con amplia experiencia en el sector. 
+- Jornada completa de trabajo con horario flexible.
+- Ambiente de trabajo Startup: ambicioso, flexible y con ganas de hacer grandes cosas y crecer.
+- Grandes posibilidades de crecimiento dentro de la Startup.
+- Trabajarás puntualmente algunos días desde casa.

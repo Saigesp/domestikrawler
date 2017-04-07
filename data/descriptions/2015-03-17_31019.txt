@@ -1,0 +1,18 @@
+
+Buscamos diseñador/a UX/UI para formar parte de nuestro departamento de Diseño y Creatividad, apasionado del front¬end y con una obsesión por el detalle y el pixel.
+Funciones:
+Su principal función será la optimización y mejora de la web, para cada uno de los distintos soportes (Desktop, tablet, móvil), utilizando para esto test A/B. También la implementación de nuevas funcionalidades y nuevos diseños.
+Tareas:
+•	 Diseño de interfaces gráficas innovadoras, elegantes y fáciles de usar para proyectos web, landings, microsites y e-mail marketing. 
+• 	Diseño de interacción en multidispositivos: desktop, tablet y móvil 
+• 	Maquetación de plantillas de Email Marketing optimizadas para dispositivos 
+• 	Participación en la creación y la definición de los proyectos: usabilidad, arquitectura de la información, funcionalidad, etc.
+Conocimientos:
+•	 Conocimientos en programas de Diseño (Photoshop, Indesign, Illustrator, Dreamweaver)
+• 	Conocimiento de HTML5, con CSS3.
+• 	Experiencia en diseño web adaptativo
+• 	Conocimientos de usabilidad y arquitectura de información. 
+•	 Interés en técnicas de research, analítica y testing.
+• 	Usabilidad, UX/UI para dispositivos conectados 
+• 	Bootstrap
+• 	Control de herramientas de A/B testing

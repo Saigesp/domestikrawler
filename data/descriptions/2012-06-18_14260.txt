@@ -1,0 +1,15 @@
+
+BrainSINS es una Compañía .com especializada en dar soluciones para la mejora comercial de las tiendas online, precisa incorporar en Boadilla del Monte un Analista/Analista-Programador Back-End
+Descripción: 
+Buscamos un/a Analista/Analista-Programador con en torno 5 años de experiencia en desarrollos Back-End con experiencia en proyectos de búsqueda. Buscamos a un profesional inquieto/a, autónomo/a, con capacidad de análisis y motivación para implicarse en un proyecto ilusionante y de futuro.
+Requisitos mínimos: 
+- Ingeniería Superior Informática.
+- Experiencia de en torno a 5 años en funciones de desarrollo.
+- Lenguajes y entornos: Java, MySQL(u otros), REST.
+- Librerías: Lucene, Sphinx u otras.
+Requisitos deseados: 
+- Formación de postgrado en desarrollo.
+- Se valorará muy positivamente experiencia en investigación.
+- Lenguajes y entornos: NoSQL, PHP, Front
+- Nivel alto de inglés.
+

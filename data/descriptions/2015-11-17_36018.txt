@@ -1,0 +1,8 @@
+
+Buscamos desarrollo para App en base PhoneGap o Titanium, según candidato seleccionado y definición de proyecto final. El diseño será entregado según calendario especificado. Se busca desarrollo completo, back y front.
+El proyecto está planificado para comenzar desarrollo a medidados de diciembre y publicación en Mayo de 2016.
+El proyecto es una aplicación deportiva con modelo de suscripción integrado. Donde destacarán 2 servicios principalmente: Calendarización y comunicación tipo hilo-conversación integrada en app. (no es necesario real-time-conversation)
+Se desarrollará sobre sistema Amazon Cloud server, por lo que es imprescindible experiencia en desarrollo sobre Amazon.
+El resto de información será proporcionado una vez establecida la primera selección.
+Buscamos desarrollador o hub de desarrollo freelance preferentemente en Madrid / España con alta experiencia demostrable en el desarrollo de aplicaciones Cross-Platform.
+Buscamos máximo cuidado por el detalle y posibilidad de integración en proyectos adicionales.

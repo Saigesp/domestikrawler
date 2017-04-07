@@ -1,0 +1,17 @@
+
+You will be creating, improving and adding new functionality to our entire network of software applications as well as being involved in:
+- Sharing your thoughts and give input to the direction our software development heads.
+Essential skills and abilities:
+- PHP – minimum 3 years commercial programming experience
+- Javascript Frameworks
+- Solid understanding of HTML and CSS
+- Understanding of OOP principles in PHP5
+- Using version control software
+- Knowledge of mod_rewrite in Apache
+- Knowledge of http fundamentals (request, response headers)
+- Convert photoshop designs and wireframes into html / css / js
+- Collaborate with other back-end developers, designers and project managers
+- Identify ways to improve the layout and performance of current sites 
+- Research and suggest new ways to improve both the speed and quality of the development process
+- Developing web service with for example soap
+

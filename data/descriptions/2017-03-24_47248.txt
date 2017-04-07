@@ -1,0 +1,12 @@
+
+Somos Barcelona Virtual SL (www.bvirtual.com), una agencia interactiva que trabaja para grandes marcas españolas. Necesitamos incorporar en nuestro Departamento Técnico, dentro del equipo de Front End, una figura de Front End Developer, a ser posible con experiencia previa en el desarrollo de aplicaciones web.
+Funciones: 
+- Maquetación responsive web, newsletter, etc.
+Requisitos: 
+- Nivel alto en maquetación web (HTML5, CSS3).
+- Deseable experiencia en JQuery.
+- Que te guste trabajar en equipo y tenga autonomía. 
+- Que te gusta la maquetación y el diseño web. 
+- Implicación, rigor y atención al detalle. 
+- Que sea simpático/a.
+

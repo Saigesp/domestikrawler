@@ -1,0 +1,15 @@
+
+DigitasLBi is looking for talented Junior testers to join and develop a career in our industry recognised test team. The Test Technologists are responsible for delivering high quality and cutting edge web experiences by ensuring world-class quality is maintained.  We're looking for an enthusiastic software tester, someone who is passionate about web standards and finding innovative ways to use latest technology to solve our clients’ needs.
+The day to day activities:
+As a Junior Test Engineer you will have experience delivering quality assurance in a web/mobile environment, delivering quality code that conforms to our high standards.
+You will be self-motivated and keen on using new & innovative tools and techniques with the inquisitive nature that will drive you to be on top of emerging ones.
+We're looking for a person passionate about testing, someone that holds up to date views concerning the state-of-the-art in the testing world and promotes new ideas and frameworks within the wider technology team.
+Ideal candidate profile will be someone with all these amazing skills:
+- 1 year of experience testing websites and/or mobile applications
+- A people person, sharing ideas with others and inquisitive by nature
+- Enthusiastic about learning – reading, testing books and blogs and attending testing conferences
+- Knowledge in modern testing methodologies, practices and approaches (Waterfall, Agile – - Scrum/XP/Lean/Kanban, RAD..), TDD and BDD will be a plus.
+- Understanding of the value of Testing in software development and how it relates to the wider concept of Quality
+- Working with APIs and scripting languages will be highly valuable
+- Experience in automation testing techniques will be a plus
+- Working towards W3C WCAG 2.0 accessibility guidelines

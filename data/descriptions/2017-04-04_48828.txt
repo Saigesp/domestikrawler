@@ -1,0 +1,21 @@
+
+Empieza tu carrera profesional con Conversales Innova y sé el héroe de tu propia historia!
+Si quieres comenzar tú carrera profesional dentro del mundo de la consultoría ¡esta es tu Compañía!
+En Conversales Innova, pensamos que el mejor talento se desarrolla desde la base. Apostamos por la innovación y buscamos la mejora continua con las últimas tendencias en tecnología, colaborando en equipos imparables y dinámicos, para desarrollar nuestro conocimiento y aportarlo a la comunidad.
+Si te unes a nuestro equipo, tendrás la oportunidad de trabajar con profesionales expertos de la tecnología en un mundo en constante movimiento, con clientes multinacionales e internacionales, durante toda tu trayectoria profesional en Conversales Innova tendrás un mentor/a, que se encargará de asesorarte para que tengas un gran desarrollo.
+Contarás con feedback constante y revisiones anuales tanto de tu salario como de tus funciones para que puedas tener un plan de carrera apasionante.
+En Conversales Innova todo esfuerzo tiene recompensa, por ello si eres inquieto/a, tienes ganas de aprender y te interesa empezar a aplicar lo que has aprendido... ¡Este es tu sitio!
+¿Te estas preguntando cuáles serán tus funciones?
+- Maquetar tanto a nivel de Front-End como Back-End
+- Hacer pruebas de los desarrollos realizados
+- Programar tanto en PHP como en C# pudiendo desarrollarte profesionalmente
+¿y cuáles son las condiciones que te ofrece Conversales Innova?
+- Jornada laboral completa.
+- Formar parte de un ambiente creativo y de compañerismo en una empresa en constante evolución.
+- Formación continua.
+¿Qué requisitos necesito para poder empezar?
+.- Conocer lenguaje de Back-End PHP o C#
+- Agilidad Maquetando webs 
+- Actitud proactiva frente a problemas
+- Imprescindible conocer y haber trabajado con el Framework Bootstrap
+

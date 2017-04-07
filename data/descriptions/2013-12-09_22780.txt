@@ -1,0 +1,22 @@
+
+Incorporándose al equipo de sistemas sus funciones serán:
+•	Instalar y configurar equipos de usuario, resolver incidencias de conectividad, office, email, archivos, vpn, virus, impresoras, cuentas de usuario.
+•	Actualizar documentación de sistemas.
+PERFIL
+•	Conocimientos en instalación y configuración de sistema operativo windows, office y otras aplicaciones de escritorio. 
+•	Conocimientos en la instalación y configuración de sistema operativo Linux.
+•	Diagnóstico de problemas y montaje de hardware
+•	Conocimientos de hardware de red 
+•	Conocimiento de herramientas de diagnóstico de problemas de red
+•	Manejo y conocimiento de redes Wifi
+•	Capacidad de creación de scripts para automatizar tareas
+Requisitos deseados:
+•	Manejo y administración de distribuciones Linux 
+•	Conocimiento de servicios de Linux 
+•	Conocimientos de Virtualización 
+•	Manejo y administración de Active Directory
+•	Conocimientos de Bases de datos 
+•	Manejo de herramientas de documentación
+•	Administración de Google Apps
+•	Ingles alto
+•	Capacidad de Comunicación y motivación por aprender continuamente

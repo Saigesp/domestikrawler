@@ -1,0 +1,12 @@
+
+Estamos buscando un programador/desarrolador para incorporacion inmediada en la empresa.
+Requisitos imprescindibles:
+- Experiencia en entorno LAMP.
+- Experiencia en Symfony 2
+- Experiencia con MySQL.
+- Desarrollo con JQuery.
+- Uso de control de versiones GIT o SVN.
+Requisitos deseados:
+- Experiencia con NodeJS.
+- Experiencia con Ruby.
+- Experiencia en Api REST.

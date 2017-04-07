@@ -1,0 +1,6 @@
+
+Estamos buscando un diseñador para la interface de un programa de investigación numérica en genética. Somos un pequeño grupo de diseño muy activo, estamos dentro del Centro Nacional de Supercomputación en Barcelona, y nos encargamos de hacer figuras y vídeos para comunicación científica y divulgación. Estamos empezando un proyecto en colaboración con otros departamentos para desarrollar un programa, donde nosotros pondremos los criterios de diseño y usabilidad de la interface.
+El diseñador trabajará en conjunto con un programador de algoritmos de visualización y con un diseñador gráfico. Su principal tarea será diseñar la interface de la aplicación a través de la web usando WebGL, Chrome, Javascript y HTML5, e investigar la usabilidad y diseño de interfaces alternativas como Kinect, tablets (pantallas táctiles), y comandos de voz.
+A largo plazo se espera que esta persona dirija la línea de desarrollo de interfaces para todo el centro.
+Mas información e instrucciones para apuntarse en:
+ http://www.bsc.es/about-bsc/employment/vacancies/ueid

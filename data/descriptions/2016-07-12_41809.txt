@@ -1,0 +1,39 @@
+
+The Company: 
+Dorna Sports was established in 1988 as an international Sports Management and marketing company with offices in Madrid, Barcelona, Roma and Tokyo. 
+MotoGP World Championship is the pinnacle of motorcycle racing and Dorna’s star product. It is the oldest motorsport world championship in the world, with 59 years of history to its name, and the current premier class pits the best riders and manufacturers in the world against each other.
+Dorna provides a vast range of products which includes advertising exposure, promotional and corporate activities, merchandising, commercial rights, corporate hospitality, overseas freight, TV rights, TV production, live feeds, post-produced programmes, tailor-made signals, OnBoard Camera technology, timing systems, data processing, graphics for live broadcast, intranets, internet webcasts, online results and video streaming amongst them.
+What we are looking for?
+The pace of the on-track MotoGP™ action needs to be matched by a dynamic delivery of content, in the process satisfying the ever-growing demands of a dedicated and enthusiastic fan base who utilise the latest methods of technology to enjoy their favourite sport. 
+We are looking for a talented and passionate Android Developer to join our team in Barcelona who will be able to deal with the latest technology in order to create unique experiences around our sport. 
+Responsibilities: 
+ 
+•	To develop mobile apps (Android) for the MotoGP World Championship (MotoGP VideoPass App, MotoGP Live Experience…)
+ 
+•	Apps Lifecycle management 
+ 
+•	Work closely with fellow visual and ux designers, developers, copywriters, translators and marketing personnel to build realistic user experience solutions that also meet business objectives. 
+Essential Skills & Experience
+ 
+•	Demonstrated experience of at least 3 years in Android mobile application development.
+•	High Knowledge of Object Oriented Programing and Java
+•	Knowledge of web technologies applied to the mobile environment (HTML, Javascript, CSS).
+•	Great skills as a Team member
+•	Good criteria on the design of mobile applications regarding usability and interaction.
+•	Passionate about New Technologies.
+•	Well organized and methodological
+•	Motivated to improve the user experience.
+ 
+Desired Skills
+•	Ability to program using the device resources (camera, bluetooth, sensors, etc.).
+•	Experience working with agile methodologies.
+•	Experience creating graphic engine or other frameworks UI
+•	Knowledge of Java, php
+•	Basic OpenGL & 3D Knowledge
+What we offer: 
+•	Salary according to experience and value that you can bring to the team.
+•	A professional career according to your qualifications, experience, professional potential and expectations.
+•	Medical insurance 
+•	International work environment
+•	Long term employment in a sportive and technological company
+•	Special offers and discounts from sponsors (BMW, Honda, Oakley, Alpinestars, Monster, RedBull…)

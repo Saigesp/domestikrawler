@@ -1,0 +1,19 @@
+
+Inventure Cloud es una plataforma de crowdfunding para creación y desarrollo de productos geek y juegos, entre otros. Somos una startup joven ubicada en Valencia, con un enfoque innovador y un entusiasmo inagotable.
+Buscamos un diseñador web e interactivo freelance que nos apoye en la puesta a punto de nuestra nueva plataforma.
+Te ofrecemos:
+Involucrarte en un proyecto innovador y un entorno de trabajo con metodología lean.
+Flexibilidad horaria y de ubicación
+Tus habilidades:
++4 años de experiencia en diseño web, usabilidad y diseño interactivo
+Experiencia en diseño para e-commerce o marketplaces
+Nivel avanzado en ilustración digital
+Experiencia en maquetación de templates responsive (preferiblemente también con Django)
+Pasión por el trabajo bien hecho y la creación de productos inspiradores
+Actitud resolutiva, curiosidad y gran capacidad de organización.
+Nivel medio-alto de inglés
+Tu misión:
+Crear los mockups de flujo de la plataforma
+Diseñar las nuevas secciones de la plataforma
+Maquetar plantillas de Bootstrap en Django, con una perspectiva &amp;quot;mobile first&amp;quot; y multiplataforma, colaborando con un fantástico equipo de desarrollo ágil, en un entorno Scrum.
+ 

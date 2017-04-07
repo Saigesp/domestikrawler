@@ -1,0 +1,17 @@
+
+Requerimos al menos 2 años de experiencia en:
+- Ingeniero técnico
+- PHP 5.x
+- Zend Framework
+- Javascript
+- jQuery
+- HTML y CSS
+- SQL y diseño de BBDD relacionales (importante un buen nivel!)
+- Sistemas de control de versiones
+Deseado:
+- Técnicas de caché
+- Capacidad resolución de problemas
+- Nivel avanzado Linux (consola)
+- Conocimientos Apache y protocolo HTTP
+- Conocimientos de Oracle y PL/SQL
+Si cumples con todos los requisitos o gran parte de ellos, no pierdas la oportunidad de unirte a una start-up internacional con gran proyección!

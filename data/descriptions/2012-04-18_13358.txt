@@ -1,0 +1,9 @@
+
+Nuestro cliente es un startup de Barcelona que necesita incorporar un/a PROGRAMADOR/A JUNIOR .NET PARA UN PROYECTO INNOVADOR. Participará en el desarrollo de modificaciones y mantenimiento de la aplicación principal del negocio, desarrollará nuevas funcionalidades en dicha aplicación, ayudará a mejorar la experiencia de los usuarios y dará soporte al Analista Programador de la empresa.
+REQUISITOS.
+- CFGS en Informática
+- Experiencia en programación en entorno web
+- Experiencia en .NET(C# y/o VB.NET)
+- Experiencia en bases de daros SQL (SQL Server)
+- Tecnológicamente inquieto
+- Se valorará tener experiencia en proyectos web y conocimientos en HTML, XML/XPAT, Javascript i Ajax

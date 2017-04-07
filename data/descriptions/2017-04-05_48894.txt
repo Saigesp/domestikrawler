@@ -1,0 +1,18 @@
+
+Estamos buscando un Developer con profundo conocimientos SQL y MVC .NET, para uno de nuestros principales clientes; se trata de una empresa líder en su sector, en Retail, cuyas oficinas están situadas en Barcelona centro.
+Ofrecemos:
+•	Contrato con carácter indefinido.
+•	Formación una vez cumplidos los 6 meses de contrato.
+•	Carrera profesional asegurada.
+•	Formarás parte del dpto. BI
+•	Trabajar en un equipo de expertos.
+•	Remuneración en base a valía y experiencia de cada candidato.
+•	Oficinas  en Barcelona centro.
+Requisitos mínimos:
+o	Dos años de experiencia trabajando con SQL Server.
+o	Dos años de experiencia trabajando con procedimientos almacenados en Transact-SQL.
+o	Experiencia desarrollando consultas complejas ad-hoc en Transact-SQL.
+o	Imprescindible Conocimientos de modelado de datos.
+o	Conocimientos de MVC en .NET.
+o	Conocimientos de alguna herramienta de ETL: Integration Services, ODI, Data Services.
+

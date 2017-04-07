@@ -1,0 +1,16 @@
+
+Kolobee is a social platform, for web and mobile devices, which allows users to create location-based applications.
+We are looking for an experienced front-end developer to create a new generation web application with us in Madrid.
+Responsibilities
+Leading the development of a next-generation web application for desktop and mobile devices.
+Collaborating on the development of a robust and scalable back-end.
+Requirements
+Computer Science degree.
+
+At least three years of experience with HTML/CSS and front-end JavaScript (jQuery, Backbone.js).
+Knowledge of distributed version control especially GIT.
+Desired
+
+Some experience with JavaScript back-end engine node.js (REST web services).
+Some experience in NoSQL databases like mongoDB.
+Knowledge of the linux operating system.

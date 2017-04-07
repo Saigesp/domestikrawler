@@ -1,0 +1,14 @@
+
+En nuestra agencia, ofrecemos un lugar de trabajo con proyectos motivadores y rodeados de un equipo de máximo nivel. 
+Se precisa un programador en PHP5 y MySQL, con conocimientos de CMS. 
+Conocimientos medios en:
+- HTML5
+- CSS3
+- JQuery
+- Boostrap
+- Git
+- Wordpress
+- Magento. 
+Se necesita para: Maquetación Web, Desarrollo Web Responsive. 
+Conocimientos en administración de servidores. Se valorará conocimientos Sass, Prestashop, Aplicaciones móviles.
+Pasen y vean, les damos la bienvenida a Interactivaclic, una agencia de Marketing con los pies en la tierra y los ojos en el cielo, intentando dar un paso más adelante cada día. El entorno web y las nuevas formas de comunicación crecen y evolucionan más rápido de lo que podamos imaginar. Por eso venimos todos los días al trabajo con para adelantarnos a cualquier tendencia.

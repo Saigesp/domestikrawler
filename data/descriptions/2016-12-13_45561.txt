@@ -1,0 +1,10 @@
+
+¡Buenos días!
+Somos un estudio de diseño interactivo, expertos en marketing online y diseño de páginas web en Valencia.
+Estamos buscando un desarrollador freelance en Valencia (queremos tener la posibilidad de reunirnos con el) para configurar pasarelas de pago con PayPal/Stripe de diferentes proyectos basados en Wordpress/Woocommerce y que sea especialista en:
+- PHP
+- Wordpress
+- Woocommerce
+- Configuración pasarela de pago
+Es muy importante que el candidato tenga experiencia comprobada de mínimo 3 años.
+

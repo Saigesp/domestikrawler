@@ -1,0 +1,9 @@
+
+Se busca programador de PHP y CSS, con conocimientos de jQuery y experiencia previa en programación con APIs de terceros.
+El trabajo principal a desarrollar será:
+- Desarrollo de estilos de entorno web responsive en CSS a partir de bocetos realizados por el departamento de diseño muchos casos FW como Bootstrap.
+- Desarrollo de servicios web para apps a partir de consultas MySQL en PHP
+- Integración de entornos webs con CMS opens source (WP, Prestashop)
+- Desarrollo de sites vinculados con social media a partir de sus APIS (twitter, facebook, instagram, google)
+Entorno de trabajo joven y dinámico.
+Posibilidad de incorporación inicialmente sólo a media jornada / flexible.

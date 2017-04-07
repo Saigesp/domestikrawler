@@ -1,0 +1,22 @@
+
+BNT Systems desarrolla soluciones Internet of Things para la industria con un especial foco en la experiencia de usuario. Nuestro equipo multidisciplinar desarrolla soluciones llave en mano cubriendo desde el hardware embedded hasta las aplicaciones web o móviles basadas en nuestra plataforma de cloud IoT seguro.
+Estamos buscando a un desarrollador de aplicaciones móviles para unirse a nuestro equipo.
+REQUISITOS
+- Experiencia en desarrollo de apps nativas o hibridas para iOS o Android
+- Experiencia en Javascript / HTML5 / CSS
+- Conocimientos de alguno de los siguientes frameworks: React Native, Ionic, Sencha Touch
+- Experiencia en integración con APIs de backend y servicios background
+VALORAMOS POSITIVAMENTE
+- Conocimientos de Objective-C, Swift, Java, C++
+- Conocimientos de Ruby on Rails o NodeJS
+- Conocimientos de bases de datos MySQL, NoSQL
+- Conocimientos de diseño de UI/UX, usabilidad
+- Gusto por el diseño y la simplicidad de uso
+PERFIL
+- Grado de Informática / Ingeniería o equivalente
+- Mínimo 2 años de experiencia profesional
+- Actitud resolutiva y capacidad de trabajo en equipo
+OFRECEMOS
+- Contratación indefinida a jornada completa
+- Salario según valía candidato: 24.000 – 36.000 € bruto anual
+

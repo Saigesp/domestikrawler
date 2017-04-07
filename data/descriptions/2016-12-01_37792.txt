@@ -1,0 +1,16 @@
+
+Our company's name, Raet, may not ring a bell - even though we are a leading software firm and cloud solutions provider (saas) with millions of daily users. Headquartered in Holland, our "Youforce" platform helps more than 1500 clients with Human Capital Management (hcm) - ranging from standard payroll for more than 25% of the entire Dutch workforce to advanced & funky ehrm (Human Resource Management) applications that enable global clients to find, hire and further develop their talent and succeed in tomorrow's economy. Human Resources may not have been the domain you had first in mind, but realize that tons of studies and research have shown that the champions of tomorrow are those companies that are best able to develop their employees and use their skills - and that is exactly why what we make matters...
+As such, we are looking for several senior and junior Test Engineers who will be responsible for the translation of acceptance criteria to actual test cases and the implementation of those test cases during the development process - all while anticipating the end user moves and most valued paths of choice to use the functionality of Youforce. Subsequently, they are responsible for the execution of test cases to assure the quality of our software and constantly report test results to the different stakeholders. 
+We embrace agility, and apply the SAFe framework to ensure we scale our agile practices across our portfolio. 
+Especially from senior Test Engineers, we expect them also to: 
+•	Guide and coach team-members as subject matter expert  
+•	Design and develop new testing approaches, in close collaboration with other team members.
+•	Deliver input for tenders and specific client contracts 
+•	Report on progress of work to Scrum Master and/or Delivery Manager  
+•	Participate in knowledge "guilds"  and actively share and develop knowledge on testing practices, new technology, new testing tools and techniques and training.
+Technical skills we look for include (ideally you possess these - or you have a demonstrated ability to acquire them fast, and excel in using/applying them):
+•	Knowledge of & experience with eXtreme Programming, Lean & Scrum - knowledge of and experience with SAFe is a plus
+•	Expertise in at least several of the following:  .NET & C#, SQL, IDE,  HTML, Javascript, CSS and experience with Linux, Apache, MySQL, PHP, Mobile platforms, Phyton, SoapUI, Coded UI, Selenium, Cucumber, Virtualization and Automation, Configuration and maintenance of web environments.
+•	Subject matter expertise on testing methods and techniques (ISTQB, TMAP), MTM experience is a preference; expertise with testing non-functional requirements incl. security is a plus
+•	Advanced knowledge of basic and functional designing/IDE
+

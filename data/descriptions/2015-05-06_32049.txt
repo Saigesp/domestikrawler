@@ -1,0 +1,10 @@
+
+Buscamos Seniors Developers. Net para proyecto EUROPEO de élite, de carácter estable en Barcelona. Tecnologías SPA - AngularJS con metodología SCRUM. 
+Necesitamos Programadores Senior con experiencia de más de 4 años en: 
+- Experiencia en SCRUM, BDD, TDD, Coded UI Tests, IoC, Entity Framework code first, SQL Server. 
+- Experiencia en desarrollo con frameworks tipo: Angular JS, Backbone JS, Ember o similares. 
+- Experiencia con HTML5, CSS3, LESS, Bootstrap, DOM y Responsive Web Design. 
+- Conocimientos en la integración de API's externas y Jasmine TDD 
+- Experiencia con framework end-to-end testing de Javascript tipo QUnit 
+- Experiencia en librería HTML5/Javascript interfaz de usuario: Kendo UI.
+Ofrecemos: Contrato indefinido, salario según valía, crecimiento profesional con tecnologías avanzadas y ambiente excepcional en entorno multinacional.

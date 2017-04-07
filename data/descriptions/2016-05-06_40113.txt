@@ -1,0 +1,17 @@
+
+En Iwantic estamos buscando un/a PHPSoftware Engineer para una de las empresas líderes en el sector de Internet en su sede de Barcelona.
+Entre las funciones del puesto se encuentran:
+- Analizar y desarrollar con PHP
+- Estudiar el uso de las nuevas tecnologías para mejorar el software.
+- Mejorar nuestro Motor de Búsqueda Semántica.
+- Colaborar con los compañeros de equipo en el desarrollo de una nueva RESTful API.
+- Mejorar nuestra aplicación más importante utilizando PHP y Javascript.
+- Integrar nuestro software en aplicaciones de otras compañías.
+Requisitos necesarios:
+- Título de Grado/Licenciatura (o superior) en Informática, Ingeniería o otra disciplina relacionada (Telecomunicaciones, Matemáticas, Física).
+- 1 año o más de experiencia en desarrollo de software en PHP y AJAX.
+- Conocimientos demostrables de tecnologías web, incluyendo PHP, HTML, XML, CSS, JavaScript y SQL, y nociones de JQuery, Mootools o Prototype.
+- Ganas de mejorar y solucionar los resultados inesperados.
+- Español y catalán: Nativo.
+- Inglés: B2 (FCE).
+Salario según valía.

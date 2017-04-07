@@ -1,0 +1,11 @@
+
+Nuestro cliente, empresa referente en el sector VOD a nivel internacional, precisa incorporar en su equipo un Senior PHP DevOPS (con almenos 4 años de experiencia).
+Si estás interesado en entrar de lleno en el sector que está rompiendo todas las barreras del cine y la televisión y trabajar con cracks en codificación de video, streaming, sistemas, desarrollo web & app's para smar tv, iOS&Android... Éste es tu proyecto!
+Skills necesarios:
+- Experiencia consolidada con PHP en entornos de alta disponibilidad
+- Cache con Memcached o Redis
+- Experiencia con framework PHP (especialmente Laravel 4 y 5)
+- HTML+CSS+Javascript
+- Integración continua y automated deploys
+- Conocimientos avanzados de sistemas (entorno Linux)
+Apúntate en la oferta! Suerte!

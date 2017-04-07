@@ -1,0 +1,9 @@
+
+Buscamos la incorporación de un analista de desarrollo, ejecución y testing de aplicaciones MICROSTRATEGY que permitan la consecución de proyectos dentro del departamento IT. Realizará tareas transversales con el restos de áreas involucradas en los proyectos que participa. 
+La persona seleccionada, se encargará de desarrollar las aplicaciones según los requerimientos y especificaciones del negocio, asegurando la calidad de dichos desarrollos y maximizando la eficiencia y calidad de las tareas. 
+Se valorará estudios de Ingeniería informática o Telecomunicaciones. 
+Conocimientos requeridos: 
+Microstrategy 10 o 9.4 y versión Microstrategy Mobile
+Creación y diseño de documentos (report service) y tableros (Visual insight)
+Optimización de modelo de datos y generación de cubos
+

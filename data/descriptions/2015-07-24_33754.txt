@@ -1,0 +1,13 @@
+
+Wibigoo, está muy alineada con el mercado de aplicaciones google para empresas, de hecho tenemos una estrecha colaboración con esta corporación a nivel nacional e internacional. Nuestro producto estrella es el CRM arewedoing, el primer CRM en el cloud de google.
+Con oficinas en Barcelona, madrid y ecuador.
+La empresa cuenta con un equipo especializado y busca solidificar su estructura y capacidad de adaptación a nuevos desarrollos para posteriormente dar el salto al mercado de USA.
+¿Qué buscamos?
+-	Una persona Proactiva, que disfrute con los retos.
+-	Atención al detalle y la calidad. 
+-	2 o más años de experiencia en desarrollo Frontend. 
+-	1 año de experiencia en desarrollo con AngularJS. 
+-	Buenos conocimientos de HTML5, CSS3, Responsive Design, Javascript. 
+-Conocimientos de Frameworks de Preprocesado CSS (LESS, SASS).
+
+

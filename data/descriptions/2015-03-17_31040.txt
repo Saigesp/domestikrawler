@@ -1,0 +1,14 @@
+
+Se requiere experiencia desarrollando páginas web en php con Laravel con un grado de dificultad medio-alto.
+El trabajo es imprescindible que sea presencial en las oficinas de la empresa.
+Se valorarán conocimientos en: 
+- Javascript / jQuery / Ajax 
+- Laravel
+- Wordpress 
+- HTML5 y CSS3 
+- CodeIgniter
+- Integración con plataformas de pago (paypal, TPV virtual etc.)
+Se ofrece: 
+- El sueldo y condiciones irán en función de los conocimientos. 
+- Un entorno de trabajo dinámico y con grandes aspiraciones. 
+- Posibilidad de crecimiento profesional.

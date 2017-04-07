@@ -1,0 +1,26 @@
+
+¿Estás en búsqueda de una gran oportunidad?
+En ClickiTPoint podrás formar parte de un gran equipo de trabajo que te ayudará a desarrollarte, te acompañará en tu aprendizaje y te propondrá nuevos retos.
+ClickiTPoint es una consultora especializada en las tecnologías de la información e ingeniería avanzada con más de 15 años ofreciendo soluciones, a nivel nacional e internacional, a las empresas más importantes y de mayor prestigio en todos los sectores en los que operan.
+Actualmente deseamos incorporar un Desarrollador Senior iOS para trabajar en Madrid, con al menos 2 años de experiencia en el desarrollo de aplicaciones de diferente complejidad. El desarrollador trabajará en un equipo multidisciplinar con el cual abordarán proyectos de diferentes alcances de forma dinámica.
+Responsabilidades:
+- Diseño/implementación de diseño propuesto, codificación y pruebas de los módulos necesarios para cumplir con las especificaciones.
+- Creación, ejecución y documentación de las baterías de prueba necesarias para asegurar el correcto funcionamiento del desarrollo.
+- Participar en el desarrollo de los conceptos necesarios para cumplir con los requisitos del proyecto.
+Se ofrece: 
+- Contrato indefinido desde el primer día. 
+- Zona de trabajo: Madrid
+- Gran crecimiento personal y excelente ambiente de trabajo
+En Clickitpoint nuestro objetivo es crecer junto a ti.
+Requisitos
+Estudios mínimos:	 
+Formación Profesional Grado Superior
+Experiencia mínima:	
+Al menos 2 años
+Requisitos mínimos:	
+IOS7 UI design
+Core Data/Store
+Push notifications
+JSON y XML
+Compartir contenidos de las apps en redes sociales.
+APIs para el uso de GPS, acelerómetro, giroscopio y brújula

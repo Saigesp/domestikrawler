@@ -1,0 +1,24 @@
+
+Empresa líder dins del camp de la tecnología del control de motors elèctrics (Motion Control) per entorns diferents com robòtica, industria o espai, formada per un equip jove i multidisiplinar d'enginyers altament qualificats y motivats, necesita incorporar per un projecte innovador un/a Enginyer/a de Software i analista amb talent, motivació i experiencia contrastable en programació en C/C++. Treballarà en els processos de definició, disseny i desenvolupament de productes software/firmware orientats al control de motors elèctrics
+Les seves tasques serán:
+- Desenvolupament i programació d’aplicatius gràcfics (GUI) pes SO Windows que ofereixin a l’usuari una interfaç de configuració i programació de les targetes de control de motors.
+- Desenvolupament de llibreries de programació (APIs) en C/C++ per SO Windows/Linux que ofereixin a l’usuari control sobre les targetes de control de motors.
+- Programació en C per microcontroladors en targetes electròniques de control de motors.
+Requeriments:
+- Enginyeria en Telecomunicacions , informàtica o electrònica
+- Experiencia elevada i contrastable en programació C/C++
+- Experiencia contrastable en el desenvolupament aplicatiu de gràfics (GUI) basats en MFC sota entorn Visual C++ per a Windows
+- Experiencia en el desenvolupament de APIs en C/C++
+- Experiencia en l'ús de Standard Template Library (STL) per C++
+- Nivell alt d'anglès
+- Motivació, iniciativa i afany de superació
+- Capacitat de desenvolupament multitarea.
+- Capacitat de adaptació i autonomía.
+- Capacitat de feina en grup i exce•lència.
+
+Es valorarà:
+- Ús de les llibreries gràficques tipus Codejock, BCGSoft o similar
+- Programació en C# i LabView
+- Interficies de comunicació: USB, RS232, CAN i Ethernet
+- Coneixements de control de motors
+- Coneixements de protocols de comunicació CANOpen

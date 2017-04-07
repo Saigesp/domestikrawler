@@ -1,0 +1,7 @@
+
+Buscamos un Arquitecto ATG para importante multinacional lider en el sector tecnológico.
+Las tareas más importantes serían las siguientes:
+- Soporte a usuarios / desarrolladores de sistemas de IT
+- Implementaciones de componentes / desarrollos
+- Diseño de soluciones ATG
+- Soporte de Infrastructuras ATG

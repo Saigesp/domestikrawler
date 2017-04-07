@@ -1,0 +1,17 @@
+
+Empresa de consultoría y desarrollo de proyectos en web busca desarrollador front-end para proyectos.
+Los requisitos de la oferta son:
+- Mínimo de 2 años de experiencia demostrable en proyectos web (se solicitarán ejemplos)
+- Experiencia en diseño de interfaces de usuario (UI) 
+- Conocimientos sólidos de usabilidad, arquitectura de información y diseño de interacción.
+- Conocimientos avanzados en maquetación web: HTML5 y CSS3
+- Conocimientos en Javascript y jQuery
+El candidato trabajará en varios proyectos simultáneamente.
+- Experiencia en revisión de interfaces, flujos y componentes.
+- Capacidad analítica de objetivos y necesidades de cliente/usuario para conceptualizarlas.
+- Prototipado y funcionales de interacción.
+- Optimización de páginas web y estrategia de contenidos para buscar la mejor experiencia de usuario.
+Valorable:
+- Interesado en los estándares web y SEO
+- Experiencia en diseño de aplicaciones móviles, tanto tablet como móvil.
+- Conocimientos de herramientas de diseño como Photoshop e Illustrator

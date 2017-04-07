@@ -1,0 +1,7 @@
+
+Para implementar 5 funciones en una web ya realizada:
+1) Incorporar PASARELA DE PAGO.
+2) Modificar orden de la plantilla del "pedido":  para que se vea arriba, a la derecha, lo que llevas comprado: "TU PEDIDO"
+3) Ajustar sitio de envío a las oficinas de CORREOS (tenemos acuerdo de ellos con el listado, etc.).
+4) Crear un servicio de PERSONALIZACIÓN del producto: pudiendo añadir un "nombre" (hasta 11 caracteres) y un "teléfono" (hasta 9 caracteres).
+5) A su vez crear una plantilla interna muy sencilla con el LISTADO de estos nombres y teléfonos acompañado del orden de pedido.

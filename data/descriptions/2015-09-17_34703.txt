@@ -1,0 +1,10 @@
+
+Empresa ubicada en la cala del Moral busca programador .NET
+Funciones:
+Diseño y desarrollo webPruebas unitarias y de integración del código fuenteAnálisis de los requisitos técnicos y funcionales dentro de sus competenciasCreación de documentación técnica
+Requisitos:
+Experiencia de al menos 2 años en desarrollo .NETExperiencia en C#Experiencia en HTML5Conocimiento y manejo de bases de datos en SQL ServerConocimiento en diseño responsive (Bootstrap)Conocimientos y experiencia en ASP.NET MVC FrameworkExperiencia con JQuery y CSSConocimiento en arquitectura de 3 capas y arquitectura TFS
+Horario: Jornada Completa
+Salario:
+Salario Junior:15000-18000
+Salario Senior: 18000€/anuales primeros 3 meses (periodo de prueba), posteriormente 25000€/anuales

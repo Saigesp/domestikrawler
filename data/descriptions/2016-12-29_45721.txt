@@ -1,0 +1,15 @@
+
+En inMediaStudio buscamos personas que quieran formar parte un equipo que disfruta con la tecnología, y cuyo objetivo principal es trabajar por y para la innovación, por eso en nuestro trabajo todos los días suponen un nuevo reto.
+Nuestros proyectos requieren de creatividad, preparación y una alta dosis de entusiasmo.
+Si te gusta investigar, seguir aprendiendo nuevas tecnologías y deseas formar parte de un equipo que disfruta con su trabajo, este es tu sitio.
+Accede a nuestra web y compruébalo por ti mismo http://www.inmediastudio.com/
+¿QUÉ NECESITAMOS?
+Buscamos un desarrollador de Unity senior para ayudarnos a desarrollar proyectos relacionados con la Realidad Virtual y la Realidad Aumentada.
+Requisitos:
+- Experiencia con el manejo de Unity
+- Conocimientos de 3D
+- Experiencia en lenguajes como C# - C - C++ 
+- Experiencia demostrable
+Se valorará:
+- Experiencia en la realización de App de realidad virtual.
+

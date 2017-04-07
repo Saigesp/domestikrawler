@@ -1,0 +1,10 @@
+
+Internetría es una agencia de diseño estratégico que implementa servicios digitales.
+Queremos incorporar a un desarrollador web 'full stack' proactivo, con ganas de crecer profesional y personalmente, orientado al Desarrollo Web Backend (PHP, Linux, MySQL) Y Frontend, con capacidades resolutivas, organizativas y comprometido con su trabajo.
+· Requisitos mínimos:
+- Full-stack developer que le encante la programación y entorno web
+- PHP5, MYSQL, POO, HTML5, JAVASCRIPT y GIT
+- Experiencia en framework PHP y frontend
+- Mínimo 3 años de experiencia demostrable
+· Requisitos deseables:
+- Yii Framework, Bootstrap, Laravel y algún conocimiento de desarrollo de apps móviles o inquietud en aprenderlo.

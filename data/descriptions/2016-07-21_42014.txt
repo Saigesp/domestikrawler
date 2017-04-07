@@ -1,0 +1,20 @@
+
+En Iwantic, primera agencia española especializada en selección de perfiles digitales, reclutamos a los candidatos más brillantes para los empleos que están cambiando el mundo.
+En este momento, estamos buscando un/a Node.JS Developer para una gran start-up del sector Internet en Barcelona.
+Funciones: 
+ -Analizar y desarrollar con NodeJS. 
+ -Estudiar el uso de las nuevas tecnologías para mejorar el software. 
+ -Mejorar nuestro Motor de Búsqueda Semántica. 
+ -Colaborar con los compañeros de equipo en el desarrollo de una nueva RESTful API. 
+ -Mejorar nuestra aplicación más importante utilizando NodeJS. 
+ -Integrar nuestro software en aplicaciones de otras compañías.  
+Requisitos: 
+ -Título de Grado/Licenciatura (o superior) en Informática, Ingeniería o otra disciplina relacionada (Telecomunicaciones, Matemáticas, Física). 
+ -De 1 a 3 años de experiencia en desarrollo de software en NodeJS. 
+ -Conocimientos demostrables de NodeJS, SQL y NoSQL. PHP apreciable.
+ -Conocimientos demostrables de seguridad en NodeJS.
+ -Conocimientos de frameworks de aplicación y test como Express, Serverless, Mocha, Chai, o similar.
+ -Idiomas: nivel nativo de catalán y español. Buen nivel de inglés (al menos First Certificate Level). 
+ -Pasión por el diseño y la programación, y ganas de desarrollar nuevas ideas. 
+ -Ganas de mejorar y solucionar los resultados inesperados. 
+Se ofrece contratación indefinida, interesante paquete retributivo, jornada laboral completa, formación inicial, promoción interna, horario flexible y buena conciliación vida familiar-laboral.

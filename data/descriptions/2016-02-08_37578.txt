@@ -1,0 +1,18 @@
+
+Pinchaaqui.es es una consultora de marketing online, una empresa joven que nace de la mano de gente con una dilatada experiencia dentro del área del marketing, la comunicación, la gestión comercial y sobre todo las nuevas tecnologías. 
+Andamos a la caza de un desarrollador web con amplia experiencia desarrollando soluciones a medida. Buscamos una persona implicada, con ganas de crecer profesionalmente y con capacidad de trabajar en equipo.
+Requisitos: 
+Programador PHP+MySQL con amplia experiencia desarrollando soluciones a medida con el patrón MVC.
+Experiencia fluida en maquetación HTML5, CSS3 y RWD (solemos trabajar con el framework front-end Bootstrap).
+Versado en jQuery y Ajax.
+Familiarizado con el uso de sistemas de control de versiones (SVN, Git).
+Diestro en la implementación de soluciones en Wordpress.
+A tener en cuenta:
+Tener conocimientos básicos de Photoshop e Ilustrator.
+Manejar bien el ritmo frenético característico de una agencia de marketing.
+Que conceptos marketinianos como UX, SEO y similares no te suenen a chino.
+Puntos extras:
+Desarrollo con otros CMS como Moodle, Drupal y Prestashop.
+Administración de sistemas.
+Importante: 
+Las funciones de la oferta laboral se desempeñarán en las oficinas centrales de Vila-Real (Castellón). Preferiblemente, candidatos próximos a la ubicación de las oficinas por la necesidad de la presencia física del mismo. En su defecto, candidatos con posibilidad de movilidad geográfica.

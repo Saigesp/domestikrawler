@@ -1,0 +1,19 @@
+
+Requisitos
+Formación: FP2 / Ingeniero Técnico o Superior / Grado en Informática.
+Conocimientos y experiencia de: Python, MySql, Django, HTML5, CSS3, jQuery.
+Se valorará
+-	Conocimientos / experiencia en:
+o	Bootstrap u otro framework responsive. 
+o	Moodle (plataforma educativa).
+o	Wordpress.
+o	PostCSS, SASS o LESS.
+o	Administración de servidores Linux.
+o	Control de código con Git.
+o	Definición e implementación de pruebas.
+o	SEO.
+o	Desarrollo en ASP.NET.
+Se ofrece:
+Contrato indefinido.
+Jornada completa.
+Horario flexible.

@@ -1,0 +1,13 @@
+
+Counterpoint Labs is hiring
+Help us to improve personal safety through location technologies!
+We believe in great incentives for great work. Please check out below our open positions:
+Software Development Engineer - iOS
+We are looking for a strong, experienced developer for iOS.
+Qualifications:
+At least 3 years of experience shipping complex, on-schedule and high-quality software products.
+A university computer science degree or equivalent.
+At least 3 years of Objective C, C++, with strong and rigorous coding practices.
+1+ experience with Mac OS, XCode, iOS SDK;
+Strong design, problem-solving, and debugging skills; ability to think outside the box.
+Strong customer focus and passion for doing what’s right for the customer.

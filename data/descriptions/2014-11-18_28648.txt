@@ -1,0 +1,16 @@
+
+Empresa con más de 14 años de experiencia en el mundo de la programación web y hosting busca programador web PHP.
+Presencial en Murcia
+Buscamos programador web con ganas de integrarse en un equipo joven y dinámico pero con amplio rodaje y experiencia en proyectos web.
+Horario continuado de 08:00 a 17:00 de lunes a viernes.
+Ambiente relajado y cordial.
+No apto para gente sin experiencia o que no puedan venir a diario a nuestras oficinas en el centro de Murcia.
+Sueldo acorde a los conocimientos. Contrato desde el primer momento.
+Mándanos unas palabras para contarnos porqué crees que el puesto puede ser tuyo.
+Requerimos:
+- PHP: alto/muy alto. Has de ser capaz de leer, entender funcionalidad y escribir código php desde cero.
+- MySQL: ligado con lo anterior.
+- Photoshop: si sabes algo, mejor.
+- JQuery, HTML, CSS y bootstrap: todo lo que sepas, mejor.
+No nos interesa lo que diga tu CV, sino lo que sepas, que es lo más importante ;)
+Gracias.

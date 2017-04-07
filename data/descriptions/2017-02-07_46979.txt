@@ -1,0 +1,18 @@
+
+Primer corredor de seguros 100% móvil
+Estamos ampliando nuestro equipo técnico y buscamos un candidato para liderar el desarrollo de nuestras aplicaciones para Android.
+
+El/la candidato/a se encargará de:
+- Liderar el desarrollo de nuestras aplicaciones para Android
+- Mantener y actualizar las funcionalidades actuales
+- Desarrollar nuevas funcionalidades y nuevas aplicaciones
+- Ayudar al diseño de la API REST con la que la app se comunica
+- Preparar tests para que la app sea totalmente estable y funcional
+No nos fijamos mucho en los títulos o la experiencia, valoramos más las ganas, la aptitud y el interés por seguir aprendiendo y mejorando cada día. Preferimos que nos mandes tu perfil de Github o Stack Overflow que tu curriculum.
+
+¿Qué ofrecemos?
+- Proyecto de larga duración.
+- Jornada Completa con flexibilidad horaria.
+- Ambiente joven con un equipo con ganas de trabajar duro y pasarlo bien.
+- Retribución competitiva.
+

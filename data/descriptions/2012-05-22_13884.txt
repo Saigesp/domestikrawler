@@ -1,0 +1,9 @@
+
+Programador con experiencia de 3 a 5 años en entorno Java. Conocimientos avanzados de Spring e Hibernate. 
+Persona proactiva y responsable con capacidad de trabajo en equipo.
+Estamos buscando un programador con ganas de formar parte de un proyecto ilusionante y de gran potencial. 
+Plannic.com es una red social para hacer planes y compartir aficiones formado por un equipo joven y dinámico. 
+Se valorará experiencia en el desarrollo de redes sociales o aplicaciones 2.0 y en otros lenguajes de programación.
+El candidato será el encargado del mantenimiento de la aplicación y desarrollar nuevas funcionalidades. 
+ http://www.plannic.com
+

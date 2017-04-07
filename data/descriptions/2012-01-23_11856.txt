@@ -1,0 +1,7 @@
+
+Buscamos un/a estudiante, o que haya finalizado recientemente sus estudios, y que esté verdaderamente interesado/a en programación y desarrollo web para complementar nuestro equipo.
+Requisitos indispensables:
+- Convenio de prácticas en su escuela
+- Amplio manejo con PHP, MySQL, CSS y maquetación web 
+Se valorará conocimiento de frameworks PHP como Symfony.
+

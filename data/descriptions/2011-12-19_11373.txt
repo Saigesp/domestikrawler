@@ -1,0 +1,13 @@
+
+Desarrollador web
+Proyectos propios terminados en ASP.NET o JAVA. Abstenerse candidatos que no hayan desarrollado nunca una web completa. 
+Conocimientos necesarios: 
+Desarrollo web con ASP 
+Conocimiento de SQL Server 
+Dominio de lenguaje HTML y conocimientos para aplicar correctamente Jquery y Ajax en una aplicación web. 
+- Experiencia en desarrollo web con tecnología Java; grails es un plus; 
+- Conocimiento de la arquitectura REST; 
+- Conocimiento de bases de datos y SQL; 
+- Se valorará experiencia de tecnologías web como HTML, CSS, Javascript, JQuery; 
+- Se valorará experiencia en administración Linux; conocimiento de servidores de aplicaciones Java como Apache Tomcat;
+

@@ -1,0 +1,2 @@
+
+Hola, estoy buscando un maquetador html y css para montar una plantilla de wordpress en un hackathon (un evento en que se monta una empresa en dos días). Tendría que trabajar el sábado 26 por la tarde y el domingo por la mañana, momento en que la web debería estar completa. El arte lo llevo yo. Urge.

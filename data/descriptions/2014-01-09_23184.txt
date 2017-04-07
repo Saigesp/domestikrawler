@@ -1,0 +1,10 @@
+
+We have an immediate opportunity for a freelance Web Developer in Berlin Germany or Remotely (European timezones prefered).
+You will be responsible for developing a mobile website (front-end) for our customers. The mobile website should be built using a client side adaptation framework and the EvoMob platform, which is Javascript heavy. Should you do a good job, we are also interested in longer terms projects.
+Desired qualifications:
+- Proficient in object oriented javascript programming
+- Proficient in using frameworks jQuery and/or ZeptoJS
+- Proficient in writing clean, well documented and performant javascript.
+- Experience using DustJS
+- Experience with modern mobile CSS frameworks such as PureCSS, ratchet, topcoat
+- Experience in HTML5 and CSS3

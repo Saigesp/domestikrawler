@@ -1,0 +1,11 @@
+
+We are looking for a PHP analyst-developer for our office in Malta. No high level of English is required.
+Experience will be valued in frameworks and GIT, used to working on projects with scrum technologies, ITIL, ...
+We offer:
+- Permanent contract with training 6 months. 
+- Salary According worth.
+- Integration to diversified team work.
+Required:
+- 2, or more, years of experience as PHP developer.
+- 2, or more, years of experience as JQuery developer.
+- Object Oriented developing.

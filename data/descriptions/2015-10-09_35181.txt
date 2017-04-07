@@ -1,0 +1,4 @@
+
+Se precisa persona con experiencia en servicios y redes bajo servidores GNU/Linux (Especialmente Debian) para la ampliación de la infraestructura de Teenvio, imprescindible conocimientos de shell scripting (bash, perl, python, etc), Apache, Nginx, MySQL, Chroot, Postfix. 
+Se valorará positivamente conocimientos de virtaulización, entornos chroot y programación orientada a objetos.
+El cometido será mantener y renovar la arquitectura existente, aportando nuevas ideas para que nuestro servicio siga en constante evolución, es un trabajo con mucho I+D, hay que estar continuamente enfrentándose a retos.

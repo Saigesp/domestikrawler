@@ -1,0 +1,46 @@
+
+We are a dynamic and fast growing company taking language training to the next level. Based in Barcelona and with a very international team of people, we provide an award-winning cloud platform that manages language training for students and trainers worldwide.
+The company has a unique culture that we want to preserve, so we put a disproportionate value on cultural fit. We value a can-do attitude, positive energy, initiative, self-learning, independent thinking, assertiveness and determination. Our team is very international so experience abroad or in multicultural teams is a big plus.
+All communications in our company are conducted in English, so it is imperative that the candidate be proficient in English, with Spanish being an optional plus. In fact, the interview will be conducted exclusively in English.
+Responsibilities
+•     Manage the front-end layer of the Learnlight web platform, from the visible user interface to the javascript code that manages interactivity and communication with the back-end server.
+•      Collaborate with graphic designers, usability experts, product managers, back-end engineers and testers to design, implement and test a world-class user experience.
+•	Investigate and implement the best-practices, libraries and technologies to develop and maintain a front-end that is elegant, adaptable, standards-compliant, consistent, flexible, performant and manageable.
+•	Improve and maintain the consistency, readability and structure of the front-end code to ensure manageability for years to come.
+•	Improve and maintain the ability to customize and skin the user interface as much as possible, emphasizing the use of ready-made UI frameworks for standard user interface elements.
+•	Improve and maintain the front-end performance of the application, including page load times, client-side script responsiveness and communication with the back-end server.
+•	Identify areas where front-end development may be outsourced (e.g. mobile platform development), and manage the relationship with the external developers, from the initial selection to design, development and testing.
+Skills & Qualifications
+Attitude and Communication
+•	Excellent communication, interpersonal and organizational skills.
+•	Strong problem-solving skills, excellent verbal and written communications skills.
+•	Ability to work independently, prioritize, and solve problems proactively and creatively in a fast-paced environment.
+•	A great attitude, with a passion for pixel-perfect visual design, engaging interactions and animation.
+Language
+•	Proficient in English, with familiarity of technical and business concepts.
+•	Spanish an optional plus.
+•	Experience abroad or in multicultural environments preferred.
+Required Experience
+•	A portfolio demonstrating how you bring designs and interactions to life with code.
+•	Bachelor’s degree in computer science or comparable experience.
+•	5+ years of experience as a Software Engineer with a focus on UI and thorough understanding of front-end best practices.
+•	Proficiency with implementing UI design using HTML 5, CSS 3, jQuery, JQueryUI, JavaScript, consuming JSON web-services, AJAX.
+•	Experience in responsive and adaptive web design.
+•	Experience in designing and developing UI for various devices (desktop, tablet, mobile, etc.)
+•	Experience in performance tuning of the front end elements.
+•	Good understanding of server-side web frameworks such as ASP.NET or JSTL and JSP.
+•	Experience with version control systems like Mercurial, Git or SVN.
+Desired Experience
+•	Experience working withing short development cycles using agile methods.
+•	Experience and understanding of CSS preprocessors SASS/LESS.
+•	Experience in at least one JavaScript web application framework/library: React/Redux, Backbone, Angular, Ember, Knockout
+•	Experience with JavaScript templating: Mustache, Handlebars.
+•	Experience with vector and raster image manipulation packages (e.g. Photoshop and Illustrator).
+Company and Product Background
+Our company offers language training to businesses and consumers. Our award-winning web platform connects students with the best native-speaking trainers around the world. While most sessions occur directly between the student and the teacher via the phone or webcam, the Learnlight platform manages everything in the background, from scheduling to reporting, all of it across multiple languages, timezones and currencies.
+Students can log into Learnlight to view their scheduled sessions, book or reschedule new sessions when and where they want, receive trainer feedback, anonymously rate their trainers in turn, expand their learning by completing interactive pedagogical exercises, and get reports on their progress with us.
+Trainers can log into Learnlight to view and prepare their sessions, provide feedback to their students, rate their progress, and get reports on their daily activities and periodic payments.
+Finally, our internal administrators can log into Learnlight to manage the entire business, including matching students and teachers via a sophisticated coordination engine, scheduling sessions, adding new interactive material for students to complete, and running sophisticated reports on student and teacher progress, client billing and teacher payments.
+Product Technical Background
+Learnlight is a fast, elegant and dynamic web application running on a stack of .NET framework, IIS, PostgreSQL and Windows Server. On the browser we use advanced technologies to create a fast and elegant user experience, including jQuery and AJAX. On the server we use C# and the .NET framework, with ASP.NET API + MVC for web server and UI templating, combination of ORM and direct ADO.NET for database access, and many open source libraries to manage infrastructural issues such as logging. On the database we use PostgreSQL, with increasing use of custom views, functions and cache tables to speed up the performance of the application.
+

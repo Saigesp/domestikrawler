@@ -1,0 +1,6 @@
+
+En Pavlov, agencia de publicidad de Barcelona, buscamos un programador online para incorporar a la plantilla. 
+Necesitaríamos que tuviera conocimientos y experiencia profesional en Html5, Css, Javascript, Php, MySQl, Xml, Jquery y preferentemente que haya trabajado con la Api de Facebook. 
+Se valorarán adicionalmente conocimientos de Wordpress o Drupal, Magento, usabilidad, UI/UX, desarrollo en Android o iPhone, creación de wireframes, edición de video o similares.
+Interesados enviar el CV a jobs@pavlov.es
+

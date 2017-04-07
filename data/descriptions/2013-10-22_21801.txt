@@ -1,0 +1,21 @@
+
+Somos Portzar. Queremos retumbar los cimientos del mundo artístico y creativo. Queremos democratizar el arte. Queremos redibujar al artista.
+Para conseguirlo estamos buscando ampliar nuestro equipo, y queremos una persona apasionada por su trabajo y que esté dispuesto a retarse cada día y mejorar personalmente. Nos gusta, amamos, necesitamos hacer las cosas bien. Somos un equipo ágil, con ganas de aprender y cambiar el mundo. El ambiente es inmejorable, mejor que una fraternidad. Buscamos un developer que sienta la pasión y la visión que está en el ADN de portzar.
+¿Te ves en el papel? También necesitamos que:
+- Seas un maestro jedi con Django y Python, tus jóvenes padawan esperamos tu sabiduría
+- Conozcas los recovecos de la jungla API REST Framework
+Si además nos puedes deslumbrar con lo siguiente, mejor que mejor:
+- Seas capaz de lanzarte y dominar los fogones de Chef
+- Puedas controlar las bestias de Nginx y Gnunicorn
+- Te deslices por las sombras como un Ninja del HTML 5
+----------------------------------------------------------------------------------
+English Version:
+We're Portzar. We're out to rebuild the foundations of the creative and artistic industry. Democratize art. Redraw the artist.
+To do so we need to increase our team! We're looking for impassionated souls enthusiastic about their work and willing to challenge themselves every day. We want, love and need to do things right. We're an agile team wanting to learn and change the world. The work atmosphere we have is much like a frat… What we want is a developer who feels the passion and vision that is the DNA of Portzar.
+Does this sound familiar? Is this you? We also need that:
+- You be a Jedi master with Django and Python, your young Padawans await your wisdom
+- You know the innings of the API REST Framework jungle
+- If you can also enlighten us with the following, we will bow unto thee:
+- You cook like a pro with the Chef's fireplace
+- You can tame the Nginx and the Gnunicorn (the Jabberwocky is a nice-to-have)
+- You slide along the shadows like an HTML 5 Ninja

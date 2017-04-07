@@ -1,0 +1,25 @@
+
+Grupo Intercom ha creado más de 50 negocios en internet. Actualmente somos 1.000 personas y figuramos en el top ten de las mejores empresas para trabajar en España según el Instituto Great Place to Work.
+Precisamos seleccionar un FRONT-END DESIGNER AND DEVELOPER para colaborar en dos de sus proyectos, mundoAnimalia.com  y Jobisjob.com.
+•	Realización del diseño y maquetación cross-brosser y cross-device de la interfaz del site.
+•	Desarrollo de los elementos de interacción de la página.
+•	Diseño y maquetación de emails para una correcta visualización en los principales clientes de correo, incluido webmail.
+•	Aplicación de tests A/B y multivariante.
+•	Optimización del rendimiento Front-End del site.
+Ofrecemos:
+•	Trabajo creativo con una  fuerte capacidad de desarrollo profesional y oportunidades de formación.
+•	Buen ambiente de trabajo en una empresa joven y dinámica.
+•	Start-ups con un fuerte potencial de crecimiento.
+•	Entorno con un nivel muy alto desde el punto de vista técnico y de negocio, con más de 15 años de experiencia en internet.
+Requisitos Mínimos:
+•	Uso avanzado de herramientas de prototipado y diseño web.
+•	Conocimientos avanzados de HTML5  y  CSS3.
+•	Conocimientos avanzados de JavaSript y JQuery.
+•	Experiencia en diseño y maquetación de webs con entorno colaborativo y social (no webs estáticas)
+Requisitos Deseados:
+•	Haber desarrollado interfaces web para dispositivos móviles.
+•	Sensibilidad por la usabilidad web, experiencia de usuario y arquitectura de la información.
+Características Personales:
+•	Pasión y profundo conocimiento del entorno internet.
+•	Curiosidad y pasión por aprender.
+•	Que le gusten los animales.

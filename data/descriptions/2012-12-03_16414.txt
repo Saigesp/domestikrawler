@@ -1,0 +1,25 @@
+
+Buscamos programador senior con experiencia en el desarrollo de videojuegos o aplicaciones gráficas basadas en entornos 3d en tiempo real usando el motor Unity3d.
+Responsabilidades principales:
+El candidato se incorporará al equipo de I+D+I enfocado en el desarrollo de una app para iPad en el que se gestionarán diversas librerías y recursos 3d en tiempo real. Deberá realizar tareas como:
+-Planificación de recursos y tiempos de las tareas técnicas.
+- Arquitectura y optimización de rendimiento.
+-Desarrollo de la app.
+-Mantener documentación de diseño detallada, durante el desarrollo del proyecto.
+Estudios mínimos:
+Ingeniero en Informática
+Experiencia mínima:
+- Mínimo 3 años de experiencia en proyectos de programación gráfica (videojuegos, UI, etc…)
+Requisitos imprescindibles:
+- Experiencia demostrable en desarrollo de videojuegos o aplicaciones gráficas basadas en entornos 3d en tiempo real.
+- Experiencia en desarrollo con Unity3d
+-Conocimientos avanzados de C#
+- Experiencia en desarrollo para iPad
+Muy valorable:
+-Al menos 1 título comercial publicado.
+Ofrecemos:
+-Incorporación inmediata
+-Contrato por obra y servicio el primer año.
+-Buen ambiente de trabajo.
+-La remuneración dependerá en función de la experiencia y el perfil del candidato.
+

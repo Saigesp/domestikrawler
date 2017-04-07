@@ -1,0 +1,28 @@
+
+Somos una empresa especializada en Rentabilizar Negocios online. 
+Necesitamos cubrir una plaza de Desarrollador Senior PhP con experiencia en:
+
+ PHP
+ 
+MySql
+ 
+Wordpress
+ 
+Prestashop
+ 
+Javascript (y jQuery)
+
+Idealmente valoraríamos conocimientos y/o experiencia en:
+
+ Administración y Desarrollos en Magento
+ 
+SQL Server. Control de errores, paquetes, procedimientos
+ 
+ASP con VbScript
+ 
+Virtual Browsers para testing automatizado de aplicaciones web como Selenium, Phantom Js y/o Casper Js
+
+
+Se ofrece Retribución en base a valía y Contrato indefinido. 
+Flexibilidad de horarios. Trabajo por objetivos.
+Zona de trabajo Principe Pío

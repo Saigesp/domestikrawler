@@ -1,0 +1,13 @@
+
+Nuestro cliente, empresa multinacional dedicada a la comunicación móvil corporativa y estrategias de mensajería Push está en búsqueda de un Ruby on Rails DevOps para formar parte de su equipo técnico en plena expansión en sus oficinas de Barcelona.
+El Perfil que buscamos es el de un desarrollador con aptitudes de sistemas (un devOps).
+Esta persona pertenecerá al equipo de desarrollo de la aplicación insignia de la compañía y colaborara en el equipo de producción y sistemas en el mantenimiento y soporte de la misma. Además deberá poder cooperar en otros sistemas y tareas ayudando en el mantenimiento de pequeñas herramientas y la estabilidad del software de la empresa. 
+Requisitos:
+- 3+ años de experiencia desarrollando en Ruby on Rails (lenguaje en que está desarrollada su plataforma) 
+- Experiencia en MongoDB y Redis (Poseen un stack bastante típico)
+- Familiarizado con  metodologías Agiles de desarrollo
+- Nociones de SQL y de Linux 
+- Persona pro-activa con ganas de crecer dentro de la empresa y con interés en el sector
+- Buen nivel de ingles
+- Autorizacion para trabajar en España
+Este es un puesto para incorporacion en plantilla de la empresa no para contratacion de servicios freelance.

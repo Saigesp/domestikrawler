@@ -1,0 +1,17 @@
+
+En Abalia buscamos incorporar en nuestros equipos un desarrollador Front-end para trabajar en uno de nuestros importantes clientes en Madrid. La ubicación del trabajo es la Finca pero también hay posibilidad de realizarlo en remoto.
+La persona seleccionada deberá aportar una experiencia mínima de al menos 3 años, con conocimientos en:
+o	Estándares W3C: HTML5 / CSS3.
+o	Javascript.
+o	JSON.
+o	Bootstrap.
+o	Jquery.
+o	Angular JS.
+o	Responsive Design.
+•	Creación de un código limpio, semántico y reutilizable.
+•	Experiencia trabajando en equipos multidisciplinares (UX, diseño visual, back-end).
+•	Capacidad de comunicación oral y escrita. 
+Deseable:
+•	Experiencia en aplicaciones de diseño visual: Adobe Creative Suite. En especial Adobe Photoshop e Illustrator.
+•	Experiencia como Diseñador Visual
+

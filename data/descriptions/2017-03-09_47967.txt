@@ -1,0 +1,29 @@
+
+You would join a team that delivers anti-piracy services to the media industry to strengthen current Nagravision PayTV positioning and foster our long term cyber security business growth.
+In the context of illegal content sharing, you will be part of a team assuming the responsibilities of the development of the tools and products, as well as the service delivery operations.
+Let me tell you a bit about the responsabilities of the position:
+•	Maintain and extend the web application of a piracy monitoring dashboard.
+•	Improve the testability of the application.
+•	Coach and train colleagues to ensure redundancy on the maintenance of the web application.
+•	Understand and materialize the requirements of business owners with short inspect and adapt cycles.
+•	Define the hosting strategy, roll it out and ensure the availability.
+•	Ensure a seamless transition of the artefacts into operational contexts.
+•	Develop from scratch web applications based on business needs.
+We value skills such as:
+•	Able to understand remote stakeholders with non-technical backgrounds.
+•	Autonomous and result oriented attitude.
+•	Hacker minded, curious and rigorous.
+
+What is the background we would love to find?
+•	Minimum 3 years of Full Stack experience in designing and developing large-scale web-based applications using HTML5, CSS.
+•	Strong experience with data modelling, relational databases, and NoSQL databases. Cassandra is a plus.
+•	Strong experience with web technologies such as, JavaScript (AJAX, JQuery), and PHP, AngularJS.
+•	Experience with web app security best practices like OWASP Top 10.
+•	Experience with source control, specifically Git.
+•	Experience with Python is a plus.
+•	Knowledge in Highcharts or similar is a plus.
+•	Degree in engineering / computer science or equivalent.
+•	Quality, methodology or security certifications are a plus.
+•	Fluent English (International environment, worldwide interactions).
+Do you like to travel? 
+•	You will have the opportunity to do so up to 20% of your time.

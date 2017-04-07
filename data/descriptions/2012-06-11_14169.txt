@@ -1,0 +1,14 @@
+
+BELBEX es un proyecto innovador con presencia internacional en Europa. Consiste en una plataforma online b2b de grandes y medianas empresas que combina funcionalidades punteras de las redes sociales y otras características avanzadas más orientadas al sector profesional. La plataforma está desarrollada con las últimas tecnologías Web del mercado (ASP.NET 4.0, SQL Server 2008, Jquery, LinQ, Cloud Computing...).
+Descripción: 
+Se busca incorporar un/a experto en UX que pueda hacerse cargo de todo el front-end de la plataforma para incorporarse en su equipo de IT ubicado en Madrid (Zona Velázquez). Dicha plataforma se encuentra desarrollada en ASP.NET y está proyectado extenderla a dispositivos móviles.
+Se busca un/a profesional con en torno a 2 años de experiencia como desarrollador front-end, tecnológicamente inquieto, capaz de implementar y enriquecer un diseño web, y con talento para la programación web frontend (JQuery, Javascript, etc.).
+Requisitos mínimos: 
+- Buen conocimiento de HTML, CSS
+- Buen conocimiento de Jquery, tanto a nivel de lenguaje como a nivel de controles implementados (Jquery UI)
+- Conocimientos de Cross-Browser para poder elaborar maquetaciones compatibles con todos los navegadores del mercado (incluyendo compatibilidad con IE6, IE7).
+Requisitos deseados: 
+- Conocimientos de ASP.NET
+- Conocimientos de usabilidad web
+- Experiencia con desarrollo para iPhone, Android, etc.
+

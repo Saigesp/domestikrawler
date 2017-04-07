@@ -1,0 +1,21 @@
+
+En Grinto Consulting; consultora especializada en desarrollo de aplicaciones, marketing digital y eficiencia operativa en el mundo online; estamos creciendo y reforzando nuestro equipo, por ello buscamos una persona que quiera ser parte de una empresa joven, con ganas de aprender y de enfrentarse a nuevos retos profesionales.
+Sus funciones principales serán:
+• Análisis, desarrollo y mantenimiento en SharePoint 2013
+•  Gestionar nuevas propuestas y proyectos en SharePoint 
+•  Diseño e implantación de nuevos módulos 
+•  Administración y gestión de aplicaciones de servicio SharePoint 
+•  Despliegue de paquetes SP para el despliegue en diferentes entornos 
+•  Preparación de Scripts en PowerShell 
+Conocimientos necesarios:
+•	Desarrollo en .NET con CSharp
+•	Sharepoint 2010 - 2013
+•	HTML - CSS - Javascript (JQuery)
+•	Powershell
+Conocimientos deseados:
+• PHP
+Ofrecemos:
+Entorno de trabajo joven, agradable, dinámico, abierto y con capacidad de aprendizaje.
+Salario adaptado a las capacidades y valía del candidato.
+Contrato indefinido
+Jornada completa.

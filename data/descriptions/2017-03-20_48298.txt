@@ -1,0 +1,25 @@
+
+Preparado para unirte a la revolución. ¡Forma parte del Cambio!
+​
+Combinando la última y más puntera tecnología ( 3D, VR, AR) con
+VisualFX cinematográficos conseguimos transformar la experiencia e interacción de
+compra en el ecommerce, todo ello ofreciendo un modelo de servicios que combina
+la tecnología, la creatividad y la industrialización en todos los procesos.
+​
+Start up formada por una empresa líder en el mundo cinematográfico y los VFX,
+con tecnología que ha participado en películas como Avatar, y empresa líder tecnológica en el mundo 3d.
+Puesto:
+Programador Enfocado a optimización de algoritmos
+​
+Funciones:
+Desarrollo nuevas soluciones
+Soporte al equipo de ingenieros.
+Participar en el proceso de conceptualización de nuevas aplicaciones
+Conocimientos requeridos:
+- HTML/HTML5         - CSS/CSS3
+- Three js.                      - WebGL
+- Unity                            - javascript
+- jQuery                          - PHP
+- MySQL
+Experiencia laboral mínima:
+1 a 3 años

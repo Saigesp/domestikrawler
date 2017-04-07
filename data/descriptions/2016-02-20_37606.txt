@@ -1,0 +1,26 @@
+
+We are seeking web backend developers, who are up to date with latest web technologies, possess both architectural and structured programming skills, a sympathy for UX, and have the experience required to work alongside designers, consultants, developers and other specialists to develop cutting edge websites, stores and web apps for our clients with minimal guidance.
+This is an opportunity for boosting your career to a German company with european clients.
+They will work in a dynamic international team of digital strategists & developers across various projects, both locally in Barcelona and remotely with the head office in Germany. 
+The ideal candidate will be versatile, self-motivated and hardworking.
+Skills and experience:
+●	Demonstrable commercial experience designing and developing modern responsive websites (2+ years).
+●	Up-to-date with current and future web standards & technologies, having a genuine passion for the industry.
+●	A ’self-starter’ who can jump in quickly without a lot of direction, and learn by asking the right questions.
+Required:
+●	Integral understanding of designing & writing secure, sustainable, well-documented and comprehensible code in PHP.
+●	Good understanding of modern web development standards & best practices (e.g., HTML5, CSS3+, JavaScript/ECMAScript5+, Ajax, HTTP, BEM, SMACSS).
+●	Ability to quickly read and understand new & foreign code bases.
+●	In-depth experience in relevant content management systems (Drupal, WordPress).
+●	Experience in e-commerce systems (e.g., WooCommerce, Drupal Commerce, Magento, Stripe, PayPal).
+●	Familiar with web frameworks and libraries (e.g., Symfony, Doctrine, Laravel, PHPUnit).
+●	Very good communication skills.
+●	Love to share knowledge, also publicly.
+●	English and/or German.
+Desired:
+●	Track record of contributions to free and open source software (FOSS) projects.
+●	Experience in developing RESTful Web Services (JSON, XML), interfaces, data migrations, and imports.
+●	Additional development experience in Go, Ruby, and/or Node.js (not only for process automation).
+●	Relational databases, document stores, caches (e.g., SQL, MySQL, SQLite, MongoDB, Redis, Memcached)
+●	Active design & development of open source system extensions (modules, plugins, components, themes).
+●	Strong analytical and problem solving skills.

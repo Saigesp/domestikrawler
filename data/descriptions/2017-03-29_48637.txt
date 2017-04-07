@@ -1,0 +1,49 @@
+
+Raet (raet.com) is the leading HR software company and cloud solutions provider with millions of users worldwide and over 50 years of experience. Headquartered in the Netherlands, with hubs in Europe and Latin America, our HR platform helps more than 1500 clients with Human Capital Management (HCM), ranging from Standard payroll to funky eHRM (Human Resource Management) products in the public and private sector.
+Are you passionate about IT, and want to build cool stuff that has an impact on how people work day by day? Do you get a kick out of developing state of the art software? Are you up for a real challenge to become the best UX/UI Implementer.
+In Madrid we have already established a major tech hub and agile environment to enable us to develop a new innovative and user friendly HR platform solution that will really rock our industry. We have more than 100 software developers, UX designers and professional staff among others. We want to expand substantially over the coming years, so we are looking for committed people who believe in our long term perspective.
+Finally, and ultimately most important, we are looking for team members who share our mindset & core values: Smart, Helpful, Conscious, Expert & Reliable.  Are you up for it?
+We are looking for a UX/UI Implementer who will be responsible for implementing visual elements that users see and interact with in a web application and maintenance of new systems - or to bring existing applications to a new level
+ROLES AND RESPONSABILITIES
+•	Implement new user-facing features 
+•	Build reusable code for future use 
+•	Ensure the technical feasibility of UI/UX designs
+•	Optimize application for maximum performance and scalability
+•	Assure that all user input is validated before submitting to back-end
+•	Collaborate with other team members and stakeholders
+SKILLS
+•	Proficient understanding of web markup, including HTML5, CSS3 
+•	Server-side CSS pre-processing platforms, such as SASS
+•	Client-side scripting and JavaScript frameworks, including jQuery and AngularJS
+•	Cross-browser compatibility issues and ways to work around them. Good understanding of asynchronous request handling, partial page updates.
+•	Code versioning tools, such as TFS, SVN, Git
+FAMILIAR WITH
+•	Presentation patterns, such as, MVC, MVVM, MVP, etc.
+•	Browser testing and debugging
+•	W3C Accessibility guidlines
+•	Bundling tools, such as, Webpack, Grund, Gulp, Node.js
+•	Image authoring tools, to be able to crop, resize, or perform small adjustments on an image
+Familiarity with tools such as Gimp or Photoshop is a plus
+
+DESIRABLE ADDITIONAL SKILLS
+•	Good level of English writing and speaking
+•	Expertise in performance optimization (must?). Speed is main driver. Slower sites converts worse 
+•	Working experience with Agile methodologies (Scrum, Kanbam, XP) as well as Agile frameworks (Safe, Less)
+•	Continuous improvement passionate
+•	Quick on understanding an idea and seeing the implications for implementation. Ability on prototyping as a way of sharing an idea
+•	be motivated, customer driven individual
+•	have a clear understanding of the concepts of friendly design  
+WE OFFER
+Raet as an employer of reference chooses to work in a different scheme than other organizations. We are conscious that flexibility, development and a fair compensation package bring huge benefits to the employee as well as the company
+•	Work with the best professionals in an innovative and international hub
+•	Development and growth opportunities within the company
+•	Available exchange programs with many workplaces in Argentina, Peru, Mexico, Spain, Belgium and the Netherlands
+•	Inspiring environment to learn and develop yourself with training opportunities
+•	Autonomy day (Take a day off from your daily duties to research, innovate or self-learning)
+•	Permanent contract and attractive salaries (according to experience)
+•	Flexible working hours, 7-10h / 16-19h (Free on Friday afternoons)
+•	During August finish at 15 every day
+•	Occasional flexible hours to work from home
+•	As a plus, apart from your salary, we offer all employees free Health insurance, ticket restaurant and ticket transport
+•	Macbook pro or HP laptop
+•	Onboarding program (1 week stay in the beautiful city of Amersfoort, Netherland headquarters)

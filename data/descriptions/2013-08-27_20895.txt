@@ -1,0 +1,12 @@
+
+Hola,
+buscamos un programador freelance para el desarrollo de un  proyecto web. Necesitamos a una persona sería, responsable, puntual y comprometida con su trabajo que sea capaz de abarcar de manera global la ejecución del sitio web, desde el diseño de la capa de datos hasta la programación CSS y JS, pasando por el desarrollo de toda la lógica de negocio necesaria.
+La duración estimada del proyecto es de unas 10 semanas.
+La oferta no es presencial pero preferimos que la residencia de la persona seleccionada sea la ciudad de Granada.
+Para el desarrollo del sitio se utilizará el marco de trabajo en PHP Symfony (en su última versión) y como motor de bases de datos MySQL.
+Necesitamos a una persona con:
+- Conocimientos y experiencia con PHP5 y familiarizado con distintos paradigmas y patrones de programación OOP, POA, EDP,....
+- Conocimientos y experiencia en el uso de Symfony (vesión 2.3) y Twig.
+- Conocimientos y experiencia en el modelado de la capa de datos y en el uso de MySQL.
+- Conocimientos y experiencia en el uso del controlador de versiones GIT.
+- Conocimientos y experiencia en HTML5 y CSS3.

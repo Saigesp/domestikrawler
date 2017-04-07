@@ -1,0 +1,9 @@
+
+Nubelo.com es una plataforma web de teletrabajo, permite a las empresas aumentar su productividad, flexibilidad y ahorro mediante herramientas gratuitas de selección, supervisión y pago de trabajadores freelance.
+Media jornada. Freelance presencial.
+Posibilidad de teletrabajar un dia a la semana.
+Requisitos:
+- Html5, CSS3, Javascript, JQuery, PHP,
+- Wordpress, etc, 
+- Conocimiento entorno Mobile. 
+- Base de datos MySQL.

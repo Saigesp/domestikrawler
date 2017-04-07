@@ -1,0 +1,22 @@
+
+Place:		ALTAMIRA INFORMATION, Barcelona
+Hiring date: 	Immediate
+Background
+ALTAMIRA INFORMATION is putting a team together for its new line of work in Operational Oceanography. The team will participate in the MyOcean project for the European Commission, aimed to give Europe an operational monitoring and forecasting system involving different production centers across Europe and to offer users a unified interface (a unique catalog for all products and services including access and visualisation to the satellite, model, and in-situ data, see http://www.myocean.eu).
+In MyOcean, ALTAMIRA INFORMATION is responsible of the following tasks:
+
+Design, development and testing of the Central Information System (CIS). 
+Web Portal development
+
+Dissemination of oceanographic data (unified data access interface across multiple backends)
+In addition to the MyOcean project, you will be involved with related projects within Altamira and its parent company, CLS
+Description
+We are looking for a Barcelona-based junior web developer with experience in web applications, PHP, J2EE, familiarity with Joomla and OGC standards (if possible!), a « can-do» attitude and willing to learn. 
+We offer a great work environment and the chance to work with an international multidisciplinary team, with scientific and commercial backgrounds. Specific training from senior developers will be also provided.
+This position requires travel to European countries for meetings. It is a great opportunity to start a career as a developer in the oceanographic field in projects of scientific excellence and worldwide reputation.
+Tasks
+
+Developing software components for the improvement of the MyOcean web portal (i.e. advanced search function, data visualization options, data download optimization, ...)
+Responsible for the generation of the software product and its integration with its environment
+Attendance at meetings of configuration management and operations
+Handling software component for the product: intervention in the integration phases, implementation of pilot developments, intervention in the operational phases

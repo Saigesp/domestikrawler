@@ -1,0 +1,25 @@
+
+En AKTIOS IT GLOBAL SERVICES estamos reclutando a un ANALISTA PROGRAMADOR .NET para posición estable ubicada en Barcelona. 
+Por nuestra parte, explicarte que somos una Consultora IT Global que trabaja con diferentes empresas multinacionales y sectores ofreciendo un posicionamiento de 360º. 
+La información empresarial y nuestros principales clientes los puedes encontrar en nuestra web:  www.aktios.com
+Descripción:
+Un Analista Programador .NET debe mostrar interés en nuevas tecnologías, experiencia en la definición e implementación de test unitarios, capacidad para la interpretación de documentación y realización de diseños técnicos, adaptación a las metodologías de desarrollo y trabajo en equipo. 
+Requisitos:
+Experiencia de 2- 3 años como Analista Programador .NET
+Conocimientos:
+-	.NET Framework 4.x
+-	Windows Forms
+-	ASP.NET MVC 4 o superior
+-	Lenguaje de programación C#.
+-	javascript, jQuery, AJAX
+-	WCF
+-	TFS
+-	Base de Datos Oracle
+•	Otros requisitos: Toma/análisis requerimientos /- Documentos funcionales / Documentos de diseño técnico.
+Te ofrecemos:
+• Retribución salarial atractiva.
+• Estabilidad laboral.
+• Perspectivas de crecimiento y proyección profesional.
+• Oportunidad de integrarte a un equipo de profesionales altamente cualificados.
+• Incorporarte en un equipo joven y entusiasta.
+

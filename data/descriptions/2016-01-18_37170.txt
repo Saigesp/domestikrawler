@@ -1,0 +1,39 @@
+
+En 8Belts buscamos personas dinámicas, resolutivas, creativas, profesionales implicados y con iniciativa que deseen unirse a nuestro gran equipo. Si crees que tú podrías ser uno de nosotros y quieres formar parte de una empresa joven, innovadora y con gran futuro, continúa leyendo y puede que pronto pases a formar parte del universo 8Belts.
+
+¿Eres una apasionado del desarrollo de la tecnología y la innovación? El momento es ahora. Desarrolla tu potencial y vive una experiencia profesional única en 8Belts. 
+Queremos que te incorpores de manera inmediata al equipo de Tecnología y Producto de 8Belts como líder tecnológico para poner en valor tu talento y experiencia junto a un gran equipo de profesionales.  Formarás parte de un área esencial en 8Belts: el software y la experiencia de usuario de 8Belts. Contribuirás al desarrollo del software de 8Belts junto a nuestro gran equipo y las nuevas tecnologías que buscarán mejorar el rendimiento, usabilidades, procesamientos, prestaciones...
+¿Eres tú la persona que estamos buscando? ¿Te atreves con otro nuevo éxito en tu carrera profesional? 
+Funciones
+- Implicación en la programación de scripts para las herramientas tecnológicas de 8Belts.
+- Análisis funcional de bases de datos de 8Belts.
+- Realización de soportes correctivos, preventivos y reactivos.
+- Apoyo y desarrollo de testados de funcionalidad y seguridad
+- Documentación rigurosa de procesos. Implementación de código de alta calidad.
+- Gestión y planificación del proyecto así como la supervisión del trabajo de otros programadores
+- Análisis de las necesidades de los usuarios, software y factores externos para el desarrollo de la tecnología de 8Belts.
+Requisitos
+- Experiencia, de al menos 5 años, en el desarrollo de interfaces e interacciones web así como de aplicaciones móviles. 
+- Experiencia avanzada en PHP 5 y desarrollo de scripts.
+- Experiencia avanzada con MySQL, lenguaje SQL y modelado de BDs.
+- Dominio Framework PHP Yii y adaptación de páginas responsive.
+- Conocimientos HTML5, CSS, Javascript, jQuerry, Ajax.
+- Experiencia con sistemas de control de versiones Git.
+- Experiencia en implementación de medios de pagos virtuales (TPVs, Paypal, etc...).
+- Conocimientos de S.O. Linux.
+- Demostrable conocimiento y experiencia en procesos de optimización de UX.
+Perfil Profesional
+- Persona con ilusión, humildad, deseo de aprender continuamente y compartir lo aprendido.
+- Alta capacidad de organización, planificación y comunicación.
+- Liderazgo orientado hacia las personas.
+- Actitud dinámica y proactiva enfocada en los resultados.
+- Colaboración y capacidad de trabajo en equipo. 
+- Acostumbrado a trabajar por objetivos y cumplimiento de compromisos.
+- Innovador y con espíritu creativo. Fácil adaptación al cambio. 
+Ofrecemos
+- Contrato laboral en una empresa de idiomas referente en España.
+- Entorno de trabajo innovador y flexible, a la vanguardia de la empresa tradicional.
+- Oportunidad de crecer profesionalmente en un equipo dinámico, ambiente de trabajo colaborativo y participar de forma activa en el desarrollo de un proyecto de éxito.
+- Posibilidad de formación para tu crecimiento profesional.
+Conoce el método 8Belts en TV: https://www.youtube.com/watch?v=jN40FLBkQG4
+

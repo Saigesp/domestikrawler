@@ -1,0 +1,9 @@
+
+Estamos buscando programadores/ingenieros Front-End con experiencia profesional para formar parte de nuestro equipo de desarrollo o realizar programación de productos puntuales relacionados con libros de texto digitales y la educación en general.
+El candidato que buscamos deberá tener conocimientos de lenguajes de programación JavaScript, CSS 3, HTML5, JSON, Angularjs, jQuery y PHP, aunque se valorarán otras capacidades desde el punto de vista de  la accesibilidad y la usabilidad, así como conocimientos de estándares W3C, desarrollo cross browser y de uso de sistemas de control de versiones (SVN, HG, GIT), así como interés por aprender nuevos lenguajes.
+Entre sus funciones deberá:
+1.	Contribuir en el desarrollo de la Interfaz de usuario contenedora de la aplicación, teniendo capacidad para crear especificaciones y aportar soluciones.
+2.	Tener siempre en mente la Usabilidad.
+3.	Responsabilizarse de la arquitectura
+4.	Encargarse del desarrollo Cross-browser (con funcionamiento adecuado en Firefox, Chrome, Explorer, Safari)
+5.	Capacidad de desarrollos multiplataforma (Windows, Mac, Linux) y más adelante móviles.

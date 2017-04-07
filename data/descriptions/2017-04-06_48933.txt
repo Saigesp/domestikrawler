@@ -1,0 +1,22 @@
+
+Para un gran proyecto internacional, desde Sngular Sevilla estamos buscando un/a Senior JAVA Developer que se incorpore en nuestro equipo de desarrolladores.
+Si te interesa formar parte de una empresa en crecimiento y tecnologías como AWS, Docker o REST no son desconocidas para ti, ¡queremos conocerte!
+FUNCIONES:
+Desarrollo con tecnologías Java.
+Microservicios con Spring.
+Acceso a datos mediante web services.
+Bases de datos relacionales.
+Test funcionales con Cucumber.
+REQUISITOS:
+Formación: FP o Titulación Universitaria.
+Años de experiencia: +5.
+Nivel medio-alto de inglés.
+Tecnologías imprescindibles: Java, Spring MVC, Maven, Web Services (SOAP), REST/RESTFUL, BBDD relacionales, conocimiento de arquitectura de microservicios.
+Deseable: Spring Data, Amazon Web Services, BBDD no relacionales, Cucumber.
+¡ME INTERESA! ¿QUÉ OFRECÉIS?
+Contrato indefinido.
+Equipo humano altamente cualificado formado por más de 300 profesionales.
+Clientes referentes en el mercado nacional e internacional, con proyectos tecnológicamente atractivos.
+Excelente clima laboral basado en el compromiso y el apoyo a los compañeros.
+Salario competitivo, adaptado a las capacidades y experiencia de la persona.
+

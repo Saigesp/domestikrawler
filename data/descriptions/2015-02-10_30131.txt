@@ -1,0 +1,21 @@
+
+En Lavinia Interactiva buscamos un/a analista/programador/a Senior de Android con 2 años de experiencia para incorporarse en nuestra plantilla de programadores de Barcelona. 
+Su formación deberá ser de Ingeniero Técnico o Superior o Ciclo Formativo y será responsable tanto del mantenimiento de proyectos existentes como de nuevos clientes que vayan surgiendo, liderando su desarrollo desde el inicio.
+Requisitos técnicos:
+•	Experiencia mínima de 2 años desarrollando en Java.
+•	Experiencia mínima de 2 años desarrollando apps nativas en Android.
+•	Capacidad de trabajo en grupo.
+•	Nivel técnico de inglés.
+•	Conocimientos en HTML, CSS y Javascript.
+•	Conocimientos en la gestión de bases de datos.
+•	Conocimientos sobre programación orientada a objetos.
+Requisitos deseados
+•	Capacidad de trabajo metódico, detallista y perfeccionista.
+•	Ser creativo y conocer las últimas tendencias de diseño móvil.
+•	Patrones de diseño {MVC, Singleton, Observer..}
+Funciones a realizar:
+Las funciones que desarrollará el candidato serán las de análisis y programación de apps para Android y entrará a formar parte del conjunto de programadores Android/iOS.
+
+Nuestra empresa:
+Lavinia Interactiva es una agencia de marketing digital, tecnología y contenidos que se dedica a optimizar la inversión en Internet de sus clientes desde 1999. Entre nuestros clientes encontramos grandes compañías farmacéuticas, bancos, medios de comunicación o empresas de gran consumo para los que hemos desarrollado más de 1.500 proyectos.
+El candidato trabajará acompañado y respaldado por un equipo multidisciplinar que cubre todo el proceso de creación, desde la estrategia hasta la analítica pasando por el diseño y la creación de contenidos. 

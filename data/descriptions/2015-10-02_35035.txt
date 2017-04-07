@@ -1,0 +1,15 @@
+
+Home eating es una nueva comunidad de chefs que cocinan desde casa!
+Abrimos al público en diciembre 2015. Somos un equipo de 5 personas.
+Necesitamos desarrollador de ruby para media jornada, preferiblemente por la mañana, pero estamos abiertos a horario de tarde también.
+Algunas de las tecnologías que usamos son:
+-Ruby on Rails
+-AWS
+-Heroku
+-Coffeescript
+-Postgres  SQL
+-python
+Se valorará conocimiento de IOS y Android, pero es opcional.
+Media jornada.
+Salario: 1.000€/mes
+Experiencia mínima:  1 año

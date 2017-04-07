@@ -1,0 +1,4 @@
+
+Buscamos persona con conocimientos avanzados en Unreal Engine 4, sobre todo blueprints, IA, Persona, Matinee, y exportación para Oculus y móviles con Google Cardboard.
+Capacidad para poder crear un videojuego desde cero, o una experiencia de arquitectura. Igualmente que sepa implementar tecnologías como Leap Motion y otros input de Realidad Virtual dentro del motor de Unreal Engine 4.
+Sería para Marzo y Abril de 2016. Podemos valorar gente de fuera que pueda desplazarse esos dos meses. Gracias.

@@ -1,0 +1,27 @@
+
+Estamos buscando un Senior Front-End developer, para incorporarse en uno de nuestros clientes principales: Formarás parte del equipo de IT responsabilizándote del análisis, diseño y desarrollo de las fases de los diferentes proyectos, garantizando el rendimiento, calidad de código y el mantenimiento de nuestra plataforma. 
+Trabajarías en uno de nuestros principales clientes, líder en su sector, e-commerce, y están en un momento de plena expansión; actualmente están en un proceso de migración de plataforma, de modo que necesitan gente capaz de trabajar en una fase de transición, que les ayude a migrar hacia un entorno basado en Magento 2 y, que además les ayude a desacoplar el front-end en un futuro. 
+Según tu perfil de Linkedin es muy probable que encajes en la vacante; si estás interesado, por favor, envíanos tu CV actualizado y rango salarial.
+Quedamos a la espera de tu respuesta, muchas gracias de antemano!
+¿Qué te ofrecemos?
+•	Contrato con carácter indefinido.
+•	Formar parte de la plantilla de nuestro cliente.
+•	Trabajar en un equipo de expertos.
+•	Carrera profesional garantizada.
+•	Oficinas en Barcelona centro.
+Tus principales funciones serán: 
+•	Implementación de nuevas funcionalidades en front-end.
+•	Soporte técnico a los diferentes departamentos de la empresa.
+•	Optimización de código existente.
+•	Desarrollo de nuevos módulos, servicios y aplicaciones.
+¿Qué te pedimos? 
+•	Título universitario en informática o campo relacionado. 
+•	Mínimo de 3 años de experiencia en desarrollo Front-End.
+•	Experiencia sólida en maquetación HTML5/CSS3, XHTML.
+•	Muy alto nivel de desarrollo en JS con experiencia en frameworks (AngularJS, JQuery, Prototype).
+•	Experiencia en RWD (Responsive Web Design).
+•	Experiencia con JSON y APIs REST.
+•	Conocimientos en diseño y mejoras de nuestra UI.
+•	Analítica web, desarrollo de Tests A/B y mejoras UX. 
+•	Desarrollo con control de versiones, idealmente GGit.
+•	Que seas una persona proactiva y dinámica, motivada para crecer dentro del equipo de tecnología.

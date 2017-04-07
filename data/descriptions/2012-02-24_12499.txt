@@ -1,0 +1,23 @@
+
+Importante agencia de marketing interactivo con clientes nacionales e internacionales, necesita incorporar un Programado/a Web en sus oficinas.
+Sus funciones principales seran:
+- Maquetación y programación de websites en colaboración con el equipo de diseño
+- Análisis y diseño de bases de datos SQL
+- Desarrollo de websites sobre sistemas de gestión de contenidos y de comunidades 2.0 (p.ej. Wordpress)
+- Colaboración y participación en la actualización de proyectos ya en marcha
+Se ofrece la posibilidad de incorporarse en un equipo joven y dinámico que desarrolla proyectos con una fuerte repercusión pública en sectores como Pharma/Healtcare principalmente, Gran Consumo e Industria
+Requisitos:
+- Mínimo 2 años de experiencia en un puesto similar.
+- Sólidos conocimientos prácticos y experiencia en:
+o HTML, HTML5, CSS, Javascript y jQuery
+o PHP, ASP, ASP.NET, JSP (al menos 2 de ellos)
+o SQL y bases de datos: MySQL, SQL Server, Access, Oracle (al menos uno de ellos)
+o XML/XSL
+- Nivel de Inglés medio
+- Excelente capacidad de resolución de problemas.
+- Capacidad para trabajar en equipo.
+- Flash
+Valorable.
+- Flash y comunicación con Bases de datos y XML
+- ActionScript 3 con Flash y/o Flex
+- Persona activa en la comunidad Developer (foros, blogs…)

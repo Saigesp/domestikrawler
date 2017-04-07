@@ -1,0 +1,16 @@
+
+Farmacias.com es la solución global para oficinas de farmacia, ya que conecta a los clientes y a las farmacias en una única plataforma. 
+Somos un equipo muy joven, especialistas en marketing digital farmacéutico y actualmente estamos buscando un desarrollador web con el siguiente perfil:
+Creativ@, dinámic@ y resolutiv@, con ganas de aprender y aportar.
+El trabajo a desarrollar:
+- Desarrollo de Páginas Web. 
+- Mantenimiento de BD. 
+- Desarrollo de módulos Prestashop 
+- Instalación y mantenimiento de Wordpress y Prestashop. 
+- Desarrollo de scripts en PHP.
+Métodos utilizados durante las tareas: 
+*Necesario conocimiento de: 
+php, css, html, javascript, wordpress
+* Requisitos deseados: -Experiencia con prestashop o wordpress
+---------
+Imprescindible residir en la provincia de Almería (o estar dispuesto)

@@ -1,0 +1,18 @@
+
+En el Grupo Antevenio, empresa con más de 15 años dedicados al marketing online y cotizada en Alternext-Paris, estamos buscando un programador con experiencia para incorporar a nuestro equipo de técnico.
+En la actualidad tenemos un departamento de IT de más de 20 personas. Utilizamos Scrum como metodología de desarrollo y practicamos la filosofía Devops. El puesto sería para incorporarse a trabajar en nuestra suite de marketing online mdirector.com
+Requisitos:
+- Que te presentemos un problema y lo primero que hagas sea pensar y no ponerte a picar
+- Que no te asusten los test unitarios, los refactors y hacer TDD
+- Saber programar en JavaScript. Utilizamos Backbone.JS y en la parte de tests Grunt, Mocha, Karma, Sinon, Chai
+- Saber programar en PHP. Nosotros usamos Zend como framework pero si conoces otros (Symfony, Silex) nos vale.
+- Que te desenvuelvas bien sobre Linux. Todo nuestros aplicativos corren sobre este sistema operativo y todos los programadores lo utilizan.
+Que ofrecemos:
+- Trabajar en un proyecto con carácter internacional, que envía más de 400M emails al mes y que ha ganado el eAward2014 a mejor plataforma de email marketing.
+- Contrato laboral indefinido
+- Salario según experiencia y valía. 
+- Un programa de retribución flexible que permite sacar el máximo partido a tu nómina.
+- Cheques Comida
+- Herramientas de Trabajo: Sobremesa de última generación con 2 monitores.
+- Libertad para innovar y tomar decisiones sobre los futuros desarrollos.
+- Trabajar en el centro de Madrid con unas comunicaciones inmejorables.

@@ -1,0 +1,14 @@
+
+Hola,
+Buscamos a un desarrollador senior freelance - front-end - PHP - web, idealmente francófono, para un proyecto de aproximadamente 2 meses a tiempo parcial (3 días por semana máximo) en Barcelona, para incorporación inmediata.
+Requisitos imprescindibles:
+- 5 años de experiencia mínimo.
+- dominar PHP, jQuery, MySQL, Git.
+- dominar como mínimo uno de los siguientes framework MVC: Laravel, Symfony, CakePHP, Zend.
+- ubicado en Barcelona.
+Requisitos ideales pero no obligatorios:
+- muy buen conocimiento del francés.
+- dominar Laravel 5.
+- competencias en CSS responsive.
+- competencias en administración de sistemas.
+- competencias en SEO.

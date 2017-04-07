@@ -1,0 +1,12 @@
+
+Necesitamos incorporar para una empresa especializada en publicidad y marketing un/a PROGRAMADOR/A PHP SYMFONY.
+Nuestro cliente está abalado por la seguridad de un gran grupo de empresas.
+Valoramos la pasión y el dinamismo en nuestra empresa.
+Requisitos:
+- Ingeniería Informática, Física, Matemáticas
+- Experiència en programación PHP
+- Experiencia programación Orientada a objetos
+- Experiencia en Symfony u otros frameworks PHP
+- Pasión para el desarrollo y la publicidad.
+- Inglés alto
+

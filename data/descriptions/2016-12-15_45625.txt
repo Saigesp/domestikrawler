@@ -1,0 +1,19 @@
+
+Descripción de la oferta:	Estamos buscando un perfil maquetador con experiencia web y aplicaciones para móvil y tablet. 
+El ambiente de trabajo será dentro de un equipo altamente cualificado con experiencia en el sector, frameworks y diferentes enfoques de desarrollo. 
+Tareas/funciones:
+- Conversión de plantillas Photoshop a HTML/CSS con muy buena orientación al detalle, creando código limpio y optimizado/ re-usando los templates y hojas de estilos ya existentes al máximo.
+- Maquetación en HTML+CSS+JS para web y plataformas móviles (responsive y aplicaciones híbridas).
+- Integración de plantillas HTML en el código dinámico (PHP/Zend Framework).
+- Experiencia con frameworks MVC (y otros) de JavaScript como Backbone, Angular, etc
+- Experiencia con pre-procesadores de CSS tales como SASS y LESS.
+- Se valorará experiencia en software de gestión de versiones como Git o SVN.
+Requisitos
+Estudios mínimos:	Formación Profesional Grado Superior
+Experiencia mínima:Al menos 2 años
+Requisitos mínimos:
+- Experto en HTML y CSS (soporte crossbrowser para IE7/8/9, FF, Chrome y Safari).
+- Conocimientos sólidos y entusiasta por tecnologías HTML5 y CSS3.
+- Base de conocimiento de Javascript, uso framework jQuery (core, UI, etc).
+- Conocimiento de frameworks MVC de javascript como Backbone o Angular.
+

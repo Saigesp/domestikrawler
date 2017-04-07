@@ -1,0 +1,28 @@
+
+Who are we?
+We are a company specialized in Artificial Intelligence and Natural Language Processing which was born in Barcelona and nowadays we have presence in 8 different countries (Spain, USA, Chile, Brasil, Mexico, France, The Netherlands and Singapore).
+We love our job, and we love the things we do. We use our creativity above and beyond to achieve the technological progress of our great clients. We enjoy day-to-day working within a gifted team and watching how the company grows and achieves new challenging goals.
+For that reason, we are growing and constantly looking for outstanding people who help us do outstanding things. If you are ready to carry your lightsaber of ingenuity we would love to hear from you!
+Would you like to be an inbentor?
+What are we looking for?
+We are looking for a certified Salesforce Developer based in Barcelona, interested in developing new Market Place Salesforce applications to leverage Inbenta technology for Salesforce users. We are looking for someone who wants to join in a rapidly growing company with a young, dynamic and talented people.
+You’ll be part of our team, working hard with our great clients and have a major hand in building very successful features for Inbenta. We always work on interesting projects and we have a good time doing it. We usually work in a team, and this allow us to learn every day from others co-workers.
+If you would like to feel like yours the projects you are working on, and if you are interested in develop your career, we would like to hear from you!
+Requirements:
+1+ year of Salesforce development experience.
+Demonstrable knowledge of web technologies including RestfulAPIs, HTML, XML, CSS, JavaScript, SQL
+Demonstrable experience in Salesforce Lightning , VisualForce and APEX
+Demonstrable experience in becoming ISV certified partner and the MarketPlace app approval workflow
+Demonstrable knowledge in data modeling and security inside Salesforce
+Not required (but nice to have) experience in Salesforce Service Cloud (Knowledge and Case Management) & Salesforce Communities
+Languages: Spanish and Catalan native, English fluent (at least First Certificate Level)
+BS/MS degree in Computer Science, Engineering or a related subject (Telecommunications, Mathematics, Physics).
+Passion for best design and coding practices and a desire to develop new bold ideas.
+What do we offer?
+A full-time position based in Barcelona’s center.
+At Inbenta we value initiative, creativity, imagination and responsibility. We reward it with fast internal promotions.
+Full training and continuous learning.
+Developers will work coordinated with our COO and CTO in Silicon Valley
+Thrives in a fast paced environment. Enjoy multilingual, multicultural environments, due to worldwide inbenta’s clients.
+Enjoy working and adding value to a multi skilled team of software architects, computational linguists, and user experience specialists.
+Good work life balance, flexible schedule.

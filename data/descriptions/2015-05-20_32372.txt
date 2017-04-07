@@ -1,0 +1,52 @@
+
+AKTIOS IT CONSULTANT is seeking a Technical Lead to work in a Multinational company with location in Palma de Mallorca.
+If you are interested or need more information about this vacancy send an email to xenia.armengod@aktios.com. 
+The technical lead will prepare technical design solutions within the operational and financial environment in line with the established standards in order to provide support to the business needs. In particular, this role has to ensure the development and / or implementation of software application, leading internal and external technical support on data conversion, system interfaces, data cleansing, data archiving and environment builds.
+Description:
+To be involved in projects like the following: 
+Organization, Coordination and People: Supervision of other technical personnel when and if required. Manage teams and/or individuals in charge, for achieving the priorities and objectives set. Is the team reference both for technical and talent management topics, keeping the people motivated and engaged. Responsible for external providers and outsourcers relations and management.
+Development & Implementation: Design and implement modules and business applications. Design and implement business logic and user interface using the appropriate tools. Translate business requirements to a technical design in line with the respective standards and environment…
+Business Support: Ensure the tasks are planned accordingly and timely request assistance should any issues arise in order to meet agreed deadlines…
+Finance and budgeting: Responsible for tracking overall team/function spending vs budget and for defining budget forecasting.
+Strategy / Business Understanding: Participates in TDA strategy definition, ensures the understanding of business and function and objectives by translating them into function requirements.
+We need a candidate with these skills and facilities:
+•	University Degree or equivalent.
+•	English - full professional proficiency
+•	Work in Palma de Mallorca.
+Knowledge
+•	Software engineering.
+•	ITIL
+•	Agile & Lean
+•	Project management.
+•	TOGAF
+•	Content management Software. (Enterprise Architect, JIRA, Confluence).
+•	Knowledge of Development Software Methodologies.
+•	Knowledge of Definitions of Design applications solutions.
+Experience
+Experience in analysis and Requirement Management, in technical coordination of (Computer) systems. Development in Software modules and tests of deliverables. Implementation and Management of Product Software Changes and Product Software Life Cycle. Design with a view of meeting objectives. Good working knowledge of Software design Technologies such as:
+	Java, Eclipse/IntelliJ IDEA, Maven, JBoss Application Server, Apache Web Server, J2EE
+	XML, Web Services, SOA
+	UML
+	Life Cycle Management
+	PL/SQL y MySQL
+	Forms
+	JSP
+	JavaScript
+	SVN
+	Cloud services: AWS, S3, EC2, Puppet, Cloud Formation, SWF.
+Abilities & personal qualities:
+•	Integrating vision.
+•	Analysis skills
+•	Conceptual and Abstract thinker.
+•	Ability to solve technical problems.
+•	Technical Leadership Skills.
+•	Interpersonal Skills.
+•	Multitasker
+•	Organized
+•	Ability to efficiently delegate tasks.
+•	Good team player.
+We offer
+-Full-time and 1 year contract with Aktios and high possibilities to be hired for the client company.
+- Work in a multinational and recognized company.
+- Attractive salary and benefits. 
+

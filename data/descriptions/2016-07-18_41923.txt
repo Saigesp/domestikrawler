@@ -1,0 +1,29 @@
+
+Golden Race is the global market leader for pre-recorded virtual sports betting. We are a small but
+growing team of motivated professionals from many backgrounds and disciplines, operating together in a positive and supportive environment to grow and excel as one of the most promising and rapidly expanding companies in the betting industry.
+Now, we are looking for a HTML5 Programmer to:
+● Assume the functions of Web Developer - R & D - Programmer
+We use HTML5 / TypeScript as our common communications technology with the server and for
+presentation of the interfaces of our products, combined with native solutions across a wide range of hardware platforms and software.
+Requirements:
+● Degree in Computer Engineering.
+● 3 years’ experience working in web development.
+● Essential fluent english written and spoken.
+● Experience in: HTML5, CSS3, AJAX, JSON, TypeScript, Javascript, JQuery, EJS, Grunt, Angle, LESS,
+Optimization of HTML and video for mobile.
+● We are looking for: responsible person, entrepreneurial, proactive, dynamic, with communication
+and interpersonal skills.
+Bonus skills:
+● ActionScript3.
+● PHP/JAVA.
+● Version control (SVN, Git, plastic).
+● Kanban and Scrum.
+● Continuous integration (Team City) and automation with Grunt - Gulp.
+● Must provide code samples / references of projects previously undertaken.
+Technologies:
+● HTML5, CSS3, LESS, EJS, TypeScript - JavaScript (SS6), JQuery, Angle - Angular2, Phonegap, web
+components, canvas and webgl
+Observations:
+● Permanent contract and immediate incorporation into a good working environment and excellent
+team.
+● Opportunity to be part of a team in constant growth and international projection.

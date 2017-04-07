@@ -1,0 +1,17 @@
+
+Buscamos a una persona con experiencia en programación de front y backend, con orientación a objetos y programación estructurada, acostumbrado trabajar en entornos muy competitivos, con conocimiento en los principales lenguajes web (tanto front como back), cachés, bases de datos, etc. 
+Funciones: 
+Pasarás a formar parte del equipo de desarrollo, responsabilizándote de las mejoras en las webs de la empresa (desarrollada en Symphony y Laravel), así como de desarrollos en el software al que se conectan nuestros clientes (Java y php).
+Imprescindible: 
+•	Conocimientos avanzados de programación en php5 (POO, herencias, etc.).
+•	Conocimientos avanzados de mysql.
+•	Conocimiento avanzado de HTML5/JS/CSS3 y frameworks (Symphony y Laravel).
+•	Conocimientos avanzados de Java.
+•	Creación de crons, ejecución de código en paralelo (threads/pcntl_fork).
+Valorable: 
+•	Experiencia con desarrollo de apps.
+•	Nivel alto de inglés.
+Ofrecemos : 
+•	Contrato indefinido y remuneración según valía del candidato.
+•	Beneficios sociales como seguro médico privado, actividades de team bulding, cheques restaurante, etc.
+•	Formar parte de una startup con un equipo joven pero experimentado, en un sector de rápido crecimiento, con un proyecto en plena expansión y grandes retos por delante.

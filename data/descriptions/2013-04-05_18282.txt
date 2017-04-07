@@ -1,0 +1,11 @@
+
+La creación de la página web de la guía de viaje Restart!. Se trata de una web sencilla focalizada en la página home y con no más de 3 pestañas. Eso sí, debe cumplir algunos requisitos básicos como buen posicionamiento SEO, estar habilitada para la descarga masiva de archivos PDFs de gran tamaño, web autogestionable y la creación de una plantilla para newsletter en HTML .
+- Se busca:
+Persona joven, dinámica y con iniciativa que posea conocimientos de programación y diseño web: php, jquery, html5, CSS3, javascript.
+Que busque la excelencia y cuidado en los detalles.
+Comunicación fluida y constante con el responsable de desarrollo de Restart Publications.
+Con disponibilidad total de tiempo para 2 semanas.
+Imprescindible que pueda emitir factura.
+- Plazos:
+Para comenzar de forma muy urgente. A ser posible el 8 o 9 de abril.
+Fecha de entrega: 21 de abril de 2013

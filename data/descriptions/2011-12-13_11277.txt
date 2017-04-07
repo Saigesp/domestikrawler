@@ -1,0 +1,5 @@
+
+SperIT es una empresa del Grupo IN2 - Ingeniería de la Información -, cuyas actividades se centran en desarrollar servicios de selección directa y outsourcing dentro del sector de las TIC .
+El objetivo es ofrecer a las organizaciones servicios de selección directa y de outsourcing de profesionales en tecnología con un enfoque diferencial, que proporcione el conocimiento, las capacidades y las habilidades óptimas para complementar y cubrir las necesidades asociadas a la realización y gestión de sus proyectos y, por otra parte, el desarrollo profesional de las personas y fomentar la igualdad de oportunidades.
+En este momento requerimos la colaboración de un programador con experiencia en Php con framework Symfony para la realización de un proyecto de corta duración. 
+¡Síguenos en Twitter @Speritweet!

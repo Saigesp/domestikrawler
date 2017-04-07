@@ -1,0 +1,8 @@
+
+Promocionesfarma.com es el website de ecommerce líder en España para productos de salud y belleza. Con descuentos de hasta el 70%, los usuarios compran online y recogen el pedido en cualquiera de las miles de farmacias afiliadas. Sin gastos de envío.
+Promocionesfarma busca un frontend developer para un proyecto in-house de 4 meses.
+El rol incluye el diseño y la implementación del frontend, y  trabajar conjuntamente con el equipo de backend para integrarlo. 
+El rol es para un frontend developer y diseñador UI con experiencia en interface design, user experience, frontend development y technical integration
+Son necesarios conocimientos y experiencia en HTML5, CSS3, UI kits (Bootstrap), CSS preprocessors (SaaS), responsive design,  herramientas de diseño como Photoshop e Illustrator, y tener una vena artística.
+Familiaridad con Zend Framework, Javascript, jQuery y Smarty es un plus.
+Es deseable además experiencia con servicios de marketing online como Google Analytics, SEO/SEM, Captación (Google Tag Manager), herramientas de test A/B y plataformas de newsletter y blogs (Wordpress).

@@ -1,0 +1,28 @@
+
+Perfil:
+Programador con más de 2 años de experiencia en el desarrollo de aplicaciones para móviles.
+Funciones:
+- Matener, desarrollar y documentar una aplicación para iOS.
+- Desarrollar en Objective-C.
+- Participar en diversos desarrollos tecnológicos desde las conceptualización hasta el lanzamiento final al mercado.
+- Gestión de certificados y cuentas de desarrollador .
+Competencias requidas:
+- iPhone: Objective-C, C, C++
+- Xcode
+- Patrones de diseño
+- SQL
+- Depuración y uso de memoria.
+- Capaz de integrar servicios web externos (JSON, XML, RSS …) 
+Requerimientos del Puesto:
+- Conocimientos avanzados de las mejores prácticas para el desarrollo de aplicaciones móviles (cliente y servidor) y diseño de arquitectura.
+- Sólido background profesional en Objective-C, gestión de memoria y MVC.
+- Más de dos años de experiencia total en el desarrollo de aplicaciones móviles.
+- Experiencia en tecnologías móviles, tales como J2ME y HTML5 muy valorable.
+- Se valorará la experiencia en desarrollo web.
+- Necesario presentar referencias y listado de proyectos.
+Se ofrece:
+- Contrato indefinido.
+- Retribución según valía a negociar. 
+- Posibilidad de participación en el accionariado de la empresa o en los beneficios.
+Nuestra Empresa –  Tockit - Clever Interactive Systems:
+App de Second Screen donde los usuarios ganan regalos por ver la televisión con la mejor guía de programación www.tockit.com. Las personas que se incorporen en esta fase tendrán grandes posibilidades de desarrollo y crecimiento profesional.

@@ -1,0 +1,27 @@
+
+The GFT Group is a global technology partner for future digital issues - covering everything from discovering innovation to developing and implementing sustainable business models.
+As a Technical Analyst your main responsibilities will be: 
+ - Working directly with the functional team, you should understand the functional requirements and translate them into technical specifications. 
+ - Project tracking and documentation development. 
+ - Design and constant improvement of applications
+ - Assign task to junior team members and team coordination. 
+ - Contact with internal and external costumers. 
+What do we offer?
+ Competitive salary + Individual career plan + co-financed training + flexible working hours and an awesome corporate culture
+Skills that will help you succeed:
+ - University degree in Computer Science.
+ - Enthusiastic software developer.
+ - 5+ years of frontend development experience including strong HTML, CSS and JavaScript skills.
+ - Able to work independently in a rapidly changing environment.
+ - Deep knowledge of AngularJS.
+ - Knowledge of modern Web Design concept (e.g. Responsive Web Design, MVC).
+ - Deep knowledge in User Interface design
+ - Knowledge with Responsive Web Design.
+ - Passion for learning and always improving yourself and the team around you.
+Soft Skills:
+ - High communication capability to be the reference for the client.
+ - Experience managing teams. 
+ - Organizational skills and good ability planning team members tasks, responsibilities, etc. 
+ - Initiative, flexibility, pro activity and responsibility. 
+ - Experience working in challenging environments.
+

@@ -1,0 +1,6 @@
+
+Desarrollar una aplicación universal (iPad/iPhone) con motor de render 3D y realidad aumentada/geolocalización para un proyecto cultural de gran envergadura.
+Se valorará un código limpio y bien estructurado, así como la habilidad de encontrar soluciones a los planteamientos que surjan durante el desarrollo. La proactividad es casi indispensable.
+Paralelamente se programará la misma aplicación para Android, así que se requiere la capacidad de trabajo en equipo para compartir flujos y experiencias en el marco del proyecto.
+En ese sentido se requerirán reuniones periódicas con el resto del equipo de trabajo (Sabadell, Barcelona) y se ofrece la posibilidad de trabajar en oficinas propias equipadas con ordenadores y certificados en Sabadell (Barcelona).
+El proyecto se llevará a cabo durante el primer trimestre de 2015, pero a partir de noviembre será esencial empezar a reunirse para tomar decisiones y planificar bien el flujo de trabajo.

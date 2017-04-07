@@ -1,0 +1,17 @@
+
+Creative HotHouse is looking to hire a Senior Android Developer to work at our offices in Poble Nou, Barcelona. We are looking for someone to work together with our CTO to develop beautiful and apps and software for Southeast Asian markets. Please abstain if you don't live in the area or if you don't have the intention to move to the area. 
+- 3 years experience in Android app development 
+- Excellent knowledge of Android SDK, Java, Eclipse + ADT or the IntelliJ Android Studio and the Google - Play store submission process 
+- Experience with UI and performance optimization on different Android devices and OS versions 
+- Proven knowledge of Web services (REST, Soap, JSON)  and background operations
+- Experience with tools like Git, SVN
+- Experience working with Audio/Video foundation
+- Knowledge of SQL and persistent data mechanisms
+- Experience with XMMP / real time protocols is a plus
+- Frontend/Backend experience on other plataforms (PHP, JS, Ruby, etc) are further plusses  
+Important: 
+Spanish is a must and English is highly valued, as we work in international markets. We need you to come and work at our very cool and open office space in Poble Nou, Barcelona. Please abstain if you do not live here or plan on moving here.
+Creative HotHouse is a Code Temple; accelerator of developer entrepreneurs building beautiful and profitable software for the South East Asian markets.
+Check us out on Facebook 
+
+Follow us on Twitter!

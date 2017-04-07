@@ -1,0 +1,25 @@
+
+•	Gestionará los requisitos funcionales y definirá la arquitectura de Software.
+•	Evaluará las soluciones y definirá la arquitectura para llevarlas a cabo.
+•	Generará valor y ventajas competitivas, aplicando propuestas tecnológicas innovadoras, mejorando procesos de gestión y de negocio.
+•	Mejorará de manera continua la arquitectura.
+•	Realizará el mantenimiento de las aplicaciones  y su posterior seguimiento.
+•	Participará en los diseños técnicos.
+REQUISITOS PRINCIPALES
+Se precisará que el candidato seleccionado contenga las siguientes cualidades:
+•	Deberá de poseer el título de ingeniero.
+•	Deberá ser experto en Big Data y Tecnologías Big Data.
+o	Infraestructura Hadoop.
+o	Storm.
+o	Cloudera.
+o	Soluciones Satélite.
+•	Deberá tener experiencia en:
+o	BBDD relacionales (SQL)
+o	BBDD no relacionales (MongoDB, noSQL)
+o	Procesamiento distribuido (paralelo)
+o	Almacenamiento
+o	Experiencia en gestión del dato (extracción, limpieza y tratamiento)
+•	 Experiencia en proyectos de Big Data. (1-3 años)
+COMPETENCIAS PERSONALES
+El candidato seleccionado tendrá que ser una persona capaz de gestionar equipos humanos y llevar a cabo la administración de proyectos, manteniendo una relación directa con el cliente.
+

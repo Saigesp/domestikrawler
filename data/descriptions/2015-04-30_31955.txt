@@ -1,0 +1,12 @@
+
+¡Buenas! En Qode buscamos a un desarrollador iOS para que se una a nuestro equipo. Somos una empresa pequeña, formada por gente joven y con un ambiente de trabajo muy bueno. Con nosotros tendrás la oportunidad de desarrollar apps para clientes muy diversos: emprendedores, organismos públicos, empresas multinacionales…así como de trabajar con gente experimentada de la que podrás aprender para mejorar como desarrollador (y como jugador de ping pong).
+Si ya has publicado alguna app, sea por libre o por cuenta ajena, encajarás perfectamente en nuestra oferta, pues necesitamos una persona responsable y con experiencia, capaz de desarrollar una app desde cero o de trabajar en equipo para participar en el desarrollo de funcionalides de apps existentes. 
+Por otro lado, y esto es completamente opcional, si te gustan otras tecnologías (Android, AngularJS, Cassandra…) haremos todo lo posible para que tengas la oportunidad de trabajar con ellas, y logres convertirte en un Full Stack Developer.
+Estas son las tecnologías iOS con las que trabajamos habitualmente:
+- Modern Objective-C (pronto Swift)
+- Auto Layout (constraints por UI y/o código)
+- Storyboards, XIBs
+- CocoaPods
+- AFNetworking
+- Block syntax
+Si tienes el perfil que buscamos y sabes diferenciar entre weak y strong, no dudes en ponerte en contacto con nosotros!

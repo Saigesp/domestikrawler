@@ -1,0 +1,25 @@
+
+Sobre ANTAI VENTURE BUILDER: creada hace 3 años en Barcelona, ANTAI es una de las incubadoras de referencia en Europa, pues sus creadores y su equipo han liderado el lanzamiento de compañías punteras como LetsBonus, Wallapop, ChicPlace, FancyBox y muchas más, así como la agencia de marketing digital del Grupo: BeRepublic. ANTAI está integrada por la incubadora de proyectos digitales, un fondo de inversión de medios y una red de business angels. Creando así un ecosistema que permite lanzar proyectos muy rápidamente y con altas garantías de financiación. El Grupo está integrado por más de 150 profesionales y ANTAI VENTURE BUILDER tiene como objetivo el lanzamiento de 2-3 startups cada año, aprovechando las distintas sinergias existentes entre las empresas del grupo. 
+¿Por qué unirse a ANTAI VENTURE BUILDER? 
+•	Para formar parte de un EQUIPO con talento, multidisciplinar, joven, eficiente, con gran experiencia en el sector digital, muy dinámico y divertido. Ofrecemos trabajar al lado de grandes profesionales de distintas disciplinas y en un entorno en el que el trabajo en equipo es la principal premisa. 
+•	Todos los proyectos tienen alcance INTERNACIONAL. 
+•	Nuestra misión es ser la incubadora LÍDER del Sur de Europa. 
+•	Nuestra estrategia es garantía de ÉXITO: creamos proyectos innovadores, los lanzamos rápidamente locamente y en seguida los escalamos a nivel nacional e internacional. 
+Descripción del puesto: 
+reportando al Responsable Técnico, se responsabilizará del desarrollo del front-end de la nueva startup. Se encargará de analizar las diversas alternativas de implementación para llegar a la mejor solución técnica posible, de participar en el proceso de concepción de nuevos proyectos, en colaboración directa con el equipo creativo y el equipo de back-end, realizar la maquetación de sites responsive, garantizando que los desarrollos sean compatibles con los principales navegadores desktop, tablet y mobile del mercado. 
+¿Qué requisitos pedimos? 
+•	Formación en CFGS Informática o experiencia equivalente. 
+•	Mínimo 3años de experiencia contrastada como front-end developer. 
+•	Conocimientos profundos en tecnologías HTML5/CSS3, Bootstrap, Modernizr, SASS(SCSS), JScript, JQuery, Twig y AngularJs. 
+•	Experiencia en el manejo de la suite de diseño Adobe. 
+•	Conocimientos de herramientas de gestión git, github y redmine. 
+•	Se valorará positivamente experiencia como back-end developer sobre tecnologías PHP 
+•	Capacidad analítica. 
+•	Habilidad para trabajar de manera independiente. 
+•	Proactividad. 
+Ofrecemos: 
+•	Retribución negociable en función de la experiencia aportada. 
+•	Lugar de trabajo: Barcelona. 
+•	Entorno de trabajo joven y multidisciplinar. 
+•	Formar parte del ecosistema de ANTAI VENTURE BUILDER, donde se crean cada año varios negocios. Las oportunidades de rotación y promoción interna son muy altas. 
+•	Formar parte desde el primer día de la creación de uno de los modelos de m-commerce con más posibilidad de crecimiento en 2015.

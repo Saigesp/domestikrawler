@@ -1,0 +1,20 @@
+
+Somos un grupo de mkt, comunicación y diseño que quiere incorporar un programador senior para apoyar el departamento on line.
+Trabajamos en creación de web, eNewsletter, redes sociales, comunicación 2.0
+FUNCIONES
+Desarrollo y mantenimiento de proyectos web.
+Apoyo campañas de marketing online (BBDD, landings, analítica y seguimiento).
+Apoyo en campañas de eMail Mkt.
+Apoyo en campañas de comunicación interactiva, microsites, aplicaciones Facebook.
+Conocimientos de las herramientas necesarias para realizar sus funciones, como:
+PHP
+MySQL
+JavaScript utilizando librerías tipo jQuery, Prototype, etc
+CSS
+XML, XHTML, JSON
+Conocimientos básicos de Flash as2
+Conocimientos de alguna herramienta de email marketing- Conocimientos de algún CMS (Joomla, Drupal, WordPress)
+Action Script 3
+Webservices
+Nociones HTML 5 y SEO
+

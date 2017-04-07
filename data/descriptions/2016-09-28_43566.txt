@@ -1,0 +1,9 @@
+
+Para una empresa multinacional de marketing digital buscamos un Analista / Programador Full Stack con 3-4 años de experiencia que maneje tecnologías Open Source.
+Cumplirá un rol de ingeniero de SW con visión para definir cómo se deben acometer los proyectos desde el punto de vista tecnológico.
+Requisitos:
+- Titulado o por titularse en Ingeniería Informática o Telecomunicaciones
+- 3 años de experiencia como Programador
+- Dominio de JAVA y HTML5
+- Deseables: base técnica en BBDD, PHP, gestores de contenidos...
+- Inglés competencia profesional

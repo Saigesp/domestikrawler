@@ -1,0 +1,25 @@
+
+Hola! somos interacso, una empresa de desarrollo ágil, UX y diseño de productos digitales interactivos basada en Madrid.
+Desarrollamos productos digitales, sitios web avanzados y aplicaciones móviles para clientes de todos los tamaños, tanto empresas consolidadas como startups, principalmente utilizando HTML5 y otras tecnologías web modernas. Tenemos amplios conocimientos y experiencia con multitud de APIs y Frameworks.
+Creemos en la simplicidad y nuestra filosofía es aprender creando, nos gusta explorar tecnologías creando cosas nuevas e invertimos tiempo en desarrollar productos propios que posteriormente convertimos en startups, como conceptinbox.com entre otros.
+Si eres maquetador web con experiencia trabajando con frameworks css (bootstrap, semantic, foundation y similares) te estamos buscando, y si tienes conocimientos de JavaScript, especialmente trabajando con algún framework MVC moderno y con herramientas como bower, gulp o npm lo valoraremos de una forma especial.
+Tus tareas consistirán en maquetar en CSS los diseños que recibirás desde diseño en archivos Sketch, Photoshop o directamente sobre Zeplin. Usarás generalmente algún preprocesador (sass, less…) y trabajarás todos los días con GIT, por lo que importante que te manejes de manera fluída.
+FUNCIONES
+Generación de páginas HTML
+Generación de estilos CSS
+Optimización de cargas de páginas
+Trabajar con animaciones CSS
+Maquetación a ancho fijo y adaptativa (responsive)
+Añadir interacción básica con JavaScript
+REQUISITOS
+Conocimientos avanzados en HTML y CSS
+Experiencia usando frameworks como bootstrap, SemanticUI, foundation y similares
+Conocimientos medios en JavaScript
+Los más importantes: Capacidad de trabajo en equipo, actitud positiva, capacidad de aprendizaje constante e iniciativa
+OFRECEMOS
+Contrato inicial de 6 meses y posterior indefinido
+Flexibilidad horaria, posibilidad de teletrabajo
+Carrera interna
+Entorno innovador
+Remuneración según valía
+Si eres una persona curiosa, dinámica, que te gusta poner atención al detalle y buscas una empresa con proyectos interesantes donde ampliar tus habilidades estaremos encantados de conocerte

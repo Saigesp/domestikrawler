@@ -1,0 +1,14 @@
+
+En dejavu.es estamos buscando un desarrollador frontend, para incorporar a nuestro equipo de proyectos de Ecommerce.
+¿Qué perfil buscamos?
+    - Manejo de JavaScript usando frameworks tipo jQuery, y experiencia con CSS3, Responsive Design, SASS/Compass, etc
+    - Conocimiento en el desarrollo de plantillas con smarty, twig o tecnologías similares basadas en php
+    - Control de Prestashop a nivel de desarrollo de componentes, módulos y extensión de funcionalidades en general.
+    - Como complemento, se valorarán conocimientos de usabilidad, arquitectura de la información, métricas, SEO, etc
+¿Cuál es nuestra oferta?
+Este perfil formaría parte de un equipo de desarrollo de e-commerce, en un ambiente agradable y tranquilo, sin presiones excesivas, ni jornadas mayores de 8h... Valoramos básicamente la dedicación y el gusto por el trabajo bien realizado, el continuo aprendizaje y saber afrontar nuevos retos con pasión.
+Te ofrecemos un puesto fijo, con un rango salarial de entre 20.000 y 30.000 € bruto/año, según valía y experiencia.
+¿Quienes somos?
+Somos una empresa con más de 15 años de vida, especializada en proyectos Ecommerce con fuerte proyección, y enfocados en lograr objetivos de tráfico y conversión.
+Nos apasiona el mundo del Comercio Electrónico. Solo realizamos proyectos en los que creemos, y apostamos fuerte por ellos, para lograr el éxito marcado en cada caso.
+

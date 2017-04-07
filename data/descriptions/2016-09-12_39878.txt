@@ -1,0 +1,26 @@
+
+Blue Bliss es una agencia digital especializada en el sector healthcare
+Buscamos a un diseñador front-end / media para incorporarse al equipo digital
+Tareas a realizar
+UI (Interfaz de usuario)
+Maquetación HTML+CSS
+jQuery
+Bootstrap (Responsive Design)
+CMS (Wordpress, Drupal)
+Vídeo
+Software que usamos
+Adobe CC / Sketch
+FCPX
+Entorno Windows & Mac
+Se valorará positivamente si el candidato tiene conocimientos de:
+FCPX
+Keynote
+Adobe Phonegap
+Theming para CMS (WP/Drupal)
+PHP
+MySQL
+UX
+Prototipos con Invision / Axure
+Otras librerías JS
+Servidores web
+Es indispensable ser estudiante activo para la realización del convenio de prácticas

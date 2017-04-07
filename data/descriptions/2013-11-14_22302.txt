@@ -1,0 +1,26 @@
+
+Position Summary
+We seek a sharp, motivated and dependable web developer to work as part of the Web Development team.
+The successful candidate will work on the maintenance of our existing websites, and will eventually build websites and new functionality based on our proprietary CMS.
+Primary Responsibilities
+- Manage &amp; implement live website updates and change requests from our clients
+- Manage Domain pointing and hosting issues
+- Extend existing functionality and improve the existing code based on our best practices
+- Document your development work, both in the code and in our internal documentation.
+- Follow our testing and QA process to help ensure client satisfaction.
+- Introduce new cutting edge front-end functionality to our websites
+- Develop Websites for clients based on our PHP- and Ajax-based commercial Content Management System
+Skills and Minimum Qualifications Required
+- 2 year of experience programming in standards-compliant HTML, CSS and JavaScript, and an understanding of the &amp;quot;progressive enhancement&amp;quot; philosophy of web development
+- Experience in SQL and/or MySQL
+- Experience in other programming languages apart from PHP is a plus
+- A Degree or equivalent in a technical subject
+- Experience working with CMS websites
+- Good level of English, written and spoken. 2nd language is a plus
+- Basic design skills
+- Familiarity with Linux shell commands
+- A good knowledge of working with and around browser-specific behaviours
+- Experience of version control systems such as Subversion
+- Good team working skills are essential. The successful candidate will be working closely with cross-functional teams
+- A proactive approach to responding to problems
+- A disciplined attitude towards code stability and documentation

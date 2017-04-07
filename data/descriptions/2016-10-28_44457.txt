@@ -1,0 +1,18 @@
+
+Inspyrame és un estudi creatiu de publicitat i comunicació. Som un equip jove i amb molt bo ambient de feina.
+Busquem un desenvolupador / maquetador web FREELANCE per treballar en diferents projectes. 
+
+Requisits:
+ - Nivell alt en CMS (Wordpress, Prestashop, Joomla, Drupal, Magento…)
+ - Capacitat de crear plantilles en Wordpress i Prestashop.
+ - Àmplia experiència en jQuery, Javascript i Ajax.
+ - Àmplia experiència en PHP i Mysql.
+ - Nivell alt de coneixements de Html5 i CSS3.
+ - Coneixements en programes de disseny: Photoshop, Illustrator i Indesign.
+Es valorarà positivament:
+  - Capacitat de disseny i intereacció amb el departament de creativitat.
+  - Experiència utilitzant Frameworks de PHP, Symfony 2, Laravel, Yii Framework,…
+  - Desenvolupament d’aplicacions mòbils tant en Android com en iOS.
+Busquem una persona proactiva amb ganes d’involucrar-se en els projectes que realitzem, que participi activament de les decisions en el seu camp de treball, amb ganes d’apendre, de fer i d’investigar.
+La disponibilitat del candidat ha de ser immediata.
+

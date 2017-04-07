@@ -1,0 +1,24 @@
+
+Buscamos una persona que programe (jornada completa) para trabajar desde nuestra oficina en el centro de Madrid.
+¿Qué buscamos?
+Una [persona] codelover con:
+Experiencia desarrollo frontend y backend.
+Experiencia en entornos de producción.
+Dominio HTML, CSS, Javascript (AJAX, framework jQuery), PHP y SQL.
+Dominio desarrollo WordPress (plugins, temas).
+Mantenimiento básico de servidores. Experiencia CSS3 y HTML5.
+Necesario ser organizado y capaz de manejar múltiples versiones de software (conocimientos Git).
+Conocimientos de eCommerce (pasarelas de pago, membership, WooCommmerce).
+Conocimientos SEO.
+Conocimientos de inglés.
+Además:
+Buscamos a alguien que le guste escuchar música mientras trabaja (de hilo musical solemos poner http://www.1.fm/station/ajazz). Si aporta diversidad a nuestra lista en spotify, pues mejor que mejor.
+Y sobre todo, que no pueda evitar ponerle pasión a lo que hace, sea una hoja de excel, un desplazamiento en autobús o la definición de un producto monetizable.
+Descripción del puesto
+Trabajará en nuestras oficinas. Al menos, los primeros meses. Luego puede plantearse teletrabajo. Negociable. Trabajará codo a codo con una Product Manager con la que acordará los desarrollos. ¿Y qué es lo que estamos desarrollando? discentius.com.
+Metodología
+Iteraciones mensuales. Las reuniones más densas serán al inicio de la iteración y al cierre (demo de la iteración). Stand-ups diarios de 20 minutos top.
+¿Qué ofrecemos?
+Un entorno de trabajo agradable. Café mañanero (no tenemos infusiones, pero si eres de infusiones o tienes alguna petición, la incorporamos). Contrato a jornada completa en el centro de Madrid (calle Rafael Calvo, 18). Un año, con un periodo de prueba de 3 meses. Sueldo negociable.
+Horario, incorporación y otros detalles importantes.
+No creemos en la filosofía de calentar el asiento, pero tenemos un horario. En cualquier caso, nos gusta la flexibilidad responsable y llegar al final de la iteración con las funcionalidades completas. A veces los conseguimos.

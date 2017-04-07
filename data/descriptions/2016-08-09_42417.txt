@@ -1,0 +1,13 @@
+
+Bitgune es una pequeña empresa dedicada al diseño y desarrollo de aplicaciones web en Galdakao (Bizkaia). 
+Buscamos un diseñador web con sensibilidad por el diseño, capaz de maquetar en HTML/CSS + Responsive y con interés por aplicar las últimas tecnologías en un entorno real. Una persona capaz de afrontar retos y encontrar soluciones a problemas dentro del entorno web, con ganas de trabajar y aprender, proactiva y resolutiva.
+REQUISITOS MÍNIMOS:
+· Alto y actualizado conocimiento y experiencia de HTML5 y CSS3.
+ · Diseño gráfico, Photoshop e Illustrator.
+ · Conocimientos de Bootstrap u otro framework.
+ · Nociones en Javascript, jQuery, etc... 
+ · Experiencia mínima 2 años.
+SE VALORARÁ:
+· Plataformas CMS / E-COMMERCE: Wordpress, Opencart, Magento, Prestashop, Joomla...
+· Experiencia con PHP. 
+ · Preprocesadores SASS o LESS. 

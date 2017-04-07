@@ -1,0 +1,8 @@
+
+Buscamos un desarrollador en prácticas remuneradas en Madrid, para formar parte de un grupo de desarrollo de una plataforma web.
+Requisitos indispensables:
+PHP, HTML5, CSS3, JavaScript / Ajax / JSON, MySQL.
+Experiencia en desarrollo sobre framework Symfony.
+Deseable:
+Administración de servidores Linux, deseablemente basados en Debian /Ubuntu, Scripting Linux (bash), Control de versiones con GIT.
+Si te parece interesante y quieres desarrollarte dentro de una startup tecnológica, ¡no dudes en ponerte en contacto conmigo!

@@ -1,0 +1,28 @@
+
+Funciones: Colaboración en el desarrollo de proyectos. Participar en el área de desarrollo, colaborando en la realización técnica de ofertas y preventa.
+La certificación asociada es recomendable.
+Se ofrece: Una carrera profesional basada en la continua adquisición de conocimientos, amplia tipología de proyectos con posible evolución en diferentes áreas de nuestro negocio tales como Lean, Sourcing, Governance o Transformación Digital entre otras, así como un desarrollo personal basado en el trabajo en equipo y programas de capacitación continuada, en un ambiente exigente de alto nivel profesional y humano.
+REQUISITOS:
+Preferiblemente Ingenieros Superiores en Informática o Telecomunicaciones que tengan un alto nivel de inglés, imprescindible en una compañía internacional como la nuestra.
+Personas apasionadas por la tecnología, pero con la versatilidad suficiente para participar en proyectos y entornos de Gestión.
+Habilidades y capacidades requeridas:
+- Capacidad para aplicar las competencias de manera autónoma en entornos complejos y ejecutar las actividades necesarias, ajustándose al plazo, presupuesto y calidad acordados con el cliente.
+- Capacidad analítica y de resolución de problemas.
+- Habilidad para trabajar en equipo y por  objetivos, con proactividad, flexibilidad, empatía y compromiso profesional.
+- Buen conocimiento de Office, así como un uso profesional de Excel y PowerPoint.
+- Alto nivel de inglés hablado y escrito.
+- Conocimiento de las principales soluciones, herramientas y tecnologías asociadas a
+DevOps, incluyendo todas o varias de las siguientes:
+Gestión de herramientas de gestión agile de proyectos y gestión de vida de software (Jira, CA Agile Central, HPE ALM,...).
+- Conocimiento básico de soluciones de infraestructura/plataforma como servicio en nube pública (AWS, Azure, Google Cloud Platform, ...).
+- Conocimiento básico de soluciones de automatización de configuración de plataformas (Chef, Puppet, Ansible, ...).
+- Conocimiento de soluciones de automatización de despliegue y orquestadores de CI/CD (Jenkins, Bamboo, CA Release Automation, HPE Octane, Clarivé, ...).
+- Conocimiento de soluciones de contenerización (Docker, Kubernetes, ...).
+- Conocimiento   de   soluciones   de   gestión   de   configuración   de   desarrollo  y repositorio de código fuente (Github, Gitlab, SVN, ...).
+- Conocimiento de soluciones de compilación automática (Maven, ANT, MSBuild, Make, ...).
+- Conocimiento de soluciones y marcos de automatización de pruebas y calidad de software estático (JUnit, Cucumber, Selenium, Sonar, ...).
+- Conocimiento de soluciones de repositorios de artefactos (Nexus, Artifacory,...).
+DESEABLE:
+- Conocimiento básico de programación Scripts para la automatización de tareas (Shell script, Python, Ruby ).
+- Conocimiento de soluciones de monitorización de sistemas y aplicaciones (Kibana,Elasticsearch,Logstash,Newrelic, Cloudwatch, ...).
+

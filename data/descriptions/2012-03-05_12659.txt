@@ -1,0 +1,28 @@
+
+En ideup! estamos buscando un programador con experiencia en el desarrollo de aplicaciones para iPhone/iPad (iOS) para formar parte de nuestro equipo de desarrollo en diferentes proyectos de movilidad.
+Buscamos a una persona capaz de trabajar en grupo, comprometido y apasionado de las nuevas tecnologías, pero sobre todo que no le asuste enfrentarse con nuevos retos tecnológicos.
+Necesitamos que tenga experiencia en:
+- Entorno iOS/Xcode/C#, en iOS 5 para iPhone e iPad.
+- Herramientas como Storyboard en Xcode, “Instruments” y depuración de aplicaciones, manejo de elementos gráficos, controladores Custom, etc.
+- Utilización de App Store para envío de Apps para su publicación.
+- Distribución de Apps AdHoc.
+- Gestión y Administración de App Store.
+- Protocolo de envío mensajes Push a Apps.
+- Proyectos ya publicados en el AppStore.
+Y valoraremos enormemente:
+- Experiencia en programación en OpenGL.
+- Experiencia en programación directa de recursos del teléfono por debajo de Cocoa, (sockets, etc).
+- Utilización de iAds, GameCenter, InApp Purchase.
+- Desarrollo de aplicaciones conectadas e intercambio de información a través de web services, XML/JSON, Google Maps, APIs de redes sociales (Twitter, Facebook, Linkedin).
+- Desarrollo de WebApps para iOS.
+Bola extra:
+- Diseño de Interfaces de Usuario, usabilidad, diseño gráfico.
+- Entornos servidores WEB, PHP-SQL, Java, Rubi, etc.
+- Experiencia CMS (Drupal, Joomla)
+Ofrecemos:
+- Trabajar en un equipo innovador, multidisciplinar y con pasión por internet
+- Participar en proyectos para algunas de las principales marcas del país
+- Formación continua a cargo de la empresa con asistencia a eventos y congresos
+- Posibilidad de trabajar desde tu casa un día a la semana
+Si estás interesado, envíanos tu CV a rh@ideup.com con el asunto 'Programador Senior iPhone'.
+Se valorarán muy positivamente ejemplos de trabajos realizados y proyectos en los que hayas participado. Si tienes portfolio online, web personal, blog, twitter, tumblr, flickr, linkedin, dribbble o lo que quieras que conozcamos, envíanoslo también.

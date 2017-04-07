@@ -1,0 +1,16 @@
+
+Nubelo.com es una plataforma web de teletrabajo, permite a las empresas aumentar su productividad, flexibilidad y ahorro mediante herramientas gratuitas de selección, supervisión y pago de trabajadores freelance.
+Media jornada.
+Requisitos mínimos
+- Dominio de HTML y CSS 
+- Buen nivel de javascript y jQuery 
+- Uso de estándares web 
+Requisitos deseados
+- HTML5 y CSS3, marcado semántico y/o microformatos 
+- Capacidad para escribir código limpio, mantenible y suficientemente modular (reutilizable, extensible...) 
+- Creación de estructuras sólidas y estables (incluyendo layouting, rejillas, etc.) 
+- Haber trabajado con algún framework de CSS 
+- Conocimientos de SASS/Compass o Less 
+- Técnicas de "responsive design", mediaqueries y desarrollo para plataformas móviles 
+- Control de versiones con GIT
+

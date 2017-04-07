@@ -1,0 +1,20 @@
+
+Necesitamos un programador web para realizar cambios en un formulario hecho para prestashop.
+Esta persona trabajará con nosotros frecuentemente en la actualización de la web y soporte de la misma. Es imprescindible que tenga experiencia en la programación de módulos para prestashop y tenga disponibilidad por las mañanas, para poder mantener una comunicación fluida. 
+Mandar presupuesto a webmaster@creatingbags.com
+
+
+http://www.creatingbags.com/es/estuches-de-botellas/65-fundas-para-botellas.html
+[img]null[/img]
+Lo que necesitamos es lo siguiente:
+Adjunto dos imágenes explicativas
+1)Personalizar formulario en función del tipo de producto:
+1.1) Si son botellas:
+1.1.a) Base cirular diamentro: inputs con diametro y altura
+1.1.b) Base rectangular: inputs lado x lado
+2) Si el producto tiene profundidad: mostrar input fuelle
+3) Si hacemos click sobre los productos de abajo se habrá en una nueva ventana por error, lo correcto sería que se cambiara por el producto que hay en el centro (ya estaba hecho pero se ha desconfigurado)
+6) La validación ahora se hace campo por campo, pero lo ideal sería que se comprobaran todos texto al mismo tiempo
+4) Añadir una clase al producto con el color seleccionado. 
+5) Filtro para evitar el spam. Hay que poner algún filtro
+6) Por último los nuevos valores de los inputs que se añadan al formulario deben grabarse en la base de datos (esto ya funciona para los datos que hay ahora en el formulario, la información se escribe en la base de datos desde un archivo tpl)

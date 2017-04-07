@@ -1,0 +1,40 @@
+
+¡Hola!
+En tooltyp estamos buscando a un nuev@ compi que se incorpore a nuestro equipo técnico y esté tan loc@ de tener pleno manejo de WordPress y además desarrollar en PHP. Es decir, necesitamos un perfil mixto que sea un poco “el listillo de la clase” y un apasionado del mundo WordPress.
+El ambiente es inigualable, por eso para nosotros es muy importante que nuestros nuev@s compañer@s sean afines a nuestra filosofía de trabajo y capaces de valorar por encima de todo esta característica, con el claro objetivo de que se adapten rápidamente al flujo habitual de trabajo.
+Si estás buscando probar retos nuevos de forma temporal o venir de paso, está claro que esta oferta no es para ti.
+¿Dónde y cómo? 
+La oferta es “presencial” en Madrid con un contrato a tiempo completo e indefinido.
+¿Qué buscamos? 
+Un perfil multidisciplinar, dinámico y muy resolutivo, que sea capaz de desarrollar proyectos de “0” e integrarlos con WordPress yendo un paso más allá, no sólo a nivel de lógica de desarrollo, si no también, a nivel de consultas avanzadas a la bases de datos. Necesitamos que seas capaz de desarrollar tus propios plugins, así como adaptar perfectamente a las necesidades de los proyectos cualquier elemento externo que pueda ser de utilidad. Por lo tanto tu nivel de programación, principalmente PHP, y de conocimiento en WordPress debe ser avanzado.
+Además, debes poder sentirte cómodo maquetando e incorporando soluciones en HTML, CSS & JavaScript.
+¿Te consideras un/a crack? 
+Si estás dispuest@ a formar parte de un equipo y buscar/dar soluciones para los proyecto más exigentes, sin duda te estamos buscando a ti.
+¿Tienes mucha experiencia en…? 
+- PHP, nivel avanzado. Avanzado para nosotros es: trabajar con apis externas (OAuth, Facebook, Twitter) usando cURL o librerias similares. Has trabajado con algún framework MVC y sabes diferenciar una petición GET de una POST y rest no solamente significa descansar para ti. 
+– Desarrollo web basado en WordPress y Woocommerce. 
+- HTML5 & CSS3 
+- Javascript, principalmente jQuery. 
+- Que tengas nivel avanzado con sistemas de control de versión Git. 
+- No hace falta que seas un artista, pero sí que es interesante que tengas, al menos, un nivel básico con Photoshop. 
+- Sobra decirlo, porque seguro que ya lo haces, pero valoramos bastante que tu código sea limpio, que esté debidamente comentado y que cumpla los estándares marcados por W3C.
+De forma adicional, tendremos en cuenta: 
+- Que hayas trabajado con frameworks como Bootstrap o Foundation. 
+- SASS/LESS 
+- Que tengas cierta experiencia con preprocesadores tipo Prepros/Codekit.
+¿Cuáles serán tus funciones a corto plazo? 
+- Participar activamente en el desarrollo back y front de los proyectos Web. 
+- Buscar y dar soluciones técnicas, para desarrollos específicos. 
+- Maquetar e integrar páginas y plantillas con desarrollos a medida o bajo WordPress. 
+- Participar en la creación y la definición de los proyectos: usabilidad, arquitectura de la información, funcionalidad, etc. 
+- Realizar desarrollos específicos, utilizando apis externas (Facebook, Google, Twitter, etc) y webservices.
+¿Realmente quieres trabajar con nosotr@s? 
+Si es así, para poder optar a la oferta de trabajo debes tener en cuenta:
+- Que buscamos un perfil muy concreto y muy técnico. 
+- Que buscamos a alguien para quedarse y no venga de paso. 
+- Que te realizaremos un test de aptitudes y después una prueba técnica. 
+- Que la incorporación debe ser inmediata. 
+- Que tu formación nos importa pero preferimos ver tu portfolio. 
+- Que si nos envías un mail genérico, es probable que descartemos tu candidatura. Háblanos de ti, proyectos en los que te has involucrado, muéstranos de que eres capaz.
+Sin duda, el horario es muy importante 
+En tooltyp nos gusta poder conciliar la vida laboral y personal, por eso te ofrecemos un horario de 9:00 a 18:30, los viernes hasta las 15:00 y jornada intensiva en verano.

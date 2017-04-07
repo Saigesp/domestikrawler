@@ -1,0 +1,31 @@
+
+Misión
+Conjuntamente con el equipo de Desarrollo de IT, tendrá como misión aplicar nuevas funcionalidades, optimización y mantenimiento del código en todos sus procesos.
+Requisitos imprescindibles para la posición:
+•	Acostumbrado a trabajar en sitios de alto tráfico 
+•	Sólidos conocimientos en programación LAMP y entornos MVC
+•	Experiencia con frameworks MVC, tipo FuelPHP, Symfony, Zend…
+Tecnologías utilizadas:
+PHP 5, MVC, MySQL, Big data, HTML, jQuery, Ajax, Unit Testing, Memcached, CDN, Amazon WS, SOAP, JSON, GIT, SVN, PHP Unit, ZendFramework, FuelPHP, Simfony, WebServices, XML, Nginx, oAuth, Scrum, Midnight commander.
+Perfil 
+Requisitos de formación:
+•	Ingeniero informático
+Requisitos de idiomas:
+•	Inglés fluido
+Requisitos técnicos (demostrable):
+•	Desarrollo en PHP 5 (Orientado a objetos)
+•	Alto nivel en MySQL (optimización de consultas)
+•	Lenguajes con experiencia: memcached, varnish, php, json, xml, api, soap, bash script, rest.
+•	Patrones de diseño MVC y experiencia con frameworks MVC
+•	JS + jQuery + Ajax
+•	Integración con Webservices de terceros (SOAP, JSON)
+•	Control de versiones (GIT/SVN)
+•	Unit Testing
+•	Administración de sistemas Linux
+•	Valorable tener experiencia y/o conocimientos de desarrollo aplicaciones para iOS en Objective-C / Xcode y/o Android (JAVA) con sus respectivas librerias nativas (UIKit, Core Data, REST operations...) 
+Requisitos de experiencia:
+•	Experiencia mínima de 3 años en una posición de Programador PHP 5 y desarrollo en POO
+•	Experiencia en entornos e-commerce
+•	Persona metódica con alta capacidad de trabajo, proactividad, habilidades comunicativas, trabajo en equipo, visión de negocio y orientación a resultados. 
+•	Valorable conocimientos del sector de la motocicleta.
+

@@ -1,0 +1,27 @@
+
+About the company
+Aedgency, headquartered in Barcelona, is a pan-European performance-based marketing specialist which offers a gateway to privileged communication channels between brands and e-buyers.
+Founded in 2004 Aedgency has been growing rapidly ever since and now operates across five European markets. Aedgency focuses on increasing advertisers’ conversion rates and monetizes its publishing networks and independent publishers’ websites.
+Aedgency offers brands access to millions of online consumers across Europe. Its bespoke analytics engine uses deep contextual and behavioral segmentation to closely target users through the commu¬nication channel that is most likely to get a result.
+Candidate profile
+We are looking for a Tester Trainee who will work in the Research  and development ,in the Quality Assurance Department. The candidate will be responsible for the testing of different software created by the company. The tester also will be monitoring the product quality by testing and reviewing the software and performing bug administration management  and reporting.
+Responsibilities:
+-Test compatibility of our software with browsers and Windows OS.
+-Create and maintain test cases and test plans.
+-Execute the test cases.
+-Create and maintain automated test scripts.
+-Create bugs in  project management system.
+-Find and follow up of the bugs.
+-Create Comprehensive test reports.
+-Monitor new releases and innovations of browser software and Windows OS.
+Minimum requirements:
+-Currently studying computer sciences.
+-Knowledge of web applications and software.
+-Knowledge of one of the following language programs: C++, PHP or Python.
+-Good organizational, process orientation and analytical skills.
+-Be fluent in English and any other European language.
+-Excellent communication skills, both verbal and written.
+Job Advantages:
+-Standard trainee compensation package according to policy
+-Possibility to work  in multicultural environment.
+-Free Spanish/English lessons.

@@ -1,0 +1,22 @@
+
+Descripción de empleo
+Sus principales funciones consistirán en:
+- Desarrollar el producto en iOS y Android
+- Amplia experiencia en desarrollo en IOS y Android para aplicaciones iPad e iPhone y en Android para aplicaciones en dicha plataforma.
+- Aplicaciones publicas en PlayStore y AppStore
+-Liderar el enfoque y orientación a nivel internacional de las distintas Aplicaciones
+- Aptitudes y conocimientos deseados
+Habilidades:
+- IOS: Objective-C, Xcode, Cocoa Touch para Iphone/ iPad
+- Android: Java, Eclipse, ADT, Android SDK para smartphone/ tablet
+- Nivel alto de ingles
+- Haber trabajado con metodologías ágiles.
+- Experiencia en el uso del sistema de control de versiones GIT
+Se valoraran conocimientos en:
+- Web Services y arquitecturas SOA: SOAP, REST/JSON
+- Conocimientos de Bases de datos MySQL
+- Configuración y gestión de servidores web (Tomcat/Apache)
+Empresa:
+Nos dedicamos al desarrollo de aplicaciones móviles orientadas principalmente al marketing, relaciones sociales y comercio electrónico. 
+Desarrollamos para la mayoría de los sistemas operativos y nuestras aplicaciones tienen marcado carácter internacional y, por lo tanto, diseñadas y creadas para mercados con características culturales y sociales muy diferentes. 
+Con sede central en Madrid, contamos con un accionariado muy diverso que nos aportan los recursos económicos necesarios, pero también el "smart money" imprescindible para alcanzar el éxito en nuestros objetivos.

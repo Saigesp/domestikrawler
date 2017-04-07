@@ -1,0 +1,7 @@
+
+En Sernew Consultores precisamos para incorporación en plantilla varios PROGRAMADORES/MAQUETADORES SENIOR con experiencia de al menos 3 años en HTML, específicamente con nivel alto de la versión 5 además de los siguientes requisitos técnicos:
+- CSS3 y CANVAS
+- Javascript y JQuery
+- Ajax
+- Desarrollos en distintos navegadores
+Se incorporarán a interesante proyecto ubicado en Boadilla del Monte.

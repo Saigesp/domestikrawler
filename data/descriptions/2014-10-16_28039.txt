@@ -1,0 +1,10 @@
+
+Formando parte del departamento de desarrollo se responsabilizará de la programación web, desarrollo de nuestros video juegos y aplicaciones para diversos entornos on line: mobile, web.
+ Requerimientos
+- Valoraremos formación en Ingeniería Informática o similar, FP superior programación web , post grado en programación web.
+- Experiencia profesional de al menos dos años en desarrollo web utilizando las siguientes tecnologías: 
+- Imprescindible conocimientos de PHP, MySQL.
+- Dominio en programación orientada a objetos.
+- Conocimientos en patrón MVC.
+- Se valorará experiencia con NoSQL (especialmente Couchbase).
+- Valorable Inglés alto leido y escrito.

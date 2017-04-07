@@ -1,0 +1,23 @@
+
+En RealFunding, startup finalista de la V edición de linktoStart, buscamos un candidato/a del siguiente perfil para liderar el área tecnológica:
+- Titulado en Ingeniería Informática o Similar
+- Desarrollador web con 2 años de experiencia en programación, diseño (mockups / Storyboards), usabilidad y SEO.
+- Experiencia en PHP (Frameworks MVC como Laravel o Symphony), multi-idioma (localización) es un plus valorable.
+- Con interés por la emprendeduría social y el sector del
+crowdfunding/crowdlending.
+- Dispuesto a trabajar en un entorno startup.
+- Autodidacta, con mucha iniciativa y ganas de liderar.
+- Comprometido con el proyecto.
+- Opción de participaciones en la empresa.
+- Nivel alto de inglés.
+Idealmente conocimiento de herramientas como:
+- Bootstrap 3
+- LESS / SASS
+- GruntJS
+- Bower
+- Google Analytics
+- WordPress (blog)
+Sus funciones serán las propias de un CTO de una startup tecnológica:
+- Desarrollo de una plataforma de financiación colectiva en forma de préstamos (crowdlending), lo cual implica desarrollo e integración de front-end, back-end y bases de datos.
+- Toma de decisiones, incorporación constante de feedback del resto del equipo y de los clientes.
+- Externalización de los elementos que no se puedan desarrollar "in-house" y supervisión de este desarrollo.

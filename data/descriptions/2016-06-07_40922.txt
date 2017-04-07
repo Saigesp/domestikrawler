@@ -1,0 +1,16 @@
+
+The Hotels Network is a tech company that helps hotels increase direct bookings. We have created a unique product that clients love, and we have clients in over 32 countries. 
+We are based in San Francisco and Barcelona. We are a small team in a growing project, so you will get to experience a startup at its best: high energy, low bureaucracy, very results-oriented. If this sounds good, we want to hear from you!
+-----------
+Now, we are looking for a senior developer to join our engineering team, based in Barcelona. He/she will be responsible for designing, developing and testing software across all levels of our software stack.
+
+Experience with PHP, Javascript, JQuery, Ajax, Web services SOAP/REST
+
+Strong skills with HTML and CSS
+
+3-6 years of experience in programming
+
+Previous experience in startups is a plus
+
+Pro-active, get-things-done attitude
+

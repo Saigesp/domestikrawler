@@ -1,0 +1,22 @@
+
+Mobile gaming developer is looking for a Data Analyst to understand and deliver insights regarding performance of our games, user engagement and user acquisition campaigns. The Data Analyst will be responsible for evaluating the game quality from a quantitative perspective and driving insights to identify opportunities for improvement.
+Responsibilities
+•	Understand key business questions by working closely with game designers and marketing.
+•	Defines with the team statistics that they will want to get from the game once launched, standard to all games (monetization, billing details, virulence, LTV, advertising, etc.) plus custom per game and related to user activity inside the game (quests started/completed, progression flow, etc.).
+•	Work with production team to implement needed tools.
+•	Transform data into actionable insights to influence game virality, player retention and monetization strategies.
+•	Establish new insights and provide recommendations to improve the user experience.
+•	A/B Test and/or analyze game design features that directly or indirectly impact the user experience.
+•	Generate intelligible reports with deep analysis.
+Skills
+•	2-5 years in analytical role with demonstrated ability to draw inferences from both quantitative data and qualitative information.
+•	Strong problem solving skills and a proactive attitude.
+•	Results oriented with the ability to deliver under pressure.
+•	Team player.
+•	Excellent communication skills in English.
+•	Experience in online/mobile gaming industry.
+Technical skills requirements
+•	Bachelor degree in a quantitative field (Computer Science, Mathematics, etc.).
+•	Good SQL skills and very good knowledge of Excel required.
+•	Experience with some reporting tools such as Flurry, Mobile App Tracking, Game analytics, etc.
+•	Other data mining skills or knowledge of computer science are a plus.

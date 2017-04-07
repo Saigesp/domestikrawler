@@ -1,0 +1,14 @@
+
+Vamos para arriba ¡como nuestro pez volador!. Desde la creación de Oxik Studio hemos experimentado un crecimiento continuo y estamos deseando ampliar nuestro bandumen (bandada cardumen).
+Estamos trabajando con muy buenas perspectivas a medio plazo, por lo que buscamos ampliar equipo en nuestras oficinas de Huelva.
+Buscamos  personas muy proactivas, dispuestas a aprender, a resolver problemas diferentes y abiertos a cambios. Además creemos firmemente en la experiencia de usuario, por lo que nos interesa formar equipo con personas creativas y con cierta visión estética. A nivel tecnológico, nos encantaría que dominases los siguientes componentes:
+Backend en PHP
+Symfony2, Composer, Doctrine, Twig, MySQL...
+Frontend HTML5
+CSS3, Stylus, JavaScript, jQuery, Backbone / Angular...
+NodeJS como herramienta de desarrollo
+Gulp, Browserify, Bower, Handlebars…
+Por otra parte trabajamos con consola, repositorios GIT, REST APIs y siguiendo prácticas ágiles y de calidad (como TDD, BDD, code reviews, etc), por lo que si quieres tu código tanto como nosotros cuidamos el nuestro, seguro que tienes cabida en nuestro equipo.
+Valoramos otros conocimientos que puedan aportar en cada proyecto.
+Estamos interesados en gente con buena experiencia (perfiles Senior), pero también en perfiles Junior.
+Como puedes apreciar, no pedimos títulos… no pedimos ‘x’ años de experiencia pero si pedimos muchas cosas y muy distintas. Somos conscientes de que de las tecnologías mencionadas derivan distintos perfiles profesionales y que, sumando a ello distintos grados de experiencia, no podemos poner “precio” a los perfiles que buscamos. Lo que sí podemos es garantizar un salario competitivo en el sector (según valía), un excelente entorno de trabajo, un equipo motivado y dispuesto a hacer las cosas bien hechas y, finalmente, la posibilidad de ser parte de una empresa en pleno crecimiento, con perspectivas inmejorables.

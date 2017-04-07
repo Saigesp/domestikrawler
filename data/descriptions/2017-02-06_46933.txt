@@ -1,0 +1,30 @@
+
+Empresa tecnológica selecciona un programador web php con conocimientos de maquetación.
+Se incorporará a un equipo cualificado, joven y multidisciplinar.
+Dependiendo del director de proyectos las funciones a realizar son las siguientes:
+- Desarrollo y gestión de portales
+- Desarrollo de webs
+- Desarrollo de plataformas de empresas
+Es imprescindible  que tenga conocimientos y experiencia en maquetación y Wordpress para personalización de plantillas y gestión de contenidos. Valorable conocimientos de portfolio.
+Competencias Clave - Conocimientos:
+- Php
+- Javascript, jquery
+- Css3
+- Html5
+- Mysql
+- Buen  nivel de maquetación
+Valorable:
+- Bootstrap
+- Angular JS
+- Programación orientada a objetos
+- Conocimiento de estructuras JSON
+Competencias Clave - Conocimientos:
+- Orientación al cliente
+- Orientación a resultados
+- Excelencia profesional
+- Trabajo en equipo
+Requisitos:
+- Experiencia mínima de un año en las tareas señaladas
+- Experiencia y conocimiento de php y fronted mínimo de un año. Así como de maquetación.
+- Conocimientos de: javascript, jquery, css3, html5 y mysql.
+

@@ -1,0 +1,15 @@
+
+Buscamos a un desarrollador de aplicaciones para iOS que se una a nuestro equipo de Madrid localizado actualmente en Wayra (aceleradora de empresas de Telefónica). Como desarrollador de aplicaciones iOS tendrás la oportunidad de incorporarte al equipo de expertos que está desarrollando la estrategia móvil de Wayook, una startup que se encuentra en plena fase de crecimiento. El trabajo consistirá en el desarrollo, mantenimiento y optimización de las aplicaciones móviles, integrándolas con el backend existente.
+Requisitos:
+- Experiencia de al menos 3 años desarrollando aplicaciones en iOS.
+- Habilidad en diseño de interfaces y UX.
+- Experiencia trabajando con DVCS como Mercurial o Git.
+- Experiencia en APIs REST (RESTful), intercambio de datos con objetos JSON así como XML.
+- Experiencia trabajando con DVCS como Mercurial o Git.
+Se valorará:
+- Conocer y desarrollar aplicaciones también en Android.
+- Disponer de aplicaciones publicadas en Google Play y/o App Store.
+- Tener perfiles públicos con commits realizados en plataformas como GitHub/Bitbucket.
+Sobre Wayook:
+Wayook es la startup española líder en el sector del servicio doméstico online, presente en más de 40 ciudades del país y con planes de internacionalización. En 2014 fue seleccionada por Telefónica para su aceleradora de empresas Wayra.
+Somos un equipo joven compuesto por expertos en tecnología e Internet, trabajando en una de las mejores aceleradoras de empresas de España. Si crees que éste es tu sitio y quieres trabajar con nosotros no dudes en venir a conocernos.

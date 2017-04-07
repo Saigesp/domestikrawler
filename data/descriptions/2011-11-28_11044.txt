@@ -1,0 +1,26 @@
+
+Funciones:
+Desarrollar campañas de marketing online con todo lo que el proyecto conlleva. Preparar bbdd, estructurar landings, preparar las herramientas de análisis y seguimiento.
+- Supervisión de campañas de emailmarketing y permission marketing.
+- Desarrollo de campañas de comunicación interactiva, microsites, aplicaciones Facebook.
+- Desarrollo y mantenimiento de proyectos web.
+Requisitos:
+Profesionales con formación universitaria. Aportando experiencia demostrable de mínimo de 1 años dentro del área de la programación online.
+Debe de tener los siguientes conocimientos:
+- Programación orientada a objetos (POO)
+- PHP
+- MySQL
+- JavaScript utilizando librerías tipo jQuery, Prototype, etc
+- CSS
+- XML, XHTML, JSON
+- Conocimientos básicos de Flash as2
+- Conocimientos y experiencia utilizando alguna herramienta de email marketing
+- Herramientas de edición gráfica (PhotoShop)
+- Conocimientos y experiencia en algún CMS (Joomla, Drupal, WordPress)
+- Experiencia en procesos de testing y validación de estándares
+- Control de versiones, preferentemente subversión
+- Conocimientos y experiencia utilizando algún Framework de desarrollo PHP (Symfony, Zend, Cake)
+- Action Script 3
+- Webservices
+- eCommerce OS (Prestashop, ZenCart, osCommerce, Magento...)
+

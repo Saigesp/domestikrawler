@@ -1,0 +1,27 @@
+
+Get Glocal es una empresa líder consolidada en el ámbito de la creación de soluciones digitales con foco en entorno web, móvil y aplicaciones, tanto propios como de terceros.
+Somos un equipo joven de personas apasionadas por el marketing digital y las nuevas tecnologías, con buenas ideas y ganas de marcar la diferencia. 
+Venimos de diferentes sectores como el marketing online o la consultoría digital y tratamos de aplicar nuestro expertise en ayudar a empresas a trasladar sus fortalezas al online, ofreciendo soluciones completas, hechas a medida de nuestros clientes, pero a un precio asequible. 
+Ofrecemos un ambiente de trabajo joven, dinámico y con muy buen trato y respeto por los compañeros, queremos encontrar alguien que encaje en este sentido también con nosotros.
+Buscamos: 
+Buscamos un Desarrollador Web Front-end con experiencia en AngularJS , en modelo freelance o incorporación en plantilla, a valorar, que pueda colaborar presencialmente con nuestro equipo en nuestras oficinas en Madrid.
+ESTUDIOS MINIMOS: 
+Formación Profesional Grado Superior – Informática
+EXPERIENCIA MINIMA: 
+Dos años trabajando con estas tecnologías y haber empleado las mismas en desarrollos previos (necesario ejemplos demostrables).
+CONOCIMIENTOS NECESARIOS: 
+- AngularJS (Imprescindible)
+- HTML5
+- CSS3 (Less, Sass, Bootstrap).
+- Javascript
+- Experiencia desarrollando con frameworks MVC y MVW.
+- Experiencia con GIT.
+- Metodologías SCRUM.
+- jQuery
+- Desarrollo en entorno LAMP
+- Experiencia con integración continua (Grunt, Webpack)
+REQUISITOS VALORABLES:
+- PHP
+- Wordpress
+- Experiencia con frameworks MVC
+

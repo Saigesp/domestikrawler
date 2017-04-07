@@ -1,0 +1,34 @@
+
+Melboss Music es una empresa con sede en San Francisco (Palo Alto), Los Angeles y Madrid.
+En Melboss buscamos un desarrollador front-end & back-end (Full Stack) para nuestra plataforma y para nuestros clientes. Buscamos a una persona brillante, inteligente, resolutiva y con ganas de aprender, alguien a quien le guste estar a la última en tecnología web.
+Requisitos: 
+- Experiencia en desarrollo de Back y Frontend 
+- Experiencia en entornos LAMP 
+- Sólidos conocimientos de HTML/HTML5, CSS/CSS3 y Javascript. 
+- Buen manejo de frameworks JS como(jQuery, Angular, React, Backbone…) 
+- Sistema de control de versiones (git) 
+- Conocimientos de frontend (HTML5, CSS3, Javascript, responsive, Bootstrap) 
+- Capacidad de trabajar en equipo y habilidades organizativas 
+- Profesionalidad, responsabilidad y seriedad 
+- Pasión y dedicación al proyecto
+Conocimientos valorables: 
+- CakePHP, Symfony, Laravel u otro frameword de PHP 
+- Experiencia en programación Ruby 
+- Programación en iOS (Xcode) 
+- Programación en Android
+- Experiencia con Amazon AWS (EC2, S3, SQS, EBS). 
+Aptitudes: 
+- Metodología en la ejecución de proyectos de desarrollo. 
+- Dedicación e implicación en el proyecto. 
+- Capacidad de aprendizaje e innovación. 
+- Capacidad de resolución y priorización de problemas. 
+- Trabajo en un equipo multidisciplinar.
+- Proactividad
+Ofrecemos 
+- Jornada completa. 
+- Incorporación inmediata. 
+- Desarrollo de carrera profesional a largo plazo.
+- Libertad para innovar y tomar decisiones sobre la infraestructura que usamos. 
+- Trabajar en el centro de Madrid con unas comunicaciones inmejorables. 
+- Muy buen ambiente de trabajo
+- Trabajar en proyectos de con carácter internacional

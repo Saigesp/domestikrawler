@@ -1,0 +1,32 @@
+
+Pet&Net es una StartUp que pone en contacto a personas que necesitan que alguien cuide de su mascota con personas que quieren cuidarla.
+Actualmente estamos sólo en España pero empezaremos la internacionalización pronto.
+Necesitamos un programador que controle los siguientes lenguajes y entornos:
+- PHP.
+- Bases de datos Mysql.
+- Javascript.
+- HTML y CSS.
+- Geolocalización basada en tecnología de mapeo Google.
+Las tareas principales serán:
+- Realizar correcciones, mejoras y nuevas funcionalidades en la plataforma.
+- Participar en la toma de decisiones relacionada con la parte técnica de la empresa.
+Forma de entrada en la empresa:
+- Comenzamos con un periodo de adaptación al código de entre 2 y 3 semanas.
+- Seguimos con un periodo de prueba de entre 1 y 3 meses tras el que ambas partes decidiremos la continuidad o no en la empresa.
+- Tras este periodo entrarás como programador en Pet&Net.
+Especificaciones del trabajo:
+- El periodo de prueba empezará en cuanto elijamos al candidato (antes de agosto).
+- Hasta el 1 de septiembre el trabajo se realizará a distancia, a partir de entonces trabajaremos físicamente en Madrid.
+- Horas semanales: 30 horas semanales a repartir en horario de lunes a viernes 08:30 a 13:30 y de 15:00 a 19:00 horas.
+- Salario: 1.000€ brutos/mes en periodo de pruebas. 
+- Aumento: Tras el periodo de pruebas estableceremos una serie de objetivos que son los que marcarán los aumentos o incentivos de salario.
+Se valorará positivamente:
+- Conocimiento de metodologías ágiles (scrum principalmente).
+- Haber trabajado en otras StartUps.
+- Trabajos realizados en PHP.
+- Actitud positiva, con ganas de ser uno más del equipo y hacer crecer a Pet&Net.
+- Tener afecto por los animales y ver en Pet&Net un proyecto exitoso.
+Actualmente hemos conseguido ser finalistas en diversos programas de emprendimiento (Lazarus, EOI, IEBS, Madrid Emprende,...) y tenemos presencia nacional en diferentes medios (Loogic, Expansión, El Confidencial, ELLE, A3Media,...). Hemos levantado una primera ronda de inversión y los pasos futuros son levantar una 2ª ronda y la internacionalización.
+Pet&Net está formado por un equipo joven y dinámico. Es una buena oportunidad para crear algo grande, siendo uno de los primeros miembros de un proyecto con miras a un crecimiento rápido y exponencial.
+En Pet&Net encontrarás buen ambiente, una forma de trabajar amena y distendida y buen rollo. 
+P.D. Las cañas de los viernes tras el trabajo son sagradas ;-)

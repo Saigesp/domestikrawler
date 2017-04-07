@@ -1,0 +1,16 @@
+
+Buscamos un Desarrollador programador de Magento para un proyecto puntual del sector gran consumo/consumer electronics, con posibilidad de contrato al terminar el proyecto.
+Funciones:
+Serás el/la responsable del desarrollo web y usabilidad
+Programar códigos, diseñar e implementar proyectos en e-commerce de Magento 
+Requisitos
+- Experiencia desarrollo web.
+- Maquetación HTML/CSS.
+- Conocimiento de librerías y frameworks Javascript / CSS, incluyendo jQuery y Bootstrap.
+- Nivel experto en PHP.
+- Experiencia en pasarelas de pago.
+- MySQL, programación en bases de datos.
+- Experiencia comprobada con CMS (WordPress y Magento).
+- Experiencia mínima de 3 años en un puesto similar.
+- Se valorará experiencia en desarrollo de aplicaciones móviles para IOS y Android
+Se valorará experiencia en otras áreas como SEO y SEM 

@@ -1,0 +1,12 @@
+
+En Digital Boost buscamos un Ingeniero en Telecomunicaciones con al menos dos años de experiencia en programación Android y que sobre todo esté dispuesto/a a continuar creciendo con nosotros en una gran variedad de proyectos. Buscamos a alguien que tenga ganas y actitud para trabajar con nosotros en un ambiente joven y dinámico.
+Conocimientos necesarios:
+Android 
+phone gap 
+Java
+Conocimientos mínimos:
+Experiencia en Java, Android. 
+Conocimientos en procesos de publicación en la Google Store.
+Notificaciones Push.
+Valorable: conocimientos en Android Studio, Phone Gap.
+

@@ -1,0 +1,20 @@
+
+¡Hola!
+En Ladorian estamos en plena expansión y necesitamos tu ayuda para hacerlo bien :)
+Buscamos un perfil web generalista para seguir desarrollando nuestra herramienta propia de gestión de contenidos, medición y otros proyectos web. Lo que necesitamos, en concreto, es:
+Experto en programación Web:
+• BACKEND  -  FRAMEWORKS PHP (Slim PHP, Yii Framework, Codeigniter,…).
+• FRONTEND - AngularJS, JQuery.
+• Aplicaciones full-stack en NodeJS y Express.
+
+Experto en gestores de bases de datos: MongoDB, MYSQL
+
+Conocimiento de la arquitectura MVC y programación orientada a Objetos
+
+Maquetación HTML y CSS en entornos Responsive, con Bootstrap, Material Design o similar.
+
+Se valorara conocimiento de plataformas Mobile en ANDROID (Android Studio, Eclipse…) y/o iOS.
+
+Se valorará conocimiento de Wordpress.
+Ofrecemos buenas condiciones y posibilidad de facturar como autónomo si te interesase. Amplias perspectivas de proyección en la empresa y la oportunidad de trabajar en una herramienta única en el sector.
+¡Gracias por el interés!

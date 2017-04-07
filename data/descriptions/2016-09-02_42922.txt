@@ -1,0 +1,5 @@
+
+Somos un estudio de fotografía situado en Valencia y necesitamos contactar con un desarrollador para responsabilizarse de terminar de programar una tienda online en avanzado estado de desarrollo, programada en October CMS, basado en Laravel PHP y pulir el código.
+El proyecto puede realizarse de forma remota, pero es conveniente que el desarrollador resida en Valencia para tener reuniones periódicas en nuestro estudio situado en la Avenida de Francia para ir definiendo el proyecto.
+Si el perfil del candidato es el adecuado, nos pondremos en contacto con él para explicarle los detalles del proyecto y establecer las condiciones salariales
+

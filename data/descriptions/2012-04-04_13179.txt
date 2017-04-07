@@ -1,0 +1,18 @@
+
+Necesitamos un programador Senior con experiencia en diversos lenguajes de programación demostrable para incorporarse con nosotros inmediatamente. 
+Imprescindible:
+- PHP
+- MYSQL
+- CMS (Wordpress, Magento, etc.)
+- JAVASCRIPT
+- JQUERY
+- AS2 y AS3
+- HTML, HTML5
+- CSS
+- Conocimientos de servidores Linux, Sistema operativo Parallels Plesk Panel, acceso mediante SSH, instalación de Certificados de seguridad SSL.
+Valorable: 
+- Desarrollo de aplicaciones móviles (apple, android)
+- Posicionamiento SEO, SEM.
+- Desarrollo de aplicaciones en Facebook.
+- Experiencia en el desarrollo de clientes y servidores de servicios web (SOAP, JSON...).
+Presencial.

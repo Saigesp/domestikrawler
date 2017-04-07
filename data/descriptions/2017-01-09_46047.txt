@@ -1,0 +1,15 @@
+
+-- Role Overview
+As a Backend Engineer​ you will join the core engineering team of Mobile Jazz. You will work
+closely together with other web developers, as well as with UX experts and graphic designers
+on delivering excellent consulting work for our international clients.
+-- Requirements
+● Excellent engineering skills
+● Strong CS fundamentals (data structures, algorithms, design patterns, etc.)
+● Personal projects that show an aptitude for engineering and product sense
+● Wide experience on backend development, knowledge of some framework (Scala, Yii,
+Symfony, RoR, Struts, etc...)
+● Good knowledge of HTML, CSS and jQuery
+● Creation RESTful services and JSON
+● Used to work with Vagrant, Docker or other deployment tools
+● Fluent in English

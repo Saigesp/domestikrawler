@@ -1,0 +1,10 @@
+
+Hola.
+Comenzamos un nuevo proyecto en Pequeli, diferente y con mucho cariño, es para niños entre 5 y 10 años. Estamos en plena fase de desarrollo.
+Necesitamos una persona que con un nivel medio controle código en el entorno Unity3D, para proyecto en desarrollo de una APP de Realidad Aumentada. Pero sobre todo con ganas y entusiasmo de unirse al proyecto y remar juntos.
+Sus funciones son:
+-Generar código para introducir audio, movimientos, efectos, etc
+-Depurar código y escena
+-Supervisar proyecto Unity3D
+Estará bajo la supervisión del departamento de Arte.
+La participación es puntual. Se formalizarán a mutuo acuerdo las condiciones y forma de pago.

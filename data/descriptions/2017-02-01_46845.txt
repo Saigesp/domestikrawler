@@ -1,0 +1,11 @@
+
+En Yunbit, plataforma de soluciones de negocio en la nube, queremos incorporar a nuestro equipo de producción un Programador Web con una experiencia mínima de 2 años en programación PHP, Javascript y MySQL en entorno LAMP (Linux, Apache, MySQL y PHP).
+Dicha persona deberá de cumplir los siguientes requisitos mínimos: 
+-	Solvencia en escribir consultas SQL y optimización de su rendimiento.
+-	Administración de MySQL nivel medio.
+-	Uso de Javascript, jQuery y Webservices (REST, XmlRpc, SOAP).
+-	Conocimientos de HTML y CSS.
+-	Familiarizado con métodos ágiles de programación (SCRUM, XP).
+Desde 2004, Yunbit desarrolla herramientas de gestión empresarial cloud computing cuyo objetivo es mejorar la gestión empresarial de las empresas que confían en sus productos: Yunbit CRM, Yunbit ERP, Yunbit RRHH y Yunbit Web & eCommerce. 
+La funcionalidad y flexibilidad de la herramienta favorece la implementación en las empresas que eligen Yunbit Business Cloud y hace que el trabajo del equipo de desarrollo sea un reto cada día. De este modo, buscamos  una persona proactiva, con ganas de aprender y evolucionar con el producto. 
+Conoce más en: www.yunbitsoftware.com 

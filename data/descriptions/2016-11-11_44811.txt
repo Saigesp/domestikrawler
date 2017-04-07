@@ -1,0 +1,29 @@
+
+Estamos buscando una Back.end PHP, LAMP, debajo de detallamos la vacante. Nuestro cliente pertenece al sector financiero-web, situado en Castelldefels (zona aeropuerto).
+Ofrecemos:
+•	Contrato con carácter indefinido.
+•	Equipo joven y dinámico.
+•	Formación a partir de los 6 meses del contrato.
+•	Carrera profesional basada en la meritocracia.
+•	Remuneración basada en la valía y experiencia de cada candidato.
+Technical Requirements
+•	Software engineer (Spanish equivalent: “Ingeniero técnico o superior informático)
+•	Hands on experience in web back-end software development using LAMP (Linux, Apache, MySQL, PHP) architecture and latest tools 
+•	Experience in OOP, MVC pattern/frameworks, injection patterns, etc.
+•	Experience building web services and APIs, using various languages, including PHP and Node.js
+•	A natural inclination to all things agile; think Scrum, TDD, CD with Jenkins & Capistrano
+•	Deep understanding of deployment/operations knowledge on Linux and/or Windows
+•	Ideally have architecture /API experience: SOA, SOLID and HTTP done right
+•	Be able to make pragmatic and intelligent design decisions under tight deadlines
+•	Good spoken English is not a core requirement, but is a plus
+
+
+Core Skills: 
+•	PHP 5.X, 
+•	LAMP, 
+•	MySQL, 
+•	Unit Testing, 
+•	API systems,
+•	Angular, 
+•	Integration Tests
+

@@ -1,0 +1,27 @@
+
+QUIÉNES SOMOS
+Bakeº es una empresa situada en Barcelona que nace da la fusión de Nük Studio (agencia) y Bake250º (aceleradora de start up's).
+Desde Bakeº hemos desarrollado tecnológicamente empresas como Lacomunity, Bravento, Yoleo, Celicity, Labishi o All in One Doctors entre otras.
+Antes de entrar en la valoración general, nos gustaría que cualquier posible aspirante al puesto entienda que nos basamos mucho por el factor humano y para nosotros es importante el buen feeling para aportar  un equipo que actualmente está feliz y equilibrado : )
+QUÉ BUSCAMOS
+Un perfil de ​FullStack Developer​ con un nivel de experiencia intermedio o avanzado (3 años mínimo), para incorporarse a nuestro equipo técnico.
+CONOCIMIENTOS
+   GENERAL
+       - Experiencia utilizando sistemas de control de versiones (Git) 
+       - Experiencia en el uso de herramientas como composer, bower, npm para gestión de paquetes 
+   BACKEND
+       - PHP 5+, MySQL, Apache/NGINX 
+       - Conocimientos sólidos de SQL
+       - Experiencia con el framework Laravel
+       - Desarrollo de APIs-REST o integración de APIs y servicios de datos externos 
+
+   FRONTEND
+       - Conocimientos de procesador de estilos (Sass / Less) 
+       - Angular 1.0 / Ionic
+       - Maquetación con frameworks CSS/HTML tipo Foundation/Bootstrap
+
+OFRECEMOS
+     - Proyectos cambiantes (no estancamiento) tanto de grandes marcas como de apps o proyectos que tú crearás de 0 con un equipo que te apoyará.
+     - Ambiente de trabajo distendido e informal. No queremos ni pretendemos que te pases la vida en la oficina, pero ya que te vas a pasar ocho horas al día aquí, por lo menos que no te sean desagradables 
+     ￼- Horario flexible. Mientras hagas las 40h semanales, puedes ajustarlo como mejor te convenga. Nuestras horas vitales son entre las 11 de la mañana y las 6 de la tarde 
+     - Oportunidad de evolucionar profesionalmente en una empresa en plena expansión y con una alta proyección de crecimiento

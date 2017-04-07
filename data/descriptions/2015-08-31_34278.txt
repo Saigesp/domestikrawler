@@ -1,0 +1,23 @@
+
+¡Hola!
+Somos Muro.exe, una marca de calzado ubicada en Madrid de reciente creación: diseñamos y comercializamos un calzado híbrido entre la zapatilla y el zapato a través de tiendas multimarca, tiendas especializadas en sneakers y a través de nuestra tienda online.
+Estamos buscando un programador junior a tiempo parcial que se incorpore con nosotros y crezca con nosotros vinculado a nuestra plataforma de ecommerce.
+Funciones que desarrollará esta persona:
+- desarrollo, mantenimiento y mejora de nuestra plataforma de ventas tanto a nivel backend (instalación de plugins, extensiones y desarrollos a medida) como a nivel frontend (siguiendo los diseños de nuestro equipo de diseño visual).
+- búsqueda, instalación y mantenimiento de software específico necesario para el desarrollo de las diferentes áreas de la marca (ej. CRM, programas de gestión de stock, atención al cliente, etc)
+- soporte  de herramientas de comunicación, medición y análisis (Google Analytics, píxeles de seguimiento, optimización redes, Wordpress, etc)
+- actualización de los contenidos de la tienda online (nuevos productos, ofertas, promociones, nuevos idiomas, subida de banners, etc)
+Requisitos esenciales:
+- experiencia demostrable en desarrollo PHP - entorno LAMP
+- conocimientos básicos de sistemas
+- conocimientos de otras plataformas como Wordpress, Tumblr, etc
+- interés por formarse y profundizar en cms tipo WordPress y frameworks como Magento
+- interés por iniciarse en integraciones con distintas APIs
+Requisitos opciones deseados:
+- interés por usabilidad
+- interés por e-commerce
+- muchas ganas de experimentar
+¿Qué ofrecemos?
+- integración en un equipo de trabajo joven en pleno centro de Madrid, con posibilidades reales de formación, crecimiento e incorporación a jornada completa
+- sueldo a convenir
+- la posibilidad de construir un e-commerce desde su fase embrionaria, aportando ideas y buscando soluciones y mejoras constantes que nos ayuden a expandir nuestra tienda online y mejorar la conversión

@@ -1,0 +1,9 @@
+
+Buscamos dos desarrolladores web para incorporar de forma inmediata a nuestro equipo de programadores.
+Imprescindibledominio de php, mysql, html, css, javascript (jquery)
+Deseable experiencia en:
+- Uso del software de control de versiones Git.
+- Desarrollo y gestión de páginas web de alta concurrencia.
+- Programación orientada a objetos.
+- SEO.
+Se ofrece contrato de duración temporal con el sueldo que figura en la oferta. De encajar bien en el equipo de desarrollo y demostrar las aptitudes adecuadas el contrato sería prorrogado de forma indefinida, y el sueldo revisado según valía.

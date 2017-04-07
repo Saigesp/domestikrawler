@@ -1,0 +1,8 @@
+
+5gig.com es una comunidad de amantes de la música en directo, multiplataforma y adaptada a 14 países.
+Desde hace unos meses nos hemos propuesto saltar de la web a otras plataformas: iPhone, Android, Facebook, Spotify... 
+Para ayudarnos a saltar más lejos necesitamos incorporar un programador experto en frontend con buen gusto en el diseño. 
+Algunos este perfil lo llamamos 'unicornio', pero con que controles CSS3, HTML5, Javascript, tengas algún conocimiento de PHP y se te de bien eso de 'pintar' en digital seguro que encajas.
+Si además tienes interés en diseño de interacción y UX ya serías casi un 'pegaso'.
+Aparte de un salario acorde con experiencia y conocimientos, ofrecemos la incorporación a un equipo joven, internacional, con oficinas en el centro de Madrid en un ambiente musical y desenfadado.  
+En 5gig.com por ambiente desenfadado entendemos dardos, minigolf y cerveza gratis.

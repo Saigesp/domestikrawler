@@ -1,0 +1,17 @@
+
+¿Te interesa unirte y colaborar con un equipo joven y dinámico? Si te consideras una persona responsable, con muchas ganas de trabajar, aprender y aportar conocimiento, HotelJuice es tu lugar.
+Pero, ¿qué es HotelJuice? Somos una empresa de Coaching y Outsourcing de servicios de eCommerce especializados para el sector hotelero. Cubrimos las áreas de Marketing Online, Revenue Management, Diseño Web, y Comunicación 2.0.
+¿Qué estamos buscando?
+Buscamos un programador que se incorpore a HotelJuice en nuestra oficina de Barcelona. Una persona que sea responsable, con voluntad para ayudar a encontrar soluciones en equipo, y acostumbrado/a a terminar los desarrollos según los plazos marcados por el jefe de proyecto. En definitiva, una persona con experiencia en desarrollos web.
+Tu actitud es fundamental
+Debes tener ganas de afrontar nuevos retos, por muy complicados que sean, e inquietud para que éstos se cumplan satisfactoriamente. Además, es vital que sepas ponerte en la piel del cliente para tener su visión y así interpretar sus necesidades e inquietudes.
+Tu experiencia y conocimientos deseados:
+Experto en PHP5 y bases de datos MySQL.
+Dominio de algún framework PHP (Zend, Symfony, codeIgniter, etc.)
+Dominio de frameworks JavaScript (jQuery, mootols, etc).
+Conocimientos avanzados de XHTML, CSS3.
+Conocimientos avanzados de Web Service – SOAP, Javascript, jQuery y librerías similares.
+Conocimientos avanzados de SEO, Google Anaytics, Entorno Google, Redes Sociales.
+Se valorarán conocimientos y experiencia en:
+
+Gestores CMS (Joomla, WordPress…).

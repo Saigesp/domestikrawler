@@ -1,0 +1,19 @@
+
+En Alfil estamos buscando un desarrollador web con experiencia mínima 1 año en desarrollo de proyectos web, tanto en back-end como en front.
+¿Qué necesitamos? 
+- Dominio de PHP y MySQL 
+- Conocimientos de ASP.NET / SQL Server 
+- Dominio de HTML 5, CSS3 y responsive design, pero sin olvidar que casi siempre hay que dar soporte a IE8. 
+- JavaScript / jQuery y AJAX 
+- Creación y edición de plantillas, programación de plugins y complementos y gestión de CMS como wordpress, joomla o drupal. 
+- Inglés: nivel medio/alto
+¿Qué vamos a valorar? 
+- Capacidad analítica y metodológica. 
+- Atención al detalle, rigor y excelencia en la ejecución. 
+- Buena capacidad de aprendizaje y mejora continua. 
+- Capacidad de trabajar en equipo en procesos colaborativos. 
+- Responsabilidad y autonomía en las tareas que se le asignen. 
+- Energía, entusiasmo, iniciativa y compromiso con el éxito de los proyectos.
+¿Qué ofrecemos? 
+- Puesto estable: 6m+6m+indefinido 
+- Sueldo a convenir según valía

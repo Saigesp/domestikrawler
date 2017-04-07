@@ -1,0 +1,23 @@
+
+Buscamos una persona para liderar nuestro departamento técnico, siendo el/la responsable de la correcta implementación y mantenimiento de toda nuestra plataforma tecnológica.
+¿Qué ofrecemos?
+- Participar en el desarrollo de un ambicioso proyecto en Internet de ámbito internacional en un sector atractivo y en constante crecimiento.
+- Formar parte de un equipo joven, dinámico y emprendedor donde se promueve la innovación, se comparte el know-how y se valora el talento, la creatividad y la participación en la toma de decisiones.
+- Flexibilidad de horarios y de jornada. 
+- Incorporación inmediata a jornada completa.
+- Contrato indefinido.
+Requisitos mínimos del candidato
+- Proactividad, autonomía en el trabajo, capacidad para tomar decisiones.
+- Experiencia demostrable de mínimo 5 años usando metodologías ágiles para la gestión de proyectos.
+- Experiencia demostrable de mínimo 5 años programando en PHP y usando el Framework Laravel y Symfony.
+- Experiencia demostrable trabajando con Elasticsearch o Solr.
+- Experiencia demostrable trabajando en RabbitMQ o Amazon SQS.
+- Experiencia demostrable trabajando en MySQL o PostgreSQL.
+- Conocimiento y uso habitual de repositorios ( subversión o Git).
+- Experiencia demostrable aplicando Unit testing.
+- Experiencia demostrable aplicando Integración continua. 
+Requisitos deseados
+- Nivel alto de inglés.
+Experiencia 
+- Mínimo 3 años de experiencia en puestos similares en empresas del sector de Internet.
+

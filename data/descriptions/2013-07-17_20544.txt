@@ -1,0 +1,7 @@
+
+En geanet estamos buscando un nuevo programador para nuestro equipo de desarrollo.
+Buscamos una persona con amplios conocimientos en desarrollo web con PHP, JS y MYSQL y experiencia en proyectos en producción.
+Se valorara el cococimiento de frameworks y plataformas opensource como Drupal o Magento.
+Se valoraran conocimientos y experiencia en metodologías ágiles.
+Estamos buscando gente que disfrute con la innovación y le apasione la tecnología.
+Nuestra obsesión hacer cada día las cosas un poco mejor.

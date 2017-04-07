@@ -1,0 +1,4 @@
+
+El estudio de Barcelona Onionlab, está buscando urgentemente, programador con buenos conocimientos de Openframeworks.
+El programador tendrá que realizar una aplicación para una instalación interactiva controlando un láser y haciendo reconocimiento de la posición del láser a través de una captura de una cámara.
+Es muy importante que la persona tenga ya conocimientos de Openframeworks, nosotros le guiaremos un poco en como controlar el láser a través de ILDA. Pero tendrá que dedicar tiempo completo durante mínimo de una semana.

@@ -1,0 +1,19 @@
+
+Importante empresa del sector de la formación online precisa incorporar su equipo informático un  programador web .
+Conocimientos técnicos:
+•	PHP.
+•	SQL.
+•	JavaScript.
+•	HTML.
+•	CSS.
+•	jQuery / otros frameworks JavaScript.
+•	Expresiones regulares.
+Capacidades:
+•	Realizar análisis de necesidades de las aplicaciones que se necesitan, y diseñarlas a nivel esquemático para luego plasmarlas en código.
+•	Programar de manera estructurada y documentada.
+Tareas que deberá realizar:
+•	Desarrollar extensiones de funcionalidad para Moodle y WordPress.
+•	Desarrollar aplicaciones de gestión de datos en PHP y SQL, en función de las necesidades de los departamentos de la empresa.
+•	Integrar las diferentes aplicaciones y sistemas de la empresa para poder intercolaborar entre sí.
+•	Trabajar de manera conjunta con el departamento de sistemas para poder implantar los desarrollos que realice.
+Se incorporara a un equipo joven y con posibilidades de desarrollarse dentro de la empresa.

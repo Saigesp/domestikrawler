@@ -1,0 +1,20 @@
+
+BEE AND BIRD ANIMATION STUDIOS BARCELONA
+is an International 3D Animation Production Company.
+
+We are looking for a professional full time job for our studio in Barcelona.
+Job Description
+Will work side-by-side with the IT in looking for the best possible solutions and implementation for audiovisual environments in 3D productions.
+Required
+- 3+ years of experience in CG productions (desirable having worked in at least a full feature film).
+- Linux Administration.
+- Will have to decide whether to migrate all systems from Windows environment to Linux
+Will have to support this system and train all users.
+- Knowledge of bash script.
+- Confident in work with database engines (SQL, PostgreSQL, MySQL, MongoDB…)
+Knowledge of Apache environment.
+- Good verbal and written english communication skills.
+Desired Skills
+- Programming experience (Python, C++,...) is highly appreciated.
+- Experience in digital asset management environments is high appreciated.
+- Experience in LDAP connectivity (to an Active Directory).

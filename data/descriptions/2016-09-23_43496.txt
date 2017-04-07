@@ -1,0 +1,12 @@
+
+Responsabilidades:
+•	Diseño e implementación de modelos de analítica web, acorde a las necesidades de negocio de los clientes.
+•	Implementación, analítica y optimización para clientes a través de Omniture y otras herramientas de analítica, desarrollando estrategias de medición para microsites y landings, optimización del sitio web y consumos.
+•	Gestión de la herramienta Datorama, que conecta las fuentes de datos de cliente para conocer de los principales KPI´s de negocio.
+•	Desarrollo de cuadros de mando
+Requisitos indispensables:
+•	Mínimo dos años de experiencia en analítica digital
+•	Experiencia en agencia o consultoría
+•	Dominio de herramientas de analítica
+•	Capacidad de desarrollo de estrategias
+

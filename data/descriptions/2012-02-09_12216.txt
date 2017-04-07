@@ -1,0 +1,7 @@
+
+Importe proyecto de internet busca incorporar en su edición digital un desarrollador informático que reúna los siguientes requisitos:
+Ingeniero informático superior con al menos 1 año de experiencia
+Conocimientos de PHP, JavaScript, XSL, 
+Base de datos relacionales : MySQL
+Valorable : HTML5, Objective-C, Android
+

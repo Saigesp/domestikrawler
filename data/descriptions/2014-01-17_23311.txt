@@ -1,0 +1,11 @@
+
+Buscamos programador/a freelance, para trabajar inicialmente a media jornada (9:30h. a 14:30h.) en nuestras instalaciones (Barcelona).
+Se integrara en el actual equipo de desarrollo dando soporte a los proyectos en curso.
+Requisitos:
+- Conocimientos desmostrables de programación en entorno web, con PHP+Javascript+MySQL
+- Experiencia en desarrollo MVC con algun framework PHP (Symfony, Codeigniter, CakePHP, ...)
+- Maquetación HTML/CSS
+Se valorara:
+- Dominio Javascript/JQuery
+- Experiencia en desarollo apps con PhoneGap
+- Desarrollo e-commerce con alguna plataforma PHP (osCommerce, prestaShop, Magento, ...)

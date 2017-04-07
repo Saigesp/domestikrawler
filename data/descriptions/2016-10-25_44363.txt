@@ -1,0 +1,7 @@
+
+Somos Commite, un estudio de diseño y desarrollo de productos digitales.
+Invertimos en proyectos internacionales prestando atención a todos los detalles que hacen que la experiencia de usuario sea única y empleando un stack tecnológico innovador para posicionarnos como referencia a nivel técnico.
+Para seguir mejorando nuestro equipo queremos incorporar un desarrollador frontend con experiencia y con ganas de participar en proyectos tecnológicamente atractivos.
+Necesitamos experiencia en desarrollo frontend con frameworks MVC (Angular, React, Ember, etc.) y en maquetación de interfaces (HTML5, CSS3, SASS).
+Ofrecemos la posibilidad de trabajo en remoto o presencial en Sevilla capital, horario flexible y un entorno de crecimiento profesional constante.
+La remuneración será consensuada según experiencia. 

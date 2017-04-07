@@ -1,0 +1,39 @@
+
+Mission:
+The SW-Engineer designs, implements and tests software components in projects and product maintenance following Roche GPS standards and procedures and provides technical advice to the new or less experienced members of the team. 
+Working at Roche the SW-Engineer will be part of one of the most innovative company in new technologies for human diagnostic environment.  
+Main tasks and duties:
+•	 Support actively good spirit and collaboration within the team and the entire organization using Agile Frameworks like (Scrum and Kanban) and other XP techniques like Pair Programming, Ping-Pong programming, etc..
+•	 Performs SW-engineering tasks in adherence with the established procedures and guidelines. This includes:
+   - Design of units and components meeting the technical requirements (functional and non-functional)	           
+   - Implementation of the design into code
+   - Implementation and performance of SW-tests on unit and integration level
+   - Provisioning of documentation on all levels (code, unit, test, …)
+• 	Participation in sprint planning by:
+   - Analyzing the product backlog items
+   - Estimating the work effort for sprint backlog
+   - Committing to the sprint backlog
+•	 Participation in the sprint evaluation
+   - 	Support the presentation of the sprint deliverables
+   - Supporting continuous improvement by providing feedback in the sprint retrospective
+•	 Follow industry standard applications development techniques and practices
+•	 Communicate effectively in English and Spanish
+•	 To permanently optimize processes to increase quality and efficiency standards.
+Requirements:
+ Education and Professional Experience:
+•	 University or higher technical college degree
+•	 Minimum 3 years of working experience in application development within a productive environment.
+•	 Working experience at least 2 years in Object Oriented Languages (Java, .NET or similar), Analysis and Design using UML, writing formal specifications and requirements and applying design patterns. 
+•	 Proved experience in SQL and in web based applications will be required.
+•	 Automated Unit Testing experience will be considered.
+•	 Experience in Agile environmentworking with SCRUM and Pair Programming will be a plus.
+•	 Experience in Cache development language (Intersystems) will be very considered in the hiring process but not a limitation for the position.
+Skills:
+•	 Good level of English written and spoken.
+•	 Good level of Spanish written and spoken will be also considered. 
+•	 Analytical and methodical working style person
+•	 Good teamplayer and leadership skills, 
+•	 Takes responsibility for a team or technical concept
+•	 Willingness to bring projects to a successful end
+•	 Open minded and communicative
+•	 Can work independently, focused and highly motivated

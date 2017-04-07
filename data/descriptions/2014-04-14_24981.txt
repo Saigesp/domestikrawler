@@ -1,0 +1,7 @@
+
+En 101 estamos buscando a un maquetador / desarrollador senior creativo con experiencia en maquetación HTML5 y que use los estándares de la W3C para desarrollar proyectos web responsive y accesibles.
+Necesitamos que en programación JS tenga experiencia con el API de WebGL, el Canvas, los accesos al hardware desde la web y que use librerías como JQuery, Require, Three, PhysicsJS,Box2D, y herramientas de optimización como Less, Grunt o  Git. 
+Queremos que conozca las API’s sociales de Facebook, Twitter, GoogleMaps o Youtube… y que tenga experiencia en UX.
+Si cumples con lo anterior, lo que nos va a conquistar de ti es tu nivel de implicación en los proyectos, que quieras estar desde el principio en cada uno de ellos, que insistas en usar siempre la última tecnología, que traigas algo nuevo (aunque sea un chiste malo) cada semana, que te rías de ti mismo, que le grites a la pantalla cuando algo te sale mal, que quieras mejorar siempre y que hagas mejorar a los demás.
+
+A cambio te ofrecemos trabajar en proyectos interesantes en los que aportar ideas, un ambiente de trabajo y un horario agradables, un buen sueldo, un ordenador portátil o de sobremesa, un teclado, un compañero que se sabe todos los diálogos de Futurama (en Inglés), una silla, un ratón, una alfombrilla con el logo de 101 y la oportunidad de perder al futbolín cada día después de comer.

@@ -1,0 +1,24 @@
+
+Buscamos un desarrollador web con las funciones:
+	- Programación de frontend a partir de layouts fr imagen ya diseñados, utilizando frameworks como Bootstrap o Kickstrap.
+	- Desarrollo en PHP utilizando framework cakePHP
+• Experiencia
+	· Experiencia mínima de 2 años (acreditable mediante referencias de proyectos) en desarrollo web con PHP utilizando frameworks (u otros patrones de diseño)
+	· Experiencia con HTML, JQuery, JavaScript y CSS
+• Habilidades
+	- Imprescindible:
+		· Uso fluido de herramientas de control de versiones (preferiblemente git)
+		· Conocimientos básicos de operación de Linux desde línea de comandos
+		· Conocimentos básicos de operación de Apache/nginx
+		· Conocimientos básicos de operación de MySQL
+	- Aptitudes Personales:
+		· Gran capacidad de trabajo en equipo
+		· Persona resolutiva y dispuesta al traspaso del conocimiento
+		· Alto sentido de la crítica constructiva y orientación a la mejora y el aprendizaje continuo
+		· Capacidad de proporcionar estimaciones detalladas y realizar entregas dentro de calendario estimado
+• Oferta:
+		· Empresa en expansión
+		· Salario competitivo
+		· Contrato 6 meses + indefinido
+		· Jornada completa
+

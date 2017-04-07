@@ -1,0 +1,38 @@
+
+Estamos buscando Backend Developers que nos ayuden a construir una plataforma cloud de tecnología punta desde el principio. En este puesto, en el que no faltarán los desafíos, esperamos que trabajes junto a un equipo de personas con talento para liderar la innovación en la nube, desarrollando código de alta calidad y utilizando metodologías Agile.
+Las tareas y responsabilidades de este puesto incluyen: 
+-	Desarrollar, documentar y desplegar el código de alta calidad de los servicios Backend de la plataforma. 
+-	Participar en reuniones prescritas por los procesos Agile aplicados, colaborando en las tareas de extracción de requisitos, análisis y diseño entre otras. 
+-	Mantenerse actualizado en las últimas tecnologías. 
+-	Escribir test automatizados que validen la plataforma ante los casos de uso y proporcionen un buen coverage del código Backend de la misma. 
+-	Coordinar y evaluar procesos para identificar, reportar, realizar seguimiento, escalar y resolver problemas de la plataforma desarrollada. 
+-	Servir de consultor técnico para otras unidades de negocio. 
+-	Ser proactivo en la resolución de problemas.
+Habilidades técnicas: 
+-Mínimo 5 años de experiencia en desarrollo de software 
+-Mínimo 2 años de experiencia en cloud computing 
+-Experiencia con 2 o mas lenguajes orientados a objetos 
+-Experiencia con un framework MVC 
+-Experiencia con sistemas de control de versiones 
+-Experiencia en testing 
+-Experiencia desarrollando APIs o desarrollando en torno a ellas 
+-Experiencia desarrollando con backends de base de datos SQL 
+-Experiencia con cualquier metodología Agile 
+-Experiencia con plataformas UNIX/Linux
+Habilidades adicionales: 
+-Experiencia desarrollando con Golang 
+-Experiencia desarrollando con Java 
+-Experiencia desarrollando con Spring, Hybernate, Rails o Grails para entornos de producción 
+-Experiencia aplicando metodologías TDD/BDDcon herramientas similares a Cucumber y Ginkgo/RSpec/Jasmine 
+-Experiencia desarrollando con la escalabilidad como más alta prioridad 
+-Experiencia con PostgreSQL 
+-Experiencia con bases de datos non-SQL 
+-Conceptos de seguridad: SQL Injection, XSS, CSRF, etc.
+-Experiencia con virtualización, contenedores o servicios cloud IaaS 
+-Experiencia con sistemas de gestión de configuración software como Chef o Puppet 
+-Contribuciones a proyectos open-source y/o repositorios públicos en Github con tu trabajo 
+-Titulación universitaria en Ingeniería Informática u otra ingeniería 
+-Nivel alto de inglés, tanto hablado como escrito 
+-Alta motivación 
+-Disponibilidad para viajar 
+-Preparado para trabajar en equipo

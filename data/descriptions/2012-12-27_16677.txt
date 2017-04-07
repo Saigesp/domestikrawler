@@ -1,0 +1,6 @@
+
+Somos una empresa joven que está desarrollando una innovadora solución de marketing para los ecommerce.
+Buscamos un/a informático para liderar la programación de la web de nuestra solución PayRandom. 
+Experiencia de 2 años mínimo en el sector desarrollando, analizando y planificando proyectos web.
+Experiencia en implementación de TPV en comercios y su lenguaje. Bagaje en programación de sitios web dinámicos con pasarela de pago PayPal.
+Lenguajes: php, html, css, integración base de datos SQL, MYSQL, API's PayPal.

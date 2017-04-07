@@ -1,0 +1,17 @@
+
+We are looking for a global release manager for our QA & Architecture department. His/her main duties will be the constant improvement of our CI systems, as well as procedures and processes. Also, he/she will be the executioner of production deployments for some of our main solutions.
+Requirements
+- At least two year of RM experience
+- Strong git and jenkins background and understanding
+- Linux administration
+- Java background
+- Nexus, maven and other build/artifacts software
+- Able to follow projects from different perspectives, from issues and plan to branches and code
+- Responsible and autonomous person
+Nice to have
+- JIRA, Confluence and Stash
+- Other platforms (as .NET/Windows Server) experience in CI/build-deploy
+- Mobile CI and publication
+Extra mile
+- Oracle ATG eCommerce Platform
+

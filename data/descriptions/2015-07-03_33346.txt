@@ -1,0 +1,21 @@
+
+Integrándose en el equipo de DATOS de la organización, la persona seleccionada dará soporte al equipo en la gestión y actualización de los datos recibidos provenientes de las distintas fuentes de información con el fin de ser integrados en el CRM de la compañía.
+Las funciones que llevará a cabo, entre otras, serán:
+-	actualización y revisión de la base de datos
+-	implementación de mejoras para la automatización de los distintos procesos de actualización y revisión de datos
+-	diseño, creación y elaboración de informes analíticos
+-	análisis de la información comercial de la empresa y reporte periódico
+Requisitos:
+-	Mínimo un año de experiencia en labores similares a las descritas
+-	Estudios universitarios relacionados (Licenciatura, Diplomatura o Grado)
+-	Conocimiento avanzado de Ms Excel (manejo fluido de fórmulas, tablas dinámicas, etc.)
+-	Conocimientos de VBA para la generación de macros
+-	Conocimientos de programación y utilización del software R
+-	Pensamiento analítico para la búsqueda de posibles errores y propuesta de soluciones
+-	Persona organizada y metódica
+-	Se valorarán los conocimientos de programación en SPSS, SAS, Stata, …
+Se ofrece:
+-	Contratación para proyecto estable
+-	Horario en jornada completa
+-	Lugar de trabajo: Barcelona centro (zona Sant Gervasi-Galvany)
+

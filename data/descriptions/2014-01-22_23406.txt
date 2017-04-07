@@ -1,0 +1,12 @@
+
+Somos una productor de Barcelona y estamos buscando un desarrollador freelance con experiencia en Android/Java para incorporarse de forma IMMEDIATA a un equipo de trabajo que está desarrollando una aplicación de realidad aumentada.
+El entorno de desarrollo es Vuforia (www.vuforia.com). La función del desarrollador consiste en implementar un conjunto de funcionalidades ya incorporadas en las versiones iOS de la aplicación.
+Se puede trabajar a distancia.
+Imprescindible:
+- Conocimiento avanzado de Java.
+- Experiencia en desarrollo de aplicaciones móbiles en Android nativo.
+- Conocimiento de C++/JNI.
+Se valorará:
+- Conocimiento SDK Vuforia.
+- Videojuegos/ conocimiento OpenGLES.
+- Familiarizado/interés con proyectos de Realidad Aumentada.

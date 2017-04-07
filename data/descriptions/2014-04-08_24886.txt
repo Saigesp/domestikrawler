@@ -1,0 +1,23 @@
+
+En Fidiliti buscamos Ingenieros de Software para Front y Back con experiencia de desarrollo en entornos LAMP, AWS y NoSQL. 
+Con capacidades de Análisis, Diseño y Desarrollo de aplicaciones. 
+Con conocimientos de:
+• RESTful Web Services. 
+• Maquetación (jQuery, HTML, CSS, Responsive Design -Bootstrap-) 
+• Control de versiones con GIT. 
+• Metodología SCRUM 
+• Análisis de Datos 
+Tenemos muchas cosas por hacer y creo que todo muy interesante. 
+Algunas de las tareas en con las que vamos a empezar próximamente son:
+• Rediseño del portal de usuarios orientado al móvil y 100% responsive. 
+• Remaquetación del portal de empresas. 
+• Internacionalización de los portales y web services. 
+• Desarrollo de nuevas funcionalidades (portales, web services y aplicaciones).
+• Desarrollo de soluciones de Growth Hacking para acelerar la captación de usuarios y empresas. 
+• Migración de las bases de datos de logs y estadísticas a un entorno Big Data usando AWS integrado con LAMP. 
+• Desarrollo de patrones y modelos para analizar la información almacenada en nuestro entorno de Big Data así como información de Social Graph para generar informes de valor añadido para las empresas y les permita segmentar y optimizar sus campañas de Mobile Marketing. 
+• Y muchas cosas más. 
+No hace falta que seas un gurú, de todo se aprende, pero cuanto más puedas aportar o más interés tengas en alguno de los puntos mejor. 
+Hay que destacar que somos una startup (para lo bueno y para lo malo), hemos ganado multiples premios, estamos creciendo, acabamos de conseguir una primera ronda de financiación importante y estamos comenzando con la internacionalización. 
+Creo que es un buen momento para entrar a formar parte del equipo de Fidiliti por lo que puede devenir el futuro próximo. 
+Respecto al salario (que supongo que es algo que te interesa :) dinos en que rango te mueves (pero recuerda que somos una startup :) 

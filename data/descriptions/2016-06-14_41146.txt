@@ -1,0 +1,17 @@
+
+Si te emociona el mundo de los viajes y deseas unirte a un equipo altamente cualificado, joven y dinámico ¡tenemos un puesto para ti!
+Civitatis está creciendo y necesitamos incorporar una persona para realizar nuevos desarrollos en nuestro back-end. El candidato que buscamos debe tener:
+   * 3+ años de experiencia en desarrollo Java con Spring y Hibernate.
+   * Experiencia realizando integraciones con sistemas terceros (SOAP y/o REST).
+   * Experiencia relizando testing unitario y de rendimiento.
+   * Conocimientos de MySQL
+   * Mejor aún si la experiencia es en el sector viajes .
+También valoraremos muy positivamente conocimientos de android, gradle, mongodb, node, puppet, vagrant, jenkins, google cloud, arquitecturas de microservicios y docker. 
+Trabajar en Civitatis significa: 
+   * Unirte a un equipo altamente cualificado. 
+   * Estar dispuesto a aprender sobre tecnología todos los días. 
+   * Disfrutar con lo que haces. 
+   * Ser responsable del trabajo realizado. 
+   * Conocer el negocio. 
+Nuestra oficina se encuentra en la salida 16 de la A1, en Alcobendas.
+Jornada flexible, horario de verano. 25-30.000 euros brutos

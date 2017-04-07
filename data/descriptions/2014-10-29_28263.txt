@@ -1,0 +1,12 @@
+
+Matchpoint busca para los próximos meses una persona con experiencia demostrada en maquetación web, responsive design y programación back-end en gestores de contenidos y e-commerce como WordPress y Magento principalmente. 
+Conocimientos técnicos requeridos:
+- Programación: PHP, JQuery, HTML5+CSS3.
+- Responsive design (Bootstrap y plantillas responsive).
+- Bases de datos: MySQL o PostgreSQL.
+Se valorará positivamente la experiencia/conocimientos en:
+- Herramientas de diseño (Photoshop).
+- Desarrollo de Facebook Apps.
+- Desarrollo de aplicaciones móviles.
+- Bases de datos: Procedimientos almacenados. 
+Será una estancia minima de 3 meses con posibilidad de incorporación a la plantilla de matchpoint una vez pasado este periodo.

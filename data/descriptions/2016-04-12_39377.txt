@@ -1,0 +1,20 @@
+
+Somos una empresa joven, con muchas ganas y, sobre todo, mucho trabajo, que buscamos colaboradores con los que mantener una relación profesional a largo plazo. Te ofrecemos participar en proyectos muy interesantes en los que aprenderás mucho trabajando con profesionales de primer nivel.
+Qué buscamos de ti 
+- Experiencia en maquetación web multinavegador bajo los estándares W3C.
+- Experiencia demostrable en tecnologías web: HTML5, CSS3, JavaScript, jQuery, JSON, AJAX.
+- Experiencia en adaptación a diferentes dispositivos (responsive design).
+- Experiencia en Bootstrap.
+- Experiencia con CSS pre-processors como Less o SCSS/SASS.
+- Acostumbrado al desarrollo pixel perfect respetando fielmente el diseño original.
+- Experiencia en desarrollo de themes e implementación de webs con el CMS Wordpress.
+- Experiencia en desarrollo de themes e implementación de tiendas con el CMS Prestashop.
+- Experiencia en maquetación de newsletters multidispositivo (responsive).
+- Muy responsable con los tiempos de entrega.
+- Manejo básico de herramientas de diseño.
+- Portfolio online con últimos trabajos.
+- Poder facturar.
+Qué ofrecemos
+- Presupuesto individual por proyecto
+- Pago 50% al iniciar el proyecto y 50% al finalizar
+- Si la relación es fructífera tenemos mucho trabajo para ofrecer

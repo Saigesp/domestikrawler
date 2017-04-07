@@ -1,0 +1,14 @@
+
+Requisitos técnicos:
+- Conocimientos técnicos y experiencia en desarrollo J2EE (Struts, Spring, hibernate, SOAP, Rest).
+- Servidor de aplicaciones Tomcat.
+- Conocimientos y experiencia en SQLServer.
+Puntos adicionales a valorar:
+- Experiencia en ecommerce.
+- Manejo de sistemas Linux.
+- Conocimientos y experiencia con la herramienta de control de versiones Subversion.
+Personales:
+- Productividad, dinamismo e implicación con cada tarea que realicen.
+- Iniciativa y capacidad de reacción ante cualquier situación compleja o inesperada.
+- Facilidad para trabajar en varios proyectos a la vez, alta capacidad de autoaprendizaje.
+- Responsabilidad y constancia.

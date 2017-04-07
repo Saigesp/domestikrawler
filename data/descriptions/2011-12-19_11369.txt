@@ -1,0 +1,16 @@
+
+Funciones:
+- Gestionar y coordinar un equipo responsable del lanzamiento de campañas de marketing online.
+- Desarrollar y gestionar campañas, sistemas de alerta y mejora de procesos.
+- Gestionar herramientas y procesos de lanzamiento de campañas de emailmarketing en más de 5 países.
+- Análisis de capacidades, limitaciones y problemas de entrega de la infraestructura actual.
+Requisitos:
+- Formación Profesional Grado Medio - Informática
+- Formación en Ingeniería Informática o similar.
+- Mínimo 3 años de experiencia en programación PHP
+- Programación Orientada a Objetivos (POO)
+- Experiencia en creación de paginas web o intranet.
+- Experiencia contrastada utilizando alguno de estos frameworks: Jquery, Zend,  Symfony, Cake.
+- Experiencia en BBDD MySql.
+- Se valorara experiencia utilizando plataformas de emailmarketing y lanzamiento de .com
+

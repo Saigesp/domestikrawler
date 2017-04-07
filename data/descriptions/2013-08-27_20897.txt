@@ -1,0 +1,13 @@
+
+Se busca a alguien simpático, ambicioso y honesto con las siguiente características para unirse a uSpeak, una de las startups con mayor proyección en España.
+Imprescindible:
+3 años de experiencia
+Python + Django (o Flask)
+MySQL
+Linux
+Recomendable:
+HTML5 + Javascript + CSS3
+Amazon AWS
+REST
+Redis
+Git/Github

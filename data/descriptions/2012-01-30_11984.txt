@@ -1,0 +1,13 @@
+
+Se requiere de un perfil para el desarrollo back-end de una aplicación Web. Debe tener conocimiento demostrables en el desarrollo de aplicaciones basadas en el modelo vista controlador, así como amplio expertize en optimización de servidor.
+ 
+Requisitos mínimos: 
+Conocimientos nivel alto de PHP así como Zend Framework.
+Conocimientos nivel alto de MySQL (PL/SQL, tunning)
+Conocimientos nivel alto MVC.
+Ser auto-organizado y preparado para tomar la iniciativa. 
+Excelente trabajo en equipo, particularmente con desarrolladores y product managers. 
+Requisitos deseados: 
+Conocimientos de grid systems, responsive design y marcado semántico. 
+Experiencia en el manejo de plantillas (Smarty). 
+Gestión de versiones (CVS/SVN) y Eclipse. 

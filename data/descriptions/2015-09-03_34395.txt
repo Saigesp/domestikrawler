@@ -1,0 +1,13 @@
+
+Descripción
+Empresa ubicada en Málaga busca programador Junior para proyectos en C/C++.
+Requisitos
+Fundamental: Conocimientos en programación C/C++ (experiencia es un plus)
+Conocimientos de arquitectura Linux.
+Conocimiento de la herramienta GIT.
+Valoración adicional: Conocimientos de Qt, Python y Webkit.
+Valorable conocimientos en electrónica.
+Funciones
+Desarrollo de la arquitectura de los proyectos software.
+Desarrollo de software en C/C++.
+Portar código Python a C/C++.

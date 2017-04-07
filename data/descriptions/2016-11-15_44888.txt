@@ -1,0 +1,28 @@
+
+Job description
+PHP and Symfony have no secrets for you and you know all PHPStorm shortcuts. 
+You are organized and following development standards is important to you. Also, you are familiar with test driven development and you pay attention to develop high quality applications.
+Being part of our technical team, you will have the opportunity to express your coding talent by developing new applications and services.
+You also will be responsible of continuous integration workflow to ensure the applications quality.
+Requirements:
+PHP expert
+Symfony 2/3 or similar MVC framework
+Strong skills in MySQL and Doctrine
+API RESTful / SOAP development
+Excellent in PHP Unit testing
+Experience with functional testing using Behat
+Continuous integration tools with Jenkins
+Comfortable with TDD
+Deployment tools Ansible, Docker
+Linux/Unix basic knowledges
+NGINX or Apache server understanding
+Git or SVN versioning tool
+Code well structured and documented
+At least 2 years in similar position
+Valuable knowledges:
+Familiarity with Agile development method
+Use of task management tools like JIRA
+Personal skills:
+Fluent in Spanish, English is a plus
+Autonomous and team player bringing solutions and ideas
+Eligibility to work within the European Union

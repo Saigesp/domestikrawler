@@ -1,0 +1,17 @@
+
+¡Hola! Buscamos un Programador/a con experiencia en Drupal para formar parte del desarrollo de algunos proyectos en una Agencia de Publicidad.
+Como por ejemplo desarrollando proyectos  webs, microsites y CMS’s.
+-Requisitos para el puesto: (Experiencia en:)
+Programación en Drupal 
+Desarrollo aplicaciones PHP y MySQL 
+JavaScript, CSS, HTML, XML. 
+JQuery 
+-Además:
+Acostumbrado a trabajar en equipo 
+Alta capacidad resolutiva e inquietud tecnológica. 
+Implicación en los proyectos y en su calidad.
+-Otros:
+Nociones en frameworks como Zend, Wordpress y Magento. 
+Otros lenguajes de programación como Java, Objective C o lenguajes de desarrollo de apps mobile serán valorables. 
+Nivel medio/alto de inglés
+

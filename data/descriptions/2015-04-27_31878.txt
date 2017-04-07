@@ -1,0 +1,12 @@
+
+Buscamos incorporar a nuestra sede de Barcelona un Programador Frontend, con amplios conocimientos de HTML/CSS y JavaScript, encargado de convertir requerimientos y mockups en funcionalidades de usuario, teniendo en cuenta la optimización del código y la usabilidad para lograr una mejor experiencia de usuario.
+Requisitos mínimos: 
+• Experiencia mínima de dos años como programador frontend 
+• Programación Orientada a Objetos OOP 
+• Experiencia en el uso de estándares XHTML/CSS2, HTML 5/CSS3 para crear interfaces de usuarios. 
+• Conocimientos sólidos de JavaScript, jQuery, Dust. 
+• Gestión de intefaces cross-browser. 
+Conocimientos que serán valorados: 
+- PHP
+- Git
+- Scrum

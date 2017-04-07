@@ -1,0 +1,28 @@
+
+We are proactively looking for a Backend Node JS Developer to join our Madrid independent video game studio:
+Mission:
+Managing the interchange of data between the server and the players. Development of all server-side logic, definition and maintenance of the central database, and ensuring high performance and responsiveness to requests from the front-end. 
+Responsibilities:
+Writing reusable, testable, and efficient code
+Design and implementation of low-latency, high-availability, applications / games
+Implementation of security and data protection
+Integration of data storage solutions (may include databases, key-value stores, blob stores, etc).
+Experience:
+BS or MS degree, or related experience.
+Proven experience developing realtime web apps
+Ideally will have experience working with client developers working with Unity3d, Android and iOS.
+Proven capability for designing efficient and effective solutions.
+Node.js experience a MUST HAVE
+Strong proficiency with JavaScript
+In depth knowledge of either Framework: Pomelo or Loopback or similar
+Web Development experience with HTML, CSS, Javascript, and the modern and emerging frameworks that support these technologies
+Experience with MySQL database 
+Mongo Database (nice to have)
+Good understanding of server-side templating languages, such as Jade, EJS, etc
+Skills:
+Intermediate english
+Previous experience working in agile/ scrum environments is valuable
+Team work attitude
+Self sufficient and proactive.
+Enjoy a fast-paced, delivery focused environment
+

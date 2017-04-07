@@ -1,0 +1,23 @@
+
+About the Job:
+Many of our teachers interact with EDpuzzle through the web. By adding more features and capabilities that are easy to use and delight our teachers we can drive more engagement and more growth. The web is also our best platform to experiment with new features and to optimize existing features through extensive A/B testing.
+Responsibilities:
+- Work closely with teachers and the founding team to build a great UX/UI experience.
+- Take complex design problems and turn them into something simple and elegant.
+- Create user-centric designs across multiple platforms by considering usability findings, user research, and teacher insights.
+- Success for this role will be measured by delighting our users (teachers, parents and students) and seeing increased engagement with our web application.
+Requirements:
+- 4+ years experience as a product, interactive, or visual designer. 
+- You have a good working knowledge of Illustrator, Photoshop and/or Sketch. 
+- You have a good working knowledge of HTML, CSS, and one or more of AngularJS, Ember.js  or Backbone 
+- You have a strong body of prior front end web work, including significant projects written in JavaScript. 
+- You give and welcome honest, thoughtful feedback to and from fellow designers to learn and grow from each other. 
+- You don’t hold an ego with your work and are not afraid to have your opinion changed. 
+- Excellent ability to communicate your ideas, regardless of audience. 
+- Unmatched collaboration skills. 
+- A strong visual design aesthetic that can work within and expand the EDpuzzle brand 
+- Ability to validate your ideas through prototyping 
+- Experience working across multiple platforms and screen sizes/densities 
+- You have built and shipped web applications to a large number of users.
+Bonus:
+You have built and shipped iOS and Android Apps.

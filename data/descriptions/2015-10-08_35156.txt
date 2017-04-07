@@ -1,0 +1,27 @@
+
+Descripción del empleo
+ATREVIA busca un Diseñador y Programador web Experto en wordpress para dar apoyo a los distintos departamentos en el diseño, construcción y mantenimiento correctivo y evolutivo de los portales de sus clientes incluyendo:
+•	Toma de requerimientos y definición del alcance de proyecto.
+•	Diseño funcional y diseño técnico de aplicativos web.
+•	Programación, pruebas e implantación de aplicativos web.
+•	Mantenimiento de los aplicativos existentes.
+Aptitudes y conocimientos deseados
+
+Requisitos mínimos
+Mínimo 3 años de experiencia. Especialista en desarrollo con Wordpress (se valorarán trabajos realizados).
+Amplios conocimientos de programación en lenguajes PHP, CSS, XML, HTML, HTML5, SQL.
+Manejo de librerías javascript (JQuery, Mootols).
+Diseño de bases de datos relacionales (incluyendo normalización de tablas). Gestión y manejo de BBDD relacionales (MySQL).
+Imprescindible presentar PORTFOLIO
+Se valorará:
+•	Capacidad de Gestión de proyectos (toma de requerimientos, alcance y fases del proyecto, hitos y entregables, elaboración y seguimiento del plan de proyecto e informes para la Dirección).
+•	Dimensionamiento de proyectos (carga de trabajo, perfiles necesarios, etc) y gestión/control de cambios.
+•	Elaboración de diseño funcional y diseño técnico.
+•	Trato con proveedores.
+•	Gestión de servidores Linux: (ISPConfing, +cpanel, plesk, webmin, etc). Migración de webs, cambio de dns, control de dominios.
+Adicional, se valorarán conocimientos de:
+•	Arquitectura SEO.
+•	Joomla.
+•	Photoshop.
+•	Desarrollo de aplicaciones para Facebook.
+

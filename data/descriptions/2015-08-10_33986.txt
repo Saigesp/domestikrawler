@@ -1,0 +1,17 @@
+
+Necesitamos incorporar a nuestro equipo programadores web con experiencia en PHP y conocimiento avanzado de programación en XML, Javascript, Jquery y HTML5, dentro de sus tareas se encargará de gestionar servidores Web (IIS, Apache, etc).
+Pensamos en un profesional acostumbrado a desarrollar aplicaciones web 3.0  con conocimiento de lenguajes SQL y programación de Bases de datos SQL Server y con amplios conocimientos de los entornos Foundation o Twitter Bootstrap
+Muy deseables 
+· Less o Sass/Compass 
+· Accesibilidad (WCAG 2, TAW, ...)
+Valoradas 
+· Front-end test tools 
+· Website performance (console, debug, audits, etc)
+Deseables 
+· Social networks (twitter cards, open graph, ...) 
+· AngularJS
+Otros 
+· Git/svn 
+· Jenkins 
+· Agile development 
+· REST/JSON

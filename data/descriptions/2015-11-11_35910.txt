@@ -1,0 +1,17 @@
+
+Somos una empresa de desarrollo, hacemos webs, apps móviles, tiendas online, aplicaciones web en general.
+Buscamos programadores con experiencia para trabajar en varios proyectos de distinta duración. Nos gustaría encontrar 4 ó 5 buenos programadores con los que colaborar habitualmente, ir ganando fluidez operacional y alineando formas de trabajar.
+Necesitamos gente que pueda programar plugins y themes para un CMS en concreto cómodamente y gente que pueda desarrollar proyectos de cero sobre un framework. Programadores que se sientan cómodos implementando APIs o servicios externos y con creatividad para resolver los imprevistos eventuales que surgen en cualquier proyecto manteniéndose dentro de los tiempos previstos.
+Esta es una lista de las tecnologías con las que trabajamos habitualmente. No hace falta que seas experto en todas pero sí en algunas y que hayas trabajado bastante con al menos uno de los CMS mencionados.
+1. PHP nivel alto (OOP, MVC, algún framework, agile/scrum en espíritu por lo menos)
+2. Wordpress, Drupal, Prestashop, Magento, WooCommerce
+3. Javascript, jQuery, Ajax, JSON
+4. HTML5, CSS3/SASS
+5. Bases de datos (MySQL como mínimo)
+6. GIT
+7. Nociones básicas de seguridad (SQL injection, XSS, etc.).
+8. Desarrollo mobile-first / responsive.
+Aunque el trabajo consiste principalmente implementar funcionalidad y elementos de interacción diseñados por un diseñador, valoramos mucho el interés y la capacidad de opinar y aportar valor en todos los aspectos del desarrollo de una aplicación web. Dicho de otro modo: no es necesario que seas experto en todo, pero es imprescindible que tengas cierta noción del bien y del mal en temas como: usabilidad, interfaces, seguridad, diseño responsive.
+Valoramos mucho un buen nivel de inglés (leer y escribir más que hablar). Trabajamos mucho con clientes de fuera y ocasionalmente tendrás que intercambiar algún email con ellos.
+Ofrecemos un salarios cerrados por proyecto adecuado a su duración y complejidad. Esto significa unos 2000€ a 5000€ por proyectos que duran entre 1 y 3 meses. Es una orientación basada en nuestro histórico de proyectos.
+Hay posibilidad de trabajar en nuestra oficina o tele-trabajar. Depende el proyecto y en qué fase se encuentre.

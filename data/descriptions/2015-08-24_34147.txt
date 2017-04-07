@@ -1,0 +1,17 @@
+
+Precisamos incorporar un Maquetador Front - jQuery & Angular para prestar servicio en un proyecto en cliente ubicado en Cornellá, Barcelona.
+Perfil requerido: 
+Al menos 2 años de experiencia en las siguientes tecnologías: 
+- jQuery 
+- Angular 
+- bootstrap 
+- Responsive 
+- IE8
+Ofrecemos: 
+- Incorporación a proyecto con primera fase hasta finales de año, ampliable.
+- Contratación directa con Innovati.
+- Salario acorde a la experiencia y conocimientos aportados por la persona.
+Información sobre nuestra empresa:
+Grupo Innovati es una empresa cuyo objetivo es proporcionar soluciones y servicios en el ámbito de las Tecnologías de la Información a nuestros clientes a través de nuestras distintas líneas de actividad, buscando mejorar sus procesos de negocio y posición competitiva en sus sectores de referencia.
+Contando con más de 10 años de experiencia en el sector de las TIC y una plantilla de más de 220 empleados repartidos en nuestras sedes de España y Latinoamérica, nuestro grupo busca de forma continua profesionales técnicos cualificados en distintas áreas del sector Informática y Telecomunicaciones que quieran desarrollar su carrera profesional en el sector tecnológico en una empresa comprometida con la innovación, garantizando la calidad y excelencia en sus proyectos.
+¡Queremos darte la bienvenida y que formes parte de nuestro equipo!

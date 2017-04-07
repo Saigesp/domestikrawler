@@ -1,0 +1,2 @@
+
+Hola, Estoy buscando un freelance o empresa para crear un proyecto en drupal 7 que está a mitad de hacer. Sería crear plantillas, instalar y crear nuevos módulos, modificar interfaze, añadir bases de datos . Debe tener conocimientos avanzados de php y css. El proyecto es para la web de paseador de perros

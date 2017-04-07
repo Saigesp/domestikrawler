@@ -1,0 +1,20 @@
+
+SOGETI ESPAÑA S.L.U. es la empresa del GRUPO SOGETI especializada en tecnologías Microsoft y Testing en España.
+Como grupo internacional nuestro liderazgo en tecnología Microsoft nos certifica como las Gold Certified Partner y Global Alliance Partner de Microsoft.
+Contamos con más de 6.000 profesionales el 90% de los cuales está verificado en diferentes prácticas (MCP, MCTS, MCAD, MCPD).
+Desde nuestra unidad de negocio en España estamos especializados en el desarrollo de proyectos en tecnologías 100% Microsoft.
+Trabajamos en el desarrollo de aplicaciones móviles, desarrollo de aplicaciones web, escritorio y también sobre plataforma Sharepoint. 
+Sogeti realiza una fuerte apuesta por el uso del Cloud de Microsoft (Azure) utilizando toda su potencia:  Virtual Machines,  Azure web sites, Azure SQL Database, Mobile Services, Storages No-AQL…
+URGE la incorporación de Programadores Sénior .Net con Inglés para integrarse en un proyecto estable perteneciente a un sector en pleno auge.
+El candidato idóneo deberá aportar:
+- Conocimientos sénior de .NET
+- Conocimientos de herramientas como Agile, MVC, etc
+- Conocimientos de testing
+- Inglés, hablado y escrito nivel medio
+Como grupo internacional nuestro liderazgo en tecnología Microsoft nos certifica como las Gold Certified Partner y Global Alliance Partner de Microsoft,
+ofreciendo:
+-Contrato indefinido desde el primer momento.
+-Plan de carrera profesional
+-Formación continua y Certificaciones Microsoft subvencionadas por la empresa
+-Beneficios sociales: tickets restaurante, seguro médico y política de incentivación.
+

@@ -1,0 +1,11 @@
+
+Buscamos una persona freelance con altos conocimientos en maquetación CSS fundamentalmente, HTML y Photoshop. Se trata de una persona dinámica, versátil, flexible, comprometida y con capacidad para gestionar los tiempos y cumplir con los plazos de entrega y con al menos 5 años de experiencia.
+Ha de tener gusto por el diseño y por el acabado, especialmente por el uso tipográfico y poder adaptar a wordpress cualquier diseño.
+Requisitos deseados: 
+- Portfolio con trabajos actuales y CV.
+- Maquetación HTML5 /XHTML y CSS/CSS3 a partir de Photoshop,  Wordpress, Drupal...
+- Conocimientos de Javascript y uso de frameworks.- MSQL (nivel medio)
+- Programación front Ajax/Javascript con JQuery.
+ - Maquetación CSS con sprites. 
+- Ser capaz de solucionar problemas de compatibilidad con exploradores (Sobre todo Internet Explorer).
+ - Aptitud y actitud positiva hacia el trabajo en equipo.

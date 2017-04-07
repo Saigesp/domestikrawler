@@ -1,0 +1,15 @@
+
+En Sra Rushmore buscamos programador backend. Persona responsable, trabajadora, independiente, colaborativa, con una mentalidad creativa, que sepa solucionar problemas y con una experiencia mínima de 3 años.
+Conocimientos necesarios:
+· PHP.
+· MySQL.
+· Uso de frameworks/Api&amp;#39;s: NodeJS, JQuery, Google, Facebook, Twitter, CodeIgniter, Symfony ...
+· Javascript.
+· Html4 y html5.
+. Manejo de sistema operativo Linux (Debian7) así como instalación y configuración del mismo. Experiencia con administración de procesos (cron) y Shell Scripts.
+Se valorará:
+· CSS / CSS3.
+· Dominio de herramientas de Adobe (iIlustrator, Photoshop, Flash...)
+· Conocimientos de Wordpress.
+· Conocimientos y experiencia en desarrollo de Mobile Apps.
+El tipo de contrato será indefinido con 6 meses de prueba.

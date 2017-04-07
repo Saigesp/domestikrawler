@@ -1,0 +1,4 @@
+
+Certicalia.com busca programador frontend para trabajar en Zaragoza.
+Desarrollo de paneles de control para diferentes perfiles de usuario. Experiencia en JQuery, Less, Css y Html.
+Se valorará conocimientos en UX, optimización en buscadores, php y bases de datos.

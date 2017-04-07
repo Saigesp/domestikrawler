@@ -1,0 +1,22 @@
+
+El candidato formará parte de un equipo joven y dinámico y tendrá que realizar tareas de análisis y desarrollo, participar en las mejoras de la herramienta y proponer soluciones o sugerencias de manera independiente y pro-activa.
+Experiencia:
+- Mínima de 2 año en puestos similares.
+Requisitos mínimos. Se deberá aportar experiencia y conocimientos en:
+- PHP 5 (OOP).
+- Experiencia en manejo y desarrollo de Web Services (SOAP, REST).
+- Experiencia con Symfony2 o frameworks similares.
+- Dominio en desarrollo web en entorno LAMP (Linux Apache MySQL PHP).
+- Buenas prácticas en el desarrollo de código.
+- Git.
+Se valorarán positivamente los siguientes conocimientos:
+- MongoDB.
+- Administración de sistemas.
+- Maquetación: jQuery, HTML, CSS, Responsive Design.
+Tareas a desempeñar:
+- Desarrollo de APIs.
+- Desarrollo continuo de mejoras en la aplicación y apoyo de análisis.
+Lo que ofrecemos
+- Formar parte del equipo de Zeendo compuesto por profesionales jóvenes y dinámicos, donde se mezclan perfiles de expertos en distintas especialidades relacionadas con el mundo tecnológico.
+- Trabajar tomando tus propias decisiones y crecer como profesional.
+- Participar en el desarrollo de un producto innovador siendo un referente en la creación de web responsive a nivel internacional.

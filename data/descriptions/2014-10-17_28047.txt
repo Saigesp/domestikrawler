@@ -1,0 +1,4 @@
+
+Buscamos un desarrollador de app's Android+iPhone freelance.
+El proyecto consiste en una app con la que los usuarios deben poder disponer de un sencillo editor de vídeo (línea de tiempo y capas) y poder realizar una serie de acciones sobre el vídeo generado. 
+Importante que el candidato domine desarrollo en las 2 plataformas.

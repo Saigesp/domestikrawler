@@ -1,0 +1,30 @@
+
+Altamira TI, consultora tecnológica especializada en las Tecnologías de la Información y los Recursos Humanos, necesita incorporar para uno de sus proyectos un LÍDER TECNICO, para un proyecto de apoyo de nivel 2 a ACTIVE DIRECTORY. Proyecto de larga duración y en muy buen ambiente de trabajo.
+SE OFRECE
+Estabilidad laboral, proyección profesional y Plan de Carrera personalizado.
+Incorporación a un equipo altamente cualificado y dentro de un entorno tecnológico avanzado en el que están integradas las últimas soluciones del mercado.
+Funciones:
+Dar soporte de nivel 2 en Active Directory en un ámbito de nivel Europeo, por lo que se valorará muy positivamente la aportación de alto conocimiento de Inglés.
+Conocimientos y Experiencia necesaria en:
+       Kerberos troubleshooting (Wireshark, keytab)
+       SPN troubleshooting (Setspn)
+       GPO
+       FSMO
+       DNS/DHCP
+       Certificates
+       SCOM
+       DFS
+       AD Users / Group maintenance
+Habilidades y conocimientos deseables:
+      PowerShell
+      ITIL
+      VBScript
+      Auditor de cambios
+      Mecanismo de control de acceso a la red
+      Quest Active role (soluciones de software de Dell)
+ESTUDIOS:
+Se requiere Formación Superior en informática o Ciclos formativos técnicos.
+EXPERIENCIA:
+Demostrable de al menos 2 años en las funciones descritas.
+CONDICIONES
+Se tratarán personalmente.

@@ -1,0 +1,20 @@
+
+HubSpider, a Swiss company with its largest office located in Spain, seeks an experienced web developer to join its growing web team.  HubSpider offers online marketing packages to dental clinics and other companies throughout Europe, including website design, SEO and social media marketing. 
+Our projects are for clients that are located across Europe, including Switzerland, Denmark, The UK, Italy and Spain.  The projects range from standard websites to larger ecommerce and CRM systems.
+Required qualifications:
+-	PHP programming with 1-3 years’ experience
+-	HTML5 and CSS3
+-	JavaScript (jQuery)
+-	Graphic design experience using Adobe Creative Cloud tools (Illustrator, Photoshop, InDesign, etc)
+-	Responsive web design (Bootstrap)
+-	Experience configuring and customizing Content Management Systems
+-	Experience using PHP frameworks (Zend, Symfony, etc)
+-	Previous work in a structured development environment
+-	Ecommerce experience such as Prestashop or Magento
+-	English at a business level, both written and spoken
+Things that would be nice to have:
+-	Drupal 7 CMS
+-	SEO and web marketing skills
+-	Fluency in additional languages
+HubSpider AG is headquartered in Switzerland.  Our development, marketing, support and sales office is located in La Cala de Mijas. We offer a young, creative, startup work environment, with permanent contracts and more. We are a multi-cultural operation, with staff drawn from 9+ countries.
+

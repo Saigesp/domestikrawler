@@ -1,0 +1,22 @@
+
+Everis centers, empresa del grupo everis, está especializada en el desarrollo y mantenimiento de aplicaciones, así como en el soporte técnico de sistemas, desde sus Centros de Alto Rendimiento, con un foco claro: la calidad y la productividad.
+Si buscas un trabajo que se describe con las siguientes palabras: Tecnología, Metodología, Formación, Buen ambiente, estabilidad laboral y horaria te lo ofrecemos desde nuestro nuevo Centro de Desarrollo ubicado en Sevilla.
+Buscamos incorporar en nuestra oficina de Sevilla a profesionales especialistas en NodeJS
+Ofrecemos:
+-Puesto estable.
+-Estabilidad horaria y geográfica, trabajando de forma permanente en nuestro nuevo centro ubicado en Sevilla.
+-Contrato indefinido.
+-Incorporación inmediata.
+-Una atractiva remuneración que se basa en un sueldo, revisado anualmente, más un variable por productividad individual.
+-Participación desde nuestro centro en proyectos desarrollados para clientes de primer nivel en el ámbito Nacional e Internacional.
+-Plan de Formación y certificaciones individualizado.
+-Beneficios sociales.
+-Formación presencial en idiomas con profesores nativos.
+-Posibilidad de teletrabajo en determinados momentos y flexibilidad horaria.
+Requisitos 
+- Deseable formación Universitaria (Grado, Técnico, Técnico Superior).
+- Al menos un año de experiencia desarrollando portales web y realizando la programación orientado a objeto y servicios.
+- Uso del lenguaje de programación Java, Java script, HTML5, CSS3, NODEjs y Express.
+- Aportar con conocimientos en CSS3 HTML5 Javascript, NodeJS, Express, Java.
+- Experiencia en la gestión de equipos.
+

@@ -1,0 +1,10 @@
+
+En Jordi Ensenyat Disseny buscamos un maquetador y programador freelance experto en Wordpress para puntas de trabajo.
+Es indispensable tener conocimientos para realizar un theme propio, no trabajamos con themes ya creados.
+Otros requisitos indispensables:
+- Manejo de jquery y plugins.
+- Uso de bootstrap y responsive webdesign
+- Máximo compromiso en las fechas de entrega
+- Mucha atención al detalle
+- Código limpio
+Si además tienes experiencia en Prestashop o WooCommerce sería excelente.

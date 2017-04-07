@@ -1,0 +1,15 @@
+
+¿Quienes somos?
+En BSD ENTERPRISE ESPAÑA estamos especializados en Servicios IT Consulting siendo referentes en herramientas de calidad y testing así como en desarrollo en tecnologías Web, aplicaciones web y móviles (IOS y Android), administración de BB.DD., etc.
+Somos una empresa internacional IT con distintas áreas de servicio, que unifican conocimiento de mercado y métodos de trabajo innovadores. Entendemos la tecnología como un estado de aprendizaje continuo y la diversidad de oferta con la que contamos significa que puedes desarrollar tu trayectoria profesional en el ámbito que mejor responda a tus intereses.
+¿Estás al día de las tendencias tecnológicas? ¿Eres flexible y te encanta trabajar en equipo? ¡Buscamos personas que les apasione la tecnología!
+Buscamos incorporar un Analista Programador IOS para realizar tareas de programación de aplicaciones móviles nativas para iPhone con incorporación inmediata.
+Conocimientos básicos requeridos e imprescindibles: 
+- Experiencia mínima de al menos 1 año en desarrollo de aplicaciones móviles nativas para iOS. 
+- Experiencia con Swift3. 
+- Experiencia en programación objective C. 
+- Capacidad analítica y orientación al trabajo en equipo y a la innovación.
+ Ofrecemos:
+- Incorporación inmediata. 
+- Contrato inicial por obra con altas posibilidades de conversión a indefinido.
+- Remuneración competitiva y según valía del candidato. 

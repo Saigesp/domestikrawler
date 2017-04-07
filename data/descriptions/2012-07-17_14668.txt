@@ -1,0 +1,23 @@
+
+Empresa dentro del campo de la tecnología del control de motores eléctricos (Motion Control) para entornos diferentes, como robótica, industria o espacio, formada por un equipo joven y multidisciplinar de ingenieros altamente calificados y motivados, necesita incorporar para un proyecto innovador un/a INGENIER@ DE SOFTWARE Y ANALISTA con talento, motivación y experiencia contrastable en programacin en C/C++. Trabajará en los procesos de definición, diseño y desarrollo de productos software/firmware orientados al control de motores eléctricos.
+Sus tareas serán:
+- Desarrollo y programación de aplicativos gráficos (GUI) para SO Windows que ofrezcan al usuario una interfaz de configuración y programación de las tarjetas de control de motores
+- Desarrollo de librerías de programación (APIs) en C/C++ para SO Windows/Linux que ofrezcan al usuario control sobre las tarjetas de control de motores
+- Programación en C per microcontroladores en tarjetas electrónicas de control de motores
+Requisitos:
+- Ingeniería en telecomunicaciones, informática o electrónica
+- Experiencia elevada constrastable en programación en C/C++
+- Experiencia contrastrable ne desarrollo aplicativo de gráficos (GUI) basados en MFC bajo el entorno Visial C++ para Windows
+- Experiencia en el desarrollo de APIs en C/C++
+- Experiencia en el uso de Standard Template Library (STL) para C++
+- Nivel alto de inglés
+- Motivació, iniciativa y afán de superación
+- Capacidad de desarrollo multitarea
+- Capacidad de adaptación y autonomía
+- Capacidad de trabajo en grupo y excelencia
+Requisitos Valorables:
+- Uso de librerías gráficas tipo Codejock, BCGSoft o similar
+- Programación en C# y LabView
+- Interfaces de comunicacion: USB, RS232, CAN y Ethernet
+- Conocimientos de control de motores
+- Conocimientos de protocolos de comunicación CANOpen

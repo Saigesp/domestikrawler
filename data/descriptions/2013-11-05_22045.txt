@@ -1,0 +1,15 @@
+
+Buscamos incorporar un Diseñador UX / IA con experiencia, que haya demostrado su capacidad para proporcionar las “best practices” en e-commerce. Deberá traducir los requerimientos de negocio en soluciones de diseño elegante, innovador e intuitivo, y buscar el equilibrio entre las necesidades del usuario con los objetivos de negocio y las limitaciones tecnológicas.
+Responsabilidades:
+- Diseño Visual y de la Arquitectura de la información en distintos flujos e interfaces.
+- Maquetación (HTML /CSS) para multidispositivos (smarthphone, tablets,...).
+- Testing y análisis para mejorar el diseño de la experiencia de usuario (UX).
+- Optimización y estrategia de contenidos para buscar la mejor experiencia de usuario.
+- Utilizar los datos de la analítica web para informar y defender las decisiones de diseño.
+- Reporting periódico de los principales KPIs de los canales de venta.
+Requisitos:
+- Experiencia probada en diseño web y desarrollo de interfaces/experiencias de usuario.
+- Profundo conocimiento de estándares, tecnologías web (XHTML / CSS) y desarrollo cross-browser/cross-platform.
+- Conocimiento avanzado de Google Analytics y herramientas de Test A/B.
+- Se valorarán conocimientos en: JavaScript, jQuery, Ajax, HTML5 y CSS3.
+- Se valorarán conocimientos de SEO y de herramientas como (Google Webmaster Tools, SEOMoz,…)

@@ -1,0 +1,5 @@
+
+Estamos montando una tienda con prestashop y necesitamos ayuda para escoger una plantilla adecuada para nuestro producto. 
+También necesitamos algún módulo para poder mostrar el producto en formato png con transparencia, de modo que el cliente pueda escoger el producto y visualizarlo en 40 colores con fondo transparente y que se pueda cambiar el fondo, para que pueda valorar el color que más le gusta del producto.
+Sería interesante hacer una tienda responsive.
+Toni TM

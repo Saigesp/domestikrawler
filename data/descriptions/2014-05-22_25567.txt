@@ -1,0 +1,5 @@
+
+En ezzingSolar estamos buscando un perfil experto para unirse a nuestra empresa. Somos una startup española dentro del sector de las energías renovables y 100% internacionalizada, siendo nuestros principales mercados Italia, Holanda y Reino Unido.
+En 2013 lanzamos al mercado ezzingSolar, que es una plataforma online innovadora y única en el mercado que trata de profesionalizar el sector. 
+Requerimos un perfil con nivel experto en desarrollo de aplicaciones web y en especial en el uso de php, javascript, jquery, AJAX además de mysql y Google maps API v3.
+También con expertise en desarrollo de front end y mejora de la usabilidad y experiencia del usuario, con amplio conocimiento en estructuras de servidores y bases de datos para acompañar el desarrollo con coherencia para el futura escalado de los desarrollos.

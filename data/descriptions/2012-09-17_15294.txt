@@ -1,0 +1,10 @@
+
+Nuestro cliente es una empresa dedicada al desarrollo Web, realiza todos los proyectos desde zero siempre teniendo en cuenta el marketing online.
+Necesitamos incorporar un/a  programador/a  en PHP, JavaScript, CSS y SQL, con experiencia en desarrollos de soluciones internet. Se valorará conocimientos de JAVA.
+Requisitos: 
+Formación Profesional Grado Superior - Informática
+Al menos 2 años de experiencia en programación PHP5, HTML, CSS3 y JavaScript
+Conocimientos profundos de programación OO.
+Valorable: 
+Experiencia en programación con  JAVA
+

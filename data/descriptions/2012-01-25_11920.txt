@@ -1,0 +1,28 @@
+
+Qué buscamos:
+Buscamos un diseñador web con experiencia en desarrollo de proyectos web. Una persona organizada, dinámica, creativa. Que le motive trabajar en equipo, dispuesto a desarrollarse tanto a nivel profesional como a nivel personal. Con experiencia demostrable en:
+- Dominio de maquetación bajo estándares HTML/XHTML y CSS/CSS3 (multinavegador).
+- Conocimiento de JQuery: Utilización y adaptación de las librerías JQuery
+- Maquetación Photoshop/Illustrator -&gt; HTML
+- Detectar y solucionar los problemas de compatibilidad con exploradores.
+- Capacidad creativa e interés en el mundo de la tecnología.
+Se valorará:
+- Criterio en diseño y acabados web.
+- Conocimientos PHP/MySQL
+- Conocimientos de AJAX
+- Conocimientos de HTML5
+- Conocimientos de usabilidad web (UI)
+- Conocimientos de Javascript y DOM
+- Uso de las API más comunes: Google, Twitter, Facebook...
+- Conocimiento y uso de las redes sociales: Twitter, Facebook, etc
+Qué trabajo se va a desempeñar:
+- Diseñador Web
+- Participará en proyectos de clientes de distintos sectores.
+- El puesto de trabajo es presencial
+- Integración en un equipo de profesionales con un alto grado de motivación
+- Ambiente de trabajo innovador y dinámico.
+Ofrecemos:
+- Formación continua con plan de desarrollo personalizado
+- Salario según valía
+- Contrato indefinido y estabilidad laboral.
+- Se garantiza la confidencialidad en el proceso de selección.

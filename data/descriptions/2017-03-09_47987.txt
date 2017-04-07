@@ -1,0 +1,17 @@
+
+¡Hola!
+Estamos buscando una persona para incorporarse a nuestro equipo de diseño. Somos una empresa de unas 50 personas situada en el Tech City deBarcelona, desarrollamos aplicaciones móviles y páginas web. Trabajamos para marcas nacionales importantes y también creamos aplicaciones propias. Buscamos a alguien para ayudar al equipo de diseño, es importante tener conocimientos de usabilidad y diseño de interficies para móviles y web, conocimientos de guideline iOS y Android.
+El candidato tendrá que desarrollar las siguientes funciones: 
+-Análisis y definición de la arquitectura de información para APPS IOS y Android. 
+-Wireframing y prototipado.
+-UI, diseño de las apps.
+-Definición de estilos generales.
+-Se valorará conocimientos en maquetación para webs responsive. HTML5 y CSS3 nivel intermedio.
+Conocimientos requeridos: 
+-Paquete Adobe (Photoshop, illustrator...) - NIVEL ALTO 
+-Sketch - NIVEL ALTO
+-Programas de prototipado - NIVEL ALTO
+-Zeplin - NIVEL INTERMEDIO
+-Programas de edición HTML (Sublime Text o similar) - NIVEL INTERMEDIO
+Se valorará agilidad en los procesos de diseño y pequeños conocimientos de lenguajes de programación (¡no es imprescindible! no queremos asustar a nadie pero como conocimientos es interesante)
+Jornada completa, viernes de 9:00 a 14:00

@@ -1,0 +1,29 @@
+
+Reports To: Team Director/Creative Lead
+
+JOB SUMMARY
+The Web Developer-Designer is responsible for the development and design of major and minor Web applications and components for internal and external Insurance system users.  The developer will design, develop, test and deliver web sites, applications and components.  Enhancements and defect resolution will be required on an ongoing basis.  Best practices and design methods will be utilized to insure the success of the projects. The developer will have the ability to create web applications and components from the requirementsstage, through design, through production deployment.  They will be required to have experience in graphics, layout, scripting, programming, as well as development involving compatibility and seamless integration with various technologies such as, but not limited to, Java and ColdFusion.
+Flexibility, adaptability and the ability to learn quickly in various technical and creative environments, while delivering quality work by tightdeadlines, are key attributes of this individual.
+
+PRINCIPAL ACCOUNTABILITIES
+·Operates effectively as a member of the development team.
+·Also operates effectively as an individual for quick turnaround of enhancements and fixes.
+·Responsible for meeting expectations and deliverables on time and in high quality.
+·Responsible for the development of web applications and components.
+·Responsible for the design and development of web pages, graphics, multimedia, GUIs.
+·Effectively develops in a clean, well structured, easily maintainable format.
+·Utilizes storyboarding and graphic pre-designs where appropriate.
+·       Demonstrates creative, technical and analytical skills.
+·       Demonstrates ability to communicate effectively in both technical and business environments.
+
+Required Skills:
+·       Some experience using the RUP methodology.
+·       Experience in developing websites and/or web applications.  Minimum of 2 years of web design and development experience is required.
+·       Solid understanding of navigation and GUI for maximizing usability.
+·       Front-end and some back-end development experience.  More important is the experience of seamless integration of front- to back-end functionality.
+·       Practical experience in development of HTML, JavaScript, CSS, SQL, Perl, graphics creation with Photoshop, Illustrator, (Adobe Creative Suite), multimedia creation with Flash, ActionScript, (Macromedia Studio).
+·       Practical exposure and/or experience with some or all of the following: Java Server Pages and Java, XML, PHP, Oracle, MS SQL Server, ColdFusion Server, CFML, CFScript, IIS, Windows Server environments.
+·       Excellent written and oral communication skills.
+·       Desire and willingness to work in a collaborative, innovative, flexible and team-oriented environment.
+·       BS / BA university degree a plus but not required. 
+Work as part of a team, which will include a Team Director, Creative Lead and a sales producer and sometimes whit a editor and an account manager.

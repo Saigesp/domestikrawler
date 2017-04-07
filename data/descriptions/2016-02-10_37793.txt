@@ -1,0 +1,12 @@
+
+En Gidea Online Consulting; consultora especializada en UX, desarrollo de aplicaciones, marketing digital y eficiencia operativa en el mundo online; estamos creciendo y reforzando nuestro equipo de Desarrollo, por ello buscamos una persona que quiera ser parte de una empresa joven, con ganas de aprender y de enfrentarse a nuevos retos profesionales.
+Que tenga los siguientes conocimientos:
+- Nivel alto de programación en PHP
+- Experiencia en MySQL, jQuery
+- Conocimientos en cURL
+Valorable conocimientos en HTML5, CSS3, Wordpress, MongoDB
+Mínimo dos años de experiencia.
+Trabajo en equipos multidisciplinares.
+Ofrecemos:
+- Entorno de trabajo joven, agradable, dinámico, abierto y con capacidad de aprendizaje
+- Salario adaptado a las capacidades, experiencia y valía del candidato.

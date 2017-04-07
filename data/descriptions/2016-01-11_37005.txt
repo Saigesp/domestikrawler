@@ -1,0 +1,27 @@
+
+¿Quiénes somos?
+Roiback es una empresa líder especializada en desarrollo y gestión de proyectos online para cadenas hoteleras y hoteles independientes. Tenemos una amplia experiencia en el sector...
+•	Diseñando y desarrollando webs
+•	Gestionando marketing online
+•	Mejorando nuestro motor de reservas, con tecnología que realmente nos diferencia.
+•	Creando contenido web único y exclusivo
+•	Dando un soporte personalizado a nuestros clientes
+•	Integrándonos con los principales Channel Managers
+•	Siempre innovando, investigando, buscando nuevos retos.
+¿Cómo nos puedes ayudar?
+Buscamos una persona para desarrollar un módulo de facturación a medida que cumpla los siguientes requisitos:  
+•	De 2 a 4 años de experiencia demostrable en OpenERP / Odoo.
+•	Experiencia en personalizar o crear módulos y nuevas funcionalidades.
+•	Buen conocimiento en programación, sobretodo en Python.
+•	Conocimientos de base de datos postgresql.
+•	Conocimientos de Linux (Ubuntu).
+•	Conocimientos de HTML5/CSS3/jQuery.
+•	Habilidad para depurar errores. 
+•	Formación relacionada con el mundo de la Informática.   
+•	Se valorará la presentación de repositorio de código o trabajos relacionados.
+¿Qué ofrecemos?:
+•	Trabajar en una empresa en pleno proceso de expansión y crecimiento. 
+•	Formar parte de un grupo empresarial consolidado en el mercado del turismo. 
+•	La posibilidad de formar parte de un equipo joven y con muchas ganas de seguir desarrollando un gran proyecto.
+•	Contrato Freelance mientras dure el desarrollo del proyecto. 
+

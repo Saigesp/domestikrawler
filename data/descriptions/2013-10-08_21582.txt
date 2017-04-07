@@ -1,0 +1,9 @@
+
+Buscamos artista 2D freelance, preferiblemente de Madrid (oficina ubicada en S.S. Reyes / Alcobendas), para equipo de desarrollo de videojuegos, especializado en aventuras gráficas en 2D.
+Buscamos un artista con:
+- Experiencia diseño y animación tradicional de sprites (básicamente, personajes)
+- Experiencia en diseño de backgrounds
+- Experiencia en integración con Unity
+- Conocimiento de las mecánicas y códigos de las aventuras gráficas “point and click” clásicas
+Estamos orientando el estilo de la aventura hacia el cómic, y buscamos una estética con ciertos rasgos expresionistas y toques de violencia (el juego tendrá sus momentos gore); si bien, como el proyecto está arrancando, hay mucho terreno para la creatividad.
+

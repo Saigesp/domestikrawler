@@ -1,0 +1,14 @@
+
+Estamos buscando un Programador Front Senior con experiencia laboral en diferentes proyectos para uno de nuestros clientes con las siguientes características:
+Programador Front Senior, con experiencia laboral mínima de 4/5 años en:
+* Experiencia en diseño y desarrollo con CSS3, HTML5.
+* Conocimientos en frameworks y librerías javascript: JQUERY y Bootstrap.
+* Conocimientos de usabilidad y diseño de experiencia de usuario 
+Valorable conocimientos en AngularJS / Backbone.
+- GITS
+- eclipse
+- XML
+Perfil técnico con experiencia en desarrollo front-end, con capacidad de trabajo en equipo y compromiso con su trabajo, con capacidad analítica y capacidad para realizar estimaciones y enfoques técnicos, y con conocimiento de la últimas novedades en el contexto tecnológico del front-end.
+Titulación requerida: Ingeniero Técnico, Ingeniero Superior o GFPS en Informática.
+Jornada Completa de Lunes a Viernes 
+Lugar de trabajo: Instalaciones en Madrid

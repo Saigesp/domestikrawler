@@ -1,0 +1,16 @@
+
+En King-eClient buscamos un becario para dar soporte al equipo de desarrollo, para participación en análisis funcional y desarrollo de nuevos proyectos a implementar en Drupal. Ofcina Barcelona.
+Somos una de las consultoras con mayor trayectoria online de España, llevamos más de 15 años asesorando a las empresas top nacionales e internacionales en sus aventuras en internet o móvil.
+Actualmente nuestra empresa está formada por áreas de consultoría, diseño, social media y desarrollo e I+D tecnológico.
+Buscamos espíritus jóvenes, con energía, ganas de aprender, crecer y compartir, en un ambiente dinámico y en una empresa que crece a ritmos del 30-40% anual. Nuestro entorno es muy movido a nivel intelectual, por lo que mentes apagadas, mejor abstenerse.
+Valoramos mucho una sólida experiencia y estudios de postgrado así como idiomas. También es imprescindible la actitud por evolucionar, por crear valor en empresas y por ser grandes personas. 
+Requisitos:
+Programación en .php.
+Conocimientos de Drupal.
+Saber inglés.
+Que te guste internet y todo lo que le rodea.
+Ser una persona creativa y resolutiva, con capacidad de trabajar en equipo.
+No hace falta experiencia previa, sólo mucha ilusión y ganas de aprender. Serás tutorizado por un desarrollador senior que te ayudará a lograr los objetivos.
+Qué ofrecemos:
+Trabajar en un entorno joven, con personas dinámicas y en constante crecimiento, siempre dispuestas a aprender y a echar una mano.
+Grandes perspectivas de crecimiento como desarrollador en Drupal, el framework/cms más demandado y versátil del mercado online, así como y otros frameworks php (silex, symphony, laravel, según proyecto).

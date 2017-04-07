@@ -1,0 +1,40 @@
+
+Ingénieur Intelligence Artificielle Freelance
+Pour un de nos clients, nous sommes à la recherche d'un ingénieur IA freelance. 
+Entreprise: Snob Technologies SL 
+Secteur: IT
+Snob Technologies est une entreprise spécialisée dans le développement de sites webs et apps. Nous sommes à la recherche d’un Ingénieur Intelligence Artificielle pour développer un robot d’animation auto-alimenté. 
+Vos missions principales consistent à : 
+- Rechercher et comparer des implémentations différentes d'algorithmes,
+- Développer ces algorithmes et les optimiser,
+- Implémenter les étapes d’automatisation des modèles,
+- Récupérer et intégrer une base de dialogue existante,
+- Innover et faire de la veille technologique dans le domaine du datamining,
+- Travailler en interaction avec les équipes R D afin d'intégrer des méthodologies du Datamining
+dans les autres solutions en place.
+Vos compétences & formation : 
+-  Bac +5 : école d’ingénieur ou Master en informatique industrielle et/ou électronique
+- formation récente dans le développement logiciel d’intelligence artificielle.
+- parfaite maîtrise du C, Python, Javascript et de l’environnement de travail Linux et Windows
+- la maîtrise du français et / ou de l’anglais est un plus
+D’un naturel curieux et autonome, vous savez rechercher les informations qui vous manquent. 
+Nous vous proposons de venir nous rejoindre dans l'environnement dynamique d'une jeune entreprise pour développer des produits
+----------------------
+Para uno de nuestros clientes, buscamos a un ingeniero IA freelance. 
+Empresa: Snob Technologies SL 
+Sector: IT
+Snob Technologies es una empresa especializada en el desarrollo de sitios Web y apps. Buscamos un Ingeniero Inteligencia Artificial freelance para desarrollar un robot autoalimentado de animación.
+Sus misiones principales consisten a: 
+- Investigar y comparar diferentes implementaciones de algoritmos,
+- Desarrollar estos algoritmos y optimizarlos,
+- Implementar las etapas de automatización de los modelos,
+- Recuperar e integrar una base existente de diálogo,
+- Innovar y hacer la vigilancia tecnológica en el sector del datamining,
+- Trabajar en interacción con los equipos B&D con el fin de integrar metodologías de Datamining en otras soluciones implementadas.
+Sus competencias y formación: 
+- Escuela de ingeniero o Máster en informática industrial y\o electrónica
+- Formación reciente en el desarrollo de software de inteligencia artificial.
+- Dominio perfecto de C, Python, Javascript y del entorno de trabajo Linux y Windows
+- Dominio del francés y / o del inglés sería un plus 
+De naturaleza curiosa y autónoma, sabe investigar por las informaciones que le faltan. 
+Le proponemos trabajar en el entorno dinámico de una empresa joven para desarrollar productos. 

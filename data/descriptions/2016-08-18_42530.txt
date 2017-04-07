@@ -1,0 +1,11 @@
+
+La empresa C3-PO USA LA FUERZA requiere una nueva incorporación para sus oficinas en Palma de Mallorca:
+Se requiere Programador Web con las siguientes habilidades:
+- Dominio de css y js 
+- Conocimientos altos de less y jQuery 
+- Conocimientos medios de desarrollo en WordPress
+- Conocimientos medios de UX
+- Se valorará conocimientos de Sketch, Illustrator o Photoshop 
+- Se valorará conocimientos básicos de PHP
+Su función será desarrollar toda la parte front-end (css y js). Aportando conocimientos de usabilidad y experiencia de usuario.
+Imprescindible presentar portfolio con Webs realizadas.

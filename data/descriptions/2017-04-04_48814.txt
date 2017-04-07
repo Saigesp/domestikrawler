@@ -1,0 +1,20 @@
+
+En boream estamos buscando un Responsable/Coordinador de Proyectos de Movilidad, con una sólida base tecnológica y experiencia mínima de 4 años en Gestión de Aplicaciones Móviles para Android e iOS.
+Características de la oferta:
+* Incorporación a proyectos de primer nivel, que te permitirán seguir creciendo como profesional.
+* Formación continua en las tecnologías del sector.
+* Trabajo presencial en Madrid.
+* Oferta salarial según experiencia y valía
+Aptitudes y conocimientos deseados. Necesitamos que tengas soltura con lo siguiente:
+* Experiencia con iOS y Android
+* Eclipse, Android Studio, Xcode, C, Java
+* Conocimiento y experiencia en integración de aplicaciones móviles
+* Integración continua y automatización de pruebas
+* Análisis y corrección de vulnerabilidades
+* Capacidad de esfuerzo, liderazgo y empuje
+* Capacidad de gestión
+* Herramientas de gestión de proyectos
+No son estrictamente necesarios, pero estaría genial si pilotas o conoces algo de esto otro:
+* Nivel alto de inglés
+* SOAP, HTML, REST, XML, JSON, GIT
+* Jenkins, Appium, Selenium, WebDriver, Sonarqube, Fiddler, Charles, HockeyApp

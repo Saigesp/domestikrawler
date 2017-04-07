@@ -1,0 +1,11 @@
+
+Buscamos establecer una relación de confianza con un desarrollador / desarrolladores  de apps móviles para absorber picos de trabajos en proyectos interesantes y de gran visibilidad. La periodicidad sería trimestral. 
+Nos gustaría mantener una reunión presencial en la que comenzar a abordar el desarrollo de algún proyectos, ver opciones, metodología, etc...
+Requisitos mínimos que deben reunir
+- Java y Android SDK Framework
+- Patrones de diseño
+- SQL
+- Depuración y uso de memoria.
+- Capaz de integrar servicios web externos (JSON, XML, RSS ...)
+- Experiencia demostrable en el desarrollo de Apps Nativas Android
+Conocimientos avanzados de las mejores prácticas para el desarrollo de aplicaciones móviles (cliente y servidor) y diseño de arquitectura.

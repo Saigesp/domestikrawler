@@ -1,0 +1,23 @@
+
+Grupo Solocal es el líder Europeo en publicidad digital local, con empresas como Pages Jaunes, Mappy, Sotravo, Leadformance, Timendo o Yelster digital, entre otras.
+En España, el Grupo Solocal está presente con sus filiales QDQmedia, Optimizaclick, Trazada, Leadformance y Timendo, ofreciendo soluciones digitales adaptadas a las necesidades de las pequeñas y medianas empresas, con servicios como la creación de páginas web, gestión de campañas de posicionamiento PPC, integración y optimización de su presencia en redes sociales, reservas de servicios online o localizadores de tiendas, entre otros.
+Compartimos acuerdos estratégicos con empresas líderes del sector digital que nos permiten contar con la más amplia y desarrollada cartera de servicios para empresas. Entre los socios se encuentran Google, Microsoft Advertising, 11870.com y PAN.
+QDQ media es una compañía de márketing online y desarrollo software, con central en Madrid y sedes en Barcelona, Zaragoza y Oviedo.
+Creamos productos SaaS con el objetivo de ayudar a PYMEs a optimizar su presencia y visibilidad en Internet. Cerramos la brecha entre las más sofisticadas tecnologías en publicidad online y los pequeños negocios que desean dar un paso más allá para promocionarse online.
+QDQ media pertenece a Solocal Group, una compañía internacional presente en 4 países, con más de 4000 empleados y unos ingresos en su área online superiores a los 500 millones de euros.
+El ambiente de trabajo es estimulante. Empleamos las últimas tecnologías e invertimos tiempo en encontrar soluciones elegantes, robustas y escalables. Estimulamos la innovación, participación en proyectos de software libre, experimentación y el deseo de aprender. Basamos gran parte de nuestra arquitectura en microservicios, y empleamos tecnologías como Python, Node.js, Typescript, RabbitMQ, Riak y Docker.
+Buscamos un ingeniero backend para formar parte de nuestro creciente equipo de desarrollo en Asturias. Las aptitudes deseables incluyen:
+Conocimiento de un lenguaje de programación moderno. Nosotros usamos Python, Javascript, y algunos más.
+Familiaridad con frameworks de desarrollo web (Django, Ruby on Rails o algún otro)
+Preferiblemente con conocimientos en Javascript de lado cliente y/o servidor.
+BBDD, Postgres, MySQL, empleo de índices, optimización de consultas y técnicas de denormalización.
+Entornos UNIX, UNIX shell scripting y expresiones regulares.
+Sistemas de control de versiones (usamos git)
+Testing e integración continua.
+Interacción con el ecosistema open source.
+Imprescindible experiencia programando en Python
+Más sobre ti:
+Eres un contribuidor técnico reconocido en tus áreas de expertise. Tienes un fuerte sentimiento de propiedad de los productos que creas y mantienes. Te gusta emplear buenas prácticas al diseñar software, sin caer en la sobreingeniería. Te gusta crear e iterar.
+Horario de trabajo, de Lunes a Jueves 9:00h-18:00h y Viernes: 8:00h-15:00h
+Contrato indefinido.
+

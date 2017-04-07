@@ -1,0 +1,9 @@
+
+Buscamos programadores Flash (AS3), para desarrollar juegos interactivos y proyectos similares, de forma presencial. Además si eres una persona creativa, mejor que mejor.
+Conocimientos Requeridos:
+- Experiencia demostrable en programación Flash ActionScript 3
+- Programación orientada a objetos
+Conocimientos Deseados:
+- Librerias  para Flash: Flare 3D, Box2D,etc..
+- Maquetación HTML, CSS, jQuery…
+- Conocimientos PHP, MySQL .

@@ -1,0 +1,17 @@
+
+Estamos buscando un ingeniero front end con inquietudes en las nuevas tecnologías, que nos aporte nuevos conocimientos y que tenga ganas de aprender junto a un equipo creativo.
+La vacante es para nuestra oficina central en Valencia. Imprescindible comunicación fluida (oral y escrito) de inglés. 
+Conocimientos avanzados
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- Javascript (necesariamente jQuery y si es posible AngularJS)
+- Desarrollo de app nativa con Objetive-C o Swift (iOS) y Javascript (Android)
+- Estructuración y desarrollo de plugins y add-ons para Wordpress y Woocommerce
+Conocimientos Medios
+- Sistemas operativos Unix
+- Operaciones básicas con servidores (conexiones, administrar ficheros…)
+- Archivos de diseño y diseñadores, para mantener el trabajo en equipo
+VALORACIÓN EXTRA
+- Programación basada Canvas / WebGL (enfocada para plasmar diseños actuales a web o app)

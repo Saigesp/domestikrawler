@@ -1,0 +1,30 @@
+
+En Bigseo buscamos a un/a programador backend PHP -Wordpress.
+Ahora mismo tenemos más trabajo del que podemos procesar y las previsiones para el 2016 son muy positivas, por lo que queremos incorporar a nuestro equipo un compañero/a más.
+Queremos a alguien apasionado de su trabajo, que tenga conocimientos de:
+Backend: 
+-PHP 
+-Wordpress Theme Development from scratch 
+-MySQL Avanzado 
+-Composer ( Conocimientos de Librerias PHP y API'S) 
+-Framework MVC (Symfony, Laravel, Zend...) 
+-Arquitectura de servidores web (Apache, Nginx) 
+-Reescrituras de URL avanzado 
+También se valorará: 
+-Conocimiento alto de inglés, hablado y escrito
+-HTML5 (Conocimientos de los estándares) 
+-CSS3 ( Utilización de Frameworks como Bootstrap) 
+-Entornos de desarrollo virtual (Vagrant) 
+-Git 
+-SCSS 
+-Creación de Scripts 
+-Administración de servidores
+El perfil debe ser una persona altamente resolutiva y proactiva, que no pierda el tiempo en minucias y vaya directo a la raíz de los problemas. Que ejecute, solucione y pase a la siguiente tarea.
+En nuestra empresa no hay límite, podrás crecer profesionalmente tanto como tu ambición y capacidades lo dicten.
+Ofrecemos:
+- Flexibilidad horaria y organizativa. 
+- Una oficina y equipo como pocos, con el aire lleno de energía. 
+- Gestionar clientes internacionales y proyectos de primer nivel.
+Somos una expresa joven en crecimiento constante, nuestras oficinas están ubicadas en una nave industrial en Barcelona: http://bigseo.es/wp-content/uploads/2015/12/ofis-bigseo.jpg ¡y tenemos una recreativa!
+Contamos con clientes nacionales e internacionales líderes en su sector, y buscamos personas con talento.
+Tipo de Puesto: Jornada completa

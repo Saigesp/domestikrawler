@@ -1,0 +1,21 @@
+
+We are looking for a PHP Software Architect, a very talented and skilled profile using back-end technologies to join our Software Architecture team. This candidate will be responsible for creating reusable, scalable and maintainable software architecture in our company, using PHP and related frameworks and other advanced back-end technologies in order to guarantee performance, code quality and maintainability of our platform.
+This role must have a solid back-end technology background, using PHP as a main language and using MySQL relational databases. Previous experience in high traffic websites is required for applying to this position.
+This candidate must be used to work with new web technologies and within an agile development environment.
+Background and skills:
+•	University degree in Computer Science or a related field
+•	Proficient in English language
+•	6 years on experience in PHP Development
+•	5 years on experience in MySQL development
+•	3 years on experience in Software Architecture role
+•	Previous experience working in high traffic websites
+•	Strong knowledge using PHP Frameworks such as Symfony and Zend Framework
+•	API development, webservices, REST
+•	Caché management: Redis, Memcached
+•	Performance: techniques and tools to optimize high traffic websites
+•	ElasticSearch knowledge will be a plus
+•	Experience working with Subversion or GIT environments
+•	Proactive and dynamic person, motivated to grow within technology team
+•	Person who bring new ideas and proposals to our team
+•	Motivated on using up-to-date technologies
+

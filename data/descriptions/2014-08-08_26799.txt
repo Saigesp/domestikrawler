@@ -1,0 +1,4 @@
+
+Busco maquetador web con experiencia en maquetación HTML5 enfocada a websites responsive.
+No se requiere una gran experiencia pero si iniciativa y ganas de aprender.
+Se valorarán conocimientos de GIT, Bootstrap y LESS/SASS.

@@ -1,0 +1,4 @@
+
+Implementación de Ajax y jquery para proyecto web.
+se requiere conocimientos de Wordpress como CMS.
+

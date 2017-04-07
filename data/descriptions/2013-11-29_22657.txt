@@ -1,0 +1,7 @@
+
+Buscamos programador en Java para para el desarrollo y mantenimiento de apliaciones Web.
+Conocimientos necesarios:
+* Java J2EE.
+* Struts, Spring e Hibernate
+* MySQL
+

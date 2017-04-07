@@ -1,0 +1,24 @@
+
+Descripción de la oferta:	
+Gran empresa del sector industrial, con proyección internacional y proyectos de continua expansión y crecimiento, selecciona un/a Consulltor/a Sap PP  para su Dpto. de IT-Desarrollo.
+En dependencia de IT-SAP Development realizará las siguientes 
+Funciones:
+•	Análisis funcional y parametrización del sistema.
+•	Toma de requerimientos de usuarios para transformarlos en soluciones.
+•	Elaboración de diseños técnicos y funcionales en el área Industrial (maestro de materiales, compras, aprovisionamiento, producción, etc).
+•	Resolución de incidencias y atención al usuario.
+•	Formación a usuarios finales.
+
+Requisitos Mínimos:	
+•	Conocimientos sobre los módulos logísticos de SAP, especialmente PP (Planificación de la Producción).
+•	Buen nivel de inglés hablado y escrito.
+•	Capacidad real de trabajo en equipo en proyectos multidisciplinares.
+•	Conocimientos técnicos (debugging)
+•	Experiencia en puesto similar 3-5 años.
+•	Formación Universitaria (preferiblemente en Ingeniería Informática).
+Se valorará:	
+•	Experiencia con proyectos similares de ciclo completo.
+•	Experiencia en empresa multinacional o en proyectos internacionales.
+•	Conocimientos en los módulos de MM (Materiales) o SD (Ventas).
+•	Conocimientos técnicos y de programación ABAP (IDocs, LSMW).
+

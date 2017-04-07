@@ -1,0 +1,23 @@
+
+Descripción: 
+
+Como parte del equipo de analítica, formarás parte del departamento de Data y reportarás a la persona responsable de este departamento. 
+Esta persona deberá tener un profundo conocimiento y manejo de las principales herramientas de analítica y ser capaz de manejar otras a corto plazo (DMPs, herramientas de atribución…) con el fin de diseñar e implementar soluciones y estrategias.
+
+Responsabilidades:
+
+• Diseño del plan de métrica de la analítica web.
+• Desarrollo de consultoría estratégica a través de Omniture y otras herramientas de analítica, desarrollando estrategias de medición para microsites y landings, optimización del sitio web y consumos.
+• Desarrollo de cuadros de mando.
+• Contacto con el cliente para asesorarle en temas de métrica y data.
+• Dar soporte interno en temas de data y ayudar a la implementación de una herramienta de analítica propia.
+Requisitos indispensables:
+
+• Experiencia en consultoría.
+• Capacidad de gestión de equipos.
+• Dominio de herramientas de analítica: Saas, SPSS, “R” o Python.
+• Capacidad de desarrollo de estrategias.
+• Conocimientos de marketing digital.
+• Experiencia en modelos predictivos.
+• Reporting, Qlikview, Tableau.
+

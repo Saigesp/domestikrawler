@@ -1,0 +1,25 @@
+
+Buscamos Desarrollador especializado en Drupal con conocimientos y experiencia en la capa frontend para desarrollar diferentes sites implementando plantillas.
+
+* Nivel alto en Drupal 7 y su pool de módulos 
+* Dominio de lenguajes PHP / MySQL 
+* Desarrollo de Custom Features 
+* Capacidades de configuración, securización, medida y optimización de entornos. 
+* Diseño de Arquitectura de un sistema basado en Drupal. 
+* Experiencia en capa frontend: HTML5 / CSS3 / JS 
+* Experiencia mínima de 3 años
+Se valorará
+* Desarrollos Drupal y conocimientos de Symfony 2
+* Experiencia en entornos Wordpress
+* Trabajo con librerías UI (Bootstrap/IONIC). 
+* Técnicas de desarrollo web accesible, seofriendly y responsive design.
+* Experiencia trabajando con API´S para redes sociales, google, etc.
+* Persona creativa y resolutiva, con capacidad de trabajar en equipo. 
+* Experiencia mínima en proyectos similares.
+* Experiencia trabajando con API´S para redes sociales, google, etc.
+Ofrecemos
+* Trabajar en un entorno joven, con personas dinámicas y en constante crecimiento, siempre dispuestas a aprender y a echar una mano. 
+* Salario negociable según experiencia
+El trabajo es presencial/semipresencial en Barcelona. Incorporación inmediata.
+Contamos contigo
+

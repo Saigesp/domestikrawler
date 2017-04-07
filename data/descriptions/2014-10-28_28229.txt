@@ -1,0 +1,8 @@
+
+Necesitamos personas para realizar un proyecto Web y móvil.
+Se trata de un proyecto de ofertas y demandas, con registro de usuarios y geolocalización.
+El desarrollo tendrá un sistema de mensajería interna entre los usuarios.
+El proyecto se divide en tres partes:
+- Desarrollo Web
+- App para iOS
+- App para Android

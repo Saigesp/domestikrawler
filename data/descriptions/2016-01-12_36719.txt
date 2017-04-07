@@ -1,0 +1,20 @@
+
+Soamee
+¿Qué hacemos?
+Somos una pequeña agencia de desarrollo web y móvil en la que creemos fuertemente en el trabajo bien hecho y en la filosofía Open Source.
+¿Qué buscamos?
+Estamos creciendo mucho últimamente y para los próximos meses esperamos más carga de trabajo. Por esto mismo, estamos buscando un desarrollador frontend Freelance como refuerzo para los proyectos que nos van llegando. Ahora mismo no tenemos ningún proyecto en concreto, pero esperamos necesitar una persona con la que colaborar continuamente (con posibilidad de en un futuro incorporarlo en plantilla).
+En concreto, buscamos una persona con las siguientes características:
+- Activa
+- HTML5 y CSS3
+- SASS/LESS
+- Conocimiento de algún framework de front (react, angular o backbone)
+- Node.js
+- Conocimientos responsive
+- Testing con Mocha, Jasmine o alguno similar
+- Que al menos te suenen las herramientas: Webpack, Grunt, gulp, etc...
+- Git
+- Metodologías ágiles
+No solo queremos que colabore en un proyecto concreto, sino que nos vaya acompañando en nuestro crecimiento, para lo que intentaremos tanto enseñarle nuestras metodologías como aprender todo lo que puedas aportar.
+Obviamente, valoraremos mucho tu perfil de github.
+Si tienes curiosidad por lo que hacemos nuestra web es www.soamee.com

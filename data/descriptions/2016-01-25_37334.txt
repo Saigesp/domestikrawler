@@ -1,0 +1,27 @@
+
+Desde The Valley Talent buscamos un Head of Technical Support & Product Development para importante plataforma de publicidad digital.
+El candidato, reportando al Managin Director, desempeñará las siguientes funciones:
+1.	Technical support:
+•	Gestionar las incidencias reportadas por los clientes identificando la solución al problema.
+•	Investigar, diagnosticar, solucionar problemas e identificar soluciones para resolver las incidencias de los clientes.
+•	Seguir los procedimientos estándar para el reporte adecuado de las cuestiones no resueltas a los equipos internos correspondientes.
+•	Colaborar en cuestiones técnicas de equipos y productos transversales referentes a las incidencias técnicas, trabajando con recursos de otros grupos cuando sea necesario para resolver los problemas de los clientes.
+•	Gestionar las comunicaciones entre los clientes y los equipos comerciales en situaciones críticas.
+•	Colaborar constantemente con los ingenieros de soporte de las diferentes áreas y tecnologías.
+•	Asegurar un adecuado seguimiento y cierre de las incidencias.
+•	Documentar los informes siguiendo las bases del vocabulario tecnológicos. 
+2.	Product Development
+•	Gestionar el portfolio de las nuevas características de los proveedores técnicos.
+•	Seguir los procedimientos estándar para el reporte adecuado de posibles mejoras y retroalimentación sobre las nuevas características de los equipos internos correspondientes.
+•	Administrar la integración a través de la API de la plataforma del proveedor con las tecnologías del cliente.
+ 
+REQUISITOS Y COMPETENCIAS PERSONALES
+•	Licenciatura en Tecnología de la Información, Informática o equivalente
+•	Conocimiento práctico con el  lenguaje de programación (Java, C ++, C #, Python)
+•	Experiencia previa de trabajo en el apoyo técnico a la empresa.
+•	Conocimiento de los sistemas Unix / Linux, utilidades y scripts.
+•	Experiencia previa con Python, JavaScript, HTML y CSS.
+•	Nivel avanzado de Inglés
+El candidato deberá demostrar capacidad para desarrollar y fomentar las relaciones de trabajo dentro de la organización. Así como el entendimiento del negocio de publicidad online y el uso de herramientas web.
+Tendrá que tener habilidad de resolución de problemas y fuerte orientación al cliente. Se valorará mucho la proactividad del candidato hacia el continuo aprendizaje de nuevas tecnologías o novedades del sector.
+

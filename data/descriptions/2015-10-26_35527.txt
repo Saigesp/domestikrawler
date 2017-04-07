@@ -1,0 +1,12 @@
+
+Buscamos un modelador 3D para entornos orientados a dispositivos móviles.
+ Características del puesto:
+- 1 año de experiencia mínima en el desarrollo de Videojuegos (Plataforma Móvil preferiblemente)
+- Experto en manejo de 3D Studio Max y Zbrush, modelado orgánico e inorgánico, alta y baja poligonización, así como retopología.
+- Solvencia mapeando UVs y elaboración de mapas de textura, optimizando la cantidad de materiales en la escena.
+- Manejo de Unity 3D a nivel de arte.
+- Seriedad y capacidad de trabajo en grupo.
+Se valorarán también los siguientes conocimientos:
+-Animación y Rig (Orgánico e Inorgánico)
+-Creación de FX particulas en Unity.
+

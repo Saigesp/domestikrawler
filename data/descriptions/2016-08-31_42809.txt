@@ -1,0 +1,19 @@
+
+Totally Communications is London-based Digital agency and Software Development Company designing and developing websites, web-based applications, workflow systems, Extranets, Intranets and mobile apps. We work with a diverse set of companies across multiple sectors including commercial, Finance, Online Betting, Charity and Government.
+Totally Communications has just set up a fantastic new office in Barcelona in the creative area of Poblenou, and are now looking for a number of talented Mid-Level and Senior PHP Developers to work from our new Barcelona office to develop alongside our teams in London – as such you need to have strong spoken English.
+This is a fantastic opportunity for enthusiastic individuals looking to work for well-established Company where you will work with a wide variety of different web-based and mobile app projects. The role is likely to involve regular trips to London if you wanted.
+We are looking for Freelancers to work with us on a long-term contract.
+You will be expected to be self-motivated, bright, hard-working, an excellent communicator and a dedicated team player. 
+Ideal candidates will have:
+•	Excellent written and spoken English – This is essential.
+•	3 years’ minimum experience as programmer
+•	Excellent OO PHP and experience with Zend Framework 2 or other PHP frameworks
+•	The ability to work with complex database (MySQL) solutions - understanding the role of indexing and the use of transactional programming
+•	Experience working within an Agile environment (SCRUM/XP)
+•	A Degree in Computer Science, Maths, Sciences or technically-orientated subject would be looked upon favourably 
+•	Experience with the following technologies which we use across our company:
+o	JavaScript frameworks such as jQuery, Angular, React, Sencha/ExtJs
+o	Responsive CSS using bootstrap or similar framework
+o	modular CSS using SASS or LESS
+o	GIT version control
+o	3rd party API integrations

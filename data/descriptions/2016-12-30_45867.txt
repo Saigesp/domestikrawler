@@ -1,0 +1,13 @@
+
+Buscamos 1 técnico de Sistemas Junior, apasionado por el mundo de la programación web y de los servidores, y con ganas de aprender.
+Imprescindible tener conocimientos de: 
+-	Joomla 
+-	Prestashop 
+-	Wordpress 
+-	Dominio de lenguajes de programación
+Las tareas del Servicio Helpdesk que desarrollarás en Consulweb, son las siguientes: 
+- Gestionar todos los servicios que tiene el Multihost de Consulweb en el Servidor de CDMON 
+- Gestionar todas las necesidades que tengan los clientes de Consulweb, en Multihost de Consulweb en CDMON 
+- Atención vía mail y telefónica a los clientes y al equipo de Consulweb, que tengan dudas de los servicios detallados 
+- Resolver pequeñas dudas de programación web, que tengan los miembros de Consulweb 
+- Actualizaciones CMS (Wordpress, Joomla, Prestashop, etc.)

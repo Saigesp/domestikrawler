@@ -1,0 +1,13 @@
+
+Estamos buscando Programadores de diferentes perfiles que quieran trabajar en proyectos de desarrollo de Aplicaciones Web para nuestros clientes.
+Requisitos deseados:
+ .NET, Visual Studio 2012, IIS y Windows Server.
+JavaScript, Node.js , AJAX (con jQuery)
+Conocimientos de bases de datos mySQL, MongoDB.
+Conocimientos de HTML5 y CSS3.
+Conocimientos de APIs de redes sociales como Twitter y Facebook.
+Nginx, Apache.
+Control de Versiones con Github.
+Testing.
+Debido a las exigencias de nuestros clientes y proyectos, los interesados en colaborar con nosotros, deberán firmar acuerdos de confidencialidad.
+Gracias.

@@ -1,0 +1,40 @@
+
+CosasDeBarcos.com está buscando un UI Designer/Developer para formar parte de nuestro equipo de producto en Sant Cugat. En nuestra oficina hay un ambiente de empresa pequeña con el respaldo de una multinacional. El equipo de producto es pequeño, experimentado y comprometido con el proyecto, trabajando con el método Agile Scrum para la mejora contínua. Se valoran las ideas e iniciativas de cada uno y hay autonomía en el desarrollo de la actividad que cada uno desempeña.
+¿Quién eres tú?
+Una persona proactiva con capacidad e iniciativa para proponer soluciones e ideas. Eres comprometido con tu trabajo y exigente con sus resultados. Trabajas con autonomía para alcanzar tus objetivos. Tienes buenas habilidades de trabajo en equipo y de comunicación. 
+Tus responsabilidades:
+Crear diseños UI intuitivos, usables y visualmente atractivos a partir de historias de usuario o wireframes
+Recoger y evaluar feedback en tests de usuario
+Desarrollar rápidamente código front-end de alta calidad
+Entregar código HTML/CSS semántico funcional en responsive web design (desktop, tablet y móvil)
+Trabajar en colaboración con los otros miembros del equipo Scrum
+Estimar correctamente el trabajo necesario para completar diseño y maquetas
+Mantener actualizada la documentación de front-end en inglés (guias de estilo, etc.)
+Requisitos imprescindibles:
+Al menos 3 años de experiencia profesional
+Experiencia demostrable en diseño UI y maquetación web con responsive web design
+Portafolio online de trabajos
+Nivel alto de programación front-end de:
+- HTML5 y CSS3
+- Saas, Compass o Less
+- Javascript (JQuery)
+- Responsive Web Design
+- Bootstrap
+Buen nivel de inglés hablado y escrito
+Dominio de herramientas de diseño profesional (Photoshop, Sketch)
+Se valorará positivamente:
+Conocimientos prácticos en materias de usabilidad y experiencia de usuario (UX)
+Conocimiento de alguna herramienta de prototipado como Balsamiq, JustInMind o Axure
+Trabajo previo con método Scrum y/o Jira
+Experiencia en front-end de ecommerce o portales de clasificados
+Experiencia en el diseño de interfaz de apps móviles (Android y/o iOS)
+Experiencia en diseño y maquetación de emails
+Oferta
+Salario acorde a la experiencia aportada por el candidato
+Seguro médico
+Contrato 6 meses+indefinido, jornada completa
+Horario flexible (incluso se puede trabajar desde casa a veces)
+Descripción de la empresa
+CosasDeBarcos.com es una compañía de Dominion Marine Media (DMM), grupo líder en la venta online de embarcaciones de recreo y propietaria de las marcas de referencia del sector: Yachtworld, boats.com, Boat Trader, CosasDeBarcos e iNautia. DMM ofrece a la industria náutica servicios web con un destacado posicionamiento online, servicios de publicidad y soluciones efectivas de marketing y software.
+Con oficinas comerciales en EEUU, Canadá, Reino Unido, Alemania, Italia y España, DMM da servicio a empresas de 106 países y publicita barcos ubicados en 143 países. Los portales del grupo generan más de 38 millones de usuarios únicos cada año. El alcance global del grupo incluye portales web en 6 idiomas.
+

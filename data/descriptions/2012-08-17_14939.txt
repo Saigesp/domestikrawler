@@ -1,0 +1,14 @@
+
+At Camaloon (Itnig) we are looking for a young engineer or student to join our team as a Ruby on Rails frontend developer.
+We are looking for a bright, intelligent and eager to learn developer. A person who loves pushing the state-of-the-art in web technology, and is willing to contribute creating revolutionary web products with us.
+We offer an intern job for about 6 months of training to fully incorporate thereafter.
+Requirements:
+- Experience designing web User Interfaces
+- Split testing experience
+- Ruby on Rails or similar Web MVC frameworks
+- Javascript
+- Version Control System (preferably git)
+- Experience using popular Javascript libraries or frameworks (jQuery)
+- HTML5 &amp; CSS 3
+At Camaloon we offer the opportunity to learn from great and experienced developers, the freedom and excitement of working in a fast-growing startup in the core of an energetic startup accelerator, @itnig. We are not just a startup but a whole ecosystem: hangouts, barbecues, conferences, events, host international developers, we even have a pingpong table.
+If you are interested in joining us, write us at work@camaloon.com.

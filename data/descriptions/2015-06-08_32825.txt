@@ -1,0 +1,22 @@
+
+En la Oveja Negra Agencia de Publicidad necesitamos incorporar en la oficina de Madrid al siguiente profesional. 
+Cuanto más friki seas mejor que mejor, así que si sabes quienes son "Mal" Reynolds, Gaius Baltar o Tyrion Lannister es que eres uno/a de los nuestros.
+Requisitos necesarios: 
+- HTML5 
+- CSS3 
+- Javascript (jQuery) 
+- Bootstrap 
+- PHP (se valorará utilización de frameworks MVC como codeigniter) 
+- MySql
+Contarán positivamente: 
+- Programación para dispositivos móviles (iOS y Android) 
+- SEO / SEM 
+- Social Media
+- Conocimientos en Back End (Ruby/Rails/Node) 
+Requisitos valorados: 
+- Conocimiento básico de usabilidad/accesibilidad Web (Standards). 
+- Capacidad creativa y estética. 
+- Organización. 
+Salario: Según valía.
+Valoraremos tanto a freelance como por cuenta ajena.
+

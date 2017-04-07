@@ -1,0 +1,31 @@
+
+Si te gustan los retos, has nacido para aprender a programar y te encanta la idea de ser parte de un proyecto con gran visibilidad y que da la vuelta al mundo que desarrollamos desde nuestra oficina; queremos que estés con nosotros para hacer estas prácticas. Buscamos personas con inquietud inifita por el sector de la transformación digital.
+En NWC10 estamos ampliando equipo y hay altas posibilidades de trabajar una vez finalizadas las prácticas. Si eres programador frontend, con buenas ideas, quieres estar en un ambiente de innovación continua y quieres poder dar luz tanto a ideas “imposibles” como combinarlo como proyectos para clientes de todo tipo de sectores que quieren mejorar mediante innovación y tecnología, queremos conocerte.
+Sobre nuestra empresa. Somos NWC10, empresa de transformación digital de sectores, desde consultoría a ejecución de los trabajos. Nuestro posicionamiento en el sector queda definido por toda la experiencia que tenemos en plataformas y proyectos que funcionan en internet desde 1997. Todo este conocimiento es la base de la consultoría y ejecución de trabajos a clientes que quieren cambiar sectores mediante tecnología e innovación. También poseemos un LAB, desde el cual potenciamos buscar ideas totalmente disruptivas, 2 de las 50 mejores ideas del 2015 premiadas por el diario Expansión tienen ADN NWC10. www.nwc10.com - www.facebook.com/nwc10 
+Buscamos personas creativas enfocadas a la innovación. 
+Tus tareas serán: 
+- Maquetación de páginas web y diseños responsive. 
+- Maquetación de templates de Wordpress. 
+- Desarrollo de scripts con JavaScript. 
+- Desarrollo de herramientas web internas. 
+- Realizar modificaciones sobre desarrollos en php y manejos de bases de datos.
+- Valoraremos conocimientos de IOS/Android.
+Requisitos mínimos: 
+- Tener disponibilidad para INCORPORACIÓN INMEDIATA. 
+- Conocimientos en desarrollo PHP y MySQL.
+- Valorado conocimientos de Asp.net.
+- Conocimientos de Bootstrap.
+- Conocimientos demostrables en HTML5, CSS3, jQuery. 
+- Capacidad para la resolución de problemas. 
+- Experiencia con CMS (Wordpress, Drupal, Prestashop, etc.). 
+- Período mínimo de prácticas 5 meses.
+¿Qué valoramos? 
+- Que te apasione la tecnología y desarrollar nuevas ideas disruptivas.
+- Conocimientos en programación backend.
+.¿Qué ofrecemos? 
+- Ambiente creativo y de innovación continua. 
+- Jornada parcial de 9h a 14h de lunes a viernes o completa de 9h a 18h. 
+- Crecimiento profesional y personal. 
+- Formación: el lugar de trabajo es una excelente oportunidad para aprender las últimas tecnologías y convertirte en un profesional del desarrollo Web. 
+- Impulsamos la evolución personal y profesional. 
+

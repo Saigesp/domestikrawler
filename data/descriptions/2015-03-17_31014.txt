@@ -1,0 +1,3 @@
+
+Desde 4EIM buscamos un Programador Java con experiencia en JSE, JSP, JSTL, HTML, bd MYSQL.
+Frameworks: Spring, Struts, Hibernate. Servidor Apache Tomcat. Nivel medio-alto de inglés. 

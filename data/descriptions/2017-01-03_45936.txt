@@ -1,0 +1,14 @@
+
+Somos un equipo joven dedicado al marketing online con base en Barcelona. Buscamos a un/a programador web freelance capaz de interpretar las necesidades del cliente y desarrollar el proyecto por sí mismo.
+IMPRESCINDIBLE experiencia demostrable en:
+Prestashop
+Magento
+PHP
+HTML 5
+CSS3
+Requisitos: 
+- Experiencia en desarrollo de aplicaciones web en PHP con bases de datos MySQL 
+- Experiencia en Maquetación web responsive HTML5 + CSS3 
+- Diseño responsive
+- Configuración pasarelas de pago
+Se valorará que sea de Barcelona, no se trata de un trabajo presencial, pero sí de reuniones y disponibilidad semanal.

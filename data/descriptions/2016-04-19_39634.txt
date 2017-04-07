@@ -1,0 +1,36 @@
+
+Una vez más salimos a la busca de un compañero para el equipo de desarrollo. Buscamos alguién con mucho nivel en PHP y con unos conocimientos de HTML, CSS, JS sólidos.
+Nos gustaría que fuera alguien que nos aporte conocimiento, energía y que busque, más que un trabajo, un proyecto en el que involucrarse. Tratamos de seguir buenas prácticas, mantenernos al día mediante debates y presentaciones internas, entre el equipo, y externas, asistiendo a eventos y charlas.
+Trabaja en un único producto en el que podrás aplicar todo tu conocimiento, seguir evolucionando gracias a los retos que plantea cada nueva funcionalidad, con la libertad de poder participar en la toma de decisiones. Buscamos ser muy exigentes en cuanto a cómo hacemos las cosas y mantener un nivel muy alto de calidad, por lo que nos gustaría una persona que se marque también estos objetivos.
+Responsabilidades:
+Desarrollar nuevas funcionalidades y mejorar las existentes 
+Escribir código fácilmente mantenible y escalable 
+Desarrollar íntegramente las soluciones 
+Colaborar con otros desarrolladores y personal de sistemas 
+Apoyo a I+D+I con propuestas personales
+Requisitos mínimos, amplia experiencia en:
+Arquitectura y desarrollo de software 
+Entorno Unix + Nginx + MySQL 
+Javascript y jQuery, HTML5, CSS3 
+Control de versiones GIT 
+Twig (o sistema de plantillas similar) 
+Técnicas de testing unitarias y funcionales
+Imprescindible aptitudes para:
+Análisis estructurado 
+Gestión de proyectos 
+Trabajo en equipo 
+Resolución de problemas
+Valoraremos muy positivamente conocimientos en:
+Symfony, Silex u otros frameworks 
+Metodologías ágiles 
+Programación de web apps móviles con Angular u otros frameworks. 
+DDD 
+Experiencia en apps B2B 
+Actitud competitiva jugando al ping pong ;)
+Lo que te ofrecemos:
+Contrato fijo 
+37.000€ brutos anuales 
+Horario flexible 
+Incorporación inmediata 
+Equipo joven y muy buen ambiente 
+Aunque el horario es flexible, es imprescindible trabajo presencial, sobre todo en los primeros meses.

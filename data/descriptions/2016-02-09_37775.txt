@@ -1,0 +1,24 @@
+
+Desde Iwantic, seleccionamos Analista QA Testing para una de las empresas de alimentación más importantes a nivel europeo. El puesto está situado en Madrid. 
+Entre las funciones a realizar destacan: 
+Definición de la metodología y herramientas adecuadas para realizar el Testing y QA de los desarrollos digitales.
+Parametrizaciónd e las pruebas unitarias, de integración, de cobertura de código y de estres.
+Ejecución de las pruebas y diferentes test definidos en el plan.
+Coordinación de dichas pruebas.
+Detección y tipificación de errores.
+Reporting de las pruebas.
+Requisitos y experiencia:
+Ingeniero en informática y telecomunicaciones (Preferiblemente)
+Definición de planes de puebas (unitarias, de integración, de cobertura, de regresión y de estress)
+Experiencia en análisis de resultados de pruebas.
+Experiencia en el manejo de herramientas y scripts de automatización.
+Experiencia en Apps y desarrollos web.
+Experiencia en testing en entornos Java, Unix, Apache/nGix, Jboss, Tomcat, Oracle, MySql.
+Experiencia en testing de aplicaciones web (multibrowser) y en aplicaciones móviles nativas (IOS, Android)
+Experto en metodolgía de Testing y QA en proyectos de desarrollo de aplicaciones.
+Experto en herramientas de test y automatización de pruebas (TestLink, Testitool, Jmeter, Loadimpact, Webstress tool, Agileload, Selenium...)
+Conocedor de servicios y plataformas en Cloud orientadas a pruebas de estress.
+Integrador de pruebas en las fases de desarrollo en proyectos gestionados en metodologías AGILES.
+Valorable estar certificado en ISTQB.
+Salario según valía.
+

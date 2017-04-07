@@ -1,0 +1,12 @@
+
+Importante empresa de comunicación a nivel nacional busca un perfil para incorporar al equipo de diseño:
+Requisitos:
+- Experiencia previa en diseño web (3 - 5 años).
+- Experiencia en usabilidad y arquitectura de la información.
+- HTML 5 y  CSS3 
+- Responsive design
+- Obsesión por el detalle y el pixel.
+- Validaciones para distintos dispositivos y navegadores (tablet, smathphone, internet explorer…)
+- JQuery u otros frameworks Javascript
+- Accesibilidad
+Enviar portfolio  / trabajos / ejemplos

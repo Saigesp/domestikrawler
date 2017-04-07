@@ -1,0 +1,7 @@
+
+Estamos buscando un maquetador para trabajar de manera presencial en nuestra oficina.
+El planteamiento inicial es de media jornada con posibilidad de ampliación de horas, ideal para un freelance.
+Requisitos mínimos:
+HTML5, jQuery, CSS3, Responsive
+Conocimientos deseados:
+Programación orientada a objetos (PHP, Python)

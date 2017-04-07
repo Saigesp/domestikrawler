@@ -1,0 +1,14 @@
+
+Buscamos programador para incorporarse a nuestro Dept. de Producción  para el desarrollo web y campañas on-line. Imprescindible presentar CV y trabajos realizados recientemente.
+Indispensable:
+- Capacidad de aprendizaje y de trabajo en equipo.
+- Conocimientos de HTML,HTML5
+- Conocimientos de CSS,CSS3
+- Conocimientos de Javascript
+- Conocimientos de jQuery
+- Conocimientos de accesibilidad y estándares W3C
+Se valorará:
+- Conocimientos de la aplicación Flash
+- Animación en Flash
+- Actionscript 2.0 / 3.0
+

@@ -1,0 +1,15 @@
+
+Necesitamos una persona para media jornada que compagine el desarrollo de una startup desarrollada en este lenguaje con trabajos para clientes:
+- Django 
+- Estar familiarizado con importación y sincronización de CSV, XML de proveedores
+A su vez tiene que ser capaz de desarrollar tiendas online en Prestashop y corporativas con Wordpress, por lo tanto es imprescindible experiencia en estos ámbitos 
+- PHP 
+- Frontend 
+- Javascript 
+- Bases de Datos (MySQL) 
+- Diseño 
+- Usabilidad
+-Optimización Onpage
+- Migraciones de webs de un hosting a otro.
+Aunque no es requisito imprescindible el diseño gráfico se valorará muy positivamente ser capaz de desarrollar una web entera sin necesidad de acudir a una tercera persona para el diseño.
+Imprescindible portafolio.

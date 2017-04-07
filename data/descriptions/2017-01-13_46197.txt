@@ -1,0 +1,27 @@
+
+Resumen
+Fundada en septiembre de 2009, LetsBonus es un referente de innovación en el sector del comercio electrónico de nuestro país. Pionera en Europa y líder en España, la compañía se ha convertido en uno de los más completos marketplaces de planes de ocio y experiencias de nuestro país.
+
+Estamos buscando un iOS Developer con experiencia para incorporarse a un nuevo equipo dentro de la compañía.
+
+Con más de 6 años de trayectoria y experiencia en el sector, estamos ideando e impulsando un nuevo subproducto que necesita crear una nueva aplicación nativa para iOS, desde cero. Es una oportunidad para empezar el nuevo proyecto iOS y liderarlo a nivel tecnológico contando con el soporte de todo el equipo de producto, diseño y usabilidad, con el que estaría en contacto en el día a día.
+Ofrecemos:
+
+Contrato indefinido
+Salario competitivo
+Oficina en Barcelona centro
+Capacidad de crecimiento personal dentro de la compañía
+Capacidad de iniciar un nuevo proyecto con un volumen alto de usuarios ya activos en la plataforma web
+Requisitos:
+Ingeniero informático o conocimientos equivalentes
+Experiencia mínima de 2-3 años en ObjectiveC
+Experiencia demostrable en el desarrollo Swift
+Experiencia con integración de servicios REST
+Amante de buen código y buenas prácticas
+Capacidad de trabajo en equipo
+Aspectos que se valorarán:
+Control de versiones git
+Test unitarios
+Conocimientos de UI guidelines
+Capacidad de innovación y de aplicación de nuevas tendencias
+Experiencia en metodologías ágiles

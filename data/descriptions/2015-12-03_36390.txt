@@ -1,0 +1,12 @@
+
+En 4Crew estamos buscando un desarrollador Full Stack (más orientado a cliente que a servidor) con buen nivel de Español e Inglés.
+Sobretodo trabajamos con las siguientes tecnologías:
+- Mobile Javascript Frameworks: Ionic + AngularJS
+- Bases de Datos
+- Rest APIs
+- Conocimientos MVC y OOP
+- PHP, valorable web Frameworks como CodeIgniter y Symfony 2
+- Experiencia en control de versiones GIT
+- HTML5 + CSS3
+Queremos que el equipo crezca con personas que disfruten con las nuevas tecnologías y desarrollando, para construir juntos nuevos proyectos.
+¡ No dudes en llamar o escribir para contactar con nosotros !

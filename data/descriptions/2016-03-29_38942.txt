@@ -1,0 +1,10 @@
+
+Para nuestro equipo de UX y FrontEnd, en ICA buscamos a un/a FRONTEND DEVELOPER con ganas de asumir nuevos retos profesionales.
+Buscamos a una persona con ganas de aprender y experimentar nuevas metodologías, tecnologías y herramientas. El equipo interno le acompañará en este crecimiento.
+El equipo es multidisciplinar y trabaja con las últimas tecnologías y con metodología ágil para ofrecer la mejor experiencia al usuario final de proyectos digitales de medianas y grandes cuentas.
+Se trata de una posición con posibilidades de crecimiento, en un equipo joven, pues la compañía y especialmente este departamento está en una importante fase de crecimiento y abierto a nuevas ideas.
+Requisitos mínimos
+- Experiencia mínima de 1/2 años realizando funciones de FrontEnd.
+- Experiencia en JavaScript y jQuery (nivel avanzado).
+- Experiencia en Responsive Web Design.
+- Experiencia en HTML5, CSS3, Ajax, SASS/LESS y Control de Versiones.

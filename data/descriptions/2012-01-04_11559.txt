@@ -1,0 +1,12 @@
+
+Se precisa administrador de sistema con experiencia en las siguientes tecnologías:
+- S.O Windows Server 2003/2008
+- S.O Linux (Centos, Suse, Ubuntu Server)
+- Entornos de virtualización ESXi
+- Servidores Web (IIS, Apache)
+- Servidores de correo
+- Servidores DNS (Bind)
+- Paneles de control Plesk
+- Gestión de copias de seguridad
+- Gestión de dominios
+- Resolución de incidencias (mail / telefónica)

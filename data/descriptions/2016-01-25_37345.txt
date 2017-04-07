@@ -1,0 +1,14 @@
+
+Hola! five is blue es un estudio creativo en Barcelona.
+Estamos buscando programador de front-end para formar parte de nuestro equipo, con experiencia demostrable de CSS3, JQUERY, JSON, HTML 5, Responsive, Web mobile, etc… 
+Buscamos una persona capaz de crear páginas responsive, gente que le entusiasme trabajar en este sector, profesionales y responsables con su trabajo ya que trabajamos con clientes importantes, aunque qué cliente no lo es ;)
+El trabajo es presencial en nuestras oficinas de lunes a viernes.
+Conocimientos en: 
+- HTML5 
+- CSS3 
+- Javascript 
+- Jquery
+- Php 
+- Mysql 
+- JSON
+- Photoshop

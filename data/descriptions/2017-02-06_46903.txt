@@ -1,0 +1,16 @@
+
+Buscamos de un programador JS y maquetador HTML/CSS (experiencia mínima 3 años) especializado en front-end para desarrollar la interfaz de una aplicación web de tipo panel de gestión basada en una API REST. Necesitamos a alguien con disponibilidad inmediata y a jornada completa ubicado en Barcelona para trabajar en las oficinas del cliente. 
+La duración del proyecto es hasta Junio.
+Buscamos que tenga altos conocimientos de:
+- Maquetación HTML y CSS compatible con múltiples navegadores y responsive bajo el framework Bootstrap.
+- Estructuración ordenada de hojas de estilo SASS/LESS que permita la escalabilidad y mantenibilidad del proyecto a largo plazo (metodología OOCSS, BEM...).
+- JavaScript para desarrollo de interacción de interfaz.
+- Soltura con Git como sistema de control de versiones.
+Se tendrá muy en cuenta:
+- Conocimientos y experiencia demostrable a nivel front-end con frameworks y librerías como: Angular, React, NodeJS, etc.
+- Experiencia en proyectos similares: intranets, dashboards, visualización de datos, etc.
+Te ofrecemos: 
+- Un ambiente de trabajo excelente, competente y de primer nivel profesional. 
+- Un sueldo competitivo dentro del sector. 
+- Posibilidad de incorporación en plantilla una vez finalizado el proyecto.
+

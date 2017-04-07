@@ -1,0 +1,10 @@
+
+Somos una empresa de diseño y desarrollo de soluciones web y móvil. Como Business Partner de IBM trabajamos con las tecnologías más avanzadas para dotar nuestras soluciones de inteligencia propia y así ayudar a las empresas en el análisis y toma de decisiones de negocio.
+Estamos buscando un programador web para incorporarlo a nuestro equipo de programación.
+Requisitos mínimos:
+
+- 2 años de experiencia en desarrollo web en PHP y MySQL
+- Experiencia en el desarrollo con AJAX, CSS y JQuery
+Requisitos deseados:
+- Experiencia en desarrollo con Frameworks MVC 
+

@@ -1,0 +1,9 @@
+
+Agencia On-line desea incorporar a su plantilla un Analista Programador formado y con experiencia en tecnologías Microsoft.
+Formará parte del equipo de profesionales de la compañía desarrollando labores en la capa front o en la capa back dependiendo del perfil. Buscamos a una profesional con experiencia mínima de 2 años en asp.net.
+Requisitos:
+Experiencia mínima: De 2 a 3 años
+Experiencia en desarrollo avanzado de aplicaciones web y web services con aps.net. acceso a datos MSSQL
+Conocimiento de Ingeniería de software necesarios para la comprensión de los análisis funcionales
+ASP.NET, MVC, XML, XSL, MSSQL, Json, Jquery.
+

@@ -1,0 +1,28 @@
+
+The Position
+The Technical Support Manager is the high-level help provided to the customers. He will report directly to the management of the company.
+He/She has good technical knowledge and problem solving aptitude in order to handle a technical support manager job. The job requires the technical support manager to get the problems sorted out within the given deadlines.
+In order to accomplish these objectives, he might need to train people about each and every aspect of technical troubleshooting. He also needs to find out the preferences of the team and assign specific problems to the respective team members. He should also have good communication skills to help the employees and also the customers understand a specific problem.
+Profile
+You have a good understanding of the Web and the Online advertising activities. You work independently and have excellent interpersonal and communications skills. You are organized and proficient.
+Responsibilities
+- Participate to the the  network content moderation &amp; ensure that it is done according to standards
+- Improve productivity by higlighting deficiencies and recommending change in tools, training, processes and reporting
+- Multichannel diagnostics and troubleshooting
+- Follow up with unsatisfied customers to ensure issues are resolved and the customers are satisfied
+- Report operational achievements and progress to the management on a regular basis
+- Prevent the network to be abused by malicious programs
+- Detect fraudsters
+- Deliver consistently high levels of customer service
+- Ensure appropriate process standards are met and maintained
+Requirements
+- Minimum of 3 years experience in a web technical position (webmaster, developer, technical manager, …) and/or support.
+- Prior experience resolving technical issues.
+- Fluent English (French/Spanish is a plus).
+- Strong written and oral communication skills, including ability to make presentations to management.
+- Proficiency with Microsoft Office products.
+- Proficiency with web applications (browsers, Instant Message, software).
+- Good technical knowledge (HTML, JS, iFrame, PHP, Proxy, ...)
+- Good security knowledge (XSS, ...)
+- Ability to manage efficiently simultaneously several support tasks.
+- Ability to deal with frustrated customers. 

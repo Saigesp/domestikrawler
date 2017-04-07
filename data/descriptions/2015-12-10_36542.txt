@@ -1,0 +1,20 @@
+
+Agencia de marketing promocional precisa de un programador web senior.
+En TPH Marketing somos una agencia que valoramos en gran medida la implicación de los compañeros. Si eres una persona dinámica, que aprecia que valoren tu opinión y eres proactivo en esta agencia tienes tu futuro asegurado.
+La función que deberá desempeñar es la de maquetar y programar web promocionales, para las marcas más importantes del mercado Español e internacional. Trabajará muy estrechamente con el departamento de diseño.
+Es imprescindible que tengas conocimientos muy amplios en:
+- Javascript/jquery,
+- HTML5
+- CSS3
+- PHP y SQL
+- Administración de servidores, Plesk, Cpanel.
+- Amplio conocimiento en Drupal y Symfony
+Se valorarán conocimientos en tratamiento de BBDD, y CRM.
+Requisitos mínimos
+*Programación en:
+HTML / PHP 5 / CSS3 / MySQL / Javascript / JQuery / AJAX
+Se valorará muy positivamente conocimientos de: Drupal 7 y Symfony
+Experiencia mínima 2 años
+Estudios mínimos
+Formación Profesional Grado Superior – Informática
+

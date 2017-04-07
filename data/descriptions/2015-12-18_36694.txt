@@ -1,0 +1,31 @@
+
+Buscamos un desarrollador de software con conocimientos avanzados en desarrollo de aplicaciones iOS. Que tenga espíritu emprendedor y quiera formar parte de los inicios de una empresa que relaciona tecnología y deporte.
+- Conocimientos requeridos:
+Service Oriented Architecture 
+Test Driven Development 
+Dependency Injection 
+Model View Controller 
+Realm mobile database. 
+REST 
+Swift 
+BrainTree 
+Symfony 2 
+Amazon Web Services 
+UML
+Se valorará positivamente el hábito de trabajo con Scrum.
+- Tareas a realizar: 
+Formar parte de un equipo para finalizar el desarrollo de la aplicación iOS. Principalmente ésta deberá comunicarse con nuestro back-end y soportar métodos de pago mediante BrainTree. También es necesario poder hacer log-in con Facebook, Twitter y Google+.
+No se requieren conocimientos de diseño gráfico, ya disponemos de un diseño de alta fidelidad de toda la aplicación. Sin embargo sí se requiere capacidad para implementar el diseño de manera precisa.
+El desarrollo del back-end no entra dentro de las responsabilidades del puesto.
+- Especificaciones del perfil: 
+Graduado en Ingeniería Informática o en Ingeniería del Software. 
+Facilidad para trabajar en equipo, y ser constructivamente crítico.
+Ser discreto y capaz de no revelar parte total o parcial del desarrollo tecnológico de la compañía. (NDA) 
+Mínimo media jornada (horario flexible).
+- Recompensas: 
+Sueldo siempre acorde con las responsabilidades que se adquieran en el crecimiento de la compañía. 
+Bonificaciones trimestrales por los objetivos conseguidos por la empresa.
+- Ubicación: 
+El aspirante debe desplazarse hasta el lugar de trabajo: Facultat d’Economia de la Universitat de Barcelona (Avenida Diagonal 696; Barcelona – espacio CoWorking).
+- Sobre Fanious: 
+Fanious es una aplicación para terminales móviles que venderá entradas para eventos deportivos. En la fase de entrevista personal estaremos encantados de comentar los pormenores del proyecto.

@@ -1,0 +1,7 @@
+
+En BINOCEAN estamos seleccionando un programador web que colabore en los nuevos retos que tenemos para este año.
+Para ello, el candidato debe tener conocimientos demostrables de programación en PHP5, MySql, jQuery.
+Experiencia con CMS's libres: WordPress, Drupal o Joomla, 
+Se valorará positivamente experiencia en frameworks de desarrollo agil como Symfony.
+La forma de trabajo sería en remoto con reuniones de seguimiento periódicas en nuestra oficina.
+Si estás interesado envíanos un email con tu cv

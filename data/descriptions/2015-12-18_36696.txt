@@ -1,0 +1,22 @@
+
+We are looking for a PHP Developer based in Barcelona, interested in developing frontend and backend applications in Artificial Intelligence environment, related with natural languaje processing. We are looking for someone who wants to join in a rapidly growing company with a young, dynamic and talented people.
+You’ll be part of our team, working hard with our great clients and have a major hand in building very successful features for Inbenta. We always work on interesting projects and we have a good time doing it. We usually work in a team, and this allow us to learn every day from others co-workers.
+We are looking for a candidate who likes speak to clients, take requirements to improve the platform, and give some advise about how to improve their ideas, and how to be more effective. The selected person should be open minded, and he/she should feel confortable dealing with people, and give them training about how to use the platform.
+Additionally, the position requires someone able to analyze inbenta’s platform and client’s needs and think about how to mix it, in a right and friendly way. After that, you will develop all the specific applications: mostly of the time with PHP, Javascript, and Ajax.
+If you would like to feel like yours the projects you are working on, and if you are interested in developing your career, we would like to hear from you!
+Requirements:
+
+- 1+ year of software development experience in PHP and AJAX.
+- Demonstrable knowledge of web technologies including PHP, HTML, XML, CSS, JavaScript, SQL
+- Good knowledge of JQuery, Mootools or Prototype
+- Languages: Spanish and Catalan native, English fluent (at least First Certificate Level)
+- BS/MS degree in Computer Science, Engineering or a related subject (Telecommunications, Mathematics, Physics).
+- Passion for best design and coding practices and a desire to develop new bold ideas.
+What do we offer?
+- A full-time position based in Barcelona’s center.
+- At Inbenta we value initiative, creativity, imagination and responsibility. We reward it with fast internal promotions.
+- Full training and continuous learning.
+- Developers will work coordinated with our COO in Barcelona and our CTO in Silicon Valley
+- Thrives in a fast paced environment. Enjoy multilingual, multicultural environments, due to worldwide inbenta's clients.
+- Enjoy working and adding value to a multi skilled team to software architects, computational linguists, and user experience specialists.
+- Good work life balance, flexible schedule.

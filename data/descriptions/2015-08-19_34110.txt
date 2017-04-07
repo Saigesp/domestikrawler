@@ -1,0 +1,24 @@
+
+- Ingeniero técnico/superior en Informática/Telecomunicaciones
+- Inglés nivel medio/alto
+Conocimientos mínimos a nivel Experto:
+- Objective-c 			
+- XCODE 			
+- Mac OS X
+- Webservices SOAP/REST
+- XML/JSON
+- iTunnes Connect 			
+- Apple Developer Tools
+- Apple Store (gestión y publicación)
+- Patrones de diseño 			
+- Programación Orientada a Objetos	
+- Control de versiones GIT 		
+- Guías de estilo y usabilidad Apple
+- Frameworks nativos				:
+    * 	CoreLocation
+    * 	CoreAnimation
+    * 	CoreData
+    * 	MapKit
+    * 	Social
+    * 	CoreGraphics
+    * 	AFNetworking

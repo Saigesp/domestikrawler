@@ -1,0 +1,27 @@
+
+Buscamos un desarrollador front-end con mucha experiencia en desarrollo HTML+CSS y sólidos conocimientos de Javascript. Que sepa que el presente pasa irremediablemente por HTML5 y CSS3, ya haya trabajado con ellos y domine las técnicas de Responsive web design.
+Queremos un apasionado de internet que entienda la importancia del trabajo en equipo, que tenga pasión por cuidar los detalles de la interfaz y la experiencia de usuario.
+Debe tener una experiencia mínima de al menos 3 años y cumplir los siguientes requisitos:
+Experto en maquetación HTML+CSS (y uso de HTML5 y CSS3).
+Desarrollo con código limpio, semántico y reutilizable.
+Sólidos conocimientos de Javascript, jQuery y desarrollo de plugins.
+Familiarización con las APIs de documentos web (DOM).
+Conocimiento de técnicas Responsive web design.
+Conocimientos de accesibilidad y estándares W3C.
+Control de versiones GIT.
+Experiencia de desarrollo de web móvil.
+Bola extra
+Experiencia en integración de proyectos Drupal o Symfony.    
+Experiencia con el motor de plantillas Twig.
+Experiencia con librerías JS tales como underscorejs, requirejs, backbonejs, angularjs, etc.
+Experiencia con librerías JS de generación de gráficos como Highcharts, JSCharts, Amcharts, etc.
+
+Puesto de trabajo en Madrid centro.
+Horario flexible: Lunes a jueves 8 horas y media. Viernes 6 horas. Julio y Agosto de 8 a 15h.
+Ofrecemos:
+Trabajar en un equipo innovador, multidisciplinar y con pasión por internet.
+Participar en proyectos a nivel internacional.
+Desarrollo de carrera profesional (formación y promoción interna).
+Horario flexible y posibilidad de trabajar desde tu casa algún día.
+Tickets Restaurante para comida.
+Se valorarán muy positivamente ejemplos de trabajos realizados y proyectos en los que hayas participado. Si tienes web personal, portfolio de proyectos, blog, github, bitbucket, linkedin o lo que quieras que conozcamos, envíanoslo también.

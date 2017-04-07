@@ -1,0 +1,46 @@
+
+OFERTA DE EMPLEO
+PHP Software Engineer Laravel en Departamento de Sistemas Grupo Arelux
+Buscamos un perfil PHP Software Engineer Laravel para el desarrollo y mantenimiento de varias plataformas web del Grupo, así como para la integracion de API’s con clientes y proveedores. 
+En el departamento de sistemas de Grupo Arelux nos gusta utilizar las últimas tecnologías y realizamos nuestros desarrollos sustentados por procesos de integración y mejora continua.
+En estos momentos estamos buscando un desarrollador web full-stack al que le apasione escribir software elegante y que disfrute asumiendo nuevos retos día a día. La incorporación a la empresa, seria inmediata.
+Descripción de la oferta de empleo en la empresa:
+Las tareas a desempeñar:
+La persona que se incorpore a Grupo Arelux como “Software Engineer, Desarrollador Web – Programador” será integrada dentro del departamento de sistemas de la empresa para que pueda asumir la responsabilidad de gestionar activamente, de forma resolutiva y con la máxima eficiencia estas tareas:
+•	Desarrollar e implementar las plataformas de software.
+•	Mantenimiento y evolutivo de las plataformas web.
+•	Desarrollo de nuevos módulos del aplicativo web.
+•	Desarrollo e integración de nuevas API’s de conexión con los clientes y proveedores.
+El puesto de trabajo es presencial en las instalaciones de la empresa en horario de mañanas, pudiendo elegir de 7h-15h o de 8h-16h. El tipo de contrato será en primer lugar temporal, pasando posteriormente a indefinido.
+Requisitos necesarios:
+Experiencia:
+Se precisa que cuente con más de 2 años de experiencia laboral. Que tenga amplios conocimientos acerca de tecnologías como: PHP, Laravel, JavaScript, AngularJS, MySQL, SQLserver, .NET, Git, Wordpress, Prestashop, Magento, Responsive Web Design, WebScraping. Y habituado a trabajar con Scrum, Git.
+Ya que tanto en la selección como en el desarrollo de su trabajo deberá demostrar su experiencia contrastada en:
+•	Desarrollo PHP y Laravel.
+•	Desarrollo Backend y Frontend.
+•	Integración y desarrollo de API’s
+•	JavaScript y frameworks como AngularJS, Polymer, etc.
+Se valorará positivamente:
+•	Conocimientos de .NET, y SQL Server
+•	Conocimientos de CMS’s (Magento, Prestashop, Wordpress)
+•	Integración de pasarelas de pago en Ecommerce
+•	Conocimientos de Web Scraping
+Idiomas: 
+Se valorará muy positivamente que cuente con un nivel alto de inglés. No hace falta certificación pero se le hará una prueba de nivel. Otros idiomas serán también valorados positivamente. 
+Vehículo propio:
+Las tareas a desempeñar tendrán lugar en las instalaciones de la empresa que están en Cuarte de Huerva, Zaragoza. Aunque hay autobús y parada cercana. Se valorará positivamente el hecho de que la persona cuente con carné de conducir y vehículo privado para poder desplazarse al centro de trabajo.
+Disponibilidad horaria:
+El horario será de jornada continua pudiendo elegir entrar de 7:00h a  15:00h o bien de 8:00h a 16:00h. 
+La empresa cuenta con una filosofía abierta hacia la flexibilidad horaria y el teletrabajo en días concretos, con objeto de hacer más fácil la conciliación de la vida familiar / laboral.
+El proceso de selección comenzará en los siguientes días y durará unas semanas. Una vez realizadas las entrevistas, la incorporación a la empresa será inmediata por lo que se requiere disponibilidad para poder incorporarse a la empresa en verano. No obstante, somos flexibles en el sentido de que la persona podrá tomarse unos días de vacaciones durante el verano. 
+Perfil deseado:
+Portfolio de trabajos realizados:
+Si tienes página Web o una cuenta en GitHub o en BitBucket en la que podamos echar un ojo a tus proyectos es un plus!
+Estudios:
+Mínimo: Técnico superior en aplicaciones multiplataforma.
+Deseable: Titulado en ingeniería informática, Ingeniería del Software, ciencias o matemáticas.
+No obstante, BUSCAMOS TALENTO, proactividad, gente que esté al día de las ultimas tecnologías en desarrollo de software. Gente capaz de hacer integraciones de software de terceros en desarrollos propios, con eficiencia y vista a futuro.
+Así que si eres un crack da igual que no te hayas sacado la carrera, mientras te apasione escribir software elegante y disfrutes asumiendo nuevos retos.
+Carácter:
+Persona proactiva, sincera, amable, con vocación de servicio y optimista que le guste trabajar en equipo. Resolutiva, muy organizada y orientada a resultados, capaz de auto gestionar su tiempo hasta cumplir objetivos bajo unas directrices dadas. Que disponga de dotes de liderazgo para asumir a corto/medio plazo la gestión de personas bajo su responsabilidad. 
+

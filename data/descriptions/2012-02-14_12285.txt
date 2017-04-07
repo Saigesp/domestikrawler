@@ -1,0 +1,18 @@
+
+Description:
+The ideal person will have a good knowledge of ASP.NET development, utilized building high quality, predictable and scalable web applications.
+Required Skills
+·       Minimum .net Framework 3.0
+·       ASP.NET
+·       C#
+·       MSSQL Server 2008
+·       TSQL and Stored Procedures
+·       HTML
+·       Javascript
+·       Use of Visual Studio 2005 (minimum)
+Desirable Skills
+·       OO Programming
+·       JQuery
+Valued:
+Remember we are an experienced start-up with lots of energy, which implies that we expect applicants’ development must be agile and quick.A desire to expand your technical knowledge and skill base and a high technical adaptation level is a definite plus.
+We look for independent, self-motivated people with high attention to detail and can assume responsibility and work in a team. We need people who have a passion for creating and implementing high quality systems. If this is you, we will work well together.

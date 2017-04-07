@@ -1,0 +1,24 @@
+
+*About Us*
+Ubeeqo is a mobility company that provides a simplified, seamless mobility experience to all its clients. There’s no longer the need to own a car to move around. Ubeeqo provides a car just when you need it, in many different modes: carsharing, traditional rental and chauffeur service. We are a fast growing company with presence in several European countries. We are looking for passionate, skilled Front End Developers who want to make meaningful, measurable improvements that impact millions of users.
+*How we work*
+We work in a start-up like manner and we work in small scrum teams of 4-7. Every team member is encouraged to take full ownership of their part of the platform but also to contribute ideas, suggestions and code to other areas of the business. We believe that features have no value until they are in production adding value to our customers so teams deploy fast and often. The tech team is building something that has never been built before so we're always trying to think outside the box.
+*Responsibilities*
+Develop highly interactive and robust user-facing features across desktop and mobile web platforms
+Continually identify areas of opportunity to optimize client-side performance and scalability
+Manage the complexity of a highly localized, cross-browser/device product by developing quality code ensuring our products are up-to-standard before release
+Build and maintain reusable code and libraries that can be leveraged by other engineers
+Collaborate with product managers and other engineers and thrive on feedback, critique, and iteration
+*What we’re looking for*
+* At least 3 years of Front End Development experience.
+* Strong understanding of HTML5 and CSS3.
+* Basic understanding of CSS pre-processors such as LESS or SASS.
+* Use of JS frameworks, VUE2 appreciated.
+* Experience with Front end frameworks such as Bootstrap or Foundation.
+* Experience with php MVC frameworks.
+* Basic understanding of front-end performance tuning, best practices and techniques.
+* Strong understanding of cross-browser compatibility issues and ways to work around them.
+* Extremely thorough, detail-oriented, organized, with the ability to be effective with your time.
+* Exceptional written and oral communication skills to convey ideas in an effective manner.
+* Passionate about technology, willingness to learn and try new things.
+

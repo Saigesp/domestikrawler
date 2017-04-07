@@ -1,0 +1,18 @@
+
+Estamos buscando para nuestra Dirección de Sistemas de la Información un Consultor Técnico sobre la plataforma Salesforce.
+Las funciones a realizar serían:
+- Análisis del impacto, diseño técnico y funcional, validación del modelo de arquitectura y participación en el desarrollo de la plataforma. 
+- Estimación coste y plazo de los proyectos asignados
+- Garantizar la integración y coherencia con la arquitectura actual
+¿Buscas un nuevo reto? ¡Te estamos buscando a ti!
+Requisitos: 
+· Ingeniería Superior Informática o similar
+· Experiencia demostrable de al menos 4 años en funciones propias del puesto
+· Se valora aportar experiencia en metodologías ágiles
+· Se valora conocimientos en aplicaciones y/o procesos de RRHH
+· Idiomas inglés
+· Capacidad de análisis técnico a partir de necesidades de cliente interno
+· Habilidades de comunicación y compresión, gran capacidad de trabajo en equipo 
+· Personalidad proactiva y dinámica
+· Experiencia y certificación en plataforma de Salesforce, y Appex y visualforce
+· Conocimientos técnicos en Java y modelo de servicios

@@ -1,0 +1,13 @@
+
+En VISYON estamos buscando un programador con experiencia mínima de 3 años en desarrollo de aplicaciones web.
+Buscamos una persona pragmática, responsable y proactiva, con capacidad de trabajar con un equipo internacional.
+Es imprescindible que sea resolutiva, eficiente y autónoma, y sobre todo, con ganas de implicarse, evolucionar y formar parte de un proyecto en crecimiento.
+Requisitos imprescindibles:
+- 3 años o más de experiencia
+- HTML 5
+- CSS 3
+- Javascript (Node.js, AngularJS, BackboneJS, Require.js, Gulp.js, Browserify, Three.js)
+- PHP (Laravel, CakePHP)
+- WebGL
+- SSH
+- Buen nivel de inglés

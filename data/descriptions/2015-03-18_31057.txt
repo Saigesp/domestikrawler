@@ -1,0 +1,3 @@
+
+En MUTANZ estamos buscando programadores freelance con los que poder colaborar habitualmente.
+En los proyectos recientes estamos necesitando gente que maneje con soltura: Symphony, Yii, Wordpress, desarrolladores capaces de plantear interfaces front-end responsive que sean muy cuidadosos con el diseño, especialistas en WebGL, etc.

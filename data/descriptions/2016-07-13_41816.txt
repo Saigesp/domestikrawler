@@ -1,0 +1,17 @@
+
+En Ok No Problem buscamos  una persona con un  perfil FrontEnd Developer. 
+Imprescindible que tengas conocimientos avanzados de CSS3, javascript nativo y de las librerías más comunes (jquery, angular,...) así como desenvolverte con soltura en Photoshop, Illustrator e  InDesign para maquetar a partir de PSDs.
+Requerimientos necesarios: 
+- HTML 5. 
+- CSS 3. 
+- JQuery.
+- Less y/o Sass.
+- PHP y conocimientos de frameworks MVC.
+- Bootstrap
+¿Qué te ofrecemos?
+- Contrato indefinido. 
+- Muy buen clima laboral. 
+- Flexibilidad horaria.
+- Incorporación inmediata a compañía con importantes oportunidades de crecimiento y desarrollo profesional. 
+Valoraremos los candidatos que nos envíen un portafolio con trabajos anteriores.
+

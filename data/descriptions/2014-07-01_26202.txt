@@ -1,0 +1,17 @@
+
+Precisamos incorporar a nuestra sede de Barcelona un Programador PHP Backend, para el desarrollo de nuevas funcionalidades de la plataforma nubelo.com, incluyendo diseño técnico, desarrollo Backend, Frontend y APIs.
+Buscamos una persona apasionada en el desarrollo de aplicaciones web usando la última tecnología y centrado en la entrega de valor al usuario.
+Requisitos mínimos:
+• Experiencia mínima de tres años en arquitectura, diseño técnico, desarrollo de aplicaciones y bases de datos.
+• Programación Orientada a Objetos OOP
+• Experiencia demostrable en entornos LAMP (Linux, Apache, MySql, PHP), Javascript, Ajax, XHTML, HTML5, CSS, jQuery.
+• Experiencia en desarrollo e integración de APIs (Google, LinkedIn, Facebook, SendGrid, Amazon).
+• Experiencia en el uso de MVC como Zend framework.
+• Nivel medio de Inglés
+Conocimientos deseados:
+• Prácticas de desarrollo ágil. Framework Scrum.
+• Manejo de sistemas de control de versiones (Git)
+• Se valorará presentación de portafolio o direcciones web de trabajos realizados.
+• Conocimientos de sitios de alta concurrencia
+• Se valora experiencia en automatización de procesos.
+• Se valora experiencia en Unit Testing / TDD

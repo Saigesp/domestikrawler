@@ -1,0 +1,21 @@
+
+Veridata busca un Front End/Designer de alto nivel con experiencia contrastada, para incorporar a su plantilla. El candidato debe cumplir con los siguientes requisitos:
+Diseño y desarrollo WEB, aplicaciones móviles y/o de escritorio. Con amplio conocimiento en las últimas tendencias de usabilidad, responsividad e interactividad. Estándares HTML5, CSS3 y JavaScript. 
+El candidato se integrará en un equipo interdisciplinar de alto rendimiento que trabaja bajo modelos de desarrollo ágil. Buscamos la proactividad, la tolerancia al cambio, el aprendizaje diario, una persona metodológica y con especial atención al detalle. 
+ Tecnologías que deben dominar: 
+HTML/CSS3 Avanzado
+
+JavaScript (ECMAScript 5 y 6)
+POO, Angular y JQuery.
+
+Trabajos demostrables en desarrollo web (Front-end)
+Maquetación Responsive. Uso de GIT y/o mercurial.
+Estudios mínimos:  Formación Profesional Grado Superior
+Experiencia mínima: 5 años. 
+Conocimientos valorables: 
+Se valorará la experiencia y capacidades de diseño gráfico
+Conocimientos sobre SEO
+Photoshop u otros programas de diseño
+NetBeans
+PHP
+Angular2

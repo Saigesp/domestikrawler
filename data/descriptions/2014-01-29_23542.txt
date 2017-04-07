@@ -1,0 +1,26 @@
+
+En Fintonic buscamos ingenieros técnicos o superior en informática, telecomunicaciones o carrera afín, interesados en adentrarse en el mundo de la automatización de pruebas y despliegues. Trabajarás mano a mano con el equipo de desarrollo para darle al negocio una mayor agilidad a la hora de probar, depurar y validar los desarrollos para la puesta en producción y de esta manera garantizar que los usuarios tendrán siempre un servicio de alta calidad a su disposición.  
+Formarás parte de un equipo excepcional de profesionales en un ambiente joven y dinámico en el que podrás dar rienda suelta a tu creatividad. Buscamos gente comprometida, enamorada del producto, con ideas frescas y capacidades resolutivas.
+Responsabilidades:
+•	Ser el responsable de la automatización de los despliegues en distintos entornos tanto locales como en producción.
+•	Implementar la automatización de las pruebas de calidad.
+•	Responsable de la puesta a punto de los entornos de pruebas e integración.
+•	Trabajar en colaboración del equipo de desarrollo para la resolución de bugs. 
+•	Reportar al responsable del área.
+•	Definir y documentar los procedimientos de despliegues y pruebas.
+Tecnologías/Lenguajes:
+•	Java, spring, eclipse, 
+•	Maven, svn, jenkins, artifactory
+•	Selenium, Selenium WebDriver, Cucumber, TestLink
+•	apache, tomcat
+•	SQL, mongodb.
+•	Linux/Unix, shell/bash
+Otros conocimientos:
+•	Web Services (SOAP, REST, ...)
+•	J2EE.
+•	Git, ruby
+•	Experiencia en desarrollo con prácticas de TDD (Test Driven Development)
+Valorable:
+•	Experiencia con herramientas de gestión de pruebas
+•	Experiencia con gestión de entornos cloud (ej: EC2)
+•	Chef/Puppet, Jira, Mantis, Jmeter, Sonar

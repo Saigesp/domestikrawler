@@ -1,0 +1,7 @@
+
+Queremos contratar a un programador PHP experimentado con dominio de la plataforma e-commerce Magento. 
+Buscamos a alguien que esté acostumbrado a trabajar en equipo y que sea una persona tan apasionada por su trabajo como nosotros :-).
+Necesitamos que tenga conocimiento suficiente de arquitectura como para desarrollar módulos manteniendo la mayor compatibilidad posible. Se dedicaría principalmente al desarrollo de la parte de backend de Magento, aunque si también quiere hacer la parte de frontend no se lo vamos a impedir :-P.
+
+Sería bueno, aunque no imprescindible, que esté familiarizado con alguna metodología ágil de desarrollo y en el empleo de GIT.
+Por último se valorarán muy positivamente el buen humor y los conocimientos de HTML, CSS, Zend Framework y Javascript.

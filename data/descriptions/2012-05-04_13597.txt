@@ -1,0 +1,5 @@
+
+Buscamos experto en las siguientes tecnologías:
+Sphinx, ElasticSearch, PHP MongoDB.
+Es para un proyecto urgente.
+Abstenerse candidatos que no conozcan las tecnologías mencionadas.

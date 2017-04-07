@@ -1,0 +1,18 @@
+
+Farmactitud es una agencia de márketing especializada en farmacias.
+Somos un equipo joven y motivado donde te sentirás como en casa.
+Buscamos a un desarrollador web con/sin experiencia, con iniciativa propia y capacidad de organización.
+Para el puesto que buscamos necesitamos conocimientos de:
+PHP
+HTML
+CSS
+Javascript
+SEO
+Como plus, estaría bien mostrar conocimientos en:
+Desarrollo iOS
+Desarrollo Android
+SQL
+Prestashop
+Wordpress
+¿No tienes todos los requisitos? ¡No pasa nada, escríbenos igualmente!
+

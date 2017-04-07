@@ -1,0 +1,29 @@
+
+Somos Plastic Creative Studio, estudio creativo digital de Barcelona. 
+Para nosotros cada proyecto es una pieza única en la que ponemos todo el esfuerzo para que el resultado sea perfecto.
+Somos amantes del detalle, del buen diseño y nuestros proyectos están muy enfocados en garantizar una buena experiencia de usuario. 
+Queremos ampliar nuestro equipo incorporando un@ Senior frontend developer: ¡muy importante!, ha de ser un@ desarrollador@ frontend con gran enfoque visual/ creativo, que esté a la última y que le de la misma importancia que nosotros al diseño y a la usabilidad
+Requisitos:
+Desarrollador frontend creativo con especial enfoque visual con conocimientos de Backend y que controle:
+- HTML5
+- CSS3
+- Maquetación de diseños web enfocados a dispositivos (RWD). 
+- JavaScript (Nativo o librerias). 
+- CMS: Wordpress
+- Maquetación de mailings responsive (multiclientes/multidispositivos)
+- PHP & MYSQL 
+- JQuery / CAKE PHP
+- Angular
+- SASS
+- Action Script
+También valoraremos:
+Desarrollo de aplicaciones móviles IOS/ Android 
+Experiencia:
+Mínimo 5 años de experiencia contrastable en trabajos similares
+Ofrecemos:
+- Formar parte de un equipo de profesionales con experiencia cada uno en nuestro campo donde todos sumamos y todas las opiniones son importantes 
+- Participación en proyectos cuyo resultado final te apetezca poner en tu portfolio ;)
+- Muy buen ambiente de trabajo: no lo típico que se dice y luego no es verdad. Aquí la gente es maja y normal, sin jeraquías marcadas, problemas de ego, etc... 
+- Muy buen espacio de trabajo: Luz, espacios amplios, jardín (si, si, jardín...), silencio... 
+- Mesa de ping pong ;) y dardos para los momentos de estress 
+- Café recién hecho cada mañana :)

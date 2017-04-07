@@ -1,0 +1,8 @@
+
+	Nuestro cliente ofrece soluciones informáticas en movilidad para optimizar los procesos de negocio de las PYMES. Son especialistas en facilitar y optimizar la Movilidad, con aplicaciones asequibles, rápidas de implementar y fáciles de usar por los usuarios. Precisa incorporar en su plantilla un/a PROGRAMADOR/A WEB, responsable, proactiv@. Incorporación inmediata
+REQUISITOS:
+- CFGS en informática
+- Experiencia programando en ASP.NET
+- Experiencia al menos 2 años en programación Web
+- Imprescindible altos conocimientos de jQuery y Javascript, HTML, CSS
+- Conocimientos en AJAX JSON, HTML, CSS, JAVASCRIPT, JQUERY CSS,HTML5 Y CSS3, PhoneGAP

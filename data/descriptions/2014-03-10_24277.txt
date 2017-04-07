@@ -1,0 +1,6 @@
+
+Buenos días,
+Buscamos persona freelance o empresa para desarrollar ministe en DNN.
+El minite ya está diseñado, será una ONEPAGE con: formulario de contacto, envío de preguntas a un email, y un pseudo buscador de fichas almacenadas en la base de datos.
+La idea es  generar respuestas a las preguntas que se vayan recibiendo.
+Gracias

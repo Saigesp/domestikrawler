@@ -1,0 +1,30 @@
+
+Nuestro cliente, empresa de servicios y fabricante de electrónica de potencia localizada en Valencia está buscando un Desarrollador Microsoft. Net.
+Responsabilidades:
+Diseño, desarrollo y testeo unitario de aplicaciones utilizando framework. Net de Microsoft.
+Mantenimiento de aplicaciones actuales y desarrollo de nuevas utilizando C# y VB.Net
+Ayudar al equipo de aplicaciones a crecer buscando nuevas maneras de mejorar nuestros procesos productivos.
+Habilidades:
+3-4 años de experiencia en desarrollo de aplicaciones para SO Windows con C# y/o C++
+Experiencia en comunicaciones de PLC's mediante protocolos propietarios
+Conocimiento profundo del SO Windows y suscaracterísticas (32-64 bits, Windows Registry,...)
+Conocimiento de debug y testeo en entorno Windows
+Conocimiento de buenas prácticas de programación y estándares
+Fuertes principios de Diseño Orientado a Objetos
+Comprensión del SDLC en desarrollo software
+Capacidad para preparar estimaciones
+Diseño con UML o cualquier otro paradigma de modelado
+Buenas prácticas en documentación de código
+Centrado/a en el rendimiento y calidad del software
+Capacidad para trabajar bajo presión
+Bonus
+Conocimiento en protocolos industriales: FINS, MODBUS...
+Experiencia trabajando con PLC's de OMRON
+Conocimientos en protocolos como HTTP, TCP o SMTP
+Conocimiento en servicios web: REST, SOAP, JSON y XML
+Habilidades personales:
+Habilidad para trabajar y aprender independientemente con supervisión limitada
+Habilidad para trabajar en equipo
+Deseo de conocer nuevas tecnologías
+Deseo de conocer los productos de la compañía
+Habilidad para comunicar verbalmente o por escrito en inglés y español

@@ -1,0 +1,23 @@
+
+Preferentemente ingeniero superior informático (o técnico).
+Trabajo de 4h diarias con posibilidad de ampliar a 8 horas en función del candidato. Es necesario trabajar de forma presencial en la oficina.
+
+Conocimientos y experiencia en:
+-Phonegap
+-Entorno de desarrollo XDK de Intel (o similares)
+-Entornos colaborativos de desarrollo (SCRUM o similares)
+-Flash
+Amplios conocimientos y disponer de experiencia en:
+-HTML5
+-BBDDs: 
+     1) Elección de tecnología más apropiada para implementar las 2 BBDD del Sistema (con lo que debe haber colaborado en este sentido en proyectos)
+     2) Diseño de BBDDs (para BBDD remota de Usuarios; y BBDD -estática- local o remota de tipos de ítems del sistema).
+-Entorno gráfico
+     1) Framework JavaScript con soporte gráfico 2D (eiseljs o similares)
+     2) Canvas
+-Responsive apps.
+-Desarrollo orientado a Android (no en nativo, sino orientado a multiplataforma: IOS, Windows phone OS, Android, etc)
+Es necesaria una persona con capacidad de análisis y experiencia suficiente para poder elegir la tecnología de implementación en cada caso entre las existentes en el mercado (por lo que debe tener conocimiento del estado del arte en cada una de ellas).
+Muy importante que desarrolle con metodología:
+-Ser capaz de estructurar cada etapa de trabajo en módulos lo más pequeños posible, bien diferenciados/aislados con interfaces bien definidos.
+-Deberá establecer entregables de cada una de las tareas y documentar perfectamente todo el desarrollo, buenas prácticas en el código, etc.

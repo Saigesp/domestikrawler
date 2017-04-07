@@ -1,0 +1,31 @@
+
+Buscamos analistas programadores con al menos 2 años de experiencia profesional en PHP5 y Symfony2, para unirse al equipo de Solutions de Opinno. Tendran la oportunidad de trabajar en proyectos innovadores que generaran impacto en la sociedad.
+Funciones:
+Desarrollo e implantación de soluciones basadas en framework symfony.
+Definición de la arquitectura tecnológica de los desarrollos propuestos.
+Estimación de tiempos de las nuevas features.
+Integración de soluciones.
+ 
+Requisitos mínimos:
+Experiencia profesional demostrable de más de 2 años en:
+
+- PHP 5
+- Symfony2
+- Javascript
+- jQuery
+- DB Mysql
+- Linux
+
+Requisitos deseados:
+- Experiencia en composer
+- Doctrine
+- Git o SVN como control de versiones (preferiblemente GIT)
+- Conocimientos en apis redes sociales
+- Conocimiento plantillas Twig
+-Conocimientos de Angular
+
+
+Aptitudes personales:
+Pasión por la innovación y tecnologías
+Iniciativa y proactividad
+Muy valorable el desarrollo de proyectos propios

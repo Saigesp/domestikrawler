@@ -1,0 +1,32 @@
+
+COMPAÑÍA
+Una de las mayores webs de comercio electrónico de nuestro país, y uno de los más completos marketplaces de planes de ocio y experiencias. La empresa cuenta con un equipo de unos 200 empleados y opera en España, Italia, Portugal y Chile.
+POSICIÓN
+Reportando al CTO (responsable tecnológico), el programador Senior en PHP tendrá como misión principal desarrollar el código. 
+Funciones y Objetivo
+•	Desarrollar y estandarizar el diseño del código.
+•	Diseñar e implementar nuevas funcionalidades para site de alto rendimiento.
+•	Asegurar la calidad de código vía bug fixing y refactoring.
+•	Contribuir en múltiples capas del stack tecnológico desde la base de datos al desarrollo front end.
+El objetivo principal es integrarse en un equipo de desarrolladores y coordinarlos.
+Perfil
+Buscamos a una persona flexible, proactiva, con pasión por su trabajo y con grandes dotes de relaciones interpersonales. 
+Formación 
+Ciclo Formativo Grado Superior.
+Experiencia
+Al menos 3 años en la misma función. Se requiere conocimientos de:
+•	PHP5
+•	Frameworks MVC (Zend, Symfony,…).
+•	Nivel Alto en programación orientada a objetos (OOP).
+•	Experiencia en MySQL.
+•	Uso de sistemas de control de versiones (GIT, SVN, …).
+•	Sistemas de plantillas (Smarty, Twig, …).
+•	Memcached
+•	Sistemas Linux/mac nivel básico
+Se valorará experiencia en alta disponibilidad y entornos e-commerce.
+•	ElasticSearch, Sphinx o similar
+•	Redis
+•	Go
+•	Administración de sistemas unix/linux
+•	Conocimientos básicos de HTML5, CSS3 y JS
+

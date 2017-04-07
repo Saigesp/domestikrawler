@@ -1,0 +1,12 @@
+
+En D6 buscamos Programador/a Web Junior con conocimiento y experiencia demostrable en desarrollo con HTML/CSS/JS/PHP y experiencia mínima de 6 meses de trabajo.
+Que sea un persona proactiva, dinámica y con conocimiento básico de CMS y LMS Open Source (Drupal, Wordpress, etc.).
+Se valorará experiencia en las siguientes áreas: 
+- Experiencia con plataformas Rich Media.
+- Frameworks MVC PHP, HTML responsive y wireframing, SEO/SEM, APIs de las redes sociales, Javascript/Jquery, conocimientos .NET, JAVA o Ruby.
+- Inglés nivel alto.
+- Experiencia con GIT, SVN (control de versiones).
+Imprescindible: 
+- Experiencia demostrable en HTML/CSS/JS/PHP (mínimo 6 meses).  
+- Capacidad para la resolución de problemas.
+

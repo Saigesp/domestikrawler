@@ -1,0 +1,17 @@
+
+Hola!
+Somos una start-up española que está desarrollando un e-commerce con Prestashop para vender nuestros productos de moda masculina internacionalmente. 
+El proyecto es muy ambicioso y está diseñado 100% adhoc a nuestra identidad visual.
+Llevamos completados el 85% de la tienda online.
+Necesitamos incorporar a nuestro equipo de desarrolladores, un Programador Front-End de forma temporal hasta finalizar el proyecto.
+Los conocimientos imprescindibles que debe tener el candidato son:
+HTML
+CSS3, Sass, Compass
+Responsive
+Javascript, Jquery
+Conocimiento de Prestashop muy importante
+PHP  
+La principal tarea en la que trabajarás, será hacer que el ecommerce sea responsive.
+Necesitamos que la incorporación sea inmediata, así que si cumples el perfil no dudes en contactarnos.
+Muchas gracias!
+Álvaro

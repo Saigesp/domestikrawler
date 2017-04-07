@@ -1,0 +1,14 @@
+
+En Agencia B12 estamos buscamos un programador junior con muchas ganas de trabajar en equipo.
+Responsabilidades:
+Tu función consistirá en maquetar y programar proyectos web -sites corporativos, landing pages, sistemas e-commerce, etc.- aplicando los últimos estándares web de compatibilidad, usabilidad y asegurando un funcionamiento 100% móvil.
+Experiencia:
+No buscamos a alguien con muchos años de experiencia pero sí a alguien que se haya peleado con distintas interfaces y gestores (Joomla, Wordpress...) ya que tendrá que manejarse en un gestor propio desarrollado por nuestro equipo de I.T.
+Requisitos:
+Maquetación y programación en HTML5 / CSS3
+PHP, JavaScript, Jquery, AJAX
+Si además tienes experiencia en desarrollos de WebServices (WCF), mejor que mejor :)
+¿Qué ofrecemos?
+Muy buen rollo en una oficina en pleno centro de Madrid.
+Un salario en función de tu valía.
+Y… ¡mucha B12!

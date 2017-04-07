@@ -1,0 +1,42 @@
+
+Buscamos desarrolladores que se integren en el equipo de Cycle-IT para ayudarnos a llevar a buen puerto los proyectos de nuestro portfolio de desarrollo.
+Debéis tener ganas de aprender, ser multi-disciplinares, apasionaros por el desarrollo de aplicaciones, tanto webs como móviles y sin miedo a participar en cualquiera de las etapas del desarrollo.
+En Cycle-IT apostamos por las nuevas tecnologías de desarrollo multi-pantalla: Web, Desktop, Mobile, SmartTVs, Wearables, etc.
+Nuestro stack tecnológico incluye:
+* Para frontend: HTML5, JS, CSS3, AngularJS, RequireJS, Bootstrap, SASS, etc. 
+* Del lado del backend utilizamos tecnologías consolidadas como Java 8, Spring Framework 4, desarrollando en su mayor medida servicios REST con respuesta JSON, desplegados en servidores Tomcat 8.
+* Para dispositivos móviles (smartphones y tablets), tecnologías multi-plataforma como lo son Apache/Adobe Flex, Adobe AIR y Apache Cordova.
+Para aplicar en la solicitud es necesario:
+* Entregar al aplicar un CV actualizado o disponer de un perfil de LinkedIn acorde al puesto solicitado.
+* Tener la titulación de ingeniero en informática, ingeniero en telecomunicaciones o similar.
+* Trayectoria profesional orientada al desarrollo de aplicaciones.
+Experiencia necesaria (más de 3 años):
+* Tecnología Apache/Adobe Flex, ActionScript 3
+Valorable:
+* Desarrollo de aplicaciones móviles multiplataforma
+* Frameworks como Cairngorm, Parsley, Starling
+* Tecnologías Frontend: HTML5, JavaScript, CSS3, AngularJS
+* Tecnologías Backend: Java, SpringFramework (SpringMVC, Spring Security, Spring Data), BladeDS
+* Haber participado en proyectos que apliquen un marco de trabajo ágil
+* Herramientas y utilidades de desarrollo: Bower, Grunt, Yeoman, Maven, Jenkins, Sonar
+* Herramientas de Control de versiones: Git, SVN
+* Herramientas de testing
+* Experiencia en desarrollo nativo Android y iPhone
+Competencias necesarias:
+* Capacidad de análisis
+* Capacidad de organización
+* Proactividad
+* Capacidad de comunicación
+* Trabajo en equipo
+Horario: 
+La jornada laboral será completa (8 horas):
+De lunes a jueves: de 9:00 a 18:30 
+Viernes: de 8:30 a 15:30 
+En verano: jornada intensiva de 8:30 a 15:30 
+La hora de entrada y salida cuenta con +-30 minutos de flexibilidad.
+Salario 
+Por determinar; en función de la experiencia y cualidades del candidato seleccionado para el puesto.
+En Cycle-IT ofrecemos un plan salarial que evolucionará conforme a tu aportación y contribución a nuestro proyecto como empresa en constante crecimiento.
+Otros beneficios sociales:
+Flexibilidad horaria y organizativa
+Plan de conciliación laboral y familiar

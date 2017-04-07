@@ -1,0 +1,7 @@
+
+EGA CONSULTORES busca para importante empresa del sector tecnológico, un analista programador senior Java con experiencia mínima de 4 años y con potencial para pilotar equipos.
+Experiencia:
+Lenguajes: Java / J2ee
+Frameworks: Struts
+Gestores de base de datos: DB2
+Recomendable conocimientos/experiencia en JSon, XML, HTXML, iBATIS

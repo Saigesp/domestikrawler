@@ -1,0 +1,23 @@
+
+En Lamaga Comunica necesitamos un desarrollador Frontend y Wordpress, ya sea para realizar una web como buscando soluciones técnicas para acciones online.
+¿Qué tareas deberá llevar a cabo? 
+Diseñar, desarrollar y garantizar la calidad de los proyectos desarrollados en WordPress. 
+Llevar el mantenimiento y crecimiento de webs ya realizadas en wordpress. 
+Analizar las diversas alternativas de implementación para llegar a la mejor solución técnica posible. 
+Participar en el proceso de concepción de nuevos proyectos WordPress aportando tu conocimiento técnico.
+¿Que deberás aportar? 
+-Experiencia en entornos WordPress. 
+-Formación artística y buen criterio gráfico. 
+-Conocimientos de la herramienta Mailchimp. 
+-Desarrollo de temas responsive desde cero y plugins a medida para WordPress. 
+-PHP, HTML5, CSS3, JavaScript y JQuery. 
+-Gestión y manejo de BBDD relacionales (MySQL). 
+-Integración pasarelas de pago en Woocommerce. 
+-Conocimientos de UX, experiencia de usuario, desarrollo de diseño funcional, user flow, etc. 
+-Conocimientos en programas de diseño como Photoshop, Illustrator, InDesign, Fireworks… 
+-Inglés a nivel técnico. 
+¿Qué te ofrecemos? 
+Entorno de trabajo divertido, joven y creativo. 
+Oficina en pleno centro de Barcelona. 
+Ser parte de la familia de Lamaga Comunica. 
+Flexibilidad horaria.

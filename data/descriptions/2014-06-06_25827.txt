@@ -1,0 +1,17 @@
+
+Somos Beebrite, ganadores del premio nacional en Innovación para la Sociedad "EmprendeGO", finalistas en Wayra Madrid, Caixa Emprendedor XXI y actualmente finalistas en el Open Education Challenge que organiza la Comisión Europea. Contamos con inversores de prestigiosas escuelas de negocio como ESADE así como Mola.com
+En Beebrite investigamos, desarrollamos y proveemos de tecnología que ayuda a mejorar el rendimiento cerebral y la inteligencia de personas de todo el mundo. Combinamos las mejores técnicas de machine learning y la neurociencia para construir potentes algoritmos para nuestro motor de entrenamiento cerebral, Neurohex™.  Actualmente, nuestro producto principal es Beebrite Edu, un programa de estimulación de inteligencia dirigido a niños de entre 7 y 16 años de edad.
+En Beebrite buscamos incorporar un desarrollador de backend sin miedo a nada, versátil, proactivo y con ganas de aprender nuevas tecnologías.
+¿Que buscamos de ti?
+-  Que nos guste trabajar contigo, y a ti con nosotros. En parte porque esperamos que le vayas a dedicar bastante más de 40 horas a la semana. Una startup no sale adelante trabajando de 9 a 5. Sé consciente antes de mandar tu currículum.
+- Que hayas hecho cosas: Nos encaja más una persona que no haya acabado la carrera porque se puso a hacer freelancing, que una persona con 9s y 10s que no tenga nada tangible que mostrar. No tenemos nada contra los 9s y 10s , pero si lo complementas con GitHubs, proyectos de OpenSource, Freelancing, proyectos personales, etc. mucho mejor. Enséñanos las miles de líneas de código que has escrito de verdad. 
+- Que no te dé miedo coger responsabilidad: Con continuous deployment, lo que significa es básicamente que vas a llevar partes del producto, vas a hacer push a producción, y puede que rompas algo. Mejor no. Pero si lo rompes, pues toca arreglarlo (a ti y a todos los que estemos ahí).
+- Que seas inquieto y quieras aprender más: Que quieras aprender todo, desde PHP hasta iOS. Lo que toque. Nosotros buscamos talento, y pensamos que el talento puede aprender cosas rápido. 
+- En definitiva pedimos LAMP, (Linux, Apache, MySQL y PHP), aunque hemos optado por MongoDB pero si sabes MySQL, pues tampoco pasa nada, ya aprenderás. 
+(Java, AS3, Starling Framework, AWS, Javascript, HTML5, Node.js, MongoDB, MySQL…)
+- Que no te metas en la caja: Quizás un día va y te toca maquetar, o testear, o dar una charla, o montar un evento. Esto es una startup y todos hacemos casi de todo.
+- Inglés es muy importante.
+¿Qué te ofrecemos?
+- Trabajar en una empresa que investiga y desarrolla soluciones para mejorar la inteligencia de personas de todo el mundo y que cuenta con un comité científico de investigadores que se encuentran en las mejores instituciones del país.
+- Si nos gustamos, poder conseguir acciones de la empresa. Si nos va bien, a ti también te va bien.
+- Horario flexible (de sol a sol, pero flexible).

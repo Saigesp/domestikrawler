@@ -1,0 +1,19 @@
+
+Estamos en busca de un Front End Web Developer para nuestro equipo de tecnología, que quiera unirse a nuestro proyecto. Nuestro equipo de desarrollo es pequeño pero en constante crecimiento y cada uno de los miembros del equipo tiene una importancia fundamental en el proyecto. En iadbox nos une el proyecto, una forma de trabajar innovadora, abierta a nuevas tecnologías, en un entorno laboral flexible (días de trabajo en remoto, duvet days,…).
+El nuevo desarrollador​ se incorporará al equipo para dar solidez a un proyecto en constante crecimiento. 
+Habilidades y experiencia requerida:
+Al menos 1 año de experiencia laboral
+Nivel experto de Javascript
+Conocimiento de herramientas de control de versiones como git, svn
+Conocimientos avanzados de CSS y estándares web
+Experiencia con herramientas con jQuery, Zepto, lodash y underscore
+Habilidades y experiencia valorada:
+Experiencia con Coffeescript
+Experiencia con Ruby y Ruby on Rails
+Experiencia trabajando con iframes
+Experiencia integrando diseños responsive
+Un buen nivel de inglés y español
+Sobre nosotros:
+iadbox es una plataforma de marketing móvil para monetización y engagement. Permite a cualquier App o web móvil implementar un “inbox” interactivo en su aplicación mediante un sencillo SDK que enviará mensajes interactivos  a sus usuarios en un formato no invasivo.
+La plataforma proporciona herramientas de perfilación y micro-segmentación, gestión de campañas, gamificación y vitalización del contenido, todo ello con un reporte detallado.
+

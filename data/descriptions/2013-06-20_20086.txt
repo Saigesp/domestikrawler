@@ -1,0 +1,7 @@
+
+Hola, buscamos programador para trabajar en nuestras oficinas durante mínimo un mes. Incorporación inmediata. Necesario conocimientos de:
+-PHP
+-Javascript
+-MySQL
+-Css
+

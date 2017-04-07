@@ -1,0 +1,12 @@
+
+Buscamos un desarrollador freelance para colaborar en el desarrollo de un marketplace alimentario, con experiencia demostrada y ritmo ágil para cumplir con plazos de entrega.
+Requisitos mínimos: 
+-Experiencia en desarrollo de aplicaciones web en PHP con bases de datos MySQL 
+-Experiencia en el del paradigma de programación orientada a objetos y patrón MVC 
+-Experiencia en Maquetación web responsive HTML5 + CSS3 con bootstrap y similares 
+-Experiencia en Javascript + JQuery
+Se valorará: 
+-Experiencia en desarrollo de aplicaciones móviles 
+-Experiencia en administración de servidores LAMP 
+Inicio proyecto: enero 2017
+Estamos construyendo algo grande. 

@@ -1,0 +1,30 @@
+
+Quiénes somos:
+Mybrana es una start-up de reciente creación en el campo de las aplicaciones para móviles y plataformas de contenido, mediante el uso de Realidad Aumentada y geo-localización. En Mybrana desarrollamos software con soluciones interactivas que combinan elementos reales y virtuales. Con base en California y España, Mybrana está formada por un grupo de profesionales altamente preparados y motivados que quieren cambiar la forma en la que interactuamos con el mundo a través del uso de tecnologías centradas en el usuario. Nuestra visión es convertirnos en la referencia de la nueva generación de aplicaciones que fusionan el mundo virtual y el real.
+A quién buscamos:
+Desarrollador Magento
+Las principales funciones del puesto son:
+•	Desarrollo y adaptación de nuevas funcionalidades e integraciones de e-commerce sobre Magento.
+•	Administración, mantenimiento y configuración de la plataforma web. 
+•	Optimización y mejora de performance de Magento.
+Cualificación:
+•	Ingeniero Informático.
+•	Formación avanzada Magento.
+•	Nivel alto de inglés.
+Imprescindible:
+•	Experiencia en desarrollos de e-commerce con Magento.
+•	Experiencia de al menos 2 años en desarrollo web. 
+•	Dominio de PHP, SQL, MySQL, CSS, HTML5 y JQuery.
+•	Conocimiento de Javascript.
+Valorable:
+•	“Magento Developer Certification”.
+•	Conocimientos de Java y Objective C.
+•	Wordpress. SEO-SEM. 
+•	Manejo de herramientas de analítica web.
+•	Conocimientos de SYSADMIN. Amazon Web Services y Escalabilidad.
+Que oferecemos:
+- Contrato indefinido a tiempo completo.
+- La posibilidad de trabajar con un equipo de gran talento en una compañía que lidere la industria de la Realidad Aumentada.
+- Ofrecemos incorporación a una start-up en desarrollo con un gran potencial de desarrollo y aprendizaje en un entorno de trabajo excelente.
+- El puesto tendrá su base en Madrid.
+- Incorporación inmediata.

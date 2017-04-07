@@ -1,0 +1,12 @@
+
+Seleccionamos un Analista Programador con 4 o 5 años de experiencia como desarrollador de Android.
+Conocimientos indispensables:
+- Conocimiento Android y entorno Android Studio.
+Valorable , aunque no obligatorio uso de entornos como Scala o Kotlin.
+- Conocimientos Arquitectura MVC.Uso de API propias y externas como GoogleMaps, Google Cloud Messaging, Google Analytics.
+- Valorable el uso de librerías como Retrofit, Picasso, Dagger2 , Calligraphy, glide, robospice, expresso.
+- Experiencia / Conocimientos en Gradle (build variant, product flavours).
+Requisitos mínimos
+Experiencia mínima de 1 año en el desarrollo de aplicaciones Android.
+- Experiencia en el uso de librerías y frameworks nativos y de terceros (Mapas, gestor de conexiones, push, ...).
+- Experiencia a la hora de desarrollar interfaces complejas para los distintos dispositivos.

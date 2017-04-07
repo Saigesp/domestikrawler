@@ -1,0 +1,8 @@
+
+Estamos buscando incorporar a nuestro departamento informático un Programador con experiencia en Python y JavaScript que esté acostumbrado a trabajar con metodologías ágiles
+Se incorporará a un ambiente de trabajo joven y dinámico dónde se podrá trabajar con las últimas y más novedosas tecnologías.
+Es imprescindible que se tenga experiencia de más de tres años en desarrollo web y acostumbrado a trabajar con frameworks como: 
+- Django
+- TurboGears
+- Web2py
+Es importante contar con un nivel de inglés alto (Parte de la entrevista se realizará en Inglés)

@@ -1,0 +1,14 @@
+
+Funciones:
+- Explotación
+- Administración 
+- Extracción de reportes de bases de datos: Analítica de marketing avanzada y programación de campañas tanto de marketing relacional como interactivo, incluyendo análisis de tráfico, ventas, conversión, personalización y segmentación según comportamiento, incluyendo las tareas de reporting, métricas, y definición y seguimiento de KPI´s
+- Participar en los procesos de definición de campañas, definiendo targets y construyendo acciones a medida del comportamiento y perfil de los consumidores
+- Elaboración de informes y estadísticas desde distintas herramientas, especialmente en Excel a partir de extracciones SQL
+- Elaboración de conclusiones de los datos analizados mediante informes
+Requisitos:
+- Formación analítica en MySQL 5
+- Estudios mínimos: Licenciado o diplomado en estadística de gestión y Matemáticas
+- Experiencia mínima: Al menos 4 años de experiencia, preferiblemente en el entorno de análisis de datos de marketing y/o programación de gestores de campañas y manejo avanzado de herramientas de análisis
+- Se valorará positivamente tener conocimientos de análisis digital/web y Redes sociales
+Nivel alto de inglés, hablado y escrito.

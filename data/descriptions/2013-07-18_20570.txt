@@ -1,0 +1,10 @@
+
+Se buscan programadores PHP para desarrollar aplicaciones front-end (web)  basadas en las últimas tecnologías Web, portales y movilidad.
+Se valorará:
+• Experiencia demostrable en estándares web: HTML, CSS, Javascript.
+• Alto Conocimiento de PHP, HTML5, CSS3, Javascript y conocimiento de servicios REST y/o SOAP.
+• Conocimiento de librerías como jquery, jQueryMobile, Ajax...
+• Uso de frameworks de desarrollo (Codeigniter...)
+• Programación orientada a dispositivos móviles.
+Se ofrece:
+• Incorporación a empresa joven y a un equipo de trabajo con amplia experiencia en desarrollo de aplicaciones web para grandes cuentas.

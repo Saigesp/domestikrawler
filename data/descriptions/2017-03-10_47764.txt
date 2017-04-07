@@ -1,0 +1,27 @@
+
+Buscamos programador Front End para formar parte de nuestro equipo. El perfil que necesitamos es de programador HTML5 y CSS3 con experiencia en maquetación responsive acostumbrado a detectar y solucionar las diferencias entre diferentes dispositivos, plataformas y navegadores.
+Deberás tener un buen conocimiento del DOM y JavaScript nativo además de jQuery. Si además conoces NodeJS y has manejado automatizadores de tareas mejor, pero no es imprescindible.
+También es un plus que sepas defenderte con PHP y sistemas de templating para hacer integraciones con CMS y plataformas de comercio electrónico.
+Trabajarás en un entorno de diseñadores, programadores y analistas entusiastas con su trabajo y defensores de la experiencia de usuario.
+Los proyectos de los que formarás parte serán de lo más variado. Sitios web de estudios de diseño, comercio electrónico, aplicaciones móviles, web apps, intranets, publicaciones digitales, etc.
+Para ello necesitamos que tengas:
+Experiencia demostrable en maquetación responsive HTML5/CSS3.
+JavaScript (no solamente jQuery) y conocimiento del DOM.
+Código limpio y ordenado.
+Conocimientos de pre-procesadores CSS, si es SASS (SCSS) mejor.
+CSSnext.
+Uso del terminal.
+NodeJS es un plus.
+PHP es un plus.
+Uso de control de versiones, preferiblemente GIT.
+Conocimiento de GULP (o GRUNT).
+Usas Autoprefixer.
+Inquietud por la accesibilidad.
+Conocimientos de SEO aunque sean básicos.
+Experiencia en maquetación de emails responsive.
+Buen trabajo en equipo.
+Capacidad para gestionar tu propio tiempo.
+Inglés nivel conversación.
+Predisposición para el diálogo y aprendizaje.
+Si además tienes conocimientos de diseño, aunque sean básicos, mejor.
+Nosotros te ofrecemos contrato laboral, alta en Seguridad Social, salario según tu valía y un buen ambiente de trabajo. Si eres freelance y estás dado de alta en el régimen de autónomos de la Seguridad Social también puedes encontrar un sitio con nosotros, no te cortes y completa la solicitud.

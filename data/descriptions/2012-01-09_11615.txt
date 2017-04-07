@@ -1,0 +1,10 @@
+
+Experiencia mínima: Al menos 3-4 años
+Requisitos mínimos:
+-Experiencia comprobable de desarrollo de proyectos en PHP5 y MySQL 
+-Experiencia en alguno de los siguientes Frameworks: ZEND, Symfony, codeIngniter
+-Conocimiento  de CMS Wordpress: programación templates + API,  
+-Experto en programación Orientada a Objetos
+-PHP, MySQL, HTML5, CSS3, XML,JSON, javascript, jQuery 
+-Subversion - control de versiones
+

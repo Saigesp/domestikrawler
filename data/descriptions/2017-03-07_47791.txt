@@ -1,0 +1,14 @@
+
+En Veintidós Grados buscamos un perfil front-end con una gran capacidad de absorción y muchas ganas de aprender e involucrarse, no buscamos perfiles que ya tengan un largo recorrido, queremos gente con unos conocimientos mínimos y una buena base para evolucionarlos y llevarlos al máximo nivel.
+Imprescindible:
+- Hábil en el aprendizaje. 
+- Javascript a buen nivel. 
+- CSS/SASS, HTML. 
+- GIT. 
+- Algún proyecto con ejemplos de código. 
+Estaría bastante bien si además:
+- Tienes un Portfolio. 
+- Tengas experiencia haciendo juegos de navegador.
+- Una mínima base de matemáticas, álgebra y cálculo. 
+Qué ofrecemos:
+- Aprender y experimentar con proyectos y diseños poco convencionales.

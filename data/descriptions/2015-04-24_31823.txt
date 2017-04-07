@@ -1,0 +1,19 @@
+
+Buscamos un programador resolutivo con conocimientos en diseño (photoshop) y con experiencia demostrable en lenguajes PHP/MySQL/HTML5/CSS3/Javascript-Ajax y en las plataformas Wordpress, Prestashop, Magento y Drupal. Se valorarán conocimientos en desarrollo de aplicaciones (iOS + Andriod).
+EL 80% de nuestros proyectos son Wordpress y Magento, pero nos adaptamos a las necesidades de cada cliente.
+Su misión será llevar a cabo diferentes proyectos web a partir de los diseños que se entreguen en PSD (desde el departamento creativo/diseño), hasta la maquetación, implementación y publicación del proyecto.
+Trabajará en colaboración con el departamento creativo, se valorará la toma de decisiones y aportación de nuevas ideas y enfoque de los proyectos.
+Requisitos principales:
+ - Dominio de HTML5, CSS3 y Media Queries.  
+- Desarrollo cross browser (problemas de compatibilidad con exploradores, versiones y responsive design)  
+- Experiencia en la gestión y programación de templates Wordpress (FrontEnd&BackEnd) y Magento (FrontEnd&BackEnd) especialmente.
+ - Conocimientos avanzados en gestión y control de Base de Datos (MySQL principalmente).  
+- Experiencia en el manejo de Photoshop para poder crear y aplicar diseños en la web.
+- Conocimientos de posicionamiento (SEO/SEM.) y campañas online
+- Experiencia en Integración de plataformas de pago (paypal, TPV virtual etc.) en las princnipales plataformas mencionadas: Magento, Wordpress (woocommerce), Prestashop, Drupal...
+ - Habilidades de comunicación, trabajo en equipo, persona dinámica, con ganas de trabajar y amante mundo online.
+- Capacidad de respuesta rápida para resolución de incidencias.  
+- Se valoran conocimientos complementarios.
+- Interesados enviar Portfolio con trabajos realizados.
+Jornada completa
+

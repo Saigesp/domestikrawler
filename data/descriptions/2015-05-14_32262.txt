@@ -1,0 +1,30 @@
+
+Importante empresa internacional busca Quality assurance para formar parte del equipo IT que trabajara en sus nuevas instalaciones en el PTA de Málaga.
+Requisitos
+● A passion for technology and a very keen eye for detail - and errors.
+● Excellent written and verbal communications skills
+● 3+ years of experience performing Quality Assurance for the web
+● Healthy understanding of UI/UX methodology preferred
+● Familiarity with testing suites, testing software, and other software
+○ Sause Labs and Selenium
+○ phantom.js
+● Intermediate knowledge of front-end programming languages including HTML and CSS3
+● Intermediate knowledge with programming languages including:
+○ jQuery, backbone.js
+Funciones
+The Quality Assurance Engineer will implement and maintain quality assurance processes in order to ensure superior product development, operations, and ultimately user experience across our web and email brands. The ideal Quality Assurance Engineer will use their process-based technical skills to master the QA function. The Quality Assurance Engineer will execute test plans, update test reports, document defects, verify fixes, and test our web and email products across supported environments. The ideal candidate will have excellent verbal and written communication skills and will be able to successfully work across departments to ensure excellence in our web products and user experience.
+● Collaborate across departments to fully understand the requirements and specifications of each
+web property and corresponding features and deliver superior quality products
+● Create and implement Quality Assurance protocols and ensure compliance with defined
+processes
+● Create successful test plans, define test strategies, identify and fix apparent and difficult to find
+bugs
+● Participate in design and specification reviews
+● Create and perform regression-tests for new and existing features
+● Ensure comprehensive test coverage by finding bugs, defects and verifying fixes
+● Test and confirm usability of email and web products across major desktop and mobile
+platforms
+● Verify continued functionality throughout product lifecycle
+ 
+Ofrecemos
+Gross annual salary : Negotiable

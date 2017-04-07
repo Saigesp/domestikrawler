@@ -1,0 +1,18 @@
+
+LA TEVA WEB SL es una empresa de marketing online, especializada en el diseño y programación web. Con más de una década de experiencia y situados en el centro de Barcelona, trabajamos para empresas de todos los sectores y tamaños.
+Buscamos maquetador/a web con una experiencia mínima de 2 años en desarrollo (maquetación / programación) de páginas web al que le guste trabajar en equipo en proyectos de todas los tamaños.
+Integrado dentro del departamento de diseño se encargaría de la maquetación de páginas webs.
+Puedes conocernos mejor en http://www.latevaweb.com
+Requisitos técnicos imprescindibles:
+- Conocimientos altos de HTML5, CSS3 (animación por transiciones), JavaScript, jQuery...
+- Dominio en maquetación web
+- Dominio de maquetación adaptable a dispositivo y responsive.
+- Conocimientos en usabilidad, diseño de interacción.
+- Conocimientos de SEO.
+- Dominio del catalán.
+- Residente en el área de Barcelona.
+Requisitos recomendables
+- Maquetación para aplicaciones móviles.
+- Conocimientos básicos de PHP y MySQL
+- Manejo de sistemas de control de versiones (Git).
+El candidato/a deberá obligatoriamente aportar portafolio de trabajos realizados.

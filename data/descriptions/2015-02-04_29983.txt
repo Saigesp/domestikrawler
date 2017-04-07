@@ -1,0 +1,10 @@
+
+Somos un estudio multimedia situado en Alicante.
+Buscamos para proyectos variados un programador PHP con :
+- Experiencia de programación usando o no frameworks
+- HTML5, CSS, Jquery
+- Bootstrap, Foundation
+- GITLab
+NB Una experiencia anterior de programación objetos AS3 con Pure MVC sería un +
+Curioso, team player, capacidad de adaptación son unas de las calidades que buscamos.
+Si te reconoces en esta descripción, y te interesa integrar un equipo dinámico, con proyectos siempre a la vanguardia de las últimas tecnologías en un ambiente de trabajo relajado, contacta con nosotros.

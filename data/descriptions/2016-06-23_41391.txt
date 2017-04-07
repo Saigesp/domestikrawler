@@ -1,0 +1,17 @@
+
+Buscamos a un Desarrollador Backend – LARAVEL con al menos 2 años de experiencia para el desarrollo de proyectos avanzados a medida. Buscamos a una persona con capacidad de trabajo en equipo, asumir nuevos retos, con iniciativa y responsabilidad en el trabajo.
+Funciones:
+1.	Gestión del proyecto mediante la utilización de metodologías ágiles, SCRUM
+2.	Análisis de los requerimientos de las aplicaciones.
+3.	Diseño de bases de datos
+4.	Desarrollo de aplicaciones backend
+5.	Manejo de repositorios
+6.	Resolución de incidencias del cliente.
+Requisitos mínimos:
+Es imprescindible que conozca y/o utilice las siguientes metodologías/herramientas:
+- Best practices, Coding Standards y QA (especialmente ecosistema del Framework Laravel/Lumen) 
+- Design Patterns 
+- Git/VCS 
+- MVC pattern 
+- SCRUM y Kanban
+

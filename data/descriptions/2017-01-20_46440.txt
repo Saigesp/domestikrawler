@@ -1,0 +1,10 @@
+
+Buscamos un desarrollador frontend con altos conocimientos de js para desarrollar una aplicación Web sobre una maqueta HTML ya hecha.
+Requisitos:
+Debe estar familiarizado con JQuery UI
+Debe conocer json.
+El trabajo es en remoto.
+La fecha de entrega prevista es el 20 de Febrero. 
+A los candidatos seleccionados se les enviará un briefing, documento funcional y especificaciones técnicas. Además de la maqueta HTML para que valore de mejor manera el presupuesto.
+Sobre Bkool:
+BKOOL es un sistema para hacer deporte cuando quieras desde dónde tú quieras y con quién quieras. Y empezamos con ciclismo..

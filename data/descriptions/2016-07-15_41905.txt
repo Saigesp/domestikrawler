@@ -1,0 +1,19 @@
+
+En Casino Gran Madrid buscamos a una persona con iniciativa, proactiva, apasionada y perfeccionista en su trabajo con una experiencia de al menos 2 años para incorporarse a nuestro equipo técnico.
+El candidato o candidata trabajará en el desarrollo de nuevas funcionalidades, la refactorización de aquellas que podrían funcionar mejor y el mantenimiento y ampliación de las webs y aplicaciones internas del grupo. 
+Requerimientos:
+-	Maquetación con HTML5, CSS3 y Responsive Design.
+-	Conocimientos de Javascript, JSON.
+-	Conocimientos de PHP y programación orientada a objetos.
+-	Conocimientos de base de datos MySQL.
+Se valorará:
+-	Conocimiento de frameworks MVC de PHP (Symphony, Zend, Codeigniter).
+-	Conocimiento de frameworks Javascript (Jquery, AngularJS).
+-	Experiencia utilizando sistemas de control de versiones.
+-	Conocimiento de metodologías ágiles.
+Características de la posición:
+-	Tipo de contrato: 6 meses de prueba, luego indefinido.
+-	Salario a definir según valía del candidato.
+-	Lugar de desarrollo del trabajo: Casino Gran Madrid (Torrelodones)
+-	Horario de trabajo: de 9.00 a 18.15 horas
+

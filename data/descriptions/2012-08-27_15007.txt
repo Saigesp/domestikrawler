@@ -1,0 +1,19 @@
+
+Puestos vacantes:
+2
+Dependencia Jerárquica Superior:
+CEO y CTO.
+Funciones del puesto:
+La persona seleccionada se encargará del mantenimiento y creación de proyectos basados en el framework de Symfony.
+Imprescindible:
+Conocimientos de PHP y Javascript.
+Conocimientos en el desarrollo de aplicaciones basadas en algún framework, preferiblemente Symfony.
+Experiencia con sistemas de plantillas, preferiblemente Twig.
+Se valorará:
+Experiencia con integración de APIs de terceros y desarrollo de webservices.
+Conocimientos de maquetación con HTML/HTML5, CSS.
+Conocimientos de frameworks javascript (jQuery, mooTools...).
+Idiomas:
+Imprescindible nivel B1 de inglés. Se evaluará durante la entrevista.
+Requisitos del ocupante del puesto:
+Persona dinámica, con mucha actividad y alta implicación. Abstenerse candidatos que no cumplan estos requisitos mínimos. Todos los candidatos preseleccionados deberán pasar una prueba consistente en la programación de una pequeña aplicación de ejemplo. La prueba no se usará para otro propósito que la selección del candidato.

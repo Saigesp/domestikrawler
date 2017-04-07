@@ -1,0 +1,20 @@
+
+El futuro BI Manager tendrá las siguientes responsabilidades:
+•	Llevará la dirección de todos los procesos de Data In /Out de la compañía con reporting a Marketing EMEA, CEO EMEA y CMO/IT Corporativo. 
+•	Gestionará las fuentes de datos a monitorizar: 
+	BO ( Datos de negocio interno )
+	CRM ( Captación y análisis de KPIs)
+•	Deberá hacer uso de Google Analitys.
+•	Coordinará un equipo de seguimiento de KPIs de GA.
+•	Realizará a través de Big Data el análisis de BBDD externas para modelizar soluciones de negocio, segmentos, tendencias, etc.
+•	Deberá liderar la conversión de datos en soluciones de negocio efectivas.
+CONOCIMIENTOS REQUERIDOS
+•	Licenciatura o grado en Matemáticas, Estadística o Ingeniería.
+•	Experiencia en posiciones similares de al menos 4 años.
+•	Google Analytics.
+•	BI y Big Data.
+COMPETENCIAS PERSONALES 
+•	Ser analítico y lógico en el enfoque para la solución de problemas.
+•	Prestar atención a los detalles.
+•	Poseer elevada capacidad de liderazgo.
+

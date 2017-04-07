@@ -1,0 +1,36 @@
+
+Como Responsable IT, su misión principal será:
+ - Coordinación del soporte, mejoras y proyectos en el área de IT, garantizando que estén alineadas con la estrategia y necesidades del negocio.
+-Realizar una óptima gestión, administración y soporte IT. 
+
+Y, sus responsabilidades serán:
+- Interlocución con los clientes internos sobre servicios y necesidades IT.
+- Gestión de las demandas al respecto.
+- Interlocución con la Dirección para el seguimiento, definición y planificación de nuevos proyectos/estrategias.
+- Definir las políticas, estrategias y procedimientos dentro del área de IT.
+- Realizar la coordinación y gestión integral de servicios y necesidades de IT de todos los proyectos de la compañía (implantación de aplicaciones, puesta en marcha de infraestructura tecnológica, …).
+- Propuesta y seguimiento de planes de mejora de sistemas IT.
+- Mantenimiento de infraestructuras de red.
+-Control del gasto e inversiones de IT. Definir y ejecutar el presupuesto del departamento.
+- Seguridad IT.
+- Apoyar en la gestión y negociar con los proveedores externos en el área de IT.
+- Coordinar equipo IT.
+- Liderar, formar y desarrollar al equipo IT.
+
+Se ofrece un proyecto estable y permanente en una empresa líder en su sector.
+Aptitudes y conocimientos deseados
+- Ingeniería Informática o similar.
+- Recomendable al menos 3 años de experiencia en puesto igual o similar.
+- Experiencia y conocimiento en Gestión de Proyectos.
+- Dotes de comunicación y trabajo en equipo.
+- Conocimientos de e-commerce y desarrollo web.
+- Conocimientos de redes LAN y WAN a nivel de conectividad.
+- Persona proactiva, habituada a tomar decisiones y a asumir responsabilidades.
+Valorable:
+- Conocimientos en desarrollos en PHP, .net y VB.
+- Experiencia en entornos Linux y Windows.
+- SQL
+- Conocimientos de servicios Web y Soap.
+- Conocimientos de NAVISION u otro ERP.
+- Nivel medio de inglés.
+

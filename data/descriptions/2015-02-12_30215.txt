@@ -1,0 +1,14 @@
+
+¡Hola!
+Necesitamos incorporar a nuestro equipo un programador web backend (si usamos el masculino es sólo para aligerar), que pueda integrarse con rapidez en nuestra dinámica de trabajo.
+Así que si tienes experiencia profesional de mínimo 2 año, sigue leyendo…
+Nosotros desarrollamos en PHP con Laravel. Ideal sería que tu experiencia con éste entorno fuera de un año o más, pero si la tienes con otros frameworks similares (Symfony 2, Yii, etc.) también lo consideraremos
+Trabajamos con MySQL, que tengas experiencia con el uso de bases de datos es imprescindible
+Que trabajes o hayas trabajado con Git
+Tus funciones principales serán, entre otras….
+Desarrollar nuevas plataformas para nuestros clientes sobre nuestra base tecnológica
+Depurar y mejorar la base de código existente
+Ayudar en la administración, gestión y automatización de tareas en nuestros servidores de produccción
+Aportar propuestas de mejora y optimización a nuestros sistemas
+En otro plano, necesitamos que seas una persona activa, que está al día de las tendencias en desarrollo web, organizado, resolutivo, implicado, con un buen control de los timings y con ganas de asumir responsabilidades. 
+Nosotros te ofrecemos un trabajo en Barcelona, con un horario algo flexible de 9 a 18:30, con un sueldo entre los 18000 y los 21000 euros anuales en un principio (de acuerdo al nivel de ajuste entre nuestras demanda y tu trabajo).

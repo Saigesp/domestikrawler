@@ -1,0 +1,26 @@
+
+Buscamos un/a developer apasionado por el código, la escalabilidad y la innovación. Una persona con mucha iniciativa, creativa, curiosa y resolutiva.
+TUS FUNCIONES
+- Desarrollo de nuevas funcionalidades según el roadmap de producto
+- Integración de nuevos operadores logísticos en nuestra plataforma
+- Mantenimiento de la API
+- Identificar y evaluar nuevas soluciones tecnológicas, contribuyendo de forma directa a su desarrollo.
+REQUISITOS IMPRESCINDIBLES: 
+- Espíritu emprendedor
+- Experiencia de 3 años
+- Experiencia en desarrollo con framework MVC Laravel
+- Administración de BBDD MySQL
+- Experiencia con WebServices 
+- Conocimientos de sistemas de control de versiones, preferiblemente GIT.
+REQUISITOS DESEADOS (por pedir…): 
+- Conocimientos de front-end (bootstrap)
+- Conocimientos de JavaScript y jQuery.
+- Experiencia en administración de sistemas
+- Conocimientos de Prestashop, Magento o Shopify
+- Conocimiento de sistemas de pago electrónico, preferiblemente Stripe
+- Frameworks tipo AngularJS o Backbone.js
+LO QUE OFRECEMOS: 
+- Salario en función de la experiencia: fijo + variable + participación en la starup
+- Contrato indefinido y jornada completa
+- Horario flexible y posibilidad de teletrabajo
+- Equipo pequeño y ágil, con muy buen rollo y que a veces hace barbacoas ;-)

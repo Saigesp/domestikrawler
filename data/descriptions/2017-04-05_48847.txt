@@ -1,0 +1,27 @@
+
+*About Us*
+Ubeeqo is a mobility company that provides a simplified, seamless mobility experience to all its clients. There’s no longer the need to own a car to move around. Ubeeqo provides a car just when you need it, in many different modes: carsharing, traditional rental and chauffeur service. We are a fast growing company with presence in several European countries. We are looking for passionate, skilled Front End Developers who want to make meaningful, measurable improvements that impact millions of users.
+*How we work*
+We work in a start-up like manner and we work in small scrum teams of 4-7. Every team member is encouraged to take full ownership of their part of the platform but also to contribute ideas, suggestions and code to other areas of the business. We believe that features have no value until they are in production adding value to our customers so teams deploy fast and often. 
+The tech team is building something that has never been built before so we're always trying to think outside the box.
+*Responsibilities*
+* Design, estimate, and code new features. This is primarily a coding position.
+* Architect new applications, and expand existing ones.
+* Collaborate on enterprise architecture with other teams.
+* Define, document, and enforce engineering standards.
+* Perform code reviews of your team members' work.
+* Mentor junior engineers.
+* Participate in software design discussions.
+* Participate in sprint planning and other project management meetings.
+* Ensure all code that goes to production is of top quality.
+* Ensure existing applications are scaled to meet expected demand.
+* Identify and fix gaps in system reliability, such as production monitoring.
+*What we’re looking for*
+* * Working experience with LEMP (Linux, Nginx, MariaDB/MySQL, PHP)(essential).
+* 5+ years of recent production quality PHP product development experience. 
+* Expert knowledge of MVC architecture  and experience with a PHP framework like Symphony, Zend…. Laravel would be ideal.
+* Experience developing and maintaining complex web architectures leveraging object oriented PHP and JavaScript. (VUE is a plus! ).
+* Experience building out RESTful API’s.
+* Complex SQL queries and database schema design.
+* Working in a collaborative team environment using tools like JIRA and Git.
+* Stable work history and an ability to collaborate effectively.

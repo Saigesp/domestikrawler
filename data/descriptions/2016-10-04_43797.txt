@@ -1,0 +1,27 @@
+
+Empresa pionera en la distribución de productos químicos, con un canal de venta online en continuo crecimiento. Buscamos un desarrollador web con experiencia para incorporarse a nuestro equipo de Desarrollo.
+Requisitos
+·         Estudios mínimos: Ingeniero Técnico - Técnico en Informática de Sistemas
+·         Experiencia mínima: Al menos 1 año
+·         Conocimientos necesarios: Programación páginas web.
+Mínimos
+- Domine OOP, algoritmos y design patterns en PHP
+- Conocimiento en modelado de base de datos SQL (MySQL, PostgreSQL, SQLServer)
+- Conocimiento sistema de control de versiones mediante Git
+- Conocimiento de desarrollo de software frontend mediante javascript/jquery, html5 y css3
+- Conocimiento en CSS Pre-processors LESS, SASS
+- Domine OOP, algoritmos y design patterns en PHP
+- Conocimiento en modelado de base de datos SQL (MySQL, PostgreSQL, SQLServer)
+- Conocimiento sistema de control de versiones mediante Git
+- Conocimiento de desarrollo de software frontend mediante javascript/jquery, html5 y css3
+- Conocimiento en CSS Pre-processors LESS, SASS
+Valoramos positivamente:
+- Conocimiento en las recomendaciones y estándares en PHP
+- Experiencia en desarrollo MVC con frameworks (Laravel o Symfony2)
+- Conocimiento de phpUnit
+- Frameworks de front-end: Bootstrap
+- Experiencia en desarrollo de APIs RESTful
+- Conocimientos en SEO-SEM
+- Conocimiento en: AngularJS, Nodejs
+Horario:
+Lunes a Jueves de 9:00 a 18:00h. Viernes de 8:00 a 15:00h.

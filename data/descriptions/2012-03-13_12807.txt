@@ -1,0 +1,6 @@
+
+Hola, necesito un programador para montar un aplicación de facebook. 
+Se trata de algo sencillo, un juego de memoria con cartas que tienes que voltear para hacer parejas. Algo como esto:
+ http://www.tunait.com/javascript/scripts/juegos/memoria.htm
+Se trata de una colaboración puntual, y es algo urgente.
+

@@ -1,0 +1,27 @@
+
+FUNCIONES PRINCIPALES
+•	Identificará las oportunidades de negocio a través del uso de la técnica basada en el análisis de datos, y las traducirá en términos de técnicas y métodos de la ciencia.
+•	Identificará las estrategias adecuadas para poder organizar, sintetizar y generar información que promoverá el cumplimiento de la estrategia.
+•	Promoverá el desarrollo de capacidades para liderar proyectos de análisis de datos dentro de la organización.
+•	Construirá modelos de datos y se asegurará de que la información que proporcione sea precisa y entendible.
+REQUISITOS PRINCIPALES
+Se precisará que el candidato seleccionado tenga las siguientes cualidades:
+•	Deberá de tener experiencia en:
+o	Desarrollo de modelos predictivos, o en la implementación de algoritmos de análisis avanzado de datos
+o	Soluciones Big Data y de Data Mining.
+o	Programación científica en R o equivalente (Python, C/C++, C#, Java Ruby, Shell Scripting)
+o	Gobierno del dato
+o	Experiencia en la dirección y administración de proyectos
+o	Sistema de bases relacionales y nuevos paradigmas de bases de datos
+o	Herramientas de Big Data (MapReduce, Hadoop, Hive...) 
+•	Deberá de ser licenciado en una disciplina cuantitativa (Matemáticas, Física, Computación, Ingeniería), siendo deseable un postgrado de formación científica en estas disciplinas.
+•	Se valorará también que el candidato tenga los siguientes conocimientos:
+o	Alto nivel de matemáticas
+o	Experto en estadística
+o	Dominio avanzado en el desarrollo de algoritmos
+o	Nivel avanzado de informática
+o	Aprendizaje computacional
+o	Uso de herramientas para la minería de datos y modelado estadístico (R, SAS, MATLAB, SPSS, STATA …)
+COMPETENCIAS PERSONALES
+El candidato seleccionado deberá tener gran capacidad analítica y ser una persona curiosa. Deberá tener habilidades para saber escuchar y comunicar. Deberá adoptar un papel innovador y de aportación de nuevas ideas. 
+

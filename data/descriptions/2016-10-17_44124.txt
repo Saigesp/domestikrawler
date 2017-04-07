@@ -1,0 +1,31 @@
+
+SocialYou is a company specialized in evaluation and selection of IT profiles and Online Marketing profiles for high-end clients and companies.
+Currently, we are looking for Tech Lead_Full Stack, for important international travel company especialized in big events.
+This Back-end Developer will have an integral part of the development team, responsible for research and development of new file sharing oriented processes.
+The right candidate will possess a broad skillset, be willing to investigate new technologies and platforms, and be up to date on standards and best practices for coding, delivery and optimization. Most importantly, you should have an appetite for developing new, unusual and creative technology solutions. The candidate must have the base and the attitude to act as Tech Lead.
+Responsibilities:
+Develop web applications from the ground up, or by extension of common systems.
+Connect applications to networks and 3rd party APIs.
+Guide and assist other development team members as part of a project team.
+Work closely with technical leads to architect applications across the entire development stack, including application, database/data modelling and server setup.
+Work and collaborate closely with creative directors, digital designers, UX/IA and client-facing teams to select the best solution and platforms for the project.
+Provide technical guidance and estimates around proposed projects and tasks, including possible approaches, risks and benefits.
+Troubleshoot and test applications to insure functionality, security and performance.
+Required skills, experience and qualifications:
+The ideal candidate should have 3/4+ years experience in web software development.
+Experience integration of and development on APIs and platforms.
+Excellent time-management and task/effort estimation skills.
+LAMP-stack application expertise, including experience with PYTHON (2 years), DJANGO frameworks.
+Experience utilizing OOP design and architectural patterns such as MVC.
+Understanding of best practices for application performance optimization and security.
+Experience building applications for implementation across distributed systems.
+Basic system administration skills, with the ability setup, maintain and optimize Linux-based application servers and databases.
+Valuable knowledge:
+GitHub, Heroku, CloudFront, Amazon AWS GetSentry, NewRelic
+Benefits/what we can offer:
+Workplace: Pier 01 overlooking the Mediterranean Sea.
+• Annual compensation: $36K – $40K per year, and milestone bonuses.
+• Mentors to help you get adjusted to the team through active guidance, and support.
+• The option to work remotely at your leisure, from the comfort of your bed or bathtub.
+• Great discounts on travel and hotel bookings for yourself, your friends, and your family.
+• The option to work from any of our locations is always available! (Barcelona or Toronto)

@@ -1,0 +1,43 @@
+
+TheMICEworld, es la única plataforma web global que aglutina en una única búsqueda las mejores "MICE Promotions" &amp; “Meeting Packages” de los principales Hoteles (vacacionales y urbanos) de todo mundo, proponiendo además diferentes opciones de DMC´s (Destination Management Company) y facilitando el enlace directo al Convention &amp; Visitors Bureau de la Ciudad. Además nuestros usuarios encuentran diferentes comentarios de anteriores usuarios que hayan utilizado estos hoteles, los cuales servirán de ayuda a la hora de tomar una decisión. 
+TheMICEworld quedó entre las 14 finalistas de la última edición de WayraWeek Madrid, entre las más de 800 Startups presentadas, y actualmente es una de las empresas aceleradas por la prestigiosa aceleradora de Starups de base tecnológica “Top Seed Lab”
+¿Quieres revolucionar el mundo con nosotros? Pues te vamos a dar la oportunidad!
+Detalles del puesto:
+Buscamos un freelance (Ingeniero Informático) con mucho talento para programar/desarrollar nuestra web. Queremos construir una web robusta, libre de errores y escalable, la cual ya esta desarrollada actualmente a un 40% aprox. También en un futuro desarrollaremos la aplicación.
+Tendrá total capacidad para tomar decisiones importantes tanto en el Front-end como de Back-end del sistema.
+Nos encantara que traiga ideas nuevas que aporten valor, y será una parte muy importante y estratégica dentro del desarrollo de esta Eª. Su función no se limita solamente a la tecnología. 
+Habilidades y Requisitos:
+• Ingeniero en Informática, con amplia experiencia en programación.
+• Desarrollo y programación del documento de BenchMarking.
+• Experiencia demostrada Back-end en Java / Python, o cualquier otra herramienta
+• Experiencia en la construcción de buenos diseños de bases de datos y esquemas      de código abierto (bases de datos MongoDB / MySQL).
+• Pleno conocimiento del framework de desarrollo que la web utiliza TWIG y SLIM.
+• Experiencia con las API a las redes sociales más populares.
+• Conocimiento de diferentes entornos y lenguajes. CSS, OpenID, HTML5, AJAX, PhP, JavaScript.
+• Fuerte sentido en la construcción de una gran experiencia para el usuario.
+• Establecer sistemas de control de errores.
+• Colaborar proactivamente con los fundadores para desarrollar mejoras especificas en la web.
+• Revisar continuamente la programación de nuestra web la cual ha venido desarrollando una empresa externa.
+• Revisar e implementar las mejores prácticas actuales para el framework web seleccionado, TWIG y SLIM.
+• Establecer y supervisar el proceso de desarrollo de software, establecer objetivos a corto plazo y evaluar el progreso según la definición de la metodología de desarrollo de software seleccionado.
+• Realizar revisiones de código y pruebas de conformidad con las especificaciones definidas por la metodología de desarrollo de software seleccionado.
+• Establecer y supervisar un proceso que asegure la calidad.
+• Monitorear los Hoteles, DMC, CVB´s, etc.. que se den de alta en la web y los diferentes perfiles que administran la web.
+• Evaluación y selección de los proveedores de alojamiento de aplicaciones web.
+• Establecer un proceso de implementación y control de la web.
+• Supervisar el rendimiento de la web y revisar y corregir los posibles errores.
+• Poner una alerta de las “MICE Promotions” &amp; “Meeting Packages” que van a caducar para pedir a nuestros proveedores que nos la actualice. (esto ya esta desarrollado).
+• Establecer y supervisar un régimen de análisis web que mida el tráfico en relación con los objetivos de la empresa.
+• Establecer un servicio y soporte de procesos para los clientes/usuarios de la Web
+• Establecer un proceso para apoyar la resolución de problemas de los clientes y mejorar la usabilidad de la Web.
+• Establecer y gestionar el servicio de correo electrónico de la empresa.
+Experiencia y habilidades personales
+• Al menos 5 años de experiencia en la gestión de desarrollo de aplicaciones web.
+• Al menos 5 años de experiencia con Startups.
+• Capacidad para discernir las necesidades del usuario y poder desarrollarlas.
+• Excelentes habilidades interpersonales.
+• Capacidad para articular ideas a un público tanto técnico como no técnico.
+• Gran atención a los detalles.
+• Capacidad de análisis, de evaluación y de resolución de problemas.
+• Ser capaz de trabajar de manera independiente y en equipo
+• Dominio del inglés

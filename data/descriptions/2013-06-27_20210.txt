@@ -1,0 +1,19 @@
+
+Estudios mínimos: Ingeniería Técnica en Informática
+Requerimientos mínimos:
+* Experiencia desarrollando aplicaciones web utilizando frameworks que apliquen el patrón de diseño MVC (Ruby on Rails, Django, Struts, Zend Framework, etc)
+* Experiencia desarrollando interfaces de cliente enriquecidas con el uso de jQuery y AJAX.
+* Excelente comprensión lectora en inglés enfocada a la búsqueda de documentación técnica para resolver problemas de forma autónoma
+* Interés y pasión por las nuevas tecnologías
+Se valorará positivamente:
+* Experiencia o conocimientos desarrollando aplicaciones utilizando el framework Ruby on Rails
+* La posibilidad de mostrar una aplicación web previamente desarrollada durante la entrevista 
+* Conocimientos de Java J2EE
+* Conocimientos de motores de búsqueda (Elastic Search, Apache Solr, Sphinx, etc)
+* Administración de sistemas Linux
+* Participación en proyectos Open Source
+Perfil personal deseado:
+* Capacidad de aprender nuevas tecnologías rápidamente y motivación para reciclarse tecnológicamente
+* Capacidad para resolver problemas de manera creativa
+* Persona organizada, proactiva, responsable y constante en su trabajo
+* Capacidad para tomar decisiones y trabajar autónomamente

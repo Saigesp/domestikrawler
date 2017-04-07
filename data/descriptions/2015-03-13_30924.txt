@@ -1,0 +1,28 @@
+
+Bodas.net es un portal global líder en 14 paises entre otros como USA, Canadá, España, Italia, Francia y México que cuenta con más de 10 millones de visitas únicas al mes.
+Desde el 2008 nos entusiasma ayudar cada día a miles de parejas a realizar la boda de sus sueños, con ideas, consejos y poniendo en contacto directo a los mejores proveedores. 
+Reúnimos la mayor y más cuidada selección de restaurantes, villas, hoteles, así como todos los proveedores necesarios para cerrar hasta el último detalle de una boda.
+Buscamos:
+●	Pasión y profundo conocimiento del entorno internet. 
+●	Experiencia mínima de 3 años con ganas de seguir aprendiendo y superarse
+●	Sólida experiencia en HTML5 y CSS3
+●	Dominio de SASS y OOCSS
+●	Familiarizado con sistemas de control de versiones como Git o SVN.
+●	Optimización del rendimiento en web de alto tráfico
+●	Sin miedo a Javascript / jQuery
+●	Pasión por el performance, escalabilidad y modularidad
+Funciones: 
+Nos ayudarás, junto al equipo de Front-end, a dar vida a las virgerías de nuestros diseñadores y a tener contentos a nuestros QA ;)
+Entre otras cosas tus funciones serán:
+●	Batallar con IE y con la Front-end cross-browser/cross-device de la interfaz.
+●	Desarrollo de los elementos de interacción de la página. 
+●	Maquetación de emails responsive
+●	Optimización del rendimiento Front-end del site.
+Ofrecemos: 
+●	Trabajo creativo con una fuerte capacidad de desarrollo profesional
+●	Buen ambiente de trabajo en una empresa joven y dinámica. 
+●	Entorno con un nivel muy alto desde el punto de vista técnico y de negocio.
+Requisitos Deseados: 
+●	Experiencia en entornos mobile a nivel de maquetación y optimización de tiempos de carga
+●	Sensibilidad por la usabilidad web, experiencia de usuario y arquitectura de la información.
+

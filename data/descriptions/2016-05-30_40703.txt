@@ -1,0 +1,33 @@
+
+As a VFX and particle specialist, and working along different projects in Genera, your main responsabilities will include:
+• Creation all kind of special effects based on particles systems, trails, models and other 3d elements, working closely with the technical team members during the game development.
+• Design a workflow for creation and implementation of particles.
+• Build and library with all the generated resources in order to improve the creative process of particles and effects for our games.
+• Find the best solutions to create visual effects for our games following the principles of optimization and elegance.
+• Provide other artists with help on how to improve the creation process and resulting quality of particles and effects.
+REQUIREMENTS for this position:
+• 2 years experience making successful games as designer in the mobile or social space.
+• Experience working with Unity.
+• Deep Understanding of the current mobile/social landscape
+• Knowledge of the real time techniques used on video-game development.
+• Wide experience with 3DSMax and Particle Flow
+• Wide experience with Photoshop.
+• Knowledge of the following tools:
+- VRAY.
+- RealFlow
+- FumeFx and /or Krakatoa.
+- Houdini
+- After Effects
+- Shaders
+PERSON SPECIFICATIONS:
+• Able to work in a fast-paced environment.
+• Fluent and clear your verbal and written communications.
+• Enjoy challenges and problem solving.
+• Passionate about game development.
+• Positive attitude.
+• Fluent both in Spanish and English.
+Salary is negotiable depending on the skills and experience of the candidates.
+Working hours:
+Monday to Thursday: 8-9h to 17-18h (1 hour for lunch break)
+Friday: 8h to 15h.
+23 paid holiday days per year.

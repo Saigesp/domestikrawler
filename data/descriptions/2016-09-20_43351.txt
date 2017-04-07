@@ -1,0 +1,26 @@
+
+Buscamos un perfil con amplios conocimientos en Laravel. Trabajamos con nuestro propio CMS desarrollado bajo Laravel 5.2. 
+Tenemos dos proyectos muy interesantes con una gran proyección a corto plazo y fuertes empresas internacionales como clientes.
+Indispensable: 
+- Laravel >= 5.2 (PHP >= 7.0.9)
+- Experiencia bajo protocolo HTTPS
+- Bootstrap
+- HTML5
+- CSS3
+- jQuery
+- Control de versiones (Git o Subversion)
+- API social (Login redes sociales)
+- API YouTube
+- Compromiso
+- Actitud
+Para sacar nota:
+- Pagos automáticos con PayPal
+- API Daylimotion
+- Google AMP
+- Facebook Instant
+Si no conoces alguna de estas tecnologías pero tienes gran interés y te ves capaz de aprenderla y aplicarla llegado el momento, nos sobra.
+¿Qué te podemos ofrecer?
+Entorno de trabajo joven y dinámico.
+Responsabilidad y autonomía. 
+Flexibilidad horaria.
+Escríbenos adjuntando tu CV con proyectos en los que has participado.

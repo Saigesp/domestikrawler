@@ -1,0 +1,19 @@
+
+Desde Cegos España buscamos  programador para una importante empresa del sector público. Empresa pionera en tecnología que desarrolla proyectos de ingeniería, consultoría y asesoría técnica en diversos sectores. 
+Titulación mínima requerida: FP2 ó Ciclo CGSuperior.
+Funciones y tareas a desarrollar:
+-Desarrollar y mantener la aplicación informática en función de la información que proviene del analista programador/analista.
+-Documentar las actividades desarrolladas.
+-Manejar la base de datos de cada aplicación, creando consultas y manejando las tablas diseñadas por el analista.
+-Elaborar el manual técnico de la aplicación de que se trate.
+-Interpretar aplicaciones desarrolladas por terceros.
+-Elaborar el manual técnico de la aplicación de que se trate.
+-Interpretar aplicaciones desarrolladas por terceros.
+Imprescindible:
+-Suite Pentaho (experiencia de 1 año)
+-Herramienta Kettle  (experiencia de 1 año)
+-Base de datos Oracle 11g.
+-Jasper report.
+-Herramienta de control de versiones.
+Retribución: según experiencia (de 19.800 a 21.700€) + cheques de comida.
+

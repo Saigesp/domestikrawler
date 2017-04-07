@@ -1,0 +1,24 @@
+
+En creadtibe, empresa de desarrollo en internet con alta especialización en implantación de portales de comercio electrónico, gestión de contenidos y comunidades, y creación de apps, necesitamos incorporar programadores en PHP sin experiencia.
+Si puedes demostrar tu experiencia, te entusiasma la tecnología, crees firmemente en las plataformas de libre distribución, te gusta el trabajo en equipo y apuestas por estar a la última en internet, nos encantaría que nos conociéramos y comprobáramos que podemos colaborar y hacer grandes cosas juntos.
+Requisitos imprescindibles:
+. Dominio de programación en PHP5
+. Altos conocimientos de programación orientada a objetos
+. Altos conocimientos de programación web (HTML, CSS, Javascript, JQuery)
+. Altos conocimientos de MySQL
+. Conocedor de Redes Sociales
+Se valorará:
+. Experiencia demostrable de desarrollo sobre plataformas Open Source Drupal y/o Magento y/o PrestaShop
+. Conocimientos plataforma eGroupware
+. Experiencia en uso y creación de Web Services
+. Conocimiento de desarrollo de apps nativas para iOs / Android
+. Conocimiento de desarrollo HTML5
+. Capacidad para trabajar en equipo
+. Aptitudes para el diseño gráfico
+Ofrecemos:
+. Sueldo acorde con el puesto
+. Incorporación a equipo multidisciplinar
+. Participación en proyectos tecnológicos punteros
+. Formación continua a cargo de la empresa
+. Puesto de trabajo en Madrid Capital
+. Lunes a viernes media jornada.

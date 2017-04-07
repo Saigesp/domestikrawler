@@ -1,0 +1,17 @@
+
+En Iwantic, primera agencia española especializada en selección de perfiles digitales, reclutamos a los candidatos más brillantes para los empleos que están cambiando el mundo.
+En esta ocasión, seleccionamos un Programador .NET para importante empresa en Sevilla.
+Dentro de las funciones se encuentra la programación de las partes Front y Back de una aplicación web. 
+Si eres una persona proactiva y con ganas de iniciar un proyecto estable en una empresa en expansión, no dudes en inscribirte a esta oferta.
+Requisitos:
+- Ingeniero Técnico Informático, CFGS en “desarrollo de aplicaciones” o similar. 
+- Experiencia mínimo de dos años como Programador .NET con las siguientes tecnologías:
+Microsoft .NET (C#) Framework 4.5.
+SQL Server Entity Framework.
+Angular JS.
+API RestFUL.
+HTML5 y CSS3.
+También se valorará:
+- Carné de conducir.
+- Nivel alto de inglés. 
+

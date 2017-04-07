@@ -1,0 +1,37 @@
+
+Departamento: Desarrollo 
+Dependencia: Director técnico
+Estamos buscando un profesional como tú: 
+_Abierto siempre a explorar y aprovechar el potencial de los nuevos medios. 
+_Con ganas de conocer nuevas herramientas y aplicaciones.
+_Que está fascinado por la tecnología y todo lo nuevo que nos pone al alcance
+Pero sobre todo queremos a una persona como tú:
+_Con iniciativa y sin miedo a enfrentarse a importantes retos.
+_Interesada en crecer dentro de una agencia con grandes cuentas y que apuesta por aplicar su propia filosofía creativa a las nuevas vertientes de la tecnología aplicada a la comunicación para alcanzar un futuro lleno de nuevas corrientes de negocio.
+Tareas principales:
+Como analista programador deberá ser capaz de realizar las siguientes tareas principales:
+•	Analizar requerimientos de procesos para definir los modelos de datos y las tareas a desarrollar.
+•	Diseño y desarrollo de bases datos en SQL.
+•	Diseño y desarrollo de webservices en .NET
+•	Desarrollo de apps hibridas mediante Cordova.
+•	Integración de funcionalidades nativas de Android, iOS y Windows Phone. 
+Requerimientos mínimos
+Nivel alto de HTML / CSS / Javascript
+Nivel alto de SQL (SQL Server y SQLite)
+Nivel alto de programación C# en .NET
+Inglés leído y escrito.
+Deseable
+Conocimientos de Cordova.
+Conocimientos de Java para Android.
+Conocimientos de Objective-c / Swift  para iOS.
+Conocimientos de Razor
+Conocimientos de Umbraco.
+Se valorarán
+Conocimientos de PHP
+Conocimientos de Wordpress
+Conocimientos de Prestashop
+En definitiva: 
+¡Queremos crecer contigo! 
+¡Queremos que formes parte de un equipo que valora el esfuerzo! 
+¡Queremos trabajar para ser parte del futuro más inmediato! 
+¡Queremos que evoluciones y aprendas junto a nosotros!

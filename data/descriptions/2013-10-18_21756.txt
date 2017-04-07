@@ -1,0 +1,20 @@
+
+RESPONSABILITIES:
+· Create flows, wireframes and other UX documents
+· Create useful user interfaces and page mock-ups
+· Convert mock-ups to HTML using CSS
+· Support development teams in implementing designs
+ESSENTENTIAL SKILLS &amp; REQUERIMENTS:
+· More than 2 years’ experience on visual, interaction, and UX design for websites or interactive projects
+· Proficiency with Adobe Creative Suite (Illustrator, InDesign, Fireworks…)
+· Deep knowledge of HTML and CSS
+· Works collaboratively in a team environment
+· Solid understanding of layout, typography, hierarchy, color theory, patterns and other design principles
+· Passion for user interfaces, and pixel-perfect attention to detail
+· Strong portfolio illustrating web and visual design work 
+· Degree in Graphic Design, Web Design, or related field 
+EXTRA SKILLS &amp; REQUERIMENTS:
+· Responsive and mobile design experience
+· Knowledge of CSS preprocessors (we use LESS)
+· Knowledge of Java Script
+· Ability to create vector illustrations and icons

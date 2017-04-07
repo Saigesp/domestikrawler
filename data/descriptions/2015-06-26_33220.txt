@@ -1,0 +1,13 @@
+
+CODERE es una compañía multinacional española, referente en el sector del juego privado, con presencia en 8 países de Europa y América. 
+Para la unidad de negocio Apuestas Deportivas, precisamos incorporar dos Analistas Funcionales Junior que realizarán las siguientes funciones:
+- Definir requisitos para proyectos de desarrollo de aplicaciones 
+- Crear ciclos de pruebas para control de calidad 
+- Optimizar los front-ends de aplicativos (navegación, experiencia de usuario)
+Buscamos a una persona con:
+- Formación Profesional o Universitaria adecuada al puesto (FP Informática, Ingeniería Técnica Informática o similar).
+- Experiencia de al menos 1 año en las funciones descritas.
+- Experiencia en la metodología SCRUM.
+- Manejo de herramienta HP ALM
+- Afición por el deporte con sólidos conocimientos deportivos.
+Ofrecemos un puesto de trabajo estable y paquete retributivo acorde a la experiencia aportada.

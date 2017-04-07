@@ -1,0 +1,10 @@
+
+Buscamos estudiante para prácticas remuneradas de unas 30 horas a la semana, con horario flexible, aunque preferiblemente de mañanas, para formar parte del equipo de desarrollo de Bookitit (www.bookitit.com) dentro del grupo Vocento. 
+Buscamos a estudiantes apasionados con desarrollo web :
+- HTML + CSS 
+- JavaScript 
+- PHP - MySQL
+El alumno contará con el apoyo del director técnico para ir desarrollando desde funciones más básicas hasta más complejas, comenzando por maquetación, luego programación javascript para posteriormente en momentos en los que fuera necesario programar en PHP y MySQL. 
+El trabajo será revisado para que pueda ir aprendiendo de sus errores con la ayuda del director técnico.
+Se valorará experiencia en Maquetación y JS
+

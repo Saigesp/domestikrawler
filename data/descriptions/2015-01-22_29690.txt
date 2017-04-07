@@ -1,0 +1,13 @@
+
+Perfil del Candidato:
+Somos una startup dedicada al desarrollo de aplicaciones móviles nativas. Desarrollamos proyectos innovadores aportando nuestro conocimiento sobre las últimas tecnologías y cuidando la calidad.
+Buscamos una persona con iniciativa y capacidad de resolución para que entre a formar parte de nuestro equipo de desarrollo y valore la calidad del trabajo aportando conocimientos y experiencia a los proyectos.
+Experiencia:
+- Programación web (back-end). PHP (frameworks como Yii, Symphony), Java, Ruby, Groovy, Grails
+- Implementación y uso de apis REST con JSON.
+- Programación Android.
+- Servidores: Unix, tomcat
+Habilidades:
+Análisis, proactividad, resolución de problemas, calidad, priorizar, mejores prácticas, autonomía, planificación de hitos, agilidad de respuesta.
+Datos del Puesto:
+El candidato o candidata deberá realizar las diferentes tareas de cada fase del proyecto junto con el equipo de desarrollo (análisis, diseño, desarrollo de gestor de contenido, desarrollo de app) y estar especializado en el desarrollo de aplicaciones Android.

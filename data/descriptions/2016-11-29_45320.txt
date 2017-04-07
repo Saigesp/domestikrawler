@@ -1,0 +1,41 @@
+
+A bit about you:
+As a Senior Product Designer, you will have a number of years of solid interaction design under your belt and will be able to bring something new and unique to the team. You know that designs are never completed but are constantly evolving based on user feedback. To you an interface is not a “pretty-picture” fabricated from an ideal state, but is a compilation of complex components which can have many states and need to work fluidly with the data that is thrown at them. You have a passion to learn new things and you see failure as a way of learning. Are you what we look for? Apply now!
+Key Responsibilities:
+- Design and test new components and interfaces using lean methods.
+- Communicate ideas clearly and quickly with key stakeholders.
+- Decide on the best approach for your designs based on a strong understanding of commonly understood patterns and usability.
+- Understand technical constraint and how this will impact your designs.
+- Consider how your designs will adapt across multiple devices and in various contexts.
+- Aim to delight users through thoroughly considered designs and microinteractions.
+Requirements:
+- 5+ years experience in a UX or Product Design role.
+- A strong passion for travel and digital products.
+- Understand the basics of HTML/CSS/JS, ideally web applications like React.
+- Experience working in agile teams using Lean UX methods.
+- Understand how data and user testing (both quantitative and qualitative) can help drive better design solutions (experience with tools like Google Analytics, MixPanel etc).
+- Ability to work with industry standard design tools (eg. Sketch, Axure).
+- Experience running and participating in user testing and research.
+- Highly efficient and comfortable working at a fast pace.
+- Team player (working closely with everyone, specially with product team, engineers and customer support).
+- Humbleness to let go if when you see a design is failing, and have a passion to correct it.
+- Advocate a unified approach to design and a high standard of quality in everything we ship.
+Bonus points for:
+- Ability to code (for prototyping and for realising design concepts)
+- Experience within the Travel Industry.
+- Experimenting with APIs.
+- Animation skills.
+- Copywriting experience.
+- Experience with Git.
+What we offer?
+- Competitive compensation including base salary, bonus and equity in the company.
+- 24 vacation days per year and flexible working hours.
+- Coffee and beverages, fresh fruit and other breakfast stuff provided.
+- A fun, fast-paced experience that will allow you to grow as a professional.
+- The kit that you need to get your job done.
+- Autonomy to make the right decisions.
+- Continuous learning is encouraged and you are more than welcome to dedicate time to learn things that interest you, even if they are not directly related to the day to day tasks
+- Be a part of creating the next big thing in Online Travel.
+
+This position requires full-time, in-house work in Barcelona, Spain. We can help with relocation from anywhere in the world.
+English is the official language at the office. No prior knowledge of Spanish is required.

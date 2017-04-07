@@ -1,0 +1,20 @@
+
+Necesitamos un maquetador Front End para próxima incorporación.
+Los requisitos que pedimos son los siguientes:
+. Experiencia demostrable
+. HTML / HTML5 / CSS3
+. Javascript avanzado / JQuery
+. Maquetación Responsive avanzada
+. LESS
+. GIT
+Se valorará positivamente conocimientos de:
+- PHP
+- Programacion MVC
+- Frameworks de php.
+- Frameworks de javascript.
+- Mysql
+Buscamos una persona con buena disposición, que trabaje bien en equipo y autosuficiente.
+Se realizará una pequeña prueba entre los seleccionados.
+Contrato indefinido con un periodo de 6 meses de prueba.
+Incorporación en febrero
+

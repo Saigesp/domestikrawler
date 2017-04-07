@@ -1,0 +1,4 @@
+
+Somos una empresa de formación online, estamos buscando un programador que se encargará de llevar dos proyectos por un lado llevará las consultas de los alumnos, así como las correspondientes mejoras del temario... Y la segunda parte del proyecto consiste en el desarrollo de aplicaciones para android.
+Es necesario que el candidato tenga conocimentos de C++, javascript, se valorará C# aunque no es indispensable.
+Ofrecemos un horario flexible de media jornada, nos adaptamos a otras actividades que disponga el candidato.

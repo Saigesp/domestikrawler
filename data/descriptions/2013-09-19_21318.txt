@@ -1,0 +1,25 @@
+
+En BCNscience buscamos 2 desarrolladores web back-end con experiencia en agencia de publicidad digital. Los profesionales se integrarán en una compañía en fase de expansión dentro del ámbito de la salud. Formarán parte de un equipo de trabajo competitivo y altamente cualificado. Posibilidades reales de desarrollo profesional y estimulante entorno de trabajo. 
+Requisitos:
+- Javascript / jQuery
+- PHP
+- MySql
+- HTML5/CSS3
+Deseable:
+- Conocimientos ObjectiveC 
+- Conocimientos HTML5 canvas + javascript.
+- Conociemientos Phone Gap.
+Funciones:
+- Desarrollo de componentes dinámicos e interactivos (HTML5/CSS3, Javascript, PHP, Mysql).
+- Desarrollo de webApps (no nativas) para iPhone, iPad &amp; Android (Phone Gap).
+- Desarrollo de webs &amp;amp; microsites.
+- Maquetación y codificación Web (XHTML + CSS)
+Buscamos dos profesionales:
+- Con capacidad para gestionar proyectos (ejecución).
+- Personas resolutivas.
+- Entusiastas y con vocación de servicio al cliente.
+Valorable:
+- Java
+- C/C++
+- .net
+Incorporación inmediata.

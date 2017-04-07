@@ -1,0 +1,14 @@
+
+Queremos actualizar el sistema de inscripción a nuestra ‘comunidad’ en la página web, a fin de que los futuros usuarios puedan recibir nuestros correos con oportunidades seleccionadas para sus perfiles, sin la preocupación de que les pueda llegar a Spam.
+Descripción trabajo: 
+Se precisa programador, con nivel B1/B2 de inglés, que sepa actualizar el sistema de inscripción a una plataforma.
+Se pide: 
+-Creación de una Landing Page adaptable a la plataforma Wordpress con un formulario de inscripción (detallada en otro archivo).
+-Solución, vía la landing page o el correo de verificación (enviado desde MailChimp) al problema del Spam.
+-Asesoramiento en la automatización de los correos de verificación LandingPage-MailChimp.
+-Actualización del Aviso Legal. 
+- se facilitan imágenes, texto, fuentes, etc. 
+¿Qué necesitamos saber nosotros? 
+-	El presupuesto.
+-	Si tienes disponibilidad para poder terminar el trabajo para el día 28 de marzo. Empezaríamos el día 21 de marzo. 
+

@@ -1,0 +1,17 @@
+
+Somos una empresa dedicada al mundo mobile y apps web actualmente buscando un desarrollador web freelance para proyecto de larga duración.
+-El trabajo será en remoto con 1 día a la semana presencial para coordinar sprints y dudas en nuestra oficina de Gràcia.
+-Se trabajará con metodología Agile. 
+-Se trabajará con sprints de 15 días con una demo al finalizar.
+Imprescindible:
+ - Experiencia en Wordpress.
+ - Experiencia en programación web usando HTML 5, CSS3 y Javascript.
+ - Experiencia con los framworks de AngularJS y JQuery.
+ - Experiencia con PHP y Symfony Framework o Laravel.
+ - Experiencia con Git / Bitbucket.
+Se valorará:
+- Experiéncia con Jira y confluence. 
+Lo que ofrecemos: 
+- Proyecto ambicioso, con la idea de fidelizar una relación a largo plazo.
+- Se abonará factura a final de cada mes con el recuento de horas. 
+

@@ -1,0 +1,20 @@
+
+Requisitos: 
+- Diseño con rigor, coherencia y para dispositivos digitales 
+- Construcción de Interfaces interactivos (con Invision, Origami, Framer… )
+- Presentación de experiencias de usuario, mockups, flujos de navegación 
+- Capacidad de comunicación con los equipos Front-end y Back-end
+- Conocimientos altos sobre HTML/CSS, semántica y posicionamiento web.
+- Haber usado y/o manejarse con Javascript (o jQuery, o cualquier otro framework de JS).
+Experiencia:
+ Manejo alto de Sketch (o Photoshop, o Illustrator, …) para prototipos y wireframing
+- Conocimiento de preprocesadores en especial SASS y COMPASS
+- Experiencia mínima de 3 años en puestos relacionados con Diseño/Desarrollo Web y/o UX/UI 
+- Experiencia con proyectos multiplataforma 
+- Imprescindible trabajo en equipo
+  Requisitos adicionales: 
+- Perfil apasionado por el Diseño Digital y las tecnologías, con un buen nivel creativo 
+- Al día sobre tendencias, buenas prácticas y nuevas tecnologías
+ - Buena capacidad de comunicación tanto interna como externa
+ - Soluciones simples a la hora de resolver problemas
+- Se valorará experiencia en el control de versiones git

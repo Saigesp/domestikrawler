@@ -1,0 +1,47 @@
+
+Misión
+Técnico senior en gestion de sistenas informáticos. - Se encargará del desarrollo, optimización y mantenimiento de los sistemas que dan soporte a la web y todos sus procesos, administration de los sistemas informaticos internos de la organización.
+- Ha de tener un perfil técnico y a la vez ser multidisciplinar y resolutivo para afrontar cualquier reto que se plantee.
+Funciones
+Sus funciones principales serán:
+•	Mantenimiento y actualización de arquitectura de sistemas, servidores de entorno de produccion web, y servidores de soporte a servicios corporativos.
+•	Soporte a proyectos, puesta en produccion e integracion con los sistemas existentes.
+•	Organizar el día a día de los proyectos y tickets de incidencias que surgen.
+•	Gestión y mantenimiento de la red local de la empresa, servicio vpn y comparticion de archivos.
+•	1 becario a su cargo.
+Perfil
+Requisitos de formación:
+•	Formación superior en Informática o Ingeniería informática.
+Requisitos de idiomas:
+•	Imprescindible inglés fluido
+Requisitos de experiencia:
+Requisitos técnicos:
+•	Administración de sistemas (Linux)
+•	Administracion servidores GNU/Linux.
+•	iptables.
+•	Bash Scripting.
+•	Gestión de DHCP, DNS.
+•	LDAP.
+•	Samba.
+•	Implementación redes VPN (pptp, open vpn)
+•	SGBD MySQL. (InnoDB y NDB Cluster). Percona toolkit.
+•	Percona XtraDB Cluster.
+•	Configuración de servidores web de alto rendimiento: Apache, Nginx, PHP-FPM, Memcached, xCache.
+•	Entornos de virtualizacion: KVM, OpenVz. Gestión de maquinas virtuales bajo Proxmox.
+•	Gestión de clientes de correo Outlook.
+•	Amazon Web Serices.
+•	Experiencia con Zend Framework
+•	JS + jQuery + Ajax
+•	Maquetación HTML 5 + CSS 3
+•	Conocimientos en C
+Requisitos deseados:
+•	Nivel alto en MySQL (optimización de consultas)
+•	Desarrollo e implementación de Webservices
+•	Patrones de diseño, MVC, Repository
+•	Experiencia con framework de desarrollo PHP (Zend Framework, Fuel PHP)
+•	JS + jQuery + Ajax
+•	Control de versiones (GIT)
+Se ofrece
+•	Empresa joven en pleno crecimiento y expansión a nivel nacional e internacional.
+•	Retribución en función de la experiencia.
+•	Posibilidades de crecimiento y de desarrollo.

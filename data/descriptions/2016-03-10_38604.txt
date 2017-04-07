@@ -1,0 +1,19 @@
+
+Natural Logistics S. L. se constituye como una empresa dedicada a la distribución de cosmética natural de última generación siendo pionera en esta industria tan vanguardista y puntera. Con la máxima seriedad y eficacia en sus servicios, trata de responder a las exigencias de los clientes a través de su plataforma de comercio electrónico.
+Natural Logistic S.L fue creada en 2005 abriéndose hueco en el mercado digital a través de su multitienda 500Cosmetics. Esta plataforma de E-Commerce dedicada al desarrollo de productos de cosmética natural y dispositivos de tecnología aplicada a la salud, está actualmente presente en más de 15 idiomas diferentes alrededor de todo el mundo. Sus productos se basan en la búsqueda profesional de soluciones en diversos ámbitos de la salud y la belleza. Su trayectoria de más de 11 años, ha permitido a Natural Logistics mantener siempre la innovación y la calidad de sus productos adaptándose a las necesidades de sus clientes.
+A través de 500Cosmetics ofrece productos punteros en el campo de la salud, belleza y bienestar haciendo especial hincapié en su composición natural y tecnología avanzada en la elaboración de sus productos. La gama que ofrece 500Cosmetics incluye productos para cubrir necesidades muy diferentes tanto para hombre como para mujer dentro del ámbito de la salud sexual, el cuidado personal o el bienestar. Actualmente cuenta con una plantilla de entre 40 y 50 empleados dedicados al desarrollo de sus productos en diferentes departamentos para la mejora en la calidad de sus servicios.
+Seleccionamos, para nuestro centro Ubicado en Ciudad de la Imagen en Pozuelo de Alarcón, un Programador-Desarrollador con alto Nivel en programación de magento. Su función principal será Organizar el departamento de IT/Programación y dirigir el desarrollo de nuevas funcionalidades,implementaciones y mejoras en la red de websites y plataformas ecommerce de la empresa Organizando la información y Supervisando el cumplimiento de las tareas del departamento.
+Desempeñará las siguientes tareas:
+- Control y supervisión del trabajo del equipo de IT/Programación.
+- Organización y asignación de tareas que provienen de otros departamentos.
+- Definición de requisitos funcionales a implementar.
+- Búsqueda de nuevas soluciones y servicios tecnológicos
+- Apoyo en la implementación de servicios y en la resolución de incidencias con los mismos
+- Resolución de incidencias. 
+Los candidatos deberan cumplir con los siguienets requisitos:
+- Experiencia de al menos dos años en proyectosde software y ecommerce.
+- Imprescindible conocimiento de plataformaMagento.
+- Dominio de metodologías ágiles de desarrollode software.(Scrum, etc).
+- Conocimientos en PHP y Base de Datos.
+- Conocimientos en gestión y administración deservidores Linux 
+

@@ -1,0 +1,18 @@
+
+About the job position:
+We are looking for a highly talented and motivated Backend/DevOps Intern who is willing to explore new technologies and trends, and to work in Backend and Systems projects for mobile applications.
+Minimal skill set:
+- Python and MySQL
+- Knowledge of Linux internals
+- Very good spoken and written level of English
+Recommended skillset:
+- Django
+- Nagios
+About MUBIQUO:
+MUBIQUO is an international and independent mobile app company established in Barcelona in 2009. We are passionate about the enhanced possibilities that smartphones bring to business and consumer communication.
+MUBIQUO is a + 30 people team with offices in Barcelona, Madrid, Murcia and San Francisco.
+Our aim is to help brands extend their communication channels and business to smartphones.
+We have worked with clients such as ZARA, NESTLE, LOEWE, SHELL, TOUS and PLANETA DE AGOSTINI among others.
+To continue offering a quality service to these and up-coming international brands, we are opening a new recruitment process; giving the oportunity to young, talented developers to promote their career in one of Spain`s leading companies in the mobile sector.
+MUBIQUO`s team is formed by dynamic and enthusiastic young professionals that believe in the mobile APP revolution.
+

@@ -1,0 +1,6 @@
+
+We are looking for someone to migrate our old database to our new CRM system.
+The data is all available in Excel and needs to be processed before import to Insightly.
+This will entail some basic data processing within Microsoft Excel (i.e. checking for duplicates, making sure the data to import is correct etc), mapping the documents and import the data into the CRM.
+You will be working from our office in Metro Goya. The project should last for a maximum of 3 to 4 weeks.
+You do not need to be a database expert, but good command of Microsoft Excel and English language are prerequisites.

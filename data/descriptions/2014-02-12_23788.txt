@@ -1,0 +1,17 @@
+
+Tenim un nou projecte en un ecommerce dedicat a la distribució de entrades per esdeveniments d'esports i concerts i busquem un desenvolupador de PHP que s'uneixi al actual equip en les nostres oficines al centre de Barcelona.
+Garantim un bon ambient de treball, participació en un projecte amb molt de futur i accés a beneficis dels treballadors de l'empresa, agència oficial de venda d'entrades del FC Barcelona. 
+Coneixements: 
+Requerits:
+- Desenvolupament PHP de projectes basats en el model MVC.
+- Bases de dades MySQL, PostgreSQL
+- Javascrip / jQuery.
+- Maquetació HTML5 / CSS3.
+- Anglés tècnic.
+Es valorará:
+- Gestió de servidors Linux, Apache, MySQL, PostgreSQL,...
+- Coneixements de APIs web basats en REST. 
+Experiència: 2 anys
+Tipus de contracte: 6 mesos de prova + Indefinit
+Jornada Laboral: Jornada Completa
+Tecnologies: PHP, MySQL, PostgreSQL, JavaScript, HTML, CSS, APIs REST. 

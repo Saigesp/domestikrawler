@@ -1,0 +1,16 @@
+
+Gamygame es una de las compañías de gamificación más punteras en España y en proceso de expansión. Tenemos una larga y variada lista de clientes incluyendo equipos de fútbol, farmacéuticas, bancos y muchos más. Tenemos un entorno joven y dinámico siempre dispuesto a escuchar nuevas ideas.
+Buscamos a un Programador Senior Javascript que quiere trabajar en proyectos internacionales desafiantes y excitantes. Trabajamos en visualización de alto volumen de datos, y aplicaciones mobile. Buscamos para nuestra oficina de Barcelona (El Prat de Llobregat) un candidato que domine Javascript a la perfección (Senior), tenga ojo para el detalle, que busque soluciones, sea flexible y quiera trabajar en proyectos de Big Data.
+Perfil que buscamos:
+- Estudios superiores (Ingeniería Informática)
+- Responsive Design (Nivel alto)
+- Javascript: Nivel alto en javascript nativo y librerías como jQuery, d3js, Nodejs y lenguajes basados en MVC o formándose en ello (Angular)
+- Ajax / JSON (Bastante experiencia con volumen de datos alto)
+- Alto nivel de HTML5 / CSS3
+- Git
+-SVG
+- Nivel alto de inglés será valorado.
+Serán altamente valorados postgrados o másteres en Inteligencia Artificial y/o Diseño y Programación de Aplicaciones Java JEE.
+Buscamos personas proactivas, eficientes, capaces de priorizar el trabajo y de cumplir deadlines, que les gusten lo retos, con capacidad resolutiva, y que se mantengan siempre al tanto de las últimas tecnologías.
+Somos ambiciosos, tú también? Contáctanos si te sientes identificado con este perfil.
+Abstenerse candidatos que no cumplan los requisitos requeridos.

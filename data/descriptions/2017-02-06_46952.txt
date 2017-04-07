@@ -1,0 +1,10 @@
+
+En Grupo Sothis estamos colaborando con la selección de un Ingeniero Fiabilidad Plataforma IT para Mercadona. 
+Titulación: Ingeniero informático / Telecomunicaciones
+Requisitos:
+- Conocimiento de sistemas operativos UNIX/LINUX
+- Conocimiento y experiencia en instalaciones, configuración y rendimiento en servidores de aplicación web para Python como Gunicorn/uWSGI
+- Conocimiento y experiencia en instalaciones, configuración y rendimiento en la plataforma de búsqueda ElasticSearch
+- Conocimiento en plataformas de gestión de trabajos asíncronos con Celery y RabbitMQ
+Valorable:
+- Conocimiento de servidores de Caché tales como Mginx /Varnish /Memcached

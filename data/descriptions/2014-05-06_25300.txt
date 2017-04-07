@@ -1,0 +1,6 @@
+
+Kitchen Needs New Chefs 
+- We are looking for a full-time Front-end Developer. 
+- Great html5, javascript, CSS and outstanding animation skills are the must. 
+Bonus:
+- Experience in working with Front-end MVC frameworks (preferably Backbone), Canvas, SVG animation and experience with some PHP framework (preferably Laravel).

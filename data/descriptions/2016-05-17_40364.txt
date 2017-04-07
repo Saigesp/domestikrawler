@@ -1,0 +1,31 @@
+
+EBS is the largest and most professional bar school in the world. With over 21 Schools in 15 different countries and 4 continents, from Europe over Asia and Australia, we educate and recruit bartenders from all over the world. We also work closely together with respected brands in the global industry to ensure constant development and career opportunities for our students across the globe.
+As a growing, international company, currently experiencing high levels of continuing growth, we seek a full-time, in-house Wordpress developer to join our growing marketing team; you will be responsible for the development and support across a wide range of projects and platforms, mostly our marketing sites, which are built on the Wordpress Platform.
+You'll find us at www.barschool.net
+WHAT YOU WILL BE DOING
+Help develop and enhance our WordPress powered marketing consumer sites 
+Help recommend and implement SEO optimisations to keep us high in search engine results
+Visual and Wireframe Design Interpretation and Integration, taking flat designs and creating beautiful WordPress experiences
+Responsive Theme and Child Theme Development 
+Plugin Development and Modification 
+New Page Template Development 
+Creation of Custom Post Types 
+Short Code Integration 
+API Integration, consuming JSON feeds and other APIs.
+PHP and HTML development outside of WordPress for landing pages, micro-sites, etc. 
+REQUIRED SKILLS
+
+3+ years recent experience creating WordPress sites from scratch, developing themes, and plug-ins 
+3+ years software development experience using web frameworks 
+You have some front end design skills. 
+Strong knowledge of PHP, HTML5, CSS3 and JavaScript and jQuery and WP Core.
+Strong knowledge of developing WordPress Themes, Child Themes, Plugins and Templates 
+Understand APIs and their integration into WordPress 
+Work well in a team environment 
+Excellent communication skills 
+Fluent English (spoken and written)
+Self-Starter, with strong time management and prioritisation skills 
+Able to work under tight deadlines with divergent priorities 
+Experience creating multi-lingual websites 
+Knowledge of WordPress Network Multi-site
+

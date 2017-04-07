@@ -1,0 +1,21 @@
+
+Requisitos
+• Semi senior (2-5 años)
+• 25.000 € bruto/anual 
+• Alcobendas
+Descripción
+Seleccionamos Informático/a con especialidad y experiencia en Java para incorporar a principios de julio hasta finales de año para importante cliente situado en San Sebastián de los Reyes:
+Funciones y proyectos
+- Programas Java para la generación de ficheros "xml" para el envío a "move up". (Proyecto Marruecos y "ede")
+- Web service para informar a web's de zona
+- Generación de ireport para la zona
+Requisitos
+- Mínimo tres años de experiencia en funciones similares.
+- Formación y experiencia en: j2ee: jpa, jms , jaxb, jax-ws, jax-rs, ejb, jt400, ireport
+- Experiencia en: Servicios web: soap, rest
+- Disponibilidad de incorporación a principios de Julio.
+Se ofrece
+- Contrato hasta finales de año.
+- Salario: 25000 brutos anuales más 180 euros/mes en tickets restaurante.
+- Jornada completa
+

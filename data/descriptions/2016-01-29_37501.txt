@@ -1,0 +1,18 @@
+
+About the company:
+The Onevest ecosystem (1000Angels, Cofounderslab) supports founders and investors in building successful ventures. Onevest provides technology products to connect founders, investors, advisors and influencers in the entrepreneurship community seamlessly and easily.
+We are creating a team for developing our 1000 Angels platform and we are looking for a web software engineer to join us in our Barcelona’s office. You will have the chance to join a highly talented international team located around the world with the unique and empowering mission of helping founders and investors to be successful.
+Requirements:
+Conversational English is a must. You will also need to be able to spend an initial period of time in our NY office to meet the 1000 Angels team.
+Deep knowledge of software architectures and best practices
+Strong understanding of HTML/CSS
+Writing object-oriented JavaScript
+Test-driven development
+Great sense of UI/UX design
+Working knowledge of Gulp, Grunt, or similar build system
+Bonus points:
+Experience with JavaScript frameworks (we use Angular.js)
+Working knowledge of NoSQL databases (we use MongoDB)
+Experience with Node.js and Express.js
+Comfortable in a fast-paced Agile environment
+

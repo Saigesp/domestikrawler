@@ -1,0 +1,13 @@
+
+Buscamos un desarrollador front-end senior FREELANCE con muchas experiencia en:
+· HTML/HTML5 
+· CSS/CSS3 
+· LESS 
+· jQuery 
+· Wordpress 
+· Desarrollo Responsive 
+· Angular
+Suma puntos si el candidato tiene experiencia con IONIC y alguna libreria JS como Velocity.js o React.js.
+Tenemos ya un proyecto en activo por ser asignado y muchos más por confirmar.
+Contactarnos enseñando una muestra de vuestros mejores trabajos y enviando un archivo .zip con una parte de código escrito por vosotros. El código tiene que ser dividido por HTML, LESS, JS - para que podamos comprobar la calidad del código producido.
+Gracias por vuestro tiempo

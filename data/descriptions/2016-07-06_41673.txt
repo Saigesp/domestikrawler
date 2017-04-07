@@ -1,0 +1,15 @@
+
+¿Qué necesitamos incorporar en nuestro proyecto?
+Necesitamos incorporar un desarrollador Front End freelance para trabajar en el desarrollo de nuestra plataforma tecnológica SaaS.
+Se requiere conocimientos de: 
+- HTML5 
+- CSS 3 
+- LESS 
+- SASS
+Deseable conocimientos de:
+- AngularJS y librerías Ui-router, UI-bootstrap, ionic para mobile etc 
+- Javascript y uso de patrones 
+- Git 
+- Grunt
+¿Quiénes somos?
+kasitoko es una empresa ubicada en Bilbao que está desarrollando una tecnología programática de marketing de influencers para seleccionar al influencer perfecto de cualquier ad network y optimizar el ROI.

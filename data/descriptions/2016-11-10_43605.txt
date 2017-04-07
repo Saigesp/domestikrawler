@@ -1,0 +1,33 @@
+
+En Splitfy estamos buscando una persona con ilusión, ganas de aprender y que quiera formar parte de nuestro equipo. Somos una startup valenciana del sector fintech, nuestra plataforma permite recoger dinero entre varias personas para regalos, viajes, fiestas, causas solidarias… ¡Cualquier gasto compartido!
+Acabamos de empezar con los pagos en grupo pero nuestro objetivo es posicionarnos como líderes en el mercado. Para ello contamos con el respaldo de Demium Startups, Connector e Innsomia (Acceleradora de Fintech de Bankia).
+Experiencia y habilidades que necesitamos:
+- Experiencia en el desarrollo de aplicaciones web.
+- Experiencia en el desarrollo e integración de APIs REST.
+- Conocimiento de Javascript.
+- Interés por el código limpio y el trabajo bien hecho.
+- Habilidades para el trabajo en equipo.
+Valoramos positivamente:
+- Conocimientos de Git.
+- Experiencia en EmberJS (u otros frameworks como, AngularJS, ReactJS, etc).
+- Habilidad para el TDD y experiencia en integración continua.
+- Haber usado metodologías de desarrollo ágiles (Scrum, Kanban, etc).
+- Compromiso
+- Visión estratégica
+- Trabajo por objetivos/KPI's
+Ofrecemos:
+- Un proyecto en el que todos los días vas a estar aprendiendo.
+- Entorno de trabajo joven, dinámico y con vistas al mar. Estar dentro de un ecosistema emprendedor en el que podrás disfrutar de formaciones de cualquier ámbito
+- Horario flexible.
+- Un salario de 1200€ brutos/mes.
+- Posibilidad de crecer profesionalmente junto al equipo
+Nuestro stack tecnológico:
+- Ruby on Rails
+- Javascript
+- EmberJS
+- MongoDB
+- HTML, CSS, LESS
+- Git/Gitlab
+- AWS
+- Docker
+- Cordova

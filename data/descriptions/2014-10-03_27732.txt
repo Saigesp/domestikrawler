@@ -1,0 +1,12 @@
+
+¿Conoces what if? Somos una agencia digital con más de 13 años de experiencia en el sector. Estamos buscando un programador front end con amplia experiencia y conocimientos de HTML5 y CSS
+Necesitamos programador/colaborador freelance experiencia demostrable en:
+· PHP/Mysql
+· Javascript, Jquery
+ ·Ajax
+ ·Coldfusion
+ ·BBDD (Sql server, Oracle)
+ ·Xml, Json
+ ·Manejo de Apis (Facebook, twitter, etc...)
+ ·eCommerce
+ ·WordPress

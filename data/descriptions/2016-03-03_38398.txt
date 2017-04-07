@@ -1,0 +1,26 @@
+
+eDreams ODIGEO (www.edreamsodigeo.com) is the largest online distributor of flights in the world (measured in terms of sales) and one of Europe’s largest e-commerce businesses. Under its five brands (eDreams, GO Voyages, Opodo, Travellink and liligo), it offers the best deals on regularly-scheduled flights, charters, low-cost airlines, hotels, cruises, car rentals, vacation packages, travel insurance and stays of varying length to more than 16 million customers all over the world. Present in forty-four countries, the company employs more than 1,700 professionals.
+We are now looking for two Digital Analysts to join our Marketing Team based in Barcelona, Spain, reporting to the Group Tracking & Reporting Manager.
+As part of our Tracking & Reporting department, you will work in the tracking and analytics area to provide support to all marketing channels to track channel performance and run different campaigns, implementing tags needed and configuring tags and analytics to measure performance. You will be working with Google Analytics and other data sources including web and online marketing data, analysing results and providing insights and recommendations to improve performance.
+The two successful candidates will have different accountabilities:
+The first role main responsibilities will be:
+•	Manage and configure Google Analytics Accounts;
+•	Tracking tags implementation through tag containers;
+•	Web & Online Marketing Analytics;
+•	Extractions and automated reports.
+The second role will be responsible of: 
+•	Google Analytics implementation audit and issues/implementation errors solving (debugging);
+•	Other tracking codes implementation audit and issues solving;
+•	Tracking planning and control;
+•	Tech documentation and support for tracking purposes.
+Required skills and experience for both:
+•	Bachelor degree in Engineering, Mathematics, Statistics, Business, etc.
+•	1-2 years of experience in a similar role.
+•	Web and Online Marketing background and knowledge (main KPIs, how each channel works, etc.).
+•	Deep knowledge on Google Analytics and its implementation. GAIQ (Google Analytics Individual Qualification) will be a plus.
+•	High level of MS Excel.
+•	Strong analytical skills. 
+•	Good organisation and time-management skills with the ability to work on several projects at the same time. 
+•	Passion for data analysis, online marketing, internet and new technologies.
+•	Fluent in English. We are an international company with employees from over 90 different nationalities, so English is a must.
+

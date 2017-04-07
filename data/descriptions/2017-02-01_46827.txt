@@ -1,0 +1,5 @@
+
+FantasticoPets la mayor App para mascota en España busca un programador con experiencia en desarrollo xCode para desarrollar nuestra app en iPhone. Es necesario saber desarrollar los webservices relacionados a la App también. 
+Los WebServices en la actualidad son sobre en PHP sobre Windows, siendo este un requisito no imprescindible puesto que queremos migrar a Java o .NET los mismos. 
+El candidato elegido podrá optar por trabajar como Freelance o como empleado a tiempo completo pero siempre desde nuestras oficinas en Valencia, España.
+Se valorará muy positivamente experiencia en desarrollo en Android y Web.

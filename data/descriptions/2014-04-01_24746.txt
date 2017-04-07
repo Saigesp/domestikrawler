@@ -1,0 +1,4 @@
+
+Buscamos un perfíl con conocimientos de maquetación online responsive (Html, css, mediaqueries). 
+Se valorarán:
+- Conocimientos de flash, jquery, jquerymobile, php y mysql. 

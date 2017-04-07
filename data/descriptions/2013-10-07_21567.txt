@@ -1,0 +1,11 @@
+
+Buscamos un programador experto en tecnología Actionscript 3 para desarrollar juegos interactivos para CD. Es imprescindible tener experiencia, poder mostrar un portfolio o ejemplos de trabajos similares realizados y residencia en Sevilla.
+El candidato deberá tener conocimientos sólidos en:
+ - Programación de juegos desarrollados en Actionscript 3.
+ - Optimización de rendimiento y peso de los archivos.
+ - Manejo de programas de diseño (Adobe Photoshop, Illustrator) para extraer el material gráfico a animar.
+Se valorará muy positivamente:
+ - Conocimiento de los lenguajes de desarrollo web: PHP, HTML5, CSS3, MySQL y Javascript.
+ - Mentalidad analítica, actitud pro-activa, flexibilidad, entusiasmo, iniciativa y espíritu innovador.
+ - Desarrollo de código limpio, legible, reusable y autodocumentado.
+Incorporación inmediata.

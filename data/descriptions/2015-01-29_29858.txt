@@ -1,0 +1,19 @@
+
+Empresa Joven, dinámica, dedicada al ecommerce, gran potencial de carrera.
+Zona de trabajo Madrid, José Abascal-Rios Rosas.
+Requisitos:
+        Administracion de sistemas Linux
+        Git
+        Base de datos MySQL
+        PHP (Symfony 2)
+        Javascript (jQuery)
+        Html5
+        CSS
+Conocimientos valorables:
+        Apache
+        Pasarelas de pago
+        Wordpress
+        Webservice
+        PhoneGap
+        Bootstrap
+Retribución según valía y experiencia aportada.

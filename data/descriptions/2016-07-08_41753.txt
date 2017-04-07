@@ -1,0 +1,16 @@
+
+En Iwantic estamos buscando un Desarrollador .NET para una gran compañía del sector distribución al por mayor en su sede de Sevilla. La persona seleccionada gozará de un atractivo paquete retributivo, plan de carrera y formación en una empresa en crecimiento e inmejorable ambiente corporativo.
+Buscamos a alguien con iniciativa propia, inquietud y muchas ganas de formar parte de un ambicioso proyecto digital con una gran visión estratégica a largo plazo. Queremos a alguien al que le apasione el comercio electrónico y con una amplia experiencia y conocimientos en programación.
+REQUISITOS:
+-Experiencia de al menos 2 años con el framework .NET
+-Formación: Ciclo Medio/Superior o Titulación Universitaria.
+-Conocimientos de .NET (VB.NET).
+-Conocimientos avanzados de la API Rest de Woocommerce.
+-Conocimiento de la plataforma e-commerce Wordpress.
+-Conocimiento de JSON.
+-Gran vocación al cliente.
+Se valorará:
+-Conocimientos en el manejo de Drupal para integración con aplicación Windows.
+-Conocimientos de otras plataformas de e-commerce (Magento, Prestashop, Joomla).
+-Manejo de lenguaje SQL Server 2014.
+-Conocimientos de XML.

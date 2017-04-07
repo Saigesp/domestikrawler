@@ -1,0 +1,14 @@
+
+Vector, grupo tecnológico 100% de capital español, proveedor de servicios integrales de tecnología, outsourcing y productos de software exclusivos, proporciona e integra servicios y soluciones mediante un amplio portfolio que abarca múltiples sectores: banca y finanzas, industria, telco y media, retail, ocio y turismo, administración pública y sanidad. Calidad, Compromiso, Cercanía, Conocimiento y Competitividad, junto con la flexibilidad en todos nuestros servicios, son nuestro valor diferencial.
+Desarrollamos tecnología por y para las personas, siendo la innovación el motor de nuestro crecimiento y las personas nuestra fuente de inspiración. Tecnología inteligente para transmitir confianza, seguridad y facilitar los proyectos vitales .
+¡Únete a nosotros y se parte integrante de nuestros proyectos!
+Actualmente estamos buscando diferentes perfiles Front - End.
+Los skills para estas posiciones son:
+• Experto en HTML5 y conocimiento de técnicas de etiquetado semántico y accesible (wai-aria, microdatos, etc.).
+• Experto en CSS3 y conocimiento de algún preprocesador CSS (SASS o LESS)
+• Experto en desarrollo Javascript nativo (patrones de diseño, buenas prácticas, uso de prototipos/herencia, módulos, AJAX, etc.). 
+• Utilización de servicios REST/JSON Patrones de diseño MVC/MVP/MVVM 
+• Experiencia con Angular.
+• Librerías: Dominio de jQuery, underscore o Lo-Das, así como conocimiento de librerías específicas (charstJS o jqplot, raphael o kinetik, etc.).
+• Plus: REST, Cordova, Node, Mongo, node, Polymer .Pruebas unitarias
+

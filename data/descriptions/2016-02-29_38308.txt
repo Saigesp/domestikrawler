@@ -1,0 +1,19 @@
+
+Somos Beebrite, ganadores del premio nacional en Innovación para la Sociedad "EmprendeGO", finalistas en Wayra Madrid, Caixa Emprendedor XXI y actualmente finalistas en el Open Education Challenge que organiza la Comisión Europea. Contamos con inversores de prestigiosas escuelas de negocio como ESADE o Mola.com
+En Beebrite investigamos y desarrollamos juegos que ayudan a mejorar el rendimiento cerebral de personas de todo el mundo. Actualmente, nuestro producto principal es Beebrite Edu, un programa de estimulación de inteligencia dirigido a niños de entre 7 y 16 años de edad.
+En Beebrite buscamos incorporar un desarrollador de backend sin miedo a nada, versátil, proactivo y con ganas de aprender nuevas tecnologías.
+¿Que buscamos de ti? 
+- Que nos guste trabajar contigo, y a ti con nosotros. 
+- Que hayas hecho cosas: Nos encaja más una persona inquieta que alguien con un expediente impoluto que no tenga nada tangible que mostrar. No tenemos nada contra eso, pero si lo complementas con GitHubs, proyectos de OpenSource, Freelancing, proyectos personales, etc. mucho mejor. Enséñanos las miles de líneas de código que has escrito de verdad.
+- Que tengas experiencia y sepas trabajar bien. Necesitamos que cojas las cosas rápidamente para poder empezar a trabajar eficientemente lo antes posible.
+- Que no te dé miedo coger responsabilidad: Con continuous deployment, lo que significa es básicamente que vas a llevar partes del producto, vas a hacer push a producción, y puede que rompas algo. Mejor no. Pero si lo rompes, pues toca arreglarlo (a ti y a todos los que estemos ahí). 
+- Que seas inquieto y quieras aprender más: Que quieras aprender todo, desde PHP hasta iOS. Lo que toque. Nosotros buscamos talento, y pensamos que el talento puede aprender cosas rápido. 
+- En definitiva pedimos LAMP, (Linux, Apache, MySQL y PHP), aunque hemos optado por MongoDB pero si sabes MySQL, pues tampoco pasa nada, ya aprenderás. 
+(Java, AS3, Starling Framework, AWS, Javascript, HTML5, Node.js, MongoDB, MySQL…) 
+- Que no cierres tu mente: Quizás un día te toca maquetar, o testear, o dar una charla, o montar un evento. Esto es una startup y todos hacemos casi de todo. 
+- Que domines bastante bien el inglés.
+¿Qué te ofrecemos? 
+- Trabajar en una empresa interesante, joven y prometedora que investiga y desarrolla soluciones para mejorar la inteligencia de personas de todo el mundo. 
+- Un ambiente de trabajo excelente y divertido
+- Horario flexible.
+- Participar activamente en las decisiones más importantes de la empresa.

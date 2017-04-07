@@ -1,0 +1,24 @@
+
+Buscamos un Desarrollador/ Programador de alto nivel para el dpto. de Interaction Factory en A Coruña con un mínimo de 3 años de experiencia en puesto similar. En el dpto.  desarrollamos instalaciones interactivas, realizando la ejecución del ciclo completo: desde la idea (a través de la investigación) a la implementación y realización del hardware y software necesario.
+Se requerirá experiencia demostrable en la planificación y programación de proyectos relacionados con la interacción, dispositivos, internet of things, multitouch y conceptos interactivos, desarrollo con sensores y actuadores mediante micro controladores.
+Requisitos imprescindibles:
+    Experiencia mínima de 3 años en puesto similar.
+    Utilizar Unity3D a nivel programación y desarrollo – Unity3D+ C #.
+    Conocimientos y experiencia en la vieja escena Game Dev (html5)
+    Entender lo que sucede en Scaleform, JS, Arduino / Raspberry Pi.
+    Experiencia en desarrollos con Kinect.
+    Conocimiento amplio del entorno de Internet (usabilidad, visión de negocio, ….)
+    Conocimientos de lenguajes de programación (Javascript, C#, Processing, Arduino, etc).
+    Nivel alto de inglés hablado y escrito.
+    Imprescindible residencia en A Coruña. 
+Requisitos valorables:
+    Conocimientos de vvvv, Diseñador Touch, producción, DX11 / OpenGL, shaders, openFrameworks, la visión por ordenador, CUDA / OpenCL, 3d-modelado en Maya y 3Dstudio o similar.
+    Desarrollador con mucha proactividad, motivación, que resuelva problemas y tenga ideas para nuevos conceptos interactivos.
+    Experiencia en reporting y elaboración de informes. 
+Qué ofrecemos
+    Trabajar en una empresa en plena expansión 100% digital y 100% tecnológica, con posibilidades  de crecimiento profesional y proyectos técnicamente innovadores.
+    Proyectos de alto nivel que estarás orgulloso de mostrar.
+    Necesitamos aporte portfolio o enlaces a repo de creatividades y/o desarrollos.
+    Contrato temporal con posibilidades de incorporación definitiva a plantilla.
+    Gran ambiente de trabajo.
+

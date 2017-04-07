@@ -1,0 +1,16 @@
+
+En Madaísh, estamos formando el equipo de nuestra startup. Buscamos un programador con capacidad y ganas de liderar un proyecto que combina tecnología y diseño. 
+Garantizado el buen ambiente de trabajo ;) 
+Si hay feeling entre nosotros, podrás entrar a formar parte de nuestra startup como socio y liderarás la parte tecnológica del proyecto.
+Necesitamos que sepas programar en estos lenguajes:
+Imprescindible:
+- Django
+- Python
+Se valorarán conocimientos de:
+- PHP
+- Frontend
+- Javascript
+- Bases de Datos (MySQL)
+- Android, iOS
+- Diseño
+- Usabilidad

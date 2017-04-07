@@ -1,0 +1,14 @@
+
+En Certicalia necesitamos incorporar un perfil de desarrollador Front End con talento.
+Ha de tener experiencia en HTML y estilos CSS y utilización de frameworks como Bootstrap, así como Javascript y alguna de sus bibliotecas, como jQuery. Se valorará positivamente conocimientos de lenguajes de servidor, como PHP. 
+Estarás involucrado en la gestión de nuestros servidores y mantenimiento. Utilizarás y aprenderás sobre los frameworks y tecnologías front-end punteras.
+Participarás en procesos de testing y mejoras UX tanto internas como con consultores especialistas en la materia.
+Creemos en el Learn By Doing. Tus ideas serán bienvenidas, testadas y llegado el caso puestas en producción.
+¿Qué ofrecemos?
+- Formar parte de un equipo muy joven con muchas ganas de hacer cosas cada vez más grandes. 
+- Ambiente joven y distendido, donde venir a trabajar nunca sea un problema y con horario flexible.
+- Total libertad para proponer ideas y desarrollarlas. 
+- Jornada completa. 
+- Formación continua. 
+- Incorporación inmediata
+- Salario, a determinar en función de valía profesional

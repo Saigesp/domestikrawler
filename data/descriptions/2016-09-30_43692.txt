@@ -1,0 +1,28 @@
+
+Buscamos un desarrollador Front End con un perfil senior y amplia experiencia en frameworks javascript para que se incorpore a nuestro equipo de Desarrollo-Web. Trabajará con los equipos de Desarrollo y Product Management en definir e implementar la solución front más adecuada para cada uno de nuestros proyectos.
+Todos nuestros proyectos están basados en web, con más del 50% de tráfico móvil y responsive design, así que nos interesa que esté acostumbrado/a a las pruebas multi-dispositivo y multi-browser.
+Sus responsabilidades dentro del equipo serán:
+- Definir la arquitectura front que mejor se adapte a nuestros proyectos, tanto por funcionalidad como por rendimiento o mantenibilidad
+- Colaborar con el resto del equipo (back, front, devops) en la definición e implementación de la solución técnica escogidad
+- Interactuar con los Product Owners en la definición de productos y adaptar la arquitectura front y la solución técnica según necesidades
+- Coordinación técnica y formación a los desarrolladores de FrontEnd en la implementación de la arquitectura 
+- Asegurar el cumplimiento de las buenas prácticas de usabilidad, calidad y rendimiento.
+- Cuidar la máxima calidad en la visualización y los pequeños detalles. Nos interesa una persona muy muy detallista y organizada. Que cuide con máximo detalle todos los aspectos de visualización de nuestros productos en cualquier dispositivo y sepa adaptar la arquitectura para conseguir esa máxima calidad.
+Requisitos:
+- Experiencia demostrable en arquitecturas front orientadas a productos web y frameworks como Angular, React o WebComponents.
+- Por supuesto, HTML5/CSS3
+- Experiencia en integración del Front con Gestores de contenidos (en nuestro caso estamos usando Drupal)
+- Experiencia en arquitecturas desacopladas
+- Experiencia demostrable en Git
+- Experiencia en testing multinavegador y multidispositivo
+- Se valorará experiencia en metodologías ágiles (Scrum) 
+- Se valorará experiencia en PHP y Drupal
+- Persona muy detallista y resolutiva. 
+- Imprescindible nivel alto de inglés 
+Lo que ofrecemos:
+- Contrato indefinido. 
+- 24 días de vacaciones
+- Horario flexible y teletrabajo
+- El trabajo será presencial, en nuestras oficinas.
+- Rango salarial entre 35K - 40K € bruto/anual
+- Entorno de trabajo multinacional. Posibilidad de participar en proyectos y compartir conocimiento (workshops, eventos...) con equipos de desarrollo de otros países

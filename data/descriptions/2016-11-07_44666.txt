@@ -1,0 +1,16 @@
+
+En Herokid Studio estamos buscando un Programador Web Full Stack Senior.
+Imprescindible 3 años de experiencia demostrable en:
+* Programación orientada a objetos, preferiblemente en PHP.
+* Sólidos conocimientos de HTML/HTML5, CSS/CSS3 y Javascript.
+* Responsive design con enfoque ‘First mobile’
+* Manejo de bases de datos SQL y NoSQL. 
+* Buen manejo de frameworks JS como(jQuery, Angular, React, Backbone…)
+* Buen uso de preprocesadores CSS como Sass, Less o Stylus.
+* Habituado a trabajar con npm, bower, gulp y/o grunt. 
+* Uso de servidores de control de versiones GIT. 
+* Buen uso de Three.js.
+* Sensibilidad gráfica, pasión por la imagen y la interacción digital
+Se valorará
+* Perfil github u otras plataformas similares
+* Desarrollo de aplicaciones iOS y Android

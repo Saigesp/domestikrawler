@@ -1,0 +1,5 @@
+
+En factorsim buscamos incorporar un desarrollador OpenCMS para la adaptación de un site de un cliente importante.
+Se trata de un proyecto de adaptación gráfica y generación de un formulario de contacto. 
+Es imprescindible conocer el entorno (OpenCMS 9.0.1) y residir en Barcelona.
+El proyecto es de corta duración (2-5 semanas) y planteamos la opción de contración temporal o facturación como autónomo/freelance.

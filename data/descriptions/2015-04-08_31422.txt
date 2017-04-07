@@ -1,0 +1,9 @@
+
+Departamento de Sistemas
+Sus principales funciones serán las de formarse para dar soporte en:
+- Control y seguimiento de todas las incidencias técnicas de primer y/o segundo nivel.  
+- Coordinación y mantenimiento (nuevas versiones de sistemas y aplicaciones).
+- Participación en el control y gestión de los proyectos tecnológicos del área.
+- Monitorización de sistemas.
+- Mantenimiento del inventario de sistemas.
+- Conocimientos de redes.

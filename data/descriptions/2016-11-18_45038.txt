@@ -1,0 +1,37 @@
+
+Introduction:
+We are looking for an experienced iOS developer to join our growing international team based in Las Rozas, Madrid. We work in the exciting areas of sports, games, e-sports and media, providing world class apps to an ever growing market. As part of the development team you would be crucial in all aspects of product delivery; from concept, to prototyping, development, release and post launch support. Aside from sharing in the successes of the team, we offer:
+Forming part of the amazing team creating exciting apps for growing markets
+A competitive package depending on your experience
+Cool offices located in beautiful Las Rozas
+Great work environment
+A young and dynamic international team
+True opportunities for professional growth
+Responsibilities:
+Design and build brand new applications for iOS devices
+Collaborate with our team in the UK to define, design, and develop new features
+Work on bug fixing/maintenance and performance improvements for existing products
+Support the application through all stages – concept, development, release, post-launch support
+Produce great looking apps using industry standard coding practices
+Provide suggestions for how to improve the user experience for all products
+Stay up-to-date with new technology trends and developments 
+Requirements:
+1-2 years of proven professional working experience in software development
+Have published at least one or more iOS apps in the App Store
+Familiarity with Objective-C/Swift and Cocoa Touch
+Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and Core Text
+Experience integrating and using Cocoa Pods
+Experience building custom interfaces
+Experience with third-party frameworks
+Experience consuming REST APIs
+Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+Knowledge of source control tools such as GIT
+Solid understanding of the full mobile development life cycle
+Knowledge and understanding of agile methodologies
+Experience working with a multi-disciplined team
+Good verbal and written English
+Recruitment Process:
+We aim to reply to all applicants within a week or two of receiving your application. Our recruitment process consists of several stages, both so that we can get to know you better, and so that you get to know us better. The stages are as follows:
+CV and portfolio review
+Phone/Skype Interview
+Face to Face interview

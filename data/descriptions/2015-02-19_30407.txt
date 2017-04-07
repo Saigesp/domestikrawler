@@ -1,0 +1,31 @@
+
+Estamos buscando un programador iOS con ganas de llevar las tecnologías móviles al límite y trabajar con nuestro equipo de ingenieros para diseñar y construir la próxima generación de nuestras aplicaciones móviles. Nuestras oficinas están en el centro de Londres, una zona comercial muy cosmopolita. Te ayudamos con el proceso de mudanza y adaptación, no necesitas hablar inglés para trabajar en WUGO.
+¿Qué ofrecemos?
+- Un buen sueldo según valía de € 28.000 a € 40.000
+- Incrementos salariales según el desarrollo del proyecto y la evolución profesional
+- Posibilidad de que la empresa cubra tus gastos de vivienda en Londres.
+- Hablar inglés NO es un requisito imprescindible. 
+Responsabilidades
+- Diseñar y construir aplicaciones sociales avanzadas para la plataforma iOS.
+- Colaborar con el equipo para definir, diseñar y completar nuevas características.
+- Uso de Unit-test code, para garantizar la solidez, incluyendo casos extremos, la facilidad de uso y fiabilidad general.
+- Trabajar en la corrección de errores y la mejora de rendimiento de las aplicaciones.
+- Continuamente descubrir, evaluar e implementar nuevas tecnologías para maximizar la eficiencia del desarrollo y mantenerlo en la vanguardia.
+Habilidades requeridas
+- Amplia experiencia desarrollando aplicaciones con iOS SDK usando Objective-C, tanto para el iPad y el iPhone, incluyendo el funcionamiento tanto en línea como fuera de línea.
+- Haber publicado una o más aplicaciones de iOS en la App Store
+- 2+ años de experiencia en desarrollo de iOS
+- Experiencia de trabajo en equipo en un entorno de desarrollo ágil, utilizando scrum como metodología de desarrollo.
+- Amplia experiencia práctica de desarrollo con lenguajes de programación orientados a objetos.
+- Sólidos conocimientos para hacer peticiones de red en iOS bajo API REST y desarrollo para móviles, incluyendo las mejores prácticas de autenticación (por ejemplo, OAuth).
+- Experiencia de trabajo con frameworks de iOS como el Core Data, Core Animation, Core y Core Gráficos texto.
+- Experiencia de trabajo a través de los desafíos que enfrenta la arquitectura al crear aplicaciones para dispositivos móviles.
+- Conocimiento y la experiencia de unos sistemas de control de versiones.
+- Criterio para decidir cuándo usar una solución basada en HTML, híbridas o nativas.
+- Comprensión de los patrones de interacción de usuario apropiados utilizados en todas las plataformas de dispositivos populares.
+- Sólidos conocimientos de todo el ciclo de vida de desarrollo móvil.
+Deseable
+- Licenciado en Ciencias de la Computación, Ingeniería Informática o similar
+- Experiencia de trabajo con el repositorio de código fuente GIT
+- Experiencia de trabajo en un C # o entorno de desarrollo Java
+- Experiencia con la mensajería en tiempo real en iOS.

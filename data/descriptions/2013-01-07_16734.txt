@@ -1,0 +1,16 @@
+
+Buscamos un Maquetador con alto nivel de CSS para un proyecto vanguardista de una startup en Barcelona Activa.
+Utilizando HTML5 y CSS3 necesitamos aplicar un diseño al producto centrado en Chrome, se requiere actitud positiva y entusiasmo por innovar.
+Requisitos indispensables:
+ - Conocimiento de CSS multibrowser (Chrome, Firefox, IE9, Safari, Opera)
+ - Experiencia en responsive design.
+ - Experiencia con transformaciones y animaciones CSS
+ - Actitud constructiva
+Bonus:
+ - Experiencia con metodologías ágiles.
+ - Conocimiento de Javascript
+ - Conocimiento básico de RequireJS
+ - Twitter Bootstrap
+Ofrecemos:
+ - Entorno flexible a cambios
+ - Equipo joven y emprendedor

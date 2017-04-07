@@ -1,0 +1,20 @@
+
+Nuestro cliente es una empresa distribuidora de Tablets y e-Books y está buscando incorporar un/a PROGRAMADOR WEB PHP JUNIOR a su equipo de desarrollo. Trabajan con importante empresas online, con metodología MVC y pases diarios a producción.
+Se ofrece:
+- Jornada laboral compatible con la vida personal
+- Ambiente relajado
+- Capacidad de desarrollo profesional
+Requisitos: 
+-Conocimientos demostrables en:
+PHP5
+OOP
+- Creatividad y participación en la resolución de problemas
+- Sentido del humor y capacidad de trabajo en equipo
+Valorable:
+- Conocimientos en Bases de daros, manejo a nivel de usuario de MySQL o PostgreSQL
+- Conocimientos en Linux (manejo a nivel de usuario)
+- Conocimientos en PHPUnit
+- Algún framework (Zend, Symfony)
+- Test funcionales con Selenium, Cucumber, etc
+- Cualquier otra tecnología web es bienvenida
+

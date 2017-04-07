@@ -1,0 +1,17 @@
+
+Compañía líder en el desarrollo de Software de Gestión hotelera.  Ofrece a sus clientes un servicio a través del cual puede gestionar su hotel o cadena hotelera. Actualmente dispone de más de 600 clientes distribuidos a nivel local e internacional.
+La compañía se ha puesto manos a la obra para construir la nueva un nuevo set de herramientas para la gestión hotelera. Para ello, es necesario contar con un nuevo perfil que sea capaz de trasladar a un entorno web-mobile un set de requerimientos inicial.
+El candidato tiene que tener fuertes nociones de diseño y al mismo tiempo saber generar un “engagement” con el usuario que la va a utilizar. Tendrás que tomar decisiones por ti mismo, pero has de tener la habilidad de preguntar antes de diseñar. En definitiva, ha de ser independiente pero al mismo tiempo saber comunicarse con el resto de miembros del equipo.
+Las tareas que tendrá que realizar se resumen en:
+- Diseño de plataforma de gestión  backend responsive.
+- Validar propuestas de navegación y diseño con Product Manager
+- Defensa del diseño propuesto a nivel de layout y usabilidad
+Los conocimientos/aptitudes que valoraremos son:
+- Experiencia previa como diseñador.  No es imprescindible haber trabajado un período de tiempo concreto pero se valorará especialmente que se haya trabajado anteriormente en el diseño de alguna herramienta backend.
+- Habilidad para conceptualizar y crear esqueletos de páginas.
+- Conocimiento de los principales patrones de Usabilidad y experiencia de usuario.
+- Dominio de herramientas de Wireframing (Balsamiq o similares)
+- Dominio de las principales herramientas de diseño webAdemás, se valorará positivamente
+- Conocimiento de HTML, JavaScript/JQuery
+- Conocmiento de frameworks responsive
+Una vez finalizado el proyecto se valorará la contratación del candidato

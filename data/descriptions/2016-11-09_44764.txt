@@ -1,0 +1,19 @@
+
+Estamos buscando un desarrollador front super motivado con experiencia en angular.
+Somos una startup con base tecnológica enfocada a las energías renovables, que ofrece oficina en el centro de madrid (al lado de la glorieta de Bilbao), imposible estar mejor comunicado, con flexibilidad de horario y muy buen ambiente.
+Queremos:
+- Super motivación
+- Angular 1.4.x
+- Jade/Sass
+- API's
+Valoramos:
+- TDD
+- Gulp
+- conocimientos de scrum
+Ofrecemos:
+- Ambiente y mentalidad startup formado por gente joven.
+- Sala relax/comedor con café y galletas 
+- Martes de pizza (Comida gratis en la oficina)
+- Asistencia a eventos
+- Salario competitivo adecuado a la experiencia
+

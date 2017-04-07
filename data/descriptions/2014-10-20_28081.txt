@@ -1,0 +1,11 @@
+
+Nautalia Viajes necesita incorporar a su equipo un Programador web Tecnología.NET con al menos 3 años de experiencia demostrable en tecnologías Microsoft.
+Las funciones a desarrollar serán:
+- Desarrollo e implementación de páginas web y procesos web (Front y Back).
+- Integración con plataformas y sistemas de información terceros (Webservices, fichero, etc...)
+Se valorará:
+- Experiencia mínima de 3 años con tecnologías: ASP.NET 3.5/4.0, así como SQL SERVER.
+- Alto conocimiento en webservices (asmx), ajax y javascript.
+- Se requiere amplia experiencia en HTML/CSS y jquery
+Abstenerse aquellos candidato@s que no puedan demostrar experiencia en el puesto ofertado.
+(Se realizará prueba de conocimientos técnicos).

@@ -1,0 +1,36 @@
+
+Estamos buscando un perfil Developer Back-end PHP con Magento para Barcelona, para una empresa líder en su sector, E-commerce.
+Nuestro candidato se incorporará a un grupo de trabajo joven, dinámico y altamente cualificado. El candidato deberá ser una persona apasionado en el desarrollo de aplicaciones también por las nuevas tecnologías web, la experiencia de usuario, las apps y la innovación, orientado a usuario, que le gusten los retos y aprender sobre nuevas tecnologías, centrándose en arquitecturas limpias y código limpio. Esta persona deberá aportar valor a nuestro equipo de desarrollo del proyecto, por lo que deberá tener un alto nivel de conocimiento en esta área y entusiasmo para aprender y compartir la información.
+Formación y conocimientos Mínimos:
+•	Ingeniería Técnica Informática y mínimo 3 años de experiencia.
+•	Experiencia con GIT (control de Versiones)
+•	Experiencia en  frameswork symphony,  zend, Laravel, y Magento.
+•	Capacidad para la resolución de problemas
+•	Proactividad
+Conocimientos Necesarios:
+- JQuery/JSF.
+- Spring SQL, Spring Core, Spring Security.
+- MVC (REST support).
+- Que haya realizado integración RESTFul y SOAP.
+- Weblogic
+- Conocimiento de HTML, CSS y JavaScript. - CSS3 
+- AngularJS, JSon, NodeJS, CMS.
+- Eclipse.
+- Maven, Jenkins.
+- Apache MQ.
+- POJO Services.
+- Framework como:  symphony 2, zend, Codeigniter, y otros.
+- Base de Datos; SQL y MySQL 
+Se valorará:
+•	Persona pro activa, dinámica y con ganas de crecer.
+•	Capacidad de aportar nuevas ideas y soluciones.
+•	Estar siempre a la última a nivel tecnológico.
+•	Alto nivel de inglés.
+•	Experiencia en entornos subversión.
+•	Experiencia en Aplicaciones Mobile.
+Ofrecemos:
+. Contrato indefinido.
+. Jornada Completa.
+. Paquete salarial competitivo.
+. Trabajar en un equipo de expertos.
+. Oficinas en la Barcelona ciudad.

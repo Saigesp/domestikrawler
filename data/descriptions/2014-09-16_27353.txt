@@ -1,0 +1,5 @@
+
+Atmira, consultora especializada en ofrecer soluciones y desarrollos software necesita incorporar en Barcelona un Analista Funcional que se integrará en el proyecto de uno de nuestros principales clientes líder en el sector e-commerce. 
+Requisitos:
+- Profesional con 3 años de experiencia en análisis funcional en compañías del sector preferiblemente retail, con un buen conocimiento del negocio y buena interlocución con cliente.
+- Experiencia trabajado con proyectos web desarrollados en PHP. 

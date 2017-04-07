@@ -1,0 +1,22 @@
+
+Konstantin Lab, empresa dedicada al desarrollo de páginas Web, con un grupo de profesionales altamente capacitados y con amplia experiencia en el sector, busca desarrollador front-end debido a su reciente proceso de expansión. Necesitamos ampliar nuestra bolsa de colaboradores para hacer frente a la demanda que tenemos en estos momentos.
+La persona solicitada se encargará de realizar las siguientes funciones:
+- Maquetación y desarrollo a partir de diseño aprobado.
+- Testeo crossbrowsing, marcado, responsive, compatibilidad retina, y fiel al diseño entregado.
+
+Requisitos:
+Experiencia: Al menos 1 año
+Conocimientos necesarios:
+- Trabajo con plataformas de gestión de proyectos como Redbooth, Redmine,...
+- Conocimiento avanzado de Google Drive.
+HTML5 (Buen marcado semántico y validaciones);
+- Conocimientos de SEO general y fundamental SEO onpage; SASS / LESS; Bootstrap; OOCSS;  CSS3; jQuery; Wordpress; 
+- Nociones de diseño.
+- Responsive design y diseño para retina.
+Requisitos mínimos:
+- Persona acostumbrada a trabajo a distancia y cumplir plazos y objetivos en tiempo.
+- Posibilidad de facturación
+- Mucho detalle con validación de código, crosbrowssing y marcado orientado a SEO
+- Persona muy ordenada y metódica con su trabajo, con código bien comentado.
+- Dinámica y autónoma. Necesario feedback continuo con los responsables de cada proyecto.
+- Agilidad y eficacia en las respuestas.

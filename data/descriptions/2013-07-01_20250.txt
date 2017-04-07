@@ -1,0 +1,9 @@
+
+Alcandora Publicidad busca programador para un proyecto de un importante organismo público nacional. En el mismo, deberá  adaptar al idioma inglés páginas webs de alojamientos rurales de España desarrolladas en diferentes lenguajes.
+Requisitos:
+• Dominio de Wordpress y otros CMS como Drupal, y Joomla.
+• Experiencia en desarrollo con PHP, SQL (MySql y Postgresgl), HTML, CSS y JavaScript.
+• Dominio de Smarty Symfony, AJAX, XML, XSL.
+• Conocimiento de gestión y configuración de servidores.
+•	Versatilidad y capacidad de trabajar con cualquier tipo de lenguaje.
+

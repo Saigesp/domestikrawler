@@ -1,0 +1,16 @@
+
+Somos una consultora IT orientada a ofrecer servicios de valor añadido, soluciones y desarrollos software adaptados a las necesidades de nuestros clientes.   Actualmente contamos con una plantilla de 350 personas.
+Buscamos un Perfil senior PHP con experiencia en Wordpress para incorporar en un importante cliente dentro del sector audiovisual.
+Requisitos mínimos:
+-Experiencia en PHP (mínimo 3 años)
+-Que haya profundizado en el core del CMS Wordpress, no solo aplicando temas y tocando configuración.
+- Persona que conozca bien Wordpress.
+Valorable conocimientos en:
+-Simfony
+-Code Igniter
+Ofrecemos:
+- Incorporación en una consultora líder en el sector financiero.
+- Trabajar en proyectos únicos, desarrollados para grandes Entidades y definidos por equipos de consultores especializados.
+- Formación especializada.
+- Estabilidad profesional (contratación indefinida)
+

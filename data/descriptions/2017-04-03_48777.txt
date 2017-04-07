@@ -1,0 +1,21 @@
+
+Buscamos profesionales entusiastas, con preferencia por el trabajo en equipo, con gran capacidad de trabajo, iniciativa y alta motivación por incorporarse en una empresa inmersa de lleno en un proceso de expansión y crecimiento.
+Formarán parte de un equipo de trabajo joven, dinámico y altamente cualificado, con importantes posibilidades de evolución y crecimiento personal.
+El perfil que estamos buscando es el siguiente:
+Requisitos Mínimos: 
+     - Sólidos conocimientos de PHP y Javascript / JQuery
+     - HTML5, CSS3,  LESS
+Requisitos Deseados:
+     -  Experiencia con Drupal 7 - 8
+     -  Base de datos: MySQL
+     -  Conocimientos de Linux y Git
+Otros Conocimientos Valorables:
+     - Frameworks: Bootstrap, Symfony, etc.
+     - jQuery, Prototype, etc.
+     - Herramientas web: Sharepoint, eCommerce, etc.
+     - Lenguajes: Ruby (Ruby on Rails), Pyhton, etc.
+     - Valorable capacidad comunicativa y experiencia como formador
+ 
+El trabajo es presencial (abstenerse freelance) y a jornada completa (viernes con jornada intensiva).
+Incorporación inmediata.
+

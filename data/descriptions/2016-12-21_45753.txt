@@ -1,0 +1,20 @@
+
+Smile and Learn empresa líder en el sector del Edutaiment (educación más tecnología) está en la búsqueda de un talento Unity 3D para ayudar a crear la siguiente generación de su plataforma “La Biblioteca Inteligente” y trabajar en un entorno basado en el desarrollo ágil formado por nuestro equipo de Psicopedagogos, Ilustradores, Programadores y Audiovisual. 
+La Unión Europea nos ha concedido el máximo premio a la innovación Horizonte 2020, el cual cuenta con una ayuda al desarrollo de esta plataforma al máximo nivel. Imprescindible experiencia demostrable en Unity 3D. Remuneración según valía.
+Responsabilidades
+•	Desarrollar apps para iOS/Android con Unity 3D como herramienta.
+•	Escribir código eficiente y fácilmente testable.
+•	Trabajar como parte del equipo de desarrollo siguiendo la metodología ágil.
+•	Desarrollar aplicaciones con mayor grado de complejidad y rendimiento.
+•	Desarrollar en concordancia con las especificaciones técnicas y artísticas.
+•	Ayudar a la continua mejora de las aplicaciones y participar en el proceso de revisión de la plataforma. 
+Requerimientos
+•	+2 años de experiencia.
+•	Desarrollo Unity 3D en C#.
+•	Capaz de desarrollar conjuntamente con equipos interdisciplinares.
+•	Desarrollo de Software / experiencia en arquitectura. 
+•	Experiencia en patrones de diseño.
+•	Pruebas en el Software / TDD.
+•	Publicación en Stores (Apple Store / Google Play).
+•	Utilizar un Software de control de versiones (SVN, Git, etc.)
+2 plazas a cubrir. Fecha de incorporación a partir del 1 de Febrero de 2017.

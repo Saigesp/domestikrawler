@@ -1,0 +1,27 @@
+
+Grupo GOWEX, empresa en pleno proceso de expansión nacional e internacional, busca desarrolladores para incorporación inmediata en su sede de Madrid.
+Buscamos personas, dinámicas, altamente proactivas, ambiciosas, acostumbradas a asumir retos y con ganas de entrar a formar parte de un ambicioso proyecto en plena expansión dentro del mundo de las Telecomunicaciones.
+Se englobará dentro del Grupo de Desarrollo, que se encarga de la definición, diseño, desarrollo e implementación de las aplicaciones y soluciones técnicas para los proyectos de redes y operador de la compañía. Los proyectos abarcan desde sistemas de interacción con bajo nivel de red, hasta aplicaciones web o desarrollo de aplicaciones para móviles en los ámbitos de plataformas de control de acceso a Internet, Sistemas de geolocalización, plataformas de roaming, sistemas de publicidad,...
+Puesto: DESARROLLADOR FRONTEND en practicas
+Ofrecemos:
+Estabilidad laboral y posibilidades reales de evolución en la Compañía.
+Participación en proyectos de gran envergadura y en tecnologías punteras
+Paquete retributivo competitivo (a negociar en función de la valía del candidato).
+Contrato en prácticas.
+Desarrollo profesional real dentro de la empresa.
+Oportunidad de incorporarse a un proyecto estable.
+Plan individualizado y personalizado de formación tanto interna como externa, técnica y de skills;
+Ambiente agradable de trabajo, compañerismo y trabajo en equipo.
+Conocimientos necesarios:
+Lenguajes de estilos: CSS.
+Lenguajes a nivel de cliente: JavaScript.
+Lenguajes de etiquetas: HTML, XHTML, XML.
+Conocimientos de programación orientados a la web: PHP.
+Photoshop
+Otros conocimientos deseados:
+Framework de css: Bootsrap.
+Conocimientos de HTML5 y CSS3.
+Framework Javascript: jQuery, AJAX, Jquerymobile.
+Conocimientos de programación orientados a la web: JSP.
+Conocimiento o experiencia de trabajo con metodologías ágiles: scrum.
+Conocimiento o expericncia con herramientas de control de vercions: SVN.

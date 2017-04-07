@@ -1,0 +1,24 @@
+
+En Linka, agencia interactiva situada en el centro de Barcelona, buscamos incorporar a un desarrollador para llevar a cabo proyectos web.
+Las tareas principales a realizar son: 
+- Desarrollo de sites basados en CMS como Wordpress con o sin woocommerce. 
+- Maquetación de páginas web responsive con HTML y CSS.
+- Animación de banners HTML5.
+Conocimientos 
+- Al menos 2 año de experiencia en desarrollo webs con Wordpress. 
+- Buen nivel CSS, idealmente OOCSS, SASS y Bootstrap. 
+- Buen en Javascript.  
+- Uso avanzado de herramientas del paquete Adobe. 
+- Haber sido webmaster de alguna web. 
+- Conocimientos en SEO.
+- Conocimiento de plugins de uso habitual: WPML, ACF, Contact Form 7, Wordfence, Visual Composer, etc.
+Se valorará positivamente otros conocimientos complementarios como: 
+- Diseño gráfico. 
+- Otros cms como Prestashop, Magento, Drupal etc.
+- Conocimientos PHP y mySQL. 
+- Haber trabajado con metodologias Agile. 
+- Edición de video.
+Ofrecemos: 
+- Trabajo estable a jornada completa. 
+- Participar en proyectos de clientes de 1er nivel. 
+- Posibilidades de promoción laboral y formación.

@@ -1,0 +1,23 @@
+
+Programador PHP / MySQL / ORACLE para participación en proyecto de 4 a 6 meses a tiempo completo en las oficinas de TF Interactiva. 
+Experiencia de al menos 3 años en desarrollo avanzado de aplicaciones web con PHP orientado a objetos y atacando motores de bases de datos.
+Potenciación del uso de open source.
+Tareas:
+1.	Desarrollo orientado a objetos en PHP y SQL
+2.	Desarrollo HTML+CSS+JS (JQuery)
+3.	Desarrollo y explotación de servicios (SOAP / REST)
+4.	Asegurar la calidad del código desarrollado, tanto a nivel funcional como de naturaleza del código
+5.	Diseñar, ejecutar y documentar planes de pruebas en el código desarrollado.
+6.	Documentar desarrollo realizados.
+7.	Colaborar en la estimación y planificación de tareas.
+8.	Convertir las tareas de usuario en diseños técnicos (Clases + esquema BBDD).
+9.	Reportar grado de avance de tareas asignadas al Project Manager
+10.	Uso de estructuras JSON/XML para intercambio de información entre aplicaciones
+Conocimientos:
+1.	Frameworks PHP
+2.	Frameworks y librerías JS/jQuery
+3.	CMS
+4.	Seguridad
+5.	Sistemas de plantillas o templates
+6.	Control de versiones (SVN, GIT, …)
+

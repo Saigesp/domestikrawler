@@ -1,0 +1,17 @@
+
+We are looking for a senior front end engineer to join our team.
+We are a creative digital agency based in Madrid. We design and develop web applications, mobile apps, interactive maps, data visualization products and state-of-the-art interfaces for international organizations focusing on conservation, development, open data and citizenship.
+We seek a curious individual, passionate about internet and Open Source who wants to develop a career with us and learn new skills.
+Daily tasks would include:
+- Advanced javaScript programming of innovative interfaces and client side applications. 
+- Definition configuration and optimization of client side solutions, libraries and frameworks. 
+- Development of interactive graphs, infographics and visualization solutions using canvas and SVG. 
+- Development of online cartographies with a high degree of interactivity and features.
+Some of the skills we would value:
+- Proven experience developing large scale JavaScript applications. 
+- Good knowledge of visualization libraries like D3. 
+- Good knowledge of model oriented libraries like Angular and Backbone. 
+- Proficiency HTML5 & CSS3 standards. 
+- Being able to read, write and speak English.
+- Knowledge of back-end & server technologies (Rails, Node, SQL, Linux) would be a plus.
+We offer the chance to engage into innovative and appealing projects in a relaxed work environment with a competitive salary, flexible schedules and opportunities to learn and evolve in a small but very specialized team.

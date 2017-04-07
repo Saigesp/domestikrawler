@@ -1,0 +1,19 @@
+
+Titulación a nivel de Ingeniero Industrial rama electrónica, Telecomunicaciones o Informática.
+Experiencia en:
+-UI/UX DESIGNER
+-Net framework, WPF, XAML, XML,
+-C#, C ++,
+-VISUAL STUDIO 2010/2012, DOORS,
+-Win7, Win XP
+Funciones:
+-Diseño de arquitectura software
+-Diseño de interfaces de usuario
+-Patrones de diseño (Unity, Parallel programming)
+-Implementación de protocolos de comunicaciones sobre TCP/IP, CAN, RS232
+-Definición de test de prueba
+-Elaboración de documentación técnica
+Otros requisitos:
+-Disponibilidad para viajes internacionales, valorable experiencia relacionada.
+-Conocimientos del sector electromedicina / Rayos x valorables
+Idiomas: Inglés B2 demostrable

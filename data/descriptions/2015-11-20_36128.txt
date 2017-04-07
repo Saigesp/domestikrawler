@@ -1,0 +1,18 @@
+
+En Lavinia Interactiva buscamos un/a analista/programador/a Senior de Java con más de 3 años de experiencia.
+Su formación deberá ser de Ingeniero Técnico o Superior o Ciclo Formativo y será responsable tanto del mantenimiento de proyectos existentes como de nuevos clientes que vayan surgiendo, liderando su desarrollo desde el inicio.
+Requisitos mínimos:
+Mínimo 3 años de experiencia como Analista Programador Java /J2EE.
+Mínimo 3 años de experiencia en el desarrollo y administración Liferay 6.x, integración, extensión y uso de módulos, hooks, themes, portlets.
+Conocimiento y experiencia en frameworks de desarrollo Java (Struts, Spring, Hibernate).
+Conocimientos del uso de herramientas relacionadas con Javascript, como puedan ser jQuery, Json o Ajax.
+Conocimientos de SQL sobre el motor de base de datos MySQL 5 y Oracle. Deberá aportar soltura para realizar consultas complejas y se valorarán conocimientos de optimización de consultas.
+Funciones a realizar:
+Las funciones que desarrollará el candidato serán las de análisis y programación de evolutivos Liferay.
+Ayudará en la estimación de las tareas a realizar y se incorporará eventualmente a grupos de trabajo para el desarrollo de apps móviles, integrando Liferay y las apps mediante APIs.
+No deberá ocuparse del diseño ni de la maquetación, ya que Lavinia cuenta con equipos específicos para estas tareas.
+El candidato trabajará acompañado y respaldado por un equipo multidisciplinar que cubre todo el proceso de creación, desde la estrategia hasta la analítica pasando por el diseño y la creación de contenidos.
+Nuestra empresa:
+Lavinia Interactiva es una agencia de marketing digital, tecnología y contenidos que se dedica a optimizar la inversión en Internet de sus clientes desde 1999. Entre nuestros clientes encontramos grandes compañías farmacéuticas, bancos, medios de comunicación o empresas de gran consumo para los que hemos desarrollado más de 1.500 proyectos.
+El candidato trabajará acompañado y respaldado por un equipo multidisciplinar que cubre todo el proceso de creación, desde la estrategia hasta la analítica pasando por el diseño y la creación de contenidos. 
+

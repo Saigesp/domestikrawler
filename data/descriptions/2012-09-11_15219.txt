@@ -1,0 +1,6 @@
+
+Buscamos a un programador/desarrollador con 3 a 5 años de experiencia en programación orientadada a objetos, frameworks; en manejo de Base de datos: MySQL; HTML ICSS; Jquery / Javascrip. 
+Vitalista es una empresa muy joven y dinámica y nuestro objetivo es hacer que la gente se sienta mejor a través de lo que come. Preparamos packs de comida sana para enviar a empresa y particulares junto con un servicio de nutricionistas. Nuestra oficinas están en una nave industrial convertida en cocina, con lo cual trabajamos en un entrono diferente, motivante y enérgico. 
+Nos gustaría alguien con disponibilidad para trabajar directamente con nosotros en “la cocina” a tiempo completo y que nos ayude no solo con el mantenimiento de la plataforma existente, sino con el desarrollo de los nuevos módulos que vayamos necesitando (CRM, Análisi de Clientes, Nuevos productos como Cenas, etc.)
+A medio día comemos todos juntos en nuestra cocina, así que están incluidas las comidas de lunes a viernes (las comidas son todas sanas y equilibradas, pues a esto a lo que nos dedicamos!)
+

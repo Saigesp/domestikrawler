@@ -1,0 +1,12 @@
+
+Soy diseñador de interactivos y web. Necesito los servicios de un programador con experiencia en desarrollo de CMS (WordPress...) a medida desde un diseño y añadirle diversas funcionalidades.
+Requerimientos:
+- Amplia experiencia en temas WP. Crear o adaptar plugins WP. 
+- Crowmapping. API de GoogleMaps.
+- Nivel alto en JavaScript. Manejo librerías JS tipo: jQuery, Angular...
+- Dominio HTML5 y CSS3. 
+- Dominio PHP, MySQL.
+- Experiencia en aplicaciones táctiles. 
+- Con disposición para el trabajo en equipo.
+El trabajo se podrá realizar de modo remoto, pero con reuniones puntuales en Barcelona.
+Persona profesional y responsable, capaz de ajustarse con exactitud a los diseños aportados y cumplir los plazos de entrega.

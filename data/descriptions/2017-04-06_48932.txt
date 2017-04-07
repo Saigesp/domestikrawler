@@ -1,0 +1,31 @@
+
+Como BI Developer en SELLBYTEL te responsabilizarás del diseño, desarrollo y mantenimiento del Data warehouse corporativo y los modelos analíticos OLAP y Tabular, a la vez que ofrecerás soporte como miembro del equipo en IT en el mantenimiento de las soluciones de BI implementadas siguiendo los procedimientos y compromisos establecidos en el Departamento de IT.
+RESPONSABILIDADES
+·Diseño evolutivo y mantenimiento del Datawarehouse corporativo Microsoft SQL Server 2014 customizado según los requisitos específicos de cliente.
+·Diseño de paquetes ETL con Microsoft SQL Server Integration Services.
+·Diseño de soluciones analíticas OLAP basadas en Microsoft SQL Server Analysis Services Multidimensional y Tabular.
+·Diseño de informes, scorecards y cuadros de mando para ventas, finanzas y atención al cliente. 
+Las herramientas frontend disponibles son Pyramid Analytics, Power BI y Excel 2016.
+Ofrecemos
+-Contrato Temporal + Indefinido, a jornada completa (39 horas/semana), de lunes a viernes.
+-Oportunidad de formar parte de una empresa internacional.
+Requisitos Deseables
+·+2 años en el diseño de modelos analíticos OLAP multidimensionales, preferiblemente utilizando Microsoft SQL Server Analysis Services. 
+·+2 años trabajando con modelos de datos de CRM de ventas, atención al cliente o soporte como Salesforce CRM.
+·Dominio del lenguaje MDX.
+·Dominio del lenguaje T-SQL y optimización de consultas SQL utilizando para ello planes de ejecución, SQL Server Profiler, IO stats, etc.
+·Título universitario de informática, telecomunicaciones o equivalente.
+·Experiencia previa como consultor o técnico para el sector de Contact Center.
+Soft skills
+·Capacidad organizativa frente a cargas de trabajo variables.
+·Flexibilidad frente a cambios.
+·Gran capacidad de análisis e iniciativa.
+·Capacidad para trabajar de forma autónoma.
+·Trabajo en equipo.
+Esenciales
+·+1 año diseñando paquetes ETL con MS SQL Server Integration Services (SSIS). Alternativamente, +2 años utilizando otros entornos de diseño de ETLs. 
+·+1 año en el diseño de cuadros de mando, informes y scorecards con herramientas analíticas front-end como Tableau, Quikview, Pyramid Analytics, Microstrategy, SAP, etc.
+· +2 años utilizando profesionalmente Excel 2013/2016, valorando adicionalmente experiencia con Power BI y PowerPivot.
+·+2 años en el diseño de modelos de datos relacionales, optimización de consultas SQL para la extracción de datos e integración entre plataformas. 
+·Inglés nivel intermedio (B2 / First Certificate) especialmente a nivel escrito para contribuir a la comunicación y la documentación de las implementaciones en el Departamento de BI.
+_The recruitment processes and people involved in them (both recruiters and Project Managers) will not discriminate any candidacy because of age, disability, ethnic, marital status, gender, nationality, ideology, politic, race, religion and sexual orientation

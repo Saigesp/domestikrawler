@@ -1,0 +1,20 @@
+
+El candidato seleccionado, reportando al Director de Comunicación y Contenidos, se responsabilizará de las siguientes tareas:
+•	Llevar a cabo las actualizaciones de la plataforma ecommerce de la compañía. 
+•	Analizar las especificaciones técnicas para entornos Magento.
+•	Realizar el análisis e informes sobre volcados de datos, seguimiento de pedidos, estados de productos, instalación y actualización de módulos.
+•	Realizar la programación front/back, llevando a cabo las modificaciones necesarias del CSS.
+•	Gestionar las acciones de marketing digital tales como SEO, SEM, CRO, Test A/B y Analítica Web.
+•	Generar los dashboards correspondientes para negocio y marketing.
+•	Realizar reportes de estado y seguimiento de ventas, clientes y stocks.
+•	Asesorar en las soluciones técnicas de acuerdo a la especificación funcional.
+REQUISITOS 
+•	Licenciado o graduado en Ingeniería informática o similar.
+•	Experiencia previa 2- 3 años en posición similar.
+•	Nivel de inglés medio alto.
+•	Alto conocimiento de Magento, manejo de MS Office y NNTT.
+•	Se valorarán la disponibilidad de los siguientes certificados:
+•	Solution Specialist Magento Certified.
+•	Front End Developer Magento Certified.
+•	Developer Magento Certified.
+•	Developer Plus Magento Certified.

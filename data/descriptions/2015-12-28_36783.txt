@@ -1,0 +1,6 @@
+
+Inneva Pharma es una empresa especializada en el desarrollo de soluciones tecnológicas aplicadas al sector salud. Actualmente buscamos un programador para una incorporación inmediata.
+Conocimientos mínimos: Desarrollador iOS Objective-C con conocimientos de backend y frontend, MySQL y PHP. Administración de servidores linux (Ubuntu). Conocimientos de HTML, javascript, jQuery 
+Se valorará conocimientos de Unity (con scripting C#) para visores 3D, y realidad aumentada.Así como conocimientos de diseño de interface y desarrollo funcional.		
+Buscamos a una persona trabajadora, responsable, creativa  y con capacidad de trabajar en equipo.
+ 

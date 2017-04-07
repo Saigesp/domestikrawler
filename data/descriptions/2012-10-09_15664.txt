@@ -1,0 +1,11 @@
+
+Buscamos a un programador freelance para integrar un snippet de boletines en un CMS propio.
+Se requiere una persona con conocimientos en uso de:
+• Frameworks PHP (MVC)
+• HTML5, CSS3, Javascript Avanzado
+• Frameworks Jquery
+• REST, JSON, WebServices
+La persona escogida debe ser de Barcelona (o alrededores), el trabajo no es presencial pero requerirá un seguimiento en persona.
+Una vez aceptado el presupuesto para el desarrollo de la integración, el pago se realizará mediante transferencia de la siguiente manera:
+- 35% al inicio del proyecto
+- 65% una vez se haya validado el funcionamiento

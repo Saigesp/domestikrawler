@@ -1,0 +1,24 @@
+
+MOvE Online is a hosted CMS solution, specifically geared towards artists and musicians. MOvE Online offers users complete control over their website, without sacrificing usability, and without the need of technical know-how. For our growing business we're always on the lookout for talented developers!
+You:
+- have 2+ years experience in (backend) Web Development
+- are great with PHP and MySQL;
+- have worked with PHP frameworks like Symfony, Zend or comparable technologies
+- are familiar with ORM's, preferably experience with Doctrine;
+- have working knowledge of Version Control, SVN and Git
+- have great disposition towards clean code, separation of concerns, and Public API’s are your best friends;
+- have a convincing, creative, and proactive personality;
+- got humor;
+- got a portfolio (basically to show us stuff that you've made);
+- Do not let a day pass by without great music! 
+Plusses:
+- Experience with Javascript, jQuery or similar frameworks
+- Not afraid to fix some CSS;
+- Experience in setting up and maintaining LAMP stacks
+- Knowledge of Server maintenance and optimization
+We offer:
+- A cool job working on a great product with cutting edge features;
+- A fun and young team;
+- The opportunity to discover and work with new technologies;
+- Good compensation;
+- Rock 'n Roll.

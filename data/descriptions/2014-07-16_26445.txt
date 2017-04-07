@@ -1,0 +1,26 @@
+
+At Madrid Studio, we are proactively searching for an experienced Unity Developer, to work on developing strategy games using the Unity3D engine for our upcoming game and deliver entertainment to all mid-core strategy gamers around the world.
+Right after the summer holidays (September), we would like to bring on board a talented and experienced Unity Developer.
+Responsibilities:
+- Take an active role in a collaborative team environment where the agile methodologies are used to self organise workload - i.e. sprint planning is for everyone in the team.
+- Implement well documented , reusable and scalable code.
+- Produce technical documentation.
+- Address bugs and other technical issues identified for subsequent release
+- Developer testing - you built it, test it before throwing to QA.
+Requirements:
+- Excellent knowledge of advanced Unity3D API and advanced C# 2.0 scripting.
+- Experience with iOS and Android game development using Unity3D.
+- Knowledge on distributed source versioning tools, specially Git.
+- Prior experience in a mobile title (using Unity3D).
+- Ability to work independently, and in a team.
+- Good level of English, able to communicate and work in english language.
+- Quick to pick up new tools and systems.
+- Must love to roll-up your sleeves and get dirty with Unity3D; integrating textures, meshes, adjusting lighting, setting camera angles, optimization, audio integration etc.
+- Must be a strategy game fan. We don't make shooters, platform games, car games, etc.
+Desire skills: Bonus
+- Level design, planning and creation experience
+Experience on high volume of users games would be a plus.
+- Knowledge in media (games, comics, films, etc).
+Tools / other free work made with Unity3D
+- Knowledge / experience with LINQ, C# Reflection
+NGUI (Unity3D third party tool).

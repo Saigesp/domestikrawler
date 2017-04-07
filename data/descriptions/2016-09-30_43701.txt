@@ -1,0 +1,21 @@
+
+Somos Cropti.com, startup tecnológica nacida en 2014 que ofrece soluciones innovadoras para optimizar el sector agroalimentario. A día de hoy, nuestro principal producto comercial (cropti.com) tiene presencia en toda España y formamos parte de la Incubadora de Empresas de Telefónica (Wayra - OpenFuture en la Gran Vía).
+Actualmente estamos creciendo y tenemos una posición abierta en nuestro equipo de producto para trabajar directamente en la escalabilidad de nuestros sistemas, la puesta en marcha de nuevos proyectos con clientes y el seguimiento de la calidad de procesos.
+¿Qué necesitamos de tí?
+- Que tengas estudios en Ingeniería Informática, Telecomunicaciones o Similares 
+- Demostrarnos experiencia de 1-2 años trabajando en equipos de desarrollo web, IT, startups o proyectos propios. 
+- Conocimientos avanzados en: SQL / MySQL Server / SQLite 
+- Experiencia en desarrollo web: PHP, Javascript y Java 
+- Experiencia con Stacks Linux, Apache2, Nginx, NodeJS... 
+- Uso de herramientas de control de versiones: GIT
+- Que conozcas patrones y uso de API’s : REST, JSON/XML, Oauth2, Tokens… 
+- Buscamos a una persona con Iniciativa, capacidad de priorización, resolución ágil de problemas y buena comunicación.
+¿Qué te ofrecemos?
+- Un puesto estable e indefinido en una compañía en crecimiento, apoyada y financiada por diferentes instituciones: ICADE, Telefónica, IE Business School, Unión Europea.... 
+- Trabajar en un ambiente de trabajo flexible, en un lugar tan céntrico como la Gran Vía, rodeado de otras startups y con posibilidad de asistir a charlas, eventos y formación gratuita. 
+- Apoyar directamente en el crecimiento de la compañía junto al CTO y el resto del equipo, en el análisis de datos, de producto, y en la mejora de los procesos con nuestros clientes (Detectar necesidades, aplicar metodologías, valorar alternativas….) 
+- Un sueldo fijo que negociaremos en función de tu experiencia.
+¿Qué valoramos?
+- Experiencia en departamentos de IT: documentación interna, gestión de información, seguimiento de tareas, contacto con cliente y proveedores. 
+- Conocimientos en procesos de testing y calidad de software
+Tipo de puesto: Jornada completa

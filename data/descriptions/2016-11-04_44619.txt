@@ -1,0 +1,12 @@
+
+En Glue Digital estamos buscando un Full Stack Developer
+Nuestros desarrolladores crean productos digitales para algunas de las marcas y startups más reconocidas en el planeta. En Glue creamos experiencias únicas, cada trabajo supone un reto en cuanto a innovación, tecnología y diseños. 
+Requisitos:
+- Conocimiento y experiencia en Javascript  (Browser side/server side), experiencia en frameworks de Javascript (React, Nodejs...).
+- Titulación  en Ingeniería informática.
+Responsabilidades primarias:
+- Crear experiencias para proyectos móviles y Web con un enfoque en HTML5, CSS y JavaScript, 
+- Colaborar con el equipo en el backend de los proyectos, servidores, aplicaciones y bases de datos.
+- Colaborar con los compañeros en funciones técnicas y no técnicas en todo el ciclo de vida de cada proyecto, desde el concepto hasta la ejecución final.
+- Tener un conocimiento amplio de las tendencias de desarrollo y tecnologías emergentes, buscando continuamente enfoques eficaces e innovadores.
+Durante los primeros 6 meses el puesto es presencial en las oficinas de Vigo, a partir de ese punto se podrá hacer teletrabajo

@@ -1,0 +1,56 @@
+
+(English text below)
+Elements Interactive fue fundada en 1996 como un estudio interactivo especializado en diseño y desarrollo de aplicaciones web y móviles. Somos un equipo entusiasta y con experiencia de unos 35 profesionales que comparten su pasión por la tecnología y una actitud proactiva de cara a nuevos retos.
+Para expandir nuestras operaciones, hemos abierto una oficina en Barcelona en Octubre de 2013. Para esta oficina estamos construyendo en este momento el equipo de desarrollo de móvil.
+Estamos buscando un Desarrollador Sénior iOS, un hombre o una mujer con pasión por la construcción de aplicaciones para móviles. Como Desarrollador líder de móvil tu supervisarás la arquitectura y las soluciones técnicas de los proyectos, realizarás estimaciones, priorizarás y asignarás tareas y coordinará tu equipo. 
+También eres el guía, coach y la fuente de información de los desarrolladores de tu equipo. 
+Responsabilidades
+•	Asistir en la realización de estimaciones y definición de arquitecturas, soluciones técnicas y la estructura de los proyectos.
+•	Apoyar al líder del equipo y al equipo de desarrolladores.
+•	Adherirte y contribuir a los estándares y la forma de trabajar de la compañía.
+•	Comunicarte clara y abiertamente con los compañeros, tanto locales como a distancia.
+•	Mantener el conocimiento técnico participando en eventos profesionales y networks, y manteniéndote informado de las últimas novedades del sector día a día.
+Requisitos
+•	Titulo en Ingeniería Técnica en Informática o Ingeniería en Informática o similar.
+•	Al menos 5 años de experiencia en programación y desarrollo profesional.
+•	Al menos 2 años de experiencia en desarrollo de iOS.
+•	Experiencia con las SDK de Apple iOS .
+•	Amplia experiencia con Objective-C.
+•	Experiencia en desarrollo nativo de aplicaciones móviles. 
+•	Experiencia con metodologías de trabajo agiles en proyectos (Scrum).
+•	Excelente habilidad de comunicación y nivel alto de inglés.
+•	Capacidad de trabajar con compañeros a distancia.
+•	Actitud ambiciosa, creativa, flexible y precisión.
+•	Carácter para tratar, convencer y motivar gente.
+Habilidades deseadas
+•	Nivel alto de español.
+•	Experiencia en desarrollo de aplicaciones para Android/ Windows Phone.
+•	Flexibilidad para viajar ocasionalmente.
+===
+Elements Interactive was founded in the Netherlands in 1996 as an interactive studio specialized in designing and developing applications for web and mobile. We are an enthusiastic and experienced team of over 35 professionals who share a passion for technology and a “can do” attitude.
+To expand our operations, we have opened an office in Barcelona, Spain in October 2013. For the Barcelona office we are currently setting up a mobile development team.
+We are looking for a Senior iOS Developer (M/F) with a passion for building mobile apps.
+As Senior iOS Developer you work in a team of professionals and implement rock solid solutions to create high quality mobile applications. As a domain specialist on iOS, you are the go-to person for team members with questions on the platform and related technologies.
+Responsibilities
+•	Assist in making estimates and defining architecture, technical solutions and structure for projects;
+•	Support the Lead Developer and development team;
+•	Adhere and contribute to the company standards and way of working;
+•	Communicate clearly with local and remote colleagues;
+•	Maintain technical knowledge by participating in professional events and networks and keeping up to speed with the latest developments in the industry.
+Requirements
+•	BS or MS in Computer Science or related field;
+•	At least 5 years experience with professional programming and development;
+•	At least 2 years experience with iOS development;
+•	Experience with iOS SDK;
+•	Extensive experience with Objective-C;
+•	Experience in native mobile development;
+•	Experience in working in agile project teams (Scrum);
+•	Excellent communication and English language skills;
+•	Being able to work with colleagues at remote offices;
+•	Go-getter attitude, creative, flexible, accurate;
+•	Strong personality that knows how to approach and motivate people.
+Desired skills
+•	Spanish communication skills;
+•	Experience with Android and/or Windows Phone development;
+•	Flexible for occasional traveling.
+

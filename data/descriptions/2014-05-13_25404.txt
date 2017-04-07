@@ -1,0 +1,15 @@
+
+Buenas! 
+Estamos buscando un programador web para el estudio, que sea freelance.
+Que cumpla con los tiempos establecidos y que sea serio con su trabajo.
+Ahora mismo tenemos varios proyectos con Wordpress, y necesitamos alguien con conocimientos avanzados en este CMS. 
+Requisitos 
+- Conocimiento alto de Wordpress.
+- Experto en PHP5 y MySQL 
+- Experto en JavaScript, AJAX y de jQuery. 
+- Conocimientos de XHTML y CSS 
+- Conocimiento de JQuery 
+- Conocimiento de apache 
+Se valorará 
+- Capacidad de Trabajo en Equipo 
+- Residente en Barcelona.

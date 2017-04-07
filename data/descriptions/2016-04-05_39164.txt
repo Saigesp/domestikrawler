@@ -1,0 +1,13 @@
+
+-Conocimientos de programación orientada a objetos (preferiblemente Java), conocimiento de bases de datos relacionales, objeto-relacionales y de objetos (MySQL,Oracle,SQLite..), conocimientos básicos de lenguajes de marcas(HTML,CSS…)
+-Portfolio de Apps Android
+Se valorará positivamente:
+1. Manejo de JSON
+2. Experiencia en desarrollos con PHP
+3. Conocimientos básicos de Photoshop (optimización de imágenes, pequeños arreglos..).
+REQUISITOS:
+Al menos 1 año de experiencia en desarrollo de aplicaciones nativas para Android.
+Portfolio demostrable de trabajos recientes..
+Se requiere una persona creativa, flexible, que añada valor mediante ideas y sugerencias, comprometido con el trabajo del día a día, y con una alta ética profesional. Muchas ganas de aprender y de trabajar en equipo.
+Se requerirán los estudios propios para el puesto de trabajo, como una licenciatura grado en ingeniería informática/software o un grado superior que esté relacionado.
+No es requisito tener conocimientos de inglés, si bien, de tenerlos, se valorarán positivamente.

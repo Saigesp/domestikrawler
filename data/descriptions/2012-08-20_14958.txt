@@ -1,0 +1,23 @@
+
+Esdecómic Digital, líder en soluciones tecnológicas para cómic digital, precisa incorporar un desarrollador web back-end PHP en nuestra oficina de Barcelona.
+Esdecómic estamos detrás de Koomic.com, la primera tienda multiplataforma española de cómic digital, así como de PaniniDigits.com, el portal de venta de cómics digitales de la editorial Panini, uno de los editores de cómic más grandes de Europa. Nuestros usuarios pueden leer sus cómics online a través de un navegador web, con nuestras aplicaciones para iPhone, iPad y iPod touch, o descargándoselos para leerlos en su ereader.
+¿Qué buscamos?
+El candidato se encargará del mantenimiento y mejora de dos portales multiidioma de venta online de cómics, tanto su frontend como su backoffice, así como mantenimiento y mejora de los webservices REST asociados para las apps iOS que los complementan.
+Buscamos a alguien apasionado por Internet, con una vida digital muy activa, meticuloso y cuidadoso en los detalles, con alta capacidad de autonomía y de resolución de problemas. Y sobretodo, que ame lo que hace, con muchas ganas de aprender, de investigar y de intercambiar conocimiento con el equipo.
+Mínimos:
+-	2 años de PHP y MySQL.
+-	Programación OO y MVC.
+-	Dominio de desarrollo Joomla.
+-	Conocimientos avanzados de HTML, JavaScript y AJAX.
+-	Uso de SVN y Git.
+-	Nivel medio de inglés.
+Deseable:
+-	Experiencia implementando VirtueMart u otro e-commerce.
+-	Experiencia con webservices REST.
+-	Experiencia con JQuery.
+-	Experiencia con framework PHP MVC (Zend Framework u otros).
+-	Experiencia con Amazon S3 y EC2.
+-	Experiencia en administracion Unix (preferiblemente CentOS).
+-	Java, XSLT, Bash scripting.
+-	Usuario de Mac OS X y iOS.
+La experiencia debe ser demostrable.

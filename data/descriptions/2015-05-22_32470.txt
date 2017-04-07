@@ -1,0 +1,15 @@
+
+Bambú Software necesita incorporar un analista programador Java.
+Formación: Ingeniero técnico o superior, diplomado o licenciado en informática.
+Experiencia de 2 años.
+Requisitos imprescindibles:
+- Programador con experiencia de desarrollo en Java parte servidora. 
+- Experiencia en procesos con gestión de datos en memoria (cachés), alta disponibilidad, baja latencia.
+Requisitos deseables:
+- Conocimientos de C, PL-SQL.
+Habilidades:
+- Capacidad analítica, autonomía, cooperativo, proactivo.
+Se ofrece:
+- Contrato y salarios negociables.
+- Proyecto en Madrid - Las Tablas.
+- Jornada completa.

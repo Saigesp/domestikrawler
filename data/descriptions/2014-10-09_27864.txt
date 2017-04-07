@@ -1,0 +1,23 @@
+
+Eflox Software busca un programador junior apasionado por el diseño y desarrollo de software para diversos proyectos relacionados con tecnologías .NET
+Requisitos
+- Estudios mínimos: Formación Profesional Grado Superior
+- Estudios deseables: Ingeniería Técnica o Superior en Informática
+- Experiencia mínima: No es necesaria experiencia laboral previa
+
+Conocimientos Imprescindibles:
+- Análisis funcional y diseño de Bases de Datos
+- Programación con SQL 
+- Programación con C#
+- Maquetación con HTML5 y CSS3 
+- Experiencia con algún framework Javascript (principalmente jQuery)
+Conocimientos Deseables:
+- ASP.NET MVC
+- ASP.NET WebAPI
+- Entity Framework 
+- WPF (Windows Presentation Foundation) y XAML
+Condiciones Contrato:
+- Puesto: Analista Programador Junior
+- Localización: Pontevedra
+- Salario: Según Experiencia 
+- Jornada Laboral: Completa

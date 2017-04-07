@@ -1,0 +1,23 @@
+
+Desde K-LAGAN estamos buscando QA Testers (perfiles Junior o Senior) para interesantes proyectos dentro del sector banca.
+Estamos buscando personas proactivas, con capacidad de trabajar en equipo, que cuenta con mínimo un año de experiencia en pruebas funcionales, pruebas en entornos regulados, definición de plan de pruebas, documentación...
+Las funciones principales:
+- Análisis de las especificaciones de desarrollo. 
+- Diseño de casos de prueba para asegurar su funcionamiento. 
+- Participación en el análisis de riesgos del producto. 
+- Asegurar y mantener la trazabilidad. 
+- La ejecución de las pruebas y análisis de los resultados funcionales.
+Requísitos:
+- Ingeniería Técnica o Superior en Informática (o similar).
+- Experiencia demostrable en un puesto similar.
+- Se valorará conocimiento de automatización.
+- Buen nivel de inglés.
+K-LAGAN es una ingeniería tecnológica y consultoría estratégica de ámbito nacional e internacional. Trabajamos para conseguir un objetivo común: construir la empresa del mañana y ayudar a las personas y a las empresas de todo el mundo a desarrollar al máximo todo su potencial, siendo una empresa sana, responsable y comprometida con la sociedad y el medioambiente.
+En K-LAGAN velamos por las personas y su futuro. Somos una empresa participativa y nuestro modelo de trabajo está basado en la colaboración mutua y las relaciones a largo plazo. Priorizamos la motivación, el aprendizaje continuo y el bienestar de nuestros/as trabajadores/as. Además, nuestro posicionamiento privilegiado en el mercado nos permite ofrecer un interesante plan de carrera a nuestros/as profesionales con distintas alternativas de desarrollo y crecimiento.
+Ofrecemos:
+- Contrato indefinido.
+- Beneficios Sociales.
+- Buen ambiente de trabajo.
+- Plan de formación y posibilidades de desarrollo profesional reales. 
+- Remuneración competitiva.
+- Posibilidad de realizar proyectos internacionales en diferentes sectores (según movilidad).

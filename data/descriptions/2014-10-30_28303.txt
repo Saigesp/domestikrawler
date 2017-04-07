@@ -1,0 +1,15 @@
+
+atSistemas, compañía especializada en el diseño e implementación de soluciones IT en entornos web, Oracle Gold Partner, Business Partner de IBM, Microsoft, Atlassian y RedHat precisa incorporar a:1 Analista Programador Frontend con experiencia en el desarrollo javascript orientado a objetos, jquery y php. El candidato seleccionado se incorporará en uno de nuestros clientes del ámbito de las comunicaciones situado en Madrid centro.
+Requisitos:
+Experiencia con Javascript:  Alto conocimiento de JQuery (al menos 3 años). 
+Experiencia de al menos 12 meses con html y de css3 
+Experiencia con MediaQueries de Css 
+Experiencia con Modernizr.js,  Require.js 
+Experiencia en desarrollo Web en móviles. 
+Experiencia con SVN 
+Experiencia con ServerSide de 3 años:  En concreto con PHP.  
+Experiencia con alguno de estos frameworks de PHP: Symfony2, CakePHP, CodeIgniter
+Se ofrece:
+-Salario a negociar
+-Contrato indefinido
+-Cursos de formación en últimas tecnologías

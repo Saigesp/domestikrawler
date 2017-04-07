@@ -1,0 +1,23 @@
+
+Solo si crees que contigo podemos ser mejores,
+si estás convencido que puedes pensar diferente,
+si estás dispuesto a creer en Neo,
+si crees que eres la última Coca-Cola del desierto...
+te queda un último reto:
+¡CONVENCERNOS!
+REQUISITOS
+Alto conocimiento de los estándares web de HTML5 y CSS3.
+Alto conocimiento de Javascript, especialmente para desarrollo front-end (nativo y jQuery).
+Alto conocimiento de PHP y frameworks MVC del mismo (Laravel, CakePHP, etc.).
+Conocimiento acerca del uso de bases de datos relacionales MySQL.
+Interés en los nuevos cambios de las tecnologías web.
+Ser proactivo, con ganas de trabajar en equipo.
+Jornada completa.
+Oficina Neozink Madrid.
+SE VALORARÁ POSITIVAMENTE
+Conocimiento de frameworks en el lado del cliente (NodeJS, Backbone, etc.).
+Conocimientos de herramientas de generación y despliegue de APPs (PhoneGap, AppDeck, etc).
+Conocimientos de lenguajes de programación nativos de APPs (Objetive C, Java, etc.).
+Conocimientos de SEO, SEM y social media.
+Conocimiento y experiencia en trabajos con APIs de terceros (Twitter, Facebook, Google Maps, Mandrill, etc.).
+Conocimiento de GIT para control de versiones y despliegue de aplicaciones.

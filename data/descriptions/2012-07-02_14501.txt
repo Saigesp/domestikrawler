@@ -1,0 +1,27 @@
+
+Sector de la empresa:	Comercio por Internet
+Actividad de la empresa: Empresa joven de venta online, especialista en el sector de la motocicleta, está llevando a cabo un  proceso de expansión nacional e internacional.
+Dependencia directa: Chief Technology Officer
+Zona geográfica: Barcelona provincia.
+Jornada laboral: Jornada completa
+Misión
+Desarrollo, optimización y mantenimiento de la web y todos sus procesos, tanto a nivel de Frontend como Backend. Ha de tener un perfil técnico y a la vez ser multidisciplinar y resolutivo para afrontar cualquier reto que se plantee, desde maquetar una newsletter hasta diseñar nuevas funcionalidades.
+Funciones
+Sus funciones principales serán:
+•Desarrollar y estandarizar el diseño en sí del código
+•Organizar el día a día de su proyecto
+•Integrar su trabajo de forma conjunta con el resto del equipo
+Requisitos técnicos
+•Desarrollo en PHP 5 (Orientado a objetos)
+•Nivel alto en MySQL (optimización de consultas)
+•Patrones de diseño MVC
+•Experiencia con Zend Framework
+•JS + jQuery + Ajax
+•Maquetación HTML 5 + CSS 3
+•Desarrollo e implementación de Webservices
+•Control de versiones (GIT)
+Requisitos deseados
+•Semántica web
+•Conocimientos SEO
+•Conocimientos en C y Objective-C
+•Administración de sistemas (linux)

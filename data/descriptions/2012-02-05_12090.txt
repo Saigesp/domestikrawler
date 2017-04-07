@@ -1,0 +1,20 @@
+
+Company Profile: 
+We are the leading provider of ecommerce solutions for hotels, servicing more than 30,000 hotel customers in 147 countries. Serving the hospitality industry since 1999, we are a service-based company providing expert solutions so that hotels of all kinds, from international brands and ownership groups to high-profile independents and regional chains, can optimize performance, grow revenue, and create a stronger brand. Our headquarters are in New York (United States) and we have offices and customer care services globally based in Schaumburg (United States), Orlando (United States), Atlanta (United States), Philadelphia (United States), Barcelona (Spain), London (UK), Melbourne (Australia), Dubai (United Arab Emirates), Tokyo (Japan), Shanghai (China) and Singapore. You can find more about us on our website: www.travelclick.com
+Position Summary:
+We seek a self-motivated web developer with great initiative skills to work alongside the Social Media team performing API integration and application development for social media platforms. Candidates should have good front-end development skills based on a sound knowledge of HTML, CSS and JavaScript; good back-end knowledge based on PHP and MySQL; and an interest in and experience with User Interface design. Additionally, the proper candidate should have a proven ability to read, understand and apply technical documentation for third-party platforms such as social networks and business systems. The position requires working closely with the Social Media and Web Development teams, and so excellent team-working and communication skills are essential.
+Primary Responsibilities:
+• Build Facebook apps using standard web development front-end and back-end techniques
+• Investigate, understand and implement APIs and Web Services for Social Media (Facebook, Twitter, Google, Open Graph, etc)
+• Integrate social media features into our client websites
+• Design and build back-end interfaces to our reporting tools and CMS functionality
+Primary Requirements:
+• A Degree or equivalent in a technical subject is valued but not essential.
+• Fluent English and second languages are asset.
+• Experience in developing websites and web applications using standard front-end and back-end technologies.
+• A sound knowledge of working with and around browser-specific behaviors.
+• Ability to assimilate and apply technical documentation is essential.
+• An understanding of web and web application usability concerns is valued.
+• Knowledge of mobile development is a bonus.
+• Excellent communication and team-working skills are essential.
+• A proactive approach to responding to problems.

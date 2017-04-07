@@ -1,0 +1,27 @@
+
+The Role
+As a UX designer you will have the following responsibilities:
+•	Supporting a unified user experience across the entire Insight product.
+•	Turn complex problems into simple and engaging experiences for the desktop, web and mobile with complex applications. 
+•	Developing wireframes, workflows and interactions specifications.
+•	Driving projects from concept to production.
+•	Design nice and useful Big Data Visualisations to support users explore their data in the product.
+•	Presenting design proposals that are backed by research and data.
+•	Gaining consensus among stakeholders and developers without compromising the strategic design direction. 
+Requirements: 
+•	A great team player, driven and self-motivated.
+•	Good communication skills - oral and written English.
+•	2+ years experience working with UX Design methodologies for user research, design & validation, applying them depending in the situation and team needs.
+•	Technical knowledges – be able to understand technical requirements of a proposal to provide viable solutions.
+•	Data Visualisation knowledge – having a minimal experience of data representation in charts. 
+•	Experience with wireframing tools as Balsamiq mockups, OmniGraffle…
+•	Experience with design tools as Sketch or Adobe Illustrator.
+Advantageous:
+•	Technical background.
+•	Design skills – be able to provide a hifi design specs.
+•	Knowledge of web languages: HTML, CSS, JavaScript.
+•	Knowledge of D3js.
+•	Experience working with visualisations tools such as Tableau or CanvasJS.
+•	Finance experience.
+•	Big Data solution design experience.
+

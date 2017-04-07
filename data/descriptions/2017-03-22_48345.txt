@@ -1,0 +1,11 @@
+
+En Eurona buscamos nuestro nuevo Programador / Arquitecto PHP para entrar a formar parte del equipo de la unidad de negocio de Hotspot. El puesto consiste en definir la arquitectura de la solución del producto de HotSpot 3.0 y desarrollar la solución junto al resto del equipo.
+Tus principales funciones serán:
+- Definición de la arquitectura de la solución
+- Desarrollo y programación de la solución
+- Testeo y corrección de errores
+Requisitos mínimos
+Necesitamos a una persona con al menos 3 años de experiencia como programador PHP, con alto nivel de Inglés y con capacidad para identificar requerimientos y definir soluciones técnicas sólidas.
+Serán necesarios amplios conocimientos en Linux, Git, PHP, SQL, JS/JQuery.
+Requisitos deseados
+Se valorará tener experiencia en: Symfony 2.x, Elastic search, Big Data.

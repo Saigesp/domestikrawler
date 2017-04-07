@@ -1,0 +1,5 @@
+
+Senior Software Developer (Web/Applications) with experience in .NET, SQL Server and  ASP.
+Understanding of Client/Server model and Webservice  programming is required.
+Experience in PHP and Mysql is a plus.
+

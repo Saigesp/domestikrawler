@@ -1,0 +1,28 @@
+
+Busquem un cap tecnològic per "mapunto" amb la missió de dirigir el desenvolupament tecnològic de la plataforma.
+El seu objectiu principal serà treballar conjuntament amb els programadors d’itnig per definir, planificar i executar a curt termini la creació del web, així com desenvolupar tàctiques d’implementació i manteniment diari a llarg termini.
+Haurà d’oferir i aportar una visió estratègica per influir positivament en l’eficiència tecnològica de la plataforma, així com treballar amb un equip multi-disciplinar per assegurar l’assoliment dels objectius marcats.
+- Enginyer informàtic o estudiant en els últims anys de carrera.
+- 1-3 anys d’experiència en programació web:
+&gt;Experiència en desenvolupament d’aplicacions web: HTML, CSS i Javascript.
+&gt;Experiència en sistemes de control de versions (preferiblement git).
+&gt;Ganes d’aprendre Ruby on Rails i posar-lo en pràctica.
+- Actitud emprenedora i voluntat d’implementar la seva formació en un ambient jove i enèrgic.
+- Capacitat de treballar de forma efectiva en equips multifuncionals.
+- Passió pels medis de comunicació digitals amb participació activa en xarxes socials, habilitats de comunicació i inquietuds pel món de l’oci i de la cultura.
+- Disponibilitat per treballar intensivament durant els mesos previs a l’estrena de la plataforma.
+- Perspectives per ser soci de mapunto en funció de la seva implicació.
+---------------------------------------------------------------------
+Buscamos CTO para "mapunto" con la misión de dirigir el desarrollo tecnológico de la plataforma.
+Su objetivo principal será trabajar conjuntamente con los programadores de itnig para definir, planificar y ejecutar a corto plazo la creación de la página web, así como desarrollar tácticas de implementación y mantenimiento diario a largo plazo.
+Tendrá que ofrecer y aportar una visión estratégica para influir positivamente en la eficiencia tecnológica de la plataforma, así como trabajar con un equipo multidisciplinar para asegurar el alcance de los objetivos marcados.
+- Ingeniero informático o estudiante en los últimos años de carrera.
+- 1-3 años de experiencia en programación web:
+&gt;Experiencia en desarrollo de aplicaciones web: HTML, CSS y Javascript.
+&gt;Experiencia en sistemas de control de versiones (preferiblemente git).
+&gt;Ganas de aprender Ruby on Rails y ponerlo en práctica.
+- Actitud emprenedora y voluntad de implementar su formación en un ambiente joven y enérgico.
+- Capacidad de trebajar de forma efectiva en equipos multifuncionales.
+- Pasión por los medios de comunicación digitales con participación activa en redes sociales, habilidades de comunicación e inquietudes por el mundo del ocio y de la cultura.
+- Disponibilidad para trabajar intensivamente durante los meses previos al estreno de la plataforma.
+- Perspectivas de ser socio de mapunto en función de la su implicación.

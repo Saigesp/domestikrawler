@@ -1,0 +1,42 @@
+
+We are looking for a Front-End Developer to join our exciting and dynamic team in the Barcelona offices. We are searching for talented professional that is experienced and passionate in front-end development and the quirks of targeting multiple browsers on different devices to work in one of our two big projects with millions of hits every day.
+CMP Group is a friendly, progressive company that understands the importance of the work/play ratio. So, hang out with us on our terrace, where you can relax or play ping pong. Join us for barbecues, nights out and winter ski trips. Exchange ideas with people from all aspects of our business to help encourage new ideas and out of the box thinking. Come and work in an environment that encourages your growth as a developer by investing in conferences and workshops and always encouraging you to learn new things!
+Responsibilities
+Work on front-end development activities, solutions, methods, and practices.
+Develop new and effective interactive design solutions on time and in scope.
+Assist in developing methodologies, standards and best practices for the group.
+Research and recommend appropriate interactive technologies.
+Develop reusable code libraries.
+Conduct code walkthroughs and quality assurance with development teams.
+Develop web accessible and browser compatibility code.
+Requirements:
+Fluent English.
+Proven experience of at least 3 years in JavaScript.
+Experience in PHP templating (Twig, Smarty).
+Well-versed in CSS and using pre-processors (Sass, Less, Stylus) to modularize it.
+Experience with automation tools (Grunt, Gulp) and testing frameworks.
+A keen eye on design and UX/UI principles.
+Basic knowledge of AngularJS for maintaining legacy projects.
+Experience working with legacy systems and applying refactoring strategies.
+Using best practices and writing clean, meaningful code.
+Being a team player, self-motivated and a lifelong learner.
+
+Desired Skills:
+Contribution to open source projects.
+Strong knowledge and practice of Object Oriented Design patterns and principles.
+Experience in PHP.
+
+Benefits
+Permanent contract
+Flexible working hours
+23 days of vacation, plus flexible bank holidays
+Continuous training and free English and/or Spanish classes
+Company sponsored events: industry meet-ups through the Summer; company-wide retreat (Caribbean in June 2015); office ski trip in winter
+Apple work equipment
+Private health insurance
+Paid lunches
+Quarterly profit sharing bonus
+Monthly tech "freestyle" days - tech team members decide what they want to work on and do it
+Interesting projects and working with latest technologies
+Big terrace with ping pong and kicker tables, as well as many drinks and snacks
+

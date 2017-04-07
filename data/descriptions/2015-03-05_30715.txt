@@ -1,0 +1,3 @@
+
+Se trata de realizar un programa que extraiga información de varias páginas web, entre unas 50 y 100. Se trata de información financiera de empresas cotizadas en bolsas extrajeras.
+La información tendrá luego que volcarse en un fichero plano para poder ser tratada en excel.

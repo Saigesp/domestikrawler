@@ -1,0 +1,45 @@
+
+Requisitos:
+•	Estudios mínimos
+Graduado
+•	Experiencia mínima
+Al menos 2 años
+•	Conocimientos necesarios
+-	MySQL
+-	LDAP
+-	Diseño web
+-	Java jsp
+-	Alfresco
+•	Requisitos imprescindibles
+-	Graduado o especializado en ingeniería informática.
+-	Experiencia demostrable de al menos 2 años en puestos similares, sobre todo en la gestión de servidores y de intranets.
+-	Manejo de Servidor Web Apache HTTP Server y Aplicaciones Apache Tomcat en entorno Linux.
+-	Experiencia en desarrollo con Java (JSP).
+-	Dominio en gestión de bases de datos MySQL.
+-	Conocimiento del Servicio de directorio LDAP y el gestor documental Alfresco.
+-	Conocimientos de maquetación y diseño web.
+•	Requisitos deseables
+-	Experiencia con gestor de contenidos OpenCMS.
+-	Experiencia en desarrollo con Java (struts).
+-	Experiencia en desarrollo de APPS para smartphones (Cordova)
+-	Experiencia en desarrollo con PHP usando frameworks (Symfony, Laravel).
+-	Experiencia en email marketing con Mailchimp.
+-	Conocimientos de Google Analytics.
+•	Perfil
+-	Persona con experiencia en tareas de alta responsabilidad.
+-	Habituado a trabajar contrarreloj.
+-	Capacitado para asumir con seguridad temas urgentes ante cualquier imprevisto, incluso fuera de horarios de oficina.
+Descripción
+Vipnet360 es una agencia de Marketing Digital, Customer Experience y Desarrollo Tecnológico, conformada por un equipo multidisciplinar de especialistas. Actualmente nuestra empresa está inmersa en una serie de proyectos tecnológicos desarrollados inhouse para las grandes cuentas con las que trabajamos.  
+En esta ocasión buscamos reclutar un perfil experimentado, para asumir algunas tareas de desarrollo en JAVA y PHP. Además, otra de las funciones que se le asignarán será la responsabilidad sobre los sistemas de algunas de las grandes cuentas con las que trabajamos.
+El candidato deberá contar con conocimientos para realizar las tareas comunes sobre el servidor, como pueden ser: mantenimiento, seguimiento de logs, backups, pruebas periódicas de seguridad, instalación de actualizaciones, entre otros.
+Necesitamos una persona a tiempo parcial que transmita seguridad, confianza, seriedad y con experiencia en este tipo de tareas; además que tenga el compromiso y la profesionalidad necesarias en caso de que pueda ocurrir cualquier imprevisto relacionado con los sistemas, para garantizar su estabilidad y óptima funcionalidad, sobre todo en situaciones críticas, aunque puntualmente esto ocurra fuera de los horarios habituales.
+Tareas
+-	Mantener y revisar tareas de respaldo en disco, para restauraciones en caso de imprevistos.
+-	Configuraciones posteriores necesarias para mejorar o corregir el funcionamiento de la aplicación o sus componentes.
+-	Instalación de actualizaciones o parches para corregir bugs o mejorar el rendimiento o resolver problemas de seguridad para cualquier elemento de los distintos aplicativos.
+-	Pruebas periódicas de backups y restauración de copias de seguridad.
+-	Gestión de usuarios (altas/bajas), buzones de comunicaciones, actualizaciones de contenidos (textos/imágenes flash), envío de mailings y MMS masivos.
+-	Revisión de logs de apache, Tomcat y MySQL
+-	Soporte en desarrollo para los distintos proyectos tecnológicos, en donde sea posible aplicar los conocimientos en frameworks basados en PHP y JAVA .
+

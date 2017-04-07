@@ -1,0 +1,26 @@
+
+Get Glocal es una empresa líder consolidada en el ámbito de la creación de soluciones digitales con foco en entorno web, móvil y aplicaciones, tanto propios como de terceros.
+Somos un equipo joven de personas apasionadas por el marketing digital y las nuevas tecnologías, con buenas ideas y ganas de marcar la diferencia. 
+Venimos de diferentes sectores como el marketing online o la consultoría digital y tratamos de aplicar nuestro expertise en ayudar a empresas a trasladar sus fortalezas al online, ofreciendo soluciones completas, hechas a medida de nuestros clientes, pero a un precio asequible. 
+Ofrecemos un ambiente de trabajo joven, dinámico y con muy buen trato y respeto por los compañeros, queremos encontrar alguien que encaje en este sentido también con nosotros.
+BUSCAMOS: 
+Un Técnico Sistemas y Desarrollador Web que pueda colaborar con nuestro equipo en nuestras oficinas en Madrid.
+ESTUDIOS MÍNIMOS: 
+Formación Profesional Grado Superior – Informática
+EXPERIENCIA MINIMA: 
+Tres años trabajando con estas tecnologías y haber empleado las mismas en desarrollos previos (necesario ejemplos demostrables).
+CONOCIMIENTOS NECESARIOS: 
+•	Administrador de sistemas con conocimientos de desarrollo, fundamentalmente web. 
+•	Conocimiento de Linux, especialmente en distribuciones ubuntu, debian y centOS.
+•	Experiencia con servidores apache. 
+•	Realización de back ups - scripting avanzado. 
+•	Monitorización de servidores (experiencia en herramientas como Munin y Nagios). 
+•	Migración de webs y contenidos. 
+•	PHP + lenguajes de front.
+•	Dominio en entornos CMS wordpress y sus plugins
+REQUISITOS VALORABLES:
+- Bases de datos: MySQL 
+- Desarrollo de Apps
+- Integración con APIs externas desde RRSS a APIs de google y otros players de internet con APIs abiertas 
+- Conocimientos de SEO
+

@@ -1,0 +1,6 @@
+
+Buscamos programador/a (puede ser freelance) para proyecto moodle con scorm 1.2 a realizar in situ en Vigo y en inglés, tiempo de realización 3 semanas aprox,   .
+Entre las tareas a realizar:
+-Diseñar la página principal y secundarias de plataforma Moodle
+- Estructurar una plataforma Moodle utilizando el material de formación existente. Adaptación de la estructura básica de Moodle con los cursos actualmente existentes así como definir  acceso y condiciones de suscripción. 
+Proyecto de carácter internacional / europeo.

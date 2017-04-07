@@ -1,0 +1,25 @@
+
+Anoop Systems es una agencia de diseño / desarrollo web y marketing online con base en Barcelona.
+Buscamos un perfil front-end developer con experiencia en tecnologías SASS Y Foundation, capaz de llevar la maquetación de los proyectos, mediando entre estética y funcionalidad, en HTML/CSS.
+Por favor, necesitamos una persona física y no vamos a externalizar este trabajo. Abstenerse empresas y personas que no están en Barcelona.
+Indispensable conocimientos de y amplia experiencia en:
+- HTML5
+- CSS3 y SASS
+- JavaScript
+- JQuery
+- Repositorio de sistema de control de versiones (Git)
+- Foundation
+Se valorará:
+- PHP
+- Frameworks de desarrollo de PHP (por ejemplo CodeIgniter, Symfony) 
+- MySQL
+- Experiencia con Photoshop / Illustrator
+- Conocimientos de plataformas de desarrollo (CMS) más populares (Wordpress, Prestashop, Joomla, Drupal)
+- Experiencia con plataformas de e-commerce (Megento, OS-Commerce)
+- Experiencia con Analytics, configuración de plataforma, objetivos, eventos etc, A/B Testing
+Sobre el candidato:
+Buscamos a alguien innovador con la capacidad de trabajar y comunicar en equipo y participar en conjunto creativo. La persona tiene que ser capaz de tomar un enfoque holístico para el desarrollo de proyectos. Es importante poder visualizar las necesidades del proyecto con la meta de crear una base sólida y dinámica para fácilmente permitir posibles futuras modificaciones y aplicaciones. Tiene que tener una capacidad para la resolución de incidencias de visualización y una motivación enfocado en e-commerce.
+El candidato debe ser una persona proactiva y con iniciativa, siempre buscando estar a la última en tecnología web.
+Sobre nosotros:
+Nuestro portafolio consiste de un rango diverso de proyectos; comunicación corporativa, e-commerce, hasta blogs contemporáneos y ejercicios espontáneos. En Cataluña contamos con una fuerte presencia en el área de turismo. También contamos con un proyecto de e-commerce potente que tenemos intención de actualizar a grande escala.
+

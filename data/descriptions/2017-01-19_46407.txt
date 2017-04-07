@@ -1,0 +1,15 @@
+
+iClassics Productions es una "Startup" productora de experiencias interactivas en formato de Apps. Necesitamos ampliar nuestro equipo con:
+Requisitos mínimos: 
+- iOS Experiencia de al menos un año desarrollando aplicaciones de iOS (Objective-C). Se valorará tener publicadas aplicaciones en la App Store. 
+- Conocimientos en frameworks multiplataforma (Cocos2D y Cocos2Dx) 
+- Conocimientos en la utilización de repositorios de control de código fuente tipo Bitbucket o similar. 
+- Sensible al diseño, funcionalidad y elegancia
+Valoraremos: 
+- Conocimientos de programación en C++ 
+- Inglés fluido
+Buscamos una persona organizada y metódica en su trabajo, con capacidad de trabajo en equipo.
+Ofrecemos incorporación inmediata y posibilidades de promoción en una empresa muy dinámica con visión internacional y en continua expansión.
+Jornada Parcial (9h a 15h) en régimen de prácticas (9.000€-12.000€) Bruto/año
+Por favor, si tienes interés contacta conmigo para cerrar una entrevista en nuestras oficinas. Incorporación inmediata.
+Gracias,

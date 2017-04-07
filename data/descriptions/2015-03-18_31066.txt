@@ -1,0 +1,8 @@
+
+Somos TDM Solutions SL, desarrolladores de soluciones CAD desde hace más de 10 años. Nuestro objetivo es acercar las últimas tecnologías 3D, ofreciendo la mejor solución de la manera más amigable.
+Buscamos a un ingeniero/a informático o de software con un buen nivel de inglés. 
+Se valorarán conocimientos de: 
+- C# y/o C++.
+- Geometria 3D.
+- Open GI.
+- Programas CAD. 

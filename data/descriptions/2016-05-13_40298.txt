@@ -1,0 +1,23 @@
+
+En Iwantic, seleccionamos, para un proyecto duradero y estable en gran multinacional del sector alimentación, un/a Técnico de Sistemas, en Barcelona. 
+En dependencia de la Dirección de Informática, la persona seleccionada realizará las siguientes funciones:
+- Gestión de peticiones e incidencias de los usuarios.
+- Realización de nuevos proyectos técnicos.
+- Gestión de las compras de material informático.
+- Tareas de mantenimiento de los PCs y sus periféricos.
+Entre los requisitos destacan los siguientes:
+- Formación: Ingeniero Técnico - Técnico en Informática de Gestión
+- Al menos 3 años de experiencia.
+- Conocimientos de comunicaciones: Routing, Servidores VPN, Firewall, Proxy, NAT, Switches gestionables HP.
+- Conocimientos de servidores: HP y DELL.
+- Conocimientos de sistemas operativos servidor: Microsoft Windows 2003, Linux Red Hat ES 4.5, VMWare Server.
+- Conocimientos de bases de datos: Microsoft SQL Server 200, MySQL.
+Se valorará:
+- Conocimientos de base de datos: Oracle.
+- Conocimientos de Redes de Almacenamiento (SAN): NetApp FAS200.
+- Habituado/a a trabajar en resolución de sistemas críticos en entornos industriales o de multinacional.
+Deseable:
+- Persona con orientación al cliente y capacidad para el trabajo en equipo.
+- Carnet de conducir y disponibilidad para viajar.
+- Flexibilidad horaria.
+Salario según valía.

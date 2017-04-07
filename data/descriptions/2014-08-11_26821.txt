@@ -1,0 +1,21 @@
+
+Are you a Senior Java Developer or Senior PHP Developer looking for an opportunity to build the next great app on the market? If you are a Developer with an interest in working for a well-funded early startup, please read on:
+This start-up is creating an innovative in-flight shopping solution designed to make it easy to buy when you fly or travel.
+This is an opportunity to work at an early stage startup where your opinion will truly affect the outcome of the product.
+What you will be doing:
+Work collaboratively with a small team designing and developing the new product
+Contribute to taking the product to the next level using web and mobile technologies
+Manage and deliver the websystem (dashboard web-base appication) cycle: concept, design, build, deploy, test, release, and support.
+Website: http://simplifly.co/
+Desired Skills and Experience
+What you need (Required Skills):
+Prior experience in Web Development;
+Strong experience in Java or PHP development for web-based applications;
+Experience working with most/all of the following technologies: Spring MVC, HTML5, CSS, Javascript, JQuery, AngularJS 
+Strong experience with unit testing and mocking frameworks 
+Knowledge of Source Control Revision (GIT)
+Knowledge of tools for automated tests is a plus.
+Knowledge/experience with MongoDB, NoSQL or basic mobile development would be also definite a plus
+Excellent communication skills, ability to work in a fast-paced adaptive environment, self-started and strong team player.
+3-5 years experience 
+Note: "Presencial Job in Barcelona, no agencies."

@@ -1,0 +1,5 @@
+
+Buscamos un programador freelance para convertir una aplicación desarrollada en Android nativo a Iphone.
+Es una aplicación relativamente sencilla y se facilitarán todos los detalles necesarios para su conversión, así como el código fuente en Java si fuese preciso.
+Incluye el manejo de SQLite, imágenes y notificaciones. 
+Indispensable poder facturar.

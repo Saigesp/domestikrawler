@@ -1,0 +1,13 @@
+
+¿Qué buscamos?
+Un desarrollador que tenga 4 años de experiencia en JavaScript desarrollando SPAs y usando librerías de gráficos molonas como d3.js y compañía. Da un poco igual qué framework hayas usado, pero en 4 años te ha tenido que dar tiempo a usar como 100 o 200 diferentes ;)
+Estamos buscando a alguien que aporte ideas y sea un apasionado de lo que hace. Tendrá que hacer caso a negocio, pero él decidirá qué camino tomar. Trabajará con gente externa de UX, pero será el que controle completamente el front del producto. 
+El producto será un sistema que procese y analice datos de entrada, de múltiples fuentes diferentes y que, después del un proceso de análisis que hará el back (magia negra) tendrá que visualizar la información en forma de gráficas super chulas (vamos a trabajar con gente de marketing), interactivas que luego se puedan exportar a PDF en forma de informe, que sean "responsive" para que los que contraten el producto las puedan ver en sus iPads (estos no se compran tablets Android como nosotros los pobres ;)).
+Respecto a las tecnologías, hemos pensado en hacer todo el desarrollo en Angular 2, porque por aquí tenemos más experiencia en este nuevo framework, pero da igual en qué tengas experiencia mientras no hayas estado "despistado" los últimos 12 meses. 
+El backend va a estar en Java, así que no viene mal que no te de "alergia" este lenguaje por si te toca echar un cable. Si te sirve de consuelo, es posible que la BBDD sea Mongo ;)
+¿Qué ofrecemos?
+Trabajar en un producto propio en el que tu serás el lider de front. 
+El equipo técnico incial será pequeño, un backend dev, tu (el de front), una persona con perfil de sistemas para echar un cable en CI y en despliegues (puedo decir DevOps?) y un CTO/Project lead (Micael Gallego). El CTO se encargará de la coordinación de tareas e interfaz con negocio. En el resto de la empresa hay gente de marketing y psicólogos (sí, has leído bien... a que tiene buena pinta?)
+Trabajaremos aplicando los principios de las metodologías ágiles, aunque siendo tan pocos, posiblemente no haga falta un Scrum de libro y baste con tener claros los valores y principios de XP y aplicar sus buenas prácticas. 
+Los primeros 6 meses / 1 año se trabajará en la Universidad Rey Juan Carlos, en el Campus de Móstoles. Ambiente universitario, cafetería con precios populares.... 
+

@@ -1,0 +1,6 @@
+
+En Wildbytes buscamos un programador con experiencia para incorporarse inmediatamente a nuestro equipo en Madrid para trabajar en un proyecto de gran escala (experiencia audiovisual en tiempo real).
+Estamos a la caza de una mente creativa con conocimientos tecnológicos y apasionada por idear y producir proyectos que hagan usos creativos y divertidos de nuevas tecnologías. Si  Openframeworks, Cinder, o  Kinect suenan familiares y no puedes parar de pensar en ellos, tenemos ganas de conocerte :)
+Para este proyecto en particular, experiencia con C++ en tiempo real será necesaria. Conocimientos trabajando con señales de cámara en vivo para evento en directo serán un plus, pero no necesarias. Experiencia programando con motores gráficos tipo Ogre3D y shaders será un plus también.
+Creemos en la mezcla de equipos interdisciplinares en los que aprendemos los unos de los otros. Nos encanta colaborar.
+Buscamos freelance full time para incorporación inmediata y con una duración inicial de 3 semanas,  con posibilidad de continuidad a largo plazo.

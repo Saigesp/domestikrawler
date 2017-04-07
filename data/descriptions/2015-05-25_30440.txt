@@ -1,0 +1,39 @@
+
+Netquest is the online fieldwork provider for the market research sector leader in Spain, Portugal and Latin America . We currently have more than 700,000 consumers willing to give us their opinion in 21 countries, and the latest technology to manage and survey them. 
+We are looking for a passionate and talented Frontend Developer to join our development team. 
+Responsibilities:
+- Build new software.
+- Correct bugs in the existing software.
+- Support on the production software.
+- Analysis and design in close collaboration with business people.
+What we offer 
+We offer a place in one of our development teams. In the IT team we are about 16 mates, among developers, systems/dev­ops & QA. 
+We develop based on Agile methodologies: XP + Scrum, always adapted to our needs. We have two week sprints with demo and retrospective after each sprint. On the XP side we encourage to use TDD as well as code reviews and code conventions meetings.
+We have future big projects in mind, some related to BigData as for example migrating our current SQL based massive data, and other related to offer parts of our software as an API based services and refactor some monolithic application in a service oriented architecture.
+We are looking for talented & passionate developers and we offer not only a challenging and stimulating professional project, but also a competitive compensation package. 
+What we ask for
+ We need a team member who can contribute to different tasks and can adapt to different situations. We are looking for a senior engineer but we will consider a junior developer in case the motivation or training can supply his/her lack of experience.
+We want someone who enjoys software development and is looking for new challenges willing to add his/her bit on our team.
+Mandatory skills:
+- Software development patterns knowledge.
+- Excellent English
+- UX expertise
+- Responsive Web design
+- Deep knowledge of HTML5 & CSS3
+- Deep knowledge of Javascript internals
+- Experience in usage of RESTful Http APIs
+- Front­end development in modern frameworks such as BackboneJS, RequireJS, …
+- Templating frameworks such as Handlebars, Bootstrap, ...
+- Javascript build tools such as Grunt or Bower
+Personal Skills:
+- Commitment with development and quality
+- Willing to work in a dynamic, fast­-change, start­-up-­ish environment.
+- Perfection­-driven attitude.
+- Proactivity about development method or development techniques.
+Valuable skills:
+- Unix power user
+- Git
+- CSS pre­processors such as Less or Saas
+- Asynchronous paradigms such as Promises
+- Testing frameworks
+- Knowledge of NodeJS, Coffescript, ...

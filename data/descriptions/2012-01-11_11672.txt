@@ -1,0 +1,8 @@
+
+Agencia de Publicidad busca programador con los siguientes conocimientos:
+- Dominio de maquetación HTML, CSS y e-mail marketing. Conocimientos deseados de maquetación HTML 5 y CSS 3.
+- Dominio de programación cliente JS, jQuery.
+- Dominio de programación servidor PHP y conocimientos MySQL. Conocimientos deseados de librerías Facebook.
+- Manejo Dreamweaver y Photoshop (perfil programador)
+- Se valorarán positivamente conocimientos de Flash, AS, C objective y configuración de sistemas.
+

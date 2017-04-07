@@ -1,0 +1,12 @@
+
+Seleccionamos un Administrador de Sistemas con experiencia profesional demostrable en operación, administración y mantenimiento de:
+- Sistemas Windows Server (2000, 2003, 2008, 2012)
+- Servidores de Aplicaciones: IIS 5.0 / 6.0 / 7.5 / 8.0
+- BBDD: SQL Server 2008 / SQL Server 2014
+- Versionado de software (SVN / GIT)
+Se valorará:
+- Conocimiento para configuración y soporte de: Microsoft Dynamics CRM 2015, SHAREPOINT 2013
+- Conocimientos en PowerShell, Visual Basic, C#
+
+Posible incorporación en la plantilla del cliente.
+

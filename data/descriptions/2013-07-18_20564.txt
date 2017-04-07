@@ -1,0 +1,3 @@
+
+En aTICser estamos ampliando nuestro equipo especializado en plataformas móviles, por ello buscamos incorporar en plantilla desarrolladores especialistas en dispositivos móviles (plataformas iOS, Android, Blackberry, Windows Phone). Se incorporarán en el equipo de proyectos nacionales e internacionales en el desarrollo en últimas tecnologías en entornos financieros, marketing, etc.
+Se requiere aportar conocimiento y experiencia en desarrollo de aplicaciones nativas para las plataformas iOS, Android, Blackberry, Windows Phone. Con conocimientos de PhoneGap, frameworks javascript para moviles como jQuery mobile, Sencha Touch, ZeptoJS, CSS3 y media queries. 

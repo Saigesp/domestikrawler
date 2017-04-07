@@ -1,0 +1,15 @@
+
+Buscamos una persona con actitud colaborativa, capaz de trabajar en equipo y con ganas de aprender continuamente. 
+Requisitos:
+•	Portfolio de trabajos realizados en entrono web.
+•	Experiencia demostrable en HTML5 y CSS3.
+•	Experiencia demostrable con JQuery y JavaScript
+•	Experiencia demostrable con Photoshop e Illustrator 
+•	Experiencia demostrable con Bootstrap y/o Foundation.
+•	Experiencia en Responsive Design.
+•	Adaptación a estándares de W3C.
+Se valorará:
+•	Experiencia en PHP y MySQL.
+•	Experiencia con control de versiones Subversion, Git.
+•	Conocimientos Symfony.
+•	Conocimientos WP, Magento.

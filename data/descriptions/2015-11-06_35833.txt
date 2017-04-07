@@ -1,0 +1,17 @@
+
+Buscamos un desarrollador para trabajar (por ahora) media jornada en nuestra aplicación web FocusMe con la intención de terminar con contrato de jornada completa.
+El trabajo es en remoto así que no hace falta que estés en Barcelona.
+Estos son los requerimientos técnicos:
+Para la parte de Backend:
+- Desarrollador de PHP
+- Conocimientos de Frameworks de desarrollo rápido como Laravel o con conocimientos en Symfony
+- Conocimientos de API de Google, API de Stripe, API de Infusionsoft 
+- MYSQL (esto es la base de datos)
+Frontend:
+- jQuery
+- Responsive
+- Bootstrap
+- HTML5
+- CSS3
+Es importante que seas una persona es que se sepa adaptar a diferentes tecnologías, que se sepa buscar la vida (esencial el tema del framework), que seas resolutivo y proactivo. 
+

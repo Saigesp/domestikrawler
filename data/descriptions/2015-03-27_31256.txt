@@ -1,0 +1,15 @@
+
+IRIUM somos una empresa formada por profesionales con inquietudes, dinámicos y resolutivos. Nuestros valores son la responsabilidad y el compromiso con el trabajo bien hecho, este es el espíritu que buscamos en IRIUM, sea cual sea tu edad, si te reconoces !esta es tu empresa!
+Para ello te ofrecemos:
++ Paquete retributivo: en Irium adecuamos el salario a tus conocimientos, competencia y experiencia, teniendo como resultado un salario competitivo y atractivo en mercado. Para ello realizamos negociaciones personalizadas y flexibles ofreciendo la remuneración que más se adapte a tu perfil y a tus necesidades, pudiendo acceder a beneficios sociales si es tu preferencia.
++ Participa en proyectos para clientes líderes en el mercado: encontrarás clientes líderes en mercado donde podrás utilizar y aprender tecnologías punteras y participar en proyectos muy atractivos en áreas de, telecomunicaciones, industria, logística, sector público, banca y seguros, etc.
++ Vinculación: cada uno de nuestros colaboradores está vinculado a una Unidad Operativa que le acompaña en todo el transcurso de su carrera, con un Coordinador asignado para poder gestionar con éxito y de modo bidireccional todas las actividades asociadas al servicio ya que nuestros profesionales son el primer activo de nuestra organización.
++ Desarrollo profeisonal: como parte importante de tu trayectoria, nuestras áreas gerenciales mantienen un contacto constante con los proyectos para realizar una evaluación continua de un desempeño y evolución profesional. A partir de ahí se determinan acciones formativas a realizar que optimizan tu adecuación y desarrollo.
+Tenermos varios puestos donde se requieren Analistas Programadores Java J2EE. 
+Se requiere experiencia con:
+. Srping, Struts, Hibernate.
+- Web Services.
+- Servidores de aplicaciones.
+- Ingeniería o Ciclo formativo de Grado medio o Superior.
+- Es valorable un nivel alto de Inglés.
+

@@ -1,0 +1,17 @@
+
+En WAM We Are Marketing buscamos a una persona proactiva, motivada, que ponga un toque de pasión en todo aquello que haga y busque además de un buen clima de trabajo, un desafío tecnológico en una empresa con proyección internacional.
+La persona seleccionada participará activamente en el desarrollo de nuestro producto OpenCMS basado en Symfony2, así como en diferentes proyectos de implementación del producto con cliente final.
+Responsabilidades:
+- Colaborará en los testings necesarios con PHPUnit.
+- Colaborará en POO y en la realización de patrones de diseño.
+- Colaborará en tareas propias de soporte a clientes.
+- Ayudará a reducir la deuda funcional del producto en el proyecto.
+Perfil
+- Experiencia de al menos 3 años en PHP.
+- Experiencia en el uso del framework Symfony 2.
+- Herramientas de testing (PHPUnit, PHPSpec, Mockery).
+- Conoce y trabaja con metodologías ágiles (SCRUM) es un plus.
+- Conocimientos y experiencia en plataformas de comercio electrónico y/o pasarelas de pago
+- Control de versiones con Git.
+- Nivel de Inglés medio-alto.
+Nos preocupamos por el desarrollo profesional, y por ello apostamos por la formación continua para que consigas los objetivos profesionales que te propongas.

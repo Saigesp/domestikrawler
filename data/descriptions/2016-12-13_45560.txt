@@ -1,0 +1,12 @@
+
+Seleccionamos Programadores J2EE con experiencia en Spring y MVC.
+Requisitos mínimos: 
+Estudios mínimos: Formación Profesional Grado Superior
+Experiencia mínima: Al menos 3 años
+Requisitos valorables: 
+Experiencia en integración: desarrollo de servicios REST. Desarrollo de servicios SOAP.  Experiencia con framework Angular JS para desarrollos SPA. Experiencia con bases de datos mongo DB.
+Ofrecemos:
+- Incorporación inmediata y de carácter estable a la plantilla de Continex
+- Proyecto estable y de larga duración
+- Participación en proyectos de tecnologías destacables en el sector
+- Salario acorde con la experiencia aportada

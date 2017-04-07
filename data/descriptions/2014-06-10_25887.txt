@@ -1,0 +1,8 @@
+
+Buscamos un colaborador puntual para un proyecto. En colaboración con nuestro departamento de IT buscamos un apoyo por punta de trabajo.
+Se trata de la creación de un gestor de correo asociación a Mailchimp.
+Requerimos conocimientos en:
+- (Python)  Django Framework
+- (Javascript)  Angular JS
+- (CSS) Boostrap, Sass & Compass
+- Preferiblemente experiencia con la API de Mailchimp

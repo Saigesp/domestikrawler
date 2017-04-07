@@ -1,0 +1,13 @@
+
+¡Hola!
+Somos una agencia de branding de Barcelona. Estamos buscando un programador web para trabajar en el área de programación de proyectos con Drupal 8.
+Se valorará: 
+• Experiencia en estándares web: HTML, CSS, Javascript. 
+• Conocimiento de PHP, HTML5, CSS3, Javascript. 
+• Conocimiento de librerías como jquery, jQueryMobile, Ajax... 
+• Conocimientos avanzados de Drupal 8.
+Se ofrece: 
+• Trabajo media jornada. 
+• Puesto en empresa joven con un equipo de trabajo con amplia experiencia en desarrollo de marcas y su aplicación a nivel online. 
+• Posibilidad de realizar proyectos extra fuera del horario laboral o de trabajar jornada completa.
+

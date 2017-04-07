@@ -1,0 +1,16 @@
+
+En Redradix estamos buscando un programador backend de Ruby (+ Javascript). Estamos creciendo rápidamente y necesitamos más potencia en el back.
+Sobre nosotros (www.redradix.com): Somos una empresa bastante nueva que hace varias cosas: desarrollo web y app, formación especializada y productos propios. Solemos trabajar con startups por lo que los desarrollos suelen ser ideas desde 0 y temas novedosos. También hay proyectos coñazo (queda dicho)
+En cuanto a tecnología solemos trabajar en Ruby (varios sabores), Javascript, Node.js, PostgreSQL, Redis, MongoDB, html5...lo típico. Siempre bajo metodologías ágiles. Aunque a veces entra alguno, intentamos evitar Drupales, Wordpress, etc.
+Lo que buscamos:
+Ruby on Rails: con experiencia demostrable, queremos ver código, repositorio Github, trabajos, etc.
+Javascript: un nivel aceptable, cuanto más mejor. Si hay que mejorar no hay problema, te formaremos.
+Suma puntos:
+Experiencia en cualquiera de las tecnología que solemos trabajar: Node.js, PostgreSQL, Redis, MongoDB, html5, Clojure, Backbone, Objective C...
+Experiencia en metodologías ágiles.
+Toque emprendedor: aquí nos atrevemos con cosas nuevas (de verdad!). Tenemos una línea de productos propios por lo que si tienes una buena idea, una app o te gusta alguna de las que estamos lazando no habría problema que tu trabajo esté ahí.
+Buen comunicador: hacemos cursos periodicamente y si tienes un buen nivel en la materia en cuestión una de tus actividades podría estar en la parte de formación. Al igual que antes ¿tienes una idea de un curso que te mola y quieres dar? dínoslo y l movemos.
+Que te guste internet. Que estes al día en tu campo. Que leas, investigues y participes de las conversaciones y discusiones que tenemos por aquí. Que participes en las ideas y definiciones de productos y soluciones. Resumiendo que seas inquieto/a y activo/a
+¿Y qué aportamos?
+Aquí podrás encontrar un equipo apasionado con lo que hace, flexible en muchos aspectos y con muy buen rollo por lo que será importante un buen feeling. Te sentirás valorado y tus opiniones cuentan como la que más. Tendrás acceso a todos los cursos que damos por lo que la formación es contínua y corre de nuestra cuenta.
+Las condiciones variarán en función del candidato/a.

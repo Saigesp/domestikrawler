@@ -1,0 +1,19 @@
+
+Smile and Learn empresa líder en el sector del Edutaiment (educación más tecnología) está en la búsqueda de un talento Full Stack Developer para ayudar a crear la siguiente generación de su plataforma “La Biblioteca Inteligente” y trabajar en un entorno basado en el desarrollo ágil formado por nuestro equipo de Psicopedagogos, Ilustradores, Programadores, y Audiovisuales. 
+La Unión Europea nos ha concedido el máximo premio a la innovación Horizonte 2020, el cual cuenta con una ayuda al desarrollo de esta plataforma al máximo nivel. Imprescindible demostrar experiencia como desarrollador front-end web. Remuneración según valía.
+Requisitos
+•	Al menos 1 años de experiencia como desarrollador Full Stack.
+•	Experiencia demostrable en Javascript.
+•	Experiencia en PHP y algunos de sus Frameworks como Laravel o Yii.
+•	Haber utilizado MySQL como motor de base de datos.
+•	Experiencia demostrable en CSS.
+•	Experiencia demostrable en manejo de buenas prácticas de desarrollo.
+Deseable
+•	Experiencia deseable en Less.
+•	Experiencia deseable en Git.
+•	Experiencia deseable en AWS (Amazon Web Services).
+Responsabilidades
+•	Desarrollo junto al Lead developer de la parte web de la plataforma.
+•	Mejora de la interfaz y experiencia de usuario.
+•	Escribir código eficiente y fácilmente testable.
+

@@ -1,0 +1,11 @@
+
+Necesitamos, para un proyecto de larga duración, 2 desarrolladores symfony, entre junior y senior.
+Trabajo garantizado durante 3 meses, posiblemente estable.
+La idea es un perfil junior muy avanzado, sin necesidad de llegar a senior.
+No se trata de un proyecto, sino de varios relacionados entre ellos, para el mismo cliente.
+Requisitos mínimos son:
+- Experiencia en symfony, symfony forms, doctrine.
+- Buen nivel en OOP.
+- Acostumbrado a trabajar con git, svn o mercurial.
+- Orientado a servicio, responsable.
+Ofrecemos formación necesaria para requisitos concretos, diversidad de funciones (desarrollo backend, frontend, CMSs Drupal, Wordpress, etc.)

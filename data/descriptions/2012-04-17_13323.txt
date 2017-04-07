@@ -1,0 +1,11 @@
+
+En Sustainable Reference estamos buscando un FrontEnd Developer con experiencia para integrarse en nuestro equipo de desarrollo web. 
+Requisitos:
+ - HTML 5
+ - CSS 3
+ - jQuery
+ - Conocimientos de .NET (C#)
+ - Pasión por el detalle
+ - También estaría bien que supiese jugar al futbolín, pero no es un requisito.
+Para que tengáis un poco de información acerca de quiénes somos, os cuento. Sustainable Reference es una startup con varios proyectos relacionados con el mundo de las nuevas tecnologías y la sostenibilidad. Tenemos sedes en varios países (España, USA, Brasil…) y hemos recibido premios internacionales como el Red Herring Europe o el Hit del World Innovation Summit. 
+Nuestro proyecto más relevante hasta el momento es www.sustpro.com , un portal cuya misión es convertirse en la wikipedia de la sostenibilidad. ¡Pero tenemos muchos más!

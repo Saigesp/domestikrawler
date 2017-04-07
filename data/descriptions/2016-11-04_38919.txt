@@ -1,0 +1,32 @@
+
+No nos importa qué sabes hacer hoy.
+Nos importa lo que puedes llegar a hacer con nosotros.
+Seguimos creciendo y volvemos a ampliar el departamento web.
+Somos una empresa de servicios y tecnología enfocada exclusivamente al sector hotelero. Buscamos cubrir varios puestos de Maquetador/Front-End para el departamento Web en nuestra sede central, en Madrid.
+Somos expertos en crear y mantener webs oficiales de hoteles y cadenas así como proporcionar las herramientas y los servicios necesarios para incrementar las ventas directas del hotel a través de esta web.
+Nuestros servicios incluyen: motor de reservas, asesoramiento, diseño web, marketing online, posicionamiento en buscadores y presencia en redes sociales.
+Buscamos personas
+- Con ilusión y motivación.
+- Con ganas de aprender en un ambiente joven.
+- Resolutivas, proactivas y con sentido común.
+- Con capacidad de comunicación, que sepan adaptarse a cualquier tipo de interlocutor.
+- Saber de hoteles o venir del sector no es para nada imprescindible.
+- A jornada completa, aunque verás que nuestro horario es bastante bueno.
+Experiencia Ideal / Habilidades
+- Al menos 2 años de experiencia maquetando web.
+- Manejo de Wordpress.
+- Dominio de los estandares HTML5, CSS3.
+- Experiencia maquetando con el framewrok de Bootstrap.
+- Conocimientos de jQuery.
+- Sistema de manejo de tickets (Redmine).
+¿Qué aprenderías?
+- A disfrutar trabajando en equipo.
+- A tomar tus propias decisiones y ser resolutivo.
+- A probar cosas, equivocarte y aprender de ello.
+- Y mucho sobre el entorno wordpress (multisite), widgets, themes, diseño responsive, orientación multidispositivo… ¡o lo que surja por el camino!.
+¿Cuáles serán tus principales funciones?
+- Maquetación de las páginas webs siguiendo las líneas marcadas por UX.
+- Mantener las páginas webs de nuestros clientes, en wordpress principalmente, e insertar componentes en webs externas: Joomla, Wordpress, Drupal, etc.
+- Aprender, tenemos un equipo proactivo y con gran capacidad de innovación, esperamos que puedas aportar tu granito de arena y subirte al carro pronto.
+¿Cómo te valoraremos?
+Cuentanos tus experiencias y tus motivaciones. También te haremos una prueba de nivel en nuestras oficinas, para conocer tu dominio en wordpress, HTML5, CSS3; usamos Bootstrap y trabajamos con jquery ;)

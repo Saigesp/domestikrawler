@@ -1,0 +1,12 @@
+
+The Signal Processing for Communications and Navigation (SPCOMNAV) research group, at Universitat Autònoma de Barcelona, seeks a full-time software engineer to join our team and contribute to the scaling, improvement and maintenance of our innovative Cloud-based GPS receiver. The software platform is currently available in alpha test version and the objective is to convert it into a robust, highly available and scalable service open to the general public.
+We are looking for a candidate blending deep technical knowledge, enthusiasm and entrepreneurship, excelling in the following criteria:
+• proven experience in building web based applications.
+• top-notch programming skills and knowledge of Javascript, HTML/CSS, Bootstrap, Ruby on
+Rails, jQuery, mySQL.
+• experience with Cloud computing platforms, in particular Amazon AWS (EC2, S3, SQS, EBS).
+• knowledge on the specification and implementation of APIs for data queuing and application-to-
+application data exchange, as well as RESTful services.
+• a solid understanding of how web applications work including security, best development
+practices and version control systems like git.
+Candidates should have proven professional experience (junior candidates are also welcome, and they can even be in the last year of their M.Sc. in Computer/Telecom Engineering). We offer a full-time competitive salary, a young and open working environment, a cutting edge and innovative project, and the possibility of setting up a start-up company.

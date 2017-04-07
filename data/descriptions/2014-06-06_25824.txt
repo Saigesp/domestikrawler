@@ -1,0 +1,9 @@
+
+Marketalia necesita incorporar a su Departamento de Diseño Web un Maquetador Front-End / Programador Web con experiencia.
+Los requisitos para el puesto son: 
+- Conocimientos avanzados de HTML5 (semántico) y CSS3 en base cualquier software de desarrollo Front-End.
+- Capacidad de aplicación de librerías como jQuery, jQuery Mobile, MooTools…
+- Conocimientos avanzados de frameworks como Foundation y Bootstrap 
+- Altos conocimiento y agilidad a la hora de adaptar sitios Web a multidispositivos - Responsive Design
+- Experiencia en compatibilidad CrossBrowser
+Imprescindible envío de Portfolio con trabajos realizados.

@@ -1,0 +1,38 @@
+
+En Runroom estamos buscando un Front-end developer con experiencia para incorporarse a nuestra plantilla, de forma indefinida, en Barcelona.
+¿QUÉ NECESITAMOS?
+Necesitamos encontrar a una persona simpática, proactiva, motivada, con ganas de aprender y de mejora constante.
+Necesitamos que tengas un perfil similar a este:
+- Experiencia mínima y contrastable de 2 años como Desarrollador Front-end
+- Dominio de HTML5 y CSS3 (ideal: experiencia con SASS)
+- Amplios conocimientos de Javascript
+- Conocimiento de versiones distribuidas como Git
+- Agile lover :heart:
+Y sería estupendo si además tuvieras …
+…experiencia con automatización de tareas con Gulp
+…experiencia con metodologías Atomic
+…experiencia con ES2015
+…experiencia con SASS
+…experiencia con frameworks como React, Angular, Vue, etc
+…experiencia en definición y ejecución de pruebas en Javascript (Mocha, AVA, ...)
+…experiencia con metodologías SCRUM
+Somos una empresa con más de 13 años de experiencia en el medio online formada por un equipo de +40 personas, apasionadas por nuestro trabajo y comprometidas con los valores del agilismo. 
+¿QUÉ OFRECEMOS?
+- Sueldo: entre los 24.000€ y los 30.000€ (bruto anual en función de tu perfil)
+- Contrato indefinido
+- Horario flexible
+- Conciliación laboral
+- Plan de carrera y mentoring
+… y un entorno excepcional donde dispondrás de la oportunidad de desarrollarte personal y profesionalmente.
+Si algo destaca en Runroom es nuestra cultura. Y esta es nuestra visión (co-creada entre todos los miembros del equipo):
+- Ser una organización socialmente respetuosa que cuida a las personas y ofrece un retorno a la sociedad
+- Retarnos a innovar constantemente, y ser creativos
+- Ser respetuosos con nuestro oficio y ambiciosos en nuestro desarrollo integral
+- El valor emerge del talento de las personas y del respeto mutuo
+- Construir relaciones satisfactorias con nuestros clientes
+- Ser una referencia inspiradora a través de nuestro trabajo
+Si quieres conocernos un poco mejor visita: 
+ http://www.runroom.com/
+ http://inside.runroom.com/
+ http://twitter.com/runroom
+

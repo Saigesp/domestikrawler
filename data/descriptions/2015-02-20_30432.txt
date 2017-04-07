@@ -1,0 +1,28 @@
+
+We are looking for someone who is
+Passionate about software and technology
+Keen to code and can speed up quickly on a platform/technology to help contribute on specific topics
+Ready to work in a fast-paced, agile development model
+Profile requirements
+Four-year college degree or equivalent experience relevant to the job. Advanced degree (e.g. Masters in Computer Science) is preferred but not required
+2 to 5  years’ experience in hands-on development, application design in the delivery of software products
+Have a strong knowledge of Java development, of the server side libraries (threading, synchronization, XML APIs, ServletAPI, JSP, Log4J) and of relational and non relational databases.
+Be proficient in Linux.
+Have a deep knowledge of the software development lifecycle and related tools (Eclipse, Bugzilla, Github, Hudson, Maven, Junit) in a Linux environment.
+Be very analytical and have a strong experience in object oriented design, UML modeling and design patterns.
+Have experience in developing in a SOA (Service Oriented Architecture) (Webservices REST, SOAP, JSON) approach.
+Excellent spoken and written English is required.
+Would be a plus : 
+Knowledge in Agile development methodologies (extreme programming/ Scrum).
+Experience in TDD/BDD
+Have experience in developing applications which have to meet high volume and high availability standards.
+Knowledge of the Scala development language.
+Success factors
+Technology is your passion and you are on top of the latest development trends and technologies.
+You are a great communicator and love working in a team environment.
+You are autonomous
+You are detail oriented
+You are very sensitive to the quality of the code and have a great understanding of business priorities.
+Do you have the passion and a real taste for technological innovation ?
+Join us ! We will support your job mobility.
+More info at https://docs.google.com/a/kelisto.es/document/d/14k5l8HxUnaxDE2c8W5RlelNS1at2vOEkiIDAnj-DizU/edit

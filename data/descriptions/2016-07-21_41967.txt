@@ -1,0 +1,39 @@
+
+Estamos buscando un perfil Senior Front-end Developer para incorporarse a un grupo de trabajo joven, dinámico y altamente cualificado. 
+El candidato/a deberá ser una persona apasionado en el desarrollo de aplicaciones también por las nuevas tecnologías web, la experiencia de usuario, las apps y la innovación, orientado a usuario, que le gusten los retos y aprender sobre nuevas tecnologías, centrándose en arquitecturas limpias y código limpio. Esta persona deberá aportar valor a nuestro equipo de desarrollo del proyecto, por lo que deberá tener un alto nivel de conocimiento en esta área y entusiasmo para aprender y compartir la información.
+Experiencia / conocimientos: 
+•	FP 2 en desarrollo o Ingeniería Técnica Informática y mínimo 3 años de experiencia. 
+•	Sólida experiencia en HTML 5 y CSS 3. 
+•	Sólida experiencia en SASS/LESS 
+•	Sólida experiencia en GRUNT 
+•	Sólida experiencia en JavaScript Orientado a Objetos 
+•	Experiencia trabajando con responsive/adaptive web design 
+•	Deseable experiencia en SEO (Opcional) 
+•	Nivel alto en Aplicaciones Javascript basada en POO. 
+•	Nivel alto en AngularJS
+•	Experiencia en frameworks de desarrollo (Struts, Spring o similares) 
+•	Conocimiento en JQuery / Bootstrap 
+•	Experiencia en Base de Datos Oracle 
+•	Experiencia en integración Webservice y desarrollo de clientes con WSDL 
+•	Experiencia SSL, LDAP, Eclipse, SVN, Maven 
+•	Conocimiento y/o experiencia en Portlets y Liferay 
+•	Habilidad para desarrollar código reusable en aplicaciones de alto rendimiento. 
+•	Experiencia con sistemas de templates. 
+•	Experiencia en desarrollos TDD y/o BDD en JS.
+•	Experiencia en desarrollo de aplicaciones web REST complejas en Javascript.  
+•	Nivel alto en interpretación de documentos JSON. 
+•	Experiencia en Aplicaciones a tiempo real.
+Se valorará: 
+•	Persona pro activa, dinámica y con ganas de crecer. 
+•	Capacidad de aportar nuevas ideas y soluciones. 
+•	Estar siempre a la última a nivel tecnológico. 
+•	Alto nivel de inglés. 
+•	Experiencia en entornes subversión.
+•	Experiencia en Aplicaciones Mobile.
+Ofrecemos:
+•	Contrato indefinido
+•	Jornada Completa
+•	Pack de retribución ajustada a la experiencia demostrada.
+•	Trabajar en un equipo de expertos.
+•	Oficinas en Barcelona ciudad
+

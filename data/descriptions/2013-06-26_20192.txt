@@ -1,0 +1,12 @@
+
+Quiénes somos:
+SEOCOM.es es una empresa de marketing online especializada en buscadores. Dentro de nuestras lineas de negocio, tenemos MOON.es, nuestra área especializada en el desarrollo de webs en HTML 5 y CSS 3.
+Descripción de la oferta:
+Precisamos incorporar a nuestra sede de Barcelona, un Programador PHP en practicas.Buscamos una persona apasionada en el desarrollo sobre  el lenguaje PHP. 
+Requisitos mínimos:
+Buscamos una persona con conocimientos de PHP y MySQL, el objetivo es que se forme trabajando con el resto de sus compañeros. Las áreas que podrá tocar son  Apache, MySql 5, PHP 5, HTML 5, CSS 3, Javascript, Ajax, jQuery.
+Conocimientos deseados:
+Experiencia en el uso de frameworks MVC .
+Nivel medio de Inglés
+Horario: 5 horas al día
+

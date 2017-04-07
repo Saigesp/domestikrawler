@@ -1,0 +1,17 @@
+
+Perfil
+- Estudios: Licenciatura, Ingeniería, Ingeniería Técnica. 
+- Experiencia mínima de 3 a 5 años.
+- Experiencia demostrable en gestión, mantenimiento y desarrollo de proyectos web.
+- Conocimientos avanzados: LAMP, Javascript, jQuery, HTML5, CSS3, RESPONSIVE DESIGN.
+- EXPERTO en el desarrollo con Wordpress (Obligatorio) y otros CMS (Drupal, Joomla).
+- Experiencia en la optimización de procesos orientados a la mejora de usabilidad y experiencia de usuario.
+- Experiencia en el desarrollo de landing pages promocionales y magazines online.
+- Conocimientos para la Optimización en buscadores (SEO) 
+- Nivel de inglés: medio - alto.
+- Imprescindible portfolio de proyectos web realizados.
+Tareas
+- Desarrollo web a partir de mockups dados (Front end).
+- Desarrollo de CMS Wordpress. (Back end).
+- Mantenimiento web: actualizaciones, plugins, cross-browsing, Servidores ...
+- Centrado en el desarrollo de magazines online y portales institucionales.

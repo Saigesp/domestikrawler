@@ -1,0 +1,22 @@
+
+En boream estamos buscando un Desarrollador Frontend, con experiencia en desarrollos con fuerte componente JavaScript.
+Características de la oferta:
+* Incorporación a proyectos de primer nivel, que te permitirá seguir creciendo como profesional.
+* Formación en las tecnologías del sector.
+* Trabajo presencial en Madrid.
+* Oferta salarial según valía.
+Aptitudes y conocimientos deseados:
+* Necesitamos que tengas al menos 2 años de experiencia
+* Nivel de Javascript alto, conociendo sus Best Practices, comunicaciones asíncronas, controlando la programación del DOM, control de Eventos, herencia con Prototype, etc.
+* HTML5 + CSS3, multidispositivo y crossbrowser. 
+* Uso de preprocesadores CSS de tipo Sass y Less.  
+* RWD aplicando frameworks como Bootstrap o Foundation, y uso habitual de MediaQueries. 
+* Desarrollar habitualmente con jQuery, 
+* Automatización de tareas con Grunt/Gulp, así como control de versiones en GIT
+No son estrictamente necesarios, pero estaría genial si pilotas o conoces algo de esto otro:
+* Experiencia de base (al menos) en el uso de MVC JS como AngularJS, Backbone o Polymer.
+* Uso de otros frameworks de actualidad como IONIC.
+* Aplicación de las normativas WCAG 2.0 de Accesibilidad Web.  
+* Desarrollo de apps Híbridas con Phonegap o similar.
+* Definición y desarrollo de Testing automático. 
+* Conocer y tener experiencia en metodologías ágiles tipo Scrum.

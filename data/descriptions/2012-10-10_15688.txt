@@ -1,0 +1,19 @@
+
+THD / Coated busca Programador PHP Senior para incorporarse en el equipo de Tecnología y Desarrollo.
+Buscamos a alguien responsable, con conocimientos sólidos y ganas de seguir aprendiendo. 
+Tenemos un reto que seguro que te gustará.
+Condiciones del puesto:
+- Jornada Completa (viernes jornada intensiva) o media jornada con horario flexible y posibilidad de trabajar desde casa.
+- Buen ambiente de trabajo.
+Indispensable:
+- Capacidad de trabajo en equipo.
+- Usuario experto de Internet.
+- Buenas prácticas de desarrollo.
+- Conocimientos de PHP 5, MySQL.
+Valorable:
+- Conocimientos de Zend Framework.
+- Conocimiento y uso de APIs de Facebook, Twitter, Foursquare, etc.
+- Conocimiento de plataformas/entornos de desarrollo como Eclipse y Subversion.
+- Conocimientos de J2EE.
+- Interés en innovación y nuevas tecnologías web.
+Si tienes más capacidades y conocimientos descríbelos en el email que nos envíes y se tendrán muy en cuenta.

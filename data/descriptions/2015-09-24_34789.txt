@@ -1,0 +1,21 @@
+
+Somos una start up en fase beta.launch y necesitamos incorporar para un puesto presencial en Madrid a un programador desarrollador de Cakephp 2.6.
+Buscamos a alguien dinámico, con experiencia y conocimientos en:
+* CakePHP 2.6
+* Test unitarios (nos gusta la metodología TDD y usamos phpunit).
+* MySQL
+* Maquetación web: html css bootstrap
+* Javascript: jQuery backbone handlebars
+* Administración de sistemas Linux (trabajamos con Debian).
+Opcional:
+* Optimización de servidores
+* SEO
+* Backlink building
+Interesados adjuntar información de trabajos realizados (* Importante)
+QUIENES SOMOS:
+Estamos construyendo una plataforma con herramientas y servicios de fácil uso, que permite incorporar con éxito a pymes y empresas al ecosistema de Internet, mejorando la productividad y ventas de sus negocios, integrando un comunicación directa y personalizada con sus clientes ya fidelizados.
+Esto permite a las pymes y empresas el acceso a un universo de clientes potenciales en Internet, permitiéndoles ofrecer servicios a sus clientes 24x7 durante todo el año.
+QUE OFRECEMOS: 
+Incorporación a una start up en fase beta.launch, un equipo motivado, dinámico y en el que siempre nos gusta aprender.
+Sueldo: 18.000 € - 22.000 €
+Verdaderas posibilidades de mejora salarial en función de desempeño, conocimientos e implicación en el proyecto.

@@ -1,0 +1,20 @@
+
+La persona seleccionada se responsabilizará de desarrollar y programar aplicaciones y juegos con un marcado target infantil, para dispositivos móviles de sistemas operativos iOS y Android.
+Formará parte del equipo del Departamento de Interactivos de Zinkia y sus principales funciones serán:
+•	Escribir, testear, depurar y mantener el código necesario para el desarrollo de los diferentes proyectos de juegos y aplicaciones en distintas plataformas. 
+•	Perseguir la calidad, eficacia y adecuación del código de los diferentes proyectos en todas sus fases y en sus sucesivas versiones atendiendo a los marcos temporales y de calidad establecidos.
+•	Identificar, anticipar, prevenir y solucionar posibles problemas, fallos o errores, de carácter técnico, en el proyecto. 
+•	Planificar el trabajo y cumplimir las fechas establecidas en cada proyecto.
+•	Trabajar en colaboración con el resto de departamentos.
+Requisitos:
+ •	Experiencia previa demostrable en el desarrollo de juegos y/o aplicaciones para dispositivos móviles iOS y Android.
+•	Conocimientos de Programación Nativa en Android (Java).
+•	Conocimientos de Programación Nativa en iOS (Objective C).
+•	Amplios conocimientos de C++ y JavaScript
+•	Proceso de publicación en AppStore , Google Play y otros Stores.
+Se valorarán conocimientos en:
+•	Integración de Analíticas, In App Purchase, Publicidad, Push Notification, Social Sharing, etc.
+•	Realidad Virtual / Aumentada
+•	Programación y desarrollo con QT 
+•	Programación y desarrollo con Unity
+

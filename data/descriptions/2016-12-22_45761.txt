@@ -1,0 +1,8 @@
+
+Hola a todos y todas,
+Desde Xplora estamos buscando a un auténtico programador experto, ya sea como Freelance o un estudio, en el desarrollo, completamente a medida, de tiendas en Magento, sus Web services y Magento APIs.
+Imprescindible tener gran experiencia montando y personalizando tiendas Magento. Adjuntar URL así como si es posible obtener referencias de primera mano.
+Hablamos un proyecto Web de personalización completa. Tanto a nivel de diseño (completamente a medida y responsive) como a nivel de funcionalidades: programación de sistemas de presupuestos especiales, programación de CRM, etc.
+También es necesario que tenga gran conocimiento en Web services para conexiones a BD SQL remotas así como el uso de APIs para gran cantidad de servicios avanzados.
+Estamos hablando de proyectos Web de gran complejidad que nos obliga a asegurarnos de seleccionar a un programador Web muy avanzado en Magento.
+Gracias por vuestro interés.

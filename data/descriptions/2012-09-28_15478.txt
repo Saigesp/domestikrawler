@@ -1,0 +1,8 @@
+
+We're looking for a front end programmer for our projects.
+We need a collaborator to help us fulfill tasks related to production, modification and maintenance of websites and web application’s user interfaces.
+* We look for someone with experience in creating interfaces with HTML5+javascript+Jquery+css and creating interactions with Ajax techniques.
+* You should be comfortable with different templating systems and code versioning.
+* A keen interest in emerging internet projects and culture would be appreciated. Interest in fashion, design, lifestyle and culture would be a plus.
+The collaboration would be on a freelance basis at this stage; although remote working is an option, we prefer to meet you in person and able to work together with you at our office in Barcelona for our project LookRemix.
+

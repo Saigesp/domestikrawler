@@ -1,0 +1,18 @@
+
+BMO es una comunidad creativa. Aquí las ideas fluyen, vuelan, seducen mentes, tocan corazones y adquieren tacto en nuestras manos… ¿Y por qué? Porque solo creamos para personas. Personas que necesitan, desean, aman y luego consumen. 
+Ahora más que nunca necesitamos ser más… Y en este caso, literalmente. Necesitamos ampliar nuestro equipo. Buscamos a un programador que sea más que un programador. Una persona dinámica y curiosa, que le gusten las nuevas tecnologías, con muchas ganas de experimentar y colaborar. 
+Trabajará en el desarollo de paginas web.
+Requerimientos:
+- Dominio Backend (PHP, MySQL)
+- Dominio Frontend (HTML 5, CSS 3, Less, JQuery) 
+- Con disposición para el trabajo en equipo.
+Disponibilidad inmediata.
+. . .
+BMO is a creative community. Here, ideas fly, grow, seduce minds, touch hearts and become tactile at our fingertips... Why? Because we create for people. People who need, desire, love and so, consume.
+Today, more than ever we need to be more... and in this particular case, literally. We want to expand our team. We are looking for a web developer who is more than a web developer. An enthusiastic, curious individual who enjoys new technologies and is always excited to collaborates.
+Work as a website developer.
+Requirements: 
+- Backend (PHP, MySQL)
+- Frontend (HTML 5, CSS 3, Less, Jquery)
+- Able to work as part of a team
+Ready to start immediately.

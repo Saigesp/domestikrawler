@@ -1,0 +1,9 @@
+
+We are looking for a talented developer with solid knowledge of Java and Android SDK’s to join a digital development team.
+- You have a deep knowledge of OOP and design patterns.
+- You have a proven track record in Android development and are familiar, using the Android SDK and relevant toolsets.
+- You have experience in consuming RESTful JSON API’s and working with real time data.
+- You love to work in an agile product development, using practices such as Scrum and Kanban.
+- You will play a key role in the full development cycle and direction of future sets, and take feature requests and user stories from a range of different business owners and translate them into a set of re-usable components.
+- You will participate and/or take ownership over the internal software features, from requirements gathering, to design and implementation, to production deployment.
+- You will work in a dynamic, collaborative, transparent, non-hierarchal, and ego-free culture.

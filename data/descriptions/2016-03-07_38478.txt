@@ -1,0 +1,30 @@
+
+En Cheil Spain estamos buscando un programador HTML5/CSS3 para integrarse en el equipo de la agencia y trabajar para una importante marca de electrónica de consumo.
+Vas a ser el responsable del desarrollo de microsites, campañas, landing-pages y creación de material con alto nivel de interactividad y trasladando al usuario la mejor experiencia.
+Buscamos: 
+- Experiencia de 2 años en maquetación HTML5/CSS3
+- Gran sensibilidad por la composición visual y gran atención al detalle
+- Conocedor de las tendencias de web-design y sus posibilidades
+- Experiencia en uso de librerías JQuery, Bootstrap, AngularJS, BackboneJS, Node.JS
+- Experiencia en integración de ficheros JSON en el desarrollo web
+- Experiencia demostrable en el desarrollo de piezas display en HTML5 tanto convencionales como Richmedia 
+- Desarrollo en responsive-design
+- Optimización en los diferentes navegadores
+- Pensamiento creativo e innovador
+- Experiencia en el uso de plataformas para el control de versiones (CVS)
+Deseables:
+- Conocimientos sobre MediaQueries, LESS/SASS, etc.
+- Que sea extremadamente ordenado en el desarrollo del código y la gestión de todo el material
+- Experiencia en programación server (.NET, PHP, RoR, etc.) y bases de datos
+- Experiencia en definición de interfaces y UI
+- Experiencia en el uso de herramienta de prototipo (Sketch, Axure, etc.)
+- Familiarizado con adservers Adform, Sizmek, Weborama y Doubleclick
+- Capacidad para generar documentación técnica relativa a sus desarrollos
+- Experiencia en el uso de Adobe Suite (Photoshop e Illustrator)
+- Experiencia el el uso de la herramienta Google Designer
+No buscamos:
+- Diseñadores
+- Programadores back-end
+- Copywriters
+- Nada relacionado al mundo Social Media
+El perfil que buscamos es para incorporarse en la agencia y que se una a nosotros en los partidos del futbolín que tenemos. No buscamos freelances.

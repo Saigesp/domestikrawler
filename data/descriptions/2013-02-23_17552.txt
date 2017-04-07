@@ -1,0 +1,31 @@
+
+Hola,
+Mi partner Nigel desde Londres (desarrollador senior en Java y Node.js de back end) y yo desde Amsterdam (experto en monetización de Display Marketing y coordinador del proyecto) estamos buscando a un tercer miembro para el equipo que se encargue del front end de nuestro proyecto y de el diseño gráfico. 
+Este miembro tendrá que desarrollar un front end con integración con el back end pensando en los mínimos costes de servidor posible (que utilice más recursos del navegador que del servidor) y los mejores acabados técnicos. 
+Ofrecemos:
+
+Precio fijo cerrado por el proyecto + acciones
+
+Poder decir que eres cofundador de un proyecto desarrollado para estar preparado para el éxito. 
+
+Una muy buena experiencia trabjando con un equipo multidisciplinar. 
+
+
+Pedimos: 
+
+Buen nivel de inglés
+
+Dominio necesario de los siguientes lenguajes y frameworks: Twitter Bootstrap y librerías de Javascript como node.js, backbone.js 0.9.2,  jquery 1.7.2, jquery-ui 1.9.0, highcharts 2.3.3 o parecido, underscore.js 1.4.1 y globalize.js 0.1.1
+
+Es muy valorable experiencia como diseñador gráfico para cuidar también toda la estética de nuestro proyecto y experiencia en back end en java. 
+
+Proactividad, ganas por hacer algo grande e ilusión por el proyecto
+
+Para aplicar:
+
+Carta de motivación
+
+Portfolio demostrando que puedes llevar el proyecto a buen puerto
+
+_____ 
+Si queréis saber más sobre el proyecto: Hace 2 años que tengo esta idea en la cabeza y la he intentado desarrollar con varios equipos pero no había salido adelante hasta que encontré en oDesk.com a Nigel quien le gustó la idea de empezar una start up. Se trata de un proyecto de contenido automático (en el futuro podría ser una empresa grande con sólo 4 o 5 empleados, costes fijos bajos, rentabilidad desde el mes 1 en teoría) y estamos intentando hacer algo grande con poco presupuesto de entrada. Yo trabajo en online marketing pero he estudiado finanzas e Entrepreneurship y él es freelancer pero ha trabajado para proyectos de empresas muy importantes. Buscamos a alguien que sea un buen complemento a nosotros. 

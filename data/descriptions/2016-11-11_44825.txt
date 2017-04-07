@@ -1,0 +1,15 @@
+
+Al menos 3 años en proyectos web con PHP exclusivamente
+• Desarrollo orientado a objetos
+• Desarrollo de Back y Frontend
+• Bases de datos relacionales: MySQL, SQL server y entornos XAMP
+• Experiencia en integración con otros sistemas (webservices/REST/API)
+• Frameworks PHP modernos: Symfony, Zend, Yii, etc...
+• Conocimientos sólidos de Javascript, preferiblemente orientado a objetos, y de frameworks javascript (jquery, Mootools, etc)
+• Ajax
+• Desarrollo y gestión de aplicaciones CMS en PHP: Wordpress, Drupal, Joomla, Moodle, Pimcore, etc.
+• Alto nivel de conocimiento de HTML5, JavaScript, Jquery, CSS
+• Sistema de control de versiones: GIT, SVN
+Deseables:
+• Desarrollo de APP bajo IOS-Android (nativo y/o bajo Titanium Appcelerator, Phonegap, etc)
+

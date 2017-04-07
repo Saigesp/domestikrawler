@@ -1,0 +1,11 @@
+
+En Iwantic, primera agencia española especializada en selección de perfiles digitales, seleccionamos un Programador .NET WPF para una de las mayores compañías especializadas en servicios y soluciones de tecnología, para un gran proyecto aeronáutico en Madrid. 
+Se requiere:
+- Grado Superior o Ingeniería (o disciplinas relacionadas)
+- Al menos dos años de experiencia con .NET y WPF
+Tecnologías:
+- WPF / Silverlight
+- MVVM
+- Entity Framework, Linq
+- Experiencia con test de integración y unitarios (NUnit, Moq)
+- Valorable experiencia con DDD.

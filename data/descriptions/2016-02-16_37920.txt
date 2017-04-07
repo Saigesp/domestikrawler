@@ -1,0 +1,12 @@
+
+Funciones
+	Formará parte del equipo de sistemas de CRM para el mantenimiento de las bases de datos y aplicaciones.
+	Gestión de campañas
+        Actualización BBDD
+        Realización de segmentaciones
+
+Requisitos
+	Buscamos una persona con conocimientos en entornos de base de datos (Oracle, Sql Server, MySql...)
+	Valorable conocimientos en programación (PL/Sql, VB, .Net...)
+	Con ganas de aprender y formarse en el mundo del marketing CRM.
+	Haber terminado la universidad o un master y poder acceder a un contrato de prácticas

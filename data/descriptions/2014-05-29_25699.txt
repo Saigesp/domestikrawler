@@ -1,0 +1,22 @@
+
+Hola, somos una empresa del sector turístico y actualmente tenemos una vacante para un desarrollador Senior, que le guste el frontend y que tenga inquietudes, vamos, que se actualice más a menudo que el Paint.
+Se tocará un 70% Backend y un 30% frontend.
+Hay mucho trabajo hecho, y mucho más por hacer, así que tener ganas es primordial.
+Requisitos: 
+- Experiencia mínima de 5 años en entornos LAMP. 
+- Experiencia en POO, MVC y algún framework (Yii,  symfony, Zend)
+- Experiencia en jQuery y el uso responsable de AJAX.
+- Experiencia en controles de versiones, en concreto en GIT.
+- Aplicado y con ganas de aportar.
+- Iniciativa.
+Ideal:
+- Con amplios conocimientos en HTML5, CSS3 (Usamos LESS, pero si sabes SASS, ya va bien)
+- Soltura en el uso de la consola en Linux.
+- Experiencia en implementación de webservice o REST.
+- Nivel medio/alto de inglés.
+Lo más de lo más:
+- Experiencia en el desarrollo para iOS.
+Ofrecemos: 
+Contrato laboral indefinido, de 9 a 19:00, cerca de la playa (los viernes alguna paellita cae) con un sueldo de 1700€ con revisión a los 3 meses.
+Buen ambiente de trabajo y optimas condiciones para poder desarrollarse y proyectarse laboralmente dentro de la empresa.
+Nos encanta la gente que se implica, la idea no es ocupar una silla.

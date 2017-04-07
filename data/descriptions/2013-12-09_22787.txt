@@ -1,0 +1,17 @@
+
+Buscamos Ruby on Rails Developers, full time o part time, para nuestra oficina de Madrid. 
+Gente talentosa, que se adapte rápido y sepa trabajar en equipo.
+Excluyente: 
+- Inglés nivel alto (escrito)
+- Nivel medio en Ruby 1.9 o 2.0 preferentemente
+- Nivel avanzado en RoR 3.2 o 4.0 preferentemente
+- Nivel medio en Javascript
+Bonus points si:
+- Tienes experiencia en Angular y/o Node
+- Sabes SASS y/o HAML
+- Tienes experiencia en Phonegap
+- Autonomía en HTML5, CSS3, Responsive design, Bootstrap
+Somos una boutique internacional de diseño, con un equipo altamente capacitado, trabajando desde Madrid para USA & UK, diseñando y ejecutando estrategias digitales para clientes en tres continentes.  
+El nivel de desafío en la empresa es alto, usamos metodologías ágiles  y nos encanta innovar y experimentar con nuevas tecnologías.
+Buscamos a alguien que nos complemente con su talento para continuar elevando nuestro estándar de trabajo.
+¿Eres el #futurefarmer que estamos buscando?

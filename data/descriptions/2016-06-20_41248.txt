@@ -1,0 +1,9 @@
+
+Necesitamos un profesional con experiencia en el desarrollo sobre HTML5 / CSS3 para elaboración de proyectos interactivos sobre soportes táctiles.
+- Maquetación HTML5 / CSS3. 
+- Javascript y sus más conocidas librerias como Jquery. 
+- Adobe Photoshop e Illustrator para poder implementar los diseños en la programación. 
+- Que tenga experiencia demostrable en el desarrollo de piezas interactivas (local y cloud)
+- Que esté familiarizado con adservers, Adform, Sizmek, weborama y Doubleclick.
+- Que tenga experiencia en generar un CMS para modificar contenidos a través de acceso cloud.
+- Conocimiento de librerías de animación en javascript o CSS (GASP, Animate.css). 

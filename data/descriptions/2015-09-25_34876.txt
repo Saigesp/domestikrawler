@@ -1,0 +1,10 @@
+
+Vector, grupo tecnológico 100% de capital español, proveedor de servicios integrales de tecnología, outsourcing y productos de software exclusivos, proporciona e integra servicios y soluciones mediante un amplio portfolio que abarca múltiples sectores: banca y finanzas, industria, telco y media, retail, ocio y turismo, administración pública y sanidad. Calidad, Compromiso, Cercanía, Conocimiento y Competitividad, junto con la flexibilidad en todos nuestros servicios, son nuestro valor diferencial.
+Desarrollamos tecnología por y para las personas, siendo la innovación el motor de nuestro crecimiento y las personas nuestra fuente de inspiración. Tecnología inteligente para transmitir confianza, seguridad y facilitar los proyectos vitales.
+Únete a nosotros y se parte integrarte de nuestros proyectos con grandes posibilidades de crecimiento y desarrollo profesional.
+•	 Experiencia desarrollo aplicaciones web en php, y con gestiores de contenidos Drupal
+•	 Experiencia en symfony (1.4 y/o 2).
+•	 Experiencia desarrollando aplicaciones en equipo con sistemas de control de versiones Subversion (opcional Git)
+•	 Amplios conocimientos de MySQL
+• 	 Conocimientos de HTML y css.
+• 	 Valorable conocimientos en gestores de contenidos tipo Wordpress, Magento.

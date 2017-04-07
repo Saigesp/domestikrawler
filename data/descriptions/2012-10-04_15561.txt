@@ -1,0 +1,10 @@
+
+¡Hola!
+Buscamos un desarrollador de aplicaciones para smartphone con experiencia demostrable en el desarrollo de aplicaciones Apple IOS y experiencia real en desarrollo de aplicaciones Android.
+Experiencia mínima de 1 año e inglés técnico obligatorio
+Se valorarán :
+Conocimientos avanzados de HTML5 /CSS3
+Conocimientos avanzados de JQUERY MOBILE
+Experiencia con Frameworks CrossPlattform
+(PhoneGap...etc)
+

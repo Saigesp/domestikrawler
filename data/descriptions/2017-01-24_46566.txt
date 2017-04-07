@@ -1,0 +1,29 @@
+
+¿Quienes somos?
+Somos Voicemod, una Startup tecnológica que hemos creado una tecnología de audio que permite la modificación del audio en tiempo real dentro del smartphone. Con esta tecnología tenemos actualmente en el App Store y en Google Play aplicaciones de entretenimiento que muestran el potencial de nuestra tecnología.
+Somos un equipo joven pero experimentado, con muchas ganas y con muy buen ambiente de trabajo. Nos importa el trabajo bien hecho de la misma manera que nos importan las personas que lo realizan.
+Actualmente estamos licenciando nuestra tecnología a modo de librería para iOS (SDK), para que otros desarrolladores puedan utilizarla en sus aplicaciones.
+¿Qué buscamos?
+Buscamos a un Desarrollador Senior de Android para empaquetar nuestra tecnología de audio en una librería SDK para que pueda ser usada por desarrolladores de Android. Nuestra tecnología de audio está desarrollada íntegramente C++, por lo que buscamos un desarrollador de Android que esté familiarizado con la interface Nativa de Java (JNI) para la creación de la librería. Actualmente tenemos una versión funcional de nuestro motor de audio para Android utilizando JNI, por lo que ya hay mucho camino avanzado
+:)
+También será el encargado de generar aplicaciones para Google Play que muestren el potencial de nuestra tecnología.
+Buscamos a una persona que sea capaz, no solo de llevar a cabo las tareas asignadas, sino que se implique en el proyecto con una actitud proactiva y que afronte los problemas como un desafío para crecer profesionalmente.
+¿Cuáles son las tareas?
+ - Desarrollo de la librería de audio para Android usando JNI.
+ - Desarrollo de aplicaciones para Android.
+ - Actualizaciones de la librería y de las aplicaciones en Android.
+Requisitos 
+ - Conocimientos y experiencia en el desarrollo de aplicaciones en Android.
+ - Conocimientos y experiencia en desarrollo sobre lenguaje C++.
+ - Conocimiento y experiencia con la Interface Nativa de Java (JNI).
+ - Habilidad para escribir código limpio, legible y reutilizable.
+ - Habilidad para depurar errores (debugging).
+Se valorará
+ - Conocimientos y/o experiencia en el campo del audio.
+ - Conocimiento y experiencia en el uso de software de control de versiones GIT.
+ - Inglés nivel conversación.
+¿Qué ofrecemos?
+ - Horario de trabajo flexible.
+ - Un salario competitivo.
+ - Oportunidad de progresión profesional.
+ - Muy buen ambiente de trabajo. Tanto en Voicemod como en el Co-Working del que formamos parte, situado en pleno centro de Valencia.

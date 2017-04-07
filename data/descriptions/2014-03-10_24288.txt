@@ -1,0 +1,16 @@
+
+BrainSINS es un sistema de personalización para comercio electrónico. Se trata de una empresa española en proceso de internacionalización, y clientes en más de 10 países diferentes.
+Para crear una nueva versión del front-end del sistema, buscamos un desarrollador web con los siguientes requisitos:
+- Formación mínima: Ingeniero Técnico o Grado en Informática (o similar).
+- Experiencia mínima: 2 años programación web PHP.
+Requisitos técnicos:
+- Framework PHP (preferiblemente Zend).
+- Javascript, JQuery, HTML5, Ajax
+- MySQL
+- Git o SVN
+- REST, AWS
+- Unix, Cron
+- Experiencia en maquetación (se valorará responsive)
+- Control de acceso a usuarios y seguridad
+- Metodologías ágiles (preferiblemente SCRUM)
+Idiomas: Buen nivel de inglés.

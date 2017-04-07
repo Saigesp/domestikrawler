@@ -1,0 +1,15 @@
+
+Estamos buscando un Font end Developer, para incorporarse en uno de nuestros principales clientes, cuya ubicación está en Barcelona centro. 
+Se trata de una empresa que se dedica a fabricar software para entidades financieras: productos que venden a bancos, principalmente en Oriente Medio.
+Requisitos:
+-	Experiencia con HTML5, CSS3 (mínimo 3 años) 
+-	Dominio de JavaScript, jQuery (mínimo 3 años) 
+-	Angular JS (mínimo 6 meses - preferible 3 años) 
+-	Ubicación Barcelona 
+-	Ingeniero Técnico o FP
+Ofrecemos:
+- Remuneración competitiva. 
+- Contrato con carácter indefinido. 
+- Carrera profesional asegurada. 
+- Trabajar en un equipo de expertos.
+- Oportunidades reales de crecimiento profesional.

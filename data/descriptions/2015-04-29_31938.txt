@@ -1,0 +1,40 @@
+
+Transform into a Technological Unicorn
+
+Digitas LBi is on the hunt for a Senior Java Technologist to work on a diverse portfolio and innovative projects. Are you that Unicorn? Here’s a quick guide to find out.
+
+The Kingdom
+
+Technology at DigitasLBi is not separated from creative and strategic disciplines. Our technologists take part in projects right from the start, spreading their wings and charging head first into creative and strategic roles alongside the more traditional technical architecture, development, testing and release management roles. Blending like this allows us to deliver work that is innovative, appropriately architected and the highest quality possible, as well as being a lot more fun.
+
+The Unicorn
+
+Our Java pod has a glittering record of delivering complex and challenging systems to high profile clients, and we’re on the hunt for a developer to join us. A Java genius who writes clean code and is fanatical about Agile development.  A sharp problem solver who can work across a range of devices for high-traffic, high-profile clients. You’ll have gained commercial acumen throughout your career and understand the nature of working in a digital-agency. Our multi-disciplined herd has a strong community, team culture, regular off-project workshops and an opinionated but collaborative mindset.
+
+The Skills
+
+Experience building websites for well-known brands and experience working for a web agency on design led projects.
+Deep understanding of Java and associated technologies.
+Good knowledge of the Java enterprise application development process, with a passion for Agile development practices. (TDD, JUnit, version control and continuous integration.)
+Knowledge and use of design patterns in building applications.
+Practical knowledge of other web technologies (HTML, CSS, JavaScript). We have a dedicated Interface Development team, but you will be working alongside our front-end specialists.
+Knowledge of XML and related technologies as well as database modelling and working with an RDBMS.
+Experience of Enterprise solutions based on one or more of the following CMS solutions such as Hybris, Endeca, Oracle WCS (Fatwire), Day AEM (CQ5) and similar technologies.
+An open mind about the platforms projects are delivered to. While the majority of our work is still delivered to the browser, we also develop native applications for iOS and Android.
+Willingness to learn and openness to non-Java technologies, such as Ruby, Scala etc.
+
+
+The Missions
+
+Working on a variety of cutting edge campaigns from Java powered knitting machines to global automotive campaigns.
+Helping to build super cool robots.
+Providing knowledge of best practice around tools and approach and offering thoughts and input throughout the development process.
+Be passionate about Agile methodology, evangelise TDD and continuous integration.
+Provide thoughtful and considered input into pods.
+Contribute to the risk log and risk planning, estimate and plan.
+To act as the single point of technical responsibility on projects, taking ownership of final delivery.
+
+
+
+DigitasLBi is a global marketing and technology agency that transforms businesses for the digital age. We help companies of all shapes and sizes decide what’s next… and then we take them there. In 25 countries around the world, across 40 offices, there are more than 6,000 digital experts working to enrich people’s lives via our unique blend of strategy, creativity, media and technology. There are many things that make DigitasLBi unique but if we had to choose one it would be our ability to connect data with storytelling to help make brands special, shareable and more ultimately valuable wherever, whenever and however people choose to engage with them.
+ 

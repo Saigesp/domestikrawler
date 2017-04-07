@@ -1,0 +1,21 @@
+
+Do you love PHP? Do you care about code? Feel yourself home!
+*What we do: High value and performance PHP Application development.
+The successful candidate will be responsible for:
+- Implementing and maintaining Emagister's website (in PHP) 
+- Overall running of the site. To analyze and improve the site. 
+- Using knowledge and experience to help define the structure of the site. 
+- Analyzing and solving security problems within the site. 
+- Developing new functions that can grow with the site
+What we are looking for:
+- Minimum qualification: Technical engineer/Programmer
+- 3 years experience in web development with PHP 5, for a site with high traffic levels.
+- In depth knowledge of LAMP platform at programming level. 
+- Sound understanding of OO in PHP 5. Experienced user of MVC.
+- Good understanding of OO Design Patterns. 
+- Knowledge of PHP development Frameworks, preferably Zend Framework and Symfony2. 
+- Experience with SEO analysis 
+- Ability to implement with speed, efficiency and precision. 
+- Sound knowledge of Oracle at user and query optimization level. 
+- Ability to develop functions with user experience as the main focus, identifying potential performance or scalability issues.
+- Experience PHPUnit.

@@ -1,0 +1,22 @@
+
+Requisitos básicos para el puesto:
+- Desarrollador experto en PHP/MySQL nivel avanzado (mínimo 3 años de experiencia demostrable)
+- Experto en desarrollo de interfaces con Javascript especialmente basadas en el uso de jQuery.
+- Experiencia en desarrollo de interfaces con HTML5/CSS3.
+- Experiencia demostrable en maquetación HTML/CSS basada en estándares.
+- Filosofía de trabajo orientada a la iniciativa y a la resolución de problemas.
+Requisitos valorados para el puesto:
+- También valoramos el conocimiento/experiencia trabajando con frameworks
+de PHP ( code igniter, cackephp, symfony ) y smarty.
+- Experiencia en desarrollo sobre Prestashop.
+- Experiencia en desarrollo sobre Wordpress.
+- Experiencia de uso de herramientas de control de versiones: Subversion/Git.
+- Experiencia en el uso de IDEs de desarrollo.
+- Experiencia con Linux como entorno de trabajo.
+- Conocimiento/experiencia en metodologías ágiles (Scrum...).
+- Nivel de inglés medio - alto.
+Requisitos soñados para el puesto:
+- Experiencia en desarrollo de aplicaciones IOS/Android.
+- Experiencia en metodologías TDD (Test Driven Development).
+- Experiencia en trato con el cliente.
+- Experiencia en metodología, documentación y gestión de proyectos.

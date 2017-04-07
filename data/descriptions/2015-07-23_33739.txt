@@ -1,0 +1,26 @@
+
+Tareas:
+Análisis, programación y mantenimiento con PHP o CMS (wordpress y prestashop) de back y front
+Requisitos:
+Nivel muy alto en programación OO en PHP y JavaScript
+Dominio de BBDD (MySQL, ...)
+Experiencia con algún framework MVC en PHP (Symphony, Laravel, CodeIgniter, ...)
+Uso de librerías y frameworks Javascript/CSS (JQuery, AngularJS, Bootstrap, ...)
+Experiencia en HTML5
+Experiencia con sistema de control de versiones 
+Se valorará:
+Experiencia con bases de datos NoSQL (Mongodb, ...)
+Conocimientos de testeo, TDD, BDD
+Experiencia o interés en trabajo en entornos ágiles (Scrum, Kanban, ...)
+Conocimientos de SASS / LESS
+Interés por usabilidad y UX web
+Conocimiento de otros lenguajes de programación (Ruby, Python, ...)
+Desarrollo de apps
+Experiencia en plataformas cloud (Microsoft Azure, Amazon Web Services...)
+Experiencia con despliegues automatizados a producción
+Experiencia en integración de APIs de terceros.
+Lugar de trabajo:
+El Escorial - Valdemorillo
+Muy buen ambiente de trabajo en un entorno diferente y tranquilo
+Contrato y sueldo:
+A negociar (abierto a distintas propuestas)

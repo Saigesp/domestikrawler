@@ -1,0 +1,15 @@
+
+La Agencia Digital Creativa Numéricco está buscando un desarrollador web para trabajar en Zaragoza.
+Buscamos gente activa, con ganas de aprender y de intentar mejorar día a día en su trabajo.
+Se trabajará en el desarrollo de proyectos online participando conjuntamente con el equipo de diseño desde el primer momento en las fases de análisis y arquitectura de información.
+Requisitos:
+- Lenguaje de programación Web PHP y manejo de frameworks como Cakephp o Laravel.
+- HTML5 y CSS3.
+- Experiencia con librerías JavaScript: Angularjs y jQuery.
+- Desarrollo de ecommerce con Prestashop y Magento.
+- Conocimientos de maquetación con técnicas de Responsive Design (RWD) y Mobile first. 
+Se valorará positivamente:
+- Experiencia en desarrollo con Sass
+- Manejo de gestor de paquetes NPM y nodejs
+- Experiencia en control de versiones (GIT).
+- Manejo de Photoshop y Illustrator.

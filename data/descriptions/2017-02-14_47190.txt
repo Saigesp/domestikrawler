@@ -1,0 +1,16 @@
+
+Somos una empresa especializada en desarrollo Frontend y en diseño de UI y UX.
+En estos momentos buscamos un desarrollador freelance para desarrollar proyectos completos sobre la plataforma Magento. Se proporcionará un diseño para cada proyecto el cual habrá que adaptar sobre el portal desarrollado en Magento.
+Requisitos mínimos:
+- Conocimientos avanzados en HTML4/5, CSS/CSS3, JavaScript, jQuery, JSON, AJAX  
+- Prestashop Nivel Alto. 
+- SEO Nivel Alto. 
+- Experiencia mínima de 3 años en tareas similares. 
+- Persona responsable y con capacidad organizativa. 
+- Capacidad de trabajo en equipo. 
+- Comprometido y flexible
+- Persona proactiva, dinámica y responsable con los plazos de entrega pactados
+Importante:
+- Especial atención al diseño y a la presentación de la plataforma web entregada.
+- Maquetación con detalle al píxel.
+No es para un único proyecto sino para un colaboración continuada con diferentes proyectos de Prestashop.

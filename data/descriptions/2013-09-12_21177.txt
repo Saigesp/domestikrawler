@@ -1,0 +1,2 @@
+
+Necesitamos un programador Moodle y PHP para un proyecto de conexión de un Moodle con un ERP.

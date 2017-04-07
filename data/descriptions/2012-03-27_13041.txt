@@ -1,0 +1,21 @@
+
+Privately-held media broadcast company headquartered near Munich, founded in 2000 and now a European leader with 27 established TV channels in 10 countries seeks an experienced Ruby on Rails Developer to join the development team dedicated to the Company’s games portal. 
+The Developer will be directly involved in
+•	Development of additional community features for the portal, and the integration of new game options
+•	 Continuous optimization of the portal with single sign-on and centralized e-wallet for usability, SEO, conversion and performance
+•	Implementation of successful partnerships and marketing campaigns
+•	Maintenance of existing systems
+•	Evaluation of new technologies
+Candidates should have
+•	A University degree in the field of Computer Science or equivalent
+•	Several years of experience in object-oriented software development, in particular with Ruby on Rails
+•	Experience in using MVC and REST
+•	Sound knowledge of Internet technologies and protocols, including HTML, SOAP, REST, XML, CSS, and JavaScript and AJAX
+•	Experience with databases (MySQL, MSSQL, Postgres) and knowledge of relevant Performance Pitfalls
+•	Experience using git, svn, Capistrano, the Linux Shell and BSD / Linux-based server technologies
+•	Flexibility and enthusiasm for new technologies in a dynamic project environment
+•	Capacity for quick learning and good analytical skills
+•	Familiarity with online games and an understanding of target audiences 
+•	A pragmatic and goal-oriented approach
+•	Very good command of English. German desirable.
+

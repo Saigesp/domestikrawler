@@ -1,0 +1,19 @@
+
+En Global Communication Concept buscamos incorporar un diseñador Frontend a nuestra plantilla. 
+Sus labores consistirán en crear plantillas para CMS, gestión y creación de webs con tecnologías HTML5 y CSS3, adaptación de webs a nuevas tecnologías, etc.
+Necesitamos alguien con capacidad de incorporación immediata. 
+Es necesario saber:
+HTML5/CSS3
+Eclipse
+Php
+Adobe Photoshop
+Adobe Illustrator
+Adobe InDesign
+Adobe Flash
+CMS
+Se valorarán conocimientos de :
+BBDD
+Smarty
+Javascript 
+Responsive Design
+Media Queries

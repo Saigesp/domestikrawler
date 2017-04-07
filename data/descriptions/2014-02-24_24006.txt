@@ -1,0 +1,11 @@
+
+Buscamos un experto en Desarrollo Web para impartir formaciones online de posgrado, que cumpla los siguientes requisitos:
+- Mas de 6 años de experiencia como desarrollador WEB
+- Trabajos de repercusión
+- Experiencia docente
+- Valorable experiencia en formación online
+- Se valorará alto numero de seguidores en redes sociales
+El candidato seleccionado impartira formaciones en:
+- Maquetación en HTML 5, CSS
+- PHP, MSQL. Wordpress
+- Javascrip y Jquery

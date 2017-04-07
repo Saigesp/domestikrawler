@@ -1,0 +1,40 @@
+
+Somos una agencia digital especializada en el desarrollo de aplicaciones de mkt y ventas para web, dispositivos móviles y VR; con una larga experiencia en gráficos 3D.
+Estamos buscando un Desarrollador para incorporación inmediata en jornada completa de 9 a 18 hrs.
+Tienes la oportunidad de integrarte a una empresa en continuo crecimiento para desarrollar tu carrera profesional y obtener una remuneración competitiva, acorde a tu valía y experiencia profesional.
+Funciones
+Desarrollador front-end y back-end, Desarrollo Web Responsive, Maquetación Web, Optimización, Desarrollo de nuevos productos, Escalabilidad, 
+Aptitudes
+- Persona muy activa con experiencia tanto en el desarrollo de ideas como en la ejecución de las mismas, con una alta capacidad de trabajo en equipo, iniciativa y proactividad, capaz de crear desarrollos adaptados a cada necesidad, con criterios estéticos, comunicativo, fresco y con capacidad de trabajar con márgenes de tiempo ajustados.
+Conocimientos requeridos:
+- PHP
+- MySQL
+- HTML5 
+- CSS3 
+- JavaScript
+- JQuery
+- Ajax
+- Boostrap 
+- Git
+- Escalabilidad
+- Inglés
+Se valorarán los siguientes conocimientos:
+- Conocimientos básicos de experiencia de usuario. 
+- Conocimiento de gestión de servidores (SSH - Plesk - cPanel).
+- APIs de Google, Facebook, Twitter, YouTube, etc...
+- Gulp / Grunt
+- Sass
+- Java
+- AngularJS
+- NodeJS
+- React
+- Python
+- Laravel
+- Ruby on Rails
+- HTTPS
+- Google AMP
+- Crear modelos y algoritmos 
+- Desarrollo Android & iOS
+- Apache Cordova
+- SEO
+- Wordpress

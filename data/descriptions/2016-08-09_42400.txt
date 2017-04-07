@@ -1,0 +1,30 @@
+
+Quiénes somos:
+En Tecsisa desarrollamos software cloud para el sector energético. Nos apasiona utilizar las tecnologías más punteras para crear productos innovadores que hagan la vida más fácil a nuestros clientes.
+Buscamos profesionales que compartan nuestra pasión y que quieran formar parte de un equipo formado por product owners, analistas, desarrolladores de front y back-end, DevOps, expertos en seguridad, etc., aportando su conocimiento y visión profesional.
+Si buscas una empresa que todos los días te ofrezca nuevos retos, disfrutas trabajando en equipo, investigando continuamente y formándote para estar a la última… ¡Queremos conocerte!
+Aparte de tu perfil técnico, conocimientos y experiencia también nos interesan tus valores como persona. 
+Buscamos personas con ilusión, compromiso, ganas de aprender, que sepan trabajar en equipo y que respeten a sus compañeros.
+Qué esperamos de ti:
+- Al menos cuatro años de experiencia en desarrollo Frontend.
+- Dominio de los lenguajes HTML5, CSS3 y Javascript (preferiblemente, ES6).
+- Dominio de Git.
+- Experiencia con Angular JS o en su defecto frameworks SPA.
+- Experiencia con Node.js.
+- Experiencia con jQuery.
+- Que no puedas vivir sin TDD o BDD.
+- Conocimientos básicos de experiencia de usuario (UX).
+- Capacidad de trabajo en equipo.
+- Valores cultura Open Source.
+- Que la tecnología sea tu pasión.
+Valoramos positivamente alguna de las siguientes titulaciones (técnica o superior): Ingeniería de Telecomunicaciones, Ingeniería Informática, Licenciatura o Grado en Informática, etc.
+Qué te ofrecemos:
+- Cultura abierta basada en la confianza y el trabajo en equipo.
+- Flexibilidad horaria. Jornada intensiva todos los viernes y durante julio y agosto. 
+- Ticket Restaurant o Plus de Comida. 
+- Oficina moderna y bien equipada. 
+- Office equipada. 
+- Cursos de idiomas con profesores nativos. 
+- Beneficios sociales. 
+- Formar parte de una plantilla multidisciplinar en constante crecimiento. 
+- Buen ambiente de trabajo y dinámico.

@@ -1,0 +1,4 @@
+
+Estamos buscando un desarrollador con experiencia en iOS para realizar unos cambios puntuales a nuestra App para iPhone. El candidato elegido debe de demostrar experiencia en aspectos básicos como la autenticación en Apps así como en el envío y gestión de notificaciones a través del APNS.
+En FantasticoPets trabajamos con Web Services en PHP sobre servidores Windows Server, por lo que es necesario saber implantar Web Services en este tipo de servidores.
+Consideramos que el tiempo de desarrollo debe de ser contenido y, en caso de que sea una experiencia satisfactoria, continuaríamos con otras modificaciones en el futuro.

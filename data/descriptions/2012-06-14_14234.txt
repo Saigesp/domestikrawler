@@ -1,0 +1,24 @@
+
+Puesto vacante: Desarrollador Android / Web
+Categorías: Informática y Comunicaciones / Programación
+Nivel: Empleado
+Descripción de la oferta:
+Trui Multimedia precisa incorporar a su equipo a un desarrollador de proyectos web y aplicaciones móviles para el sistema operativo Android. El perfil del candidato es el de una persona apasionada por las nuevas tecnologías, la movilidad y la web; con iniciativa y ganas de trabajar en equipo.
+Requisitos:
+Estudios mínimos: Formación Profesional Grado Superior / Ing. Informático
+Experiencia mínima: Al menos 1 año
+Requisitos mínimos: 
+- Desarrollo nativo Android (Java, Android SDK)
+- Desarrollo para web (HTML, CSS, PHP, JavaScript)
+- Bases de datos (MySql, PostgreSQL, SQLServer).
+Requisitos deseados:
+Además, se valorarán muy positivamente los conocimientos y la experiencia del candidato en tecnologías relacionadas, tales como: 
+- JQuery, JQueryMobile
+- Sencha Touch, PhoneGap
+- Desarrollo de APIs (WebServices, REST, …)
+- Interfaces de usuario, UX, Responsive design.
+- Herramientas de productividad y diseño gráfico: Photoshop, InDesign, Flash.
+- Plataformas móviles: IOS, BB, WIndows Phone.
+Duración del contrato: 1 año prorrogable
+Jornada laboral: Completa
+Horario: 9 a 18h

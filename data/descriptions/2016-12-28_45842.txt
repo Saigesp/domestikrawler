@@ -1,0 +1,14 @@
+
+Desde Altamira TI estamos buscando un Experto en Angular 2 para uno de nuestros grandes clientes del sector publicidad en redes sociales.
+Buscamos una persona para incorporarse a nuestra parte de desarrollo Frontend, con amplios conocimientos y experiencia en Angular 2 (no serán considerados los CV que solo muestren experiencia en Angular Js).
+Ademas deberá aportas experiencia/conocimientos en :
+    •	TypeScript
+    •	HTML5
+    •	CSS3
+    •	Java
+    •	Maven
+Se Ofrece: 
+- Proyecto estable 
+- Contrato por Obra y servicio. 
+- Salario en función de la experiencia aportada por el candidato.
+- Incorporación Enero/Febrero

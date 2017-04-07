@@ -1,0 +1,18 @@
+
+1. Oportunidades:
+Saluspot es una empresa encuadrada en el campo de las nuevas tecnologías, internet y la salud online. En Saluspot buscamos personas con talento, con espíritu emprendedor e iniciativa, que se identifiquen con nuestro proyecto y compartan la extraordinaria experiencia de crecer junto a nosotros.
+En Saluspot tendrás la oportunidad de ayudar a la gente que busca respuestas a sus preguntas de salud, en una plataforma donde médicos colegiados responden dudas y se forjan una reputación medica online. Creemos fuertemente que Saluspot va a cambiar el sector de la salud a nivel online y que tu puedes formar parte de este cambio. 
+2. Descripción:
+Saluspot es una comunidad de salud interactiva que busca mejorar la salud y el bienestar de las personas. Trabajamos con grandes bases de datos,  algoritmos avanzados, puntuaciones de reputación, y localización de profesionales. Nuestro permite y esta pensado para el desarrollo multiplataforma, siendo nuestro objetivo el trascender a todas las principales plataformas: iPhone, iPad, Android, los navegadores móviles y por supuesto navegadores convencionales. Tenemos previsto crear APIs potentes y escalables que facilitarán a nuestros socios integrarse perfectamente con nosotros.
+3. Responsabilidades claves:
+Las responsabilidades serán las relacionadas con definir y desarrollar las principales características y aplicaciones de Saluspot para ayudar a las personas a vivir vidas más saludables y obtener la mejor información de salud disponible. Estas son:
+3.1. Coordinarás junto con el equipo de desarrollo una visión compartida del producto entendiendo las necesidades del proyecto.
+3.2. Diseñarás y maquetarás los elementos y materiales necesarios para el desarrollo y comunicación de Saluspot.
+3.3. Serás responsable de desarrollar las experiencias de usuario,  diseños de interfaz de usuario,  de los productos Saluspot.
+3.4. Desarrollar wireframes, prototipos, especificaciones de interfaz de usuario y gráficos finales.
+3.5. Iniciarás y gestionarás la investigación UX y procesos de prueba, impulsarás el desarrollo de las directrices de diseño y analizarás las métricas para optimizar la experiencia de usuario.
+4. Requisitos:
+4.1. Título de grado o postgrado (diseño o un campo relacionado) que demuestre conocimientos profesionales en , diseño web, maquetación web y diseño UX.
+4.2. Un portafolio online que demuestre tu experiencia y capacidad creativa para transformar las ideas en un diseño único, una atención constante a los detalles y al deseo incesante de innovación.
+4.3. Habilidad experta en las herramientas estándar de diseño como por ejemplo Photoshop, Fireworks, Visio, Omnigraffle, Illustrator, Indesign, Dreamweaver y HTML / CSS además de conocimientos avanzados en HTML, XHTML, JavaScript y CSS.
+

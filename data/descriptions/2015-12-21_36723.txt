@@ -1,0 +1,22 @@
+
+¡Hola! ¡Somos Seekle!
+Nos dedicamos a la conceptualización y al desarrollo de soluciones digitales adaptadas al contexto de uso. Nuestra pasión es la interacción físico-digital e identificar soluciones simples en un ámbito cada vez más complejo.
+Buscamos a un/a desarrollador/a web amante del mundo digital y su entorno.
+Entrarías a formar parte de un equipo joven, multidisciplinar y altamente especializado como la persona responsable del área web de alguno de nuestros proyectos.
+Dado que algunos de los proyectos en los que te puedes incorporar tienen ya una base de PHP y Angular, es imprescindible que controles estas tecnologías.  
+Estamos abiertos, no obstante, a que nos sorprendas contándonos ese último framework que has descubierto o por qué la programación funcional va a cambiar el mundo :D , no nos cerramos a ningún lenguaje o paradigma.
+Buscamos a alguien que cumpla los siguientes requisitos:
+* Experiencia mínima de 4-5 años en un puesto similar.
+* Conocimientos profundos de desarrollo web tanto frontend como backend.
+* Experiencia trabajando con arquitecturas serviciadas.
+* Como hemos comentado, php y angular son un "must".
+Si cumples alguno de los siguientes, ya es para nota:
+* Experiencia trabajando con metodologías ágiles.
+* Alto nivel de Inglés.
+* Cualquier lenguaje, framework o plataforma tecnológica que se te ocurra pueda ser de utilidad en nuestro proyecto. Estaremos encantandos de intercambiar conocimientos y opiniones cuando nos conozcamos.
+Te ofrecemos lo siguiente:
+* Contrato indefinido.
+* Oficina en Madrid Centro.
+* Horario flexible con días de teletrabajo.
+* Remuneración acorde a la experiencia aportada. Posibilidad de variable.
+¿Te animas? 

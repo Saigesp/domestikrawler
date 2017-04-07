@@ -1,0 +1,15 @@
+
+En INSIS4 precisamos incorporar a un Analista con experiencia reciente de al menos 2 años en desarrollo y análisis con las siguientes tecnologías:
+* Instalación estándar y optimización LAMP (Linux, Apache, MySQL, PHP)
+* Experiencia como Programador de lenguajes como Java, PHP5, Ajax (jQuery, HTML5, Javascript)
+* Conocimiento experto de SQL y experiencia en MySQL (valorable además: MS SQL Server, Oracle)
+* Conocimientos avanzados de diseño web y CSS
+Sus principales funciones serán:
+* Análisis técnico-funcional de requisitos de proyectos
+* Programación de aplicaciones web a medida con las tecnologías comentadas
+* Mantener y gestionar los entornos de desarrollo y producción de los proyectos
+* Elaboración de documentación
+* Aprendizaje continuo de tecnologías y metodologías
+Ofrecemos:
+- Contrato indefinido
+- Estabilidad laboral en interesante proyecto tecnológico.

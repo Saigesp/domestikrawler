@@ -1,0 +1,18 @@
+
+Si te gusta el diseño web, estás familiarizado con los más actuales JS Frameworks y quieres aprender sobre las tecnologías de vanguardia, entonces este es el trabajo para ti.
+Habilidades requeridas:
+- JavaScript, frameworks como jQuery, AngularJS, React
+- CSS3, HTML5, Bootstrap
+- REST
+- Java
+- SQL
+- Inglés avanzado (oral y escrito)
+Habilidades adicionales:
+ - Diseño Gráfico
+ - Photoshop y Illustrator
+ - Contribuciones a una comunidad de código abierto.
+ - Motivación para desarrollarte como un miembro del equipo
+ - Ser una persona innovadora y creativa que contribuya al crecimiento del equipo.
+¿Que ofrecemos?
+Se trata de una Start-Up situada en el Google Campus de Madrid. Creemos en la flexibilidad y la habilidad para trabajar a distancia para de esta forma, poder compatibilizar la vida personal y profesional del equipo.
+Además de participar en nuestro programa de entrenamiento de 6 meses, tendrás también la oportunidad de realizar proyecto profesional encaminado a desarrollar tu habilidades en programación con un salario competitivo y obtener el certificado Salesforce, que se trata de la herramienta mas importante de gestión de clientes.

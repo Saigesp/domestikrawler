@@ -1,0 +1,24 @@
+
+TuLotero es una startup que está comenzando. Estamos preparando una aplicación móvil para la compra y gestión de los boletos de todos los juegos de loterias y apuestas del estado. 
+La cantidad de tareas que tenemos por delante son muchas y necesitamos que el equipo crezca.
+¿Qué buscamos?
+Una persona que…
+- Domine el lenguaje Java y sus herramientas más populares. (Maven, JUnit, Jenkins, etc...)
+- Tenga experiencia trabajando con JEE7 como plataforma tecnólogica. Aunque no tenemos ningún problema con gente que no tenga experiencia en esta plataforma, pero sí la tenga en otras similares, como Spring.
+- Esté familiarizado con REST.
+- Tenga conocimientos de Javascript como JQuery, AngularJS.
+- Trabaje bien en equipo.
+- Trabaje bien en remoto. Ahora mismo el equipo está distribuido entre Madrid y Burgos.
+- Sea agile: TDD, Scrum, Integración continua…
+- Tenga conocimientos de Inglés a nivel técnico.
+¿Qué nos encantaría?
+- Que tenga conocimientos de desarrollo en Android.
+- Que trabaje en proyectos OpenSource y comparta código en plataformas tipo GitHub.
+- Sea una persona activa en las redes sociales.
+- Suela asistir a eventos relacionados con la programación.
+- Forme parte de comunidades y grupos locales.
+¿Qué ofrecemos?
+- Flexibilidad a la hora de trabajar: utilizar el entorno de trabajo que sea más cómodo y productivo: Sistema operativo, IDE, etc...
+- La posibilidad de entrar en un equipo que está empezando. Cualquier opinión sobre el funcionamiento del equipo será más que bienvenida.
+- Salario Bruto en torno a los 25K. Abiertos a Freelances.
+- Flexibilidad en horario, trabajo desde casa, etc.

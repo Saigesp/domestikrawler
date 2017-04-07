@@ -1,0 +1,14 @@
+
+Cada vez son más las personas que deciden disfrutar de su tiempo libre de una manera diferente. RidenRoad es un proyecto dirigido a todos aquellos amantes del ocio y de los viajes en compañía de su motocicleta. Somos una startup que ha iniciado su proceso de creación desde algunos meses y hemos trabajado por 3 meses con un estudio de programación que nos ha desarollado una parte del proyecto. 
+Estamos buscando  de manera urgente un nuevo programador PHP freelance que tenga las siguientes capacidades:
+- Debes haber desarrollado de forma íntegra algún proyecto con Symfony 2
+- Te manejas perfectamente con sus conceptos básicos: DIC, Dispatcher, Services...
+- Conoces y has utilizado Doctrine como ORM
+- Estás familiarizado con las buenas prácticas de POO
+- Tienes experiencia integrando APIs XML y JSON de terceros en tus desarrollos
+- Sabes que Git, Composer, Vagrant y Redis no son marcas de coches
+Sería estupendo sí:
+- Tienes algo de experiencia con Jquery y AngularJS
+- Aplicas TDD / BDD en tus proyectos
+- Has trabajado bajo metodologías agile como Scrum
+En el momento de una primera selección del candidato, haremos un coloquio donde hablaremos por un lado de la tecnologia utilizada y por otro de sueldo, contrato, etc...

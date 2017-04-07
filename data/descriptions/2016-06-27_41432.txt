@@ -1,0 +1,20 @@
+
+¿Quién somos? 
+Somos un pequeño estudio barcelonés dedicado desde hace 10 años al diseño y desarrollo de proyectos web. Trabajamos todas las partes del proyecto, desde la creación del funcional, pasando por el diseño/conceptualización, y acabando en el desarrollo y optimización SEO, tanto para Webs como para WebApps, siempre poniendo mucha atención en el diseño, que nos parece un aspecto esencial. 
+¿Qué buscamos?
+Buscamos un desarrollador web Front-end Back-end para trabajar en diversos proyectos web, que tenga experiencia demostrada en PHP, sea responsable con los tiempos de entrega, sepa trabajar bien el responsive y que tenga especial sensibilidad por el diseño web.
+¿Qué ofrecemos?
+Ofrecemos trabajar por proyectos web, con total libertad en la organización del tiempo, pero con tiempos de entrega bien planificados. Si los resultados son buenos, ofrecemos establecer una colaboración duradera. 
+
+Requisitos específicos:
+Alto conocimiento en el Gestor de Contenido Wordpress y Woocommerce
+Experiencia en el uso del framework Drupal
+Alto conocimiento en maquetación HTML + CSS, Bootstrap 
+Conocimiento de PHP orientado a objetos 
+Manejo de bases de datos con MySQL
+Conocimientos de jQuery y XML
+Envío de web o portfolio con webs realizadas
+Se valorará: 
+Conocimientos de SEO
+Conocimientos de Magento
+Compromiso y profesionalidad

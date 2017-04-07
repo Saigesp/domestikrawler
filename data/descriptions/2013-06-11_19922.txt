@@ -1,0 +1,8 @@
+
+Estamos buscando un desarrollador en Django como soporte en un proyecto web. El trabajo a realizar se centrará en la parte del backoffice, desarrollando nuevas funcionalidades a una web ya existente.
+El proyecto tendrá una duración inicial de tres meses (julio-septiembre) donde se llevarán a cabo la mayor labor de desarrollo y será necesaria dedicación completa. El resto del año será tareas de ampliación de funcionalidades y podrán calenderizarse de acuerdo con el candidato.
+No estamos cerrados a ninguna propuesta económica o contractual si el candidato es capaz de demostrar su valía.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+We are looking for a freelance Django developer as a support for a web project we are starting right now. The whole project will take a year but we could consider it almost a full time job from july to september. The rest of the year will be dedicated to add new functionalities and maintenance. 
+The tasks will be focused on the backoffice. 
+ The type of contract and final salary will depend on the value of the candidate.

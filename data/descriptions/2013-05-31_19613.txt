@@ -1,0 +1,14 @@
+
+Buscamos programador Web para incorporación inmediata.
+Los candidatos que opten a la oferta deben contar con conocimientos contrastados en maquetación:
+- Buen nivel de maquetación: HTML5 y uso de CSS3. Maquetaciones líquidas, responsive. Conocimientos de HTML semántico. Es deseable que tenga conocimientos de LESS.
+- Maquetación HTML para Móvil
+- Conocimientos de programación cliente: Javascript nivel intermedio y uso de Jquery imprescindibles. Es deseable que esté familiarizado con modernizr y técnicas de progressive enhancement.
+- Uso ágil de Photoshop para web.
+- PHP / Mysql
+Opcionalmente se valorarán conocimientos de programación en:
+- Frameworks php: Zend Framework / Codeigniter.
+- Conocimientos de frameworks cliente: H5BP / Initializr, Bootstrap.
+- Flash AS3
+- GIT
+

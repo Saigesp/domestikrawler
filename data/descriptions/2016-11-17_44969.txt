@@ -1,0 +1,19 @@
+
+Buscamos un programador resolutivo y con iniciativa, con cierta sensibilidad en diseño y con experiencia demostrable en PHP/MySQL/HTML5/CSS3/Javascript-Ajax/Bootstrap y por supuesto resultados responsive. Se valorará conocimientos de Wordpress y Prestashop
+La idea es que pueda llevar a cabo diferentes proyectos web desde de los diseños que se entreguen en PSD, hasta la maquetación, implantación y publicación.
+Trabajará en colaboración al departamento creativo al que debe de aportar criterio en la toma de decisiones sobre los resultados web y mobile.
+Buscamos:
+ - Conocimiento profundo y actualizado en HTML5, CSS3, javascript/jQuery y Bootstrap.  
+- Desarrollo cross browser (problemas de compatibilidad con exploradores)  
+ - Conocimientos avanzados en gestión y control de BBDD (MySQL principalmente).  
+- Experiencia en el manejo de Photoshop, Illustrator.
+ - Conocimientos de posicionamiento SEO.  
+- Experiencia en la Integración con plataformas de pago (PayPal, TPV virtual etc.)
+- Experiencia con CMS (WP, Joomla, Magento y Prestashop), instalación y administración.
+ - Habilidades de comunicación, trabajo en equipo.  
+- Capacidad para resolución de incidencias.  
+- Experiencia mínima de 3 años.
+- Buen nivel de inglés
+Jornada completa
+Remuneración acorde experiencia
+

@@ -1,0 +1,22 @@
+
+Descripción
+El candidato seleccionado pasará a formar parte del equipo de desarrollo de Deebbler, en el que colaborará en la construcción de una nueva plataforma que redefinirá el concepto de comercio electrónico tal y como lo conocemos hasta ahora.
+Te incorporarás a un equipo altamente ágil, emprendedor, creativo y multidisciplinar y estarás involucrado en los procesos de análisis, diseño, implementación y pruebas de nuestra plataforma, asegurando el seguimiento de unas prácticas adecuadas y brindando una experiencia asombrosa a nuestros usuarios.
+En cuanto a dominio tecnológico, buscamos personas especialmente orientadas al desarrollo de servicios de back-end (principalmente desarrollo de arquitecturas distribuidas mediante servicios REST y bases de datos relacionales y NoSQL), manteniendo siempre una inquietud constante por el aprendizaje de nuevas tecnologías y siendo capaz de adaptarse y aplicar la solución más adecuada a cada situación particular.
+Estarás involucrado en todas las fases relacionadas con la construcción de nuestra plataforma, participando en un entorno que te permitirá dar rienda suelta a tu creatividad, ya que tomarás parte no sólo en la ejecución de ideas sino también en la fase de análisis y generación de las mismas, manteniendo siempre una perspectiva centrada en la estrategia global de la compañía.
+Responsabilidades
+- Desarrollar servicios de back-end utilizando tecnologías como ASP.NET MVC Web API, WCF y bases de datos relacionales y NoSQL.
+- Diseñar y construir arquitecturas distribuidas y altamente escalables, apoyadas en servicios de infraestructura y plataforma en la nube (IaaS y PaaS) con Microsoft Azure.
+Requisitos
+- Titulación superior en Ingeniería Informática u otra titulación relacionada.
+- Fundamentos sólidos en ingeniería del software, especialmente en lo relacionado con estructuras de datos, algoritmos y diseño de software.
+- Conocimiento sólido de ASP.NET Web API.
+Otros
+Adicionalmente, se valorarán también los siguientes puntos:
+- Habilidad en el diseño y desarrollo de sistemas software complejos, distribuidos y escalables.
+- Preocupación por la aplicación de buenas prácticas, en todas la fases del desarrollo (diseño, implementación, mantenimiento, etc.).
+- Habilidad en el desarrollo de aplicaciones móviles para Android.
+- Conocimiento de bases de datos relacionales y NoSQL.
+- Conocimiento de servicios de infraestructura (IaaS) y plataforma (PaaS) en la nube con Microsoft Windows Azure (u otras alternativas como Amazon Web Services o Google Cloud Platform).
+- Conocimiento y experiencia trabajando en equipos ágiles utilizando metodologías como Scrum y Kanban.
+- Conocimiento de la metodología Lean Startup de creación de empresas, ya que el candidato seleccionado se incorporará a un entorno de este tipo.

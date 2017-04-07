@@ -1,0 +1,23 @@
+
+El crecimiento de nuestra empresa nos obliga a aumentar nuestra plantilla de programadores in-house.
+Un inmejorable ambiente de trabajo en un entorno joven y distendido, con flexibilidad horaria y jornada intensiva en Julio y Agosto y oficinas en el centro de Gijón.
+Operamos con numerosos websites de contenido, tanto mainstream como para adultos, siendo nuestra web y proyecto más famoso www.cumlouder.com
+Tenemos varias decenas de millones de visitas al día entre web, móvil y tablets. Según el producto o el mercado monetizamos vía advertising o producto y billing propio.
+Serás parte de un proyecto innovador, dinámico y de crecimiento multiplataforma continuo, enfocado a webs de alto tráfico.
+Formarás parte de un equipo altamente especializado donde tendrás la oportunidad de trabajar programando proyectos específicos y asegurándote de su entrega a tiempo.
+Serás parte del desarrollo en cada paso: análisis, innovación, programación y testing.
+Buscamos un programador con talento, resolutivo y organizado.
+Capacitado para la organización de cada parte de la programación de un proyecto y con facilidad para aprender cosas nuevas.
+Apasionado de su trabajo y con ganas de trabajar en un equipo talentoso y exigente.
+Una oportunidad permanente de aprender con el equipo técnico de trabajo. Podrás crecer todo lo que desees y con un salario competitivo.
+Aptitudes y conocimientos que deseamos:
+Experiencia  de al menos 1 año en la programación en entornos LAMP/LEMP (Linux, Apache/Nginx, MySQL y PHP) y con conocimiento de frameworks MVC. Nosotros utilizamos Laravel y Symfony.
+Experiencia en programación con Javascript utilizando la librería JQuery.
+Conocimientos del mundo GNU/Linux, nosotros trabajamos con Ubuntu.
+Gusto por los métodos ágiles de programación y patrones de diseño.
+Capacidad para trabajar con sistemas de control de versiones. Nosotros utilizamos GIT.
+También a valoramos:
+Experiencia en desarrollo de webs para móviles
+Conocimiento de varios lenguajes de programación
+Conocimientos de programación de aplicaciones Android/IOS
+Experiencia con webs/aplicaciones de alto tráfico

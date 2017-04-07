@@ -1,0 +1,18 @@
+
+Somos una empresa de desarrollo de software con más de 20 años de experiencia trabajando en grandes proyectos innovadores, dinámicos y punteros. Valoramos tanto la calidad humana como técnica de nuestros profesionales que son nuestro mayor valor. 
+Se requiere a un Maquetador Web – Desarrollador Front-end para realizar labores de maquetación de páginas Web y apps. Imprescindible enviar links de las páginas web realizadas. 
+Conocimientos requeridos:
+Conocimientos de HTML 5 y CSS3
+Maquetación de páginas web dinámicas.
+Maquetación Responsive (para todo tipo de dispositivos web, móvil, Tablet…) 
+Conocimientos de Javascript.
+Dominio de Photoshop e Ilustrator.
+Nivel de inglés medio.
+Ofimática básica (Word, Excel).
+Experiencia demostrada en maquetación Web 
+Montaje de sitios web con WordPress y Joomla.
+Se valora pero no imprescindible:
+Experiencia en maquetación de páginas web basadas en Java preferiblemente con tecnología JSF.
+Conocimientos de sistemas de control de versiones (SVN)
+Conocimientos de JQuery.
+Conocimientos de frameworks front-end por ejemplo Bootstrap.

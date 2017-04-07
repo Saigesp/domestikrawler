@@ -1,0 +1,9 @@
+
+Actividades Extraescolares Madrid.es, es un área de negocios de Sport & Balance® que organiza y desarrolla diferentes programas de actividades extraescolares, fiestas y animaciones para centros educativos, empresas, asociaciones, clubes y urbanizaciones de Madrid y Guadalajara.
+Sport & Balance® es una empresa joven y dinámica dedicada al desarrollo de soluciones deportivas, educativas, artísticas y de ocio, que tiene por misión ofrecer un servicio integral y de calidad a sus clientes, basado en una política de compromiso, responsabilidad, comunicación, bienestar social e innovación.
+Buscamos:
+Un desarrollador PHP con experiencia en el manejo de codeIgniter, ya que tendrá que depurar el código de una Aplicación Web escolar realizada con este framework. 
+El trabajo se realizará en la oficina.
+Disponibilidad inmediata.
+Ofrecemos:
+Contrato de media jornada (Lunes a Viernes de 9:30 a 13:30).

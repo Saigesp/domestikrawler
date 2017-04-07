@@ -1,0 +1,8 @@
+
+Se busca un desarrollador experto en Ez Publish. Buscamos 1 sola persona, para un trabajo puntual.
+Además, los candidatos deberán contar con:
+- Dominio completo de la plataforma (con todo lo que ello implica).
+- Dominio de servidor. 
+Se valorarán especialmente:
+- Trabajo en equipo.
+Por favor, no apuntarse si no cumple con los requisitos necesarios. No buscamos programadores puros de PHP, MySQL y demás... que quieran probar suerte en el proyecto. Gracias!

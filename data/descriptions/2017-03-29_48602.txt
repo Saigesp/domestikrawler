@@ -1,0 +1,34 @@
+
+At our Start Up Camaloon we are looking for a new talented, highly motivated Backend Developer to join our Tech team. We are looking for someone with experience and expertise developing with Ruby but mainly someone who will be Challenged to work for a fast-growing and innovative product.
+The role would be a great opportunity if you love to stay on top of the newest Technologies and Trends, you are a self-starter and enjoy working within a team. 
+Camaloon is an ecommerce that allows customisation of a wide range of products (buttons, stickers, magnets, mugs, etc), using both your own designs and designs from artists from around the world. Products are made in our facilities located at the heart of 22@, Barcelona’s innovation district.
+We are a company with a young and versatile team with a clear international focus offering solutions to both companies and individuals. We inspire our clients to create unforgettable products.
+REQUIREMENTS:
+Top skills required are:
+- Passion for coding: learning, finding the smartest solutions to each problem.
+- Being a team player, learn from others and help others learn.
+- Striving to be informed about each new thing, technique or technologies that come out.
+- Experience working with HTTP based technologies.
+The necessary technical knowledge:
+- Ruby
+- Ruby on Rails
+- Javascript (ideally Ember.js)
+- Git / Github
+Greatly valued:
+- Experience with client-side Javascript frameworks
+- Systems administration and architecture
+BENEFITS:
+- Provide you with continuous challenge and space for learning.
+- Participation in the technological and business decision making.
+- Agile tasks distribution, with daily deploys.
+- Flexible schedule (but should be based in Barcelona).
+- Broad and diverse start-up ecosystem that provides much more than a job experience.
+Miscellaneous:
+- Ping pong championships - we have our own ping pong table at the office!
+- Itnig Breakfasts every Tuesday
+- Summer BBQs
+- Team Lunch on Fridays
+- Afterwork Beers
+- Afterwork activities such as Laser tag, Poker, Table games or LAN Parties
+- Conferences, events and workshops onsite
+Don't miss the opportunity to contribute to our challenging project as part of a great team of developers!

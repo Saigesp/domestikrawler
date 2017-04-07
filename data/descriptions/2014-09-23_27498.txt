@@ -1,0 +1,18 @@
+
+Hello!
+We are in need of a developer to code a WordPress website; front- and back-end.
+The design will be provided before october 1st and you'll have two weeks to complete the build.
+Thus the deadline is october 15th.
+You are great at HTML5, CSS3 and javascript/jquery.
+You write semantic and well-structured code.
+You speak english at at least a decent level.
+You work from an office / a collaborative space / your home in Barcelona.
+It is a pretty straightforward magazine-design, that of course needs to be responsive (we will provide ideas, you'll execute), and stays pretty much within WordPress core functions.
+But you will need to know how to build on a gridsystem like Pure CSS, how to use Masonry (or similar), and how to pull in Twitter, Facebook and Instagram feeds.
+We would prefer this setup:
+- No need for twitter bootstrap; just use Pure CSS for the gridsystem and handling the responsiveness.
+- Use Types or Advanced Custom Fields for you-know-what.
+- Use IFTTT for pulling in posts from twitter, facebook and instagram.
+That's it really.  If you know how to add nice page-transitions, that's a plus.
+Also if you build sites that are similar to what is featured on siteinspire and httpster, that is a also a plus.
+So if you got the skills and are free from end-september to mid-october, get in touch.

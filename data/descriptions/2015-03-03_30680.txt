@@ -1,0 +1,27 @@
+
+¿Quiénes somos?
+Ressulta es una empresa especializada en definir y ejecutar estrategias de Marketing digital y de e-commerce enfocadas a resultados. Perteneciente al grupo Roca Salvatella.
+Como Frontend tendrás la oportunidad de trabajar en numerosos proyectos para una gran variedad de clientes, vivirás nuevos retos que te garantizarán una evolución profesional de calidad. Pero por encima de todo, formarás parte de una gran familia con un espíritu proactivo y positivo. 
+¿Cuáles serán tus funciones?
+
+-	Desarrollar las interfaces requeridas por nuestros clientes.
+-	Participar en la fase de wireframing y diseño de nuestros proyectos.
+-	Liderar nuevas tendencias en usabilidad y experiencia de usuario y transmitirlas al equipo.
+-	Supervisar la calidad de cada entregable del equipo de Frontend.
+¿Qué esperamos de ti?
+-	Debes ser muy fuerte en desarrollo de frontend, maquetación HTML5, hojas de estilo (CSS3) desde cero y tener un buen manejo de JavaScript (vanille y con jQuery).
+-	Estar acostumbrado a trabajar con sistemas de control de versiones GIT y SVN
+-	Experiencia en templates para CMS (Wordpress, Drupal, Jomla) o eCommerce (Prestashop, Magento).
+-	Dominio de SASS/LESS, Bootstrap y Photoshop. 
+-	Experiencia y conocimientos sobre Responsive Design. Pasión por UI/UX
+-	Valoramos positivamente experiencia de entre 3 y 5 años en un puesto similar.
+Nos convencerás enseguida si también tienes…
+-	Tienes un nivel intermedio de Twig, Bower o Grunt y si has trabajado con algún framework PHP tipo Simfony 2.
+-	Estas habituado a trabajar con metodologías agiles (Scrum o Kanban).
+-	Inglés medio hablado y escrito.
+¿Qué ofrecemos?
+-	Jornada laboral completa. 
+-	Remuneración según valía del candidato.
+-	Trabajar en un equipo innovador y multidisciplinar en constante evolución.
+-	Buen ambiente de trabajo y la oportunidad de trabajar en proyectos interesantes y de diferentes sectores (visita http://www.ressulta.com/proyectos/)
+

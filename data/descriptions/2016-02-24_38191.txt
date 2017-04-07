@@ -1,0 +1,20 @@
+
+Funciones
+• Desarrollar sistemas de interfaz de usuario que permita construir websites y produc-tos web basados en componentes.	
+• Desarrollar bibliotecas de componentes y mantener guías live style para los desarro-lladores de back-end.
+• Monitorizar la que la actuación según los standards web y los indicadores de actua-ción.
+• Aplicar las mejores prácticas y pratones UX al trabajo del día a día.
+• Dar vida a diseños visuales! 
+Competencias y conocimientos requeridos
+
+• Al menos 5 años de experiencia en el desarrollo front-end, desarrollo web o similares.
+• Experiencia en el uso de herramientas como CSSLint, HTMLLint, etc. Si las ha au-tomatizado con Grunt, Gulp o similar incluso mejor.
+• Experiencia creando sites siguiendo las normas W3C y WCAG.
+• Experiencia en el uso de herramientas para monitorizar la adecuación a las normas, desempeño y mejores prácticas (W3C validators, Sonarqube, web semantic extrac-tors, YSlow, Google Page Insights, etc.)
+Requisitos técnicos:
+• Profundo conocimiento de las normas web y de accesibilidad (W3C, WAI-ARIA, WCAG, mobileOk, Section 504, etc.)
+• Amplio conocimiento de XHTML, HTML5, CSS 2.1 y 3
+• Buenos conocimientos de Javascript, JSON y jQuery; conocer semántica web, 
+Protocolo Open Grap, Twitter Cards, Bower, Git, RequireJS, Grunt, Makefile, etc. será un plus.
+• Ser una persona metódica y ordenada es necesario.
+

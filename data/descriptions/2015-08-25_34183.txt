@@ -1,0 +1,6 @@
+
+Buenas tardes,
+En IceMint (Startup enfocada en la captación, gestión y análisis de clientes para pymes) estamos buscando programador en PHP, con conocimientos avanzados de Javascript (node.js y/o browser) y HTML para incorporación inmediata a jornada completa en nuestras oficinas de Cádiz, bien en régimen de autónomo o contratación.
+Se trata de un desarrollo de aproximadamente 4-6 semanas, con posibilidad de incorporarse al equipo técnico pasado este tiempo.
+Se requiere haber utilizado frameworks PHP (nosotros trabajamos con Slim y Phalcon), starters HTML (usamos Bootstrap), tener fluidez con CSS y jQuery, conocer herramientas de control y automatización (git, composer, bower, gulp, less…). Adicionalmente se valorará haber trabajado con extensiones de Chrome.
+Ofrecemos ambiente de trabajo cómodo en el centro de Cádiz, jornada flexible con posibilidad de hacer parte en remoto y salarios competitivos. Somos un equipo pequeño de 5 personas en pleno crecimiento.

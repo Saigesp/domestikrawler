@@ -1,0 +1,22 @@
+
+En AKTIOS IT Global Services estamos reclutando a un Frontend Developer Senior . NET para posición estable ubicada en Barcelona ciudad.
+AKTIOS Consultora IT de Barcelona, actualmente requiere un perfil Programador Fronted Senior -NET. Por nuestra parte, explicarte que somos una Consultora IT Global que trabaja con diferentes empresas multinacionales y sectores. 
+El Programador Frontend Senior .NET podrá desarrollar diferentes proyectos dentro de la programación web /escritorio. 
+Descripción:
+Un Programador Frontend .NET debe aportar capacidad de desarrollo, realización de test unitarios, adaptación a las metodologías de desarrollo y trabajo en equipo. Además, es importante la capacidad para realizar diseños técnicos, para poder ir creciendo profesionalmente asumiendo nuevas responsabilidades. Además, debe tener consolidada la capacidad de realizar diseños técnicos, debe ser capaz de definir test de integración y debe iniciarse en la gestión de pequeño equipo de trabajo.
+La persona seleccionada participará en proyectos muy interesantes dentro de la compañía, con oportunidades reales de crecimiento profesional, con un ambiente excepcional y con tecnologías avanzadas.
+Requisitos mínimos:
+Necesitamos Programadores Senior con experiencia de 4 años en:
+- Experiencia en SCRUM, BDD, TDD, Coded UI Tests, IoC, Entity Framework, SQL Server.
+- Experiencia en desarrollo con frameworks tipo: Angular JS, Backbone JS, Ember o similares.
+- Experiencia con HTML5, CSS3, LESS, Bootstrap, DOM y Responsive Web Design.
+- Conocimientos en la integración de API's externas y Jasmine TDD
+- Experiencia con framework end-to-end testing de Javascript tipo QUnit
+- Experiencia en libreria HTML5/Javascript interfaz de usuario: Kendo UI.
+Ingeniería Técnica Informática o similar.
+Ofrecemos:
+- Contrato indefinido.
+- Incorporación inmediata a compañía con importantes oportunidades de crecimiento y desarrollo profesional.
+- Formación especializada.
+- Retribuciones competitivas.
+

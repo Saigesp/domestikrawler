@@ -1,0 +1,28 @@
+
+BEREPUBLIC es una agencia de marketing online. Entre nuestros servicios estratégicos destacamos: el desarrollo de campañas de publicidad en nuevos medios, el asesoramiento en comunicación interactiva y marketing estratégico online, y la planificación y gestión de campañas de medios online.  Precisamos incorporar a nuestra plantilla:
+ 2 Front-End Developer
+¿Y cuál sería tu misión?
+- Analizar las diversas alternativas de implementación para llegar a la mejor solución técnica posible.
+- Participar en el proceso de concepción de nuevos proyectos aportando tu conocimiento.
+- En colaboración directa con el equipo creativo y el equipo de back-end realizar la maquetación de sites responsive.
+- Garantizar que tus desarrollos son compatibles con los principales navegadores desktop, tablet y mobile de mercado.
+¿Y para que aportes, que debes traer en tu mochila?
+- Formación en CFGS Informática o experiencia equivalente.
+- Mínimo 3 años de experiencia contrastada como front-end developer.
+- Conocimientos profundos en tecnologías HTML5/CSS3, Bootstrap, Modernizr, 
+SASS (SCSS), JScript, JQuery y AngularJs.
+- Experiencia en el manejo de la suite de diseño Adobe.
+- Conocimientos de herramientas de gestión git, beanstalk y trello.
+- Se valorara positivamente experiencia como back-end developer sobre 
+tecnologías PHP.
+- Se valorará positivamente experiencia previa en el entorno de agencias de 
+marketing digital.
+Y por si fuera poco:
+- Capacidad analítica.
+- Habilidad para trabajar de manera independiente.
+- Proactividad.
+- Responsabilidad.
+- Capacidad de inspiración para el resto del equipo de front-end.
+Y después de pedir la carta de los reyes ¿qué ofrecemos?
+- Entorno de trabajo joven y multidisciplinar.
+- Oficina bien comunicada y centralizada.

@@ -1,0 +1,18 @@
+
+¿Te gustaría que tus desarrollos los utilicen millones de personas en más de 90 países? ¿Quieres trabajar en proyectos muy avanzados tecnológicamente, y con partners como Apple, Google, Samsung, Microsoft, LG, Amazon y otros? ¿Te gustaría formar parte del equipo de desarrollo de una pequeña multinacional española, y encima disfrutar de la calidad de vida de una pequeña gran ciudad como Logroño? Entonces sigue leyendo... :)
+En Red Karaoke buscamos a un/a developer de apps móviles especializado en iOS para nuestra empresa, con sede en Logroño (La Rioja), con experiencia de 1-2 años como mínimo en desarrollo de aplicaciones nativas para iOS (iPhone, iPad, iPod) utilizando Xcode/ Objetive C.
+Te exigiremos  conocimientos y dominio de:
+- iOS SDK
+- Cocoa framework/foundation
+- XCode
+- Objective-c
+- C/C++
+- CoreData
+- MVC
+- Dominio de inglés
+También valoraremos de forma positiva: 
+- Programación de aplicaciones Android.
+- Programación de aplicaciones para SmartTV.
+- Experiencia de desarrollo en Java
+Si aceptas el reto, formarás parte de una startup del sector digital con una marca consolidada y de reconocido prestigio, con un gran crecimiento, y con un marcado carácter internacional (sólo el 15% de nuestros clientes viven en España), y trabajarás junto a un equipo con una amplia experiencia en el sector digital. 
+El puesto exige vivir en Logroño (La Rioja) y las condiciones salariales las hablaremos en la entrevista. Si te gustan los retos, estás cómodo/a en un entorno flexible y creativo, y te gusta trabajar en mercados internacionales desde una ciudad tan agradable como Logroño, éste puesto puede ser para ti. ¡Te esperamos!

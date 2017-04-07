@@ -1,0 +1,9 @@
+
+Nömad es una agencia de comunicación que ofrece un servicio de 360º a las empresas. Especializada en la gestión de marca, posicionamiento, diseño web, diseño gráfico, social media e investigación de mercado, tanto de manera nacional como internacional. 
+Estamos buscando un desarrollador web junior para nuestra oficina de Sevilla. En Nömad disfrutamos de nuestro trabajo, somos gente joven con inquietudes e ideas innovadoras.  Los brainstorming son continuos, aquí todo el mundo suma y queremos gente “creativa”.  
+En Nömad no lo sabemos todo y queremos aprender de ti, pero también queremos que tu aprendas de nosotros. Por eso mismo queremos a una persona con poca experiencia.  Queremos que entres con tus dos apellidos, el de tu padre y tu madre, y cuando salgas tengas un tercero. el de Nömad.
+Requisitos:  
+-	Conocimientos básicos de JavaScript, MySQL 
+-	Conocimiento avanzado CSS
+-	Conocimientos avanzados de Wordpress 
+-	Conocimientos de Illustrator y Photoshop.

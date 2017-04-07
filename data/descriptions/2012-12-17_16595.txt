@@ -1,0 +1,13 @@
+
+The Fact estamos buscando un DESARROLLADOR WEB SENIOR, con experiencia de al menos 5 años para formar parte del equipo de producción. Trabajamos con clientes de primer nivel, hacemos grandes y pequeños proyectos, pero sobre todo hacemos proyectos muy chulos.
+Requisitos:
+• Experiencia en desarrollo Back-End con PHP y BBDD MySQL. Se valorarán otros lenguajes de programación de servidor y dominio de otras bases de datos.
+• Experiencia en desarrollo Front-End con CSS / CSS3, HTML / HTML5, jQuery y Ajax.
+• Experiencia con algunos framewoks o plataformas como Wordpress, Drupal, Symphony, Zend Framework...
+• Conocimientos de APIs de terceros (Facebook, Google Maps, Twitter, Youtube...).
+• Conocimientos y experiencia a nivel integración con Flash. No es necesario que sepas flash, pero si tener conocimientos básicos de como hacer la integración entre flash y el desarrollo backend.
+• Valoraremos también conocimientos de programación en otros dispositivos, como móviles y tablets. 
+Aparte de programar y estar al día en desarrollo interactivo tu trabajo consistirá en dar soporte técnico, participar en el proceso creativo habitualmente y gestionar los proyectos desde el inicio hasta el final con el equipo.
+Si además has pasado por una agencia interactiva, tienes alma creativa y te sientes cómodo aprendiendo e innovando eres la persona que estamos buscando.
+El puesto es presencial, en el centro de Madrid, a jornada completa, y se remunerará en función de los méritos y la experiencia presentada por los candidatos.
+

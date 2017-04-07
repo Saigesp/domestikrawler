@@ -1,0 +1,23 @@
+
+Perfil:
+Somos una empresa joven y consolidada, líder en nuestro sector.  Tenemos un fantástico nuevo proyecto que esperamos revolucionará el mercado y buscamos a gente que le emociona lo que hace. 
+Buscamos personas que trabajan con pasión y llenos de curiosidad por seguir aprendiendo continuamente.  Por favor abstenerse aquellos que no cumplan con estas características.
+Propuesta:
+Ofrecemos un ambiente divertido de trabajo, contrato fijo y la posibilidad de crecer junto con la empresa. 
+Conocimientos requeridos:
+Se busca maquetador web con dominio de:
+
+HTML5 
+CSS3 
+jQuery/Javascript
+
+Otros conocimientos que se valorarán positivamente pero no indispensables:
+
+Capacidad de diseño.
+
+Inglés escrito y hablado.
+
+PHP y conocimientos de programación en general.
+
+Javascript orientado a objetos.
+

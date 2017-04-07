@@ -1,0 +1,19 @@
+
+Estamos ampliando el equipo de IT en el área de frontend y necesitamos un frontend developer con experiencia en Django. Es importante tener experiencia como maquetador con diseño responsive de emails complejos. Esta posición dependerá directamente del CTO de la compañía y formará parte de un equipo que crece y por el que se apuesta a nivel de experiencia y formación.
+Para este puesto es necesario tener experiencia de al menos dos años en una posición junior/semi-senior.
+Tareas 
+- Desarrollo frontend (en Django) 
+- Maquetación HTML responsive de mailings (cross-client compatible).
+- Diseño de banners, landing-pages y otras piezas online
+- Edición de fotografía 
+- Edición de vídeo
+Experiencia 
+- HTML5, CSS3 
+- Maquetación responsive de mailings de alta complejidad 
+- Conocimiento medio de programación (experiencia previa requerida) 
+- JavaScript/jQuery (experiencia previa requerida) 
+- Experto en Adobe Illustrator / Photoshop
+Valoraremos 
+- Capacidad de trabajo en equipo 
+- Creatividad Alto nivel de responsabilidad y proactividad 
+- Ganas de formar parte de un equipo en crecimiento

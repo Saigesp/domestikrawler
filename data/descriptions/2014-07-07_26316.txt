@@ -1,0 +1,33 @@
+
+Flexiant es una compañía de cloud pionera en Europa y estamos en proceso de rápida expansión, atendiendo a nuevos clientes y desarrollando nuevas y emocionantes soluciones software.
+Desarrollamos software de orquestación cloud para empresas de hosting, centros de datos y proveedores de telecomunicaciones. Estamos empezando un nuevo y excitante proyecto en Flexiant y necesitamos un Desarrollador/a Backend en nuestra Oficina Española en Sevilla. 
+El puesto:
+Como Desarrollador/a backend, usarás metodologías Agile para escribir código backend de alta calidad para una plataforma cloud innovadora. En este puesto no faltarán los desafíos, pues cada día deberás ayudar a un equipo de personas con talento, pequeño pero dinámico, a liderar la innovación en la nube. 
+Lo que ofrecemos:
+- Proporcionamos un salario competitivo complementado por beneficios tales como seguro médico privado, suscripción a un gimnasio y stock options.
+- Las condiciones de trabajo incluyen horarios de trabajo flexibles, refrescos en la oficina y trabajar desde un iMac.
+Esperamos ofrecer un salario comprendido entre los 24.000€ y los 30.000€, aunque podríamos subir la cantidad para candidatos excepcionales.
+Experiencia y habilidades deseadas:
+Un buen candidato/a debería ser autónomo/a, aprender rápido y tener una actitud proactiva ante la resolución de problemas. También debería tener:
+· Experiencia con sistemas UNIX/Linux
+· Experiencia con al menos 2 lenguajes orientados a objetos
+· Experiencia con algún framework MVC
+· Experiencia con sistemas de control de versiones (SVN o Git)
+· Experiencia con testing
+· Titulación universitaria en Informática
+· Nivel medio en lectura/escritura de inglés técnico
+El candidato/a ideal también tendría:
+· Experiencia con Ruby y Node.js
+· Experiencia con Rails
+· Experiencia aplicando TDD/BDD con RSpec y/o Cucumber
+· Experiencia desarrollando arquitecturas altamente escalables
+· Experiencia con bases de datos Non-SQL como MongoDB
+· Nivel alto en lectura/escritura/conversación en inglés
+Además, nos gustaría saber si tienes alguna de las siguientes:
+· Experiencia con Java
+· Experiencia con cualquier metodología Agile
+· Contribuciones a proyectos open-source y/o cuenta en Github con muestras de tu trabajo
+· Experiencia usando o desarrollando APIs
+· Experiencia con virtualización o servicios cloud de IaaS
+· Experiencia con Chef/Puppet
+Sabemos que nadie tendrá todas las habilidades citadas, así que no te preocupes si no las puedes marcar todas. Principalmente lo que necesitamos es que seas capaz de lidiar con cualquier cosa que te pongamos por delante, que trabajes autónomamente y que produzcas código fiable a ser posible un poco antes de que nosotros siquiera pensemos en sugerirte empezar a escribirlo.

@@ -1,0 +1,5 @@
+
+En 101 estamos buscando a un senior front-end developer especialista en web responsive.
+Además nos gustaría que tuvieras experiencia con el API de WebGL, el Canvas, los accesos al hardware desde la web y que uses librerías como JQuery, Require, Three, PhysicsJS, Box2D, y herramientas como Sass, Git y Gulp.
+También estaría bien que conocieses las API’s sociales de Facebook, Twitter, GoogleMaps o Youtube… y tuvieras alguna experiencia en UX.
+Si cumples con lo anterior, lo que nos va a conquistar de ti es tu nivel de implicación en los proyectos, que quieras estar desde el principio en cada uno de ellos, que insistas en usar siempre la última tecnología, que traigas algo nuevo (aunque sea un chiste malo) cada semana, que te rías de ti mismo, que le grites a la pantalla cuando algo te sale mal, que quieras mejorar siempre y que hagas mejorar a los demás. 

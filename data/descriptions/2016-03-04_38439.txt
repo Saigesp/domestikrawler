@@ -1,0 +1,39 @@
+
+PayMet busca una persona en el departamento de diseño, publicidad y marketing. El perfil del Desarrollador front-end/Diseñador es una persona dinámica, proactiva, curiosa, flexible con iniciativa e ideas frescas, que le gusten las nuevas tecnologías, pero sobre todo que tenga muchas ganas de colaborar y aprender.
+La persona que quiera formar parte del equipo tiene una gran oportunidad de crecimiento dentro de un sector en auge con posibilidades de desarrollo infinitas.
+Valoramos el esfuerzo, involucración y dedicación de cada persona que trabaja en la compañía, creando así un dinámico y buen ambiente de trabajo.
+Conocimientos básicos requeridos e imprescindibles:
+-	Experiencia de más de 2 años en diseño y desarrollo de interfaces web en HTML5, CSS, Javascript / jQuery.
+-	Conocimientos avanzados de maquetación web responsive, incluyendo HTML5 y CSS3.
+-	Maquetación orientada a dispositivos móviles.
+-	Conocimientos de programación en Javascript y frameworks como jQuery.
+-	Capacidad para trabajar con frameworks front-end como Bootstrap y Foundation o integrar otras librerías Javascript para la animación del DOM o canvas.
+-	Conocimiento básico de los principios SEO para aplicarlos a las aplicaciones/webs que se construyan.
+-	Conocimiento de cross-browser compatibility para aplicarlo a cada proyecto.
+-	Conocimientos de maquetación responsive para Email Marketing, compatible con la mayoría de los clientes de email más utilizados: Outlook, Mail App, Gmail, Yahoo, Outlook online, Android,…
+-	Conocimientos de diseño gráfico, manejar bien Adobe Creative Suite (Photoshop, Illustrator, InDesign) y Sketch.
+Valoraremos también:
+-	Conocimiento de AngularJS.
+-	Conocimiento del funcionamiento de pre-procesadores CSS como LESS o SASS.
+-	Haber trabajado con GIT.
+-	Conocimientos y experiencia en el consumo de una API REST de forma síncrona/asíncrona a través de Ajax con jQuery.
+-	Capacidad para generar código reutilizable y librerías para futuro uso.
+-	Optimización del código para mejorar la velocidad y usabilidad por parte del usuario.
+-	Conocimientos de programas de montaje o realización de vídeo.
+-	Conocimientos de efectos gráficos para App móviles.
+-	Buen nivel de inglés.
+Funciones en PayMet siempre junto al apoyo de las personas del equipo serán:
+-	Desarrollo de sitios y aplicaciones web, landing pages o micro-sites.
+-	Investigación creativa, conceptualización y diseño gráfico de aplicaciones móviles.
+-	Maquetación de plantillas de Email Marketing.
+-	Participación en la creación y la definición de los proyectos: Mockup de usabilidad, arquitectura de la información, funcionalidad, etc.
+Nos gustaría ver un portfolio con los proyectos realizados hasta el momento (pueden ser los que hayas desarrollado en la escuela o universidad).
+Condiciones:
+- Contrato indefinido.
+- Jornada completa: de Lunes a Jueves 08:00-14:00 / 15:00-17:15. Viernes, 08:00-15:00.
+- Remuneración: a convenir según valía del candidato.
+- El trabajo será presencial en nuestras oficinas de Rivas-Vaciamadrid (Madrid). Acceso en transporte público (Metro Rivas Futura, frente Centro Comercial H2O).
+- Disponibilidad inmediata.
+Te ofrecemos:
+- Crecer y formar parte de un gran equipo, trabajando en proyectos innovadores y muy creativos para grandes clientes.
+

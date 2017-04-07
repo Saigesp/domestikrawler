@@ -1,0 +1,16 @@
+
+Buscamos un programador de Ruby on rails que trabaje como desarrollador back y parte del front-end, tanto en proyectos propios de Codecantor como haciendo servicios para nuestros clientes. 
+Quienes somos
+Codecantor es un estudio de diseño y desarrollo web afincado en Madrid, nos encanta experimentar con proyectos propios, pero también disfrutamos diseñando servicios digitales para proyectos por todo el mundo.
+Conocimientos
+- Test-driven development (TDD)
+- Experiencia previa con Ruby on Rails
+- PostgreSQL
+- Trabaje con GIT
+Nos gustaría que conozcas o te suene...
+- ember.js
+- ¿SPREE? (ecommerce)
+- Programe javascript y haya trabajado con algún framework
+- Sistemas linux
+- Trabaje o haya trabajado con Vagrant
+Para obtener más información sobre el puesta ir a: http://codecantor.com/jobs

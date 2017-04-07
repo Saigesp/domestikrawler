@@ -1,0 +1,18 @@
+
+La escuela de formación C.E.I. (www.cei.es) de Valencia, busca profesor para sus cursos de 3D con Autodesk Maya básico y avanzado. 
+Se requiere persona con dotes explicativas que sepa transmitir los conocimientos necesarios para el correcto aprendizaje de Autodesk Maya.
+Los conocimientos de Maya básico deben comprender los 5 módulos imprescindibles:
+•	Modelado (poligonal, nurbs, subdivision).
+•	Texturizado, Mapas UVs (shaders de maya software y mentalray).
+•	Iluminación (tipos de luces: direccional, foco, omni...).
+•	Animación (animación básica, control de la linea de tiempo, animación por canales, deformadores, curvas de animación...).
+•	Renderizado.
+Maya avanzado comprenderá:
+•	Animación avanzada (setdrivenkey, huesos, rigid, animación de partículas...).
+•	Músculos para personajes.
+•	Render por capas con MentalRay (oclusión, specular, difuse, beauty, shadow...).
+•	Paint Effects.
+•	Particles, Nparticles, Dinámica, Ncloth.
+•	Fluids.
+•	Hair and Fur.
+

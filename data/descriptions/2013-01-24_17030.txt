@@ -1,0 +1,4 @@
+
+Migración de  php, hosting de archivos y mailboxes de la plataforma Dada Cobalt a una nueva (Linux Dada) 
+El técnico tiene que migrar archivos en la nueva plataforma de hosting y comprobar si los sitios web y correos electrónicos funcionan bien en la nueva plataforma.
+

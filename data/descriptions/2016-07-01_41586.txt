@@ -1,0 +1,36 @@
+
+Quienes somos:
+Somos una agencia de comunicación integral nacida en 2005. Tenemos un doble objetivo, por un lado desarrollar proyectos propios en los que podamos controlar todos los procesos y tecnologías a utilizar y por otro, acompañar a marcas en la búsqueda de soluciones de comunicación que les acerquen a sus consumidores.
+Tenemos ADN digital, pero nuestro equipo es multidisciplinar. La estrategia y el mensaje están por encima de canales o medios, y los consumidores conviven hoy en día en todos ellos, sin diferenciarlos, conversando directamente con las marcas.
+
+Descripción de la oferta:
+- Buscamos un desarrollador en Node.js / Angular.js para ayudarnos en el desarrollo de los nuevos proyectos que tenemos en mente.
+- Se integrará en el equipo de desarrolladores de Internet Of Things. Actualmente hemos desarrollado una plataforma para una importante empresa internacional en donde se han desplegado más de 12.000 dispositivos. La plataforma se ha desarrollado usando tecnologías Docker, Node.js, Angular.js, Cordova y Android así como un framework propio para backend. El candidato trabajará tanto en las nuevas funcionalidades de la plataforma, asi como en los nuevos dispositivos que se planean.
+- Una persona comunicativa, con aptitud y actitud positiva hacia el trabajo en equipo, capaz de coordinarlo y liderar proyectos dado el caso.
+- Con interés por el mañana.
+
+Requisitos:
+- Experiencia en Node.js y Angular.js
+- Espíritu inquieto por investigar y aprender
+- Con iniciativa e implicación
+- Con sentido de la responsabilidad
+- Persona ágil y resolutiva
+
+Además se valorará:
+- Haber utilizado bases de datos no relacionales como MongoDB
+- Conocimientos de Docker
+- Conocimientos de GIT
+- Conocimientos de programación orientada objetos
+- Interesado en las metodologías ágiles
+Ofrecemos:
+- Formar parte de un equipo joven y multidisciplinar de más de 20 personas, junto a diseñadores gráficos y multimedia, copies, community manager, programadores, cuentas... enfocado a proyectos de distintos ámbitos como electrónica de consumo, restauración, moda, cosmética, ong’s... y lo que salga!
+- Un contrato a jornada completa de 6+indefinido.
+- Salario en un rango entre 27.000 y 32.000
+
+Si quieres saber más de nosotros:
+ www.ondho.com
+ www.twitter.com/ondho
+ www.facebook.com/ondho.comunicacion
+ www.instagram.com/ondho
+ www.pinterest.com/ondho
+

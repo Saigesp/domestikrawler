@@ -1,0 +1,23 @@
+
+Sólo lo impensable es imposible. Cuando empezamos nuestro proyecto hace 6 años, nuestra visión de cambiar la experiencia de los clientes en todo el mundo sonaba a ciencia ficción. Hoy en día es más real que nunca, pero no es suficiente.
+Queremos seguir reinventando la forma en la que los clientes interactúan con los espacios físicos, la forma en que la gente piensa acerca de ellos y la forma en que experimenta el tiempo que pasan en ellas. Si quieres ayudarnos a transformar el paradigma de la experiencia del cliente y redefinir el concepto de “estar" en un espacio físico, queremos que trabajes con nosotros.
+Buscamos talento para formar parte del equipo STAY y nos acompañe en nuestro camino para transformar la experiencia del cliente. Si crees que cumples con los requisitos envíanos tu C.V.
+Buscamos Front-end Developer de experiencia media (unos 3 años), con conocimientos en JavaScript, HTML5, CSS3 y desarrollo de aplicaciones web, pasión por el desarrollo y hambre de conocimiento, buen caracter, proactividad y capacidad de trabajo en equipo.
+Requerimos:
+- Un mínimo de 3 años de experiencia.
+-  Programación JavaScript, jQuery y experiencia mínima de 1 año con un framework MV* JavaScript (BackboneJS, EmberJS, AngularJS o similares).
+- Experiencia en uso de RESTful APIs.
+- Control de versiones. GIT.
+- Maquetación HTML5 y CSS3. SASS y/o LESS. 
+- Buenas prácticas. Código limpio.
+- Ganas inacabables de mejorar y aprender.
+- Capacidad de trabajo en equipo.
+Se valorará
+- Sólida base formativa.
+- Experiencia en BackboneJS.
+- Conocimiento de Haml y Handlebars.
+- Comodidad en SCRUM.
+Ofrecemos
+Incorporación inmediata, contrato indefinido, salario competitivo y Plan Formativo-Carrera. 
+La oportunidad de incorporarse a un gran equipo y ser parte de una compañía única.
+Puesto de trabajo en Madrid (C/Consuegra 7). Horario: Lunes a jueves de 8:00-9:30h a 17:30-19h (horario flexible); Viernes de 9h a 15h.

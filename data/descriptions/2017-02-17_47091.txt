@@ -1,0 +1,35 @@
+
+Trovit is a classified ads search engine based in sunny Barcelona. We are currently present in 51 countries with 4 different verticals: real estate, cars, jobs and products. Trovit has been named a Great Place to Work® for six years in a row.
+We are looking for a Front-end Developer to join our Monetization team. You will be in charge of coding and improve our monetization product stack, from our client facing platform to the internal billing system.
+You will be part of an agile and fast paced technical team having a direct impact on the Trovit user interface for our clients.
+This challenging position is full-time and based in Barcelona. 
+What you will do:
+- Develop new user-facing features
+- Ensure the technical feasibility of UI/UX designs
+- Identify and escalate issues and opportunities to help to improve performance
+- Assure that all user input is validated before submitting to back-end
+- Collaborate with other team members and stakeholders
+What we expect from you:
+- 3+ years of experience as a front-end developer
+- Good technical skills in: JavaScript, HTML, CSS
+- Experience with a framework like jQuery, JS
+- Experience in web application JS frameworks: Backbone and Angular2
+- Flexible and able to adapt to a fast paced organisation
+- Proactive, problem solver and work as a team player
+Will also be great if you know about:
+- Google Analytics tracking setup
+- Other frameworks like Bootstrap, SASS, etc.
+- Programming in PHP
+- Layout oriented to multi browsers
+What we offer:
+- Flexible working hours
+- Manage your own training budget
+- Private medical insurance
+- Restaurant vouchers
+- Free snacks, drinks and fresh fruit
+- Bike parking
+- Table tennis, video games, pool table and a room filled with playpen balls (because why not)
+- Two yearly retreats usually involving skiing or sunbathing.
+And several extra perks!
+If you want to join a close-knit team of around 100 people (with 20 different nationalities) developing a cool product, come and join us at Trovit!
+ 

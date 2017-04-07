@@ -1,0 +1,6 @@
+
+Buscamos programador Freelance para trabajar en nuestro estudio en Barcelona. 
+Conocimientos requeridos:
+· Objective C (iOs)
+· Cocos2D - 2DX
+· Java (Android)

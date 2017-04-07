@@ -1,0 +1,21 @@
+
+Descripción de la compañía:
+American Language Academy (ALA) es una empresa líder en España en formación en inglés para adultos, profesionales y organizaciones, con más de 40 años de trayectoria y excelencia.
+La plataforma de enseñanza online de ALA ha sido desarrollada con el objetivo de poner las nuevas tecnologías al servicio de la enseñanza, integrando la metodología creativa y comunicativa en un entorno de enseñanza de idiomas online para optimizar el aprendizaje, la experiencia del alumno y la interacción entre alumnos y profesores.
+Descripción de la posición:
+Buscamos una persona dinámica, con motivación e interés en el desarrollo de entornos web, y en el uso de nuevas tecnologías aplicadas para su integración con proyectos de formación.
+El principal objetivo de la posición es desarrollar la plataforma de enseñanza on-line de la compañía junto con el programador senior, sumándose al equipo de innovación y desarrollo tecnológico.
+Proyectos:
+
+Desarrollará la plataforma de enseñanza online (LMS), mejorando sus funcionalidades, la experiencia-usuario, y la integración de información entre el alumno, su profesor y la dirección de estudios.
+Requisitos:
+Indispensable:
+Conocimientos en programación y desarrollo web, específicamente en en los lenguajes PHP, HTML, CSS y Apache. 
+Proactividad, capacidad de responsabilizarse en la creación y seguimiento de nuevos proyectos. 
+Capacidad de trabajo en equipo, flexibilidad, compromiso profesional y alta motivación.
+
+Valorable:
+Conocimientos de Mysql y delphy 
+Conocimiento en entornos Linux
+Condiciones: 
+Jornada parcial (también valoramos la posibilidad de jornada completa o de colaboraciones)

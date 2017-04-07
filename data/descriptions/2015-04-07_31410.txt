@@ -1,0 +1,17 @@
+
+Buscamos un freelance con...
+Experiencia en desarrollo web en lenguajes dinámicos.
+Experiencia en programación orientada a objetos.
+Conocimientos de estándares web: XHTML, CSS y Javascript.
+
+Se valorará:
+Experiencia de desarrollo de aplicaciones web.
+Amplios conocimientos de BBDD.
+Conocimientos de jQuery, Sass, CoffeeScript.
+Conocimientos en maquetación web y principios de usabilidad.
+Ofrecemos:
+Proyecto remunerado de 6-8 semanas. 
+Flexibilidad (no hace falta venir a nuestra oficina de Alcobendas, podemos tener una reunión semanal en Madrid o en Alcobendas y puedes trabajar desde casa si quieres).
+¿Quienes somos?
+Bankadvisor es una startup que va a cambiar la forma de relacionarnos con los Bancos. Estamos en fase prototipo y queremos contar con buenos profesionales para hacer la Beta. Tras el lanzamiento, podemos hablar de otras cosas (equity, incorporación) en función de la experiencia y química con el equipo.
+

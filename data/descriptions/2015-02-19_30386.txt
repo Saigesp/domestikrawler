@@ -1,0 +1,30 @@
+
+Estamos buscando un administrador de sistemas responsable que organice la infraestructura hardware y software de la compañía. Se incorporará a un proyecto de larga duración, tecnológicamente puntero, en un entorno multidisciplinar.
+El candidato informará directamente al CTO y trabajará estrechamente con los otros equipos tecnológicos para la creación de un gran proyecto. Es deseable que, además de las tareas de administración de sistemas, pueda colaborar con tareas de desarrollo o I+D.
+Responsabilidades:
+
+Desarrollar y mantener una infraestructura informática y de comunicaciones dinámica y flexible, integrada con el resto de la organización.
+
+	Aportar soluciones tecnológicas que permitan emplear las nuevas tecnologías adaptadas al entorno del mercado.
+
+	Reducir los costes de administración, utilización y actualización de la infraestructura de sistemas.
+
+	Elaborar y aplicar estrategias de respaldo de la información.
+
+	Asesorar y dar soporte técnico al cliente interno.
+
+
+Tareas:
+[list]
+	Mantener la red y las comunicaciones, VPN, DNS, DHCP, Firewalls garantizando la seguridad y la disponibilidad de los recursos.
+	Realizar y verificar las copias de seguridad de los servidores.
+Instalación y gestión de servidores de aplicaciones
+Instalación y gestión de servidores de bases de datos.
+Instalación y gestión de un cluster Hadoop.
+	Ajustar el rendimiento de los sistemas.
+	Monitorizar los servicios.
+Documentar la configuración de los sistemas.
+	Mantener actualizados los sistemas operativos y sus configuraciones.
+Proteger la infraestructura informática ante intrusiones, virus y cualquier tipo de malware.
+Gestionar cuentas de usuario (email, servidores, control de versiones).
+Participar en tareas de desarrollo I+D.

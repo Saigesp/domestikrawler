@@ -1,0 +1,13 @@
+
+¡Hola! 
+Buscamos un maquetador/programador HTML+CSS de apoyo para el desarrollo de páginas web.
+Requisitos
++ Conocimiento amplio de HTML+CSS.
++ Conocimientos de Javascript (si es posible, librerías de jquery).
++ Se valoran conocimientos y uso habitual de cualquier framework CSS.
+Funciones
+· Maquetar en HTML + CSS los diseños que se le proporcionarán.
+· Implementar funcionalidades a nivel de interfaz mediante jquery (efectos, animaciones).
+En principio se contempla la opción de teletrabajo y la contratación por proyecto, funcionando por fechas de entrega y reuniones periódicas.
+Según el nivel de demanda las condiciones podrían cambiar a un horario fijo y otro tipo de contrato.
+¡Envíanos tu currículum!

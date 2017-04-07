@@ -1,0 +1,12 @@
+
+En Lendrock, startup del sector Fintech, estamos ampliando el equipo y queremos contratar al menos un desarrollador web junior.
+Buscamos:
+- Experiencia en desarrollo web de al menos 6 meses usando algún framework de desarrollo (preferiblemente Symfony)
+- Conocimientos de GIT o SVN
+-  Conocimientos de SQL
+-  Muchas ganas de aprender  
+Ofrecemos:
+- Contrato indefinido
+- Jornada completa con posibilidad de teletrabajo
+- Sueldo negociable según valía del candidato 
+

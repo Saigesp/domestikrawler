@@ -1,0 +1,12 @@
+
+En Playmoss (www.playmoss.com) estamos buscando un maquetador web front-end freelance con conocimientos y experiencia trabajando en CSS, html5 y js. 
+Playmoss es una startup  con sede en Barcelona y cuya actividad principal gira en torno al mundo de la música.
+Buscamos una persona  motivada para integrarse en un proyecto de estas características. Debería ser un apasionado de la programación, Internet, las nuevas tecnologías y con afinidad por la música y el diseño.
+Se requiere experiencia en:
+Html5 y CSS3
+Javascript / jQuery
+Capacidad para implementar diseños con alto nivel de perfección (píxel perfect).
+Afinidad con el diseño.
+Control de versiones
+Se valorará que el desarrollador resida en Barcelona o alrededores para poder hacer reuniones puntuales.
+Abstenerse desarrolladores que no tengan disponibilidad prácticamente inmediata.

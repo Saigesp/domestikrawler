@@ -1,0 +1,28 @@
+
+Responsabilidades: 
+•	Realizar la planificación y seguimiento de la ejecución de los planes de calidad (SIT, UAT, Pruebas de Usuario) interna o con proveedores. 
+•	Realizar el control y seguimiento de la corrección de los defectos de software. 
+•	Gestionar la herramienta de planificación de pruebas y control de incidencias. 
+•	Coordinar las entregas de software realizadas por los equipos de desarrollo.
+•	Entregar versiones finales para su publicación. 
+•	Mantener el registro de control de versiones. 
+•	Implementar la automatización de las pruebas de calidad. 
+•	Responsable de la puesta a punto de los entornos de pruebas e integración. 
+•	Trabajar en colaboración del equipo de desarrollo para la resolución de bugs. 
+•	Reportar al responsable del área. 
+•	Definir y documentar los procedimientos de despliegues y pruebas. 
+Requisitos
+•	Experiencia en metodologías de testing / valorable certificación ISTQB-TMAP
+•	Formación en IT: FP2 admon sistemas, desarrollo aplicaciones / licenciaturas en informática, telecomunicaciones, matemáticas
+•	Facilidad para adaptación y comunicación
+•	Experiencia con alguna herramienta de gestión de ciclo vida software / testing / defects
+•	Conocimiento metodologías ágiles / valorable experiencia trabajando con SCRUM/Kanban
+•	Base técnica solvente en: java (conocimiento base) + html (xml, json) + SOAPUI + SQL / valorable automatización con alguna herramienta de testing + valorable Selenium - éste punto se puede validar si ha tenido experiencia testing en entorno WEB actual.
+•	Inglés escrito / comprensión escucha / valorable nivel conversación
+Ofrecemos: 
+•	Trabajar en un equipo de expertos.
+•	Jornada completa. 
+•	Contrato indefinido
+•	Pack de retribución ajustada a la experiencia demostrada.
+•	Oficina en las rozas
+

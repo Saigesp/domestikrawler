@@ -1,0 +1,19 @@
+
+Agencia de comunicación ubicada en Alicante busca desarrollador web.
+Requisitos técnicos:
+    Experiencia previa en programación PHP
+    Conocimientos MySQL
+    Experiencia previa en maquetación web HTML5, CSS 3
+    Responsive Web Design
+    Java Script
+    Conocimiento de Wordpress y Joomla
+    Diseño (Adobe Suite)
+    Responsive Web Design
+    Sistemas de control de versiones (Git)
+    Experiencia en desarrollo de proyectos CMS
+Perfil:
+    Persona creativa, dinámica y activa
+    Indispensable residir en Alicante o alrededores
+    Disponibilidad para trabajar dentro de la propia agencia
+    Proactiva y responsable
+    Con experiencia demostrable en los apartados anteriores

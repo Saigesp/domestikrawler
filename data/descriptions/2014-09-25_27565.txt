@@ -1,0 +1,13 @@
+
+Hola,
+Soy un diseñador y programador web freelance afincado en tierras gallegas. 
+Me han surgido 2 proyectos para los que se desarrollarán dos plataformas web con un marcado carácter social.
+Para poner referencias de lo que se pretende podéis ver estos ejemplos:
+* http://creativemornings.com/
+* https://www.kickstarter.com
+(Estos ejemplos son solo para tener una noción del tipo de proyecto, la calidad y de la comunidad que está envuelta.)
+Tu ubicación no es importante, el trabajo se puede desarrollar sin problemas a distancia.
+Tu labor será colaborar en el desarrollo del front-end a todos los niveles: diseño, maquetación, animaciones, funcionalidades...
+¡Aviso! Necesito a alguien bueno en esto... el nivel de exigencia es muy alto, y  por ello necesito a un programador experimentado.
+Si te interesa... necesito ejemplos de tu trabajo y qué tecnologías controlas.
+¡Saludos! :)

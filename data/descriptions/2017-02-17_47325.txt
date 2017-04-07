@@ -1,0 +1,14 @@
+
+Somos una empresa de desarrollo Frontend y UX y estamos buscando en estos momentos un desarrollador Frontend con conocimientos de JAVA para proyectos en modalidad freelance.
+Sería para hacer desarrollos en remoto, por proyectos y de forma continuada.
+Requisitos: 
+- Experiencia en JAVA, J2EE, Java Server Faces, Struts, Hibernate y Freemarker
+- Experiencia en desarrollo de frontend (mínimo 3 años) 
+- Buen manejo de frameworks JS como(jQuery, Angular, React, Backbone…) 
+- Sistema de control de versiones (GIT) 
+- Conocimientos en HTML5 y pre-procesadores de CSS3 (SASS/LESS) 
+- Dominio de maquetación responsive mediante utilización de Bootstrap y/o Foundation 
+- Capacidad de trabajar en equipo y habilidades organizativas 
+- Profesionalidad y responsabilidad en el cumplimiento de las entregas pactadas
+Valorable: 
+- Conocimientos mínimos de manejo de un servidor Apache y Amazon WS para montar un entorno de desarrollo y de producción para los proyectos

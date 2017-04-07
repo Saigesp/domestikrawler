@@ -1,0 +1,28 @@
+
+La persona se integrará en el departamento IT, actualmente de dos personas.
+Sus funciones serán:
+Programación web (Frontend / Backend)
+Aplicaciones para móbiles y tabletas
+Proyectos multimedia
+Lenguajes de programación:
+- HTML
+- CSS
+- Javascript
+- PHP
+- MySQL
+Experiencia en (frameworks):
+- Desarrollo de web responsive y/o experiencia en sistemas de grid (Twitter Bootstrap, Zurb Foundation...)
+- Experiencia en frameworks MVC en PHP (Zend Framework, CakePHP...)
+- jQuery o similares (Zepto,MooTools ...)
+- Frameworks de desarrollo para dispositivos móviles multiplataforma basados en HTML (PhoneGap o similares)
+- Experiencia en desarrollo en Wordpress  (desarrollo de temas y plugins)
+Requisitos Extra:
+- Desarrollo para Android y/o iOS
+- Conocimientos de frameworks Javascript con el patrón MVC (Backbone, Angular JS...)
+- Conocimientos en AS3
+Condiciones:
+- Contrato de 1 año de duración.
+- Contrato a 40h
+- Sueldo en función del candidato.
+- Horario de la empresa: Lun - Jue: 9-14h / 15-18h
+Viernes: 9-15h

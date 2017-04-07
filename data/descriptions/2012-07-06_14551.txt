@@ -1,0 +1,7 @@
+
+Pedimos presupuesto en base a un briefing.
+Es para una palicación web que deberá monitorizar todas las actividades (comentar, subir contenido, votar, etc) de sus usuarios y traducirla en puntos.
+Esos puntos se utilizaran para trazar en un mapa, de forma gráfica un recorrido con un origen y un destino.
+Para cada usuario se generará su propio mapa.
+Integración de usuarios de otra plataforma.
+Mas información contactar.

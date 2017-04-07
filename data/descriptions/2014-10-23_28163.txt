@@ -1,0 +1,18 @@
+
+reclamador.es es la empresa ganadora de seedrocket 2012, conaccionistas como Cabiedes & Partners, Francois Derbaix (toprural), faraday venture parttners, Carlos Blanco (ITnet), Noelia Fernández-Arroyo (VP- Yahoo- EMEA), etc. 
+Nos dedicamos a reclamar en nombre de consumidores a aerolíneas, bancos, aseguradoras y otro tipo de empresas con un modelo NO WIN, NO FEE, es decir, si no ganamos, no cobramos
+Tu experiencia debe incluir tanto backend como frontend.
+REQUISITOS
+Perfil:
+- Tu experiencia debe incluir tanto backend como frontend 
+- Aprendes rápido y te gusta solucionar problemas de forma práctica.
+- Tienes experiencia de más de 2 años en ambientes web y te mantienes constantemente actualizado.
+- Te motiva trabajar en algo que contribuya a mejorar el entorno.
+- Tienes visión empresarial.
+Experiencia requerida:
+- Uno o más años de experiencia en desarrollo con Python y Django
+- Experiencia tanto backend como frontend.
+- Competente en entornos Unix/Linux
+- Experiencia con BBDD relacionales (Postgres, MySQL)
+- Conocimientos en HTML/CSS y Javascript
+- Experiencia control de versiones (Git)

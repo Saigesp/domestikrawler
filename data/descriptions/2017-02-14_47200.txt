@@ -1,0 +1,9 @@
+
+Analista Programador Java con experiencia principalmente en Back end y valorable experiencia en Front-End:
+· Amplios conocimientos (entre 3 y 5 años) en Java y J2EE.
+· Experiencia en arquitectura basada en MVC (Model - View - Controler)
+· Conocimiento de Frameworks como Spring, Struts, Ibatis/Hibernate.
+· Conocimientos amplios de JSP, JSTL, XML, Javascript, JQuery, JSON.
+· Conocimiento de Bases de Datos relacionales, preferiblemente Oracle SQL. También deseable conocimientos en PL/SQL.
+· Valorable algo de experiencia en entornos de Integración Continua (GitLab, Maven, Jenkins, Nexus, Sonar).
+· Valorable conocimientos básicos de Angular2, CSS3 y HTML5.

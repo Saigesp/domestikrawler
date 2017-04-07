@@ -1,0 +1,19 @@
+
+Buscamos un desarrollador con experiencia en Symfony. Buen ambiente de trabajo y un equipo joven y motivado.  
+Se ofrece un contrato mínimo de 3 meses.
+Requisitos mínimos
+-	2 años de experiencia con  PHP y  programación oruientada a objetos
+-	Experiencia con el framework Symfony2
+-	Conocimiento de Doctrine ORM
+-	Uso de Composer
+-	Bases de datos SQL y NoSQL
+-	RabbitMQ
+-	Control de versiones con Git
+-	Entornos Linux.
+Valorados
+-	Angular JS
+-	Bootstrap
+-	Conocimiento de MTAs
+-	Amazon webservices
+-	Elastic search
+

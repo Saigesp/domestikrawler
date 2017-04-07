@@ -1,0 +1,12 @@
+
+Buscamos freelance  con sólidos conocimientos de programación de Wordpress, para trabajar a media jornada (9:30h. a 14:30h.) en nuestras instalaciones (Barcelona).
+Requisitos:
+Conocimientos demostrables de programación PHP y en concreto sobre entorno Wordpress a nivel desarrollo de themes y plugins, esto incluye como minimo:  
+- Saberse manejar por el API de Wordpress, para programar nuevas funcionalidades administrativas o de gestión/presentación de contenidos
+- Conocer bien el enfoque de Wordpress para crear themes
+- Tener nociones basicas de creación de short codes y hooks.
+- Maquetación HTML/CSS
+Se valorará:
+- Dominio Javascript/JQuery
+- Experiencia en desarrollo MVC con algun framework PHP (Symfony, Codeigniter, CakePHP, ...)
+Se integrara en el actual equipo de desarrollo participando en los proyectos Wordpress en curso.

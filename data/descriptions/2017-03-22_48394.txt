@@ -1,0 +1,9 @@
+
+Somos una agencia creativa en constante evolución y crecimiento con gusto por las cosas bien hechas.
+Buscamos a un/a programador web freelance con cuidado por el detalle, ágil resolutivo y con actitud.
+Requisitos: 
+- Experiencia en desarrollo de aplicaciones web en PHP con bases de datos MySQL 
+- Experiencia en Maquetación web responsive HTML5 + CSS3 
+- Diseño responsive
+- Programación banners HTML5 y uso de plataforma Szimek
+Se valorará que sea de Madrid, no se trata de un trabajo presencial, pero sí de reuniones y disponibilidad semanal.

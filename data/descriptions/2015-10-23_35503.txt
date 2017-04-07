@@ -1,0 +1,10 @@
+
+NATURALEZA DEL TRABAJO: 
+Estamos buscando a un/a diseñador/a para que nos haga con cierta urgencia unos ajustes a un diseño de página web de planes de ocio (Madrid Confidential). El diseño lo tenemos en sketch. No estamos buscando una propuesta creativa sino hacer pequeños ajustes al estilo del diseño nuevo (la estructura que se diseñó en los wireframes no cambiaría) para que el diseño represente mejor nuestra marca y que los programadores que tenemos puedan usarlo como referencia.
+NECESIDADES:
+-poder hacerlo dentro de un plazo de los próximos 10 días
+-dominio de sketch (los diseños base los tenemos en sketch)
+-ejecución de guidelines (necesitamos ideas para algunos elementos: tipografía, flechas, botones) pero tenemos las ideas muy claras en cuanto a lo que queremos y lo que no queremos. 
+-No necesitamos aplicar los cambios a todas las pantallas sino los suficientes para que los programadores puedan aplicarlos a todas las pantallas. 
+-No necesitamos ninguna ilustración (las tenemos).
+-idealmente, que pille nuestro gusto (somos chicas, nos gustan las cosas bonitas, queremos meterle una pata artesanal al frío mundo digital pero no somos recargadas, ni somos ñoñas).

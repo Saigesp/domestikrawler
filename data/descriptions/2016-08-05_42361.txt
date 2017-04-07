@@ -1,0 +1,26 @@
+
+Estamos buscando dos desarolladores backend para unirse al departamento de programación.
+Buscamos:
+- Experiencia demostrable en PROGRAMACIÓN PHP
+- Capacidad de escribir código eficiente, limpio, mantenible, escalable , reutilizable  y bien documentado.
+- 3 años de experiencia
+- Persona muy proactiva y comprometida 
+- Con mentalidad de trabajador de equipo 
+- Aptitudes resolutivas y ganas de aprender.
+- El trabajo es presencial.
+- Incorporación inmediata.
+Imprescindible:
+- Programación orientada a objetos OOP
+- Programación avanzada en PHP 5+
+- Conocimientos avanzados MY SQL 
+- Desarollos de APIs-REST
+- HTML5
+- CSS3
+- JAVASCRIPT
+- JQUERY
+Horario:
+- De 10:00 a 14:00 y de 15:00 a 19:00
+Lugar de trabajo:
+- Presencial en el barrio de Gràci
+Responsabilidades:
+- El desarrollo de nuevas funcionalidades y herramientas

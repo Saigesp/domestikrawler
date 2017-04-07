@@ -1,0 +1,22 @@
+
+En Iwantic estamos buscando dos QA Test Engineer para una gran start-up del sector Internet en Barcelona.
+Queremos a alguien a quien le interese unirse a una compañía en crecimiento y con un equipo joven, dinámico y con talento.
+Experiencia:
+- 1-2 años de experiencia en QA y Testing.
+Formación:
+- Título de Grado/Licenciatura (o superior) en Informática, Ingeniería u otra disciplina relacionada (Telecomunicaciones, Matemáticas, Física).
+Funciones:
+- Formarás parte del equipo de I+D y trabajarás con programadores y ejecutivos con el objetivo de analizar y desarrollar nuevas funcionalidades avanzadas utilizando las últimas tecnologías.
+- Actividades involucradas en el proceso de testing integral: estrategia, planificación, evaluación de la calidad y resolución de incidencias.
+Conocimientos:
+-Conocimientos demostrables de herramientas de automatización y soporte como Selenium, Jenkins, Kanban, Puppet, o similar.
+-Conocimiento medio de PHP y Javascript. NodeJS apreciable.
+-Experiencia previa en metodologías basadas en Git también es apreciable.
+-Castellano/catalán nativo.
+-Inglés fluido.
+Se ofrece:
+- Valoramos la iniciativa, creatividad, imaginación y responsabilidad. 
+ -Formación y aprendizaje. 
+ -Ambiente dinámico y multilingüe.
+ -Horario flexible y adaptable según las necesidades. 
+Salario según valía.

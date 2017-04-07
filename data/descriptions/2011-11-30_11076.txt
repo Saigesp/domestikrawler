@@ -1,0 +1,14 @@
+
+Se encargará del desarrollo, optimización y mantenimiento de entornos e-learning (Moodle). Se busca un colaborador FREELANCE que cumpla:
+Conocimientos y experiencia demostrable en programación PHP y en Moodle.
+Conocimientos de edición y transcodificación de vídeo para la web.
+Conocimiento Flash a nivel medio de Action script. Manejo y dominio de las herramientas de diseño y animación.
+Ubicación en la provincia de Bizkaia.
+Labores a desarrollar:
+Diseño de interfaces.
+Creación de CSS global de las unidades didácticas. 
+Tratamiento digital de imágenes, para las unidades didácticas.
+Diseño y maquetación XHTML-CSS de contenidos de texto, imagen, flash y video. 
+Diseño, maquetación XHTML-CSS y programación de actividades Moodle tipo cuestionario. 
+Diseño, maquetación XHTML-CSS y programación en otros formatos de actividades Moodle para texto a desarrollar. 
+

@@ -1,0 +1,12 @@
+
+The Thinklab es una empresa de producción y post-producción digital afincada en Madrid. The Thinklab produce contenidos de alta calidad para audiencias internacionales, especializándose en la producción de animación, ficción, documentales y publicidad. Nuestras películas y programas se han emitido en canales internacionales tales como: National Geographic, Channel 4, TVE, History Channel, Disney Channel, Canal+, Arte, Aljazeera, Planète, etc. Además, hemos recibido numerosos premios y participado en más de 100 prestigiosos festivales internacionales.
+Buscamos Senior Rigger para largometraje de animación internacional.
+Funciones: 
+• Implementar sistemas de control de rig de animación para personajes complejos usando Maya. 
+• Librerías de poses 
+• Implementar rigs para personajes high. 
+• Diseñar interfaces de usuario y controles
+Requisitos: 
+• Experiencia probada en largometrajes o series de animación como Rigger. 
+• Software: Experiencia en Maya.
+

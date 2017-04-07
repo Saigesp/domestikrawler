@@ -1,0 +1,13 @@
+
+Buscamos un programador web experto en Wordpress que sea capaz tanto de desarrollar temas a partir de 0, crear plugins y modificar o añadir nuevas funcionalidades a Wordpress ya creados.
+Los requisitos que pedimos son:
+- Experiencia de al menos un año en el desarrollo de webs con Wordpress.
+- Experiencia de maquetación en HTML5 y CSS3 utilizando responsive design, especialmente desde .psd y .ai
+- Dominio de PHP, Javascript y jQuery.
+Pero si además cumple lo siguiente, eres nuestro candidato ideal:
+- Experto en Photoshop o Illustrator.
+- Conocimientos de otros CMS como Prestashop, Drupal o Joomla.
+-  Conocimientos de frameworks HTML como Bootstrap o Fundation.
+- Integración de APIs de terceros, sobre todo de los productos de Google y de las principales redes sociales.
+- Te gusta innovar y no tienes miedo a aprender nuevas tecnologías.
+Por nuestra parte te ofrecemos un trabajo con un buen ambiente en una start up con mucho potencial y un MacBook para que programes a tus anchas.

@@ -1,0 +1,12 @@
+
+Buscamos un desarrollador frontend con experiencia demostrable en Angular JS  para trabajar en nuestras oficinas de Marbella a jornada completa.
+Requisitos:
+- Dominio de las tecnologías HTML5, CSS3, Javascript, Less/Sass, AngularJS y node.js
+- Dominio de las herramientas Gruntjs, Bower y Yeoman 
+- Usabilidad y experiencia de usuario
+- Al menos 3 años de experiencia en puestos similares
+Se valorará:
+- Titulación Universitaria
+- Parse Cloud  Code
+- Haber trabajado previamente con metodologías ágiles 
+El perfil que buscamos debe demostrar capacidad de trabajo en equipo y ser una persona orientada a resultados.

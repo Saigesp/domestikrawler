@@ -1,0 +1,6 @@
+
+Buscamos un programador con conocimiento de desarrollo para dispositivos móviles Android/Iphone para el desarrollo de un proyecto propio. 
+Será indispensable conocimientos de arquitectura cliente/servidor, conocimiento de JSON /XML y experiencia en programación en Java para plataformas Android. 
+Experiencia profesional desarrollando aplicaciones nativas para iOS (iPhone, iPad, iPod) utilizando Xcode / Objective C
+Se busca una persona dinámica, con ganas de aprender y de aportar, así como ganas de trabajar en equipo. 
+Posibilidad de evolucionar dentro de la empresa tanto profesional como económicamente.

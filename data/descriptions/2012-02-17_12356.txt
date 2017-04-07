@@ -1,0 +1,14 @@
+
+Buscamos un desarrollador/maquetador web para incorporarse a nuestro equipo de manera inmediata.
+Buscamos una persona dinámica y proactiva, con ganas de integrarse en un equipo joven y multidisciplinar y que sea capaz de trabajar en varios proyectos simultáneamente, con conocimiento de las últimas tendencias y tecnologías web.
+Estamos buscando una persona con las siguientes características:
+- 2 o 3 años de experiencia desarrollando aplicaciones web PHP y MySQL 
+- Experiencia demostrable en maquetación crossbrowser XHTML, CSS y estándares W3C. 
+- Conocimiento e implementación de librerías Javascript
+- Desarrollo web con gestores de contenido como Wordpress, Drupal o Joomla.
+Se tendrá muy en cuenta:
+- Portfolio de proyectos
+- Conocimientos de Illustrator, Photoshop, Fireworks y otros programas de diseño a nivel básico/medio
+- Conocimiento de Ruby on Rails y sistemas
+- Inglés hablado y escrito
+Para más información sobre Kings of Mambo y nuestros proyectos, visita nuestra web.

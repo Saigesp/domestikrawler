@@ -1,0 +1,25 @@
+
+InboundCycle es la primera agencia de Inbound Marketing en España y en LatinoAmérica. El Inbound marketing es la estrategia de marketing que está consiguiendo mayor penetración en los USA actualmente.
+Entre otros reconocimientos, InboundCycle ha sido elegido 1º Best Place To Work.
+Dentro de la empresa, el departamento de IT + Innovation se encarga del desarrollo de páginas web y herramientas que dan soporte al equipo de proyectos y a nuestros clientes. Además, tendrás la posibilidad de trabajar en proyectos de innovación, enfocados a mejorar la efectividad de nuestros proyectos de marketing y la productividad de nuestro equipo.
+Estamos buscando programadores web, con gran agilidad mental y creativa, y con interés por seguir aprendiendo nuevas tecnologías. ¿Eres uno de ellos?
+Ofrecemos:
+ - Contrato a jornada completa en nuestras oficinas en Barcelona (World Trade Center).
+ - Flexibilidad de horario : creemos en la responsabilidad para que cada uno se organice el trabajo.
+ - Carrera Profesional : InboundCycle es una empresa en expansión, que cree en la promoción interna antes de contratar a gente de fuera.
+ - Formación : el lugar de trabajo es una excelente oportunidad para aprender las últimas tecnologías y convertirte en un profesional del desarrollo Web.
+ - Impulsamos la evolución personal y profesional .
+Las funciones principales del trabajo son las siguientes
+ - Maquetación de páginas web
+ - Maquetación de templates de Wordpress
+ - Desarrollo de scripts con JavaScript
+ - Asistencia al equipo de cuentas en temas frontend
+ - Desarrollo de herramientas web internas
+Son imprescindibles las siguientes habilidades/conocimientos para ser considerado para el puesto de trabajo:
+ - Buen nivel de inglés oral y escrito.
+ - 1 año o más de experiencia en desarrollo web
+ - Buen conocimiento de HTML y CSS
+ - Conocimiento de JavaScript
+ - Diseño responsive
+ - Experiencia con la creación y maquetación de templates de Wordpress
+ - Además, también se valorarán positivamente conocimientos de jQuery, Angularjs, Git, experiencia con  - HubSpot, APIs y la capacidad de diseño.

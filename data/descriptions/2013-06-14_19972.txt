@@ -1,0 +1,5 @@
+
+Necesitamos un programador para el departamento de desarrollo de Seguros.es. Las tecnologías serán, fundamentalmente, PHP, MySQL, JQuery, HTML, CSS, todo bajo Linux.
+Se valorarán conocimientos de italiano.
+Las oficinas se hallan situadas en el centro de Madrid.
+

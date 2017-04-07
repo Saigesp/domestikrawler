@@ -1,0 +1,16 @@
+
+Fidelidade, fundada en el año 1808, es una de las mayores aseguradoras de la Península Ibérica y líder en Portugal, tanto en el ramo vida como no vida, con una cuota de mercado del 27%. La compañía abarca múltiples segmentos de negocio y dispone de una amplia red comercial distribuida por toda la península. En el año 2013, Fidelidade registró un volumen de primas de 3.555 millones de €.
+Funciones: 
+- Análisis y toma de requerimientos funcionales de proyectos
+- Desarrollo de nuevas funcionalidades en aplicaciones existentes, así como la implantación de nuevos portales
+- Soporte a la implantación del proceso - Asegurar el alineamiento de las soluciones implantadas con la arquitectura definida
+ - Asegurar la calidad de las soluciones desarrolladas en los plazos establecidos y de acuerdo con el presupuesto existente
+- Interlocución con proveedores...
+Requisitos mínimos:
+ - Titulación media o superior en Informática. 
+- Experiencia mínima de 1 año en funciones similares a las descritas, valorando muy positivamente la experiencia en el sector asegurador
+ - Conocimientos del circuito completo del desarrollo de aplicaciones
+ - Conocimientos en arquitecturas Web/SOA
+- Conocimientos en Plataformas/Tecnologías Microsoft.net
+ - Conocimientos en MS SQL Server
+ - Conocimientos/Experiencia en desarrollo de macros en entorno MS Office (Excel/VBA)

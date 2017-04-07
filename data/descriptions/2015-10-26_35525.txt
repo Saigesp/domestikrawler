@@ -1,0 +1,22 @@
+
+Desde The Valley Talent, Head Hunter especializado en perfiles digitales, buscamos desarrolladores Frontend Senior de al menos 3 años de experiencia para trabajar dentro de una empresa en constante desarrollo, en un proyecto innovador y utilizando metodologías ágiles y las últimas tecnologías en desarrollo web.
+REQUISITOS
+•	Haber desarrollado en HTML5, CSS3, JavaScript y jQuery.
+•	Tener experiencia con frameworks de desarrollo en cliente (AngularJS, Backbone).
+•	Poseer conocimientos de servicios REST, OAuth, JSON, XML
+•	Tener experiencia con Selenium y Unit Testing
+•	Haber trabajado en Ticketing con Redtime
+•	Tener buen nivel de inglés.
+Se valorará:
+-	Tener experiencia en otros lenguajes POO: PHP, Python...
+-	Estar habituado a trabajar con Desarrollo Ágil (SCRUM, Unit Testing, Git...).
+-	Poseer conocimientos de Linux a nivel usuario
+COMPETENCIAS PERSONALES
+El candidato deberá tener capacidad de cumplir plazos y tareas de forma eficaz, proponiendo soluciones a los problemas y responsabilizándose en las decisiones. 
+
+Se considera imprescindible para el candidato ser conocedor de las tendencias relevantes, adaptarse y comprometerse a las ideas y formas de hacer en la organización.
+
+El candidato debe tener personalidad emprendedora y capacidad de trabajo en equipo.
+
+El puesto requiere un perfil proactivo con capacidad de anticiparse.
+

@@ -1,0 +1,14 @@
+
+Seleccionamos un Programador Pro*C con al menos 1 año de experiencia para importante proyecto ubicado en Madrid.
+Formará parte de un laboratorio técnico en el que se encargara de realizar desarrollos, evolutivos y correctivos así como elaboración de documentación técnica y ejecución de pruebas integradas.
+Conocimientos técnicos:
+- Pro*C
+- PL/SQL
+- Unix
+- Shell Script
+- Oracle
+Ofrecemos:
+- Incorporación inmediata y de carácter estable a la plantilla de Continex
+- Proyecto estable y de larga duración
+- Participación en proyectos de tecnologías destacables en el sector
+- Salario acorde con la experiencia aportada

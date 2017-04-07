@@ -1,0 +1,24 @@
+
+Buscamos un desarrollador iOS para incorporarlo de manera inmediata a nuestra plantilla.
+El profesional elegido participará en el mantenimiento y mejora de los proyectos actuales de la empresa así como en la elaboración de aplicaciones futuras.
+Como miembro del equipo de Novagecko, su labor se extenderá a todas las fases del desarrollo de apps, desde la concepción y diseño inicial hasta su publicación en plataformas digitales.
+Ofrecemos:
+- Remuneración: entre 25.000 y 32.000€ brutos anuales.
+- Carrera profesional en función de los conocimientos, experiencia y ambiciones del candidato.
+- Incorporación inmediata a un equipo dinámico y profesional.
+- Excelente ambiente laboral.
+Requisitos:
+- Alto nivel en Objective-C y Xcode, así como en programación orientada al objeto y patrones de diseño.
+- Experiencia mínima y demostrable de al menos 2 años desarrollando aplicaciones para iOS bien como freelance o en otras empresas. Se pedirán referencias de otras aplicaciones desarrolladas.
+- Alto nivel de inglés.
+- Capacidad de trabajo en equipo, habilidad para trabajar con código de otros desarrolladores y refactorizar proyectos existentes.
+- Conocimientos de desarrollo de aplicaciones cliente-servidor y uso de APIs REST a través de HTTP y JSON.
+- Conocimiento y manejo de técnicas de programación relacionadas con el Clean Code.
+- Manejo de sistemas de control de versiones (SVN,GIT).
+- Conocimientos avanzados de iOS en sus versiones más actuales.
+Se valorará positivamente:
+- Titulación universitaria: Ingeniero técnico o superior.
+- Conocimientos de testing: tests unitarios.
+- Creatividad e imaginación.
+- Pasión por la informática en general y el mundo Apple en particular.
+- Ciudad: Palencia

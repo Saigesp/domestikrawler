@@ -1,0 +1,12 @@
+
+Miss Tipsi es una start-up que gestiona y conecta en la nube a los locales de hostelería y a sus clientes a través de un software que ofrece una solución única en el mercado integrando aplicaciones para restaurantes y consumidores en una sola plataforma.  
+Buscamos para incorporación inmediata a tiempo completo un becario para el departamento de programación. 
+El candidato elegido tendrá la oportunidad de:
+
+•	 Entrar a formar parte en un equipo de desarrollo software ágil que elabora un proyecto pionero para el sector de la hostelería.
+•	 Aprender la filosofía de trabajo SCRUM.
+•	 Tomar contacto con los lenguajes de programación más utilizados en desarrollo actual (C# .Net, javascript, HTML5 y SQL Server).
+•	 Participar en el desarrollo en sus diferentes capas (Front-End, Web Services y BackEnd)
+•	 Colaborar con la implantación de una arquitectura pionera que utiliza entornos y servicios en la nube de Microsoft (Azure)
+•	 Aprender buenas prácticas de codificación y uso de gestor de código fuente.
+Todo ello en el marco de una empresa con buena previsión de crecimiento y expansión.

@@ -1,0 +1,19 @@
+
+vLex precisa un desarrollador de Ruby on Rails y backbone.js, junior para sus oficinas de Barcelona, su principal función es desarrollo ruby así como participar en la administración de requerimientos y el diseño funcional.
+Requisitos:
+-Carrera Informática o telecomunicaciones.
+- Experiencia en desarrollo web en Ruby on Rails.
+- Conocimientos de HTML, CSS y javascript. Se valorarán conocimientos de jQuery y frameworks js, especialmente backbone.js
+- Se valorará experiencia en frameworks de testing.
+- Conocimientos de MySQL
+- Conocimientos de git.
+- Acceso a perfil de github (o equivalente) donde poder ver código propio o colaboraciones open source.
+- Soltura en un entorno LINUX.
+- Persona con iniciativa propia, con contacto diario con las últimas novedades del mundo de desarrollo web, y con capacidad para adaptarse rápidamente a entornos tecnológicos nuevos.
+- Inglés técnico escrito
+- Comunicativo: Dentro y fuera del código.
+Ofrecemos:
+Pertenecer a una empresa de alta  tecnología y en expansión internacional.
+Trabajar en equipo con diferentes países del mundo.
+Experiencia profesional en portal líder en el sector.
+Jornada completa

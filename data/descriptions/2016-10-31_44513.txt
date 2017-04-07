@@ -1,0 +1,16 @@
+
+En atSistemas, somos 800 profesionales dedicados desde 1994, a la consultoría, servicios de Tecnologías de la Información y desarrollo de software. Nuestros más de 20 años de experiencia, nos han convertido en uno de los principales referentes del mercado. Combinamos nuestra especialización en tecnologías de vanguardia con un amplio conocimiento de los retos de negocio de nuestros clientes.
+Más de 300 importantes Compañías, tanto nacionales como internacionales, representantes de todos los sectores de actividad, han confiado en nosotros para ofrecerles soluciones innovadoras y acompañarles en su transformación tecnológica.
+Desde nuestras oficinas de Madrid, Barcelona, Cádiz, A Coruña y Zaragoza, realizamos proyectos de arquitectura, desarrollo, integración de sistemas y servicios gestionados, adoptando y promoviendo las mejores prácticas del mercado. También trabajamos en proyectos internacionales en otras localizaciones como Rumanía, UK, Portugal, Alemania, Suecia, Italia, entre otras.
+Seleccionamos un perfil de Maquetador web con experiencia de al menos 3 años en Html5, Css3, RWD así como en pre procesadores como Sass o Less para uno de nuestros clientes situado en la zona de Pinar de las Rozas. El perfil que buscamos se encargará de forma exclusiva en el área de maquetación, al ser una empresa de gran tamaño los departamentos están muy divididos.
+¿Qué ofrecemos?
+- Contrato indefinido
+- Salario a negociar más retribución flexible
+- Ambiente distendido con grandes profesionales 
+- Carrera profesional dentro del ámbito técnico
+- Cursos de formación en tecnologías e idiomas
+¿De qué te encargarás?
+Creación de estructuras con Html 
+Maquetación con Css nativo y pre procesadores dependiendo del proyecto 
+Adaptación web a multidispositivos (RWD)
+

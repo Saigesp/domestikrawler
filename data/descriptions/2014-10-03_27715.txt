@@ -1,0 +1,5 @@
+
+Se busca desarrollador/programador web para la realización de un juego para facebook. Las especificaciones están en http://bit.ly/1rM329M
+El juego es en inglés, así como las especificaciones técnicas del mismo, que también están en dicho idioma.
+Necesitaría saber tiempo de realización apróximado y qué presupuesto se estima que podría tener el desarrollo del proyecto.
+¿Qué tecnologías o lenguajes de programación utilizarías? 

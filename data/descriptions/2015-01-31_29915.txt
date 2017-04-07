@@ -1,0 +1,35 @@
+
+Hola gente,
+Somos un agencia de Londres se llama Maido. Buscamos por un frontend developer en Barcelona. ¿Porque? Porque ya tenemos un diseñador en la ciudad y queremos abrir un oficina pequeña ahi. Es muy importante que puedas hablar ingles, no solo para trabajar, para entender los palabras de abajo también...
+Hello person reading this,
+Yes you, the one who’s eyes are moving from left to right, the one who hopefully is a wonderful front-end dev and who loves all things internet.
+Hi there. We are Maido, which in industry language means “a boutique digital agency that create award winning work for big brands”. In plain English, we are “real people that make cool digital things for other real people”.
+Those cool things tend to vary, maybe it’s an app, maybe it’s a website, it could even be a Google cardboard project.
+As you are reading this, we are simultaneously on the other side of the internet hunting for the perfect front-end dev to join us. Hopefully that’s you. 
+Ideally, you’ve got at least three years experience under your belt and an excellent portfolio of work to show for it. You love a chat about material design as much as the next dev, but you know when to get your game face on and focus on the task at hand. You’re an agile operator and want to work in a fast-paced environment, who wants to become part of the family.
+When it comes to must haves, the list is as follows…
+HTML5 skills to pay the bills.
+CSS/CSS3/CSS preprocessor Sass/Less.
+Responsive/adaptive design techniques that could make a grown man cry tears of joy.
+Object oriented JavaScript including jQuery.
+An ability to write well structured, semantic, maintainable code like a digital Shakespeare.
+Experience building single page applications with technology such as Backbone JS, Angular JS, Require JS.
+Excellent understanding of cross-browser and cross-platform issues, a nuanced voyager of internet browsing platforms.
+Ability to complete and juggle multiple projects whilst meeting strict deadlines.
+SEO best practices that could put Google to shame.
+Experience with version control, GIT.
+So comfortable using the command line that you could do it in your dressing gown (although, that’s probably best saved for WFH Wednesdays).
+An understanding and practice of website optimisation techniques.
+And as for desirables…
+Previous agency experience.
+Node.js.
+Three.js.
+Pixi.js.
+Canvas.
+WebGL.
+Knowledge of PHP.
+We are realistic to the limitations of the universe and know that perfection seldom exists, so if that description isn’t exactly you, but almost is, then it’s probably worth getting in touch and sending us your kickass portfolio anyway, because, well you just never know…
+If you don’t fit the bill, but think you might know somebody who does, please feel free to pass this on. And if you're not destined to join us, we hope that you find your perfect job in the not too distant future.
+Thank you ever so much,
+The Maido team
+PS. If you are a recruiter, pretending to be a developer. We’d like to tell you right here and right now that we’re not interested. We know that you have “the ideal candidate who will single-handedly take the agency to the next level, has the raw characteristics of Elon Musk and can control the space/time continuum”, but seriously we’re not interested.

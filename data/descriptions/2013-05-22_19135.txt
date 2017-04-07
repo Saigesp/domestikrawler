@@ -1,0 +1,12 @@
+
+Scytl es el líder mundial en soluciones seguras de gestión electoral y voto electrónico.
+En este momento estamos buscando profesionales freelance del área de maquetación y front end development en diversos proyectos de 2-3 meses de duración (dedicación y localización a convenir).
+Requisitos mínimos
+- HTML5 CSS3
+- Experiencia de varios años
+- Habituado/a al uso de Javascript
+Requisitos deseados
+- Conocimientos de Bootstrap
+- Programación Javascript
+- Conocimientos de Angular
+

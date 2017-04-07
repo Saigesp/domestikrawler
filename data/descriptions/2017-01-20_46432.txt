@@ -1,0 +1,28 @@
+
+Hola!
+¿Eres Front- End Developer? ¡Te buscamos!:
+Formación. 
+Di adiós a trabajar los viernes. Los dedicarás exclusivamente a participar en el Plan de Formación Unono, costeado íntegramente por nosotros, con el objetivo de que además de aportar tu conocimiento, no dejes de aprender cosas nuevas.
+Salario. 
+25.000 - 30.000 €. 
+¿En cuanto te quedarás? Va a depender de tu experiencia previa, del manejo que tengas en JavaScript y de tu nivel de autogestión.
+Requisitos. 
+- Graduado de Informática o carreras afines. 
+- Hablar inglés (B2 o superior) 
+- Experiencia mínimo de 1 año
+Funciones. 
+- Vas a trabajar en conjunto con los equipos de Diseño y Back-end; 
+- Aportar valor a los procesos creativos y tecnológicos de la empresa. 
+- Vas a ayudar a convertir nuestras creaciones y visiones en realidad, a través de desarrollo front-end: 
+- Manejo de HTML 5, CSS 3 y RWD 
+- Conocimiento de Javascript
+Se valorará 
+- Tener nociones de Typescript y Foundation, así como de librerías o frameworks Javascript como React o Angular 
+- Conocimientos de Git
+Nosotros. 
+Somos una red social universitaria enfocada al perfil junior. 
+Unono lo formamos un equipo joven. No somos dinosaurios del mundo de los recursos humanos sino que venimos a traer lo nuevo al sector. 
+En nuestras oficinas, al lado del Parque del Retiro, nunca falta la mesa de Ping-Pong, un buen arsenal de Nerf’s (uno nunca debe fiarse de los de los otros departamentos) o las cajas de pizza. 
+España, Portugal y Suiza ya están “unonizadas” y pronto vendrán más países.
+Contacto. 
+Te llamaremos por teléfono si eres nuestra media naranja. Así que si prefieres que lo hagamos en algún momento del día en concreto, dínoslo.

@@ -1,0 +1,18 @@
+
+Function:
+Our game developers are the ones in charge of developing and building our fantastic and super mega fun games. We are looking for developers with a wide vision of  games development from graphic performance to multiplayer related issues.
+The Developer is responsible for developing any code and it’s technical execution to satisfy the technical needs, meeting the defined QA standards and other policies.
+We are currently developing with Action script3 using our own framework based on dependency injection, fully decoupled modules and optimized for mobile devices.
+Experience:
+At least 3 years of experience in agile development methods
+Deep knowledge of Action Script3 and Starling
+Experience in client-server communication
+Experience in Quality Assurance practices (unit testing, TDD)
+Knowledge of the gaming industry
+Skills
+Good organizational skills
+Result Oriented
+Can-do attitude
+Quick learner
+Be a hacker as in RFC1392
+

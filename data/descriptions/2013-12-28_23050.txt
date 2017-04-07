@@ -1,0 +1,8 @@
+
+Hola estoy buscando a un Programador con conocimiento y experiencia en HTML, CSS, PHP y Base de datos
+Proyecto:
+El usuario puede registrarse a la pagina web,  el login Name es su propio Mail
+El usuario logiado tiene acceso a su propia base de datos donde el podrá albergar carpetas y información URL (links).
+
+Doy mucha importancia a la seguridad de los datos del usuarios, por lo tanto prefiero contratar a alguien con mas experiencia .
+Mas detalles incluido (Pago y forma de Pago) por  Mail 

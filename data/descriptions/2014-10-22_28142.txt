@@ -1,0 +1,12 @@
+
+Buscamos un desarrollador en Symfony para Startup del sector de viajes con sede en Alicante.
+Equipo fundador muy comprometido y con amplia experiencia en marketing online, UX/UI y motores de reservas. Buscamos un desarrollador que haya realizado ya algún desarrollo con Symfony, que quiera disfrutar con el desarrollo de un concepto nuevo en viajes.
+Nos dirigimos a un mercado internacional y vas a participar de forma fundamental a crear innovación con alcance.
+Formarás parte de un equipo comprometido con el éxito, con el crecimiento del proyecto y de las personas que lo forman. Como tú. 
+Buscamos a alguien con:
+-  +2 años de experiencia en desarrollo con PHP5 
+- Amplia experiencia en programación orientada a objetos 
+- Experiencia demostrada en Symfony 2.0 
+- +2 años de experiencia en MySQL 
+- Experiencia en entornos Linux 
+- Experiencia en uso y conexión de webservices

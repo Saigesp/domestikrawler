@@ -1,0 +1,35 @@
+
+The company
+Mindrop is a web application that allows users to collect and analyze information in a compelling and impactful way. It is both, a search engine to find and capture valuable information, and a visual workspace where ideas become real objects. You can shape them as you want and obtain meaningful insights at a glance.
+Mindrop is a well-funded company and currently includes 11 individuals (average age of 27). A limited beta release of the product is already out and soon will be available to a wide user base.
+The Role
+The role
+Mindrop is looking for a versatile, highly-motivated JavaScript Engineer with experience in Real-Time applications to join the team. This person should be an experienced developer able to create high performance code that enriches user experience and take the platform to the next level.
+Responsibilities:
+- Work with Product Management to provide new features to our MeteorJS application.
+- Make a high scalable application in JavaScript using the latest technologies.
+What we expect from you:
+- Writing high performance JavaScript
+- High level DOM manipulation
+- Real-Time Web communication, specially with WebSockets
+- Testing for the Web (unit tests, Selenium, etc.)
+- Using MV* JavaScript frameworks
+- Using MongoDB and NodeJS in an scalable environment
+- OOP and functional programming
+Additional skills:
+- Humble and committed to self-improvement
+- Go-getter, highly organized and self-driven person
+- Have knowledge of software design patterns.
+- Have knowledge about browser-specific issues and incompatibilities
+- Have excellent communication and interpersonal skills
+- Have experience working in an Agile environment (Scrum)
+- Have experience with distributed version control systems (Git)
+- Have experience with Reactive programming
+- Have experience with MeteorJS Web apps
+- Have contributed to the Open Source community
+We offer:
+- Full-time contract in Valencia, Spain
+- Competitive salary according to experience/skills of the candidate
+- Nice office close to the beach, full of free drinks & snacks
+- Flexibility & autonomy
+- Be part of a skilled team

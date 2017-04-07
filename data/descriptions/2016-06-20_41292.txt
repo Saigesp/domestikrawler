@@ -1,0 +1,15 @@
+
+Buscamos Senior Java Developer para unirse a un gran equipo de uno de nuestros clientes del sector retail en el Vallés Occidental. Deberás aportar aproximadamente unos 5 años de experiencia en entornos Java EE.
+Estamos en búsqueda permanente de talento, de implicación, de motivación, de responsabilidad, de pasión, de esfuerzo, de compañerismo y de ideas, que permitan seguir haciendo crecer y mejorar este proyecto común en el que estamos todos. Si sientes inquietud, te atrae afrontar nuevos retos y trabajar en un buen ambiente de trabajo ¡te esperamos!
+PROFILE, es una compañía en constante crecimiento y expansión con más de dieciséis años de experiencia ofreciendo servicios de Consultoría, Desarrollo, Diseño e Implantación de Tecnologías de la Información, con sedes en Madrid, Barcelona, Tarragona y Santander.
+Te invitamos a visitar nuestra web www.profile.es
+Requisitos mínimos:
+- Java EE 
+- JSF
+- Spring 
+- WS Rest y WS SOAP
+- Oracle
+- Junit test
+Valorables:
+- Metodologías ágiles
+- JQuery, JPA, Mongo DB

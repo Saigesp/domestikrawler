@@ -1,0 +1,10 @@
+
+Estamos buscando un desarrollador freelance con experiencia contrastable en desarrollo web basado en Magento, requisitos:
+Ser un semi-crack con Magento
+PHP, MySQL, patrones de programación y bases de datos
+Experiencia en maquetación en html5 con jquery.
+Experienca en maquetación CSS
+El trabajo a realizar es la puesta a punto de un ecommerce personalizado multi-idioma, basado en un sistema que mezcla ticketing (venta de tickets de eventos) y Booking (reserva de hoteles).
+El trabajo a realizar, principalmente es desarrollo Web e implementación, del diseño gráfico-template y maquetación CSS se encargan otros miembros del equipo. 
+Es un proyecto con una perspectiva de continuidad a largo plazo, ya que el proyecto es ambicioso: nuevas funcionalidades, mantenimiento y evoluciones del producto.
+Tenemos experiencia con proyectos realizados con Woocomerce, Virtuemart, Hikashop o Prestashop, pero por las características del proyecto creemos que es un proyecto ideal para realizar en Magento... eso no quita que si crees que se puede hacer con otra plataforma que desconocemos, envíanos tu propuesta, estamos encantados de escucharte.

@@ -1,0 +1,12 @@
+
+BipMotor nace en octubre de 2017 de la mano de importantes inversores privados internacionales del sector de internet. Basada en modelos de negocio estadounidenses de éxito, esta nueva startup arranca su actividad en España para expandirse rápidamente al resto de Europa en un proyecto relacionado con el sector del automóvil.
+Para este proyecto estamos buscando desarrolladores para aplicaciones móviles y Web.
+Los requisitos son:
+- C# .NET
+- Xamarin
+- SQL Server
+- Azure
+- Experiencia mínima 2 años en desarrollo Apps  iOS y Android
+Contrato Indefinido
+Jornada Completa
+Salario entre 30.000 y 35.000€

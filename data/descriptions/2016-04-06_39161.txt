@@ -1,0 +1,13 @@
+
+Somos una aceleradora de Mobile Apps. En concreto trabajamos en 3 proyectos:
+ www.be-in-app-com -> Fashion influencer incubator - 2 APPs 
+ www.samiapps.com -> kids education concepts - 20 APPs 
+ www.autofascinacion.es -> automoción - 2 APPs
+Aumentamos nuestro equipo de desarrollo incorporando inmediatamente un programador para Unity 3D. No hace falta experiencia laboral previa, pero sí los conocimientos. Estamos interesados en incorporar al equipo alguien con ganas de aprender, con iniciativa y ganas de progresar.
+Requerimos: 
+- Unity 3D
+- HTML5 y CSS3
+- Java Script 
+Valoraremos positivamente: 
+- Titulación superior en disciplinas relacionadas 
+- Dominio de inglés

@@ -1,0 +1,32 @@
+
+Descripción de la oferta:	
+Gran empresa del sector industrial, con proyección internacional y proyectos de continua expansión y crecimiento, selecciona un/a Analista Programador/a  Senior .NET / WEB para su Dpto. de Desarrollo de IT.
+ Funciones:
+•	Análisis y desarrollo de nuevas funcionalidades.
+•	Definición y desarrollo de mejoras en la aplicación.
+•	Formación y soporte a los usuarios.
+•	Resolución y soporte de incidencias.
+
+Requisitos Mínimos:	
+•	Formación universitaria
+•	Años de experiencia:  3 a 5 años
+•	Desarrollo sobre arquitectura WEB ASP .NET / WebForms / MVC 4.x/5.x / WEB API
+•	Desarrollo WebServices /XML / REST
+•	UI basados en AJAX / Json
+•	ÁngularJs
+•	C#
+•	Entity Framework
+•	LinQ
+•	JavaScript y JQuery
+•	MySQL
+•	Unit Testing
+•	Experiencia en el uso de frameworks de Inyección de dependencias
+•	Experiencia en diseños DDD
+•	Experiencia en programación OO y patrones
+•	Redactado de documentos funcionales
+•	Definición de especificaciones y diseños técnicos
+•	Metodología de desarrollo de proyectos
+Se valorará:	
+•	Experiencia con el uso herramientas de Integración Continua (TeamCity, Jenkins, etc)
+•	Experiencia con KendoUI 
+

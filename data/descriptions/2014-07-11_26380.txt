@@ -1,0 +1,20 @@
+
+Verbio es una compañía multinacional líder en el sector de tecnologías y soluciones de Interacción en Lenguaje Natural. Somos una compañía joven y con un equipo volcado en la tecnología. Te ofrecemos una oportunidad única para desarrollar tus capacidades en un entorno apasionante.
+___
+Estamos buscando un desarrollador web con sólida experiencia en PHP apasionado por la programación para incorporarse al equipo de diseño de front-ends de nuestras aplicaciones. El trabajo consiste en el diseño, programación y testing completo de dichos front-ends.
+Qué ofrecemos:
+- Entorno multidisciplinar y colaborativo
+- Aprendizaje continuo
+- Compañía multinacional en crecimiento
+Requisitos:
+Desarrollador front-end con un año de experiencia como mínimo en la creación de interfaces web de usuario. El puesto de trabajo puede evolucionar hacia otro tipo de desarrollos de aplicaciones para entorno móvil. El candidato debe ser experto en:
+- HTML5/CSS3
+- JavaScript
+- PHP
+- AJAX
+Se valorará que el candidato pueda acreditar conocimientos en:
+- Frameworks para desarrollo front-end web (bootstrap, symfony)
+- Diseño y administración de bases de datos
+- Generación de documentación UML
+Se valorará que el candidato tenga una titulación de ingeniería técnica o superior en informática o telecomunicaciones.
+

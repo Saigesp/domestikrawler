@@ -1,0 +1,23 @@
+
+Shakn es la APP de búsqueda de pareja de mayor crecimiento en España. Desde su lanzamiento en marzo de 2016 se han registrado más de 550.000 perfiles en nuestras aplicaciones. 
+Nuestro próximo reto es expandirnos en Latinoamérica y US para convertirnos en la APP de las relaciones estables en Español.
+Buscamos desarrolladores basados en Madrid que quieran formar parte de nuestra familia. 
+Descripción del trabajo  
+Python Backend Developer responsable de gestionar el intercambio de datos entre nuestros servidores y APPs. 
+Su principal objetivo será el desarrollo de aplicaciones dentro de la  lógica server-side, garantizando un alto rendimiento y capacidad de respuesta a las solicitudes de los frontales de cliente. 
+Responsabilidades  
+-	Escribir código reutilizable, fiable y eficiente
+-	Diseño e implementación de aplicaciones de baja latencia, alta disponibilidad y rendimiento 
+-	Implementación de la seguridad y protección de datos 
+-	Integración de soluciones de almacenamiento de datos (MongoDb, MySql)
+Habilidades y cualidades  
+Experto en programación Python, con conocimiento del framework Django
+Capaz de integrar múltiples fuentes de datos y bases de datos en un solo sistema 
+Comprensión de las limitaciones de subprocesamiento de Python y de la arquitectura multiproceso 
+Comprensión básica de las tecnologías front-end, como JavaScript, HTML5 y CSS3  
+Conocimiento de la autenticación y autorización de usuarios entre múltiples sistemas, servidores y entornos 
+Comprensión de los principios fundamentales de diseño detrás de una aplicación escalable 
+Familiaridad con la programación orientada a eventos en Python 
+Comprender las diferencias entre las plataformas de entrega múltiple (Mobile, Desktop...), y optimizar la salida para que coincida con la plataforma específica 
+Capaz de crear esquemas de bases de datos que representen y soporten procesos empresariales  
+Conocimiento competente de las herramientas de control de versiones de código

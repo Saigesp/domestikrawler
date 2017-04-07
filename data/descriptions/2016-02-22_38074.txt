@@ -1,0 +1,10 @@
+
+Hola,
+Somos Graphe Disseny un pequeño estudio de diseño gráfico y comunicación visual. Nuestros servicios engloban todo el mundo del diseño gráfico: identidad corporativa, editorial, publicidad, web, eCommerce y marketing online. Puedes vernos en: www.graphedisseny.es
+
+Trabajamos estrechamente con muchos tipos de negocios, nuestros clientes son emprendedores, profesionales autónomos, PYMES y organizaciones de diferentes ámbitos. Tenemos colaboradores fijos con los que trabajamos por proyectos cerrados, estamos muy contentos con ellos.
+
+Actualmente nos encontramos con varios proyectos a desarrollar y en marcha, para ello precisamos incorporar en nuestro equipo de trabajo un desarrollador-programador freelance especialista en back-end.
+Las funciones serían el desarrollo o personalización de funcionalidades a medida, adaptación de plugins y módulos. Solucionar bugs en Prestashop y Wordpress, etc.
+Es necesario tener conocimientos de PHP, BBDD, Java Script, Wordpress y Prestashop.
+Si te interesa colaborar con nosotros podemos plantear ahora un caso particular que estamos desarrollando y si llegamos a un acuerdo con el precio, tiempos de ejecución y forma de trabajar, podemos probar y ver de colaborar en todos nuestros proyectos, ¿te parece?

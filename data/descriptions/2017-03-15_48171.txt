@@ -1,0 +1,8 @@
+
+We are looking for a young professional willing to join an international leading banking software vendor in order to be part of the development team located in Alcobendas (Madrid), working very closely with foreign development teams to improve and extend banking software solutions and to help clients to adapt the software solutions to their specific needs.
+Requirements
+- University Degree is mandatory, preferably in Computer Sciences.
+- Fluent English level (C1).
+- Knowledge in HTML5, CSS, SASS, Node.JS, JavaScript and frameworks like AngularJS.
+- Practical experience with Liferay is advantageous.
+- Very good analytical skills.

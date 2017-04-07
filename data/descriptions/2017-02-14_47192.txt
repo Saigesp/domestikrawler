@@ -1,0 +1,14 @@
+
+Somos una empresa de desarrollo Frontend y diseño UI/UX y en estos momentos estamos buscando a dos diseñadores para el desarrollo de nuestros proyectos.
+La contratación sería por proyecto, de modo freelance, pero continuada en el tiempo para realizar el desarrollo constante de la parte visual de los proyectos de nuestros clientes.
+Buscamos diseñadores de UX/UI con experiencia demostrable en entornos web, en estos momentos no buscamos ilustradores o diseñadores offline.
+Requisitos: 
+- Creación de diagramas y flujos de interacción
+- Definición de la arquitectura de información de portales web y Tablet
+- Valorable dominio HTML5 y CSS3
+- Importante experiencia en diseño web UI/UX (adjuntar ejemplos de ambos casos)
+- Conocimiento de herramientas de diseño de diagrama flujos, wireframing y mockups: Sketch, InVision, Balsamiq o Zeplin 
+- Dominio de herramientas de Adobe
+- Al menos tres años de experiencia demostrable en diseño de interfaces de usuario multidispositivo/multiplataforma
+- Pixel-perfect
+Es muy importante que sea  perfeccionista y meticuloso en los detalles, acostumbrado a trabajar en equipo de forma remota.

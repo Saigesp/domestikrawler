@@ -1,0 +1,16 @@
+
+¿Eres un Ninja de JS?
+Si tienes los siguientes conocimientos y buscas nuevos retos en entornos innovadores y proyectos internacionales, ¡tienes un hueco en Intelygenz!
+Dominio de: 
+- JavaScript (prototype, defered objects, promises...) 
+- Jquery 
+- Experiencia en aplicaciones de pagina única (angular, backbone, iris) 
+- Ajax 
+- Json
+Deseable: 
+- Maquetación HTML5-CSS3
+Muy valorable: 
+- Conocimientos en NodeJS 
+- Experiencia demostrable en la parte frontend, tanto en desarrollo como en análisis. Tendremos muy en cuenta la buena base técnica y las actitudes personales. No requerimos unos años de experiencia en concreto.
+El trabajo no es totalmente dirigido, es decir que se necesita un mínimo nivel de autogestión y un alto grado de autodidáctica.
+Puesto estable, con proyección. Contrato laboral. Abstenerse freelance.

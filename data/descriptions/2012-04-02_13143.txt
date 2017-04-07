@@ -1,0 +1,21 @@
+
+System Administrator at Dreamstar Cash, we operate a network of adult sites including 4tube.com and PornTube.com and manage around 3,5 Million visitors/day. Although we’re now in our 10th year of operation we pride ourselves on our start-up mentality.
+We’re currently undergoing massive growth and are heavily committed to Agile Development Methodology, we’re looking for a passionate Systems Engineer to own and drive our infrastructure investments, both from the sysadmin and DevOps perspectives.
+You’ll…
+Design – With each release, we evolve and innovate our stack and processes. We’re looking for a core member of the engineering team, who will identify better ways to build, deploy and run our stack, using the latest best practices and technologies.
+Develop – The DevOps role sits inside engineering, and is a crucial part of both the software development lifecycle and the application lifecycle management process. You will be required to design and write automation software to manage and monitor the deployment of core infrastructure, support continuous integration of new software into the live site, and automate testing and reporting.
+Monitor and Operate – A major requirement for this role is monitoring and operating our infrastructure. This includes internal systems (development/integration/staging environments, etc) but most importantly, our production live sites. This is a 24/7/365 responsibility, so we are looking for someone who has experience in establishing the support and operations plan, and being the primary on all outages and incidents.
+Troubleshoot – Web scale services present interesting challenges around debugging, troubleshooting, and root cause analysis. The DevOps role will be responsible for trouble shooting outages and incidents, performing the root cause analysis, and restoring systems to full operational capacity. As such, you must be comfortable with issue identification and resolution using log analysis and code analysis in live environments.
+Skills &amp;amp; Requirements
+We currently run over 26 servers in production to keep our sites running smoothly along with a  CDN for streaming and supported by Saas solutions for transcoding.
+Sphinx
+memcache
+apc
+ffmpeg
+Nginx
+HAProxy
+Jenkins
+GitHub
+Puppet
+Our development team primary uses PHP 5.3 &amp;amp; MySQL 5.5 on the server, and jQuery and Backbone on the client.
+

@@ -1,0 +1,29 @@
+
+Descripción
+Importante empresa internacional busca Software Engineer para formar parte del equipo IT que trabajara en sus nuevas instalaciones en el PTA de Málaga
+Requisitos
+● 2+ years in software development
+● Experience with Backbone.js, Node.js, Marrionette.js
+● Experience with Linux, NginX, MySQL, PHP, JavaScript
+● Experience with HTML5 and CSS
+● Excellent knowledge of MVC Frameworks like Yii, Zend, or Laravel
+● Excellent written and verbal communication skills
+● Experience working in an Agile environment, particularly Scrum
+● Experience with Git, SVN, or other code management systems
+● Comfortable with Linux command line interface
+● Extensive knowledge and experience with relational databases
+● In-depth knowledge of web-service/data-driven application architecture
+● Experience working with third party APIs and SDKs
+● Conceptual familiarity with Google BigQuery
+● A passion for continued learning and keeping up with the latest technology trends
+● Bachelor’s degree in computer science required
+Funciones
+You will play a key role in our software development team and have an opportunity to challenge yourself to further your knowledge in a highly energized, fast-paced, and innovative environment. We have several sites in the job search industry that experience high amounts of user traffic. As a Software Engineer, you will be an active member of the team having responsibilities in all stages of the software development cycle, from design, development, release to customers, and incremental updates.
+ 
+● Design, code, document, and define test plans of custom software application features and
+modules
+● Develop test plans and use cases to identify bugs and potential performance improvements
+● Provide accurate estimates of time to completion for software features and applications
+● Work closely with other team members and participate in software design decisions
+Ofrecemos
+Gross Annual Salary : Negotiable

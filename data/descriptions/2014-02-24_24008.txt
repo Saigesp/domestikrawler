@@ -1,0 +1,5 @@
+
+En Fihoca, consultora en sistemas de Información y Telecomunicaciones, precisamos incorporar a nuestro equipo de profesionales un diseñador Freelance con el siguiente perfil:
+En el apartado de maquetación: HTML 4 y 5, además de saber CSS 2 y 3. Maquetación con el Framework de capa de presentación Bootstrap 2
+Entorno de desarrollo, Eclipse preferiblemente o Notepad++, un editor de texto.
+JavaScript: Desarrollo con el DOM y jQuery. Valorable REST o jSON.

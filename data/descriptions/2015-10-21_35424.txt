@@ -1,0 +1,13 @@
+
+Empresa ubicada en la Cala del Moral(Málaga). Precisa de programador Junior .NET
+Requisitos Deseables:
+- Ingeniero Informático
+- Experiencia de al menos un año con .NET usando vb versión 6
+- SQL Server 2008
+- Team Foundation Server
+Se valorará:
+- MVC
+- Bootstrap
+- HTML y css3
+Se ofrece contratación a tiempo completo, según Régimen General Ordinario
+Salario: 14000-16000 euros brutos anuales

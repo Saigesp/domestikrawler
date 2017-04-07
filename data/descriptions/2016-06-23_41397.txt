@@ -1,0 +1,17 @@
+
+This role supports the team by developing and delivering deep analytics and insights to support EU business performance and develop a deeper understanding of business drivers and opportunities.  Analytical projects cover a variety of subjects across the analytical spectrum, including buyers, sellers, market-place insight, site performance, pricing, marketing and business performance. Analysts work in Partnership with business stakeholders and other analytical teams to drive tangible results with a direct impact on the commercial performance of the business.
+ Your job tasks will be focused on business performance & KPI reporting; design, implementation & automation
+Responsibilities:
+•	Work with business partners to scope analysis to answer key business questions - challenge their thinking and become a trusted business partner.
+•	Identify, extract and analyse relevant information from multiple sources to unpick business questions.
+•	Assess internal/external factors that may influence customer usage and key metrics, particularly regarding the competitive landscape.
+•	Develop and deliver the business story from the analyst and effectively communicate this to business and finance partners.
+•	Support business decision making through the provision of actionable insight.
+Requirements:
+•	Must have 5+ years within an analytical environment.
+•	Advanced SQL or SAS programming abilities.
+•	Experience with Teradata, Hadoop, Tableau or Excel / VBA
+•	Ability to create an analytical framework, delivering comparable results across multiple promotions.
+•	Proven ability in clearly defining a problem, collating the required information, analysing the results and synthesising a compelling argument.
+•	Experience of managing multiple stakeholders, including senior management.
+•	Graduate degree (ideally in a quantitative field).

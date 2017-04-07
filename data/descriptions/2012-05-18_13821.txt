@@ -1,0 +1,9 @@
+
+Perfil:
+-	Posición: Diseñador Senior
+-	Competencias: Diseño de webs y maquetación
+-	Conocimientos y Habilidades: Dominio de: Adobe Flash, AS3, Photoshop, Ilustrator, HTML
+
+-	Formación: No requerida, pero tiene que tener total dominio de las habilidades mencionadas arriba.
+- 2/3 años de experiencia
+

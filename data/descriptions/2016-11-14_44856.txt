@@ -1,0 +1,26 @@
+
+Linkener (antiguamente Enerlin) desarrolla soluciones de ahorro energético ofreciendo servicios de monitorización y tratamiento de los parámetros eléctricos. Se ha desarrollado todo el sistema desde cero, un dispositivo que lee los datos del contador hasta la interfaz web que consume estos datos. Estamos centrados en las comercializadoras y los consultores eléctricos por eso proveemos herramientas para agilizar su trabajo como un sistema de alertas, generación de informes y analítica entre otras cosas.
+Tus responsabilidades:
+- Desarrollar y mejorar el panel de administración de nuestro producto.
+- Mejorar la usabilidad.
+- Desarrollar y mejorar el dashboard.
+Requisitos:
+- Experiencia demostrable en Javascript y usando frameworks de front-end (AngularJS, ReactJS o similares)
+- Experiencia demostrable en CSS
+- Conocimientos de OOP
+- Conocimientos de Testing
+- Experiencia demostrable usando buenas prácticas de desarrollo
+Experiencia deseable en:
+- Sass
+- Git
+- Mocha
+- Ansible
+- Vagrant
+Lo que te ofrecemos:	
+- Horario flexible, aquí llegamos entre las 8 y las 10.
+- Poder elegir las vacaciones cuando quieras.
+- Posibilidad de teletrabajo cuando te haga falta.
+- Equipo de sobremesa con dos pantallas y el sistema operativo que desees.
+- Contrato laboral en Valencia y adaptado a tus necesidades (estamos abiertos a negociar, media, reducción o jornada completa, obra y servicio o autónomo)
+- Salario adaptado a tu experiencia. (20-30k €/año brutos)
+

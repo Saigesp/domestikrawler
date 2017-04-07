@@ -1,0 +1,37 @@
+
+“At 60 Miles an Hour the Loudest Noise in This New Rolls-Royce Comes from the Electric Clock.” (https://postcron.com/es/blog/wp-content/uploads/2014/06/ROLLS.jpg)
+Cuenta la leyenda que, al ver este anuncio de Rolls-Royce, uno de los ingenieros de la compañía comentó: “We really must do something about our clock.”
+Si eres un desarrollador de este estilo, de los que creen en el trabajo bien hecho, de los que buscan retos, de los que no temen estrellarse contra la pared en busca de soluciones a un problema; si eres, en definitiva, de los que entienden la diferencia entre desarrollar y picar código, podemos entendernos.
+DoubleYou es una agencia de comunicación especializada en proyectos digitales para grandes marcas. Y estamos buscando un Desarrollador Front-End que nos ayude a construir las interfaces (lo bonito, lo que se ve y se toca, lo que no deja de escupir errores por la consola) de esos proyectos.
+Se encargará del desarrollo de la interfaz web de proyectos de comunicación y publicitarios para grandes marcas. La oferta es para incorporarse de manera inmediata, a jornada completa.
+Requisitos imprescindibles (por imprescindibles nos referimos a que son imprescindibles):
+- Trabajar rápido y trabajar bien. 
+- Al menos 5 años demostrables de experiencia en desarrollo Front-End. Conocimientos sólidos en estándares actuales (HTML5, CSS3, ES5, SVG) e interés por su evolución (HTML6, CSS4, ES6, ES7…). Destreza en el uso de herramientas de colaboración (Git, SVN, Slack, Jira, Trello…).
+ - Experiencia en Responsive Design y frameworks CSS (Bootstrap, Pure, Basscss…).
+- Conocimientos de patrón vista-controlador y frameworks orientados a él (Angular<2>, Backbone, React-Redux…). Experiencia con servicios REST y librerías de JST (Handlebars, Moustache, Jade…).
+ - Capacidad de trabajar en equipo, de asumir liderazgo si es necesario, de adjudicarse responsabilidades y de delegar.
+ - Criterio estético y de usabilidad.
+ - Ganas. De hacer, de aprender y de enseñar. Y de equivocarse (aunque no mucho).
+También valoraremos
+- Experiencia y/o conocimientos de:
+       + Node.
+       + Preprocesadores CSS (Less, SASS, Stylus, PostCSS).
+       + Transpiladores JS (TypeScript, Babel).
+       + Task-runners (Gulp, NPM).
+       + Sistemas de bundling (Webpack, Browserify).
+       + WebSockets.
+       + Photoshop e Illustrator. Sketch.
+       + Herramientas de wireframing y prototipado.
+       + Sistemas de plantilla server-side (Smarty, Django, Thymeleaf…).
+- Interés en:
+       + Metodologías ágiles (Scrum y similares; puedes dejar el traje de trapecista en casa).
+       + Nuevos entornos y modos de interacción: Realidad Virtual y Realidad Aumentada, Leap Motion, Kinect…
+       + Desarrollo de objetos físicos: Arduino, Raspberry Pi…
+       + Los Beach Boys por encima de los Beatles.
+Lo que ofrecemos:
+- Incorporación inmediata.
+- Semana laboral de 37.5 horas.
+- Un equipo joven, dinámico y fresco (¿los chavales seguís diciendo “fresco”?).
+- Trabajar en proyectos ambiciosos y con alta visibilidad para grandes marcas.
+- Contrato indefinido con 6 meses de prueba. Salario acorde a tu experiencia.
+

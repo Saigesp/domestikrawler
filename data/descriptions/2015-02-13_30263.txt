@@ -1,0 +1,25 @@
+
+About
+Do you want to be a part of building the most exciting mobile platform in the world? Are you interested in big challenges involving the cross section between high performance software applications and the real world? Are you excited about building systems that are changing peoples lives in cities with populations ranging from 100,000 people to 10 million people? Are you comfortable in a fast paced environment where individual initiative combines with honesty and thoughtfulness to build amazing products? Uber might be for you.
+
+ Uber is excited to be building out a cross-functional product development team in Amsterdam. Our organisational challenges are unique and we need key contributions from incredibly talented individuals to make a big contribution to Uber’s future mobile platform. We’re looking for team players with a natural product intuition who can work harder, faster and smarter without sacrificing technical excellence. As a member of our cross-functional team, you will be responsible for building, modifying, maintaining and improving our diverse back-end systems to support our mobile and web developers in Amsterdam.
+Responsibilities
+HERE ARE THE KINDS OF SKILLS WE'RE LOOKING FOR:
+Fast learner. We’re looking for people who don’t believe in one-size-fits-all solutions and you absolutely must be able to to adapt to the needs of our rapidly evolving business environment
+Solid knowledge of python and web / REST frameworks. Django is cool, but being able to build your own is even cooler
+Experience with server side javascript or a willingness to learn it is key
+Fearlessness. You think a working proof-of-concept is the best way to make a point. You strive on proving that speed and quality are not conflicting; that you can achieve both at the same time.
+Versatility. In addition to having an intimate knowledge of the whole web stack, you understand how all the pieces fit together (front-end, database, network layer, etc.) and how they impact the performance of your application.
+Strong architecture chops. You know how to build highly scalable, robust, and fault-tolerant services that support our unique rate-of-growth requirements. You stay up-to-date with the latest architectural trends.
+Passion. You feel ownership over everything you ship; you'd never call code "released" until you’re confident it’s correct. You pride yourself on efficient monitoring, strong documentation, and proper test coverage.
+A team player. You believe that you can achieve more on a team — that the whole is greater than the sum of its parts. You rely on others' candid feedback for continuous improvement.
+Design and business acumen. You understand requirements beyond the written word. Whether you’re working on an API used by other developers, an internal tool consumed by our operation teams, or a feature used by millions of customers, your attention to details leads to a delightful user experience.
+Other Information
+PERKS:
+Employees are showered with Uber credits each month.
+Ground floor opportunity with the team; shape the strategic direction of the company.
+The rare opportunity to change the world such that everyone around you is using the product you built. We’re not just another social web app, we’re moving real people and assets and reinventing transportation and logistics globally.
+Sharp, motivated co-workers in a fun office environment.
+COMPENSATION:
+Full-time salary negotiable based on experience, and equity compensation plan.
+We're bringing Uber to every major city in the world. We need brains and passion to make it happen and to make it happen in style.

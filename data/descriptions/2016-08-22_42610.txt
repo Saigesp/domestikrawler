@@ -1,0 +1,18 @@
+
+PhotoVersus es una aplicación para móviles que funciona como red social, en la que los usuarios podrán hacer "batallas de fotos (entre dos personas)" y competir entre ellos, donde los usuarios votarán cual de las fotos les gusta más.
+Aptitudes y conocimientos
+Amplios conocimientos en el desarrollo de aplicaciones Android de manera nativa.
+Experiencia en el desarrollo de arquitecturas para el manejo de gran cantidad de usuarios. 
+Manejo de base de datos (MongoDB, MySql etc). 
+Utilización de librerias especializadas en el rendimiento o funcionalidades de los proyectos (librería de imágenes etc). 
+Utilización de últimas tecnologías a la hora de implementar cambios. 
+Capacidad de trabajar en equipo, a distancia, con metodología (scrum). 
+Flexibilidad horaria, y responsabilidad a la hora de presentar avances. 
+*Se valorará experiencia en el desarrollo de back-end.
+Responsabilidades clave
+Construir aplicaciones de Android desde el concepto hasta el diseño, implementación, pruebas y publicación de las mismas. 
+Trabajar con fuentes de datos externas y de la API (JSON / REST). 
+Corregir errores y mejorar continuamente el rendimiento de las aplicaciones. 
+Atención fuerte al detalle en cada línea de código, cada unidad de prueba, y cada mensaje de registro. 
+Mantener conocimiento práctico de las nuevas tendencias y tecnologías de la industria.
+Se busca una persona con tiempo y mucha experiencia en el desarrollo de aplicaciones Android.

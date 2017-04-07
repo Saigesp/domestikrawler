@@ -1,0 +1,21 @@
+
+Hola!
+En Noobware (estudio especializado en videojuegos y nuevas tecnologías) estamos buscando a un talentoso becario programador a quien le apasione el mundo de los videojuegos y la programación gráfica.
+Funciones:
+- Desarrollo de demos/prototipos de nuevos juegos.
+- Desarrollo implementación de actualizaciones de juegos existentes.
+Se valorará:
+- Conocimientos medios-avanzados de programación C++, java, objC, etc
+- Conocimientos medios-avanzados de programación AS3
+- Conocimientos medios-avanzados POO
+Se valorará:
+- Conocimientos de algún framework para desarrollo de videojuegos (marmalade, cocos2d, unity3d, etc.).
+- Programación dispositivos móviles (IOS, Android, etc.).
+- Conocimientos de inglés.
+Empleo remunerado
+Según valía
+Incorporación inmediata
+Remuneración según valía
+Si crees que eres el indicado, envíanos tu CV y ejemplos de tu trabajo a:
+info@noobware.net
+

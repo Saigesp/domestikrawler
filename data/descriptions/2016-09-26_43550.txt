@@ -1,0 +1,16 @@
+
+En AKTIOS IT GLOBAL SERVICES estamos reclutando a un PROGRAMADOR SENIOR .NET para posición estable ubicada en SORIA. Por nuestra parte, explicarte que somos una Consultora IT Global con sede central en Barcelona que trabaja con diferentes empresas multinacionales y sectores ofreciendo un posicionamiento de 360º. 
+La información empresarial y nuestros principales clientes los puedes encontrar en nuestra web:  www.aktios.com
+AKTIOS requiere un perfil PROGRAMADOR SENIOR .NET para poder dar servicio a una de las empresas multinacionales con las que trabajamos de manera Outsourcing. 
+Descripción:
+Un Programador Senior .NET debe aportar capacidad de desarrollo, realización de test unitarios, interpretación de documentación, adaptación a las metodologías de desarrollo y trabajo en equipo. 
+Requisitos:
+Análisis, desarrollo y testing. Utilización de metodologías ágiles (Scrum). Uso habitual de Team Foundation Server (TFS).
+Las capacidades técnicas que requerimos en este ámbito son conocimientos y experiencia sólida de 3-4 años en:
+- Plataforma .Net (C#, ASP) – MVC -Javascript -  XML Tecnologias, WCF, Entity Framework – ADO.Net -LINQ, Web API - Testing de Visual Studio, Base de Datos SQL Server 2008, REST API.
+Te ofrecemos:
+• Retribución salarial atractiva.
+• Estabilidad laboral.
+• Perspectivas de crecimiento y proyección profesional.
+• Oportunidad de integrarte a un equipo de profesionales altamente cualificados.
+• Incorporarte en un equipo joven y entusiasta.

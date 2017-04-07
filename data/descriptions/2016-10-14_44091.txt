@@ -1,0 +1,19 @@
+
+Purpose:
+To create and develop websites to guarantee a great user experience reflective of the client's brand image.
+Requirements:
+- Experience with HTML5 and CSS3
+- Experience with JavaScript (jQuery)
+- 2+ years of experience with Front-End programming
+- Experience in animation banners and platforms (Sizmek, ...)
+- Web analysis tools (Adobe DTM, Google Analytics…) is desired
+- Knowledge of digital technologies, good practices, standards and frameworks
+- Experience in an advertising agency is desired
+- Basic command of the Microsoft Office business pack
+- Communications with the client in English – medium level of English required
+Responsibilities:
+- Implement the user interface of the websites (Front-End)
+- Check that the provided materials are correct to permit development.
+- Test the correct functioning and quality of the websites including developing digital assets.
+- Investigate and learn about new technologies and digital trends in the sector.
+

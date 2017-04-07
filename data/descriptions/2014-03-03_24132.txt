@@ -1,0 +1,11 @@
+
+Requisitos:
+- Amplia experiencia en programación PHP5. 
+- Experiencia con frameworks de desarrollo PHP (Pimcore, Zend, Symfony, CakePHP, ). 
+- Conocimientos y experiencia de MySql 
+- Sistema de control de versiones (Git). 
+- Usuario avanzado en entorno Linux y gestion de servidores.
+Deseable:
+- Conocimientos de maquetación HTML5 y CSS3
+- Conocimientos de Javascript
+Incorporación inmediata en proyecto de largo recorrido. Se busca estabilidad.

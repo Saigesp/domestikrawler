@@ -1,0 +1,11 @@
+
+Acabamos de inaugurar una empresa de desarrollo y buscamos a un programador autónomo para instalarse en nuestras oficinas en el barrio de Gracia, en Barcelona.
+Se requiere:
+- Dominio de PHP &amp; MySQL
+- Dominio de Wordpress
+- Experiencia en el desarrollo y gestión de e-Commerce's
+- Gestión de Hosting y servidores
+- Experiencia en gestión de redes sociales
+Se valorará:
+- Desarrollo para plataformas móviles y tablets
+

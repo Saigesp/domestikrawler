@@ -1,0 +1,13 @@
+
+Animación de un modelo de vivienda realizado en AllPlan y pasado a Cinema 4D.  Video corporativo para empresa dedicada al mundo de la construcción, decoración, etc.
+El edificio ya está terminado, con muebles y texturas incluídos. El trabajo se centra principalmente en la animación.
+La idea es la siguiente, se aceptan sugerencias y propuestas:
+- Acabar de pulir algunos  detalles (suelo, cielo, iluminación...)
+- Iniciar el vídeo a partir de un boceto del edificio realizado con un programa tipo Sketch and Toon.
+- Proceso de construcción del edificio por capas. (Que se construya según van apareciendo las distintas capas: bloques, pintura, etc ...)
+- Breve recorrido por el interior y el exterior del edificio en construcción.
+- Breve recorrido por el interior y el exterior del edificio ya acabado.
+También sería interesante que mientras avanza la animación se vaya modificando la luz del dia simulando el paso de las horas.
+La duración del vídeo podría ser de unos 30 segundos, pero se aceptan sugerencias. 
+Imagen de la vivienda en Cinema 4D:
+

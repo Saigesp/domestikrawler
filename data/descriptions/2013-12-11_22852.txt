@@ -1,0 +1,10 @@
+
+Nuestro departamento técnico precisa incorporar un estudiante en prácticas para el área de Quality Assurance cuya misión principal será realizar tareas de testing en las principales áreas tranversales de Atrapalo. 
+Funciones:
+- Reporting de las incidencias encontradas 
+- Elaboración de informes de producto 
+- Revisión y testeo de las nuevas funcionalidades de la w eb de Atrapalo.com como usuario/cliente
+Requisitos: 
+- Conocimientos de PHP 
+- Estudiante de Ingeniería Informática 
+- Imprescindible estar en disposición de firmar convenio de prácticas entre el centro de estudios y la empresa.

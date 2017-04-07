@@ -1,0 +1,11 @@
+
+Nostro Studio es una empresa ubicada en Barcelona y São Paulo, que nació hace 3 años y se ha especializado en el mercado móvil y de tecnología. 
+Buscamos una persona para incorporación inmediata en plantilla con experiencia, Medio o Senior en desarrollo iOS. 
+Requerimos
+- Experiencia demostrable en desarrollo para iOS (Objective-C 2.0/xcode)
+-­ Experiencia en aplicaciones dinámicas con alta interacción de servidor
+- Conocimientos en Usabilidad Móvil
+- Haber desplegado aplicaciones en el App Store.
+Se valorarán conocimientos en: HTML5 + CSS3
+Trabajarás en un ambiente joven y emprendedor con amplia experiencia. Valoramos la creatividad y la innovación en todo lo que hacemos.
+

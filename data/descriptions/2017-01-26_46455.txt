@@ -1,0 +1,20 @@
+
+Somos una startup de intermediación turística, que pone en contacto a
+clientes que desean realizar excursiones con empresas de turismo que las
+realizan.
+Estamos buscando una persona que desempeñe el puesto de desarrollador
+full-stack (back, front, integraciones, etc).
+Qué buscamos:
+- Persona apasionada con la programación full-stack y la arquitectura de
+software.
+- Conocimientos PHP para el backend (se valorará conocimientos JavaScript
+sobre Node.js, en alguna de sus variantes)
+- Conocimientos de la base de datos MongoDB
+- Se valorarán conocimientos de desarrollo frontend (React.js, html, etc)
+Qué ofrecemos:
+- Desarrollo de software tanto backend como frontend.
+- Integraciones entre sistemas mediante APIs.
+- Oportunidades de crecimiento profesional en una startup con mucha
+vocación tecnológica y en trayectoria ascendente.
+- Posibilidad de trabajar en remoto un porcentaje del tiempo.
+- Remuneración según valía del candidato.

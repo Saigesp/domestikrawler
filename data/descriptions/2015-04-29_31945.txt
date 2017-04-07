@@ -1,0 +1,28 @@
+
+About us
+Media Motive is an online company with offices in France, Columbia, Romania and Alicante. We have just opened a new office in Barcelona (Plaza Universidad), focused on innovation and growth. 
+The team : we are a small team in Barcelona and you’ll be the first technical profile to the team. You’ll have the opportunity to build your team and / or manage external third parties when needed. 
+Main responsibilities : 
+We are looking for a Chief Technology Officer with development and systems skills who will provide overall leadership of the technology and information systems functions and infrastructure within Media Motive Barcelona. 
+As pioneer technical resource in our team you will be responsible for defining the technical strategy, provide organizational direction with regards to all internal technologies (production, decision support, productivity)
+You will create technology strategic plans and budgets with emphasis on cost/benefits analysis
+You’ll have to manage both in-house, and third party service providers and consultants.
+You will work closely with the marketing team to convert our ideas and designs into efficient scalable solutions. 
+We are looking for a leader with drive, proactivity and a strong will to make things happen. 
+you are the technical voice of Barcelona office and a corner stone to help us achieve our main goals : innovation, retention, data analysis. 
+Your personality :
+We are looking for someone resourcefull who won’t let a new situation disconcert him/her. 
+We would like to welcome a real team player who understands the business priorities and always create solutions that best serve the interests of the company. 
+
+Requirements : 
+BS or MS in Computer Science
+Fluent Spanish 
+Fluent in another language, either English or French. 
+5+ years of full-stack software development experience in Servers/Domains management, backend technologies (PHP, MYSQL, Wordpress) and frontend technologies (HTML5, CSS3, responsive design, javascript MV* frameworks). 
+Experience in mobile development would be a plus.
+Strong communication and leadership skills
+Startup experience is of essence
+Hands on experience coding products or services
+Familiarity with payments/transaction platforms – information security and compliance requirements (e.g. PCI compliance)
+Familiarity with SCRUM and Agile methodologies. 
+

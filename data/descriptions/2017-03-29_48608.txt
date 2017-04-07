@@ -1,0 +1,11 @@
+
+El futuro Científico de datos, formando parte del área especializada en Analytics de una importante consultora multinacional, desarrollará importantes proyectos de trasformación digital a partir de la obtención de grandes volúmenes de datos estructurados y no estructurados de clientes externos e internos de la compañía.
+FUNCIONES:
+•	Identificará las oportunidades de negocio a través del uso de la técnica basada en el análisis de datos, y las traducirá en términos de técnicas y métodos de la ciencia.
+•	Identificará las estrategias adecuadas para poder organizar, sintetizar y generar información que promoverá el cumplimiento de la estrategia.
+•	Promoverá el desarrollo de capacidades para liderar proyectos de análisis de datos dentro de la organización.
+•	Construirá modelos de datos y se asegurará de que la información que proporcione sea precisa y entendible.
+REQUISITOS:
+El candidato seleccionado deberá aportar una experiencia mínima de 5 años en desarrollo de modelos predictivos o en la implementación de algoritmos de análisis avanzado de datos, haber creado soluciones Big Data y de data mining. Además, deberá aportar experiencia en programación científica en R o equivalente (Python, C/C++, C#, Java Ruby, Shell Scripting), gobierno del dato, dirección y administración de proyectos y herramientas de Big Data (MapReduce, Hadoop, Hive...).
+En cuanto a formación, deberá de ser licenciado en una disciplina cuantitativa (Matemáticas, Física, Computación, Ingeniería), siendo deseable un postgrado de formación científica en estas disciplinas.
+

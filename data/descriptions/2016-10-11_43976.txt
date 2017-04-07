@@ -1,0 +1,26 @@
+
+Casi un siglo de experiencia en el mercado y un equipo de profesionales motivados e identificados con los objetivos y la filosofía de un sólido grupo familiar, avalan Grupo Romeu como líder en el sector de la Logística y Transporte Internacional. 
+Grupor Romeu cuenta co su propia empresa de desarrollo informático, Grupo Romeu Multiservices, para la que buscamos un consolidado profesional en programación.Net o C# que posea aptitudes de análisis y síntesis, iniciativa y habituado a trabajar en equipo.
+Desarrollador .NET/C#
+Metodologías ágiles para la gestión de proyectos (SCRUM, Kanban)
+Análisis de requisitos y documentación de proyectos/necesidades
+Amplia experiencia en entorno de desarrollo .NET/C#
+       Design Patterns , SOLID, DRY
+       Performance programming, Code optimization y escalabilidad
+       Web Services
+       WCF
+       API/JSON/RESTful
+       WebSockets
+       ASP.NET MVC
+       Entity Framework/Dapper
+       NuGet
+       TFS/TFSVC
+       Git
+Experiencia en BBDD SQL (Server SQL 2012 en adelante)
+Best Practices, Code Standards, Continuous Improvement
+CI, Testing (TDD, BDD, Unit testing)
+Proactividad, autonomía y trabajo en equipo
+Capacidad de análisis y pensamiento crítico
+Inglés (preferentemente)
+Experiencia mínima de 3 años
+

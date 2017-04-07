@@ -1,0 +1,30 @@
+
+Billy is the new kid on the block of the European start-up scene, with offices in Barcelona.
+We believe that mobile is revolutionizing the internet at an unprecedented speed and scale. Billy leverages its unique mobile DNA to develop profitable partnerships with key stakeholders in the mobile value chain. Billy is the right place for you to work if you want to help shape the world of the mobile internet.
+We are an advertising technology company empowering publishers to execute smart mobile ads monetization strategies. We currently reach more than 200 million users who use the platform to optimize their mobile ad revenues.
+Responsibilities
+•	Your main role will evolve developing web applications and mobile applications, as well as beautiful user interfaces and web pages
+•	You will take a significant role in front-end development
+•	You will be responsible for the maintenance of current projects and the creation of new ones.
+•	You will help the team to continuously improve the development process and to report progress and status to the stakeholders
+Technical Skills
+•	Experience with CSS and CSS preprocessors
+•	Proven track record working with JavaScript, beyond the use of frameworks or libraries
+•	Be up to date in FE development best practices
+•	Knowledge of Node.js and Grunt/gulp
+•	Basic management of design tools (Photoshop, Sketch…)
+•	Basic design and usability knowledge
+•	Able to manage Git
+•	Experience developing MV* Frameworks on JavaScript (AngularJS/Ember/Backbone…)
+•	Understanding of CSS handicaps and able to apply best practices to make it sustainable
+•	Be up to date in design trends (material design…)
+Soft skills
+•	Able to teach, learn and research
+•	Out of the box thinking
+•	A fun person to be around and all-around nice person
+•	Planning and Organizing skills
+•	A team player able to work with autonomy
+•	Creative thinking
+•	Curiosity and desire to learn about the wide range of topics around FE Development
+Come work with us! You will get a good look inside of the mobile industry and, if you like it, you can develop your career in this path with us! This position is a big challenge, since our product reaches millions of users a day. Come join our young, dynamic and fun team in sunny Barcelona.
+

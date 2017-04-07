@@ -1,0 +1,23 @@
+
+¿Por qué debes enviarnos tu candidatura?
+- Adquirirás experiencia en negocios de proyección internacional (Latinoamérica principalmente).
+- Adquirirás conocimientos en SEO.
+- Innovación tecnológica constante (Varnish, Lucene, Solr, Memcached...).
+- Los horarios de trabajo son razonables.
+- La empresa es financieramente sólida.
+Requisitos mínimos:
+- De 3 a 4 años de experiencia en desarrollo de aplicaciones web en lenguajes orientados a objetos.
+- Haber gestionado o participado en entornos de alto nive de tráfico (Min. 50K visitas/día).
+- Conocimientos avanzados de Php, Mysql y WS.
+- Experiencia y conocimientos sólidos arquitectura del software.
+- Conocimientos de diseño de bases de datos.
+- Conocimientos de Linux a nivel usuario avanzado.
+- Capacidad y voluntad de aprender y de enseñar.
+- Experiencia en gestión de versiones (SVN, Git etc.)
+- Visión orientada a negocio y desarrollo ágil.
+Requisitos deseados:
+- Experiencia con uno o más de los siguientes: Varnish, Solr, Symfony (v1.x y v2), Doctrine, PHPUnit, JQuery.
+- Conocimientos avanzados de mySQL (replicación, spatial extensions).
+- Experiencia en creación de aplicaciones web dirigidas a usuario final.
+- Conocimientos de Linux a nivel de administración.
+- Experiencia trabajando con metodologías ágiles.

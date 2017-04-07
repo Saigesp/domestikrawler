@@ -1,0 +1,7 @@
+
+Buscamos a un freelance con experiencia en el desarrollo de aplicaciones de realidad aumentada para iOS/Android bajo alguno de los frameworks de realidad aumentada disponibles como Metaio, Unity3d, Total Inmersion, ARToolKit, String, Qualcomm, IN2AR.
+Funciones:
+- Desarrollo de aplicaciones de realidad aumentada en dispositivos móviles.
+- Experiencia en geolocalización
+Valorable:
+- Conocimiento de modelado en 3D.

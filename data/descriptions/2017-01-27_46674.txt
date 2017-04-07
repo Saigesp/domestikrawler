@@ -1,0 +1,43 @@
+
+Descripción del empleo
+Seleccionamos Desarrollador Web Full Stack (Front – Back - Sistemas) con experiencia mínima de 3 años en el desarrollo de websites utilizando tecnologías LAMP, en particular PHP con orientación a objetos MVC.
+Tus principales tareas se centrarán en el desarrollo de nuevas funcionalidades y mantenimiento de nuestro portal turísticos, motor de reservas, plataforma de email marketing y ecommerce.
+Sobre ti:
+•	Sólidos conocimientos en PHP, AJAX, jQuery, JavaScript (Jquery), MySQL, HTML5, CSS3.
+•	Experiencia de uso de repositorios GIT, Composer.
+•	Conocimientos medios/altos en administración de sistemas y servidores Linux.
+•	Valoramos positivamente experiencia en:
+o	Patrones de Diseño: Singleton, Factory, etc.
+o	Uso de sistemas de integración contínua: Jenkins, Bamboo, GoCD, etc.
+o	Uso de sistemas de control de tareas y documentación: Jira, Confluence, etc.
+o	Frameworks: Codeigniter, Laravel, etc. y framework CSS tipo Bootstrap.
+o	CMS/Ecommerce: Wordpress (sobre Bedrock), Magento o Prestashop.
+o	Preprocesadores de CSS (SASS, LESS)
+•	Programar es tu vocación y tu obsesión.
+•	Eres autodidacta del aprendizaje técnico con libros y blogs.
+•	Eres una persona con autonomía, analítica y resolutiva.
+•	Estás acostumbrado a trabajar en equipo y a sonreír (sí, sonreímos mucho) 
+•	Has programado o desarrollado sites de alto tráfico en plataformas LAMP.
+•	Te obsesiona la calidad del código y la importancia de tener un site optimizado, escalable y rápido.
+Te encargarás de:
+•	Desarrollar nuevos módulos, y su mantenimiento.
+•	Optimizar el código existente para aumentar la velocidad de carga. 
+•	Análisis y propuesta de la plataforma.
+•	Definir junto con el CTO y Directiva los nuevos requerimientos para los proyectos que desarrollarás.
+•	Implementar nuevas tecnologías, proponer nuevas ideas (que serán tomadas en cuenta, que todos tenemos mucho que aportar)
+Experiencia y aptitudes deseadas
+•	3 años de experiencia trabajando en PHP o tecnología LAMP. (O que tengas 1 pero seas un crack)
+•	Experiencia en desarrollo de backend o frontend.
+•	Actitud proactiva, apasionado de la tecnología, trabajo en equipo, motivación.
+•	Agilidad, curiosidad y constante búsqueda de nuevos recursos.
+Ofrecemos:
+•	Entorno laboral muy agradable, equipo joven con experiencia y en pleno crecimiento. 
+•	En unas oficinas impresionantes y una ubicación perfecta.
+•	Código de vestimenta informal. (Que somos desarrolladores!)
+•	Jornada laboral: Tiempo completo.
+•	Horario: 09:00 a 14:30 y de 15:30 a 18:30 de Lunes a Jueves, Viernes hasta las 15:00h
+Descripción de la empresa
+Con más de 14 años de experiencia en marketing y comunicación, nos hemos especializado en ámbitos del marketing online, la programación, el diseño y las estrategias de comunicación, siempre al servicio del cliente. 
+Trabajamos con empresas e instituciones que nos han aportado su experiencia y a las que hemos ayudado a mejorar sus resultados en Internet. GMK Unlimited es una empresa basada en la capacidad de ofrecer un servicio de entrega en marketing acorde con las necesidades de nuestros clientes. 
+Queremos ofrecerle un servicio de desarrollo en programación y marketing que le proporcione resultados eficaces a la hora de posicionar su presencia y su comunicación inmediata. Desde el principio apostamos por el desarrollo web y el email marketing, para lograr las mejores ventajas y potenciar su producto o servicio al mejor precio. 
+

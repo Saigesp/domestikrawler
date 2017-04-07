@@ -1,0 +1,8 @@
+
+Buscamos una persona capaz de crear plantillas de papepelería (hoja de carta, sobres...) en Word 2013&2016.
+Necesitamos realizar plantillas de Word 2013 & 2016 de papelería para un cliente. Se trata por ejemplo de hojas de carta en las que hay contenido editable y otro fijo y bloqueado para que no se pueda mover ni variar.
+La parte de texto que será editable debe tener predefinida una tipografía, un tamaño y una interlínea concreta pero no debe poder moverse por el papel libremente. Debe ser una caja bloqueada. Una vez se complete la primera hoja debe abrirse una segunda página de manera automática donde el usuario pueda seguir escribiendo.
+Estas cosillas.
+Si te ves capaz llámanos y hablamos del precio y las condiciones.
+Un saludo.
+

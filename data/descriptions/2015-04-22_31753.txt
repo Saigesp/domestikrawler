@@ -1,0 +1,9 @@
+
+Para la creación de un software 3D necesitamos un programador que resuelva la interface
+y desarrollo del software para una posterior aplicación en: web / tablets / smartphone.
+A modo de orientación buscamos esto:
+ http://www.pocoyo.com/pocoyize
+Modelos propios en 3D que el usuario pueda componer mediante plantillas,
+crear un personaje y enviarlo e imprimir en modo remoto.
+Gracias.
+

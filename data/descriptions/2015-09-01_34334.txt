@@ -1,0 +1,21 @@
+
+Buscamos un freelance a jornada completa en la empresa Desigual.
+Duración: indefinida. A partir de septiembre/octubre. 
+Jornada: presencial en oficinas, completa 8 horas.
+Las tareas serán principalmente desarrollo de aplicaciones web/web mobile con los frameworks angular js y .net (web api, entity framework, Linq)
+La experiencia que requerimos es de al menos 1 año con javascript o .net y/o que tengas un perfil junior/senior. 
+Cualidades muy valoradas:
+- Ilusión por aprender e investigar. 
+- Persona dinámica y resolutiva.
+Conocimientos necesarios: 
+- Javascript: AngularJS y/o .net.
+- Conocimientos de bases de datos
+Se valorará: 
+- GIT. 
+- Node js
+- Sql server
+- Entity Framework
+Experiencia: 
+- Experiencia en Trabajos similares de 1 a 5 años. 
+¿Qué aportamos nosotros?
+Proyectos innovadores, investigación continua y buen ambiente.

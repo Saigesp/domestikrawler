@@ -1,0 +1,7 @@
+
+Quantion es la empresa especializada en estrategia y tecnología para las empresas del futuro. En plena Era Digital acompañamos a las empresas y organizaciones en la transformación digital de sus procesos de negocio.
+Nos caracterizamos por nuestro ADN digital, la ilusión por nuevos retos y porque todos nuestros proyectos consisten en aportar la innovación tecnológica que necesitan nuestros clientes. En Quantion te ofrecemos la posibilidad de desarrollarte tanto profesional como personalmente en un ambiente dinámico, creativo y tecnológico.
+Buscamos incorporar un desarrollador/a freelance con experiencia en:
+- ASP.NET, HTML, CSS, Javascript y XSLT
+- Se valorarán conocimientos sobre herramientas de calidad, test y deploy sobre plataforma SharePoint.
+Duración: 9 semanas (posible ampliación) / 40h semanales

@@ -1,0 +1,42 @@
+
+EGA CONSULTORES busca para importante empresa del sector tecnológico, analistas funcionales java para importante proyecto en Madrid.
+Competencias obligatorias: Java, Html, SQL 
+Imprescindible Francés tanto hablado como escrito.
+Las tareas que realizarían son : 
+Ø  Tiene la responsabilidad , de manera general de las tareas siguientes :
+
+Ø  Verificar que el rendimiento de la aplicación se mantiene a un nivel deseado
+Ø   Hacer evolucionar la aplicación frente a los cambios de modo de funcionamiento y para mejorar su impacto sobre el rendimiento. recoger, sintetizar y priorizar la necesidad de las evoluciones.
+Ø   Asegurar el control de utilización de la aplicación, el respeto de las normas y procedimientos…
+Ø   Vigilar el buen funcionamiento de la aplicación, la buena utilización por los usuarios y su buen nivel de competencia
+Ø  Verificar la coherencia y la integridad de los datos manipulados, la fiabilidad de los resultados
+Ø        Animar al equipo de los  POA ( Usuario en las filiales )
+Ø   Asegurar la asistencia funcional.
+Ø   Mantener y poner a disposición el manual de usuario.
+Ø  Contribuye a la estimación de cargas de las evoluciones.
+
+Ø  Tiene la responsabilidad , para el proyecto, de la organización y la ejecución de las tareas siguientes :
+
+Ø  Descripción detallada de necesidades
+Ø  Identificación, evaluación y proposición de soluciones funcionales que responden a las necesidades expresadas.
+Ø  Especificación de test de validación funcional y su realización para validación
+Ø  Diagnóstico del acompañamiento al cambio necesario y su realización ( comunicación, formación, acciones de proximidad, asistencia al arranque)
+Ø  Redacción del manual de usuario
+Ø  Dependencia directa del Responsable de Proyecto
+Ø  Seguimiento de planning de realizacion
+
+Ø  Tiene la responsabilidad , para las aplicaciones en vida corriente de las tareas siguientes
+
+Ø  Dependecia directa del Responsable Vida Corriente
+Ø  Interlocutor directo de los Responsables Back-Office en Argentine
+Ø   Asistencia funcional 1er nivel a los usuarios  (POA) de las filiales comerciales
+Ø   Creacion de anomalias en los utiles de seguimiento (SDI, JIRA, …..)
+Ø   Asistencia a la validación de los usuarios
+Ø   Control del ciclo de vida de los incidentes y anomalias
+Ø   Formacion de los usuarios
+Ø   Escritura de especificaciones funcionales de las evoluciones urgente/bloqueantes
+Ø   Escritura plan de test
+Ø   Priorizacion de la correccion de incidencias
+Ø   Gestion del portafolios de evoluciones
+Ø  Busqueda de optimizacion de modos de funcionamiento vida corriente
+Ø  Realización de puntos periodicos de seguimiento con el POA

@@ -1,0 +1,50 @@
+
+Qué buscamos
+Un desarrollador full-stack con buena base en front-end, con ganas de unirse al equipo de tecnología de Reclamador. Alguien con inquietud, que sepa trabajar en equipo y sienta gusto por lo que hace.
+Qué ofrecemos
+Construimos nuestro producto con todas las áreas involucradas muy entrelazadas: sistemas, ux/interacción, analítica, marketing, comunicación y negocio. Trabajamos en un entorno distendido, aspirando a un alto nivel de profesionalidad y fomentando la responsabilidad individual.
+Qué esperamos de ti
+
+Experiencia en integraciones (web apps, servicios, API)
+3+ años de experiencia como desarrollador front-end manejando html, css, javascript
+
+Experiencia en desarrollo en Django o similar
+
+Experiencia con librerías tipo: jQuery, Backbone, Ember, Angular…
+
+Experiencia en desarrollo para móviles
+
+Desarrollo cross-browser
+
+Inquietud por nuevas tecnologías y capacidad para incorporarlas a nuestro stack
+
+
+Valoramos muy bien
+
+ Conocimientos de testing
+
+ Criterio estético y conceptual
+
+ Que seas un persona que quiera tomar un rol proactivo, participando positivamente en las decisiones diarias
+
+
+Además
+
+En reclamador encontrarás un equipo jóven, dinámico, con buen ambiente y una fantástica terraza donde disfrutar de unas cañas algunas tardes después del trabajo.
+
+ Sesión TechFridays cada viernes para aprender alguna tecnología o metodología más allá del trabajo del día a día 
+
+Jornada intensiva los viernes 9-15h
+
+Nuestro stack abarca tecnologías como Django, PostgreSQL, Angular, Ansible, y bastantes más que vamos incorporando
+
+
+Nuestro proceso de selección es de lo más amigable
+
+ Si tu currículum encaja con lo que estamos buscando, nos pondremos en contacto contigo.
+
+ Tendremos una entrevista personal para ver si nos entendemos.
+
+ Si ambas partes estamos de acuerdo en los detalles, comenzarás a formar parte de la familia de reclamador
+
+

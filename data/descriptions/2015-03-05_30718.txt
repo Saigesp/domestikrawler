@@ -1,0 +1,22 @@
+
+Buscamos a un desarrollador/a Senior Frontend, con un alto nivel de JavaScript y experiencia tanto en NodeJS como en PhoneGap / Cordova para unirse al equipo de trabajo de una startup del mundo financiero en un proyecto de tres meses de duración con posibilidad de ampliar éste período.
+Los requisitos son :
+
+- Javascript avanzado ( minimo 2 - 3 años )
+- HTML5 + CSS3
+- Nivel medio / alto en AngularJS
+- Experiencia en desarrollos tanto para escritorio como para móviles y tablets.
+- Experiencia en Phongap / Cordova
+- Experiencia en NodeJS
+- Experiencia en el uso de servicios API REST
+- Experiencia en Git
+
+Se valorara muy positivamente:
+ - Experiencia en Parse.com
+- Experiencia  con preprocesadores CSS (Less, Sass...)
+- Experiencia en metodologías de trabajo ágiles ( SCRUM, Kanban )
+- Capacidad para desarrollar proyectos en su totalidad.
+- Persona proactiva y con ganas de aprender.
+
+El trabajo se realizara tanto a distancia como de manera presencial en Madrid y sueldo estará alrededor de 2.000 € mensuales.
+

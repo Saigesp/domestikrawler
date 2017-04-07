@@ -1,0 +1,27 @@
+
+Buscamos para el dpto. de desarrollo un Programador Senior apasionado de la programación web, con buena base tecnológica  y amplia experiencia y conocimientos en PHP, JS, HTML y MySQL.
+Funciones:  Trasladar las especificaciones técnicas a código ejecutable / Ejecutar, depurar y mantener el código fuente del proyecto asignado /Ejecutar y proponer alternativas técnicas para resolver problemas e incidencias tecnológicas planteadas y efectuar pruebas para detectar no conformidades.
+ 
+Requisitos mínimos
+    Ingeniería superior/técnica en informática o Grado Superior FP dependiendo de la experiencia. 
+    Experiencia mínima demostrable:
+        3 años en desarrollo y programación Web Backend (PHP y JS).
+        3 años en maquetación Web (HTML, JQUERY, CSS RESPONSIVE).
+        3 años de experiencia en el manejo de modelo de datos ( MySQL, SQLSERVER, PARTGRESQL).
+        Dominio de gestores de contenido (Wordpress, Prestashop,… ) y programación.
+        Evaluación y propuesta de alternativas técnicas para resolver problemas e incidencias tecnológicas planteadas.
+         Imprescindible buena capacidad analítica y proactividad a la hora de plantear soluciones y resolver incidencias típicas. 
+        Disponibilidad para trabajar en A Coruña e incorporación rápida. 
+
+    Requisitos valorables:
+        Se valorará positivamente experiencia en desarrollos en otros CMS (Drupal, Magento, etc) y conocimientos de algunas de estas tecnologías ASP.net, NodeJS, MongoDB.
+        Conocimientos de marketing online en consultorías SEO, usabilidad y analítica web.
+        Conocimientos de herramientas digitales utilizadas en marketing online (Google Analytics, Google Adwords, etc…).
+        Persona proactiva, organizada, analítica, apasionada por su trabajo y con ganas de crecer profesionalmente.
+ 
+    Qué ofrecemos
+
+        Excelente ambiente laboral, joven y dinámico, que potencia el crecimiento profesional con perfiles con gran expertise en programación. 
+        Formación y adquisición de conocimientos en el área de programación de proyectos.
+        Posibilidades de promoción interna y desarrollo profesional hacia carreras de consultoría y/o de proyectos.
+        Retribución económica acorde con valía y experiencia acreditada. 

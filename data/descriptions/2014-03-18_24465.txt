@@ -1,0 +1,19 @@
+
+About the company:
+We are an online growing start up based in Barcelona. Currently, we are building a team of motivated people to grow within the company and help develop their respective departments. 
+Job description:
+We are looking for a Senior Programmer who is responsible, punctual and hard working person with core programming and online web development skills. Currently we are working on several major redesigns to our front end and back end. We wish to add account logins and many enhancing features to the site. We need to begin integrating e-commerce. We need you to rebuild the back end CRM system for a multi lingual platform to enhance sales. Front and back end project manager.
+You must be fast working and experienced in core programming. Responsible & passionate worker.
+Requirements:
+- Experience 2-5 years leading and managing teams in a programming department. 
+- Fluent in English. 
+- Programmer in all programming aspects (PHP/MySQL)
+- Able to advise on future best practice and write WEB Development business plans 
+- Knowledge of jQuery, HTML and CSS
+- Knowledge of PHP/MySQL
+- Knowledge of Joomla  and e-commerce platforms.
+- Administration knowledge is a plus
+Desired Skills and experience:
+- Great communication skills 
+- Fluency in english – Spanish is a plus  
+Salary subject to experience. 

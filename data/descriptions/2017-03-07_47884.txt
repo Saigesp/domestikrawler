@@ -1,0 +1,26 @@
+
+REQUISITOS:
+•	Dominio en el desarrollo de banners, sobre todo HTML5, también Rich-Media.
+•	Una persona con conocimientos avanzados de JavaScript, CSS, HTML, jQuery, PHP
+•	Dominio landing pages, emailing, etc.
+•	Conocimientos en UX, PHP, Wordpress o Node.js.
+•	Experiencia trabajando con plataformas de Ad-Serving (Weborama, DoubleClick, Syzmek, Flashtalking... ).
+•	Experiencia en creación de microsites.
+•	Conocimientos SEO.
+•	Experiencia en desarrollo y testing para múltiples navegadores y dispositivos.
+Actitud proactiva y mentalidad creativa.
+Capacidad para trabajar en equipo y bajo dirección.
+Capacidad de afrontar retos y encontrar soluciones a problemas dentro del entorno web.
+Persona muy detallista, organizada y resolutiva.
+DESEABLE:
+•	Photoshop, Illustrator, Indesign
+•	Nociones de back-end. Saber gestionarlo en caso de ser necesario.
+•	Sass,  Codeigniter, SQL, ActionScript 3, C#, OpenCV, OpenFrameworks, XNA, 
+•	Desarrollo de aplicaciones iOS y Android.
+•	Frameworks.
+Sus responsabilidades dentro del equipo serán:
+Definir la arquitectura frontend que mejor se adapte a los proyectos, tanto por funcionalidad como por rendimiento o mantenibilidad.
+Colaborar con el equipo de Diseño en la definición e implementación de la solución técnica escogida.
+Asegurar el cumplimiento de las buenas prácticas de usabilidad, calidad y rendimiento.
+Cuidar la máxima calidad en la visualización y los pequeños detalles. Buscamos una persona muy detallista y organizada.
+

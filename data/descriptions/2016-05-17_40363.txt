@@ -1,0 +1,8 @@
+
+EBS is the largest and most professional bar school in the world. With over 21 Schools in 15 different countries and 4 continents, from Europe over Asia and Australia, we educate and recruit bartenders from all over the world. We also work closely together with respected brands in the global industry to ensure constant development and career opportunities for our students across the globe.
+As a growing, international company, currently experiencing high levels of continuing growth, we seek a Django Developer to join our growing marketing team; you will be responsible for developing a new website in Django. The website is currently in UX, wireframe stage and will be soon ready to be developed. Additionally, once this website has finished, their is a strong possibility to extend the contract and work on our booking engine, and back office, which is also in Django.
+You'll find more information at www.barschool.net
+We require a midweight developer with an expert knowledge of Python and Django (2/4 years experience)
+Ideally, you will have front-end (i.e. full-stack) skills.
+Ideally, a 6 month contract is on offer, but will consider permanent and contract applications. Offsite applications can apply but regular meetings must be made in Barcelona.
+

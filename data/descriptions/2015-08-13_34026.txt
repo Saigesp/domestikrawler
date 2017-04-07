@@ -1,0 +1,16 @@
+
+REQUISITOS:
+Nivel alto en programación con PHP y JavaScript
+Dominio de BBDD (MySQL, ...)
+Experiencia con algún framework MVC en PHP (Symphony, Laravel, CodeIgniter, ...)
+Uso de librerías y frameworks Javascript/CSS (JQuery, AngularJS, Bootstrap, ...)
+Valorable experiencia con sistema de control de versiones 
+Conocimiento avanzado en CMS: wordpress y prestashop
+SE OFRECE:
+Incorporación en septiembre
+Trabajo estable en el noroeste de Madrid
+Jornada laboral de lunes a jueves de 9:30 a 18.00 y viernes 9:30 a 15:00
+Jornada intensiva en verano 
+Muy buen ambiente de trabajo en un entorno diferente y relajado
+CONTRATO Y SUELDO:
+A negociar

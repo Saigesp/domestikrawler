@@ -1,0 +1,25 @@
+
+En Melt Group, en estos momentos estamos buscando un desarrollador Front-end para un estudio de comunicación y nuevos medios en Valencia, el estudio está formado por un equipo joven y multidisciplinar que comparte una pasión conjunta por el diseño, la tecnología y las buenas ideas. 
+Requisitos:
+•	Conocimientos en HTML5, CSS3 y JavaScript.
+•	Conocimiento en jQuery y Bootstrap.
+•	Control de versiones GIT.
+A nivel de Front-end se valorará también:
+
+•	Conocimientos de Angular y/o React.
+•	Dominio de AJAX y librerías.
+•	WebGL / three.js
+•	Conocimiento en diseño web, UX / UI.
+Otros conocimientos que también tendremos en cuenta aunque no son específicos del perfil:
+•	Conocimiento en PHP y MySQL para el desarrollo de aplicaciones web.
+•	Conocimiento de framework Symphony 2.
+•	Nivel avanzado en uso y personalización del CMS WordPress:
+•	Modificación de plugins existentes.
+•	Creación de plugins nuevos.
+•	Maquetación de plantillas totalmente personalizadas.
+•	Experiencia con Magento y desarrollo web de comercio electrónico.
+•	Experiencia en desarrollo de aplicaciones móviles (iOS y Android).
+•	Amazon AWS.
+Sobre todo buscamos una persona con capacidad para resolver problemas independientemente del lenguaje, framework o requerimientos que planteemos. Alguien proactivo, metódico, con muchas ganas de trabajar y de integrarse en nuestro equipo de desarrollo.
+Ofrecemos posibilidad de Horario: Media Jornada / Jornada Completa
+

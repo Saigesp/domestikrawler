@@ -1,0 +1,14 @@
+
+En Aluxion nos dedicamos íntegramente al diseño y desarrollo de apps, por lo que buscamos especialización en este sector.
+Los requisitos para los candidatos son:
+    - Experiencia demostrable en diseño mobile.
+    - Conocimientos de diseño multiplataforma (iOS y Android). 
+    - Conocimiento de definición de arquitecturas de información, diseño de interacción y elaboración de wireframes o prototipos. 
+    - Dominio de Sketch, aunque se valorará también el dominio de la Suite de Adobe. 
+    - Estar familiarizado con herramientas de prototipado (Axure, Balsamiq Mockups, etc.)
+    - Portfolio con trabajos realizados. 
+También valoramos:
+    - Persona muy proactiva, con iniciativa, analítica, creativa y con una especial atención por los detalles. 
+    - Capacidad para trabajar en equipos multidisciplinares. 
+    - Conocer metodologías ágiles como SCRUM. 
+    - Estar familiarizado con herramientas de gestión de proyectos.

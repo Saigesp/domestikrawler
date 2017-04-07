@@ -1,0 +1,3 @@
+
+El proyecto consiste en la revisión del diseño del interfaz gráfico de una app de libros interactivos infantiles para iPad. Tras analizar la demo de la aplicación, se realizará un informe señalando las mejoras o cambios a realizar, pero estas modificaciones no serán implementadas por parte del profesional contratado. Su labor será meramente de auditoría y análisis. 
+Buscamos un profesional freelance con experiencia demostrable en la realización de proyectos de diseño de interfaz de aplicaciones de entorno iOS (preferiblemente para iPad), así como amplios conocimientos de las normas de diseño que Apple exige para las aplicaciones que se publiquen en su App Store.

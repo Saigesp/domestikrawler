@@ -1,0 +1,30 @@
+
+En concreto, buscamos a alguien con las siguientes cualidades:
+
+Perfil Android:
+Amplia experiencia en el desarrollo móvil Android (se valorará disponer de una o varias apps en la Play Store)
+Manejo de las herramientas de desarrollo de Android: Java, SDK, Android Studio, Gradle, etc...
+Experiencia en el uso de APIs cómo Google Maps, GCM...
+Experiencia en conexión con servicios HTTP, REST, SOAP mediante uso de JSON, XML, etc...
+Experiencia en el uso de herramientas de gestión de versiones, especialmente GIT
+Experiencia en uso de herramientas de organización y comunicación como Slack, Trello, etc...
+Se valorará el conocimiento en desarrollo iOS y multiplataforma mediante herramientas como Unity, Corona, Xamarin, PhoneGap...
+Se valorará el disponer de un nivel medio-alto de inglés
+Perfil iOS:
+Desarrollo con iOS
+Experiencia demostrable desarrollando con Objetive-C y Swift
+Conocimientos de patrones de diseño IOS
+Desarrollo para diferentes plataformas: iPhone, iPad, iWatch
+Desarrollo con CoreAnimation, CALayer, CoreGraphics, QuartzCore, etc...
+Metodologías Ágiles
+* Inglés alto (valorable)
+¿Qué ofrecemos?
+Contrato indefinido
+Incorporación inmediata
+Ambiente productivo y joven
+Amplia capacidad de crecimiento dentro de la empresa
+Salario: 23.000 - 25.000€ brutos anuales.
+Número de vacantes: 2
+Trabajo presencial en la oficina.
+Lugar de trabajo: Las Rozas (Madrid)
+Recomendable que viviera por la zona noroeste.

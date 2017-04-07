@@ -1,0 +1,10 @@
+
+Aratech es una Start Up tecnológica, cuyas oficinas centrales se encuentran en Madrid, centrada en el desarrollo de servicios Cloud y aplicaciones móviles.
+Buscamos profesionales que quieran desarrollar una carrera profesional dentro del sector de las tecnologías de la información en nuestras nuevas oficinas de Santiago de Compostela.
+El candidato desarrollará servicios cloud y software para entornos web bajo el lenguaje de programación PHP sobre Bases de Datos MongoDB/MySQL.
+- Experiencia mínima de un año en desarrollo con PHP.
+- Experiencia mínima de un año en BBDD MongoDB y MySQL.
+- Conocimientos de CSS3 y HTML5.
+- Se valorará experiencia con Bootstrap
+- Se valorará experiencia en proyectos web y proyectos UX.
+Contrato de un año con posibilidad de contrato indefinido acabado el mismo.

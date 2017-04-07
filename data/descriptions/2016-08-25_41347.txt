@@ -1,0 +1,9 @@
+
+Somos LECOATÍ, una empresa de desarrollo de aplicaciones web en plena expansión tras ser recientemente adquirida por la compañía danesa Novicell. Nos apasiona la tecnología, tenemos un equipo joven, multidisciplinario y muy comprometido. Trabajamos en un ambiente sano y relajado.
+Si te gusta la innovación tecnológica y el mundo del desarrollo web, si sientes la necesidad de aprender, descubrir e investigar las últimas novedades del sector, esta es tu oportunidad para unirte a nuestro equipo y refinar tu talento.
+Tendrás compañeros de trabajo en Barcelona, Madrid, Londres, Aarhus y Copenhague con los que hablarás regularmente en persona, por chat y videoconferencia, motivo por el cual es importante que hables inglés o que estés seriamente interesado en mejorarlo.
+Las tecnologías y frameworks de front que usarás son principalmente AngularJS, Gulp y Sass y Bootstrapp. También Grunt, Less, Foundation, jQuery y Ionic. HTML5 y CSS3 por descontado.
+En LECOATÍ trabajarás junto con desarrolladores backend, diseñadores, project managers y también con clientes en la elaboración de los proyectos web. Estarás involucrado en el análisis, planificación y ejecución de los proyectos. 
+Requisitos: Experiencia mínima de 3 años en desarrollo de aplicaciones con las tecnologías y metodologías descritas arriba.
+Duración del contrato: 6 meses + 6 meses + Fijo
+Remuneración: 30.000 - 34.000 € / bruto anual

@@ -1,0 +1,14 @@
+
+Taiger es una empresa especializada en inteligencia artificial con un enfoque internacional y dinámico. 
+Buscamos a un desarrollador con posibilidades de facturar para un proyecto puntual.
+La persona deberá ser capaz de desarrollar un producto con las siguientes características:
+- Desarrollo nativo en Android/iOS
+- Compatibilidad con iOS 7 y superiores
+- Compatibilidad con Android 4 y superiores
+ - Responsive Layout
+- Incorporación de Speech-to-text and text-to-speech.
+- Aplicación Multimodal: la aplicación entiende voz/escrito/pulsado de opciones
+- Integración con servicios REST para realizar las consultas a un sistema inteligente.
+- El sistema puede responder con texto/imágenes/HTML y/o con opciones que debe seleccionar el usuario.
+Además, deberá ser capaz de desarrollar documentación en inglés.
+

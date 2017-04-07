@@ -1,0 +1,17 @@
+
+Sportmaniacs es una plataforma de inscripciones, clasificaciones, clasificaciones en tiempo real, fotos, planes de entrenamiento y mucho más… Nuestro sector es el de las carreras de atletismo, ciclismo y triatlón. Junto con nuestro sistema de cronometraje, Timing Sense, lo convierten en una opción perfecta para cronometradores,organizadores y deportistas.
+Somos un equipo pequeño pero potente y muy bien avenido con ganas de hacer grandes cosas. Hemos desarrollado nuestro propio hardware, sistema de cronometraje, y la plataforma sportmaniacs.com y las aplicaciones móviles. 
+Estamos buscando un desarrollador Senior en Javascript que lleve a cabo toda la parte de planes de entrenamiento y la parte social.
+Buscamos:
+- Javascript: 3 años de experiencia.
+- Programación de código legible, re­utilizable y mantenible (Filosofía clean code)
+Valoramos:
+- Experiencia en AngularJs.
+- Experiencia trabajando con metodologías ágiles (SCRUM).
+- Desarrollo orientado a pruebas TDD.
+- Conocimientos de UX.
+- ­Experiencia en uso de control de versiones (Git).
+- Experiencia en HTML5/CSS3.
+- Experiencia en el desarrollo de APIs REST.
+- Conocimientos de diseño.
+- Node.js

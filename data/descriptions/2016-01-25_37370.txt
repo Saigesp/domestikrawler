@@ -1,0 +1,19 @@
+
+Requisitos mínimos 
+- Conocimiento y amplia experiencia en implantación y desarrollo de  Wordpress/woocommerce. Experiencia tanto en configuración como desarrollo sobre estas plataformas 
+- Amplia experiencia profesional en análisis, diseño y programación, preferiblemente en PHP y MySQL
+- Amplia experiencia en programación en JavaScript. Dominio de Javascript  y Ajax : JQuery, jQuery Mobile, etc
+- Amplia experiencia y solvencia en el Análisis y Diseño orientado a objetos. Modelado de BBDD
+- Experiencia profesional en el desarrollo de aplicaciones nativas para sistema operativo Android
+- Se valorará especialmente experiencia en el desarrollo de aplicaciones nativas iOS y HTML5 (Apache Córdova/Phonegap, jQuery Mobile)
+Se valorará:
+-Experiencia profesional en la propuesta, diseño y construcción de soluciones web (gestión, portales, integración de sistemas, comercio electrónico, etc.) y desarrollos a medida
+-Experiencia en la redacción de propuestas técnicas para clientes: recogida de requisitos, definición funcional y de interfaz de usuario y diseño de arquitectura técnica. Experiencia en estimación de esfuerzo y coste
+-Experiencia con frameworks de desarrollo Preferiblemente en PHP: Yii, Symfony, etc
+- Subversion, CVS, Git
+- Experiencia y conocimientos de SOA, servicios web y XML. Integración de aplicaciones con sistemas de backend (HTTP, TCP/IP, REST)
+- Conocimientos de Administración de Sistemas y arquitectura avanzada de soluciones web. Linux, Apache, Tomcat, nginx, JBoss, Varnish, Squid, hearbeat
+- Conocimientos de desarrollo para otras plataformas móviles: Windows Phone, Blackberry, etc
+- Conocimiento de las normas de accesibilidad WAI. Dominio de XHTML y CSS
+- Conocimientos de desarrollo de realidad aumentada
+

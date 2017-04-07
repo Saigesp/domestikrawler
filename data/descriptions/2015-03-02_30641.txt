@@ -1,0 +1,3 @@
+
+Buscamos programador freelance con experiencia demostrable en PHP, Symfony y MongoDB para desarrollar una aplicación web a medida. Se trata de un catálogo on-line de un sector específico.
+Se busca una persona que pueda integrarse a la máxima brevedad posible en el grupo de desarrollo (el proyecto está ya en fase de análisis). Trabajará bajo la supervisión de nuestros responsables de programación y diseño durante un periodo aproximado de 5 meses. El trabajo puede realizarse a distancia, aunque se valorará positivamente la posibilidad de trabajar en nuestras instalaciones.

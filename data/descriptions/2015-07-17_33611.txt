@@ -1,0 +1,18 @@
+
+We’re looking for an experienced PHP developer with great knowledge of Laravel to join our development team for a digital service we have created with the biggest company in the music industry.
+You will create and continue work on REST API:s powering multiple web applications, making sure that it is always a scalable, optimized and performant platform. You will integrate external API:s and services (e g payment service providers such as Adyen).
+Oakwood Creative Digital Agency is full service marketing agency from Stockholm, Sweden. We’ve chosen Barcelona for our first satellite office for a number of reason, with the most obvious one being: the talent available there!
+This is an exciting opportunity to join and contribute to a renowned digital agency. As one of the first people you will help shape the agency and your own work environment. We hope to have 2-4 people in Barcelona with 1-2 from the Stockholm office on location during the initial period.
+We expect you to have:
+- Expert PHP skills
+- Professional web development experience
+- A lot of experience with Laravel
+- Good English skills
+ 
+We hope you have experience with:
+Unit testing, package manager like Composer, version control using Git, running virtual environments and perhaps (fingers crossed) Unix.
+ 
+We, also, hope that you:
+- Are passionate about Open Source
+- Are active within the developer community
+- Have a GitHub account filled with fun stuff

@@ -1,0 +1,28 @@
+
+Desde Igualdad Animal buscamos para nuestra oficina principal en el centro de Madrid, contratar un programador para desarrollar las siguientes responsabilidades:
+Responsabilidades:
+- Programación de sitios web basados en Sistemas de Gestión de Contenidos (CMS)
+- Mantenimiento y desarrollo de páginas web ya existentes
+- Asistencia técnica de sistemas de atención al cliente (CRM) y la integración en procesos de trabajos existentes
+- Mejora del proceso de trabajo
+- Administración de servidores Linux
+Requisitos:
+- Conocimientos del lenguaje de programación PHP, JavaScript, JQuery, Bootstrap, así como de HTML y SASS/CSS3
+- Experiencia con sistemas de control de versiones, preferiblemente Git
+- Experiencia con bases de datos MySQL/MariaDB
+- Manejo de CMS como Wordpress
+- Experiencia en maquetación web y diseño responsive
+- Inglés (nivel alto hablado y escrito)
+- Desarrollo con varias API (Mailchimp, Salesforce, etc.)
+- Alta atención al detalle
+- Capacidad de trabajar con equipos internacionales
+- Capacidad de trabajar de forma independiente
+- Capacidad de aprendizaje
+- Identificación con los objetivos de Igualdad Animal
+Ofrecemos:
+- La posibilidad de contribuir con la defensa de los animales
+- Conocer una organización internacional dinámica y en crecimiento
+- Un trabajo muy variado en un ambiente agradable
+- Contrato a jornada completa
+- Duración 3 meses (prorrogables)
+- Retribución acorde a experiencia y perfil profesional

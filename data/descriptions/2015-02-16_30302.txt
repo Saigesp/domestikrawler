@@ -1,0 +1,9 @@
+
+We are currently looking to add highly skilled and experienced programmers & web designers to our team in Palma de Mallorca. 
+The developers and web designers need to have a high command of English and willing to work with the development of our websites: zaptv.com, zaptv.co.uk, zapgossip.com and tvguide.dk
+Our site http://www.tvguide.dk/ has already been developed however we are looking to update the design and content to complete the final touches for its re-launch.
+Our following sites have been released in BETA:
+ http://m.tvguide.dk/ mobile web app for www.tvguide.dk
+We are looking for candidates that work well within in a team as well as independently and available to start immediately.
+We need full time programmers only, working in the day time, GMT 9am - 5pm or at least very close to these hours.
+The techs:  PHP, Zend Framework, MVC, HTML5, CSS3 etc..

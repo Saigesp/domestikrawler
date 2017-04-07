@@ -1,0 +1,10 @@
+
+- Experto en desarrollo front-end en HTML5, CSS3 y librerías JavaScript. (valoraremos LESS y SASS)
+- Experiencia con framework Bootstrap y similares. 
+- Experiencia en Responsive design y Adaptative design, creación de versiones web para móviles.
+- Conocimiento y experiencia en diseño UI/UX.
+- Trabajarás conjuntamente con nuestros desarrolladores.
+- Experiencia en Git.
+-Conocimientos básicos de SEO.
+-Valorable experiencia con plantillas de django
+Trabajo a media jornada.

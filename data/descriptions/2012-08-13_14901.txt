@@ -1,0 +1,2 @@
+
+Necesitamos cubrir un puesto de programador para el siguiente proyecto. Para una web creada en Wordpress, necesitamos un plugin que permita al administrador gestionar un apartado de la web (un listado con nueve campos descriptivos) y que permita hacer una búsqueda, en ese apartado, mediante un sencillo buscador.

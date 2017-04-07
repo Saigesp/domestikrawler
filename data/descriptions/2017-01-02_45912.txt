@@ -1,0 +1,22 @@
+
+Hola! Nuestro nombre es Crisiscreativa (sí, todo junto) y somos un estudio de diseño, desarrollo y comunicación creativa ubicado en Bilbao. Apostamos por el diseño en todos sus formatos y disfrutamos como enanos de nuestro trabajo, que nos lleva por terrenos digitales y analógicos a partes iguales. 
+2017 comienza planteándonos retos muy interesantes que nos han llevado a la determinación de ampliar el equipo. Así que al grano, esto es lo que buscamos:
+- Un perfil con experiencia mínima de 2 años en desarrollo y maquetación web.
+- Dominio de HTML, CSS3 (Sass o Less) y Javascript. 
+- Conocimiento de herramientas como JQuery, AngularJS y Bootstrap.
+- Dominio de WordPress a nivel frontend.
+Esperamos:
+- Que te preocupes por escribir buen código y mejorar día a día.
+- Inquietud por mantenerse al día sobre las novedades del mundo del desarrollo y probar cosas nuevas. 
+- Implicación, ganas de trabajar y aprender en equipo (y llevarse bien con los diseñadores!).
+- Iniciativa a la hora de elegir arquitecturas, tecnologías o formas de enfocar a nuevos proyectos.
+Sería interesante:
+- Que la siguiente lista de juguetes no te sonase rara: Gulp, npm, Bower, Git, SMACSS, PostCSS, ...
+- Experiencia en desarrollo de apps híbridas con Cordova, ionic, etc...
+- Conocimientos de PHP y MySQL.
+- Experiencia en gestión de hostings y dominios.
+Ofrecemos:
+- Unirte a un estudio joven con unos proyectos muy interesantes en el horizonte y que abarcan un amplio espectro de temáticas y disciplinas con el diseño como eje.
+- Transparencia y buen rollo. Somos un estudio pequeño, por lo que serás testigo directo de la gestión diaria, el trato con los clientes, la planificación y gestión de proyectos...
+- Contrato inicial de 6 meses presencial (con opción a prórroga). 
+- La tarde del viernes libre.

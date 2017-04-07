@@ -1,0 +1,7 @@
+
+Necesitamos un programador web para incorporar a nuestra plantilla.
+Control de versiones: CVS, SVN y GIT.
+Web: HTML, JSP, JSF, OGNL, JQuery, JavaScript, JSON
+Herramientas: Hibernate, MyBatis
+Base de datos: SQLServer, MySQL, Oracle
+Programación: J2EE, Struts2, Spring

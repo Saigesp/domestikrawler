@@ -1,0 +1,27 @@
+
+Hi Penguin! This post is to let you know that we’re looking for an awesome Senior Front end Developer to join the Icebergs Team in Barcelona asap.
+As a senior Frontend Engineer your main responsibility will be the production, modification and maintenance of the front-end of our application.
+Your main focus will be developing the front-end architecture including the connection with the back-end. Working closely with designers and back-end developers. You will join our agile development methodology to ensure that the deliveries are timely and according to high quality standards.
+This is a full-time position in our office in Barcelona.
+Responsibilities
+Transform the product requirements into production frontend code, in coordination with the rest of the team.
+Design, develop and maintain the frontend architecture.
+Implement test code coverage, to ensure its functionality and maintainability.
+Required skills
+Bachelors in computer science.
+Solid professional software development experience.
+Excitement about web technologies such as HTML5 and CSS3.
+Developing cross-browser compatible solutions to give users a unique experience.
+Excellent knowledge of Javascript OO programming.
+Solid knowledge of Jquery, Backbone, Underscore and NodeJs.
+Ability to accurately transform a final design into a real interface, paying attention to details.
+Able to work closely with and incorporate feedback from designers and/or other engineers.
+Keep up with evolving web standards and good practices.
+Experience working with Git version control system.
+Bonus skills
+Knowledge of scalability concepts and performance issues.
+Knowledge of Amazon server side architecture and non-relational DB.
+Experience with native browser plugins.
+Extra super bonus skills
+Like penguins, polar bears and all kind of Artic creatures.
+Be cool and/or awesome

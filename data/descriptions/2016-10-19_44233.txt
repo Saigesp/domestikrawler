@@ -1,0 +1,27 @@
+
+DESCRIPCIÓN
+En PatasBox queremos promover la felicidad y bienestar de todas las mascotas. A través de un servicio de suscripción, enviamos una caja que llega todos los meses a cientos de hogares con perro para sorprenderlos con una selección de los mejores productos (juguetes, premios, comida, etc) adaptados a sus características. Y lo mejor es que, además, hacemos felices a muchos animales más porque parte de nuestros ingresos van directamente a ayudarlos a través de Protectoras y Refugios.
+El equipo de PatasBox está buscando a un/a CTO para que lidere toda la parte tecnológica y web, siempre trabajando codo a codo con el Equipo de Marketing. Si además pudieras enseñarnos más trucos para nuestras mascotas -a veces parece que nos los sabemos todos- sería un plus.
+QUÉ ESTAMOS BUSCANDO
+RESPONSABILIDADES
+- Apoyar el Equipo Líder de PatasBox en el desarrollo y optimización de la web, definiendo e implementando nuevas funcionalidades.
+- Dar soporte al departamento de Marketing en la toma de decisiones a través de la gestión y análisis de los datos obtenidos en la web.
+- Diagnosticar y analizar cualquier tipo de incidencia que pueda impactar a los resultados del ecommerce de PatasBox.
+- Crear y testar diferentes escenarios para futuras mejoras y cambios.
+REQUERIMIENTOS
+- Alto conocimiento de HTML, CSS y Javascript (JQuery)
+- Alto conocimiento de PHP y MySQL y gestión de entornos LAMP.
+- Alta competencia en Shopify y/o Wordpress. 
+- Experiencia integrando/programando las apps de Shopify y/o plugins de WP como Woocommerce.
+- Experiencia trabajando con Google Analytics.
+- Experiencia en tests A/B.
+- Alta capacidad analítica de datos.
+SE VALORARÁ
+- 1-2 años de experiencia como programador web.
+- Ser flexible, proactivo e innovador. El sentido de urgencia y la capacidad de detectar obstáculos para luego superarlos son cualidades que tendremos muy en cuenta.
+- Disfrutar del trabajo en equipo y de la cultura colaborativa en la que las ideas, el tomar riesgos y comunicarse abiertamente tendrán un gran peso.
+QUÉ TE OFRECEMOS EN PATASBOX
+- Trabajo a tiempo completo en PatasBox, convirtiéndote en una figura clave para el desarrollo de nuestra startup y en uno de nuestros primeros empleados.
+- Acceso a un entorno de co-working único, con el que podrás compartir tu experiencia con gente brillante de otras startups.
+- Un montón de comida y juguetes gratis para tu perro o para el de tu mejor amigo.
+

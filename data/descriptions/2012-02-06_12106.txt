@@ -1,0 +1,39 @@
+
+Programador web
+Empresa ADL Partner Hispania S.L.
+Localidad Madrid
+ADL Partner se dedica a la realización de campañas de marketing directo por cuenta de terceros. En concreto presta servicios para la realización de campañas de adquisición de clientes, cross-selling de productos, reactivación de antiguos clientes, y todo ello a través de los canales más adecuados en cada caso (mailing, telemarketing, móvil, online). Necesitamos incorporar un programador para el desarrollo de las aplicaciones web necesarias en las campañas de marketing.
+Buscamos:
+
+ADL Partner Hispania necesita incorporar un programador que se encargará de definir la arquitectura y de programar nuevas aplicaciones Web basadas fundamentalmente en PHP y MySQL o PostgreSQL sobre linux. Será responsable de todo el desarrollo backend, aunque tendrá también que corregir/adaptar el código del frontend proporcionado por los maquetadores. Deberá gestionar a los diseñadores/maquetadores para que se atengan a las especificaciones técnicas del sitio, y trabajar conjuntamente con el equipo de marketing online para que la aplicación incorpore todos los requisitos funcionales. Se encargará también del mantenimiento y la realización de modificaciones sobre los sitios web ya activos.
+El trabajo se realizará en las oficinas de Madrid capital (en la Plaza Castilla).
+Ofrecemos:
+
+Se ofrece contrato indefinido, con un sueldo de entre 15.000-25.000 EUR/año (a valorar según experiencia), y enormes oportunidades de desarrollo (será el primer puesto técnico en la empresa, con dependencia directa del Director General).
+Requerimos:
+
+Requisitos imprescindibles
+- Familiaridad con entornos linux
+- Conocimientos de PHP avanzados, y de uso de frameworks (Zend, Symfony o CakePHP).
+- Conocimientos avanzados de SQL (con MySQL o PostgreSQL)
+- Conocimientos avanzados de maquetación web XHTML/CSS
+- Conocimientos avanzados de Javascript y de librerías javascript (jQuery) y programación asíncrona (Ajax)
+- Crítico: Estricta disciplina en limpieza y documentación de código, y elaboración de manuales
+- Muy estructurado y organizado, seguimiento de paradigmas OO y MVC
+- Imprescindible proactividad y ganas de mantenerse permanentemente actualizado
+- Capacidad de escribir documentación en inglés y leer informes técnicos en inglés
+- Experiencia mínima de 1 año desarrollando aplicaciones bajo las condiciones mencionadas
+- Título universitario (o bien técnico, o bien de grado, o bien superior, relacionado con la ingeniería informática)
+Deseamos:
+
+Aunque no es imprescindible, se valorará:
+- HTML5 / CSS3
+- Node.js
+- Desarrollo en entornos móviles
+- Integración con redes sociales
+- Experiencia en manejo y programación de Wordpress y de CMS de e-commerce (Joomla+Virtuemart, Prestashop, Magento, OsCommerce, …)
+Salario: 15.000-25.000 €
+Experiencia: 1 a 3 años
+Idiomas: Español, inglés
+Tipo de contrato: Indefinido
+Jornada: Completa

@@ -1,0 +1,9 @@
+
+En Madridnyc buscamos consultor Oracle e-Business Suite:. 
+- Será el responsable de la definición del modelo de datos del ODS implementado sobre Release 12 de Oracle E-Business Suite
+- Tendrá que definir los procesos de extracción ETL para alimentar el modelo implementado.
+- Participará en el análisis y definición de los informes a construir.
+Fecha de inicio inmediata
+El proyecto se realizará en las instalaciones del cliente (Madrid)
+Opción de Freelance o contrato de duración determinada.
+

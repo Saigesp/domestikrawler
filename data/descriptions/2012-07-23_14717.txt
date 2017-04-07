@@ -1,0 +1,38 @@
+
+Responsibilities
+As a front-end developer your main responsibility is innovation, production, maintenance of our client’s websites. This full time position is based in Madrid, Spain.
+Main tasks:
+Front end developer will be working closely with designers turning static photoshop design into innovative cutting edge browser based web pages. We are seeking for experienced individual with “hands on” attitude and attention to detail. We are seeking an innovative profile with great communication skills that would contribute actively to creation and compliance with company development standards.
+A front end developer will also:
+- provide accurate timing estimates on work
+- contribute to documentation (tech specs etc)
+- train other team members and no-technical staff
+- maintain high awareness of industry issues and trends
+Desired Skills &amp;amp;amp; Experience: 
+Requirements:
+-	Vast previous experience in front end development
+-	Excellent HTML, XHTML, CSS programming skills
+-	Coding valid XHTML and CSS mark-up
+-	Developing cross-browser and cross-platform compatible solutions
+-	Exceptional JavaScript, jQuery programming skills
+-	Familiar with “Responsive web design” concepts
+-	Knowledge of working with JavaScript frameworks to create rich interactive content
+-	Experience integrating with server-side code to produce dynamic pages
+-	Experience in emerging web technologies such as HTML5 and CSS3
+-	Good understanding of Web Accessibility and Web Analytics
+-	Experience building sites to at least an AA standard.
+-	Some experience in AJAX techniques
+-	Knowledge of graphical design and design tools such as Photoshop is an advantage
+-	Needs to have a legal right to work in the UE
+-	At least medium knowledge of Spanish (must be willing to improve)
+-	Any references welcome
+Personal qualities:
+An ideal candidate would:
+-	Question the status quo, think outside the box
+-	Be creative and self confident with proposals but without attitude
+-	Be self driven, ambitious and always hungry for more
+-	Be patient and able to explain, teach and present
+-	Have high attention to detail
+-	Be able to work with minimal supervision
+-	preferably some engineering background
+-	International candidates welcome

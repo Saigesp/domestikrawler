@@ -1,0 +1,18 @@
+
+BEONPRICE desarrolla soluciones basadas en tecnología de Big Data para el sector turístico. Cuenta con su sede en Salamanca y oficinas en EEUU y LATAM. 
+En BEONPRICE reconocemos el trabajo bien hecho y para ello buscamos personas optimistas, exigentes con su desarrollo, que disfruten trabajando en equipo y que se propongan retos y mejoras. Apostamos por la creatividad, la innovación, la calidad del trabajo y el compromiso a largo plazo. 
+En la actualidad seleccionamos Analistas Programadores PHP Senior.
+
+Buscamos profesionales altamente cualificados, cuya misión principal será el análisis y diseño de soluciones con participación en la toma de requisitos, programación en PHP, realización de pruebas/modelización, refactoring y mantenimiento.
+Seleccionamos candidatos que posean los siguientes requisitos académicos y profesionales:
+- Formación académica: Ingeniero Técnico o Ingeniero Superior en Informática. Telecomunicaciones. Matemáticas. Físicas. Ingenierías.
+- Experiencia profesional de entre cuatro y dos años en funciones similares a las descritas.
+- Conocimientos técnicos; PHP, JAVA, Python, SQL/NO-SQL, JQuery, Ajax, Javascript, HTML/CSS,  Web Crawling, Integraciones con servicios web, Unit Testing  (se realizará ejercicio práctico)
+- Valorable Nivel inglés avanzado.
+- Disponibilidad real de cambio de residencia a provincia puesto vacante (Salamanca).
+Te ofrecemos:
+- Incorporación laboral estable mediante contratación indefinida.
+- Retribución fija alineada con la política retributiva de la empresa en función de la valía aportada por los/las candidatos/as. Horquilla salarial de 18.000 a 24.000 euros brutos anuales.
+- Desarrollo y Carrera Profesional.
+- Excelente acogida en una excelente y competitiva ciudad en el sector TIC, ¡Salamanca!
+

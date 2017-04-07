@@ -1,0 +1,46 @@
+
+eDreams ODIGEO (www.edreamsodigeo.com) is the largest online distributor of flights in the world (measured in terms of sales), and one of Europe’s largest e-commerce businesses. Under its five brands (eDreams, GO Voyages, Opodo, Travellink and liligo), it offers the best deals on regularly-scheduled flights, charters, low-cost airlines, hotels, cruises, car rentals, vacation packages, travel insurance and stays of varying length to more than 16 million customers all over the world. Present in forty-four countries, the company employs more than 1,700 professionals and is now looking for a talented Back-End Java Developer to join our Engineering Team based in Barcelona, Spain, reporting to the IT Team Lead. 
+As Back End JAVA Developer you will be responsible for developing features for our in-house platform which support all ODIGEO brands. Ideal candidate is passionate about the IT development for high performance applications, analytic mind and willing to make JAVA analysis, user-oriented, likes challenges and learning about new technologies. You will add value to our development team so a strong level of knowledge in this area, an enthusiasm to learn and share information is essential.
+What about your role?
+As Back-End JAVA developer you will: 
+•	Design and development new features using the best practices and the last technology in IT to support new functionalities and releases;
+•	Deliver code (and supporting documentation) of the highest quality through good design, attention to detail and system testing on a timely basis;
+•	Secure the performance, reliability, scalability and security.
+And what about the JAVA team?
+•	We are building a JAVA passionate team focused on high performance application;
+•	We value hunger for learning, ambition and sharing;
+•	We build complex applications using the new best methods and technologies. We encourage our team to share new ideas and innovation;
+•	You will work in an informal atmosphere with a young team but highly qualified.
+How do we work ? 
+We have the chance to work with amazing Agile Coaches and Product Owner helping Technical Team to follow the best practices of Agile Methodologies.
+We work hard, live and breathe Java and always think out of the box to create new exciting features!
+For a better idea about our culture, check out the brief video of our last Hackathon: https://www.youtube.com/watch?v=hVvI30rEotI
+Why should you work with us?
+•	We are one of the top OTA's worldwide;
+•	We serve more than 14 million customers with our brands  eDreams, GO Voyages, Opodo, Liligo and Travelink;
+•	We work in more than 40 countries;
+•	We have over people from 90 different nationalities working in our company.
+So, are you the right fit?
+YES, if your skills are:
+Required Skills & Experience
+•	BS or MS in Computer Science or equivalent (IT engineer);
+•	+2 years’ experience in complex technology environments;
+•	Expert knowledge of Java programming language/coding;
+•	Solid know-how in Java Enterprise Edition 6 & 7 : servlets, JSP, JSF 1.2, EJB 3.0, JPA 
+•	Good Technical English Level;
+•	Dynamic, proactive, passionate by JAVA, willing to evolve in a fast paced environment;
+•	Good communication skills.
+Desirable Skills 
+•	Web Development for platforms with high load and concurrency; 
+•	Unit test frameworks (JUnit, TestNG) experience;
+•	Elasticsearch;
+•	Oracle PL/SQL; 
+•	Versions Control (Mercurial with Bitbucket); 
+•	Analysis documentation and Design in UML ;
+•	Gathering and formalizing requirements;
+•	Experience using JBOSS applications servers; 
+•	Amadeus XML API;
+•	Java SUN Certifications;
+•	Experience within the tourism sector is highly valuable, in particular with GDSs integrations: Amadeus, Galileo, or in Hotels or Finance Booking systems.
+Then, we’d love to hear from you!
+

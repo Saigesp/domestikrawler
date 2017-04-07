@@ -1,0 +1,9 @@
+
+Estamos buscando un programador Junior con ganas de formar parte de un proyecto ilusionante y de gran potencial. 
+Plannic.com es una red social para hacer planes y compartir aficiones formado por un equipo joven y dinámico. 
+El candidato será el encargado del mantenimiento de la aplicación y desarrollar nuevas funcionalidades. 
+Requisitos:
+Programador con experiencia de 1 a 3 años en entorno Java . Conocimientos avanzados de Spring e Hibernate. 
+Persona proactiva y responsable con capacidad de trabajo en equipo 
+Se valorarán conocimientos y experiencia en otros lenguajes de programación.
+ http://www.plannic.com

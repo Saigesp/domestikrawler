@@ -1,0 +1,44 @@
+
+About the company
+Aedgency, headquartered in Barcelona, is a pan-European performance-based marketing specialist which offers a gateway to privileged communication channels between brands and e-buyers.
+Founded in 2004 Aedgency has been growing rapidly ever since and now operates across five European markets. Aedgency focuses on increasing advertisers’ conversion rates and monetizes its publishing networks and independent publishers’ websites.
+Aedgency offers brands access to millions of online consumers across Europe. Its bespoke analytics engine uses deep contextual and behavioral segmentation to closely target users through the commu¬nication channel that is most likely to get a result.
+Candidate profile
+We are looking for a Senior PL/SQL programmer. This person will report directly to the Database Team leader. This person will show a big interest in the logical analysis of the different data that we collect and also the logic of the different product that we create in Aedgency.
+ Responsibilities
+-	PL/SQL programming
+-	Unix DB Processes
+-	Data Mining
+Minimum requirements
+-	Excellent  knowledge in Oracle 10g – PL/SQL – SQL – SQl Loader
+-	Mysql knowledge (Basic)
+-	Shell/UNIX
+-	Experience in Data Mining projects
+-	Experience in Data Warehouse
+-	Excellent English communication skills.
+Remuneration Pack
+•	Gross Salary:  30.000 eur.
+•	Variable: Up to 10%
+•	Company benefits (Healthcare Insurance, Gym, etc.)
+About the company
+Aedgency, headquartered in Barcelona, is a pan-European performance-based marketing specialist which offers a gateway to privileged communication channels between brands and e-buyers.
+Founded in 2004 Aedgency has been growing rapidly ever since and now operates across five European markets. Aedgency focuses on increasing advertisers’ conversion rates and monetizes its publishing networks and independent publishers’ websites.
+Aedgency offers brands access to millions of online consumers across Europe. Its bespoke analytics engine uses deep contextual and behavioral segmentation to closely target users through the commu¬nication channel that is most likely to get a result.
+Candidate profile
+We are looking for a Senior PL/SQL programmer. This person will report directly to the Database Team leader. This person will show a big interest in the logical analysis of the different data that we collect and also the logic of the different product that we create in Aedgency.
+ Responsibilities
+-	PL/SQL programming
+-	Unix DB Processes
+-	Data Mining
+Minimum requirements
+-	Excellent  knowledge in Oracle 10g – PL/SQL – SQL – SQl Loader
+-	Mysql knowledge (Basic)
+-	Shell/UNIX
+-	Experience in Data Mining projects
+-	Experience in Data Warehouse
+-	Excellent English communication skills.
+Remuneration Pack
+•	Gross Salary: 22.000/30.000
+•	Variable: Up to 10%
+•	Company benefits (Healthcare Insurance, Gym, etc.)
+

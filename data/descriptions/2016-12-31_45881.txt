@@ -1,0 +1,13 @@
+
+En DoctorJob, agencia de publicidad de Las Palmas de Gran Canaria, estamos buscando un Programador Front-End para entrar a formar parte de nuestro departamento creativo de forma presencial y trabajar para importantes marcas del sector de automoción entre otras.
+Su tarea principal será desarrollar campañas HTML5/CSS3 para diferentes plataformas como Sizmek y desarrollar sites y displays publicitarios multiplataforma.
+ Buscamos:
+- Maquetación HTML5, CSS. 
+- Javascript avanzado. 
+- Experiencia demostrable en el desarrollo de piezas display en HTML5 tanto convencionales como Richmedia.
+- Manejo de herramientas como Google Web Designer, Sizmek AdBuilder Animate, Canvas, Edge o SGV.
+- Experiencia con Adobe Suite (Photoshop e Ilustartor).
+- Desarrollo en responsive-design y optimización en los diferentes navegadores y dispositivos.
+- Pensamiento creativo e innovador y muchas ganas.
+No buscamos:
+- Diseñadores ni Programador Back-end.

@@ -1,0 +1,26 @@
+
+The product organization at Scytl is in charge of developing its core online voting platform. We are busy disrupting the election industry by making voting more accessible, efficient, transparent and secure. We are continuously looking for talented individuals who will share our passion for designing and building great software that powers democracy around the world. 
+We are looking for a frontend software engineer to develop and optimize robust and secure applications used by millions of users, deliver a consumer-grade user interface that will make voting more accessible and the election process more efficient.
+Requirements:
+Mastery of JavaScript.
+Experience in HTML5 and CSS3.
+Experience working with GIT.
+Keen eye on pixel-perfect UI and code quality.
+Sound knowledge of design patterns and reusable code.
+3-4 years experience in software engineering.
+University degree, in Computer Sciences or related field.
+ 
+Extra points for:
+Experience working with AngularJS and Ionic.
+Experience working with Jasmine/Mocha, Grunt/Gulp, npm.
+Working knowledge of Node.js.
+Experience in mission-critical, high-load systems that have strong security requirements.
+Experience with single product – multiple (customized) clients scenario.
+Personal qualities:
+Enjoys working both autonomously and as part of a team.
+Great analytical skills, with an enquiring and structured mind.
+Impeccable work ethic, humble but confident.
+Highly accountable; disciplined and persistent to get things done.
+Driven, self-starter; comfortable working in a rapidly changing environment.
+Clear, concise communicator.
+Excellent English, both spoken and written.

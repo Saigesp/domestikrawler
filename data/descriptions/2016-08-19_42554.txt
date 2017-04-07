@@ -1,0 +1,20 @@
+
+En Iwantic seleccionamos para una gran compañía internacional del sector Mobile un DBA Cassandra/MySQL para Málaga.
+Entre las funciones a desarrollar estarían:
+- Configuración y administración de Percona XtraDB (MySQL) Cluster.
+- Configuración y administración de Cassandra Cluster.
+- Responsable de backups.
+- Ayuda y asesoramiento al equipo de desarrollo para el diseño y optimización de la base de datos.
+- Asesoramiento y ampliación de la base de datos (ElasticSearch, MongoDB etc)
+- Trabajar en pequeños equipos, gestionando requisitos y objetivos internos de la empresa con stakeholders.
+Requisitos:
+- Más de 3 años de experiencia trabajando con MySQL Cluster y Cassandra.
+- Nivel alto de inglés.
+- Sólido conocimiento de: Relational Database schema ddesign, SQL, SQL tuning, CQL, advanced queuing entre otros.
+- Gran conocimiento de Linux/Unix: you dream cp, mv, rm, cat, tail, grep y awk.
+- ksh, bourne, bash, csh, PHP...
+Se evaluará:
+- Experiencia con RabbitMQ/Couchbase
+- Experiencia con HAProxy, Ubuntu.
+ Salario según valía. 
+ 

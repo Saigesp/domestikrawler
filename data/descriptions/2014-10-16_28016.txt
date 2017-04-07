@@ -1,0 +1,10 @@
+
+Qué buscamos
+Una persona resolutiva con ganas de incorporarse a Hall Street. Alguien con experiencia en maquetación web, apasionado por internet, con ganas de evolucionar cómo profesional, que sepa trabajar en equipo y sienta gusto por lo que hace.
+Qué ofrecemos
+Un proyecto global y apasionante,  formado por un equipo de profesionales altamente comprometidos y que demuestran cada día su pasión por lo que hacen
+Qué esperamos de ti
+- Experiencia en maquetación web. 
+- Experiencia HTML5 y CSS. Familiaridad con JavaScript. 
+- Experiencia con Frontend Frameworks (Bootstrap, Foundation)
+- Experiencia usando preprocesado CSS  (SASS, LESS)

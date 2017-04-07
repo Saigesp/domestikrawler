@@ -1,0 +1,10 @@
+
+Necesitamos incorporar a plantilla en nuestro departamento Técnico de Internet. 
+Desarrolladores de PHP con los siguientes conocimientos en: 
+PHP 4 y 5 y HTML
+Conocimientos de UNIX/Linux
+Servidor Apache
+Javascript/CSS/AJAX/XML/JSON
+Trabajo en equipo con herramientas de control de versiones: Mercurial, CVS, SVN, etc.
+Bases de datos: Oracle, MySql, Postgresql, etc.
+Perl

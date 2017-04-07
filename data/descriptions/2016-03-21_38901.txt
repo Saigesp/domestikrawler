@@ -1,0 +1,12 @@
+
+Necesitamos desarrollador Android con al menos 3 años de experiencia demostrable en la creación de aplicaciones avanzadas a medida en sistema Android.
+Participarán activamente en el análisis, desarrollo e implementación de nuevas soluciones. Soporte en la toma decisiones acerca de las soluciones más eficaces a adoptar para cada problema.
+Perfil del Candidato:
+Se requiere:
+- Experiencia de 3 años en puesto similar
+- Programación orientada a objetos (Java Android)
+- Integración con servicios web (SOAP, XML, JSON, etc.)
+- Uso de APIs: geo-posicionamiento, redes sociales, pasarelas de pago, etc.
+- Control de versiones SVN / GIT
+Se busca persona responsable, emprendedora, proactiva, dinámica, con habilidades comunicativas y de relación interpersonal
+Tecnología: Android, Java, SOAP, XML, JSON, GIT, SVN

@@ -1,0 +1,16 @@
+
+En Grupo Sothis estamos colaborando con la selección de un Ingeniero Frontend para Mercadona. 
+Se requiere:
+Titulación: 
+Titulación universitaria en Ingeniería Informática
+Se requiere: 
+- Experiencia en arquitecturas front orientadas a productos web y frameworks de desarrollo como AngularJs y/o React
+- Experiencia en el desarrollo de interfaces de usuario grandes y potentes en Javascript
+- Seguir metodologías de desarrollo basado en tests en Javascript
+- Experiencia en arquitecturas de software desacopladas
+Aptitudes y conocimientos técnicos: 
+- Pasión por hacer un buen software 
+- Responsabilidad para hacer un código del cual sentirse orgulloso 
+- Seguir los principios del código limpio 
+- Experiencia usando Git en equipos grandes de desarrollo 
+- Persona detallista y proactiva

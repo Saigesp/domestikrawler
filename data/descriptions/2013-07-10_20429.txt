@@ -1,0 +1,15 @@
+
+Job offer - European Parliament in Brussels
+Expérience professionnelle
+Diplôme universitaire avec une expérience professionnelle minimum de 6 ans en IT ou diplôme non universitaire avec une expérience professionnelle minimum de 10 ans en IT.
+Minimum 4 ans d'expérience en analyse et développement.
+L'expérience professionnelle doit être acquise principalement en qualité de "Senior Web developer" dans des projets Javascript de taille importante. Ces projets doivent couvrir la production / gestion de contenu (aspect WCMS) et/ou la publication web.
+Connaissances "metier": 
+Une expérience solide en Javascript et ses frameworks les plus courants est indispensable.
+Technologies Front-end
+- Excellente maîtrise du langage Javascript et de ses frameworks les plus répandus.
+- Excellente maîtrise en développement d'application single-page.
+- Expérience en Backbone.js, Underscore.js, Handlebar.js, LayoutManager.
+- Expérience en Ajax, JSon.
+- Expérience en HTML5, CSS.
+Más información en mi web. Gracias  y un saludo.

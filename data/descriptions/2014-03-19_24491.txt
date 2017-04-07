@@ -1,0 +1,32 @@
+
+Programador Drupal (a tiempo completo)
+Madrid, Spain
+Descripción
+En GOWEX Mobile buscamos un Programador Drupal para que se incorpore a nuestro equipo de desarrolllo. Que tenga ganas de seguir aprendiendo, puliendo sus técnicas e innovando en el sector. Que crea en el aprendizaje continuo de nuevas tecnologías, que sugiera, que tenga iniciativa propia y que nos permita estar siempre a la vanguardia para seguir siendo pioneros en nuestro sector.
+Queremos una persona con una actitud autónoma, proactiva, dinámica y positiva ante los retos. Alguien que se preocupe por las buenas prácticas en programación: con orientación a objetos (clases, herencias), código humanamente legible (claridad), pruebas unitarias y funcionales (simpletest), estructurado de módulos, refactorización, reutilización, separación de capas y sostenibilidad.
+Debe tener experiencia en:
+- Programación PHP en entorno LAMP (Linux, Apache, MySQL y PHP)
+- Conocimientos generales de administración Linux (Ubuntu, Debian, RedHat).
+Debe cumplir los siguientes requisitos:
+-Conocimientos y experiencia solvente y demostrable en Drupal.
+- Solvencia en escribir consultas SQL y optimización de su rendimiento.
+- Administración de MySQL nivel medio.
+Integración de webservices (REST, XmlRpc, SOAP).
+- Nociones generales de XHTML/CSS y javascript/jQuery.
+- Control de versiones Git.
+Se valorará positivamente:
+- Familiaridad con métodos ágiles de programación (SCRUM, XP).
+- Conocimientos sobre memcached, APC y ApacheSolr. 
+Ofrecemos:
+- Trabajar en un equipo innovador, multidisciplinar y con pasión por internet.
+- Participar en proyectos a nivel nacional e internacional.
+- Desarrollo de carrera profesional (formación y promoción interna).
+- Posibilidad de teletrabajo 1 día a la semana.
+- Se valorarán muy positivamente ejemplos de proyectos en los que hayas participado. Si tienes web personal, blog, cuenta en Github.com, Drupal.org, Linkedin o lo que quieras que conozcamos, envíanoslo también.
+Puesto de trabajo en Madrid centro (Zona Callao).
+Horario:
+Lunes a jueves entrada de 8:00 a 9:30, salida de 17:30h a 19:00h. 
+Viernes de 9h a 15h.
+Julio y Agosto de 8h a 15h.
+[b]Salario:[b]
+Acorde a experiencia

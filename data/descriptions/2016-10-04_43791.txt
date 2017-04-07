@@ -1,0 +1,23 @@
+
+Se busca: Persona con habilidad para trabajar en equipo, resolutivo y comprometido con el proyecto, con ganas de aprender y mejorar sus habilidades.
+Funciones: 
+- Programación BBDD
+- Programación backend
+- Programación Web
+- Programación Servicios
+- Mantenimiento Servidor 
+- Exportación e importación de datos
+Requisitos: 
+- PHP OOP Codeigniter
+- MYSQL
+- LINUX CLI
+- HTML5
+- XML 
+-JSON
+-Experiencia minima 1 año en proyectos anteriores
+Se valora: 
+-Javascript, Jquery
+Se ofrece: 
+- Buen ambiente de trabajo 
+- Posibilidad de crecimiento dentro del proyecto 
+- Aprendizaje de nuevas funciones

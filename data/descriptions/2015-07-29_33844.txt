@@ -1,0 +1,15 @@
+
+En Missfarma.com buscamos un Programador PHP freelance.
+REQUISITOS:
+Programación PHP con conocimientos de algún framework (symfony, Yii...)  
+MySQL
+HTML5
+CSS3
+JS (jQuery, AngularJS)
+Valorable positivamente: nociones de administración de sistemas linux
+Creatividad, responsabilidad y trabajo en equipo.
+SE OFRECE: 
+Incorporación inmediata a una startup acelerada por Conector con altas posibilidades de crecimiento
+Proyecto temporal con altas posibilidades de incorporación fija
+Jornada de 4 a 6 horas en función de la evolución del proyecto
+

@@ -1,0 +1,10 @@
+
+Buscamos una persona cualificada y capacitada para impartir un curso de Animación Avanzada con 3Ds Max, Unity & MotionBuilder.
+Los objetivos principales del curso son:
+-	Crear ciclos de animación para poder poner en bucle a partir de los mocaps.
+-	Creación de rigs eficientes (para real-time) tanto orgánicos como inorgánicos.
+-	Uso de curvas de animación.
+Durante el curso se trabajará con el siguiente software:
+3Ds Max, Unity & MotionBuilder.
+La modalidad del curso será mediante videoconferencia en directo, por lo que no hay necesidad de desplazarse.
+

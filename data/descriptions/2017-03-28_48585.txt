@@ -1,0 +1,21 @@
+
+BrandChats es una empresa pionera y líder en el análisis de redes sociales y medios digitales, las soluciones y herramientas de que dispone, una plataforma de Social Listening y otra de Audience Analytics / SocialCRM, cubren los principales casos de uso de mayor valor añadido: reputación online, análisis de atributos de marca, de producto, benchmark, análisis de campañas, social CRM, programas de influencers y análisis de comunidades entre otros.
+Trabajamos con clientes y marcas de primer nivel en España.
+Para nuestra oficina de Barcelona necesitamos cubrir un perfil de analista digital & social media que debería dar soporte a la base de clientes y participar en proyectos avanzados.
+Requerimientos principales:
+- Conocimientos sobre redes sociales
+- Conocimientos sobre analítica cuantitativa digital: métricas y métodos de medición
+- Buen nivel de inglés
+Requerimientos deseables:
+- Familiarizado con herramientas de medición de redes sociales
+- Conocimiento de herramientas de analítica avanzada en márketing digital y otras áreas
+- Conocimientos o nociones de los entornos de programación: R / Phyton
+- Proactividad y mentalidad analítica
+- Conocimiento alto de inglés y otros idiomas
+Funciones
+- Elaboración de informes cuantitativos de social media
+- Particpación en proyectos de análisis de audiencia & socialCRM
+- Desarrollo de modelos de influencia, relevancia, segmentación de clientes y análisis de comunidades
+Retribución
+- Contrato alta SS, 6 meses + indefinido
+- Formación continua orientada a Data Science

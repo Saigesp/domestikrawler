@@ -1,0 +1,15 @@
+
+Agencia Internacional de Comunicacion necesita reforzar su departamento creativo on line en Madrid con una persona que se encargue de programar y maquetar todos sus proyectos.
+Los Requisitos son:
+- Experiencia mínima 2 años.
+- Nivel alto XHTML-HTML5 y CSS-CSS3 estándares W3C
+- Buen nivel de Javascript y jQuery.
+- Compatibilidad entre buscadores.
+- Dominio de programas de diseño como Photoshop, Fireworks.
+Se valorará:
+- Conocimientos de PHP y BBDD, integración de plataformas Open Source (Wordpress, Drupal, Magento)
+- Conocimientos de Flash, Actionscript 2.0 / 3.0
+- Diseño de interacción y UX
+- Wireframing &amp; Prototipado
+- Conocimientos de las APIS más comunes
+-Incorporacion inmediata

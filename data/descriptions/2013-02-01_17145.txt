@@ -1,0 +1,5 @@
+
+We are a US company with an office in Barcelona and we are looking for a full-time Ruby on Rails genius to help grow our gift finding website. (Position in Barcelona).
+If some or all of the following additional skills are second nature to you then we need to meet.
+TDD/BDD, Rspec, Cucumber, etc. HTML5, SASS MVC front-end JavaScript (Currently with Ember.js) Facebook OpenGraph API / API integration MongoDB Previous use of DCI
+If you think you can hack it, then let us know!

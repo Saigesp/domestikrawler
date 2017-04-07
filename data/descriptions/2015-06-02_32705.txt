@@ -1,0 +1,19 @@
+
+Desarrollador de páginas web en php con Laravel con un grado de dificultad medio/alto.
+Inicialmente el trabajo será presencial en la oficina de la empresa (Madrid). Más adelante se podría hablar de teletrabajo. 
+Se requieren conocimientos en:
+- PHP
+- MySQL
+- Framework Laravel
+- Javascript / jQuery
+- HTML5 / CSS3
+Se valorarán conocimientos en: 
+- Bootstrap Admin Template  (AdminLTE de ALMSAEED STUDIO)
+- Wordpress
+- CodeIgniter
+- Plataformas de pago (PayPal, RedSys - TPV virtual, Stripe...)
+- Amazon Web Services
+Se ofrece: 
+- Retribución y condiciones negociables.
+- Incorporación inmediata.
+- Pequeño estudio, con ambiente familiar.

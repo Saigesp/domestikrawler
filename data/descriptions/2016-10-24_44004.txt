@@ -1,0 +1,23 @@
+
+Hola! somos interacso, una empresa de desarrollo ágil, UX y diseño de productos digitales interactivos basada en Madrid.
+Desarrollamos productos digitales, sitios web avanzados y aplicaciones móviles para clientes de todos los tamaños, tanto empresas consolidadas como startups, principalmente utilizando HTML5 y otras tecnologías web modernas. Tenemos amplios conocimientos y experiencia con multitud de APIs y Frameworks.
+Creemos en la simplicidad y nuestra filosofía es aprender creando, nos gusta explorar tecnologías creando cosas nuevas e invertimos tiempo en desarrollar productos propios que posteriormente convertimos en startups, como conceptinbox.com entre otros.
+Si eres desarrollador Javascript con experiencia trabajando con frameworks modernos como Angular, React o backbone y trabajas diariamente con herramientas como bower, gulp o npm te estamos buscando, y si tienes experiencia en maquetación con frameworks css tipo bootstrap, semanticUI o foundation lo valoraremos de una forma especial.
+Trabajarás todos los días con GIT, por lo que importante que te manejes de manera fluída con sistemas de control de versiones.
+FUNCIONES
+Escribir código JS usando algún framework (Angular y React principalmente)
+Desarrollar SPAs con varias vistas
+Integrar y usar librerías JS de terceros
+Tratar datos principalmente obtenidos por REST
+REQUISITOS
+Conocimientos sólidos de JS y experiencia de la menos 1 año
+Experiencia trabajando con APIs de terceros en JS
+Deseable haber trabajado con node.js (no requerido)
+Los más importantes: Capacidad de trabajo en equipo, actitud positiva, capacidad de aprendizaje constante e iniciativa
+OFRECEMOS
+Contrato inicial de 6 meses y posterior indefinido
+Flexibilidad horaria, posibilidad de teletrabajo
+Carrera interna
+Entorno innovador
+Remuneración según valía
+Si eres una persona curiosa, dinámica, que te gusta poner atención al detalle y buscas una empresa con proyectos interesantes donde ampliar tus habilidades estaremos encantados de conocerte.

@@ -1,0 +1,35 @@
+
+The latest. The greatest. No matter the tech, our tech-bods are on it. So when a technological hurdle presents itself, we’re ready to jump.
+
+DigitasLBi is a global marketing and technology agency that brings together a diverse team of experts to deliver innovative digital solutions — our technologists are very much at the core of what we do, and work alongside other disciplines to create great work for our clients.
+
+Our projects range from classically formed Agile teams delivering a platform build to disruptive internal start-ups with technologists embedded in multi-disciplinary teams from the very beginning.
+
+We are presently looking for lead technologists with strong front-end development skills, responsible for delivering high quality and cutting edge web experiences in HTML, CSS and JavaScript. You'll be passionate about web standards and finding innovative ways to use the latest technology to solve our clients' needs.
+
+Responsibilities:
+
+You'll be a go-to person for all things JavaScript, HTML and CSS, and an evangelist for best practice in software engineering, collaborating with the Interface Development pod and the wider technology team.
+
+Day to day you will:
+
+·      Create amazing products that digitally transform high profile brands
+·      Provide knowledge of best practice around tools and approach, offer thoughts and input where required throughout the development process
+·      Be passionate about Agile methodology, TDD and Continuous Integration
+·      Act as the single point of technical responsibility on projects taking ownership of delivery
+
+Qualifications:
+
+·      Expert knowledge of modern HTML, cross-browser and cross-device CSS (including LESS and/or SASS).
+·      Industry-leading knowledge of object-oriented JavaScript and JavaScript libraries and frameworks (including MVC)
+·      Backbone.js or AngularJS
+·      TDD/automated testing
+·      Expert knowledge of Accessibility; the standards, patterns and approaches that enable web access for all users, irrespective of browsing technology
+·      Delivering responsive design
+·      Familiarity with server-side integration and content management systems. Knowledge of a server-side language such as C#, Java or PHP is highly advantageous
+·      Proven mentoring skills
+·      The ability to work collaboratively with other disciplines, and client-facing skills to represent DigitasLBi to both technical and non-technical audiences.
+
+Strong English language skills are essential.
+
+

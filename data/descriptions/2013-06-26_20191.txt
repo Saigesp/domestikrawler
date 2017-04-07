@@ -1,0 +1,9 @@
+
+iOS Engineer, Madrid, Spain  
+About Golsie  
+Golsie is building the social network of achievement, and we’re starting with a fun and engaging iOS app that helps people achieve their personal and professional goals.   
+Job Description  
+ We are looking for a talented freelance iOS Engineer to help us build our app on a contract basis. You will have free rein over many critical engineering decisions both on the front and back-end of the system, and will work closely with the technical co-founder to build a robust, error-free and scalable app that satisfies our precise and demanding requirements for the final product. We are also looking to have you design and build the back-end servers that the app talks to.   
+We’re looking for a bright, sociable, motivated and reliable person to be part of our team. Your role won’t be restricted to technology – we’d love for you to contribute new and exciting ideas for our platform, and be part of the creative brains trust of the company.   
+Skills &amp; Requirements  
+• Degree in Computer Science, or significant years of programming experience • Objective-C or iOS experience • Back-end experience in Java/Python, or any other tools • Experience with building good database designs and schemas in open- source databases (MongoDB/MySQL) • Experience with APIs to popular social media networks • Must have a strong sense of building a great user experience • Work with CTO to understand requirements of the app • Be able to work well independently and in a team environment • Fluency in English 

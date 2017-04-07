@@ -1,0 +1,8 @@
+
+Empresa del sector retail necesita incorporar a su departamento de informática un Programador NAVISION. 
+Sus funciones consistirán en lo siguiente:
+- Mantenimiento del ERP Corporativo de la empresa, Microsoft Dynamics NAV (Navision).
+- Solucion de incidencias, Atencion de consultas, Formacion de usuarios y elaboración de documentación.
+- Diseño y desarrollo de proyectos de mejora en C/AL.
+Se precisa persona con alta capacidad de trabajo, analítica, resolutiva y habituada al trabajo en equipo.
+ 

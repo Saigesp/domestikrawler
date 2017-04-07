@@ -1,0 +1,33 @@
+
+Necesitamos 2 programadores expertos en tecnología web, con experiencia demostrable en proyectos anteriores, para trabajar en nuestras oficinas de Madrid (Las Rozas).
+Requerimientos necesarios:
+
+Experto en CakePHP, con experiencia demostrable de 2 años en proyectos de tamaño medio - grande
+
+Experto en HTML 5
+
+Experto en JQuery
+
+Conocimientos de librerías de frontal web como JQuery UI, 
+
+Conocimientos de Responsive Layout basado en bootstrap
+
+Conocimientos de Backbone para programacion front.
+
+Trabajar habitualmente con sistemas de repositorios (subversion, git, bitbucket,...). 
+Personalidad emprendedora, dinámica y con muchas ganas de participar en un gran proyecto. 
+
+Capacidad organizativa y de autogestión, así como experiencia trabajando en equipos pequeños o en solitario.
+
+
+Requerimientos deseables: 
+
+Conocimientos de programación AS3, Air y Flex. 
+
+Nivel de Ingles Medio - Alto. 
+
+Carnet de conducir y coche propio. 
+
+Capacidad de viajar.
+
+

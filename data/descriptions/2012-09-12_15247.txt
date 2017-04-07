@@ -1,0 +1,15 @@
+
+Ya tenemos cerrado el proceso, gracias a todos los que han participado enviándoos sus c.v.
+En Captalis estamos buscando un programador web php para cubrir un puesto que tenemos pendiente. Las labores serán la de un programador en el departamento de tecnología realizando todas las tareas de programación requeridas en los diferentes proyectos internos que tenemos.
+No se hacen proyectos para otros clientes, sino que todos son proyectos &amp;quot;de la casa&amp;quot;.
+Fundamental tener conocimientos de:
+-- PHP
+-- Mysql
+-- Css
+-- Jquery
+-- Html5 o en su defecto Xhtml.
+Deseable pero no imprescindible conocer:
+-- Wordpress
+-- Symfony
+-- Drupal
+

@@ -1,0 +1,31 @@
+
+LaMagnética está buscando un informático para
+[*]Programación con APIs de Twitter, Google Analytics, etc. 
+[*]Desarrollo web: HTML5 + CSS + JS
+[*]Desarrollo web con Drupal
+[*]Dar soporte al resto del equipo en cuestiones técnicas
+[*]Consultoría técnica
+Conocimientos necesarios:
+
+[*]Conocer bien un lenguaje de programación para desarrollar aplicaciones (no sólo scripts). Preferentemente Python, pero podemos valorar otros como Java.
+[*]Conocimientos avanzados de desarrollo web. Incluyendo un buen nivel de PHP, HTML5, CSS, Javascript/JQuery y MySQL
+[*]Configuración de servidores Apache e instalación de módulos. Scripts en línea de comandos (Apache y preferentemente también Windows). 
+[*]Conocimiento de gestión de DNS, backups, phpMyAdmin, etc. 
+[*]Capacidad analítica y trabajo ordenado y documentado.
+Además valoraremos:
+
+[*]Conocimientos avanzados y experiencia en desarrollo web con Drupal. Y, en menor medida, con Magento y/o WordPress.
+[*]Experiencia profesional, aunque no es imprescindible
+[*]Un buen nivel de inglés. Otros idiomas.
+[*]Experiencia demostrable en el trabajo con APIs
+[*]Conocimientos sólidos de SEO
+[*]Experiencia en proyectos con bases de datos NoSQL: BBDD documentales (MongoDB, Couch, etc.), en grafo, etc. Si es tu caso, aporta ejemplos.
+Qué ofrecemos
+
+[*]Contrato temporal al inicio con posibilidades reales de contrato indefinido si estamos satisfechos con tu trabajo
+[*]Proyectos y clientes interesantes con los que seguir aprendiendo
+[*]Posibilidad de contrato de 25 o de 40 horas semanales. Sueldo según conocimiento y experiencia.
+Nota:
+1) Estamos buscando un informático, no un diseñador-maquetador, o un diseñador con conocimientos básicos de algún CMS.
+2) Para este puesto preferimos a alguien en plantilla que un freelance, aunque podemos valorar freelance presenciales. No valoraremos freelance a distancia ni empresas
+Envíanos tu CV, tu portfolio de proyectos y tus aspiraciones profesionales y de salario.

@@ -1,0 +1,15 @@
+
+Uno de los objetivos de Oh! my brand es incrementar el valor de la marca de nuestros clientes a través de las nuevas tecnologías. Es por ello que siempre intentamos dominar las últimas tendencias y por lo que buscamos a una persona líder y con actitud para dominar las nuevas tendencias que aparecen en el mercado.
+Valoramos mucho la multidisciplinaridad de las personas que se incorporan y la capacidad para trabajar en diferentes tipos de proyectos.
+Buscamos incorporar para uno de nuestros clientes (empresa de fintech) a un programador senior  (Full Stack Developer) con experiencia mínima de 2 a 3 años. 
+Conocimientos sólidos en: 
+•	PHP 
+•	MySQL 
+•	HTML5 y CSS3 
+•	JavaScript 
+Valoramos:
+- Haber trabajado con Zend framework 1 yLaravel.
+- Experiencia en MongoDB 
+- Nociones de: machine learning, data mining o business intelligence.
+Descripción de la empresa:
+Oh my Brand - Creative agency in Barcelona

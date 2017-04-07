@@ -1,0 +1,17 @@
+
+Se busca desarrollador junior para mantener aplicación Android y su correspondiente API en PHP. Necesitamos que sea una persona polivalente y resolutiva que aporte ideas y le apasione la programación.
+Requisitos
+- Imprescindible dominio de Android Studio y SDK de Android
+- Conocimientos sobre Broadcast
+- Conocimientos sobre Bluetooth
+- Conocimientos sobre NFC
+- Experiencia con JSON
+- Experiencia con API-REST
+- Profundos conocimientos de ciclos de vida de Activity y Fragment
+- Profundos conocimientos de gestión de eventos
+- Conocimientos en PHP y SQL
+- Experiencia con diseño de UI/UX
+- Experiencia en unit testing
+- Experiencia con Push
+Media jornada con posibilidad de ampliación según necesidad del servicio
+

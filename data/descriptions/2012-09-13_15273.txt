@@ -1,0 +1,26 @@
+
+Stell dir vor: du arbeitest beim Gewinner des Liferay Community Awards 2011 und des führenden Liferay Partner in Deutschland, Spanien und der Schweiz. Träume werden wahr … der freie Platz für dich in der
+Championsleague der Portalentwicklung
+Für den Einsatz im Grossraum Bonn suchen wir per sofort oder nach Vereinbarung mehrere 
+Software Engineers Liferay (100 %, w / m)
+Das sind wir
+•	Wir sind überzeugt davon, dass es immer einen noch besseren Weg gibt, benutzerfreundliche und robuste Software zu bauen.
+•	Wir haben den Mut, uns ständig neu zu hinterfragen und das Neue zu wagen   sei es in der Technologie oder den Vorgehensweisen.
+•	Unsere Konstante ist die Begeisterung für Java, Open Source und Agilität. Geh mit uns diesen Weg!
+Das ist deine Herausforderung
+•	Kundenorientiert - du hilfst mit, die steigende Nachfrage unserer Kunden nach Portallösungen mit Liferay zu bedienen.
+•	Liferay – deine Erfahrungen und das vorhandene Wissen rund um Liferay setzt du bei der Mitarbeit von Architekturentwürfen, in der Implementierung und Einführung von Liferay in Grossunternehmen ein.
+•	Abwechslung garantiert - du arbeitest vorerst im Grossraum Bonn in enger Zusammenarbeit mit dem Produktionsstandort Stuttgart und dem zentralen Standort Bern/Schweiz.
+•	International – dein Arbeitsort ist Stuttgart, aber Kurzeinsätze im Ausland sind möglich und erwünscht.
+Das bringst du mit
+•	Eine höhere Informatikausbildung (UNI / FH / BA) und mehrjährige Erfahrung in der Softwareentwicklung.
+•	Ausgewiesene Kompetenz mit Liferay und JEE.
+•	Sehr gute Deutsch- und gute Englischkenntnisse
+•	Erwünscht sind: Spring, JPA und JSF/ICEfaces, SVN, Maven, Bamboo
+•	Du begeisterst dich für: Open Source Komponenten und prominente Software-Entwicklungskonzepte.
+•	Wir erwarten, dass dir agile Softwareentwicklung am Herzen liegt.
+
+Das erwarten wir
+Die ausgeschriebene Stelle erfordert von dir neben den technischen Kenntnissen und Fähigkeiten Flexibilität und Freude an selbständiger, fachübergreifender Arbeitsweise. Direkter Kundenkontakt ist für dich kein lästiges Muss, denn du bist überzeugt, dass nur dadurch gute Software entstehen kann. Unter Teamarbeit verstehst du nicht nur eine offene, transparente Firmenkultur, sondern auch das Commitment zu gemeinsamen ambitionierten Zielen. Dank deiner Motivation und deiner Auffassungsgabe trägst du wesentlich zum Erfolg unserer Projekte bei.
+Das bieten wir
+Hier wartet keine 08 / 15-Anstellung oder ein gemachtes Nest auf dich. Wenn dich aber Innovation und Aufbauarbeit motivieren und du bereit bist, dein Können in einem Unternehmen mit Perspektive und ambitionierter Zielsetzung täglich unter Beweis zu stellen, dann sollten wir uns unbedingt kennenlernen. Es erwartet dich ein dynamisches und unterstützendes Umfeld sowie grosses Entwicklungspotential. Zeitgemässe Anstellungsbedingungen sind für uns selbstverständlich. 

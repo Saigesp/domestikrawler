@@ -1,0 +1,13 @@
+
+Se busca programador (Ingeniero técnico en informática de sistmemas o similar) con sólidos conocimientos de PHP para integrarse en nuestra plantilla (no freelance, no teletrabajo). Su trabajo consistirá en desarrollar y mantener diversos sites que recibirán un tráfico intenso.
+Idealmente debería ser alguien que tenga:
+- Amplios conocimientos de PHP.
+- Experiencia demostrable en un puesto similar (proyectos realizados).
+- Conocimientos y experiencia en algún entorno tipo codeigniter/cake
+- Experiencia en de bases de datos (MySQL).
+- Motivación, proactividad, capacidad de aprender y de encontrar soluciones innovadoras a los diferentes problemas que puedan surgir durante un proyecto.
+- Capacidad de llevar varios proyectos a la vez.
+Se valorará:
+- Titulación universitaria.
+- Conocimientos de HTML/CSS/JAVASCRIPT, AJAX
+Codekünstler es un estudio técnico especializado en programación creativa y visual Un “partner” tecnológico para estudios de diseño, agencias y freelances que quieran desarrollar ideas innovadoras en el ámbito interactivo.

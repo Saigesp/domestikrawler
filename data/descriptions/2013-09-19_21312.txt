@@ -1,0 +1,25 @@
+
+We are looking for a full time, on-site web developer in the BCN area. You will be working directly on our flagship website. 
+Daily duties: 
+· Architect, develop, improve and maintain robust PHP web applications
+· Help to build and improve upon our website infrastructure, development environments, and deployment processes 
+· Collaborate closely with our design, UX and marketing team members in a fast-paced development environment 
+Skills: 
+PHP, LAMP, MySQL, Linux, Apache, PHP framework, Zend, Symfony, HTML5, CSS3, JavaScript, AJAX, JQuery 
+Requirements: 
+· Any experience with Symfony PHP framework is a plus 
+Unix/Linux administration skills 
+· Experience with Object Oriented programming methodologies 
+· Sharp, driven, entrepreneurial, strong communication skills 
+· Ability to complete assignments with minimal supervision and direction 
+Full time position 
+Location: Barcelona 22@ 
+Start Date: September 2013 
+Salary: Depending on experience 
+Benefits: 
+· Switch from on site to remote work / not all the time at the office / mobility 
+· Flexible schedule 
+· No dress code 
+· Experiment with new techniques and technologies 
+· Learn from high availability environments 
+· Grow on salary and position in a short term 

@@ -1,0 +1,15 @@
+
+Estamos buscando un programador PHP con experiencia en Magento, Prestashop y Wordpress para incorporarse de forma inmediata a nuestra oficina de Madrid.
+Buscamos una persona comprometida, activa y con muchas ganas de evolucionar y de demostrar sus capacidades en eCommerce y desarrollo web.
+Responsabilidades:
+- Desarrollar proyectos de eCommerce.
+- Desarrollar proyectos en Wordpress.
+- Diseñar y programar extensiones de Magento y Prestashop.
+- Desarrollar aplicaciones web en PHP haciendo uso de frameworks.
+Formación y Experiencia:
+- Formación académica especializada en desarrollo de aplicaciones web.
+- Experiencia profesional (mínimo 2 años) en programación en PHP.
+- Experiencia en Maquetación/Integración en Magento y Prestashop.
+- Experiencia con aplicaciones de gestión de versiones como GIT o Subversion.
+- Se valorará experiencia en otros entornos y plataformas eCommerce y conocer en profundidad el framework Laravel.
+- Se valorará experiencia en AWS.

@@ -1,0 +1,31 @@
+
+We are looking for a software developer who can envision and compose the technical requirements for a new software application based on the description of functionalities, then design its architecture and actually develop the software application making use of our existing APIs and components, and build new components where required.
+Responsibilities:
+develop software (web) applications including their back-end communications 
+use internal APIs from our micro-service architecture
+build new API calls and communications for new functionalities
+Background and experience:
+Required skills:
+Apache or NGINX (Web and Application Servers)
+HTML5, CSS, Javascript
+SQL (MySQL essential. OAUTH2)
+Python
+Flask
+Optional skills: 
+JAVA, Spring, AJAX, Linux (sysadmin) experience
+Collaborates with other software developers in a team
+Reports to: CTO, Development Director
+Salario:
+30.000€ - 42.000€ Bruto/año
+Beneficios sociales:
+Cheque restaurante
+Seguro médico
+Requisitos:
+Estudios mínimos: 
+Sin estudios
+Experiencia mínima:
+Al menos 3 años
+Conocimientos necesarios:
+Oauth  Apache  Nginx  API  CSS  HTML5  JavaScript  SQL  flask 
+Requisitos mínimos:
+Python

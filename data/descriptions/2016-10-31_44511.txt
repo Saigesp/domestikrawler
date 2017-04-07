@@ -1,0 +1,12 @@
+
+Almis Informática Financiera es una empresa de desarrollo software para entidades financieras y consultoría especializada. Damos soluciones informáticas a pequeñas, medianas y grandes entidades, amoldando nuestros perfiles y proyectos a las necesidades de nuestros clientes.
+Ubicados tanto en Madrid, País Vasco y Valencia, actualmente estamos abriendo procesos de selección para distintos proyectos en Madrid y Pais Vasco (Oñati), proyectos internos y en cliente.
+Requisitos a tener en cuenta:
+- Programación en Java
+- Bases de datos.
+- Se tendrá en cuenta la experiencia aunque no es condición indispensable.
+Ofrecemos:
+- Incorporación inmediata
+- Interesantes condiciones económicas y sociales.
+- Trabajar en una de las entidades financieras más importantes del sector.
+

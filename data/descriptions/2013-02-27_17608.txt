@@ -1,0 +1,8 @@
+
+Experiencia de mínimo tres años en desarrollo de páginas web dinámicas con PHP, Ajax, Javascript, jquery y bases de datos MySQL. Conocimientos de maquetación básicos, para poder implementar páginas de uso interno a partir de diseños y CSS entregados.
+Amplia experiencia de programación orientada a objetos, con estándares de Modelo-Vista-Controlador, con uso de frameworks como Yii, o también Codeigniter y Symphony. Experiencia en desarrollo en entornos Linux, con herramientas como eclipse/aptana y el sistema de control de versiones Git.
+Experiencia en proyectos de sistemas web o de bases de datos complejas e importante volumen de manipulación de datos. Habilidades relacionales, de comunicación y trabajo en equipo; iniciativa, creatividad y actitud positiva ante un entorno dinámico y de frecuentes cambios.
+Se valorarán:
+Conocimientos en programación de scripts o programas complejos de ejecución off-line.Experiencia en desarrollo de Web Services. Conocimientos en optimización SEO de páginas web. Experiencia en proyectos de desarrollo en el sector financiero o de seguros. Conocimiento de integración con plataformas de pago (paypal, TPV virtual etc.). Buen nivel de inglés
+Se ofrece
+Compensación económica interesante Flexibilidad Entorno de trabajo dinámico y en equipo Posibilidades de crecimiento profesional en un sector y en un proyecto de alto potencial

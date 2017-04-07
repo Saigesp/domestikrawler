@@ -1,0 +1,19 @@
+
+Buscamos un programador a tiempo completo e incorporación inmediata para formar parte del equipo de matchpoint y con ganas de desarrollar un trabajo de calidad mas allá del trabajo diario. Alguien que trabaje con pulcritud tanto la capa de presentación como su código, haciendo que el “look and feel” de sus proyectos brille a distancia. Acostumbrado a trabajar con el departamento creativo y que aporte valor e ideas.
+– Experiencia mínima de 2 años
+– HTML5
+– CSS3
+– Javascript
+– Experiencia en desarrollos con Diseño Web Adaptativo (Responsive Web Design – RWD)
+– PHP+ MySQL
+También valoraremos:
+– Frameworks Javascript (jQuery, Prototype, Angular, etc)
+– Frameworks PHP MVC (CakePHP, CodeIgniter, Zend, ...).
+– Otros frameworks (Bootstrap).
+– Experiencia en entornos LAMP.
+– Experiencia en el desarrollo de banners Rich-Media para distintas plataformas de Ad-Serving (DoubleClick, Syzmek, Flashtalking).
+– WordPress.
+– Magento y/o Prestashop
+– Desarrollo aplicaciones Mobile (iOS, Android)
+– Unity, Web 3D (threejs, WebGL, etc).
+

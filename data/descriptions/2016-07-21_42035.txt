@@ -1,0 +1,18 @@
+
+Buscamos un programador PHP Senior para el departamento de programación. Realizará su trabajo en equipo con el resto de programadores, así como con los diseñadores y maquetadores de la empresa.
+ 
+Requisitos:
+    Imprescindible experiencia mínima de 3 años en programación web (presentar portfolio de páginas web realizadas).
+    Se necesitan conocimientos en:
+        PHP + MySQL + JQuery
+        Prestashop
+        Wordpress
+        Conocimiento SEO.
+        HTML, CSS. XML, Javasript
+    Se valorará experiencia en:
+        Drupal
+        Symfony
+Condiciones:
+    Incorporación en Septiembre.
+    Lugar de trabajo: Barcelona
+

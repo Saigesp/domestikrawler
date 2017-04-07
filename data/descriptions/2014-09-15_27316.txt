@@ -1,0 +1,12 @@
+
+Buscamos freelance con conocimientos de programación entorno PHP/MySQL y de desarrollo Wordpress, perfil junior, para trabajar en nuestras instalaciones (Barcelona).
+Requisitos: 
+- Candidato con perfil junior con interés en adquirir experiencia en desarrollo PHP/MySQL para clientes corporativos, y en desarrollo avanzado sobre Wordpress
+- Conocimientos demostrables de programación PHP y en concreto sobre entorno Wordpress a nivel desarrollo de themes
+-Maquetación HTML/CSS
+Se valorará: 
+- Conocimientos Javascript/JQuery 
+- Conocimientos en desarrollo MVC con algun framework PHP (Symfony, Codeigniter, CakePHP, ...)
+Condiciones de trabajo: 
+- Media jornada como freelance
+Se integrara en el actual equipo de desarrollo participando en el desarrollo de los proyectos en curso.

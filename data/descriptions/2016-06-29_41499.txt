@@ -1,0 +1,12 @@
+
+Requisitos mínimos:
+•	Formación en ingeniería técnica o FP de informática o experiencia demostrable.
+•	Experiencia de desarrollo PHP5 / PHP7 con programación orientada a objetos y patrones de diseño.
+•	Experiencia de desarrollo web HTML5/CSS3 (DOM, LESS, SASS, Media Queries)/JS y estándares Web.
+•	Experiencia de bases de datos SQL (MySQL).
+•	Experiencia en JavaScript (jQuery / Ajax / JSON, XML, WebSocket y librerías de JS adicionales).
+•	Experiencia de desarrollo web sobre WordPress.
+•	Experiencia en maquetación web responsive con Bootstrap (diseño responsive).
+•	Experiencia en maquetación HTML5/CSS3 a partir de archivos PSD (Photoshop/Illustrator) o Zeplin.
+•	Experiencia en control de versiones (GIT y/o SVN).
+Muy valorable disponibilidad inmediata.

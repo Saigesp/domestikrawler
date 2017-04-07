@@ -1,0 +1,34 @@
+
+Buscamos desarrolladores de aplicaciones de movilidad Android e iOS para incorporarse al equipo de SDOS en MADRID con experiencia demostrable, que avalen el conocimiento y la experiencia en:
+- BBDD, SQLite 
+- Ficheros XML, JSON 
+- Web services: RESTful, SOAP 
+- Control de versiones: GIT y subversion 
+- Herramientas de testing y despliegue 
+- Dispositivos integrados en smartphones: GPS, cámara, Bluetooth, etc. 
+- Uso de patrones de diseño 
+- Interfaces de usuario avanzadas
+Específicos iOS: 
+- Entornos de desarrollo para iOS + iOS SDK (Xcode) 
+- Repositorio de paquetes Cocoapods 
+- Desarrollo con Storyboards 
+- Desarrollo con Autolayout 
+- Conocimientos de iOS Developer Center: creación de certificados, provisioning, etc. 
+- Integración de notificaciones push
+Específicos Android: 
+- Entornos de desarrollo para Java + Android SDK (Android Studio) 
+- Lenguajes: Java, JavaScript, HTML5, CS3 (valorables JQuery, Objective C) 
+- Repositorios de paquetes Maven/Gradle 
+- API Google (mapas, notificaciones push, etc.) 
+- Valorables: uso de Retrofit, Dagger, Event, Bus de Otto, JobQueue, Butterknife, ORMLite
+Valoraremos positivamente: 
+- Conocimientos sobre tecnología NFC 
+- Conocimientos sobre el protocolo XMPP 
+- Reconocimiento de imágenes 
+- Uso de Jenkins 
+- Herramientas cross platform (PhoneGap o similares)
+¿Por qué te interesa trabajar en SDOS? 
+- Trabajamos con las últimas tecnologías. 
+- Buen ambiente de trabajo. 
+- Incorporación inmediata en una empresa competitiva y en continua evolución. 
+- Oportunidad de crecer profesionalmente.

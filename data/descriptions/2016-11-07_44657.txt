@@ -1,0 +1,41 @@
+
+For our Madrid office, we are looking for a Frontend Developer to join our team in creating awesome visual and functional JavaScript components. The ideal candidate should be proficient in HTML5, CSS3 and Angular.
+We are all no ninjas or allstars, but as a young company, we are looking for people who are self-started with a do-it attitude. As our team is still small, you will have to wear a lot of different hats - but it also means that you can specialise in a field you enjoy and become the expert in your area.
+OUR TECHNOLOGY STACK
+Angular 1.5
+SASS
+Jade
+Gulp
+ES6 (babel)
+Ramda
+Unit testing (mocha, chai, sinon)
+Functionals test
+Continuous integration (Jenkins)
+Version control (Git)
+KEY RESPONSIBILITIES
+Visual and Functional Development
+Combine views of UX and UI and translate them into reality
+Act as a bridge between design and backend
+TASKS
+Develop full functioning UI in JavaScript
+Create clean HTML and CSS with a focus on new standards (HTML5, CSS3) and modern browsers
+Work closely with fellow visual and UX designers, developers, copywriters, translators and marketing people to build realistic user experience solutions that also meet business objectives
+REQUIREMENTS
+5+ years of development experience
+Substantive experience with large JavaScript applications
+Strong knowledge of HTML5, CSS3, SASS
+Experience working with Angular, web-component oriented
+Knowledge of ECMAScript 6 and standards
+Strong interest in UI/UX and performance
+Experience working with documentation, testing, and optimization
+Ideally, knowledge of: 3D.js, agile methodologies, git as version control system
+English working level
+BENEFITS
+We are not your everyday company. As a young and growing startup, that is also a co-venture between an asset management firm and a private bank, we combine the best of two worlds internally as well: Access to the resources of strong partners and the agile environment to really make a difference.
+Our engineering team is based in Madrid, all operating functions are based in the heart of the City in London. Both environments offer all the flexibility and perks that you expect from a small but quickly growing firm.
+At our Madrid location, we will also treat you to the following:
+On-site chef for lunch
+A breakfast kitchen and fruit during the day
+A budget for your equipment
+On-site gym and sports facilities
+Access to personal and professional learning resources

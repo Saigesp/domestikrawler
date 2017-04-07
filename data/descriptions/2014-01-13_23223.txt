@@ -1,0 +1,15 @@
+
+Queremos evolucionar (conforme a un diseño ya dado) la parte FrontEnd de aplicaciones existentes en la compañía a las nuevas tecnologías. Buscamos ademas implicación con el resto del equipo en el análisis y los nuevos desarrollos.
+Requisitos:
+- Experiencia en el desarrollo front de al menos cutro años a nivel profesional.
+-  Dominio de tecnología web: JavaScript, Jquery, HTML5 y CSS3.
+-  Experiencia en Diseño y Componentes Web.
+-  Conocimientos JavaScript MVC, AMD asi como de otras herramientas y frameworks relacionados como Backbone.js, node.js, Bootstrap, Angular.js. 
+- Disponibilidad para trabajar en nuestras instalaciones (Alcobendas).
+Se valorarán:
++ Conocimiento de programación en J2EE.
++ Conocimientos en usabilidad.
+Se ofrece:
+- Contratación directa por cliente final.
+- Formar parte de un equipo técnico multifuncional y puntero tecnológicamente.
+- Buen ambiente.

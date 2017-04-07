@@ -1,0 +1,31 @@
+
+SIB3RIA es una consultoría de diseño. Trabajamos con grandes marcas nacionales e internacionales. Estamos buscando un perfil Frontend Freelance que esté al día de las últimas tendencias en desarrollo web. 
+Nos dan igual la edad y la experiencia, pero queremos a alguien comprometido con nuestra estrategia centrada en el diseño, que encuentre el equilibrio correcto entre la obsesión por el detalle y la planificación ágil del proyecto y que sepa tanto dirigir un equipo de trabajo como sentarse a hablar con el cliente.
+Ofrecemos la oportunidad de participar de un proyecto en expansión y de aprender y crecer profesional y salarialmente con nosotros. Queremos crear una red de confianza para colaborar con nosotros bien en proyectos puntuales o asiduamente. No creemos en los salarios, horarios y lugares fijos negociaremos la oferta en función de las necesidades y capacidades del interesado.
+Nos preocupamos por generar un ambiente de trabajo agradable. :)
+Responsabilidades:
++ Intervención en proyectos ya puestos en marcha o arranque y desarrollo integral de nuevos proyectos de desarrollo web 
++ Supervisión de equipos de trabajo y reporte de tareas al director de proyecto 
++ Control de calidad e interlocución con los equipos de desarrollo del cliente
+Conocimientos imprescindibles:
++ HTML / HTML5
++ CSS / CSS3
++ Javascript, uso de librerías como jQuery, técnicas como Ajax y manipulado de conjuntos de datos en JSON/XML 
++ Conocimiento de SASS
++ Código semánticamente correcto, crossbrowser y SEO friendly 
++ Estrategia 100% móvil: maquetación responsive (media-queries y optimización para entornos táctiles), crossdevice, especialmente en plataformas móviles muy fragmentadas como Android y orientada hacia pantallas de alta resolución 
++ Conocimiento de Adobe Photoshop, Illustrator, Fireworks y Sketch para manejar los entregables 
++ Capacidad para trabajar en plataformas online y manejarse con lenguajes de servidor
++ Experiencia en control de versiones con GIT 
+Conocimientos muy deseables:
++Mac user o predisposición para serlo
++ Experiencia con generadores de estáticos
++ D3.js, Raphael u otras librerías de visualización de datos 
++ Experiencia con la api de GMaps 
++ Arquitectura de la plataforma Wordpress y de otros CMS 
++ Experiencia en desarrollo de newsletters 
++ Inglés fluido hablado y escrito
+También se valorarán conocimientos en: 
++ Arquitectura de la información, accesibilidad y usabilidad 
++ PHP/Ruby/Python/Node.js
+Muchas gracias ;-)

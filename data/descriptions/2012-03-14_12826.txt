@@ -1,0 +1,10 @@
+
+Hola!
+Estamos buscando programadores freelance de diferentes perfiles para cubrir diferentes proyectos. Lo que buscamos es:
+- Experiencia en PHP, MySQL, XHTML, CSS y Javascript.
+- Experiencia en desarrollos para redes sociales.
+- Experiencia en aplicaciones nativas iOS/Android.
+- Ecperiencia en administración de sistemas Linux.
+Si cumples con alguno de estos requisitos ponte en contacto con nosotros y envianos alguna referencia de trabajos anteriores si es posible.
+Muchas gracias y un saludo.
+

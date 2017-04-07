@@ -1,0 +1,11 @@
+
+Somos Act One Comunicación, agencia creativa que esta empezando a desarrollar proyectos on-line de envergadura y necesitamos ampliar nuestro equipo de trabajo. Para ello, por lo necesitamos desarrollador o desarrolladores  Adhoc para Backend y Frontend en symfony 2.5 + postgres.
+* Conocimientos de compilación de Apps en Phonegap (IOS / Android)
+* HTML5 / CSS3
+* Maquetación responsive
+Se valorará:
+* Conocimientos Wordpress
+* Conocimientos Moodle
+* Implementación de estadísticas en desarrollos adhoc
+Se ofrece colaboración estable para diferentes proyectos.
+

@@ -1,0 +1,5 @@
+
+Buscamos a un desarrollador IOS para una app sencilla con visos de tener largo recorrido.  De momento solo nos interesa desarrollar un pequeño piloto.
+La app debe grabar video, asignarle unos códigos a dicho video (hora exacta de grabación y geolocalización), subir el video a una web, e integrarse con otros videos.
+Diponemos de la documentación de las APIs de la web con la que deberan integrarse los videos grabados.
+Buscamos a una experiencia con experiencia en IOS y deseable en Android.  Si además sabe desarrollos web diversos, algo de front end y de back, mejor que mejor.

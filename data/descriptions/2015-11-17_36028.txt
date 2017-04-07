@@ -1,0 +1,10 @@
+
+FUNCIONES:
+En Iddium estamos buscando programador desarrollador para formar parte de un equipo  dinámico en nuestra empresa de marketing online. Buscamos una persona apasionada, con ganas de aprender, evolucionar y sacar el trabajo adelante.
+Su función principal serán la programación y desarrollo web, maquetación responsive y demás problemas que vayan surgiendo de desarrollo y programación de los diferentes proyectos en los que se trabaje.
+REQUISITOS:
+-	Experiencia de al menos 2-3 años desarrollando proyectos digitales (websites, e-commerce, campañas, e-mailings, landings, apps, etc).
+-	Experiencia con HTML, Javascript/ AJAX y jQuery. Se valorarán conocimientos de frameworks (bootstrap).
+-	Experiencia en programación PHP y SQL, así como de wordpress, Joomla  y otros CMS.
+-	Se valorara experiencia manejando Photoshop, Illustrator e Indesign.
+-	Horario de media jornada

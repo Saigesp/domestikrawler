@@ -1,0 +1,30 @@
+
+Buscamos para incorporar a nuestro equipo un maquetador web freelance con experiencia.
+Imprescindible:
+- QUE LE GUSTE MAQUETAR Y LE GUSTE "CLAVAR" LOS DISEÑOS. :)
+No le pediremos ni que diseñe, ni que programe javascript, ni que programe PHP, ni Ruby On Rails, ni CMS. Pero si que necesitamos que disfrute maquetando y lo haga a gusto. Eso se nota.
+- QUE SEA PROFESIONAL Y ESCRUPULOSO CON SU TRABAJO
+Necesitamos a un profesional que le guste hacer las cosas bien, que se encargue de entregar el trabajo en el tiempo acordado, ya comprobado y sin fallos. 
+-QUE SIGA ESTÁNDARES
+XHTML Strict.
+- QUE SEPA TRABAJAR CON LESS 
+ http://lesscss.org/
+- QUE SEPA TRABAJAR CON FONTSQUIRREL
+ http://www.fontsquirrel.com/fontface/generator
+- QUE PRUEBE EL CROSSBROWSING Y NO ESPERE A QUE LO HAGA EL CLIENTE.
+Que pruebe las maquetaciones en IE7+, Chrome, Firefox y Safari. No solo screenshots, sino que lo pruebe en serio, principalmente en windows.
+- QUE PUEDA EMITIR FACTURAS.
+Las cuentas claras.
+- QUE TRABAJE BIEN POR SKYPE 
+Todo el trabajo será no presencial.
+Ofrecemos:
+- Pocas reuniones (y por skype) y pocos dolores de cabeza.
+- Colaboración a largo plazo. Al principio proyectos puntuales pero con el tiempo ir aumentando.
+- Pagar por adelantado. (No en el primer proyecto pero si en cuanto veamos que hay confianza)
+- Plazos de entrega holgados y razonables.
+- Descuentos suculentos en nuestros productos y servicios. 
+Interesados por favor enviadnos por email:
+- una pequeña muestra de vuestros trabajos de maquetación (2 o 3) 
+- algun presupuesto orientativo 
+- y si tenéis vuestro linkedin. 
+ El mail lo tenéis más abajo en "como apuntarse"

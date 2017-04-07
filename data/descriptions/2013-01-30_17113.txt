@@ -1,0 +1,19 @@
+
+Eres especialista en Magento y estás buscando un proyecto donde demostrar todo lo que puedes hacer? ¿Estás harto de que todo el mundo haga su ecommerce en Prestashop? ¿Te gusta el Ping Pong? 
+En itnig estamos buscando a un especialista en este tipo de software para ecommerce que pueda desarrollar todo su potencial para uno de los proyectos en los que estamos trabajando. Nos interesa una persona autónoma, acostumbrada a trabajar por objetivos y resolutiva. 
+Qué es itnig?
+Somos es una aceleradora de negocios en internet que se involucra en el proceso creativo, de desarrollo de producto y de negocio. Nuestro trabajo se concentra en cuatro áreas: desarrollo de negocio, experiencia de usuario, desarrollo de software y marketing online. 
+Requisitos mínimos 
+
+Dominio de la plataforma de e-commerce Magento, con una experiencia mínima de 2 años.
+Conocimientos en importación de datos externos e implementación en la plataforma (importación de listados de productos, importación de propiedades a productos ya existentes, etc).
+Capacidad de implementación de un conjunto de mejoras en SEO (cambios de URLs  de productos con sus respectivas redirecciones de la URL antigua a la nueva).
+Capacidad de gestión y configuración de plugins en la plataforma. 
+Conocimientos en optimización de la plataforma a nivel de rendimiento (implementación en términos de WPO) 
+Capacidad de implementar cambios en la apariencia, maquetación y diseño siguiendo un conjunto de directrices. 
+Conocimiento del sistema de control de versiones git.
+Tipo de contrato: Freelance 
+Dedicación: 20h semanales 
+Duración: 2 meses 
+Incorporación: Inmediata (máx. 11 de febrero) 
+Ubicación: Barcelona 

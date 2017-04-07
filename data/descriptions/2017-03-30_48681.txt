@@ -1,0 +1,5 @@
+
+Se busca programador Android para trabajar en proyectos in-house. Somos una empresa joven, en crecimiento y con proyectos como para no aburrirse nunca. Buscamos un programador Android con ganas de crecer en un entorno dinámico con multitud de proyectos diferentes.
+Requisitos: Lo típico; Conocimientos en desarrollo nativo de Android, conocimientos de SDKs de analítica (Google Analytics), gestión de errores/logs (Crashlystics), push notifications, librerías de integración con social media (Twitter, Facebook, etc.) y, puestos a pedir, experiencia en el desarrollo de apps iOS y/o frameworks cross.
+Jornada completa (menos los viernes por la tarde, que son sagrados). Oficina cerca de la playa. Trabajamos en agile, nos organizamos con Asana y nos relajamos con Spotify.
+Si tienes disponibilidad inmediata y ganas de trabajar... ¡escríbenos!

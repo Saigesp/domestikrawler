@@ -1,0 +1,18 @@
+
+Buscamos Programador(a) PHP, MySql y JavaScript (jQuery).
+En Interiorvista buscamos a un/a PROGRAMADOR/A PHP para incorporar en nuestro departamento interno de Software para colaborar en el desarrollo de diferentes aplicaciones y servicios web.  Necesitamos una persona con espíritu positivo, con muchas ganas de aprender y mucho que aportar, capacidad de trabajo en equipo, que ante las dificultades siempre encuentres soluciones, con talento, pasión y vocación natural para la programación. 
+InteriorVista es una compañía internacional líder en el sector del mueble en 3D, y actualmente cuenta con una plantilla de más de 30 trabajadores. Ha centrado su actividad en generación de imágenes digitales, aplicaciones web, planificación de espacios y venta on line.  Actualmente está operando en 10 países a nivel internacional.
+Qué ofrecemos:
+- Buen ambiente de trabajo, dentro de un equipo joven y dinámico. 
+- Oportunidad de entrar en una empresa de rápido crecimiento (30% en el 2012).
+- Proximidad ante las inquietudes personales. 
+- Retribución acorde a tu valía, categoría y experiencia. 
+- Participación en proyectos para empresas internacionales. 
+- Estabilidad profesional. 
+Requisitos mínimos:
+- Experiencia en proyectos en PHP mínimo 2 año. 
+- Conocimientos en Frameworks de PHP (Symfony, Zend).
+- Conocimientos en HTML5 y CSS3. 
+- Experiencia con Javascript (Jquery) y Ajax. 
+- Maquetación web.
+- Bases de Datos MySQL.

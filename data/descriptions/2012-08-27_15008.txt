@@ -1,0 +1,17 @@
+
+Dependencia Jerárquica Superior:
+CEO y CTO.
+Funciones del puesto:
+La persona seleccionada se encargará de maquetar páginas web de escritorio y móvil.
+Imprescindible:
+Conocimientos de maquetación de páginas web de escritorio y móvil.
+HTML5, CSS, jQuery o similar para AJAX, validación, etc.
+Experiencia con sistemas de plantillas, preferiblemente Twig.
+Se valorará:
+Conocimientos de PHP, Symfony u otro framework.
+Manejo de herramientas gráficas, como Photoshop, Illustrator, etc.
+Maquetación para Android (XML).
+Lenguages:
+Imprescindible nivel B1 de inglés. Se evaluará durante la entrevista.
+Requisitos del ocupante del puesto:
+Persona dinámica y creativa, con iniciativa, mucha actividad y alta implicación. Abstenerse candidatos que no cumplan estos requisitos mínimos. Todos los candidatos preseleccionados deberán pasar una prueba consistente en la maquetación de un documento PSD que tendrá que entregar maquetado. La prueba no se usará para otro propósito que la selección del candidato.

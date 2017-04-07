@@ -1,0 +1,25 @@
+
+Precisamos de una programador con experiencia en la plataforma Xamarin de .Net asi como con C#/.Net en general.
+El candidato deberá tener experiencia en Xamarin en ambas plataformas moviles, tanto Android como iOs. (No Xamarin Forms)
+Otros conocimientos que valoramos positivamente:
+- Accesos a APIs (REST, SOAP, etc.).
+- Conocimientos en Gestión de código fuente y proyectos: Visual Studio Team Services, Team City.
+- Experiencia en tecnologías de publicación de apps móviles: HockeyApp, Apple Store, Google Play etc.
+- Experiencia en Cloud. Microsoft Azure. Azure Insights. Azure Mobile Engagements.
+- Herramientas Unit Testing:: Microsoft Test Manager.
+- Metodologías de trabajo: SCRUM.
+Se ofrece: 
+- Zona de trabajo: Barcelona.
+- Gran crecimiento personal y excelente ambiente de trabajo.
+Tipo de industria de la oferta
+Turismo
+Categoría
+Informática y telecomunicaciones - Programación
+Nivel
+Empleado/a
+Personal a cargo
+0
+Número de vacantes
+1
+Horario
+9h - 18h

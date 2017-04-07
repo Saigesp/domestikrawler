@@ -1,0 +1,16 @@
+
+En Yieldr buscamos un programador para formar parte de nuestro equipo de creative developers en Barcelona. Su función será ayudarnos a dar vida a campañas de banners dinámicos y rich media. El candidato ideal es alguien a quien le guste los retos y el trabajo en equipo.
+Responsabilidades
+- Desarrollar campañas creativas
+- Preparar y mantener la librería de Yieldr
+- Desarrollar aplicaciones web y componentes
+- Trabajar con el equipo de product development
+Requisitos:
+- Pasión por el código de calidad
+- Nivel medio de inglés hablado/escrito
+- Experiencia desarrollando webs y/o apps (2 años mínimo)
+- Experiencia con HTML(5), JavaScript y CSS(3)
+Los siguiente es un plus:
+- Adobe Creative Suite
+- Tecnologías de servidor como SQL, XML, PHP, JSON
+- Cualquier otro idioma a parte del inglés

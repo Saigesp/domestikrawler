@@ -1,0 +1,22 @@
+
+At The Workshop, we invent and reinvent software solutions so businesses can rise above the competition. From disruptive software to cutting-edge technology, we’re all about thinking big and bringing our razor-sharp ideas to life. We’re not bogged down by process or limited by lack of aspiration. And we trust each other to make intelligent decisions, to challenge, change, improve and perfect. It’s a culture where forward-thinkers like you can be fearless.
+Your mission
+We are looking for a UI developer who is excited about making the difference by quickly bringing rough design ideas to life and tackling new creative challenges. You will build prototypes for both web and mobile, which truly deliver on the design promise and follow the highest standards. 
+You will be part of the Product Design team, our creative department. We aim to set industry standards in innovation and quality covering the full life cycle of our products – from initial concept right through play.  You will be working in close collaboration with other teams’ UI Developers, supporting them in the integration of our prototypes.
+What you´ll do
+-	In collaboration with UX Designers and UI Designers, you will produce functional prototypes on HMTL5, CCS3, and/or on any other front-end technology required.
+-	You will be responsible for development projects where you must: report problems on time, specify needs, and present status reports to UX managers.
+-	You shall collaboratively work with Product Design Director, UX Managers, UX Leads, UI development leads, Product Managers, and other colleagues in order to guarantee the quality of the User Experience.
+-	You serve as a subject master expert throughout the lifecycle of the project.
+-	You constantly monitor new technology trends, frameworks, and approaches that deliver the best possible Human-Computer Interaction.
+What you´ll bring
+-	Experience in Web development
+-	Proven experience developing & implementing fully responsive design solutions to be functional across web, tablet, and mobile. 
+-	Experienced in web-based technologies, including HTML5, CSS3 JavaScript or jQuery
+-	Experience of pre-processors such as SASS or SCSS
+-	Working knowledge of GIT
+-	Exposure to Angular framework
+-	Strong Knowledge of Website prototyping tools
+-	Good debugging and problem solving skills 
+-	Solid understanding of UX/UI design principles and usability concepts
+-	Excellent communication skills and ability & desire to work as a team player 

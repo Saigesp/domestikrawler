@@ -1,0 +1,18 @@
+
+Grupo Romeu, líder en el sector de la logística y transporte internacional, busca incorporar para su propia Consultora interna, GRM Multiservices, un profesional del Area IT Sistemas, con conicimientos de programación orientado a Sistemas.
+Concretamente, sus funciones serán:
+* Desarrollo de scripts para la automatización de procesos de sistemas basados en Microsoft (Powershell, WMI, procesos Batch)
+* Desarrollo de herramientas de automatización de procesos de sistemas basados en Microsoft
+* Generación de documentación y procedimientos técnicos.
+Conocimientos mínimos:
+*Experiencia mínima de 1 año en el desarrollo de scripts en Powershell y WMI
+*Experiencia demostrable de 3/5 años en administración de servidores Windows, administración de Active Directory y Exchange.
+* Formación FPII o Grado Superior Informática
+* Inglés: Nivel medio-alto
+Conocimientos deseable:
+* MCSA Windows server 2008 o 2012
+* MCITP Enterprise Messaging Administrator
+OFRECEMOS.-
+*Contratación indefinida tras período de prueba
+*Excelente ambiente de trabajo
+*Incorporación inmediata a grupo empresarial sólido y líder en su sector

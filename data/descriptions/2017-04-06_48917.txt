@@ -1,0 +1,38 @@
+
+Si eres de los que piensa que “El tiempo pone a cada uno en su lugar, y si haces SEO, un poco más arriba” ¡Te buscamos!
+Marketalia, Agencia Integral de Marketing y Comunicación Online, precisa en su oficina del centro de Madrid un Consultor SEO Senior para incorporación inmediata, a jornada completa y contratación indefinida. 
+Ofrecemos al candidato seleccionado una oportunidad para trabajar en un entorno dinámico y la posibilidad de desarrollar su carrera en una Agencia con 100% independiente y con profesionales que cuentan con experiencia en marketing online desde 1999.
+Si quieres formar parte de nuestro Equipo de SEO no dudes en contactarnos. 
+¡Visita nuestras oficinas y nos conoceremos echando una partida de ping pong!
+Requisitos del puesto:
+•	Experiencia en las estrategias de optimización "on-site":
+o	Auditar todas las necesidades de mejora desde el punto de vista SEO de un site y llevar a cabo las implementaciones necesarias:
+-	A nivel de servidor: sitemaps, velocidad del sitio, imágenes, ficheros JavaScript y CSS. 
+-	Topografía: estrategia de indexación, ficheros robots.txt, uso de paginadores, enlaces reflexivos.
+-	Arquitectura del site: estrategia para el uso de menús de categorías y subcategorias según tipo de contenido.
+-	Front End: elementos SEO principales, niveles Hx, uso de etiqueta canonical, microformatos (breadcrumb, producto, vídeo, etc), implementación de menú principal, footer. 
+-	Recomendaciones adicionales por tipo de contenido: categoría, producto/servicio, estructura de listados de servicios, imágenes y texto de categoría, menús subcategoria de la principal. 
+-	Mobile: diseño responsive.
+o	Capacidad completa para realizar Investigaciones de Palabras Clave:
+-	Herramienta: Planificador de palabras clave de Google. 
+-	Realizar matriz organizada por grupos semánticos.
+-	Asignación de términos principales y secundarios de optimización a cada una de las landings principales del site. 
+-	Detectar oportunidades para la creación de contenidos relacionados temáticamente en función del volumen de búsquedas (keywords genéricas vs long tail).
+•	Experiencia en las estrategias de optimización "off-site":
+o	Estrategia de linkbuilding y linkbaiting. 
+o	Análisis del perfil de enlaces del site así como de sus competidores.
+•	Copywriting SEO:
+o	Elaboración de guía de redacción de contenidos orientados a SEO, adaptadas en función del cliente.
+•	Manejo de herramientas SEO:
+o	Palabras clave: planificador de palabras clave de Google, Keyword Tool, KWFinder, SEMrush. 
+o	Velocidad de Carga: GT-Metrix, Webpagetest. 
+o	Análisis de Backlinks y la Competencia: Ahrefs, SEO Spyglass, Majestic. 
+o	SEO Técnico y Análisis Web: Google Search Console, URL Profiler, Screaming Frog.
+•	Experiencia posicionando diferentes CMS (Wordpress, Magento, Prestashop) tanto orientadas a la construcción de una marca, como orientadas a servicios o búsquedas transaccionales (e-commerce).
+Valorable conocimientos de… 
+-	Lenguaje de Programación: HTML, CSS y JavaScript. 
+-	Usabilidad: diseño de interfaz y arquitectura de información. 
+-	Conocimiento de Administración de Servidores. 
+-	Analítica web: Google Tag Manager, Google Analytics. 
+-	Manejo de otras herramientas de SEO, CRO, UX, trackeo y medición. 
+-	Un segundo idioma.

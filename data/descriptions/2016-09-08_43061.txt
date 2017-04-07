@@ -1,0 +1,19 @@
+
+- Experiencia mínima de 2 años como como programador frontend con desarrollos en: Wordpress, HTML5, CSS3 y Javascript (JQuery) con Responsive Web Design
+- Conocimientos básicos de PHP 
+- Se valorará experiencia previa en desarrollos con Prestashop, integración con pasarelas de pago 
+Competencias Personales:
+- Proactividad, con orientación al cliente y a resultados
+- Capacidad de iniciativa para proponer soluciones e ideas
+- Capacidad de autoformación
+- Capacidad de trabajo en equipo 
+Se responsabilizará de:
+- Creación de experiencia de usuario UX/UI atractivos a partir de wireframes
+- Colaborar en la mejora de los desarrollos y experiencia de usuario en las webs de los clientes
+- Creación de landing pages
+- Desarrollar y probar en distintas plataformas y dispositivos, asegurando un diseño responsive y la compatibilidad con navegadores
+- Capacidad de desarrollar un proyecto en Wordpress desde cero (sin plantilla), con diseño responsive y plugins a medida
+- Instalación y configuración de Wordpress y mantenimiento del sitio web
+- Deberá garantizar el cumplimiento de los requerimientos, asegurando la calidad de los entregables, ejecución y timings durante todo el ciclo de vida del proyecto
+- Mantenerse al día con las tendencias y la tecnología en diseño front-end y UX/UI
+

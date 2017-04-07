@@ -1,0 +1,6 @@
+
+Somos Eric Vökel Boutique Apartments. Comercializamos apartamentos turísticos de diseño nórdico en Barcelona y Madrid.
+Buscamos desarrolador web freelance a tiempo parcial para nuestras oficinas en Barcelona. 
+Importante
+Conocimientos de front end y back end.
+Front end: PSD , photoshop, maquetación HTLM y responsive design. Backend PHP5 y framework MVC.

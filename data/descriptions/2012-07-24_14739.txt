@@ -1,0 +1,12 @@
+
+Maquetador web con conocimientos de maquetación cross-browser
+-Conocimientos avanzados en XTML, CSS y W3C
+-Buenos conocimientos de JavaScript (DOM Y Ajax)
+- Familiarizado con la librería jQuery
+-Persona proactiva
+-Organizado y metódico en su trabajo
+- Habilidades para seguir un proyecto y ponerse hitos
+- Habituado a trabajar bajo presión
+- Capacidad de trabajo en equipo
+- Se valorará experiencia trabajando con sistemas de control de versiones (GIT)
+

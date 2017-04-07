@@ -1,0 +1,25 @@
+
+Hola! somos interacso, una empresa de desarrollo ágil, UX y diseño de productos digitales interactivos basada en Madrid.
+Desarrollamos productos digitales, sitios web avanzados y aplicaciones móviles para clientes de todos los tamaños, tanto empresas consolidadas como startups, principalmente utilizando HTML5 y otras tecnologías web modernas. Tenemos amplios conocimientos y experiencia con multitud de APIs y Frameworks.
+Creemos en la simplicidad y nuestra filosofía es aprender creando, nos gusta explorar tecnologías creando cosas nuevas e invertimos tiempo en desarrollar productos propios que posteriormente convertimos en startups, como conceptinbox.com entre otros.
+Tus tareas consistirán en desarrollar proyectos con distintas tecnologías, principalmente Symfony2 / node.js para el back y AngularJS / React para el front, conectarte a apis rest y websockets y maquetar en CSS con algún framework como Bootstrap, semanticUI, etc.
+FUNCIONES
+Desarrollo back en PHP principalmente con Symfony2/3
+Desarrollo de APIs REST en PHP
+Modelado de bases de datos principalmente en MySQL
+Desarrollo front con Angular 1/2 y React principalmente
+Integrar y usar librerías de terceros
+Trabajo con APIs REST en JS
+REQUISITOS
+Experiencia de al menos 1 año desarrollando con Symfony o node.js (backend)
+Experiencia usando GIT
+Experiencia de al menos 1 año desarrollando con Angular o React
+Deseable experiencia con bower, npm y gulp/grunt
+Los más importantes: Capacidad de trabajo en equipo, actitud positiva, capacidad de aprendizaje constante e iniciativa
+OFRECEMOS
+Contrato inicial de 6 meses y posterior indefinido
+Flexibilidad horaria, posibilidad de teletrabajo
+Carrera interna
+Entorno innovador
+Remuneración según valía
+Si eres una persona curiosa, dinámica, que te gusta poner atención al detalle y buscas una empresa con proyectos interesantes donde ampliar tus habilidades estaremos encantados de conocerte

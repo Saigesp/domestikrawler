@@ -1,0 +1,18 @@
+
+Agencia creativa independiente, selecciona persona cualificada con cierta experiencia demostrable en el área de desarrollo web, para un puesto con jornada completa y una posición estable.
+El perfil de programador que buscamos debe tener: 
+- Nivel alto de conocimientos de PHP, Mysql, Javascript, HTML5 y CSS3. 
+- Experiencia mínima de trabajo de 1 año. 
+- Nivel muy alto de familiarización con los CMS (Wordpress, Prestashop, Joomla, Magento...), sobre todo Wordpress.
+Se valorará: 
+- Experiencia utilizando Frameworks de PHP (MVC) 
+- Aportar portfolio con trabajos anteriores. 
+- Conocimientos y experiencia con las API de Twitter y Facebook.
+Se ofrece: 
+- Horario de 9.00h a 14.00h y de 16.00h a 19.30h de lunes a jueves, viernes de 9.00h a 15.00h. 
+- Integración en un equipo joven con profesionales de múltiples disciplinas .
+Requisitos: 
+- Estudios mínimos Formación Profesional Grado Superior - Informática 
+- Experiencia mínima al menos 1 año 
+- Conocimientos de PHP,MySQL, HTML5, CSS3, JAVASCRIPT
+- Familiarización con los CMS sobre todo Wordpress

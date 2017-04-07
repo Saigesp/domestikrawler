@@ -1,0 +1,4 @@
+
+Buscamos para colaboración puntual desarrollador web con conocimientos de framework Codeigniter.
+El trabajo consiste en modificar funcionalidades sobre desarrollo actualmente en activo, como por ejemplo, validacion de campos de formulario, segmentación de búsqueda, inclusión de nuevos campos de formulario, y otros que veríamos una vez tengamos contacto.
+Adicionalmente habrá que aplicar nuevos estilos css bajo diseño en psd ya aprobado por el cliente.

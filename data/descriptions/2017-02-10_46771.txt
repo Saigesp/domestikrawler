@@ -1,0 +1,8 @@
+
+Buscamos un Desarrollador HTML/CSS – Ux para cubrir una posición semi-presencial durante 6 meses jornada completa. Los primeros 3 meses serán en oficinas del cliente en Madrid y los siguientes 3 meses podrán ser deslocalizados (desde tu casa, oficina o donde quieras).
+Las capacidades requeridas y actividades principales serían:
+-Análisis: Toma de contacto con usuarios target para conocer sus necesidades de primera mano. 
+-Recolección de assets y branding guidelines.
+-Diseño y desarrollo de templates en HTML y CSS para emailing y websites.
+-Propuesta de mejores prácticas sobre UX (web&mobile) aplicadas al desarrollo de una comunidad online.
+Es muy probable que algunas de las reuniones y personas que formen parte del proyecto hablen en Inglés, por lo cual es necesario que puedas dominar tanto a nivel escrito como oral. 

@@ -1,0 +1,15 @@
+
+Descripción: Se requiere de una persona encargada de programar las diferentes plataformas web de la empresa, así como el testeo y control de calidad posterior. También deberá dibujar los proyectos antes de su realización.
+Perfil: Se requiere a una persona con formación y gran experiencia en programación demostrable (se realizará una prueba de nivel).
+•	Principales lenguajes usados: PHP5, HTML5, CSS3, JavaScript, AJAX y JQuery.
+•	Experiencia en maquetación web responsive con Bootstrap.
+•	Experiencia en programación orientada a objetos.
+•	Experiencia con aspectos de seguridad y optimización de recursos.
+•	Se valorará el tener aptitudes de diseño y un buen criterio de usabilidad.
+•	Valorable conocimientos en iOS y Android.
+Buenas habilidades de comunicación verbal y escrita. Se busca una persona dinámica, con capacidad de trabajo en equipo y resolutiva, con inquietud por aprender y con ganas de aportar nuevas ideas y mejoras. 
+Experiencia deseada: Mínimo 4 años en tareas similares.
+Estudios mínimos: Ingeniero técnico.
+Tipo de contrato: Indefinido, con periodo de prueba de 6 meses.
+Horario: Jornada completa (intensiva preferiblemente por la mañana o partida).
+

@@ -1,0 +1,23 @@
+
+DCOS Consulting es una empresa española que centra su actividad en el ámbito de las Tecnologías de la Información. Desde su creación en 2007, ha desarrollado múltiples proyectos en distintos entornos tecnológicos así como para diferentes sectores de actividad. 
+La experiencia acumulada convierte a DCOS Consulting en un referente en Consultoría, Distribución e integración de Tecnologías Software y Servicios Profesionales.
+Actualmente tenemos varios clientes los cuales precisan incorporar para importantes proyecto en Madrid, Programadores Java con conocimientos en:
+- Desarrollo Frontend, JavaScript 
+- Amplio conocimiento en lenguajes HTML con conocimientos previos en EMBERJS con algún Framework MVC Backbone Angular. 
+Conocimientos valorables en:
+- Javascript
+- Frameworks
+- Emberjs
+- Angular ss
+- Backbone
+Experiencia en alguno de los siguientes Framewors y herramientas de automatización de pruebas:
+- Calabash
+- capybara
+- Selenium Webdriver
+- Appium
+- Conocimientos de Aplicaciones Web SPI
+- Desarrollo de aplicaciones Web HTML5/JS/ CSS3
+- Construcción de aplicaciones con Grunt
+Recomendable conocimientos de herramientas de verificación de calidad de código JavaScript como JSLint/JSHint.
+Conocimientos de repositorio de códigos y control de versiones con Git.   
+

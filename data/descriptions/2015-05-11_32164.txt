@@ -1,0 +1,33 @@
+
+Overview:
+
+DigitasLBi is looking for talented Software Test Engineers to join our industry recognised test team. The Test Technologists are responsible for delivering high quality and cutting edge web experiences by ensuring world-class quality is maintained.  We're looking for an enthusiastic software tester, someone who is passionate about web standards and finding innovative ways to use latest technology to solve our clients’ needs.
+
+
+The day to day activities:
+
+As a Test Engineer you will have experience delivering quality assurance in a web environment, delivering quality code that conforms to our high standards.
+
+You will be self-motivated and keen on using new & innovative tools and techniques with the inquisitive nature that will drive you to be on top of emerging ones.
+
+We're looking for an expert in test, someone that holds up to date views concerning the state-of-the-art in the testing world and promotes new ideas and frameworks within the wider technology team. As the Lead Test Engineer you will continuously drive quality through collaboration with your reports and leads of other disciplines, working closely with interface development, creative, UX, etc. 
+
+
+Ideal candidate profile will be someone with all these amazing skills:
+A people person, sharing ideas with others and inquisitive by nature
+Enthusiastic about learning – reading, testing books and blogs and attending testing conferences
+An expert in modern testing methodologies, practices and approaches and strong understanding of the system development life cycle (Waterfall, Agile – Scrum/XP/Lean/Kanban, RAD..), TDD and BDD
+Producing test strategies, test plans, defect tracking, requirements capture and analysis to agreed deadlines
+Demonstrating a flexible and pragmatic approach to completing workload to ensure delivery within agreed timeframes
+Understanding of the value of Testing in software development and how it relates to the wider concept of Quality
+Testing cutting edge mobile applications and web apps
+Working with APIs and scripting languages
+Experience in automation testing techniques will be a plus
+Acting as the lead on web based testing projects involving a moderate to high degree of technical complexity
+Working towards W3C WCAG 2.0 accessibility guidelines
+
+
+Does this sound like you?
+
+We forgot to mention, you'll also be working with our team of world class technologists AND create amazing products that digitally transform high profile brands.
+ 

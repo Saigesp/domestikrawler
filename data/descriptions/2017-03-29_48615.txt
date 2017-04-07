@@ -1,0 +1,26 @@
+
+Altamira TI, consultora tecnológica especializada en las Tecnologías de la Información y los Recursos Humanos, necesita incorporar para uno de sus proyectos un Ingeniero Informático especialista en Windows Active Directory con un alto dominio del Inglés para poder comunicar problemas técnicos complejos con equipos internacionales tanto verbales como escritos.
+SE OFRECE 
+Estabilidad laboral, proyección profesional y Plan de Carrera personalizado. 
+Incorporación a un equipo altamente cualificado y dentro de un entorno tecnológico avanzado en el que están integradas las últimas soluciones del mercado.
+FUNCIONES: 
+Garantizar que el cliente tenga toda la infraestructura CORE necesaria para trabajar: Sistema Operativo de imagen, autenticación de usuario y autorización de acceso basada en Active Directory, herramientas de mensajería y colaboración acceso, gestión de cola de impresión, seguridad de estación de trabajo, software Implementación y gestión de parches.
+Responsable de mantener y mejorar el nivel de la plataforma de infraestructura de Windows Active Directory.
+CONOCIMIENTOS Y EXPERIENCIA NECESARIA EN: 
+•	Fuertes habilidades y conocimiento práctico de los servicios de Microsoft Active Directory, incluidos los certificados de confianza de AD, GPO, DHCP, DNS, autenticación / certificados Kerberos (SPN) / NTLM.
+            Implementación y administración de revisiones.
+            Solución de problemas generales y gestión de registros.
+•	Habilidades y conocimientos prácticos de Solución de problemas de red.
+•	Habilidades y conocimientos prácticos de los servidores Microsoft Windows.
+DESEABLE CONOCIMIENTOS /EXPERIENCIA EN:
+•	 Scripting (Batch, Powershell, VBScript) para la automatización de tareas.
+•	 Recovery Manager, Change Auditor (soluciones de software Dell).
+•	 System Center Operations Manager (SCOM).
+•	Habilidades y conocimientos prácticos del mecanismo de control de acceso a la red.
+•	Quest Active Role (soluciones de software de Dell).
+ESTUDIOS: 
+Se requiere Formación Superior en informática o Ciclos formativos técnicos.
+EXPERIENCIA: 
+•	Experiencia de al menos 4 años en un nivel 2 de Administración de Active Directory es obligatoria.
+CONDICIONES 
+Se tratarán personalmente.

@@ -1,0 +1,18 @@
+
+Estamos buscando  una persona con un perfil de coordinador técnico para desempeñar distintas tareas de supervisión y control de los subproyectos que le sean asignados de forma autónoma y  con experiencia contrastada en coordinación de equipos en entorno TI.
+Deberá ser capaz de tomar decisiones en un entorno tecnológico de TI, para gestión de Media Audiovisual (son necesarios conocimientos de ambos sectores), así como de realizar él mismo pequeñas configuraciones de equipos y pruebas de validación del software.
+Conocimientos
+- Conocimientos de tecnologías de media: almacenamiento y envío de media, formatos de video, transcodificadores, etc.
+- Conocimientos de infraestructura TI: RAID, virtualización, sistemas operativos, redes.
+- Conocimientos de arquitectura software. Aunque el desarrollo está completamente externalizado resulta muy útil conocer el mundo del desarrollo software para facilitar la interlocución con el proveedor principal del software (Tedial) y gestionar adecuadamente sus entregas. Es especialmente útil el conocimiento en XML, web services, gestión de ficheros, etc, para la realización de las pruebas integradas.
+- Se valorarán conocimientos específicos de: Tedial, Diva, FTP, Windows y Linux (a nivel administración).
+- Inglés Alto
+Tareas
+- Gestión de plazos y tareas de cada uno de los subproyectos.
+- Interlocución con proveedores de Media y TI.
+- Configuración de equipos.
+- Realización y supervisión de pruebas de sistema.
+- Realización de documentación.
+- Capacidad de trabajar bajo presión.
+- Orientación a objetivos.
+

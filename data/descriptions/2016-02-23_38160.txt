@@ -1,0 +1,5 @@
+
+Desarrollador móvil con amplia experiencia en iOS para nuestro departamento informático. 
+Buscamos un profesional con iniciativa y creatividad, acostumbrado a trabajar en equipo, con mucha experiencia desarrollando aplicaciones web en iOS y acostumbrado a trabajar con Frameworks. 
+Se trabajará con tecnologías como: Servicios Rest, Git, Objetive C/C++, Cocoa Touch, Programación en Xcode. Es valorable tener conocimiento en usabilidad de aplicaciones nativas y desarrollo web (Java, JavaSxript, PHP, HTML, CSS…) 
+Valoramos candidatos con ganas de aprender, iniciativa, dedicación en el trabajo a realizar, y te ofrecemos trabajar con las últimas tecnologías desarrollándote en innovadores proyectos que permitirán potenciar tus capacidades, formación en habilidades profesionales, un ambiente técnico donde podrás crecer profesionalmente con opciones reales de ser responsable técnico de proyectos.

@@ -1,0 +1,14 @@
+
+Buscamos a un desarrollador senior de Drupal para entrar a formar parte del equipo de desarrollo de KeC. 
+Perfil:
+- Ingeniero Multimedia o Informático.
+- Más de 3 años de experiencia en desarrollo web
+- Nivel avanzado de PHP/mySQL, HTML, CSS, Javascript y Frameworks de Desarrollo.
+- Conocimiento de metodologías ágiles de desarrollo, Control de versiones (git), etc.
+- Experiencia en implementación de proyectos de Drupal a través de múltiples entornos (desarrollo, producción, etc.)
+- Actitud proactiva, apasionado de la tecnología, trabajo en equipo, motivación.
+- Valoramos experiencia en otras áreas de multimedia (video, audio)
+Idiomas:
+- Castellano y Catalán
+- Inglés nivel alto
+

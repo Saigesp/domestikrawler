@@ -1,0 +1,24 @@
+
+Nuestra Empresa:
+Hebo Partners es una consultoría de estrategía, diseño e implementación de plataformas móviles y digitales. 
+Realiza proyectos para marcas conocidas como startups. 
+A día de hoy necesita incorporar a un Back-End Developer para el proyecto camare.ro 
+Camare.ro es una app para que el camarero sea tu móvil, y una vez en el restaurante puedas pedir tu comida y bebida directamente desde tu teléfono sin tener que esperar al camarero. 
+Premiado como mejor nuevo proyecto del año por Madrid 2020 y respaldado por primeros locales y franquicias en Madrid. 
+Hebo Partners te proporciona un entorno de trabajo joven, dinámico y con mucho potencial de crecimiento y promoción.
+Perfil buscado: 
+Trabajamos utilizando Groovy on Grails por lo que es necesario tener ciertos conocimientos de Grails para desempeñar las funciones del puesto que serán: 
+- La evolución del modelo de datos ya establecido. 
+- Adición de nuevas funcionalidades al back-end. 
+- Generación de apis y servicios REST para acceso a contenido vía app móvil.
+Conocimiento base: 
+Groovy on Grails 
+Java 
+Postgresql 
+Hibernate 
+Google Apis 
+Json 
+Incorporación: 
+Julio 2013 
+Contrato: 
+Autónomo vinculado con fijo + variable

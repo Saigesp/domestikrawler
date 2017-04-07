@@ -1,0 +1,25 @@
+
+VISIOTECH es una empresa mayorista con sede en Madrid, dedicada a la búsqueda, desarrollo y distribución de equipos y soluciones de videovigilancia en toda Europa y Norte de África. Para apoyar el fuerte crecimiento del negocio de los últimos años y nuestra apuesta por la innovación, deseamos incorporar a nuestra plantilla un Junior UX/UI Designer.  
+DESCRIPCIÓN DEL PUESTO:
+Buscamos una persona para nuestro departamento de I+D a la que le apasionen las nuevas tecnologías, con inquietud y que guste de estar a la última y conocer las nuevas tendencias, ya sea siguiendo guías de estilos predefinidas en las diferentes plataforma o explorando líneas de diseño propias. 
+En el desarrollo de su labor, será necesario que el candidato sea capaz de: 
+•	Comprender las necesidades del usuario. 
+•	Desarrollar flujos de navegación, casos de uso y storyboards. 
+•	Definir interfaces que ofrezcan experiencias de usuario óptimas. 
+•	Diseñar desde cero el aspecto gráfico y visual de aplicaciones y herramientas para plataformas de todo tipo, web, móviles y de escritorio, dando lugar a interfaces de usuario funcionales y muy intuitivas que no pasan desapercibidas por su cuidada estética.
+
+REQUISITOS MÍNIMOS:
+Buscamos una persona dinámica y con ganas de aprender, enamorada de la tecnología y que trabaje bien en equipo. También necesitamos que disponga de:  
+•	Conocimientos avanzados de herramientas de diseño como Illustrator y Photoshop. 
+•	Al menos un año de experiencia, demostrable mediante Portfolio. 
+•	Maquetación web con CSS3 y HTML5.
+•	Tecnologías de desarrollo frontend, como JavaScript y jQuery.
+•	Muchas ganas de crear aplicaciones atractivas que todo el mundo esté desando usar! 
+
+SE VALORARÁN CONOCIMIENTOS EN:
+•	Experiencia en el uso de frameworks como AngularJS o Backbone.js. 
+•	Lenguajes de programación como C/C++, C#, Java, Objective-C, etc. 
+
+CONDICIONES OFERTADAS:
+•	Incorporación inmediata a jornada completa. 
+•	Las condiciones personales se tratarán directamente con el candidato seleccionado. 

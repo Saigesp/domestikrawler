@@ -1,0 +1,27 @@
+
+We are looking for a Senior Android App Developer (m/f) to support our team in Berlin
+ Tasks
+    Develop complex and appealing mobile applications
+    Work with typical software engineering methods
+    Work closely with the design and concept team, as well as project management and QA
+    Create developer and end-user orientated documentation
+ Profile
+    University degree in a relevant field
+    3 years experience in Android app development
+    Excellent knowledge of Android SDK, Java, OpenGL, Eclipse + ADT or the IntelliJ Android Studio and the Google Play store submission process
+    Experience with UI and performance optimization on different Android devices and OS versions
+    Proven knowledge of  Web services (REST, Soap, JSON)
+    Experience with tools like Git, SVN, Jira and Confluence
+    Experience with app development integrating Bluetooth, Location Based Services or NFC is a plus
+    Frontend experience HTML(5)/CSS, development experience in platforms like iOS or Windows Phone or a solid knowledge in areas like JavaScript, PHP or Ruby on Rails are further plusses
+    Quality driven, with strong solution orientation
+ What we offer
+    A diverse range of exciting projects for large international customers
+    An interdisciplinary and creative team
+    An attractive workplace in Berlin-Mitte
+    The opportunity to develop for the newest smartphones and tablets
+    A generous salary
+About iconmobile
+iconmobile is a mobile marketing company.  We combine services in new technologies, innovative design and efficient media to enable outstanding mobile solutions and campaigns for worldwide brands. With more than 150 employees and offices in Berlin, Munich, Ingolstadt, London, Sydney, Seattle, Los Angeles and Shanghai - iconmobile is one of the leading players in the mobile marketing business.
+The companies’ client list includes international mobile network operators, internet companies, handset manufacturers, publishers and representatives of the consumer goods industry.
+iconmobile is part of the WPP group – one of the world’s leading communication services network.

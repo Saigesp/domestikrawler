@@ -1,0 +1,17 @@
+
+En Zentense S.L. buscamos un desarrollador de aplicaciones web con conocimientos de JAVA para incorporarse a nuestro departamento de desarrollo.
+Los trabajos a realizar consisten en el desarrollo de Backend y Front Office de diversos proyectos internos y para clientes. Los proyectos son muy variados, incluyendo comercio electrónico, Intranets, etc.
+Nuestros clientes son marcas y empresas líderes de sus respectivos sectores, en especial el del ocio.
+Se valorarán otros conocimientos y habilidades como los de administración de sistemas, diseño o metodologías de desarrollo.
+Requisitos
+Estudios mínimos
+Ingeniería Informática o similar
+Experiencia mínima
+Experiencia previa demostrable en proyectos web de alto tráfico & ecommerce, 2 años
+Conocimientos a valorar
+Web Development: Java, SQL (MySQL), Javascript, jQuery, CSS3, HTML5, ORM (Datanucleus), Handlebars, Angular JS, Mercurial, Servlets, Eclipse, Unit Testing
+System administration: Linux (CentOS), Apache, Nginx, Tomcat, Mysql, AWS, Docker, alta disponibilidad, escalabilidad
+Project Management: Agile, Scrum, Gantter, Trello
+Idiomas: Inglés dominio medio-alto
+Perfil: Buscamos a una persona proactiva y con capacidades comunicativas, habituada a trabajar en equipo. En la plantilla intentamos conservar un gran ambiente de trabajo.
+

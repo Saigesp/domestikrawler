@@ -1,0 +1,29 @@
+
+Company:
+Our Client is a Swiss-based fast-growing venture with a patented and award-winning technology which focuses on security and performance monitoring.
+Job Description:
+The position includes a high level of responsibility in the R&amp;amp;amp;D team. Your contribution will have a clear and significant impact on hundreds of thousands users of our real-time monitoring technology that is already used by dozens of major organizations around the world.
+We are looking for an exceptional and experienced software engineer with outstanding coding skills. The candidate should be heavily motivated by the projects He should be feeling a high sense of responsibility for the product.
+Your main Responsibilities will include:
+-Invent and implement application features
+-Design application architecture, interfaces, UI and storage strategies
+-Active participation in the overall technology development
+Offer:
+-An opportunity to join a growing, multinational and first-class technical team
+-An enterprise culture focused on technical excellence and creativity
+-Technical trainings and conferences financed by the client
+-Very competitive salary from and good social conditions
+-A chance to live in the heart of Europe, a couple of hours from most capitals
+Your Profile:
+	-M.S. Computer Science (or equivalent)
+-5+ years software development experience in Java (ideally with Core Java and Javascript skills)
+-Experience with Web UI technologies
+-Outstanding OO development &amp;amp; architecture skills (Design Patterns)
+-Strong refactoring abilities, test-driven development is a plus
+-Experience with databases implementation and administration
+-Deep understanding of multi-threaded environments
+-Strong motivation for complex challenges and learning new technologies
+-Creativity and acute attention to details are a requirement
+-Excellent communication and teamwork skills
+-Professional-level English spoken and written
+

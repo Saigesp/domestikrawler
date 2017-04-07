@@ -1,0 +1,21 @@
+
+Imatek requiere la incorporación de un/a programador/a PHP 
+Trabajará en proyectos relacionados con portales de servicios, webs comerciales, programas de gestión de empresas, etc. 
+Requisitos imprescindibles
+- Experiencia programación en PHP.
+- Experiencia con frameworks PHP (Zend, symfony, ….)
+- Experiencia maquetación HTML+CSS (incluido HTML5, CSS3, …)
+- Conocimientos y experiencia sobre jQuery.
+- Conocimientos sobre Orientación a objetos, Patrones de diseño, ..
+- Experiencia con llamadas a WS (Soap, Rest, …)
+Se valorará
+-   Experiencia con HTML5 + CSS3.
+-   Experiencia con precompiladores CSS (Sass, Less, …).
+-   Experiencia en la creación de plugins para jQuery.
+-   Conocimientos avanzados sobre seguridad web.
+-   Experiencia con Phonegap.
+Lugar de trabajo:
+Terrassa (Barcelona)
+Tipo de contrato:
+Indefinido
+Incorporación inmediata

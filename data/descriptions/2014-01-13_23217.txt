@@ -1,0 +1,12 @@
+
+Se busca freelance para colaborar en nuestro proyecto.
+Perfil: Usabilidad web, diseñador web, maquetador web
+La colaboración sería a tiempo completo, presencial en nuestras oficinas.
+Requisitos:
+- WEB: UI/UX Best Practices
+- HTML5, CSS3
+- Photoshop (Fireworks, Illustrator, otros programas de diseño)
+Se valorará:
+- Mobile: UI/UX Best Practices
+- Responsive Web Design
+- Desarrollo de themes para Magento y PrestaShop

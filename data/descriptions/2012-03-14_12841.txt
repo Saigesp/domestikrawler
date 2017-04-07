@@ -1,0 +1,14 @@
+
+Our engineers
+- Demonstrate world-class programming ability. 
+- Build the tools they need to move fast. 
+- Care deeply about system reliability, code quality, and frontend architecture. 
+Presive front-end engineers need deep knowledge of HTML5, CSS3, Javascript as well as server-side and scripting languages. 
+We care a lot about user experience, so we are building amazing interfaces that are complex and challenging to design and create. We take the challenge seriously using the best of two worlds: both HTML5 / CSS3 and JQuery to create them.
+Expectations
+- You have mastered one (any) programming language. We write predominately in Python and Javascript. 
+- You have a core understanding of fundamental computer science concepts, specially those related with software engineering.
+- You are able to perform basic adminsitration tasks in Linux/Unix platforms.
+- You are capable of integrate in a team using versioning and deployment platforms.
+- You have built (and are dying to show us) something you're proud of, outside of work/school.
+

@@ -1,0 +1,10 @@
+
+Buscamos programador para desarrollo de una plataforma web en fase de expansion 
+Si quieres  formar parte de nuestro equipo y cumples los requisitos siguientes , mandamos tu cv 
+- Conocimientos de PHP y MySQL
+- Mantenimiento de sistemas Linux (CentOS)
+- HTML, CSS, JQuery, Ajax
+- Desarrollo MVC (Modelo Vista Controlador) 
+Optativo 
+Si ademas  posees conocimientos siguientes:
+- Framework Yii, - desarrollo ágil - Extreme Programming - TDD - DDD - GIT - Flow

@@ -1,0 +1,26 @@
+
+KEY CONSULTING BARCELONA es una empresa de desarrollo de software de alta calidad. 
+Para nuestra sede de Barcelona necesitamos programadores entusiastas, con talento y amantes de la tecnología. 
+Buscamos personas para unirse a nuestro equipo internacional en un proyecto ASP.NET C# Azure Cloud. Este proyecto basado en tecnologías recientes supone un gran desafío en temas de BBDD y performance.
+A continuación comentamos algunos de sus aspectos tecnológicos más interesantes: 
+- Cloud Azure architecture 
+- Multi region replication 
+- Razor engine markup 
+- Continuous integration, Automated deployment
+Formarás parte de la mejora de la arquitectura, SQL optimización, desarrollo de nuevas funcionalidades .NET, integración continua. Necesitamos que el candidato sea una fuente activa de buenas ideas y que ayude al equipo en su aplicación.
+Perfil del Candidato: 
+Ser curioso, entusiasta y autónomo.
+Los conocimientos mínimos requeridos son: 
+-	Gran dominio de ASP.NET y entity framework 
+-	Conocimiento básico y gran interés para la arquitectura Cloud 
+-	Competencias SQL 
+-	Experiencia similar en dev 
+-	Entusiasmo para nuevas tecnologías
+También estarán muy valorados los siguientes conocimientos: 
+-	Experiencia previa en Azure cloud 
+-	Experto en SQL server administración 
+-	Conocimiento de las herramientas de integración continua 
+-	Conocimiento del Powershell scripting
+Para la realización de este proyecto proporcionamos un gran ambiente de trabajo en un contexto internacional (imprescindible dominio del idioma francés e/o inglés) en el que puedes desarrollar profesionalmente.
+Ofrecemos contrato indefinido, jornada completa con mutua corporativa en el centro de Barcelona.
+

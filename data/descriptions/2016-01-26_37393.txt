@@ -1,0 +1,14 @@
+
+Necesitamos un desarrollador iOS para trabajar en distintos proyectos como freelance.
+Se necesita una persona con mínimo 1 año de experiencia en desarrollo de aplicaciones para iOS, demostrable mediante apps en la App Store. Los valores principales del candidato han de ser: sentido de la responsabilidad, proactivo y autoexigente para proporcionar un producto de calidad.
+A nivel técnico, los requisitos mínimos son muy básicos: 
+- Conocimiento desde iOS 6.x en adelante. 
+- Desarrollo de apps multi-layout (iPhone 5, iPhone 6/Plus, iPad...) 
+- Consumo de APIs tanto XML como JSON. 
+- Herramientras de trabajo en equipo: (JIRA, Git/SVN....) 
+Valoraremos positivamente el conocimiento de toda la parte servidor, tanto ser capaz de gestionar el servidor como comprender el código subido (PHP o Javascript).
+Las tareas a realizar dependerán del proyecto activo: desde renovación del look&feel de una app existente, desarrollo de mockups para empresas hasta el desarrollo completo de la aplicación. 
+Somos un pequeño equipo de desarrolladores y diseñadores que nos hemos visto "cojos" para los proyectos en iOS que nos están entrando.
+El presupuesto también depende del proyecto, generalmente el precio lo ponemos los desarrolladores y finalmente se le hace la oferta al cliente. Tenemos un par de proyectos aceptados en los que el presupuesto ya está cerrado... ¡pero bien pagado!
+La disponibilidad del candidato tiene que ser inminente, hay un proyecto que ya ha comenzado (sin la parte de iOS) y otro que está a punto de comenzar. De cara al futuro tenemos varias ofertas puestas en clientes, así que esto va para largo ;)
+Es preferible que se resida en Barcelona o alrededores, ya que puntualmente se realizarán reuniones presenciales y es necesaria la asistencia y disponibilidad.

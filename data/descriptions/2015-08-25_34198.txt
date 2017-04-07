@@ -1,0 +1,18 @@
+
+Drac Pixel es una agencia de comunicación 360 grados fuertemente vinculada al campo multimedia.
+Buscamos perfil de un PROGRAMADOR WEB con las siguientes competencias:
+Lenguajes:
+PHP nivel alto
+Javascript, jQuery, Ajax, JSON
+HTML5, CSS3
+Bases de datos (MySQL como mínimo)
+Framework:
+DRUPAL (imprescindible)
+Se valorará:
+Desarrollo de APP's
+Wordpress o Joomla
+Nociones básicas de seguridad (SQL injection, XSS, etc.).
+Diseño mobile-first / responsive.
+Inglés 
+Importante tener experiencia en la mayoría de las tecnologías
+

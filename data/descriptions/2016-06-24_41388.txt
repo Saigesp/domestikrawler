@@ -1,0 +1,12 @@
+
+Somos Soamee, una pequeña agencia de desarrollo afincada en Madrid que está creciendo poco a poco, pero a buen ritmo! Somos grandes amigos del buen código y queremos contar con gente que no le suene a chino TDD, integración continua o SOLID.
+Para el verano (aunque realmente es para lo antes posible...), necesitamos el máximo apoyo posible (sobretodo para los meses de Julio y Agosto) porque estamos hasta arriba de trabajo.
+Estamos buscando 2 perfiles de front que nos ayuden. Esperamos que conozcas al menos algunas de estas tecnologías, no hace falta que todas...)
+- Angular 2.0
+- React + Redux
+- React Native
+- Node.js (estaría bien pero no es necesario)
+- Java / Spring (estaría bien pero no es necesario)
+Evidentemente no esperamos que conozcas todas, pero si al menos alguna de ellas.
+Aunque estamos situados en Madrid, creemos fervientemente en el teletrabajo, así que si estás por cualquier otra parte del mundo, también puede que encajes perfectamente.
+Esperamos saber de ti :)

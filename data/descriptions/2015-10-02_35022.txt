@@ -1,0 +1,20 @@
+
+Descripción
+Buscamos un desarrollador de Android que se incorpore en nuestro departamento de técnico, el cual trabaja en proyectos móviles de primera línea. Se encargará de liderar nuevos proyectos.
+Trabajarás en un ambiente joven y emprendedor con amplia experiencia. Estamos situados en el centro de Madrid. Valoramos la creatividad y la innovación en todo lo que hacemos, y por ello tendremos en cuenta todas tus aportaciones. Además, te ofrecemos la oportunidad de liderar proyectos que llegan a miles de usuarios todos los días.
+Requisitos
+•	Experiencia mínima de al menos 2 años
+•	Requisitos mínimos
+- Java y Android SDK Framework
+- Patrones de diseño
+- SQL
+- Depuración y uso de memoria.
+- Capaz de integrar servicios web externos (JSON, XML, RSS ...) 
+- Experiencia demostrable en el desarrollo de Apps Nativas Android (Publicadas/No publicadas)
+•	Requisitos deseados
+Conocimientos avanzados de las mejores prácticas para el desarrollo de aplicaciones móviles (cliente y servidor) y diseño de arquitectura.
+Experiencia en tecnologías móviles, tales como J2ME y HTML5 muy valorable. Desarrollo de web Apps
+Se valorará alguna experiencia en Desarrollo en Windows 8 y windows Phone 8
+Referencias y proyectos.
+Ser un apasionado de desarrollo móvil y la solución de problemas técnicos en equipos interdisciplinarios
+

@@ -1,0 +1,19 @@
+
+MOTTO somos una agencia creativa digital especializada en desarrollo web avanzado. Trabajamos en grandes proyectos que engloban diseño, maquetación, programación y comunicación online.
+Necesitamos incorporar un programador/analista a jornada completa para el desarrollo de proyectos.
+Conocimientos necesarios: 
+- Programación: PHP, MySQL, AJAX 
+- Conocimientos de Laravel 
+- Conocimientos de Prestashop 
+- Conocimientos de Wordpress
+Horario y ubicación: jornada completa en Via Augusta 82, Barcelona.
+Trabajos: 
+- Gestión de proyectos 
+- Programación Frontend 
+- Programación Backend
+Ofrecemos: 
+- Formar parte de un equipo joven y una empresa con perspectivas de futuro 
+- Participar activamente en todo el desarrollo de los proyectos 
+- Poder trabajar para grandes empresas y desarrollar grandes proyectos 
+- Aprender, mejorar y autorealizarse pasándolo bien ;)
+Se valorará mucho la motivación y ganas de aprender e implicarse.

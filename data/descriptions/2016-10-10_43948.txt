@@ -1,0 +1,30 @@
+
+Wesser and Partner selecciona para su oficina de Madrid:
+Analista/programador.
+Se encargará de todo el ciclo de vida de nuestro software empresarial. Se tomarán especificaciones funcionales, diseño, recomendación de técnicas y herramientas innovadoras para su desarrollo e implementación. También el mantenimiento y mejora de las aplicaciones existentes.
+Se ofrece:
+- Horario de lunes a viernes de 10 a 19h. (con una hora para comer)
+- Contrato laboral indefinido desde el primer día.
+- Alta en la Seguridad Social.
+- Sueldo valorable según valía
+Requisitos mínimos:
+- Nivel avanzado en programación orientada a objetos con Framework .NET 4 y superiores (C#)
+- Entity Framework
+- Patrones de arquitectura Model-View-ViewModel ó Model-view-controller
+- Windows Presentation Foundation
+- Web Services
+- Diseño relacional de base de datos 
+- Microsoft SQL Server (TSQL, Stored Procedures, Triggers)
+Imprescindible:
+- Disponibilidad para viajar (esporádicamente) al resto de las oficinas de la empresa en Alemania y Reino Unido.
+- Nivel avanzado de inglés (será excluyente no hablarlo con mucha fluidez).
+Requisitos deseados:
+- Conocimientos de Xamarin o similar para dispositivos con Android.
+- Uso de metodologías ágiles en proyectos (SCRUM)
+- Uso y Configuración de Team Foundation Server
+- Conocimientos en desarrollo y diseño Web (ASP.NET, JQuery, JavaScript)
+- AngularJS
+- TypeScript
+- Conocimientos básicos de administración de redes, dominio e infraestructura de LANs.
+Perfil personal deseado:
+Buscamos a una persona apasionada por las nuevas tecnologías, con creatividad, ideas innovadoras, capacidad de trabajo en equipo apoyando nuestro negocio de captación de fondos. Excelente capacidad de comunicación, que disfrute de la resolución de problemas priorizando tareas en un ambiente de trabajo dinámico.

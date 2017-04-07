@@ -1,0 +1,9 @@
+
+We are looking for a Junior Systems Engineer passionate about Linux to help build out, maintain, and troubleshoot our infrastructure.  You will be part of a talented team of engineers that demonstrate technical competency, delivering mission critical infrastructure and ensuring the highest levels of availability, performance and security.
+Responsibilities
+.-Manage and monitor all installed systems and infrastructure
+.-Install, configure, test and maintain operating systems, application software and system management tools
+.-Proactively ensure the highest levels of systems and infrastructure availability
+.-Monitor and test application performance for potential bottlenecks, identify possible solutions, and work with developers to implement those fixes
+.-Maintain security, backup, and redundancy strategies
+.-Liaise with vendors and other IT personnel for problem resolution

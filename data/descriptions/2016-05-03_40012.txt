@@ -1,0 +1,12 @@
+
+CINTE Iberia, está buscando para un importante proyecto de desarrollo mobile una persona que tenga experiencia de al menos tres años con las siguientes tecnlogías:
+- HTML5 y CSS
+- JQuery,  Mobile, Android, PhoneGap e Hibernate.
+- Spring DB2 u Oracle. Experiencia en el manejo de SQL
+- Experiencia en el desarrollo de servicios web con JAX-WS y JAX-RPC. 
+Muy recomendable:
+- Patronos de diseño
+- Experiencia o conocimientos en IOS, Worx, Mobile, APPS (API), Citrix.
+- Experiencia o conocimientos Spring MVC.
+El proyecto tendrá una duración aproximada de 5 meses prorrogables. 
+Lugar de trabajo Madrid Centro. 

@@ -1,0 +1,38 @@
+
+Region: Palma de Mallorca – Illes Balears – Spain
+We are looking for a skilled web / frontend developer to complement our development team.
+The candidate must have at least 2 years of professional experience and be:
+- Motivated and willing to learn
+- Team player
+- Professional attitude
+Minimum requirements:
+- Spanish or/and English fluent speaker
+- Experience with HTML, XHTML, Javascript and CSS
+- jQuery
+- Cross browser styling
+- Box model, web standards and aware of the web browser limitations
+- Perfect use of semantic HTML and web standards
+- Basic knowledge of PHP / Smarty
+- University degree or High-Level Technical Degree is a must
+Additional requirements:
+- Expertise in web accessibility
+- Web usability and UI design techniques
+- CSS3
+- HTML5
+- Design skills
+- PHP or other development languages
+- Experience working with agile methodologies/teams
+- Extra european languages is a plus
+The candidate will be in charge of:
+- Implementing the UI for new functionalities and new products
+- Developing basic behaviour for UI in javascript/jQuery
+- Improvement of existing interfaces
+- Cross browsing testing and development
+- Some design tasks
+In MEDTING you will find:
+- A nice and collaborative environment
+- Highly skilled team of professionals
+- New professional challenges and ability to learn new technologies
+- We are in constant growth
+ http://www.medicalexchangemedting.com/2012/06/medting-is-hiring-web-frontend-developer-wanted/
+

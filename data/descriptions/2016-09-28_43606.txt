@@ -1,0 +1,20 @@
+
+BNT Systems desarrolla soluciones Internet of Things para la industria con un especial foco en la experiencia de usuario. Nuestro equipo multidisciplinar desarrolla soluciones llave en mano cubriendo desde el hardware embedded hasta las aplicaciones web o móviles basadas en nuestra plataforma de cloud IoT seguro.
+Estamos buscando a un desarrollador Full-Stack para unirse a nuestro equipo.
+REQUISITOS
+- Experiencia en Ruby on Rails o NodeJS
+- Conocimientos de Javascript / HTML / CSS
+- Bases de datos MySQL
+VALORAMOS POSITIVAMENTE
+- Experiencia con frameworks tipo AngularJS, React, Ember, Backbone…
+- Experiencia con Amazon Web Services (EC2, S3, DynamoDB, ..)
+- Experiencia en noSQL (MongoDB, Redis)
+- Pre-preprocesadores CSS LESS / SASS
+- Conocimientos de diseño de UI/UX
+PERFIL
+- Grado de Informática / Ingeniería o equivalente
+- Mínimo 2 años de experiencia profesional
+- Actitud resolutiva y capacidad de trabajo en equipo
+OFRECEMOS
+- Contratación indefinida a jornada completa
+- Salario según valía candidato: 24.000 – 36.000 bruto anual

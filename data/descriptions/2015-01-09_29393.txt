@@ -1,0 +1,17 @@
+
+Estamos buscando un programador/a frontend con sólida trayectoria y experiencia en Javascript y en el desarrollo de Single Page Apps con frameworks MVC JS.
+Buscamos alguien senior, con experiencia y capacidades tanto de analista, como en la definición y el diseño de la arquitectura técnica.
+Necesitamos que tengas soltura con lo siguiente:
+* HTML5 + CSS3
+* Preprocesadores CSS (Less, Sass...)
+* Javascript experto/avanzado
+* Automatización de tareas con Grunt
+* Nivel alto con AngularJS
+* Desarrollos multidispositivo/multiplataforma
+
+Genial si pilotas o conoces algo de esto otro:
+* NodeJS
+* Pruebas unitarias con Jasmine
+* Phonegap
+* Se valorará experiencia con otros frameworks MVC JS (Backbone, Ember, etc.)
+Trabajo presencial en Madrid.

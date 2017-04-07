@@ -1,0 +1,6 @@
+
+Se solicita una empresa especializada en creación de apps para IOS/Android y realidad aumentada para la realización de:
+- Aplicación para IOS/Android: Sería la construcción de una app donde se albergarían contenidos multimedia para educación. Entre ellos una serie de cuentos infantiles (en torno a 12 cuentos cada uno de alrededor de las 25 pag. por cuento). Sería pasar esos libros a formato digital y añadirles:
+   - Efectos de movimiento y sonido para algunos elementos de esos cuentos.
+- Desarrollo de una aplicación de realidad aumentada para IOS/Android: Consistente en la creación de una app para móviles. Se utilizaría el móvil como un elemento de escaner que al pasar la pantalla sobre los distintos elementos y personajes del libro/cuento físico, aparecerían por realidad aumentada en el móvil, mostrando una serie de animaciones y audios.
+Todo el entorno gráfico sería suministrado.

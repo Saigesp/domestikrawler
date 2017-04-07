@@ -1,0 +1,15 @@
+
+	Estamos desarrollando un proyecto internacional de software como un servicio innovador para Internet con acceso multicanal y con prespectiva de gran consumo y/o selling.
+Necesitamos un programador con experiencia en NET C# Framework 4 y aplicaciones de entornos de Internet de alta disponibilidad.
+Requisitos mínimos:
+- Entorno NET MVC en C#;
+- Framework 4 (o 3.5);
+- ADO.NET Entity Framework;
+- MySQL;
+- Language Integrated Query (LINQ);
+- Visual Studio 2010 (o 2008).
+Deseable:
+- Windows Azure;
+- Framework de Javascript (jQuery);
+- HTML5 y comunicación con JSON;
+- Nivel alto de Inglés.

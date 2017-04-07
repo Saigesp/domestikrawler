@@ -1,0 +1,37 @@
+
+SoftwareTester
+We are looking for a highly talented and motivated Software Tester with up to a year experience in software test engineering.
+Minimum Requirements:
+	•	Previous experience in designing and executing 
+                tests for software apps.
+	•	Previous experience in reporting defects.
+	•	Previous experience in working within a software 
+                development team. 
+	•	Knowledge of mobile app operating systems (iOS 
+               &amp;amp;amp;amp; Android).
+	•	Knowledge of software quality &amp;amp;amp;amp; testing 
+                methodologies (ISTQB, TMap, Agile).
+	•	Proactive &amp;amp;amp;amp; positive attitude, pays attention to 
+               detail.
+	•	Advanced English (need to be able to hold a 
+               conversation in English). 
+Desired Requirements: 
+	•	Previous Java/xCode programming experience.
+	•	Knowledge of test &amp;amp;amp;amp; defect management tools 
+                (xStudio, Jira, Assembla, Mobile simulators).
+	•	Previous experience working in an Agile software 
+                development environment.
+	•	Previous experience in testing mobile apps highly 
+                valued.
+Functions:
+	•	Analyze software requirements (user stories) from 
+                the point of view of testing them.
+	•	Design and execute tests for mobile apps running 
+                on Android &amp;amp;amp;amp; iOS mobile devices.
+	•	Document, communicate and manage defects 
+                found during the test phase.
+	•	Write up quality &amp;amp;amp;amp; progress reports based on test 
+                results.
+	•	Form part of a technical, dynamic and innovative 
+                team of engineers.
+

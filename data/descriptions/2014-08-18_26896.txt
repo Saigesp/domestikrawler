@@ -1,0 +1,12 @@
+
+Nortempo selecciona Senior Developer en Ruby on Rails para Alemania.
+Funciones a desempeñar:
+-	Implementación de futuras incorporaciones a la plataforma. 
+-	Mantenimiento y mejora de código base existente. 
+-	Contribución en los proyectos de código abierto. 
+-	Desarrollo de software.
+-	Trabajo con arquitecturas grandes, distribuidas y asíncronas.
+Requisitos Mínimos:
+- Nivel alto de inglés.
+- Alto nivel de escritura de líneas de código Rails.
+- 2 años de experiencia mínima en puesto vacante.

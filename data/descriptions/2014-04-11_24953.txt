@@ -1,0 +1,5 @@
+
+Estamos ampliando nuestro equipo de Front End para lo que buscamos un programador Front End con experiencia relevante en maquetación en HTML5/CSS3/Jquery y conocimientos avanzados de Javascript.
+Valoraremos especialmente experiencia en frameworks (Sencha, JQueryMobile, Dojo, ...) y/o conocimientos de Bootstrap, Less, Ajax.
+Buscamos a los mejores especialistas para implementar nuevos enfoques y diseños complejos en cualquier dispositivo.
+Si eres uno de ellos contáctanos.

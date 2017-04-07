@@ -1,0 +1,13 @@
+
+Somos un nuevo estudio de desarrollo de juegos infantiles para dispositivos móviles que se lanzará a principios del 2015.
+Para el lanzamiento de la empresa, estamos buscando programadores con experiencia en desarrollo de juegos con Unity para plataformas móviles: iOs y Android. 
+Requisitos:
+-  Experiencia UNITY 3D
+-  Experiencia en desarrollo de juegos para iOS/Android
+-  Inglés
+Se valorará:
+- Experiencia de trabajo en empresas  de desarrollo de juegos
+- Experiencia en procesos de creación, diseño, modelado de juegos infantiles
+Se ofrece:
+-  Contrato laboral a jornada completa
+-  Integrarse en un nuevo proyecto

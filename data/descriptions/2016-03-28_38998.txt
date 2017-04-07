@@ -1,0 +1,14 @@
+
+Reportando directamente al CEO de la organización, desempeñará las siguientes funciones:
+•	Creación de un equipo de trabajo orientado al desarrollo de plataformas para clientes e internas.
+•	Trabajo con APIs para recolección de datos.
+•	Diseño e implementación de código escalable y orientado a la mejora continua. 
+REQUISITOS Y COMPETENCIAS PERSONALES
+-	3 años mínimos de experiencia con PHP / JS 
+-	Experiencia y orientación a desarrollo e implementación de tests unitarios.
+-	Conocimiento de PHP y su ecosistema, así como de los diferentes frameworks (ideal Laravel o Symfony).
+-	Conocimiento de OOP, SQL relacional y modelos no-relacionales
+-	Conocimiento de Marketing Digital 
+-	Conocimiento avanzado y experiencia con APIs y diferentes protocolos.  
+Además, el candidato deberá estar muy orientado al trabajo en equipo, colaborando y aportando nuevas ideas desde el punto de vista tecnológico.
+

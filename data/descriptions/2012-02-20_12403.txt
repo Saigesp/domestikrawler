@@ -1,0 +1,43 @@
+
+
+Empresa LUMATA
+Localidad Milan
+At Lumata, 500 professionals operate across 6 continents bringing over 10 years of experience in helping companies tap into mobile marketing opportunities and explore new ways to engage with customers on the move. Our vision is to create the most meaningful interactions between operators, OEMS, brands and their consumers over the world’s most prevalent digital channel – mobile
+Buscamos:
+A java developer, who will be in charge of the following tasks:
+Ensure technical development of new and existing systems
+Define implementation plans with other developers and end-users
+Undertake allocated programming and testing tasks
+Identify structural applications weaknesses and prepares changes in design or tuning
+Ensure regular checks and maintenance of existing systems
+Ofrecemos:
+We offer you a responsible position in a young and globally successful company with an interesting and diversified scope of duties. In an exciting industry you will work with highly professional colleagues, an international company culture that is also a lot of fun!
+Requerimos:
+Over 3 years of experience in developing medium/large sized projects in a variety of technologies
+Strong team player with good English written and verbal communication skills
+Object oriented analysis and design
+Experience with Java server side programming
+Strong knowledge of DBMS and in particular MySQL database server
+Experience working with a Service Oriented Architecture (SOA) and Web services development environment
+Knowledge of one or more open source software products – Tomcat, Spring, Maven, IBATIS, Hibernate, ActiveMQ, AXIS2 or CXF
+Experience working with Linux as Operating System
+Eclipse and CVS/SVN
+Deseamos:
+Experience with server side programming in a high volume large system / application environment including the availability, scalability, resiliency, and performance design patterns.
+Hands on experience with Hadoop/Hbase
+Knowledge of Datawarehouse and BI systems
+Understanding of the application development and deployment life cycle and methodologies
+Experience in continuous integration with Hudson
+Knowledge of JSON, Javascript and Ajax libraries
+Experience with GIT or another distributed SCM
+Knowledge in mobile sector (content, formats, tools) is a plus
+Salario:
+28.000-30.000 €
+Experiencia:
+3 a 5 años
+Idiomas:
+English
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+Si estás interesado, inscríbete a la oferta en http://bit.ly/xL8m49  , te llevará menos de un minuto. Por favor, para darte un buen servicio, no nos envíes tu CV por email. 

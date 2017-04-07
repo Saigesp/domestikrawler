@@ -1,0 +1,5 @@
+
+Desde Sotec Consulting para proyecto en entorno bancario necesitamos incorporar un Programador para llevar a cabo el diseño y desarrollo cuadros de mando.
+Se requiere:
+- Experiencia en HTML5 y SQL Server 
+- Se valorará muy positivamente tener experiencia en .NET y Java

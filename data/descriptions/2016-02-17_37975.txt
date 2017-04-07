@@ -1,0 +1,18 @@
+
+En Art Factory estamos buscando un programador web PHP para nuestro departamento de desarrollo web, con conocimientos amplios de PHP y MySQL. 
+Requisitos mínimos:
+Experiencia en desarrollo PHP y MySQL.
+Experiencia en desarrollo web sobre WordPress.
+Conocimientos avanzados de javascript (jQuery). Ajax, HTML5 y CSS3.
+Conocimientos de maquetación web responsive.
+Se valorarán muy positivamente:
+Conocimientos del framework CodeIgniter y el CMS Expression Engine.
+Conocimientos de otros CMS de entorno PHP.
+Conocimientos en aplicaciones móviles Android/iOS.
+Experiencia en mantenimiento de equipos y gestión de redes.
+Es imprescindible presentar un listado de trabajos web realizados, o en su defecto una breve descripción sobre experiencia laboral en proyectos web concretos.
+Ofrecemos:
+Contrato indefinido.
+Salario competitivo según valía.
+Trabajo estable en empresa de pleno crecimiento, joven, solvente y con buen ambiente de trabajo.
+

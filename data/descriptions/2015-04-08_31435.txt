@@ -1,0 +1,5 @@
+
+Para incorporarse a equipo de desarrollo de app.
+- Experiencia en AngularJS
+- Familiarizado con el uso de Bitbucket como de repositorio de código.
+Se valorará positivamente experiencia en aplicaciones móviles híbridas (Framework Ionic)

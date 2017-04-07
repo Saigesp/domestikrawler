@@ -1,0 +1,23 @@
+
+IN2, Ingeniería de la Información somos una empresa que ofrece servicios de alto nivel tecnológico en el ámbito de los sistemas de información.
+Nuestra visión es ser una empresa Innovadora, de Soluciones Tecnológicas en ámbitos concretos de mercado, de Alta Calidad, Rentable, de Prestigio y Marca conocida, que cree firmemente que su principal activo son las personas y sabe colaborar con sus ¿partners¿ en la consecución de sus objetivos.
+Nuestro Objetivo es ofrecer Servicios de Alto Valor en Proyectos y Estrategias sobre Tecnologías de la Información.
+En la actualidad, precisamos incorporar Programador/a con experiencia en desarrollo en PHP. Se valorará positivamente tener experiencia en el framework Symfony, o de cualquier otro framework de alto rendimiento. El perfil seleccionado se incorporará en el equipo de desarrollo web en Barcelona.
+Requisitos: 
+- Estudios mínimos: Diplomado
+- Experiencia mínima: Al menos 2 años
+- Imprescindible residente en: Provincia Puesto Vacante
+Requisitos mínimos:
+- Experiencia con Php 5 orientado a objetos
+- Experiencia con Framework Symfony 1.4 o cualquier otro framework de alto rendimiento.
+- Experiencia con ORM Doctrine
+- Conocimiento de MySQL.
+- Conocimiento de Subversion
+- Entorno de programación Eclipse
+Requisitos deseados: 
+- Sistema operativo Linux
+- Que conozca/trabaje con metodologías ágiles (SCRUM)
+Tipo de contrato:
+Indefinido
+Jornada laboral:
+Completa

@@ -1,0 +1,19 @@
+
+Funciones
+Análisis y desarrollo de aplicaciones con tecnología Java y entorno Eclipse:
+- Análisis de requisitos de las aplicaciones a desarrollar.
+- Programación de las aplicaciones anteriormente analizadas usando tecnología Java.
+- Pruebas unitarias y funcionales.
+- Implantación y puesta en producción de las mismas.
+Competencias
+- Capacidad de trabajo en equipo.
+- Capacidad analítica.
+- Capacidad de innovación y de auto-aprendizaje.
+Requisitos
+- Experiencia de al menos 2 años desempeñando labores de desarrollo de aplicaciones en entorno Eclipse, Netbeans, Java/J2EE, JSF, JSP, EJB, JPA, Hibernate, Spring, Struts, Websphere, SOA, Jboss, Ajax, Webservices, HTML 5, CSS3, Angular JS, nodejs, Maven sobre base de datos SQL Server.
+- Se valorara conocimientos de Android. y SAP Bussines One.
+- Formación: preferiblemente, titulación universitaria en Informática o Telecom.
+Otros datos
+- SBA: Según valía.
+- Muy valorable disponibilidad de incorporación inmediata.
+- Se integrará en el equipo de trabajo de un cliente multinacional en Ajalvir (Madrid).

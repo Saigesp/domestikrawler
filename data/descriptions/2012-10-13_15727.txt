@@ -1,0 +1,6 @@
+
+Se busca profesional en creación de páginas web, para la realización del portal de nuestra empresa de educación: "Ink Educación".
+El diseño y la distribución será dado por nuestra empresa, por lo que la labor será meramente de construcción de la web. El formato del mismo no será muy complejo, constará de:
+- Una portada con un cuadro principal (transición de diapositivas) y menú de entrada a diferentes secciones de información.
+- Un área de usuarios, en la que las personas registradas, puedan entrar a una serie de recursos (canciones y materiales).
+- Actualización de noticias y contenidos de forma autónoma e independiente.

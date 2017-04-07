@@ -1,0 +1,19 @@
+
+Buscamos un Diseñador/ Maquetador Web para uno de nuestros clientes ubicado en Madrid.
+Se requiere experiencia en: 
+- UX, usabilidad y diseño/maquetación para entornos web
+ - Suite Adobe (Photoshop, Ilustrator, etc)
+- páginas dinámicas en entornos JAVA (preferiblemente con Eclipse) 
+ - Javascript / JQuery / JQueryUI
+ - HTML5 / CSS3
+ - Sistemas de control de versiones (preferiblemente Subversion)
+Valorable: 
+- Conocimientos de accesibilidad y de diseño/ maquetación para dispositivos móviles.
+Horario: L-J (completa) V (intensiva). Julio- Agosto (intensiva)
+Ubicación: Madrid centro
+Ofrecemos: 
+- Formación continua.
+- Absoluta confidencialidad en el proceso de selección.
+- Salario negociado con cada candidato en función de valía y experiencia + Beneficios sociales.
+- Integración en una empresa en continuo crecimiento, comprometida con sus empleados.
+

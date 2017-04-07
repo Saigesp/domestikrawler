@@ -1,0 +1,16 @@
+
+BUSCAMOS PROGRAMADORES JOOMLA-VIRTUEMART
+Para el desarrollo de un ambicioso proyecto e-commerce buscamos programadores JOOMLA - VIRTUEMART. El programador debe tener un perfil con todas estas habilidades:
+conocimientos avanzados en programación PHP; 
+conocimientos avanzados en programación framework jQuery y su integración en el ambiente PHP; 
+conocimientos avanzados en MYSQL y integración con PHP para el desarrollo / integración de código nativo; 
+desarrollo de código nativo para aplicaciones Web-based en PHP con la interacción (comunicación de datos) con bases de datos MySQL; 
+conocimientos avanzados en la base de datos MSSQL; 
+desarrollo y integración de aplicaciones Web-based en Perl / CGI-BIN; 
+conocimiento de sistemas UNIX que operan en plataformas web y configuraciones avanzadas; 
+conocimientos avanzados de " JOOMLA - VIRTUEMART " con efectiva y directa operatividad a través de los cambios y adiciones en la misma plataforma;
+desarrollo / integración de código nativo en plataforma Web-based en PHP;
+desarrollo / integración de aplicaciones Web-based y comunicaciones MSSQL; 
+desarrollo / integración de scripts en PERL / CGI-BIN, PHP, AJAX  y Java para plataformas web CSS, HTML, CVM.
+El proyecto de carácter internacional incluirá la firma de un acuerdo de no divulgación (non disclosure agreement).
+

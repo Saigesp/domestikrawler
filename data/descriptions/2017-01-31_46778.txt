@@ -1,0 +1,18 @@
+
+In WeFitter we are actively looking for a talented Javascript frontend developer to lead our UX team in Barcelona. We are in a growing stage and we need someone capable to bring our products to the next level. If you like challenges, this is for sure a good candidate to pay attention to!
+What are we looking for?
+- Experience with Javascript frontend frameworks and/or Hybrid technologies. We mainly use Angular2, ionic, cordova. MEAN stack and typescript skills are highly appreciated :) 
+- Experience designing and consuming RESTful API’s. 
+- Solid HTML5+CSS3 background. It’s time to take design into code!
+- Experience in version control systems (we use Git). 
+- Experience working under lean/agile methodology. 
+- Passion for discovering new technologies and latest trends, passion for learning, passion for coding! 
+- Proactivity, autonomy, self-organization, leadership
+What can you expect?
+- First things first: competitive salary.
+- Flexible working hours. 
+- Amazing startup ecosystem into Barcelona Activa, well communicated and 10 minutes from the beach.
+- To be surrounded and supported by a young, skilled and ambitious team with eager to make something that lasts. And this team wants to hear your opinion and take it into account! 
+- Opportunity to grow professionally as we are right into an expansion process. Leading a team, managing different projects or scaling worlwide are some of the steps you can expect in that process.
+- A big challenge: to change world’s mind about healthy habits through gamification. We work hard for a healthier world, are you in?
+Be ready to be part of WeFitter family!

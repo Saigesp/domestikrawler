@@ -1,0 +1,9 @@
+
+En Tadium necesitamos incorporar a nuestro equipo de Desarrolladores de Madrid programadores expertos en PHP con experiencia en Symfony.  La experiencia mínima debe ser de al menos 5 años en el desarrollo de sites utilizando tecnologías LAMP,  en particular PHP con orientación a objetos y con experienca en entornos de integración continua.
+Sus tareas principales se centrarán en nuevos desarrollos y mantenimiento de nuestros portales, el análisis y el diseño arquitectural de las nuevas funcionalidadesde los mismos.
+¿Qué te ofrecemos? Te ofrecemos entrar a formar parte de un equipo joven con grandes retos y proyectos muy interesantes a nivel internacional. 
+Requisitos:
+- Experiencia laboral en frameworks: SYMFONY, Cake PHP, Zend Framework, Codelgnite, Yii Framework
+- Experiencia en programación frontend (HTML5, CSS3 y JavaScript)
+- Experiencia en responsive design
+- Experiencia en entornos LAMP(Linux, MySQL, PHP)

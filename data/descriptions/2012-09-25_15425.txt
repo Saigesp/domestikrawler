@@ -1,0 +1,40 @@
+
+Positions
+1
+Location
+Sitges (Barcelona)
+Job descriptionWe are looking for a pragmatic engineer able to design and develop solid long term solutions. Being eager to work in a startup based on a seaside resort town near Barcelona is a plus. You will be the leader of a new and small multidisciplinary team focused on the design and the execution of an unparalleled B2B Web platform for HoReCa clients. 
+Responsibilities
+
+ Development team leader.
+
+ System architecture design and implementation.
+
+ Third-party integration design and implementation. 
+
+ Participation in the definition of strategy and plans.
+
+Requirements
+We’re looking for passionate senior individuals who can demonstrate enthusiasm and are ready to work in a fast paced startup environment.
+
+ Relevant academic background.
+
+ Work experience in SOA design and implementation.
+
+ Work experience in ETL and batch processing.
+
+ Work experience in SQL and NoSQL databases.
+
+ Work experience in B2B projects.
+
+ English proficiency is a must, spanish proficiency is a plus.
+
+ At least 12 months commitment.
+
+We don’t mind if you don’t have experience with all the technologies. Having a can-do attitude and fast learning skills are more important for us.
+Contract
+
+ Freelance to full time position, or straight full-time in our Sitges office depending candidate availability and value.
+
+ Highly competitive salary according to experience and value that you can bring.
+

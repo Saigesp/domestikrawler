@@ -1,0 +1,14 @@
+
+Buscamos un perfil de desarrollador web freelance para una plataforma online.
+Requisitos mínimos
+El candidato debe poder acreditar como mínimo 2 años de experiencia trabajando con las tecnologías solicitadas:
+- Conocimiento alto en Python/Django
+- Conocimiento alto en SQL (bases de datos en MySql/MongoDB)
+- Conocimiento medio-alto de javascript/CSS/HTML
+- Uso de GIT
+Requisitos valorables
+- Desarrollo de tests en Selenium
+- Scrapy
+- Conocimientos básicos de administración de sistemas Linux
+- Bootstrap
+Ubicación: Montecarmelo, Madrid

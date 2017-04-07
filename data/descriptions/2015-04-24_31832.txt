@@ -1,0 +1,3 @@
+
+Necesitamos un experto en Moodle para estudiar la posibilidad de implementación de una serie de necesidades en dicha herramienta. El entregable de esta primera fase será un informe explicativo acerca de el grado de adecuación de la diferente funcionalidad de Moodle a las necesidades.
+

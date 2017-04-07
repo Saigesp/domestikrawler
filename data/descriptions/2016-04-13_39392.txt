@@ -1,0 +1,35 @@
+
+En Runroom estamos buscando un programador web con contrastada experiencia para incorporarse a nuestra plantilla, de forma indefinida, en Barcelona.
+Somos una empresa con más de 13 años de experiencia en el medio online formada por un equipo de 40 personas, apasionadas por nuestro trabajo y comprometidas con los valores del agilismo.
+Sigue leyendo si te interesa!
+¿Qué necesitamos?
+Necesitamos encontrar a una persona simpática, proactiva, motivada, con ganas de aprender y de mejora constante.
+Necesitamos que tengas un perfil similar a este:
+- Ingeniería Informática o nivel similar
+- Experiencia mínima y contrastable de 2 años en Desarrollo web
+- Agile lover <3
+- Experiencia en frameworks de última generación. (Ideal Symfony2, AngularJS…)
+- Experiencia en sistemas de control de versiones distribuidos como Git
+Y sería estupendo si además…
+…tienes experiencia en TDD/BDD e integración continua
+…tienes experiencia montando e-commerce con Prestashop
+…tienes experiencia en HTML5, CSS3 y Javascript
+…tienes experiencia en Drupal, Wordpress, o algún otro CMS Open Source
+¿Qué ofrecemos?
+- Sueldo: entre los 24.000€ y los 30.000€ (bruto anual, en función de tu perfil)
+- Contrato indefinido
+- Horario flexible
+… y un entorno excepcional donde dispondrás de la oportunidad de desarrollarte personal y profesionalmente.
+Si algo destaca en Runroom es nuestra cultura. Y esta es nuestra visión (co-creada entre todos los miembros del equipo):
+- Ser una organización socialmente respetuosa que cuida a las personas y ofrece un retorno a la sociedad
+- Retarnos a innovar constantemente, y ser creativos
+- Ser respetuosos con nuestro oficio y ambiciosos en nuestro desarrollo integral
+- El valor emerge del talento de las personas y del respeto mutuo
+- Construir relaciones satisfactorias con nuestros clientes
+- Ser una referencia inspiradora a través de nuestro trabajo
+Si quieres conocernos un poco mejor visita: 
+ http://www.runroom.com/
+ http://inside.runroom.com/
+ http://twitter.com/runroom
+(Atención: la oferta es para trabajar en nuestra oficina de Barcelona)
+

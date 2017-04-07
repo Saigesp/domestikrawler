@@ -1,0 +1,19 @@
+
+Frontend Developer
+Blissbooker, the booking.com of beauty & wellness, is the leading beauty portal in Southern Europe and expanding rapily. With over 4.000 salons signed up in just one year, Blissbooker enables users to find the best beauty salons, hairdressers, spa or massage centers in town, and book their next beauty treatment through its apps and portal, 24/7, easy and fast. Headquartered in Barcelona (Spain), Blissbooker operates in 5 countries (Spain, Italy, France, Portugal, Russia) and is preparing further market entries. A young and focussed team of professionals, passionate for beauty & e-commerce, strives every day to improve our customer's experience and help the beauty industry to embrace the power of technology to improve its business. 
+At Blissbooker, we highly value initiative, proactiveness, hard work and team spirit. Our multi-national team is looking for talented new members that share its values and want to get our business forward fast.
+Software is an essential part of our company, and a fast and focused development of mobile and desktop apps is key to our success. We work with agile software development to deliver robust and scalable products, always putting the user experience first. Everything we develop gets benchmarked and tested, and we always question the status quo, thriving to develop easier solutions for our customers.   
+Our perfect candidate should have:
+ University degree in computer sciences, and at least 2 years of experience working with similar tasks 
+Experience in front end development building responsive websites Proficient user of HTML5 and CSS
+ Knowledge of Javascript Notions in design are highly valuable You love delivering pixel-perfect work that you test yourself before delivery 
+Work hard under time constraints and shifting targets, able to manage multiple tasks 
+Strong sense of responsibility from day one, ownership of tasks, proactive, organized and reliable 
+Strong motivation to work in an early stage startup developing software from a very early stage 
+Fluent in English, good knowledge of any other european language is a big plus 
+Experience working with Agile methodologies (SCRUM and/or Kanban)
+Responsibilities:
+ You are be responsible for creating and innovating every part of our frontend platform. This requires exceptional skills at writing Javascript and HTML/CSS, that works smoothly in the most popular browsers for all our current and future users.
+ You will collaborate with the rest of the development team to ensure goals are met and projects delivered on time.
+What we offer: 
+Full time position, indefinite labor contract, competitive salary based on experience and professional profile. Based in our HQ in the heart of Barcelona (Eixample), in an international and fast moving environment.

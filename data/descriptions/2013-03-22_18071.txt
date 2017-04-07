@@ -1,0 +1,5 @@
+
+Empresa de nuevas tecnologías requiere incorporar en plantilla programadores para el  desarrollo de aplicaciones para móviles.
+Funciones: 
+-	Desarrollar y documentar el desarrollo de una aplicación para android e ios 
+-	Participar en diversos desarrollos tecnológicos desde la conceptualización hasta el lanzamiento final al mercado.

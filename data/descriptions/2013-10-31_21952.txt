@@ -1,0 +1,16 @@
+
+We’re a small startup in Barcelona, pushing the boundaries on how easy it can be to manage your properties for short-term rentals. We’re working on continuously being ahead of our competitors and we want more people to join us in our office that is two minutes from the beach here in Barceloneta!
+What we’re looking for:
+* We are looking for a developer who is versatile in both backend and frontend programming, but specialised in one of the them, preferably backend
+* Knowledge and experience of OOP in PHP and how to use it in larger codebases
+* Knows Git from inside out
+* Comfortable with Test Driven Development – we are doing continuous deployment with CircleCI
+* Works well in an agile environment
+* Good team player – we work hard but also really enjoy each other’s company
+Technologies we currently work with:
+* OOP PHP and Ruby on Rails
+* HTML/CSS (and Bootstrap)
+* jQuery / jQuery mobile
+* AngularJS
+If you also like to play tabletennis and would like to spend some lunches on the beach, that would be a plus. So, please send a message to jobs@vreasy.com with an application or if you have any questions. A requirement is that you speak english, even if we’re located in Spain.
+Also we are looking for Junior/Mid Weight Designers, BE &amp; FE Interns!

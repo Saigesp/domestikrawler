@@ -1,0 +1,21 @@
+
+Somos Séptimo, una agencia de comunicación joven de Barcelona y buscamos un desarrollador de front-end a jornada completa de forma presencial para incorporación immediata que complete nuestro roster de programación.
+Te contamos un poco sobre nosotros. Somos un equipo multidisciplinar. Nos encanta el buen rollo, el buen diseño y la profesionalidad. Somos claros y honestos. Y buscamos a alguien que encaje con nuestra manera de ser. ¿Eres tú?
+¿Qué necesitamos de ti? 
+- Experiencia demostrable en maquetación de temas de Wordpress / Prestashop (temas propios, no comprados).
+- HTML5 & CSS3 responsive.
+- Javascript & jQuery.
+- PHP y MySQL.
+- Que seas una persona autodidacta y con ganas de aprender.
+- Lo justo de Photoshop.
+Funciones del puesto:
+- Desarrollo de webs principalmente en Wordpress / Prestashop.
+- Mantenimiento de webs (CMS, nativas, etc.).
+- Código estructurado y limpio.
+- Pixel perfect skills, sensibilidad por el diseño.
+- Controlar la evolución del desarrollo conjuntamente con el equipo de diseño.
+Será un plus:
+- Resolución.
+- Actitud y buen humor.
+- Conocimientos de distintas disciplinas. El puesto está enfocado sobretodo a Wordpress, pero si tienes conocimientos de Angular, Laravel, Ionic, git o cualquier otra disciplina haznoslo saber. Lo tendremos en cuenta.
+

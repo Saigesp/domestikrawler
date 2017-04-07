@@ -1,0 +1,13 @@
+
+Para incorporación inmediata, estamos buscando un Desarrollador freelance PHP con conocimientos en los CMS standard del mercado y su programación (plantillas, plugins,...)
+Imprescindibles los siguientes requisitos:
+•  Experiencia mínima de 3 años trabajando en proyectos con CMS standard del mercado (Magento, Wordpress y Joomla!)
+•  Conocimientos HTML5, JavaScript, JQuery, Bootstrap y Ajax para el Frontend. 
+•  Uso de patrones / estándares de diseño. 
+Se valorará  de manera importante conocimientos o experiencia previa en: 
+•  Implantación de diseños Web Responsive como plantillas de Magento. 
+•  Metodologías ágiles. Git
+•  Laravel 5.1 / Symfony 2
+Otros datos
+•  Trabajo no presencial
+•  Obligatorio demostrar conocimientos con proyectos actuales.

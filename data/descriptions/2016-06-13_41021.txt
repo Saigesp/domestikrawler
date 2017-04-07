@@ -1,0 +1,7 @@
+
+Estamos buscando un DEV-OPS para el grupo hotelero Majestic Hotel Group en Barcelona.
+El DEV-OPS tendrá 3 ejes de trabajo:
+1- Desarrollar, implementar y monitorizar las páginas web propias de Majestic Hotel Group.
+2- Asegurarse que todo el entorno tecnológico de Back end permite en mayor rendimiento de las webs.
+3- Responsable del buen funcionamiento del CRM del grupo.
+El candidato tiene que tener conocimientos de los siguientes programas/sistemas: HTLM, PHP5.3 y superiores, Java Script, jQuery, linux, GIT, CSS, base de datos MySQL y SQL Server, Shell script, gestor de contenidos Drupal y Drush.

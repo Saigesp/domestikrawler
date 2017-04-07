@@ -1,0 +1,23 @@
+
+Buscamos a una persona para incorporarse al Área de Desarrollo web de Lusstra, con un perfil polivalente y sin límites a la hora de trabajar y crecer.
+Descripción empresa:
+Lusstra.com es la primera plataforma online de videocomercio en Europa que nace con el fin de acercar a los clientes, el contenido junto a la posibilidad de compra a través del video y una tecnología innovadora. Somos un equipo joven y con mucho entusiasmo.
+Horario: 
+Jornada completa
+Lunes a Jueves: De 9 a 18:30
+Viernes: De 9 a 15:00
+Siempre nos gusta dejar claro que somos una startup, y nuestro crecimiento es gracias al todo el trabajo del equipo, que muchas veces será fuera del horario normal. Pero seguro que el proyecto te apasiona y verás como tu esfuerzo se recompensará :)
+Principales actividades:
+- Desarrollo, instalación y/o configuración  de módulos en la web.
+- Creación y automatización de las campañas en la web.
+- Realización y Optimización informes (Magento, Analytics, Brightcove).
+- Maquetación de newsletter.
+- Configuración de todo el entorno Magento.
+La persona seleccionada se encargará además de las siguientes funciones:
+- Introducción y generación de pixels de marketing.
+- Maquetación de páginas.
+- Desarrollo de código.
+- Generación de iframes de inserción.
+Requisitos:
+- Experiencia con la plataforma Magento y entorno Analytics.
+- Lenguajes: PHP, CSS3, HTML, SQL, JavaScript.

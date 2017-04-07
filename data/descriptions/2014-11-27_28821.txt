@@ -1,0 +1,64 @@
+
+The George is looking for two dedicated WordPress/PHP Developers to help us build and maintain 1st class Content Management Systems.
+This is not your typical WordPress role. You need to be passionate in providing great user experience, web design, development, and administration of the sites. You will be part of a special growing international team that focuses on engaging with our customers directly.
+Hello, my name is The George and I am a performance marketing agency with a slightly different touch.
+I listen and understand - in multiple languages.
+I create and consult - with innovative ideas.
+I develop and delight - with the latest technology.
+I analyse and improve - based on customers needs.
+I am with you - geographically and personally.
+I am determined to create a workplace that consists of a diverse group and I would like to welcome you to Barcelona if you have that little extra, if you are a bit different, if you think you can make a difference for my international clients.
+As part of a team, you will be delivering tailored solutions for our clients across the globe. The right individual for this role will be motivated and energetic who takes the initiative, and enjoys finding smart ways to solving problems.
+Responsibilities:
+
+Create and enhance engaging WordPress Consumer sites
+Help recommend and implement SEO optimisations to keep us high in search engine results
+You will be the go to person (gatekeeper) for production support
+Train an existing team in WordPress development
+Visual and Wireframe Design Interpretation and Integration
+Responsive Theme and Child Theme Development
+Plugin Development and Modification
+New Page Template Development
+Creation of Custom Post Types
+Short Code Integration
+API Integration
+Development within a multiple server configuration including DEV, QA, UAT and Production servers.
+PHP and HTML development outside of WordPress for landing pages, micro-sites, etc.
+Write light, clean, logical, re-usable and well-commented code
+
+Personal Characteristics:
+Your motto is "there is a plug-in for that" or "let's build a plug-in for that"
+SEO is very important to you and it shows in well-crafted and semantically constructed HTML 5 markup
+You are passionate about your work and it shows in the form of projects that you have contributed on GitHub or side projects done in your spare time
+Your leadership skills come through by demonstrating outstanding work
+Comfortable working directly with people outside of your team including UX, Product/Project management and customers
+Education, Technical Skills and Experience:
+
+3+ years recent experience creating WordPress sites from scratch, developing themes, and plug-ins
+5+ years software development experience using web frameworks
+You have some design experience
+Creating beautiful and engaging experiences should excite you
+Mastery of PHP, HTML5, CSS3 and JavaScript and jQuery
+Mastery of developing WordPress Themes, Child Themes, Plugins and Templates
+Mastery of common SQL commands and their correct use
+Strong troubleshooting skills when plug-in conflicts occur
+Experience securing WordPress installs and user accounts
+Understand APIs and their integration into WordPress
+Work well in a team environment
+Excellent communication skills
+Fluent English (spoken)
+Spanish, German or Italian as second or native language would favourable
+Self-Starter, with strong time management and prioritisation skills
+Able to work under tight deadlines with divergent priorities
+Must have: A portfolio showcase and/or Github account with public repositories and activities
+
+Desirable extra skills:
+Experience with mobile platforms
+Experience with E-Commerce websites
+Experience creating multi-lingual websites
+Knowledge of WordPress Network Multi-site Beneficial
+SALARY
+Competitive dependent on experience.
+Junior: 18k to 25k €
+Senior: 25k to 35k €
+Ultra Senior >35k €

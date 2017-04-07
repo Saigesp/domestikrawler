@@ -1,0 +1,25 @@
+
+Requisitos mínimos:
+- 2 años de experiencia demostrable desarrollando en la plataforma iOS
+- 4 años de experiencia programando en cualquier lenguaje
+- Ingeniería superior / técnica en informática
+- POO y patrones de diseño
+- MVC
+- Programación en servidor 
+- Servicios web REST
+- Repositorio de código
+- Inglés (leer y escribir documentación)
+Requisitos deseables:
+- Ruby on rails
+- TDD, CI
+- Git
+- Bases de datos (programación / administración)
+- Android , Windows phone, blackberry
+- portafolio de aplicaciones personales
+Metodologías de desarrollo ágiles
+Testing (RSpec)
+iOS, objective-c, ruby, git, rest, web service, api, android, poo, mvc, rails, tdd, mysql, scrum, rspec
+El candidato reportará directamente al CTO y llevará a cabo sus funciones dentro de un grupo multidisciplinar y reducido de profesionales en constante y directa comunicación, con un ambiente dinámico y joven. 
+La persona elegida debe tener iniciativa para proponer soluciones tecnológicas y ser autosuficiente a la hora de llevarlas a cabo, a la vez que entender el trabajo en equipo y la colaboración entre sus miembros de manera eficaz.
+Dicha persona se encargará del área tecnológica relativa al desarrollo de aplicaciones nativas en iOS, pero también deberá ser capaz de participan en el resto de áreas en diferentes grados según su relación (desarrollo de API&amp;#39;s utilizadas desde las aplicaciones, conceptualización de productos, etc).
+

@@ -1,0 +1,8 @@
+
+Buscamos un desarrollador PHP-Wordpress junior, con ganas de aprender y de desarrollarse como profesional. Necesitamos una persona con una gran capacidad de trabajo en grupo y comprometido con los proyectos que emprende.
+Imprescindible conocimientos en desarrollo de:
+- PHP, Wordpress
+- Jquery 
+Valorable:
+- PHPUnit
+- Conocimientos de algún framework de php (cake, zend, symfony, etc).

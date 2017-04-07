@@ -1,0 +1,23 @@
+
+Deseamos incorporar en nuestras oficinas centrales de San Fernando de Henares, Madrid, un Responsable de Desarrollo y diseño Web que se incorporará a nuestro equipo para ejecutar y desarrollar productos digitales (web y apps) realizando la definición de requisitos, experiencia de usuario y funcionalidades para que el uso sea lo más inteligible posible para el usuario final, asegurando un correcto servicio.
+Responsabilidades:
+    Ejecutar y desarrollar proyectos con tecnología web y apps (marketing y productos).
+    Gestionar proveedores de desarrollo y diseño (tanto internos como externos).
+    Definir los requisitos, funcionalidades y la arquitectura de la información para los productos.
+    Crear prototipos interactivos de alta y baja fidelidad con herramientas existentes en el mercado.
+    Definir los patrones de interacción multidispositivo.
+    Diseñar customer journeys, historias de usuario, y definir personas.
+    Diseñar de interfaces de usuario.
+    Realizar tests de usuario / A-B / multivariantes.
+    Realizar la línea gráfica junto con los diseñadores visuales.
+Requisitos mínimos
+    Ingeniería/Licenciatura Tecnología, Diseño, Bellas Artes.
+    Master en Usabilidad y experiencia de usuario.
+    Experiencia de al menos 3 años en la ejecución de proyectos web y apps o como consultor / Responsable de usabilidad y experiencia de usuario.
+    Herramientas específicas de UX (arquitectura, prototipado, personas, escenarios de uso, blueprints, customer journeys…)
+    Frameworks de desarrollo.
+    Conocimientos de diseño y maquetación web responsive (html5, css3 y javascript).
+    Analítica web y marketing online.
+    Gestores de contenido (Liferay, WordPress).
+    Adaptabilidad al cambio, habilidades de comunicación.
+    Gestión de proveedores y proyectos con multitud de componentes y variables.

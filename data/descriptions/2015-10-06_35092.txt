@@ -1,0 +1,20 @@
+
+Descripción
+We are looking for a PHP developer with experience in building high-performing, scalable, enterprise-grade applications.
+You will be part of a talented software team that works on mission-critical applications. You will be responsible for application development while providing expertise in the full software development life cycle, from concept and design to testing.
+Responsibilities
+· Design and develop high-volume, low-latency applications for mission-critical systems, delivering high-availability and performance.
+· Contribute in all phases of the development lifecycle.
+· Write well designed, testable, efficient code.
+· Ensure designs are in compliance with specifications.
+· Prepare and produce releases of software components.
+· Support continuous improvement by investigating alternatives and technologies and presenting these for architectural review.
+Requisitos mínimos
+· 3+ years of software development experience
+· Hands on experience in designing, developing and working with REST API powered applications using PHP
+· Object Oriented analysis and design using common design patterns.
+· Excellent knowledge of Relational Databases, SQL
+· Experience in developing web applications with PHP, jQuery, Ajax, Bootstrap and others
+· Experience with test-driven and agile development
+· Must be fluent in English
+· Location: Barcelona

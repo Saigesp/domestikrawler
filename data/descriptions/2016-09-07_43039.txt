@@ -1,0 +1,28 @@
+
+Hola amantes del código!
+Somos Tadiama, un nuevo estudio de diseño digital enfocado en diseño de interfaces y experiencia de usuario.
+Estamos buscando un Desarrollador JS Junior para incorporase a nuestro equipo, esto es lo que necesitamos:
+- Conocimientos básicos de HTML/CSS
+- Experiencia entre 2-3 demostrable con Node JS y MongoDB
+- Experiencia demostrable con React JS
+- Herramientas de testing
+- Repositorio Git público, GitHub por ejemplo
+- Concienzudo por la seguridad
+- Buen nivel de inglés
+Y estas son algunas que no son imprescindibles, pero que nos gustaría que supieses (un poquito):
+- Patrones de diseño JS
+- WebGL/Canvas
+- GSAP
+- D3 JS
+- Que seas organizado/a.
+- Estar al día de tendencias de diseño y tecnología.
+Aquí somos:
+- Muy currantes, pero nos gusta salir a nuestra hora.
+- Muy freaks del diseño y la tecnología.
+Te ofrecemos
+- Estabilidad laboral y una carrera profesional
+- Ambiente de trabajo dinámico, joven e innovador
+- Formación continua
+- Salario competitivo
+- Beneficios sociales
+Si te encaja lo que lees, mándanos tu cv y una muestra de tus trabajos y nos pondremos en contacto contigo.

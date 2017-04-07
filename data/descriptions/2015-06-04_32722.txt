@@ -1,0 +1,7 @@
+
+Somos una app de moda, ubicada en Barcelona y buscamos para completar nuestro equipo lo siguiente: 
+Una persona agradable, con paciencia, que esté acostumbrado(a) a trabajar en un ambiente relajado con gente muy maja :-)
+Al menos un año de experiencia desarrollando Apps en iOS. 
+Conocimientos de inglés (no indispensable) y valorable conocimientos de Alemán (tampoco indispensable.)
+Técnicamente...
+Se busca un Developer iOS para realizar mantenimiento y updates,  con conocimientos sólidos en  Objective C. iOS 6, 7 y 8. Acostumbrado a usar web services.

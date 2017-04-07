@@ -1,0 +1,29 @@
+
+Es busca professor especialista per impartir el mòdul de programació al CFGS d'Animació 3D jocs i entorns interactius
+Requisits:
+- 2 anys d'experiència al sector informàtic
+- nivell C de català
+Coneixements:
+- llenguatge de programació: C#, javascript, unity 5.0
+- llenguatge de desenvolupament web CSS i HTML
+- coneixements bàsics de 3D (maya)
+Mòdul professional 7: desenvolupament d'entorns interactius multidispositiu
+Durada: 264 hores Hores de lliure disposició: 33 hores
+Equivalència en crèdits ECTS: 11
+Unitats formatives que el componen:
+·         UF 1: desenvolupament d'aplicacions multidispositiu. 40 hores
+·         UF 2: programació d'aplicacions multidispositiu. 40 hores
+·         UF 3: disseny de videojocs. 60 hores
+·         UF 4: desenvolupament de videojocs. 50 hores
+·         UF 5: desenvolupament d'aplicacions multimèdia. 21 hores
+·         UF 6: simulació d'entorns multidispositiu. 20 hores
+
+Mòdul professional 4: color, il·luminació i acabats 2D i 3D
+Durada: 198 hores Hores de lliure disposició: 33 hores
+Equivalència en crèdits ECTS: 11 Unitats formatives que el componen:
+·         UF 1: mapatge UV. 20 hores
+·         UF 2: texturització 3D. 20 hores
+·         UF 3: color i texturització 2D. 45 hores
+·         UF 4: acabats 3D. 20 hores
+·         UF 5: il·luminació. 60 hores
+

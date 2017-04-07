@@ -1,0 +1,26 @@
+
+Hola!
+En Soluble Studio queremos ampliar nuestro equipo en Barcelona con un/a desarrollador/a web front-end.
+Las tareas a desarrollar son diversas: desde optimizar assets para arrancar unos milisegundos a la carga de una página hasta desarrollar grandes aplicaciones web.
+La mayoría de nuestros clientes son startups (tanto nacionales como internacionales), lo que nos obliga siempre a ir un poco más allá, cosa que nos encanta. No nos gustan los proyectos que se enquistan durante meses.
+Nuestro sello es el diseño y la fidelidad a la marca de cada empresa, que cuidamos con mimo.
+Con qué solemos trabajar:
+- Bootstrap.
+- SASS.
+- Gulp.
+- jQuery, Backbone, AngularJS, React.
+- D3JS.
+- Cordova.
+- GIT.
+- APIs.
+- Mimo al píxel.
+- PHP - MySQL (Wordpress)
+No tenemos ningún problema si no conoces algunas de las herramientas con las que trabajamos, con que tengas interés en aprenderlas y aplicarlas llegado el momento nos sobra.
+Qué te podemos ofrecer:
+- Entorno de trabajo joven y dinámico. Ahora mismo somos un equipo de 6 personas entre los 20 y los 30 años, de 5 nacionalidades distintas.
+- Responsabilidad y autonomía. Tendrás proyectos a tu cargo, que reportarás directamente al responsable técnico.
+- Voz y voto. Nos encanta escuchar tus propuestas, las ventajas del último framework que has probado, la última herramienta que has descubierto…
+- Trabajar en pleno corazón de Barcelona. Nuestras oficinas están al lado del MACBA.
+- Elegir el equipo informático con el que quieres trabajar. Siempre tendemos a la manzanita.
+- Flexibilidad en horarios. No miramos que estés sentado/a 8 horas al día, sino que cumplas con los objetivos que tú mismo/a te marcas.
+Repetimos, no te preocupes si no conoces algunas de las herramientas con las que trabajamos. Buscamos una relación a largo plazo, así que no nos molestaría nada que aprendas con nosotros, seguro que nosotros también aprendemos contigo :)

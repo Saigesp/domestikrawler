@@ -1,0 +1,19 @@
+
+Buscamos una persona experta en programación iOS y/o Android que quiera continuar una trayectoria profesional junto a un equipo Joven y dinámico en nuestras oficinas de Madrid. 
+Ofrecemos la oportunidad de trabajar en el equipo de desarrollo de Zoompin-Skybubb.  Buscamos para nuestro equipo de desarrolladores multifuncional, profesionales que trabajen codo con codo, para conseguir lanzar con éxito los proyectos propios de la compañía, y los de nuestros Clientes . 
+Nos apasiona el desarrollo y estamos continuamente explorando nuevas tecnologías, para conseguir los mejores resultados posibles. Como miembro del equipo te daremos todo nuestro apoyo y la formación que necesites. 
+Si te gusta el desarrollo ágil y no te conformas con que las cosas simplemente funcionen, ¡te estamos buscando!
+Es imprescindible:
+- Actitud positiva.
+- Ganas de aprender cosas nuevas.
+- Capacidad de identificar las habilidades personales.
+- Dinámico, inquieto y abierto al cambio.
+- Capacidad analítica y de resolución de problemas.
+- Capacidad de trabajo en equipo.
+Requisitos:
+- Experiencia demostrable de 3 años mínimo en iOS y/o Android 
+- Conocimientos avanzados de Java (Android) y/o Swift + Xcode u Objective-C (iOS).
+- Experiencia en configuración y gestión de los diferentes markets de aplicaciones.
+- Experiencia en integración con APIs REST.
+- Se valora conocimientos de Ruby on Rails y Realidad Aumentada.
+- Nivel medio de inglés

@@ -1,0 +1,19 @@
+
+Ochionet es un estudio de diseño gráfico y desarrollo web ubicado en Sabadell. 
+www.ochio.net
+-------
+Se buscan desarrolladores web con experiencia mínima de 4 años desarrollando proyectos desde cero.
+Requisitos
+- PHP · MySQL 
+- HTML5 · CSS3 
+- JS · jQuery 
+- Maquetación PSD > HTML 
+- Responsive design 
+- SEO
+Requisito deseable
+- Experiencia demostrable en uso de frameworks como Laravel.
+Imprescindible
+- Ser freelance, resolutivo y respetuoso con los plazos de entrega pactados. 
+- Código limpio y semántico. 
+- Tener buen ojo maquetando, importante tener sensibilidad para los espacios, interlineado, márgenes... básicamente respeto por el diseño realizado. 
+- Según el proyecto será necesario trabajar en el estudio 1 o 2 días antes de la entrega para ajustes finales.

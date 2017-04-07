@@ -1,0 +1,4 @@
+
+Buscamos un desarrollador Flash con conocimientos de Action Script 3 en Madrid con experiecia en juegos.
+Formará parte de un equipo para desarrollar un juego de coches en 2D. Algunos de los conocimientos que deberá aportar para el desarrollo del videojuego serán: "scrolling map", "A.I. básica" para distintos tipos de objetos y detección de colisiones. 
+El trabajo requerirá de reuniones presenciales para control del proyecto. En la solicitud deberá aportar links con trabajos realizados. Se valorarán conocimientos en otros tecnologías para el desarrollo de videojuegos y web.

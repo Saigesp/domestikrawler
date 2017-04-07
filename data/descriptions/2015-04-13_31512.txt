@@ -1,0 +1,26 @@
+
+Importante empresa internacional dedicada al desarrollo de software de gestión para grandes empresas y con sedes en Singapur, Londres y Hong Kong, precisa de Software Engineering Consultant para su nueva sede ubicada en Málaga.
+Requisitos
+MINIMUM
+- Experienced with web technologies: HTML5, SVG, CSS3 and JavaScript.
+- Experienced with W3C standards, validations and cross-browsers compatibility issues (modern browsers).
+- Experienced with design tools like Sketch or Photoshop, managing tools and layers compositions.
+- Experienced in determining appropriate architecture and converting raw layouts from a graphic designer into CSS3/HTML5 themes.
+- Experienced with SASS or LESS language for coding big and complex style sheets.
+- Experienced with CSS3 transitions, fonts, icons and visual effects avoiding JavaScript as much as possible.
+- Experience with HTML5 Canvas.
+- Experienced with visualizations libraries like D3, manipulations of DOM and traversing it.
+- Experienced in Single Page Applications and knowledge in some SPA JavaScript framework.
+- High level of English
+
+
+Desired
+- Experience as a software developer for banks or video game
+Funciones
+- Reviewing current systems
+- Presenting ideas for system improvements
+- Producing detailed specifications and writing the program codes
+- Testing the product in controlled, real situations before going live
+- Deliver implementations in accordance with coding standards and conventions
+Ofrecemos
+Salary Gross Anual: Negotiable

@@ -1,0 +1,18 @@
+
+Coverfy es el primer corredor de seguros 100% móvil
+¿Qué buscamos?
+Estamos ampliando nuestro equipo técnico y, para ello, buscamos desarrolladores que quieran crecer y desarrollar su carrera con nosotros.
+
+Nuestra plataforma tecnológica está basada en PHP 7.x y PostgreSQL ejecutándose en AWS, por lo que el candidato ideal tiene que conocer estas tecnologías o tener ganas de aprender y trabajar con ellas.
+
+¿A quién buscamos?
+Buscamos a alguien que tenga ganas de aprender y montar cosas nuevas. Idealmente, que haya trabajado antes con PHP y PostgreSQL, pero no es imprescindible. Sumará puntos el haber trabajado con frameworks MVC como Symfony 2, Slim, Laravel,… así como el tener conocimientos de Git, de APIs REST, JSON y/o aplicaciones móviles.
+
+Si tienes experiencia en programación para iOS en Swift, en programación para Android o en Angular, ¡también tenemos sitio para ti!
+
+No nos fijamos mucho en los títulos o la experiencia, valoramos más las ganas, la aptitud y el interés por seguir aprendiendo y mejorando cada día. Preferimos que nos mandes tu perfil de Github o Stack Overflow que tu curriculum.
+
+¿Qué ofrecemos?
+Ofrecemos contrato indefinido, jornada completa con flexibilidad horaria y posibilidades reales de crecer dentro de la empresa, además de un ambiente joven y distendido en un equipo con ganas de trabajar duro y, al mismo tiempo, pasarlo bien.
+
+Salario competitivo y a convenir.

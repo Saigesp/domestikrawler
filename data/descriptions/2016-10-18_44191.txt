@@ -1,0 +1,33 @@
+
+wegetit es una empresa de San Sebastián con 12 años de experiencia, especializada en el diseño y desarrollo de la estrategia de marca, transformación digital y la digitalización de servicios de las empresas. Si te encanta desarrollar productos digitales y te gustaría ayudarnos a construir el mejor trabajo posible, esto te interesa:
+¿Qué buscamos y qué harás en wegetit?
+Buscamos a una persona que forme parte del equipo de desarrollo especializada en front-end y que aporte en la creación de productos digitales para nuestros clientes. 
+
+Si eres capaz de:
+●	Crear la mejores experiencias de usuario para web y dispositivos
+●	Desarrollar con:
+○	bootstrap, html5
+○	SASS, CSS3
+○	gulp.js
+○	jquery
+○	php
+○	mysql
+●	Adaptar desarrollos a dispositivos (Responsive Web Design)
+Si tienes al menos 2 años de experiencia en desarrollo front-end.
+Y si además has trabajado con:
+●	laravel
+●	react.js
+●	angular.js
+●	GIT
+También es imprescindible que tengas:
+●	Facilidad para aprender y asimilar conceptos nuevos y complejos.
+●	Capacidad para resolver problemas de forma eficiente.
+●	Filosofía de trabajo ágil y dinamismo para trabajar y adaptarte a un entorno cambiante.
+¿Qué te ofrecemos?
+
+Un ambiente único en el que crecer a nivel profesional y personal, y sobre todo un lugar donde trabajarás a gusto cada día y donde tendrás que afrontar retos de forma continua.
+Y además:
+●	Salario competitivo
+●	Presupuesto anual para conferencias y cursos
+●	Oficina bonita en Donostia
+

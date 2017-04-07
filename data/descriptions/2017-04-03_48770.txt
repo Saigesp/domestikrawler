@@ -1,0 +1,16 @@
+
+Made of Genes (http://madeofgenes.com) es una start-up fundada en 2015 con el objetivo de aproximar la investigación en genómica a su aplicación clínica. Desarrollamos el primer banco de datos de genómica personal en el mundo, brindando servicio a clientes finales, clínicas, investigadores y gobiernos. Nuestras soluciones innovadoras son reconocidas mundialmente a través de diferentes premios internacionales, como el MIT Technology Review Innovators Under 35, Dubai Future Accelerators o IBM Startups Connect. Si quieres unirte a una empresa única de rápido crecimiento y que marca tendencia, esta es tu oportunidad.
+Estamos buscando un Junior Web Developer con talento y motivación, que se sienta cómodo con Angular.js y frameworks PHP para unirse a nuestro equipo de desarrollo. Trabajará tanto en el front-end como en el back-end de los servicios existentes como desarrollador full-stack, implementando nuevas características y mejorando las existentes.
+Requerimientos mínimos:
+* Experiencia en programación web usando HTML 5, CSS3 y Javascript
+* Experiencia con los framworks de AngularJS y JQuery
+* Experiencia con PHP y Symfony Framework o similar
+* Experiencia con Git / Bitbucket
+* Competencia de trabajo profesional en español e inglés
+Otras habilidades deseables:
+* Experiencia trabajando en un entorno Ágil (Scrum, Kanban)
+* Habilidades para UI / UX y Diseño de Interfaces
+Lo que ofrecemos:
+*  Una posición de prácticas o contrato por proyecto, con la posibilidad de pasar a indefinido
+* Una remuneración bruta de 8 €/h o contrato equivalente, con posibilidad de tiempo completo / parcial
+* Un ambiente desafiante y motivador con altas posibilidades de crecimiento y aprendizaje continuo

@@ -1,0 +1,31 @@
+
+En AKTIOS estamos reclutando a un Frontend Developer para posición estable ubicada en Barcelona.
+AKTIOS actualmente requiere un perfil FRONTEND DEVELOPER para formar parte de nuestro equipo de desarrollo de SW participando en diferentes proyectos de la compañía basados en Javascript, Jquery, Bootstrap, HTML5, CSS3, AngularJS…entre otras tecnologías.
+Por nuestra parte, explicarte que somos una Consultora IT Global que trabaja con diferentes empresas multinacionales y sectores ofreciendo un posicionamiento de 360º. 
+La información empresarial y nuestros principales clientes los puedes encontrar en nuestra web:  www.aktios.com. 
+Descripción:
+El Frontend Developer podrá desarrollar diferentes proyectos dentro de la programación multiplataforma y estar en continua relación con los distintos Product Owners de los distintos proyectos. 
+Detallo aquellas cuestiones que pueden resultarte interesante:
+-	Integrarte en el equipo Mobile en cliente multinacional.
+-	Participación en la toma de decisiones tecnológicas.
+-	Proyectos internos e-commerce de alto nivel 
+-	Contrato indefinido.
+-	Trabajo con el stack Atlassian (JIRA+ Confluence + BIT Bucket)
+Requisitos:
+Ciclo Formativo de Grado Superior, Ingeniería Técnica Informática o similar.
+Necesitamos Programador Frontend con experiencia de 2-3 años en:
+- Experiencia en Metodología SCRUM 
+- Experiencia laboral demostrable realizando desarrollo de proyectos front-end.
+- Experiencia con HTML5, CSS3, LESS, Ajax, Bootstrap, Foundation, DOM y Responsive Web Design.
+-Conocimientos sobre Web, Tablet, Mobile y Responsive. 
+- Experiencia en desarrollo con frameworks tipo: Angular JS, Backbone JS, Ember o similares.
+- Experiencia trabajando con API REST/JSON.
+Deseable:
+Experiencia trabajando con Web Services SOAP.
+Experiencia en integración continua (Maven, Jenkins, Sonar). 
+Conocimientos de UI/UX y   Conocimientos de SEO/SEM
+Ofrecemos:
+- Contrato indefinido.
+-Excelente clima laboral.
+- Incorporación inmediata a compañía con importantes oportunidades de crecimiento y desarrollo profesional.
+- Retribuciones competitivas.

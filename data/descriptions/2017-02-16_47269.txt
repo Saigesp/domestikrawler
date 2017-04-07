@@ -1,0 +1,25 @@
+
+Si te gustan los retos, ésta es tu empresa.
+Destinia es una empresa que combina la experiencia online de llevar más de 15 años en funcionamiento con la mentalidad despierta y ágil de una startup.
+Nacimos para acercar cualquier rincón del mundo a la gente, convencidos de que no hay límites, y cada día trabajamos para conseguirlo, haciendo de la innovación, el compromiso, la creatividad, la flexibilidad y el precio nuestras señas de identidad. Tenemos una mente tecnológica y un corazón viajero.
+Fundada en 2001, Destinia es una de las mayores agencias de viajes online en España con una oferta de más de 300.000 hoteles y 600 aerolíneas. Con 140 trabajadores en España, Destinia está inmersa en un intenso proceso de internacionalización en Europa, Oriente Medio (tenemos oficinas en El Cairo y Teherán). Hemos sido pioneros en ofrecer viajes al espacio, en aceptar pagos con la moneda virtual bitcoin, en desarrollar una app para reservar hoteles con las Google Glass y acaba de presentar un proyecto de realidad virtual con las Oculus Rift.
+Como ambiente de trabajo encontrarás a un equipo joven, multidisciplinar e internacional. Apostamos por el trabajo en equipo y ofrecemos una empresa en crecimiento para el desarrollo profesional.
+Tareas:
+Diseño, desarrollo y mantenimiento de:
+- Múltiples webs para la promoción y venta de servicios turísticos con las últimas tecnologías para la interacción con el usuario (HTML5, CSS3, AngularJS, etc)
+- Servicios anexos para la captación de clientes (redes sociales, guías interactivas, promoción SEO...)
+- Interconexiones XML con nuestros proveedores y servicios a nuestros afiliados (web services...)
+- Administración y contabilidad de reservas
+- El programador PHP podría apoyar a otros sistemas de soporte interno.
+Lugar de trabajo:
+En pleno corazón de Madrid, junto al metro Gran Vía.
+Muy buen ambiente de trabajo. Equipo joven, dinámico, multidisciplinar e internacional.
+Como empresa tenemos una mente tecnológica y un corazón viajero. Apostamos por la evolución metodológica continua, por la iniciativa e inquietudes de cada uno de nuestros empleados y creemos en las herramientas open source.
+Requisitos:
+- Estudios mínimos: Formación Profesional Grado Superior - Informática
+- Experiencia mínima: Al menos 2 años
+Se valorarán:
+- Conocimientos de XML, HTML5, CSS3, AngularJS, Bootstrap, jQuery, JSON, NoSQL, MongoDB, Elasticsearch, Memcache, Redis, RabbitMQ, PHPUnit, Behat, Selenium, Jenkins, Frameworks (Symfony, Zend, Laravel, etc)
+- Buen nivel de inglés
+- Experiencia probada en proyectos grandes en Internet
+- Experiencia en programación de portales de turismo, vuelos, sistemas de contabilidad

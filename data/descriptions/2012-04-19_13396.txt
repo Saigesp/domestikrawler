@@ -1,0 +1,8 @@
+
+Buscamos un programador Flex freelance para dar soporte en diferentes proyectos en el sector ehealth y audiovisual.
+El puesto de trabajo sería en nuestro laboratorio situado en Castelldefels, Barcelona, con el resto del equipo técnico.
+Conocimientos deseados:
+Framework cairngorm
+Remote objects
+Skins
+Spark components

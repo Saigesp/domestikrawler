@@ -1,0 +1,86 @@
+
+Empresa LUMATA
+Localidad Madrid
+Lumata is a stand-alone company backed by Francisco Partners, an experienced technology investor in high growth sectors, as well as existing investment from Buongiorno SpA. Lumata provide a seamless link for operators, brands and hardware manufacturers to engage with their customers through the mobile channel. Lumata hits the ground running with a global footprint with 15 offices and more than 500 employees and annual revenues in excess of €50 million, Lumata’s client base includes: Orange, T-Mobile, Telecom Italia Mobile, Verizon, Airtel, MTS &amp; Telefonica as well as blue chip brands such as Nestle, P&amp;G, HP and Espresso Group.
+Buscamos:
+ Develop and drive a high-level QA strategy, as well as take a hands-on approach to implementing that strategy.
+ Lead efforts to develop, document, and implement applicable QA processes and procedures to provide more effective quality methods within the group in support of providing quality products.
+ Create, implement, maintain, and enhance test plans, test scripts, and test methodologies that ensure exhaustive testing of all assigned software systems to ensure compliance with software/system specifications.
+ Develop software quality test plans and test cases, and lead in setting and maintaining the standards for Software Quality Assurance test documentation.
+ Be highly committed to create automation for regression and feature testing.
+ Design, implement, and maintain comprehensive test plans to ensure software requirements are met.
+ Collaborate with developers to improve overall product quality by emphasizing defect prevention throughout the development process.
+ Anticipate potential software problems by creating exhaustive test scenarios that ensure comprehensive testing.
+ Document all testing results in conjunction with test plans.
+ Identify and analyze defects/test results and be able to deduct the chain of events leading to a failure.
+ Identify areas for test improvement through analysis, experience and use of metrics.
+ Communicate critical issues and status updates in a timely manner.
+ Educate and train peers and subordinates on the QA process and provide guidance to them when they are unclear about the process.
+ Provide coaching and guidance to the Quality Assurance Team on “best practices”.
+ Plan, organize, and monitor the execution of the work assignments for the Quality Assurance Team.
+ Ensure that the project schedule is adhered to and the work is completed according to the schedule.
+ Participate in daily scrums.
+ Manage processes for moving applications from test to production environments.
+ Participate in the development and implementation of processes to manage the deployment of code to new clients.
+ Remain current on changes and new developments on new and existing software applications/releases
+ Establish and maintain good working relationships with peers in Product Development, Project Management, and and with external clients.
+ Provide regular reporting metrics to relevant stakeholders
+ Manage time off requests for staff within department and ensure that minimum office coverage is maintained.
+ Solves issues issues of diverse scope where analysis of situation or data requires evaluation of a variety of factors, including an understanding of current business trends.  Follows processes and operational policies in selecting methods and techniques in order to find solutions.
+ Acts as an advisor to his/her resources to meet schedules and/or resolve technical issues.
+ Develops and administers schedules and performance requirements, according to the budget.
+ Ensures that the area of responsibility is properly organized, staffed, skilled and directed. Guides, motivates and develops direct and indirect resources within HR policies
+
+Ofrecemos:
+We offer you a responsible position in a young and globally successful company with an interesting and diversified scope of duties. In an exciting industry you will work with highly professional colleagues, an international company culture that is also a lot of fun!
+Working in an Agile software development environment, the QA Manager will define the test strategy and approach, provide quality assurance leadership, and be ultimately responsible for ensuring product quality. This individual must have a proven track record of success building, leading, and managing a functional and technical QA team with a strong sense of quality ownership and feature advocation. This is a hands-on job that requires strategic thinking and planning to provide leadership and expertise throughout the entire QA lifecycle, ensuring the success of the team's manual and automation efforts. The manager will provide regular direction, mentorship, and coaching to QA team members
+Requerimos:
+ Engineering/Computer Science Degree
+ 3-6 yrs of experience with 2+ years as a QA Manager
+ Skilled in QA system development and monitoring
+Self motivated and willing to "do what it takes" to get the job done
+ Internal and external client-focused attitude with excellent communication skills, both written and verbal
+ Demonstrated leadership capability
+ Strong work ethic and ability to work with minimal supervision
+ Attention to detail and accuracy
+ Capable of reasoning and thinking through problems and be able to independently and jointly develop desired solutions
+ Strong problem solving and analytical skills with the ability to clearly communicate and share solutions with fellow team members
+ Excellent analytical, organizational, and problem solving skills not necessarily associated with programming
+ Strong understanding of testing web services
+ Aptitude for learning, understanding, and applying concepts
+ Strong interpersonal and technical skills
+ Able to work within a team and work independently
+ Experience in managing on shore and off shore teams effectively.
+ Able to effectively work as a part of a larger team and with clients
+ Committed team player with positive winning attitude
+ Excellent written, verbal, and communications skills to interact with staff and customers
+ Able to multitask
+ Varied knowledge and skills required in the following areas:
+ Excellent interpersonal and human relations skills
+ Business integration skills
+ Sense of urgency necessary to meet goals, objectives and deadlines
+ Working proficiency of company standard MS Windows and associated office productivity software tools (Word, Excel, PowerPoint)
+ Knowledge of Company policy, procedures and organizational structure
+ Ability to work an Agile QA environment, where QA proactively works to prevent defects;  not only to detect them
+ Ideal candidate would have previous experience working in Agile/Scrum
+ Experience within a QA team which heavily uses automated testing a plus
+ Experience with automated browser testing tools such as Selenium Experience with Java, Javascript, JSON, SOAP UI
+
+Deseamos:
+? Execution
+? Focus on market
+? Focus on quality
+? Collaboration
+? Leadership
+? Embrace the change
+? Problem solving
+? Customer orientation
+
+Experiencia:
+3 a 5 años
+Idiomas:
+ENGLISH is a must
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+Si estás interesado, inscríbete a la oferta en http://bit.ly/HVq8Cf , te llevará menos de un minuto. Por favor, para darte un buen servicio, no nos envíes tu CV por email.

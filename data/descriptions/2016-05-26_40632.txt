@@ -1,0 +1,9 @@
+
+¡Hola!
+En WonderBits buscamos desarrollador/a a jornada completa para varios proyectos, con AngularJS y NodeJS principalmente.
+También se valorarán conocimientos de C# en ASP.NET MVC/WebAPI e iOS con Swift.
+Si te interesa aprender estas tecnologías o dominas bien alguna de las que nombramos, no dudes en ponerte en contacto con nosotros.
+Horario flexible, SCRUM y pair programming, por ello preferimos a alguien de Valencia o alrededores con movilidad.
+Condiciones de sueldo negociables, dependiendo nivel de conocimientos y experiencia.
+WonderBits es una empresa multidisciplinar joven, formada por experimentados profesionales, que ponemos especial cuidado de las interfaces, diseño y tecnologías que permiten una alta escalabilidad, rendimiento y más fácil mantenimiento de los productos que desarrollamos, siempre en contacto directo con nuestros clientes, además de productos propios.
+¡Te esperamos!

@@ -1,0 +1,21 @@
+
+Sobre Klikin (http://klikin.com)
+Somos una startup española con sede central en Madrid que provee servicios de fidelización a comercios. Estamos buscando a una persona para ampliar nuestro equipo de desarrollo ubicado en Pozuelo de Alarcón. Si piensas que te puede interesar y quieres probar algo nuevo esto es lo que estamos buscando.
+Buscamos:
+Desarrollo avanzado API REST en Node.js - Express - Mongoose.
+Tests automáticos (Mocha y Chai).
+Administración básica de sistemas Unix.
+Fluidez en inglés.
+Desarrollo básico frontend.
+Experiencia mínima de 1.5 años en estas tecnologías.
+Valoramos:
+Experiencia con AngularJS e Ionic.
+Arquitecturas basadas en microservicios.
+Control de versiones git.
+Uso de bases de datos MongoDB.
+Uso de contenedores Docker.
+Conocimiento de metodologías ágiles.
+Ofrecemos:
+Salario máx 29K€/año según perfil del candidato.
+Contrato indefinido.
+Incorporación de una plantilla joven e internacional.

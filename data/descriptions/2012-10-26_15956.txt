@@ -1,0 +1,44 @@
+
+Somos una empresa dedicada al desarrollo de aplicaciones web orientadas al comercio electrónico situada en Vilafranca del Penedès (Barcelona).
+Buscamos una persona proactiva, inquieta, con curiosidad y que preste atención a los pequeños detalles.
+Requisitos:
+
+ Experiencia mínima de dos años en desarrollo de aplicaciones web.
+
+ Experiencia profesional y dominio de maquetación (HTML, CSS)
+ PHP, 
+
+ POO,
+
+ MVC,
+
+ Protoype, 
+
+ JQuery, 
+
+ MySQL,
+
+ Subversion o Git
+
+
+Valoraremos:
+
+ experiencia con GNU/Linux,
+
+ experiencia con sistemas de e-commerce (Magento, Prestashop),
+ experiencia con frameworks PHP (Zend, Symfony),
+ experiencia con cms PHP (Joomla, WordPress, Drupal),
+ less, sass,
+
+ TDD, BDD.
+
+
+ Ofrecemos:
+
+ jornada laboral completa presencial,
+
+ horario flexible, 
+
+ sueldo según valía del candidato.
+
+

@@ -1,0 +1,14 @@
+
+Actualmente Samsung Electronics Iberia quiere reforzar su Equipo de I+D debido al incremento e inversión en Desarrollo de Software que esta haciendo la compañía.
+Buscamos Software Developers con experiencia desarrollando para Android, y con cierta sensibilidad creativa para el diseño y la usabilidad (UX, UI).
+En lo ideal es buscamos una persona con formacion técnica (Ingeniería preferiblemente), con al menos 3 años de experiencia en desarrollo.
+Tecnicamente es valorable conocimientos en:
+   - Programación como Java o C++
+   - SDK Android 4.2 o inferiores
+   - Sensores dispositivos móviles (acelerómetro, proximidad,…)
+    - Experiencia con herramientas de integración continua (Bamboo, Jenkins,  …)
+     - Experiencia con gestores de versiones de código (P4, GIT, Subversion,…)
+     - Haber trabajado con entornos de desarrollo (IDE) como Eclipse, Visual Studio, …
+     - Experiencia en reutilización de librerías.
+Trabajarás dentro de un entorno internancional, dinámico y joven. 
+Imprescindible Ingles fluido.

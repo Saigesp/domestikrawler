@@ -1,0 +1,28 @@
+
+En la Nevera Roja buscamos a un profesional con 2 años o más de experiencia contrastada como Analista QA/Testing , con ganas de implicarse en un nuevo reto profesional dentro del sector de Comercio Electrónico, en una compañía en fuerte expansión en la que apostamos por el crecimiento personal y profesional.
+¿Estás preparado para lo que tenemos que proponerte?
+Queremos incorporar a una persona en nuestra oficina de proyectos, cuyo trabajo consistirá en la preparación, definición y seguimiento de las métricas de calidad y estándares de prueba para las distintas aplicaciones/proyectos.
+En dependencia del Director de la Oficina de Proyectos y en coordinación con los programadores, participarás en la concepción, desarrollo y ejecución  de los diferentes planes de pruebas (QA testing cycles).
+Si te consideras apasionado del sector tecnológico, con alta capacidad de análisis, con gran capacidad de organización y planificación, y quieres continuar tu carrera profesional en La Nevera Roja, ¡ésta es tu oportunidad! ¿Te apuntas?
+Tus principales tareas o funciones a desarrollar como Analista QA/Testing serán las siguientes:
+- Preparación y seguimiento de los planes de calidad
+- Definir y mantener métricas de control de calidad y estándares de prueba, verificando y/o revisando los mismos.
+- Diseño, desarrollo y ejecución de los planes de pruebas, scripts de pruebas y procesos de prueba que determinen el rendimiento óptimo de las app en función de las especificaciones del proyecto.
+- Llevar a cabo auditorías internas para medir y asegurar el cumplimiento de las normas de control de calidad establecidas para el desarrollo de software, integración de aplicaciones y el rendimiento del sistema de información y documentación correspondiente.
+- Colaborar con el dto. de IT en las pruebas de aplicaciones; QA Testing cycles- integración, sistema, regresión, estrés, volumen, etc.
+- Hacer recomendaciones para la mejora de las aplicaciones a los programadores y desarrolladores de software.
+- Analizar los resultados de las pruebas con el fin de descubrir y reportar errores y problemas de configuración, y hacer un seguimiento y resolución de los mismos.
+Para poder contar con tu candidatura será necesario que cumplas con los siguientes requisitos:
+- Experiencia en Testing Funcional de al menos dos años.
+- Definición de Casos de Test.
+- Realización de distintos tipos de pruebas: funcionales, rendimiento y métricas asociadas.
+- Gestión de documentación asociada al proyecto en la creación de planes de pruebas.
+- Experiencia de al menos 2 años realizando automatización con herramientas como Selenium, SoapUI y JMeter.
+- Capacidad para coordinación y gestión de pruebas en proyectos multidisciplinares.
+- Experiencia en Testing en entornos Web (Ecommerce principalmente) y APPs.
+- Experiencia en Performance.
+Además se valorará positivamente:
+- Experiencia en programación PHP
+- Experiencia de al menos 2 años en proyectos de calidad o revisión del SW en entornos LAMP
+- Conocimientos de HPQC
+- BDD

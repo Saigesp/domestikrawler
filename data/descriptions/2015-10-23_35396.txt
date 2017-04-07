@@ -1,0 +1,32 @@
+
+Hola. We’re looking for a talented Drupal developer to join our newly opened Madrid office. In our team you’ll be building websites and apps for some of the largest consumer brands. On each project you’ll have plenty of scope to take ownership of the projects you code, while collaborating with our experienced team.
+Who are we?
+We are the Madrid office of Catch Digital a full service digital creative agency, headquartered in London who build great websites and apps for some of the biggest consumer brands including; Rimmel London, One Direction, The Body Shop, Virgin Atlantic, All Nippon Airways, and BBC worldwide.
+About the position
+ • Midweight Developer with expert experience in Drupal, to be based on-site in our Madrid office
+ • Building world class consumer brands websites and apps.
+ • Integral in the production of new client projects + the smooth running of existing ones
+ • Part of a team of full-time open-source developers split across London and Madrid
+Requirements
+ • PHP procedural and object oriented programming
+ • 2 years (post-grad) professional agency/client-side experience
+ • Drupal 7 module and theme development
+ • Drupal site architecture, entity type structuring, use of Contrib modules etc.
+ • Responsive theming, using HTML5 + CSS3, adhering to web standards
+ • JavaScript development, using jQuery and other libraries
+ • Working within a collaborative developer environment using Git version control
+ • Agile/Scrum methodologies, using project management tools like Jira/Assembla/Trello
+Highly desirable
+ • Drupal Commerce experience
+ • Active involvement in the Drupal community, contributed modules, patches etc (supply your uid in your application)
+ • Working knowledge of angularJS or other MVC frameworks
+ • Working with JSON/XML, 3rd party APIs + web services
+ • Knowledge of Symfony and Drupal 8 a plus but not required
+ • Optimising Drupal for better performance (Varnish, Memcached etc)
+ • Knowledge of content distribution networks + cloud computing
+Salary
+We take good care of our staff. Salary expectations are dependant on experience.
+You’ll be eligible for
+ • Free English/Spanish classes
+ • Central Madrid office (Gran Via)
+ • Free beer Fridays…. Etc!

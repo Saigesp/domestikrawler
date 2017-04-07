@@ -1,0 +1,17 @@
+
+Precisamos incorporar en nuestras oficinas de Barcelona programadores para nuestro departamento de IT y Desarrollo, buscamos persona joven y dinámica, para empresa en crecimiento. 
+REQUISITOS:
+- Experiencia demostrable en entorno LAMP (Linux, Apache, PHP, Mysql) de mínimo 1 años
+- Conocimientos: PHP + HTML + CSS + JS (Jquery)
+- Conocimientos de Frameworks (Codeigniter, Symfony…)
+FUNCIONES A REALIZAR:
+- desarrollo web
+- programación
+- soporte técnico.
+SE VALORARÁN:
+- Experiencia en webs de alto tráfico y sector e-commerce.
+- Capacidad resolutiva
+- Experiencia en patrón MVC.
+- Conocimientos sobre control de versiones (SVN, Git)
+Jornada Completa
+Contrato Indefinido

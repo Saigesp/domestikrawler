@@ -1,0 +1,11 @@
+
+Colorsfera (www.colorsfera.com) es una empresa jóven, con mucha proyección a futuro, dedicada al desarrollo de proyectos web. Buscamos una persona con talento y que le guste y se apasione por lo que hace, para incorporarse a un equipo jóven y dinámico.
+Estamos lanzando un nuevo proyecto empresarial y buscamos un programador con experiencia que domine las siguientes áreas:
+- PHP
+- HTML5 
+- JS
+- JQuery
+- MYSQL. 
+También se valorará muy positivamente si domina frameworks como symphony 2 y codeignither. 
+La oferta es para realizar este proyecto desde 0, aunque también cabe la posibilidad de realizar otros proyectos al mismo tiempo.
+Importantísimo, trabajo presencial! Abstenerse empresas.  

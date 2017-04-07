@@ -1,0 +1,27 @@
+
+Bigg-Digital, dentro del proceso de su desarrollo en España, busca a un php developer: 
+Lenguajes: 
+- PHP 5 (OOP) 
+- HTML/XHTML 
+- Css 2.1 / CSS 3 
+- Javascript (OOP) 
+- SQL (MySQL)
+- LINUX (configuración completa de una maquina)
+Los siguientes: (al lo menos uno de ellos)
+- .net 
+- IOS 
+- android 
+CMS (debe ser experto al menos uno de ellos): 
+- Wordpress 
+- prestashop 
+(magento / drupal valorados tambien) 
+Requisitos imprescindibles: 
+- Al menos 5 años de experiencia trabajando con estándares web. 
+- Conocimientos de las últimas adiciones a esos estándares (HTML5, CSS3, canvas, APIs de Javascript). 
+- Uso avanzado de jQuery. 
+- Experiencia con arquitectura MVC. 
+- Conocimientos de frameworks Javascript 
+- Solvencia en problemas de compatibilidad de navegadores, incluidos dispositivos táctiles. 
+- Conocimiento de herramientas de trabajo en equipo y control de versiones.
+Contratación: 
+- Fecha de inicio: Abril 2014

@@ -1,0 +1,36 @@
+
+Buscamos un/a programador/a web polivalente (frontend & backend) con al menos 2 años de experiencia profesional para incorporar al departamento de desarrollo de proyectos de nuestra empresa.
+Tus funciones principales serán, entre otras:
+- Desarrollar nuevas webs en Drupal y Wordpress (instalación y configuración del CMS; maquetación del diseño con HTML5, CSS3 y jQuery).
+- Desarrollar módulos/plugins con PHP para Drupal y Wordpress.
+- Ayudar en el mantenimiento de webs ya existentes.
+- Diseño y programación de páginas web. 
+- Seguimiento de proyecto y puesta en marcha.
+- Formación y mantenimiento al cliente del funcionamiento de la web.
+- Soporte y mantenimiento del proyecto realizado.
+- Gestión de hosting de web y correo. 
+ - Coordinar con el resto del personal de su dpto. la ejecución de los proyectos.
+IMPRESCINDIBLE
+- Experiencia en programación orientada a objetos
+- PHP, HTML5, CSS3 y jQuery
+- Que trabajes o hayas trabajado con algún CMS tipo Drupal,  Wordpress.
+- Desarrollo ecommerce - Prestashop / Magento
+- Que seas una persona activa, y estés al día de las últimas tendencias de desarrollo web.
+- Conocimiento de gestión MySQL.
+- Conocimiento Web Responsive - Bootstrap.
+- Nivel básico de inglés
+- Nivel básico Portugués
+TAMBIÉN VALORAREMOS
+- Que sepas usar herramientas de diseño, tipo Photoshop (nivel básico), illustrator,...
+- Actitud abierta y creativa, personas que comparten sus opiniones y aceptan ideas de otros.
+- Iniciativa, hambre por aprender y capacidad auto-resolutiva.
+- Trabajo en equipo, capacidad de enseñar a otros en caso de ser necesario.
+- Conocimientos SEO – SMM.
+- Conocimientos de diseño y usabilidad web.
+OFRECEMOS
+ - Entorno laboral agradable y distendido.
+-  Clara posibilidad de promoción en la empresa.
+- Contrato Indefinido
+- Flexibilidad horaria
+- Horario de L-J 8.00-17h y V 8-14h
+- Salario según valía.

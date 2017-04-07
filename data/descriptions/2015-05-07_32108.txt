@@ -1,0 +1,16 @@
+
+To expand the current team we are currently looking for a Senior PHP developer. We are looking for an enthusiastic developer with a passion for his profession and for sports, for a project covering at least 4 months.
+The profile
+As a Senior PHP developer you will build on the (league) systems and high traffic portals for both our (international) customers and our own brands. You are familiar with software design- and development with contemporary proven standards.
+The job
+The job is for 32-40 hours per week and you will be stationed in Sant Cugat del Vallés (Barcelona). Given the international nature of your job, it may be that you have to travel sometimes. You will work in a team with various software engineers in your field, but you are also perfectly capable to function and operate independently. You are directly supervised by the Lead Developer.
+The reward
+We offer a competitive salary. The corporate culture is dynamic, collegial and relaxed.
+The requirements
+- 4+ year experience with Web Development;
+- Proven working experience with Zend Framework 2;
+- Great knowledge of Design Patterns;
+- Experience with GIT version control system and Unit Testing;
+- Knowledge of high performance code and scalable systems;
+- Ability to work as part of an international team of developers, which are in the Netherlands and Spain.
+Knowledge and experience with Doctrine 2 or ReactJS is welcome but not required.

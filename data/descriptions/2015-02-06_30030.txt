@@ -1,0 +1,26 @@
+
+Hola! Buscamos nuevo componente para el equipo en un ambiente de trabajo joven, dinámico y con muy buen trato y respeto por los compañeros, queremos encontrar alguien que encaje en este sentido también con nosotros.
+ 
+ESTUDIOS MINIMOS: 
+Formación Profesional Grado Superior - Informática 
+EXPERIENCIA MINIMA: 
+Dos años trabajando con estas tecnologías y haber empleado las mismas en desarrollos previos (necesario ejemplos demostrables).
+CONOCIMIENTOS NECESARIOS:
+- Programación y maquetación en HTML5, CSS3, PHP5, JQuery, Javscript
+- Integración con APIs externas desde RRSS  a APIs de google y otros players de internet con APIs abiertas
+- Acostumbrado a programar bajo plataformas de e-commerce como Magento, Prestashop 
+- Experiencia en entornos CMS como joomla o wordpress
+- Bases de datos: MySQL
+- Conocimientos de SEO
+REQUISITOS IMPRESCINDIBLES: 
+El perfil idealmente debería tener experiencia en las siguientes tecnologías:
+- Programación y maquetación en HTML5, CSS3, PHP5, JQuery, Javscript
+- Integración con APIs externas desde RRSS  a APIs de google y otros players de internet con APIs abiertas
+- Acostumbrado a programar bajo plataformas de e-commerce como Magento, Prestashop 
+- Experiencia en entornos CMS como joomla o wordpress
+- Bases de datos: MySQL
+- Conocimientos de SEO
+NO REQUERIDO PERO VALORABLE:
+- Frameworks web: Spring MVC
+- Maquetación responsive
+- Desarrollo de Apps

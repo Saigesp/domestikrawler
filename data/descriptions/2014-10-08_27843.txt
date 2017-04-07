@@ -1,0 +1,16 @@
+
+Atmira, consultora especializada en ofrecer soluciones y desarrollos software incorpora un Programador Senior en PHP que se integrará en el proyecto de uno de nuestros principales clientes líder en el sector e-commerce. Buscamos: 
+Programador PHP mínimo 4 años de experiencia,
+Experiencia en:
+- Zend Framework
+- Symfony 
+- POO 
+- Websevice 
+- Mysql
+- Procedures
+- JSON
+Valorable experiencia en integración o creación de API's
+· Capacidad para la resolución de problemas
+· Pro-actividad
+· Habituado a trabajar bajo presión
+ABSTENERSE FREELANCE

@@ -1,0 +1,10 @@
+
+Somos una empresa de desarrollo Frontend y UX y estamos buscando en estos momentos desarrolladores frontend en modalidad freelance.
+Sería para hacer desarrollos en remoto con Python Flask, por proyectos y de forma continuada.
+Requisitos: 
+- Experiencia desarrollando en Python Flask
+- Nivel avanzado en Bases de datos de MySQL
+- Desarrollo en entornos Java y .NET
+Valorable: 
+- Conocimientos mínimos de manejo de un servidor Apache y Amazon WS para montar un entorno de desarrollo y de producción para los proyectos
+

@@ -1,0 +1,19 @@
+
+Desde Altamira TI, empresa de Consultoría de Servicios, necesitamos incorporar un desarrollador Backoffice.
+¿Que Buscamos?
+· Profesionales con amplia experiencia en Java J2EE
+· Version control and quality : Github, Jenkins, Sonar.
+· Bases de datos SQL and NoSQL 
+· Hibernate 
+· Spring
+Valoraremos positivamente :
+· Otros lenguajes de programación como Python or JavaScript 
+· AngularJS y/o NodeJS 
+· Big Data: Flink, Storm, Flume,Hadoop etc… 
+· Cloud: Amazon, Azure, Openstack, etc… 
+· Metodologia Agil
+Ofrecemos: 
+- Remuneración acorde a la experiencia del candidato. 
+- Proyectos estables. 
+- Buen ambiente de trabajo.
+Si te interesa participar en esta propuesta, por favor, inscríbete en la oferta. Te esperamos.

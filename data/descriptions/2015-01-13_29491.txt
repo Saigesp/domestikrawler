@@ -1,0 +1,23 @@
+
+Visivalab es una empresa joven, con sede en Barcelona y en Italia. Nos dedicamos a proyectos digitales de contenido en el ámbito de la cultura, a nivel internacional.
+Debido a nuestro crecimiento necesitamos incorporar un Maquetador HTML/CSS. No es imprescindible experiencia laboral previa pero si un buen nivel de conocimientos. Estamos interesados en incorporar al equipo, alguien con ganas de aprender y de investigar.
+Requisitos mínimos:
+- Conocimientos nivel alto de HTML/CSS empleando estándares web y cross-browser compatibility.
+- Conocimientos básicos de Javascript y jQuery.
+- Conocimientos básicos de PHP (entender el código PHP y fundamentos de programación).
+- Ser organizado y preparado para tomar la iniciativa.
+- Tener capacidad de trabajo en equipo.
+Requisitos deseados:
+- Conocimientos HTML5, CSS3, grid systems, responsive design y marcado semántico.
+- Conocimientos de Photoshop y maquetación de PSD a web.
+- Interés en diseño gráfico, optimización web y SEO.
+- Experiencia en uso de Subversion (SVN) y PHPStorm.
+- Experiencia con gestores de contenidos CMS como Wordpress.
+Valoraremos positivamente:
+- Titulación superior en disciplinas relacionadas (Grado Multimedia)
+- Dominio de inglés y / o italiano
+- Conocimiento de algún lenguaje de programación
+- Conocimientos de Videomapping
+Previo a la entrevista, pedimos:
+- CV.
+- Ejemplos de código y web maquetadas.

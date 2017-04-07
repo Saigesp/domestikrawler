@@ -1,0 +1,26 @@
+
+Piensa Diferente es una startup de reciente creación enfocada al sector turístico en España cuya misión es la de democratizar la oferta hotelera a través de la tecnología.
+Somos un equipo joven de personas apasionado por el turismo y las nuevas tecnologías, con buenas ideas y ganas de marcar la diferencia, creando soluciones propietarias que esperan revolucionar un sector maduro y anclado en el pasado.
+Venimos de diferentes sectores como el marketing online, consultoría digital y organización de eventos, donde durante cerca de diez años hemos trabajado con marcas líderes.
+Ahora estamos aplicando este expertise en ayudar a pequeños y medianos complejos turísticos a competir con las grandes cadenas hoteleras, ofreciendo soluciones completas, hechas a medida, pero asequibles.
+Buscamos un perfil de programación backend especializado en PHP para el desarrollo y mantenimiento de herramientas de gestión hotelera.
+Necesitamos
+- Inconmensurable experiencia en desarrollo sobre pila LAMP
+- Amplia experiencia (+5 años) en –al menos uno de– los siguientes frameworks (por orden de preferencia): Yii, Symfony, Laravel o Zend
+- Amplia experiencia en el desarrollo de herramientas de gestión basadas en web
+- Experiencia en el desarrollo y consumo de webservices SOAP y REST
+- Metodologías ágiles (Integración continua, testeo, automatización…)
+- Capacidad para programar y documentar íntegramente en inglés
+- Ser autónomo o tener capacidad para facturar en España
+Valoraremos
+- Titulación técnica superior
+- Experiencia en desarrollo de herramientas de gestión hotelera (PMS, CRS, Channel Manager…)
+- Conocimientos DevOps
+- Código inteligible y limpio
+Ofrecemos
+- Estructura horizontal: Preferimos encontrar partners antes que empleados
+- Flexibilidad: No nos importa cómo –, cuándo, ni desde dónde– trabajes, mientras lo hagas bien y a tiempo
+- Espacio de trabajo: Si quieres, puedes venir a nuestro espacio junto al museo Reina Sofía y trabajar mano a mano con nosotros
+- Realización profesional: Enorgullécete de tu trabajo –esto también es un requisito–
+- Aprende y comparte lo que sabes: Todos somos "hackers" en cada uno de nuestros ámbitos
+- Viajes y dietas pagadas

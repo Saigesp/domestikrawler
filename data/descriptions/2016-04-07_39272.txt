@@ -1,0 +1,14 @@
+
+Se busca freelance para proyecto puntual en el desarrollo de una APP en Phonegap.
+En principio el diseño correrá a cargo nuestro y la persona seleccionada llevará a cabo el desarrollo.
+El proyecto es para una empresa tipo buscador de hoteles, vuelos, etc.
+Actualmente dispone de página web, por lo que la APP deberá conectar a la misma DB.
+Requisitos:
+- Dominio total de Phonegap
+- Un buen dominio de Jquery (Animaciones y efectos molones)
+- Con capacidad para aconsejar y tomar decisiones
+- Subida de la APP en las diferentes Stores
+- Atención al detalle
+- Se precisa una persona profesional e independiente además de cumplir tanto en los plazos de entrega como en la forma de trabajo y en la calidad del producto final.
+- Con posibilidad de mantener la colaboración en futuros proyectos.
+*Indispensable mostrar portfolio de proyectos reales realizados y CV.

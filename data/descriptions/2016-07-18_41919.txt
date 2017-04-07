@@ -1,0 +1,16 @@
+
+Kelevra es una empresa de innovación, asesoría y consultoría tecnológica especializada en soluciones 360º para empresas, con una clara orientación a la ejecución de proyectos tecnológicos de vanguardia.
+Buscamos perfiles de Programación para la plataforma móvil iOS y el Desarrollo de Back-end complementarios.
+Conocimientos exigidos:
+*  iOS Objective-C
+*  PHP
+*  Conocimientos y experiencia mínima de 2 años en soluciones ERP
+*  Java
+*  SQL
+Conocimientos valorados positivamente:
+*  Software Testing
+*  Ruby
+*  Java - Play
+*  Metodologías Ágiles
+*  REST
+*  Git

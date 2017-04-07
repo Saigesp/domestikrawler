@@ -1,0 +1,13 @@
+
+En LOLA estamos buscando un Experto en Experiencia de Usuario (UX) para Barcelona. Se incorporará a un gran equipo que va a desarrollar un proyecto de seis meses de duración, aproximadamente. 
+El candidato deberá tener una gran capacidad creativa pero sobre todo una profunda visión para interpretar y comprender la arquitectura de la información y el flujo de navegación dentro de un diseño web.
+Requisitos:
+- Creación de templates para Wordpress.
+- Experiencia en Responsive Web Design.
+- Creación de wireframes, prototipos y flujos de navegación.
+- Diseño y maquetación cross-browser en HTML5, CSS3, Javascript (jQuery).
+- Experiencia en frameworks como Bootstrap, Foundation, AngularJS, etc.
+- Conocimientos de UX/UI (User Experience/User Interface).
+- Curiosidad por las últimas tendencias en diseño web.
+Es importante que tenga disponibilidad inmediata, y que pueda trabajar 8 horas al día de lunes a viernes.
+¿Estás interesado en esta oportunidad? ¡Queremos conocerte!

@@ -1,0 +1,10 @@
+
+Buscamos desarrollador iOS / Android para incorporación inmediata de cara al desarrollo de un proyecto de duración 3-4 meses. Se ofrece contrato por obra, sin descartar la posibilidad de que puedan surgir nuevos proyectos durante ese período que requieran mantener la relación contractual.
+Habilidades necesarias:
+- Experiencia en desarrollo Android e iOS
+- Experiencia en utilización de servicios web para plataformas móviles en los anteriores SO
+Se valorará:
+- Experiencia con Unity y/o Phonegap.
+- Experiencia en desarrollo Windows Phone
+Se valorará especialmente:
+ - Experiencia creando backend y frontend para servicios web basados en JSON o XML

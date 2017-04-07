@@ -1,0 +1,11 @@
+
+Hosteneo Technologies, start-up de reciente creación, necesita diseñador/maquetador web para su oficina en Vigo.
+Buscamos una persona apasionada de la web, creativa y con ganas de compartir la construcción de un proyecto empresarial desde su inicio.
+Valoramos la experiencia profesional, pero mucho más las ganas de enfrentarse a nuevos retos.
+Requisitos:
+- Conocimientos avanzados de XHTML, CSS y estándares web.
+- Conocimientos avanzados de Javascript.
+- Persona acostumbrada a trabajar en equipos multi-disciplinares.
+- Experiencia en accesibilidad, usabilidad y estándares.
+- Experiencia con gestores de contenidos
+

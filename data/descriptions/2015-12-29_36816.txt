@@ -1,0 +1,24 @@
+
+Buscamos incorporar un nuevo programador de Apps iOS/Android.
+Requisitos:
+- Experiencia previa demostrable en el desarrollo en aplicaciones para dispositivos móviles iOS y Android.
+- Integración de Analíticas y notificaciones Push. 
+- Conocimientos de creación de APIs.
+- Desarrollo en Cordova
+- Experiencia en desarrollo de aplicaciones híbridas
+- Experiencia en HTML5, CSS3,
+- Conocimientos de lenguaje JavaScript.
+Se valorarán conocimientos en:
+- Proceso de publicación en AppStore y Google Play. 
+- Conocimientos en programación nativa en Android. 
+- Conocimientos en programación nativa en IOS.
+- Programación y desarrollo en Phonegap. 
+- Programación y desarrollo en Corona.
+- Programación y desarrollo con Unity
+- Experiencia en frameworks para desarrollo a Apps híbridas. 
+- Conocimiento de Java 
+- Conocimiento de usabilidad de aplicaciones
+Ofrecemos: 
+- Incorporación inmediata. 
+- Lugar de Trabajo: Madrid
+- Buen ambiente de trabajo

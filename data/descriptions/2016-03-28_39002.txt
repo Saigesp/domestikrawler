@@ -1,0 +1,23 @@
+
+Si dominas PHP (+ 5años) y te gustan los proyectos de Internet y el mundo startup, echa un vistazo a nuestra oferta:
+En s|ngular estamos buscando DESARROLLADORES PHP SENIOR para continuar con nuestro crecimiento y unirse a nuestro equipo.
+Si dominas PHP (+ 5años) y te gustan los proyectos de Internet y el mundo startup, echa un vistazo a nuestra oferta:
+Requisitos:
+- Buscamos una persona con amplia experiencia en desarrollo PHP. 
+- Valoramos altamente que hayas trabajado con Laravel ( 4 y/o 5) en algún proyecto, incluso personal.
+- Aportas recorrido profesional con Servidores Apache y Nginx
+- Has trabajado con BBDD: MySQL y/o Oracle.
+- Te mueves o te has movido en entornos Front con Bootstrap, JQuery, HTML5 y CSS3
+- SCM: Git, Jenkins
+- Conoces plataformas de infraestructura cloud: Amazon Web Services, Rackspace. IBM Bluemix.
+- Valoramos conocimientos de otros frameworks de desarrollo, especialmente en PHP (Symfony), y también conocimientos de plataformas open source de ecommerce (Magento, Prestashop).
+Y si además...
+- Eres una persona a la que le gusta estar al día de las últimas tendencias tecnológicas, 
+- Prefieres proyectos en equipos pequeños y ágiles en los que puedes ver resultados rápido y tu trabajo marca la diferencia, en lugar de grandes proyectos de decenas de desarrolladores.
+- Eres una persona autónoma a la que le gusta gestionar su tiempo.
+- Tienes empatía, sentido común y una visión que llega más allá de la tecnología. Te puedes poner en el lugar del usuario.
+- Tienes inquietud y sigues lo que hacen las compañías líderes en Internet.
+¡Eres la persona que buscamos!
+¿Qué podemos ofrecerte?
+Podemos ofrecerte un entorno de trabajo cómodo, con la capacidad de gestionar tu tiempo y desarrollar con productividad y autonomía, junto a nuestro equipo formado por profesionales de primer nivel, responsables de algunos de los mayores casos de éxito en Internet en España en los últimos años.
+¿Quieres unirte a nuestro viaje?

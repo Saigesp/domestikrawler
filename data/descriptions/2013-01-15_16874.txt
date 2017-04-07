@@ -1,0 +1,15 @@
+
+Buscamos un profesional, con un mínimo de seis años de experiencia, para incorporarse a una empresa de nueva creación. 
+Trabajará en un equipo multidisciplinal, con Arquitectos de información, Diseñadores Web y Desarrolladores Front-end, responsabilizándose del Desarrollo Back-end de todos los proyectos de Ecommerce (B2C y B2B)
+Es imprescindible tener experiencia en:
+- Desarrollo de Ecommerces a medida
+- Integraciones con sistemas internos (ERP) o externos (pasarela de pagos, operadores logísticos, etc)
+- Configuración de arquitecturas avanzadas para Ecommerces (hablamos de tiendas online entre 10.000 y 100.000 visitas/día)
+Es imprescindible el domino de las siguientes tecnologías:
+- Linux con Servidor PHP Apache 
+
+- MySQL v.5.5.29
+- XHTML 1.0, XML, DHTML y PHP 5.4.3
+- Librería Zend Framework
+Ofrecemos trabajar en un entorno creativo, innovador y riguroso y un salario acorde a la experiencia-formación que pedimos para el puesto.
+Un saludo.

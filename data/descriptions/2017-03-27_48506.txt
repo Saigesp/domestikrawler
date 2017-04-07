@@ -1,0 +1,19 @@
+
+Se ofrece Prácticas en Empresa y plan de carrera y formación para alumnos recién titulados o en último año de estudios en el ámbito de la Programación y Tecnologías de la Información.
+Titulaciones preferibles:
+- Telecomunicaciones 
+- Informática
+- FP Desarrollo de Aplicaciones
+Conocimientos en los que se profundizará:
+- Desarrollo de aplicaciones con VisualStudio 2010/2013/2017 
+-  C# 
+- Desarrollo de servicios web (WCF, WS-*)
+-  Modelo Vista Controlador MVC5
+- SQLSERVER 2008 / 2016 o superior
+-  HTML-CSS y metodologías de desarrollo
+Los proyectos en los que trabajará serán:
+- Desarrollo y mejora de nuestra plataforma de control de accesos y acreditaciones en .net (webservices xml, wpf y asp.net).
+- Soporte a clientes y despliegue del sistema de ayuda online y soporte en asp.net.
+- Desarrollo del interface de venta de entradas del Oceanográfico de Valencia en java.
+- Montaje, gestión y soporte informático en eventos como motogp y maratón de Valencia.
+- Desarrollo y mantenimiento de apps de control de accesos y acreditaciones en Android / IOS.

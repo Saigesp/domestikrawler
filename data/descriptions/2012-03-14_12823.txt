@@ -1,0 +1,27 @@
+
+Estamos buscando un web developer lead para el departamento técnico ticketero:
+Buscamos
+Un futuro ticketero que se haga responsable del desarrollo y publicación de nuestra web.
+Tendrás que implementar el marcado, contamos con un bootstrap HTML5 muy chulo, integrar front end contra nuestra API (no te vas a tener que preocupar de back end), realizar los deploys y asegurar el completo funcionamiento en todos los navegadores (IE7+).
+Con amplia experiencia integrando servicios de terceros, generando marcado bien organizado y de calidad en aplicaciones web de gran tamaño y tráfico intensivo (si odias la DIV-itis y la ID-itis eres de los nuestros).
+Ofrecemos
+Trabajar en un equipo joven en una empresa en fuerte crecimiento (con participación de ATRAPALO), en nuestra oficina en el centro de Madrid.
+Responsabilidad en el desarrollo de nuestra web, extranet e intranet en las que aplicarás todos tus conocimientos para evolucionar el producto, construyendo sobre nuestro bootstrap.
+Requerimos
+Pasión por el desarrollo y atención al detalle.
+Facilidad para el trabajo en equipo. Funcionamos en grupos multidisciplinares, con lo que colaborarías día a día con otros perfiles.
+Experiencia en PHP en entornos MVC.
+Experiencia en HTML5 y CSS3.
+JavaScript (usamos jQuery).
+Experiencia en la integración de API de terceros (Facebook, Google Maps, Flickr, Twitter…)
+Amplia experiencia trabajando con sistemas de control de versiones (nosotros usamos GIT).
+Deseamos
+Haber trabajado con tests (Selenium, etc.)
+Conocimiento de metodologías ágiles. Nosotros usamos SCRUM.
+Experiencia
+Mínimo de 2 años
+Condiciones
+Contrato indefinido.
+Jornada completa de 9:00 a 18:30. Los viernes salimos a las 15:00.
+Jornada laboral intensiva en julio y agosto.
+Podéis enviar vuestras candidaturas a la siguiente dirección info@ticketea.com. Os esperamos : )

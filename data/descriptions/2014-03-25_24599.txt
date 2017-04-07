@@ -1,0 +1,7 @@
+
+Para cliente especializado en gestión turística ubicado en el centro de Madrid precisamos incorporar un Analista Desarrollador con amplia experiencia en PHP 5 y Symfony. Posibilidad de contratación freelance y de teletrabajo. Proyecto inicialmente con una duración de 6 meses.
+Requisitos:
+- Amplia experiencia en desarrollo con PHP5, mantenimiento evolutivo y correctivo.
+- Experiencia en plataformas de alto rendimiento (Symfhony u otros frameworks de PHP)
+- Experiencia con ORM Doctrine, TWIG, MySQL, Subversion.
+- Disponibilidad de incorporación inmediata.

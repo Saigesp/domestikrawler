@@ -1,0 +1,22 @@
+
+En MyStarAutograph.com buscamos un Responsable Técnico que lidere, gestione y desarrolle la arquitectura técnica de nuestra tienda online.
+** La empresa **
+MyStarAutograph.com es el primer portal que vende productos oficiales con dedicatoria personalizada de celebridades. Es un Ecommerce en base a Drupal7 y Ubercart con proyección global - Durante el primer trimestre, se vendieron productos a más de 50 paises diferentes.
+MyStarAutograph.com tiene acuerdos de licencia con grandes deportistas como Leo Messi, Cristiano Ronaldo o Rafa Nadal y cuenta con el apoyo financiero de empresas de capital riesgo y varios Business Angels.
+** Tu oportunidad **
+MyStarAutograph.com brinda el reto de construir y gestionar la parte tecnológica de una startup ambiciosa. Ofrece un proyecto a largo plazo que cuenta con la agilidad y libertad del cambio continuo y la posibilidad de probar técnicas y aprender de sus resultados. El proyecto cuenta también con otros retos tecnológicos como son la tecnología propia diseñada desde cero para la generación de producto, los picos de alto tráfico y una página de alcance global.
+**Principales tareas y responsabilidades **
+- Desarrollar y gestionar la plataforma de contenidos, e-commerce, analítica y página web de la tienda online.
+- Liderar el equipo de desarrollo y tecnología, y participar activamente en la toma de decisiones estratégicas de la startup.
+- Coordinarse con el resto del equipo: Negocios, Operaciones, Diseño, Analítica/CRM...
+** Experiencia y aptitudes deseadas **
+Buscamos un ingeniero/a informático/a con un perfil técnico capaz de programar y solucionar problemas, que al mismo tiempo tenga cierta visión de negocio y de gestión de equipo y recursos.
+Se requiere involucración al 100% y motivación por construir tecnología y liderar técnicamente una startup. Es un puesto a tiempo completo en Barcelona y no conviene a autónomos o contrato a distancia.
+El perfil ideal sería un responsable tecnológico de un negocio en internet, un arquitecto de software o un ex-CTO de una startup.
+Conocimientos requeridos:
+- Experiencia demostrable en Drupal7 o similar: Arquitectura, programación, gestión de contenidos.
+- Deseable experiencia en la plataforma de e-commerce Ubercart3, pasarelas de pago, analítica, CRMs.
+- Experiencia en programación en PHP, JavaScript, jQuery y maquetación en HTML/CSS.
+- Conocimientos básicos de sistemas UNIX, bases de datos MySQL, servidores web Apache y sus módulos de escalabilidad y cache, sistemas Varnish, dominios y DNS.
+- Capacidad de priorizar urgencias, gestionar diversas tareas al mismo tiempo, tener control sobre los proyectos e incidencias abiertas, saber reportar y coordinarse con múltiples personas
+

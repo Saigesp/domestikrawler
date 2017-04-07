@@ -1,0 +1,5 @@
+
+CEI: Escuela de Diseño busca profesor/a para el Curso de Desarrollo de Apps Móviles con Adobe Phonegap (apache cordova).
+Horario de 9 a 15h (6 horas / día)
+Imprescindible: altos conocimientos de HTML, CSS, JavaScript, jQuery y PhoneGap/Apache Cordova y puesta en marcha y publicación de apps móviles basadas en Adobe PhoneGap en Apple Store o Google play.
+El Curso de Desarrollo de Aplicaciones Móviles con Phonegap de CEI: Escuela de Diseño está dirigido a aquellas personas que cuenten con conocimientos de HTML5 y CSS3 que quieren aprender a desarrollar aplicaciones específicas para móviles y tabletas (apps).

@@ -1,0 +1,28 @@
+
+GlobalStudio es una compañía especializada en  Video Producción audiovisual & Web service streaming, muy motivada  con la visión de innovar en la nueva experiencia de contenidos audiovisuales (Video bajo demanda VOD, Streaming en directo LIVE STREAMING. 
+Nuestros servicios y productos están orientados a la creación de interfaces web especializadas y a medida para dar servicio a clientes que demandan soluciones profesionales de gestión, codificación y emisión de contenidos vía streaming.
+Buscamos un desarrollador/a apasionado por las interfaces web eficientes y productivas.
+Como parte de nuestro equipo serás responsable de la realización de nuevas
+funcionalidades en nuestras aplicaciones personalizadas. Estamos enfocados al
+desarrollo de sistemas de content-management audiovisual y nos gustaría que a ti
+también te apasionara aprender nuevas tecnologías y desempeñar nuevas funciones.
+Vemos importante que nuestros productos crezcan al mismo ritmo que la innovación, pero
+a la vez que cumplan con las normativas actuales y que tengan un nivel alto de calidad.
+Si tu objetivo es encontrar la mejor solución para el usuario final, con nosotros te
+encontrarás en el lugar perfecto.
+Como parte de nuestro equipo ágil y ambicioso, deberás estar dispuesto a perseguir un
+mismo objetivo y deseoso de contribuir con tus ideas, experiencia y habilidad.
+Si te identificas con nuestro perfil y si sabes programar PYTHON, PHP, HTML5 y
+JavaScript... este puesto es para ti.
+REQUERIMIENTOS
+• título de educación superior técnica o formación equivalente
+• por lo menos 3 años de experiencia de trabajo en programación web
+• experiencia actual con MVC Frameworks (por ejemplo: Zend, Django, …)
+• habilidad de creación rápida de prototipos funcionales
+• compresión de HTML5 y CSS multi-navegador
+• conocimiento de procesos de trabajo con sistemas de versiones (SVN, GIT, …)
+• capacidad de usar sistemas UNIX
+• programación nivel alto, elegante y eficiente
+• capacidad y pasión de expandir el conocimiento y explorar nuevas ideas
+• flexibilidad y disposición de trabajar en un equipo ágil
+• disposición de trabajar con proyectos de alta exigencia y expeditivos avances

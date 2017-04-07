@@ -1,0 +1,29 @@
+
+En Redbility seguimos creciendo y ampliando equipo, en este momento estamos buscando talento para incorporar al equipo de frontend.
+Somos especialistas en Experiencia de Usuario (UX) y creemos firmemente que el desarrollo frontend es una parte importante de esta disciplina. Por eso no nos conformamos con desarrolladores que dominen las tecnologías estándar (HTML, CSS, JavaScript...), sino que buscamos personas que entiendan su trabajo como parte de algo más grande, que tengan criterio gráfico y conocimientos de Diseño de Interacción.
+Si disfrutas con un pie en la tecnología y otro en el diseño, este es tu lugar.
+Necesitamos que domines:
+    - HTML 5
+    - CSS 3
+    - JavaScript
+    - Polymer
+    - Ajax y JSON
+    - Experiencia en Responsive Web Design
+    - LESS o SASS
+    - GIT
+    - Automatización de tareas (Gulp, Grunt)
+Nos vas a convencer enseguida si también tienes:
+    - Cierta formación artística y buen criterio gráfico
+    - Gusto por el orden y la meticulosidad
+    - Buena base de accesibilidad
+    - Experiencia en optimización de rendimiento
+    - Obsesión por los estándares, el código limpio y la reutilización
+    - Una bonita amistad con el SEO
+¿Qué te ofrecemos?
+    - Jornada laboral completa y presencial en el centro de Madrid
+    - Salario competitivo y ajustado a tu valía
+    - Altas posibilidades de proyección en la empresa
+    - Trabajar en un equipo innovador y multidisciplinar en constante evolución
+    - Buen ambiente de trabajo (visita nuestra página en Facebook para hacerte una idea)
+    - La oportunidad de trabajar en proyectos interesantes y con clientes como Nestlé, Roca, BBVA, Banco Popular, El Corte Inglés, Ferrovial, etc.
+Si quieres formar parte de uno de los equipos más creativos de España ponte en contacto con nosotros. No olvides incluir un enlace a tu portfolio, o al menos una lista de enlaces a trabajos cuyo frontend hayas desarrollado.

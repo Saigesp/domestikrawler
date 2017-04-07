@@ -1,0 +1,6 @@
+
+Trabajará en el desarrollo y mantenimiento técnico de los nuevos proyectos basados en Wordpress.
+PERFIL:
+- Dominio de Wordpress, CSS, HTML
+- Programación en PHP para el desarrollo de plugins para Wordpress y consumo de web services XML
+- Manejo de Photoshop o similar para la creación de banners y elementos gráficos de navegación

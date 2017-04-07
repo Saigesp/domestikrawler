@@ -1,0 +1,20 @@
+
+Key Accountability and Responsibilities
+•	Develop UI Systems that lets build websites and web products based on components.
+•	Develop libraries of components and maintain Live Style Guides to guide back-end developers
+•	Monitor the compliance of Web Standards and performance indicators
+•	Apply best practices and UX Patterns to your day-to-day work
+•	Bring visual designs to life! 
+Key Skills, Knowledge, Experience and Competencies
+
+•	At least, 5 years working as front-end developer, web developer or similar
+•	Experience using linting tools like CSSLint, HTMLLint, etc. If automated them with Grunt, Gulp or makefile tasks even better.
+•	Experience creating sites following W3C and WCAG standards.
+•	Experience using tools to monitor the compliance of standards, performance and best practices (W3C validators, Sonarqube, web semantic extractors, YSlow, Google Page Insights, etc.)
+Technical requirements:
+•	Deep knowledge of Web Standards and accessibility (W3C, WAI-ARIA, WCAG, mobileOk, Section 504, etc.)
+•	Deep knowledge of XHTML, HTML5, CSS 2.1 and 3
+•	Good knowledge of Javascript, JSON and jQuery.
+•	Knowledge in Web Semantic, Open Graph Protocol, Twitter Cards, Bower, Git, Re-quireJS, Grunt, Makefile, etc. is a plus.
+•	Be an orderly and methodical person is a must
+

@@ -1,0 +1,5 @@
+
+Hola,
+En welovecode buscamos un programador creativo freelance, residente en Barcelona, que tenga experiencia con JQuery/CSS/HTML5/PHP y sensibilidad gráfica, para colaborar con nosotros en varios proyectos web. Se valora disponibilidad para trabajo presencial.
+Nos gustaría encontrar a alguien que además estuviera interesado en desarrollar proyectos de programación visual, física e interactiva en lenguajes como OpenFrameworks o Processing, aunque no tenga experiencia previa en este campo.
+Interesados mandadnos un link con vuestra web o un email explicándonos vuestra historia :)

@@ -1,0 +1,12 @@
+
+- Experiencia demostrable en desarrollos en iOS SDK
+- Haber desplegado aplicaciones en el App Store.
+- Experiencia en desarrollo iOS i Android
+- Conocimiento PhoneGap y jQuerymobile
+- Sólidos conocimientos de uso de webservices
+- Valorable conocimientos sobre Android, blackberry y Windows Phone
+- Se valorarán conocimientos en: HTML5, CSS3, Flash y ActionScript. 
+Desarrollar y mantener apps iPhone y IPad.
+Buen nivel de inglés hablado y escrito
+Tecnologías: iOS iPhone iPad Xcode Objective C C++ HTML HTML5 webservices Flash SQL JAVA
+

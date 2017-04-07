@@ -1,0 +1,15 @@
+
+Funciones:
+- Creación y mantenimiento de páginas web de programación
+- Resolución de incidencias informáticas internas ( sistemas informáticos)
+Requisito:
+Java, JSP, Struts2, Hibernate, iquery, javascript, SQL Server, MySQL, Herramientas de desarrollo: Eclipse + SVN.
+Experiencia en un puesto similar.
+Valorable:
+PHP, Smarty, Wordpress, prestashop, Mybtis, Conocimientos de redes, Windows Server, Sage Murano, AS400.
+Formación: CFGS o similar.
+OFRECEMOS:
+Contrato Laboral, empleo estable en una empresa joven ( no somos una consultoria informática), flexibilidad horaria, posibilidad de jornada parcial o completa a valorar por el candidato.
+Tipo de puesto: Indefinido
+Sueldo: 14.400,00€ /año
+

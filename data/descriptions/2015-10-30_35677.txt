@@ -1,0 +1,46 @@
+
+AKTIOS IT CONSULTANT is seeking a BI Project Manager to work in our client, a Multinational company with location in Palma de Mallorca.
+Description:
+The Business Intelligence Project Manager is responsible for the successful delivery of Business Intelligence (BI) projects to the entire organization. The primary responsibility of the Business Intelligence Project Manager is to work with the Business Intelligence team and product owners on gathering reporting requirements and delivering projects based on those requirements in a timely manner.
+Responsibilities
+-	Use technical judgment to drive project delivery, technology reviews, challenge proposals and build consensus.
+-	Maintain steady communication with development and/or analytical staff, business customers and management on all projects
+-	Collaborate with software/systems personnel in application testing, such as system, unit, regression, load, and acceptance testing
+-	Provide project status to stakeholders
+-	Cultivate and disseminate knowledge of project management best practices
+-	Apply fundamental project management methodologies, leadership, knowledge and experience to manage and support the design, development and implementation of BI projects and deliverables.
+-	Strive to continually improve the consistency, predictability and efficiency of the organization's BI project delivery capability by providing leadership in best practices.
+Qualifications
+       Education: College, university, or equivalent degree required.
+       Language: Fluent in English (verbal, written and comprehension)
+       Experience: 5 years of hands-on experience in managing technical projects including requirements documents, user story building, technical scoping and timeline development.
+
+Technical Skills:
+-	Oracle 
+-	SQL
+-	PL/SQL
+-	Cognos
+-	Microsoft SQL Server
+-	ETL Tools
+-	Databases
+-	Data Modeling
+-	Data Warehousing
+-	Data Modeling
+-	BigData
+-	Data Discovery 
+-	Fundamentos ITIL 
+-	Agile & Lean
+Abilities & personal qualities:
+-	Thorough understanding of BI projects as well as good understanding of customer's business model and IT opportunities and threats.
+-	Good understanding of data warehouse architecture design.
+-	Familiarity with change management, risk management and quality management and awareness of project management methods.
+-	Able to prioritize and execute tasks in a high-pressure environment
+-	Good general BI tools knowledge.
+-	Strong analysis and problem-solving skills
+-	Strong stakeholder management.
+-	Strong negotiation and communication skills.
+-	Open and innovative mindset.
+We Offer:
+      - Permanent Contract 
+     -   Work in a multinational and recognized company.
+    -   Attractive salary and benefits.  

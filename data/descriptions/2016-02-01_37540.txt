@@ -1,0 +1,7 @@
+
+En FantasticoPets queremos renovar nuestra página web. La página actual solamente soporta una tienda, y está hecha directamente sin plantilla. El objetivo es tomar lo bueno de la página actual y añadir :
+- Integración con el Facebook de FantasticoPets.
+- Integración con el canal de YouTube de FantasticoPets.
+- Integración con el Feed de noticias de FantasticoPets.
+- Un nuevo diseño responsive que mejore la imagen.
+Queremos que el proyecto se desarrolles desde nuestras oficinas en su fase de implantación por motivos de seguridad, en Valencia, España.

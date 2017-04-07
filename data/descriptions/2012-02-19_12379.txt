@@ -1,0 +1,11 @@
+
+Estamos seleccionado un desarrollador Django para que colabore en varios proyectos que tenemos actualmente en curso.
+Sus tareas serán:
+- Instalación de aplicaciones de terceros
+- Desarrollar módulos pluggables
+- Pruebas integradas con el resto de la aplicación
+Requisitos necesarios: experiencia con oAuth2
+Se valorarán positivamente conocimientos de XML,jSon, jQuery, HTML5 y CSS3, además de esperiencia trabajando en entornos con control de versiones.
+Valoramos la opción de trabajo freelance, por lo que si estáis interesados, enviarnos vuestro CV con espectativas salariales.
+Gracias!
+

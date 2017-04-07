@@ -1,0 +1,20 @@
+
+BUSCAMOS
+- Educación técnica universitaria. 
+- Nivel experto en: PHP, MYSQL, MVC, TDD, GIT, XML, JSON. 
+- Conocimientos avanzados de: HTML5, CSS3, JQUERY. 
+- Experiencia real y demostrable programando en algún framework de PHP. 
+- Programación enfocada a entornos de base Linux. 
+- Buen comunicador y con suficientes habilidades sociales para integrarse en nuestro equipo de trabajo. 
+- Habilidad para convertir las peticiones mágicas de los usuarios en software real. 
+- El aspirante deberá pasar una prueba técnica. 
+- Experiencia de más de 5 años.
+SE VALORARÁ
+- Certificación Zend, Symfony o equivalente. 
+- Conocimientos de arquitectura de servidores
+OFRECEMOS
+- Incorporarte a una empresa en expansión con gestión de cuentas relevantes 
+- Un puesto con perspectivas de proyección y crecimiento y en el que podrás aprender y crecer 
+- Gran ambiente y condiciones de trabajo 
+- Jornada laboral completa 
+- ¡El mejor café!

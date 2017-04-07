@@ -1,0 +1,13 @@
+
+Buscamos una persona para incorporación inmediata en plantilla con amplia experiencia en desarrollo para Android.
+Requerimos:
+- Experiencia demostrable en desarrollo para Android (Java/Eclipse/Android SDK)
+-­ Experiencia en aplicaciones dinámicas con alta interacción de servidor
+- Conocimientos en Usabilidad Móvil
+- Haber desplegado aplicaciones en Google Play.
+- Conocimientos en Parse
+- HTML5 + CSS3
+Se valorarán conocimientos en:
+- BitCoins
+- Ecommerce
+- Mandrill API

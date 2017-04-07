@@ -1,0 +1,33 @@
+
+Se precisa programador analista para el desarrollo de diferentes plataformas en ASP.net MVC.
+Especializado en Front-end con al menos 3 años de experiencia mínima.
+- Desarrollo de software en .NET Framework 3.5 and/or 4.0.
+- MVC con Razor, ASP .NET.
+- JavaScript / JQuery
+- Front-end technologies (HTML, XSL, CSS, JS)
+- SQL Server.
+- OOP
+- Version control systems (TFS, GIT, Subversion).
+Estudios mínimos
+Ciclo Formativo Grado Superior
+• Experiencia mínima
+Al menos 3 años
+• Requisitos mínimos
+Experiencia profesional demostrable en:
+- Desarrollo de software en .NET Framework 3.5 and/or 4.0.
+- MVC con Razor, ASP .NET.
+- JavaScript / JQuery
+- Front-end technologies (HTML, XSL, CSS, JS)
+- SQL Server
+- OOP
+- Version control systems (TFS, GIT, Subversion).
+• Se valorará:
+- Unit testing y mocking (MSTest, Moq).
+- Knockout
+- AngularJS.
+- Uso de metodologías ágiles (XP, Scrum, Kanban).
+- Trabajo en equipo.
+- Proactividad.
+- Inglés a nivel técnico.
+Se excluirán todas aquellas candidaturas que no aporten experiencia mínima de 2 años desarrollando en ASP.Net MVC. Tienen que haber estado trabajando el 80% del tiempo con
+MVC. No nos sirve alguien que haya hecho algo eventualmente.

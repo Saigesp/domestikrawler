@@ -1,0 +1,20 @@
+
+En Lavinia Interactiva buscamos un perfil de analista/programador/a de PHP con más de 4 años de experiencia para incorporarse en nuestra plantilla de programadores en las oficinas de Barcelona.
+Su formación deberá ser de Ingeniero Técnico o Superior o Ciclo Formativo y será responsable del mantenimiento y creación de proyectos desarrollados en PHP, en el framework Symfony2.
+Requisitos técnicos:
+•	PHP: profundos conocimientos de este lenguaje en su versión 5.3 o superior.
+•	MVC: experiencia en proyectos elaborados sobre MVC con Symfony2.
+•	Javascript: conocimientos del uso de herramientas relacionadas con este lenguaje, como puedan ser jQuery, Json, API Rest o Ajax.
+•	Bases de datos: se requiere buenos conocimientos de sintaxis SQL sobre el motor de base de datos MySQL 5. Deberá aportar soltura para realizar consultas complejas y se valorarán conocimientos de optimización de consultas.
+Conocimientos deseables:
+•	HTML/HTML5, CSS
+•	Experiencia en frameworks Javascript
+•	Experiencia en repositorios: SVN o GIT
+Funciones a realizar:
+Las funciones que desarrollarán los candidatos serán las de análisis y programación de tareas de mantenimiento y nuevos desarrollos en sites realizados sobre framework Symfony2. Debe ser una persona pro-activa y capacidades de trabajo en equipo. Se apoyará en Dirección técnica para el análisis de las tareas más complejas, y estará rodeado y respaldado por especialistas en las diferentes materias.
+Ofrecemos
+•	La posibilidad de trabajar en un ambiente innovador donde estarás en contacto con las últimas tendencias.
+•	Integrarse en el equipo de un proyecto de primer nivel.
+•	Horario flexible de entrada y salida.
+•	Retribución acorde a la experiencia aportada.
+

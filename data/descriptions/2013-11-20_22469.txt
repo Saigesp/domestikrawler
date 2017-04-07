@@ -1,0 +1,13 @@
+
+Se requiere Programador de Videojuegos en 2D con conocimientos de diseño y creación de contenidos.
+Persona motivada acostumbrada a trabajar por objetivos.
+Empresa con gran proyección, nuestros clientes son internacionales.
+Estudios:
+- Ciclo de grado Superior, Diplomatura, o experiencia + conocimientos equivalentes.
+- Experiencia de al menos 2 años.
+Conocimientos necesarios:
+- Conocer el proceso de creación de un videojuego, así como cada una de las partes implicadas.
+- Lenguajes de programación: ActionScript3, C++, C#, Javascript
+- Entornos de desarrollo utilizados:Flash, Adobe Gaming SDK, Adobe AIR SDK, Unity3d (plugin 2D)
+- Conocimientos en diseño artístico, gráfico, y de generación de contenidos con suite Adobe.
+Conocimientos y/o experiencia en infografía y 3D muy positivamente.

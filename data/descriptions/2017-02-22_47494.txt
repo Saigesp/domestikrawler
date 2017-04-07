@@ -1,0 +1,33 @@
+
+Edenic Games (GSN Games Barcelona) is looking for an experienced Software Engineer (Back-end) to join our team in sunny Barcelona!
+Jackpot! About the GSN Games Casino Studio:  
+Slots, bingo, cards, and more! Work on incredible games, including a top-10 grossing app, alongside the best in the business.
+What You’ll Do:
+You will work with our brilliant team in Barcelona in a vibrant, creative and fun work environment, building games that millions of people play every day! The role will include:
+•	Working within the team to implement new features/algorithms for games
+•	Developing backend services to support games features
+•	Writing unit and functional tests
+•	Providing support and maintenance for existing platform issues and features as needed
+About You:
+•	3-6 years’ software development experience
+•	Experience with Java/J2EE, Spring and Hibernate 
+•	Experience with PHP and MySQL 
+•	Experience with performance testing and tuning applications 
+•	A flexible self-starter who thrives on the challenges of working with new and varied technologies
+•	Strong understanding of design/programming best-practices and various design patterns
+•	Experience working in scrum/agile teams 
+•	Strong communication skills 
+•	Bachelor's Degrees in Computer Science or work experience equivalent
+Bonus Points!
+•	Experience with cloud based services, especially Amazon Web Services (AWS)
+•	Experience working on multi-threaded applications 
+•	Experience working on applications using SOA, REST design principles
+•	Experience with cloud-computing a plus
+•	Experience with mobile applications 
+•	Experience with SPA web applications 
+•	Experience with web programming environment (HTML, CSS, JS) 
+•	Experience with Play Framework or Akka concepts. 
+•	Experience working with NoSQL databases (DynamoDB, MongoDB) 
+•	Experience working in the games industry
+•	Love playing games
+

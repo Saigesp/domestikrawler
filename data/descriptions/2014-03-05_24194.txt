@@ -1,0 +1,32 @@
+
+Nire.co está buscando un front-end developer que complemente su equipo de desarrollo para un proyecto mobile.
+Serás responsable de:
+· Aterrizar ideas y añadir valor a las mismas. 
+· Defender la calidad del producto y la innovación. 
+· Diseño funcional y de interacción, evaluación de la usabilidad, propuestas y supervisión del diseño visual 
+· Participar en la creación, definición y optimización de productos mobile: usabilidad, AI, funcionalidad, etc. 
+· Definir las necesidades del usuario e interfaz para funcionalidades nuevas y existentes
+· Desarrollar user journeys, flujos, wireframes y prototipos para comunicar ideas de interacción y diseño
+· Convertir los prototipos en un gran diseño visual 
+· Asegurar que el producto final se adapta a la experiencia de usuario deseada
+· Elaboración de Mockups con especial énfasis en la mejora de la experiencia del usuario.
+· Dirección artística del proyecto.
+Cómo nos gustaría que fueras:
+· Creatividad, curiosidad innata, motivación, capacidad analítica y con atención al detalle 
+· Excelente conocimiento del entorno móvil, capacidad para crear wireframes de alto nivel, mockups, manuales de interacción. 
+Además necesitamos que tengas 2 años de experiencia demostrable en:
+· Diseño y prototipado de apps para tablets y smartphones, tanto nativas como html5. 
+· Experiencia demostrable en diseño de interacción centrado en usuario.
+· CSS3.
+· Javascript (Jquery, Zepto o similar).
+· Responsive Web Design.
+· Illustrator / Photoshop.
+· SASS (o al menos otro preprocessor).
+· Axure o similar.
+· Node.js / Grunt.
+· Experiencia con CMS y lenguajes de templates.
+· Experiencia con web frameworks.
+Portfolio online
+· Se valorarán especialmente los candidatos con contribuciones en repositorios relacionados con las tecnologías requeridas para el puesto.
+
+Abstenerse empresas.

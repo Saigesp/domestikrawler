@@ -1,0 +1,10 @@
+
+Somos un equipo de profesionales senior en diferentes disciplinas: experiencia de usuario, usabilidad, diseño de interacción, arquitectura de información, diseño de medios digitales, desarrollo front/back, métricas avanzadas y soporte evolutivo de proyectos.
+Buscamos incorporar un Freelance urgentemente y con ganas de crecer con nosotros  para trabajar con nuestra plantilla de 12 personas de lunes a viernes de 8 a 17h
+Perfil del Candidato:
+Experiencia mínima de 2 años en:
+html5,css, sass, less, Javascript, jQuery, Photoshop, Axure, Sketch.
+Requisitos deseables:
+Alguno o varios de los frameworks de javascript siguientes: Angular, Backbone.
+Bootstrap, Java, Servicios REST y objetos JSON, JSF o alguna de sus capas (PrimeFaces).
+

@@ -1,0 +1,8 @@
+
+Buscamos Analista-Programador .NET con experiencia de al menos 3 años en desarrollo de aplicaciones con VisualStudio 2010/2013, C#, Desarrollo de servicios web (WCF, WS-*), Modelo Vista Controlador MVC5, SQLSERVER 2008 / 2012 o superior, HTML-CSS y metodologías de desarrollo.
+• Valorable experiencia en: 
+- Ajax 
+- JavaScript 
+- Análisis Funcional de Proyectos
+El proyecto consistirá en la adaptación y optimización de la página web de un grupo de gimnasios con la inclusión de nuevas funcionalidades, integración de redes sociales.
+Duración estimada del proyecto: mínimo 3 meses.

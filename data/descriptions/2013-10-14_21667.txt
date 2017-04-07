@@ -1,0 +1,16 @@
+
+Somos eSpectacularKids, innovadora startup con base en Madrid que buscamos un Programador Senior para involucrarse en nuestro apasionante proyecto dirigido al mercado del ocio infantil a través de una plataforma única de vídeos multilingües. El candidato seleccionado será responsable del mantenimiento y la exitosa evolución de dicha plataforma y tendrá a cargo a un becario.
+Perfil:
+•	Buscamos a una persona proactiva, de total confianza, autoexigente y dinámico que se muestre apasionado por nuestro proyecto.
+•	Interesado por el mundo emprendedor y de las startups. 
+•	En función de la valía del candidato y del desempeño demostrado consideramos su incorporación en la empresa como socio tecnológico.
+Conocimientos:
+•	Prestashop
+•	Programación: php, html, css
+•	Base de datos: mysql 
+•	APIs  
+Valorable:
+•	Open source  
+•	Desarrollo de aplicaciones
+•	SEO, usabilidad
+•	Wordpress

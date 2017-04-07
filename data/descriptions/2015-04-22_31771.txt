@@ -1,0 +1,15 @@
+
+The Thinklab is a film production company and digital services shop based in Madrid, Spain. The Thinklab produces quality content for global audiences, specializing mostly on documentary films, fiction, advertising and animation. Our films have been broadcast on many global channels including Channel 4, MDR-Arte, National Geographic, History Channel, Aljazeera, TVE, Canal+, etc. 
+Job description: 
+Reports to the Rigging Supervisor. The main responsibility is to work in close collaboration with animators, character modellers, and the artistic director in order to produce high-quality animations.
+Tasks and Responsibilities:
+•	Based on the models provided by the Character Modeling Department, carry out the rigging and skinning of the characters to meet the needs of project animators and of the technical and artistic directors;
+•	Create and use the tools and run modes to produce the best possible results and incorporate them into the pipeline;
+•	Along with the rigging supervisor and artistic director – animation, develop facial rigs so animators can create high-quality animations in an optimal way;
+•	Ensure a nomenclature that is in keeping with project norms and the selection sets in the master scenes in order to facilitate the work of animators;
+•	Ensure that your final result (rigging/skinning) meets the artistic standards of the project;
+•	Carry out all other related tasks. 
+Minimum requirements: 
+•	Very good knowledge of Maya.
+•	Some MEL & Python knowledge or programming skills.
+•	Good level of English language (oral & written).

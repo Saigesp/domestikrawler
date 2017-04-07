@@ -1,0 +1,11 @@
+
+Busquem un programador freelance per donar suport al Departament d'informàtica, amb disponibilitat inmediata.
+Coneixements Mínims:
+- Coneixements sòlids d'html,css i alguna llibreria javascript (jquery preferiblement).
+- Coneixements programació php/mysql
+- Programació actionscript per flash / flex
+Desitjats:
+- Haver treballat amb en model MVC i zendframework.
+- Administració de servidors (ssh, samba, svn, apache) i xarxa interna de l'empresa. 
+- Programació en objective-c per iphone/ipad
+- Programació en java per plataformes per android 

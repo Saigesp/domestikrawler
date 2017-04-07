@@ -1,0 +1,18 @@
+
+Se busca full-end developer con sólidos conocimientos de PHP / HTML / Javascript / CSS etc. para unirse a nuestro equipo de trabajo. Nuestro nuevo codekünstler ha de ser capaz de llevar un proyecto desde el principio hasta el final, eso implica maqueta, javascript e integración en CMS o framework de desarrollo. Contará con el soporte de un front-end developer para el HTML y CSS (aunque eso no implica que en algún caso se tenga que picar también la maqueta). Será responsable de todos los trabajos que lleve por lo que se requiere responsabilidad y capacidad de organizarse.
+Idealmente debería ser alguien que tenga:
+- Experiencia demostrable en un puesto similar (proyectos realizados).
+- Amplios conocimientos de lenguajes de programación web. (HTML, CSS, javascript, PHP)
+- Capacidad de trabajar en equipo
+- Alta capacidad heurística y de resolución creativa de problemas
+- Motivación, proactividad y responsabilidad
+- Capacidad de llevar varios proyectos a la vez.
+- Nivel medio de inglés
+- Nociones de diseño
+Se valorará:
+- Conocimientos y experiencia en algún entorno tipo codeigniter/cake
+- Conocimientos de librerías y frameworks front-end (coffescript, less, node.js, prototype etc…)
+Ofrecemos:
+- Proyectos interesantes vinculados al mundo del diseño
+- Puesto y material de trabajo
+- Alta en seguridad social, contrato de trabajo autónomo

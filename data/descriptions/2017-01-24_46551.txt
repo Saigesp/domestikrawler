@@ -1,0 +1,10 @@
+
+Mr Jeff, we are looking for an experienced Android developer, ready to produce high quality software in a fast growing start-up.
+Mr Jeff, start-up pioneer and online service platform laundry and dry cleaning pick-up and delivery. We are a young company committed to the professional development of its workers. In Madrid, Barcelona and Valencia, within a very short time we will launch Mexico and Paris.
+Where are we located?
+Mr Jeff headquartered is in Valencia. Our offices, a sunny open duplex, have easy parking slots, a pool and a constant supply of soft drinks, caffeine and other beverages.
+The qualified candidate will be responsible for, but not limited to, the following:
+- Support current Android app (bugs, updates...)
+- Develop and mature the APIs for Android.
+- Architect future API designs based on product requirements and Android capabilities.
+- Developing and running unit tests and test scenarios Working experience in Android (Android Studio, Java)

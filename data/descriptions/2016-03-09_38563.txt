@@ -1,0 +1,15 @@
+
+En Iwantic, primera agencia de selección especializada en perfiles digitales, reclutamos a los candidatos más brillantes para los empleos que están cambiando el mundo.
+En esta ocasión, seleccionamos para una gran compañía innovadora de éxito líder en el sector asegurador en Internet un Desarrollador Fullstack con experiencia en Zend Framework para Barcelona.
+Buscamos un candidato con experiencia en Zend Framework, Node.js, SOAP, REST, para incorporar al equipo de desarrollo, que conozca bien y le sean familiares todas las facetas del front-end y del back-end, demostrando conocimiento sobre servidores, redes, data modeling, APIs, UI y UX .
+Requisitos:
+Estudios mínimos: Formación Profesional Grado Superior 
+Experiencia mínima: 2-3 años 
+Amplia experiencia en el uso de:
+- Zend Framework 
+- PHP5
+- Node.js, SOAP, REST 
+- Tecnologías web (HTML5, CSS3, Javascript, Jquery). 
+- Git
+Salario según valía. 
+

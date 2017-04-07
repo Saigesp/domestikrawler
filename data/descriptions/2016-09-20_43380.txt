@@ -1,0 +1,30 @@
+
+We seek a project manager with experience working with Java and/or Sales Cloud platform to coordinate and customize a Salesforce implementation and to provide management support to our team. 
+Minimum requirements: 
+•	Min 3 years experience at least. 
+•	Be assessed positively have developed further the BackEnd part. 
+•	Technology: 
+•	JDK 1.6 or higher 
+•	Spring v3 and 4 (Core and MVC) 
+•	REST services 
+•	Maven 
+•	JPA or Hibernate 
+•	Eclipse 
+•	Continuous Integration (Jenkisn) 
+•	Apex, Visualforce Components and Lightning domain and solution customization and reporting and panels. 
+•	Familiarity with agile programming methods (SCRUM, XP) 
+•	Excellent writing skills in both English & Spanish 
+•	Fast worker and able to perform well under pressure
+•	Keen eye & attention to detail
+•	Professional, Responsible, Trustworthy & Punctual
+Desirable skills:
+•	Salesforce developer acreditation advantage.
+•	Work in previous salesforce project advantage.
+We offer:
+•	Integration in the marketing department of a strong and growing company. 
+•	Permanent contract + team bonus subject to experience
+•	Full time – Salary subject to individual and experience
+•	Excellent work environment. young, dynamic and used to work in a group template. 
+•	Stable job with a permanent contract. 
+•	Coffee and tea free all year round.
+•	Training by the company.

@@ -1,0 +1,19 @@
+
+We are looking for a seasoned full-stack developer with a strong background in PHP and Node. If you also rock HTML/CSS/Javascript, server-side business logic and your toolbox is the linux console, managing technologies like Ngnix or Mysql – you are in the right place!
+You'll be working on our customer facing global and local accounts deploying Web and Mobile technologies and adminstering servers.
+Responsibilities:
+- Full-stack web development from UI to database.
+- Gathering functional requirements, developing technical specifications, and project testing & risk management.
+- Designing/developing web software 
+- Work together with various teams: creative, account & production
+- Work together with 3rd party providers
+- Lead development teams 
+Qualifications:
+- 3+ years experience developing web applications w/
+- Master in computer science or equivalent work experience
+- 3+ years experience with Linux, Ngnix, Node, NoSql,
+- Experience with the entire Software Development Life Cycle (SDLC)
+- Solid communication skills / softskills
+- Strong understanding of the Software design/architecture process
+- 3+ years solid experience on HTML5, CSS, JavaScript and other Web UI presentation frameworks
+

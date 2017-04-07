@@ -1,0 +1,58 @@
+
+DESCRIPCIÓN DEL PUESTO
+Si disfrutas programando, aprecias el buen diseño y puedes tolerar el abuso psicológico de clientes con todo tipo de patologías, este es tu puesto.
+Estas son sólo algunas de las cosas que tendrás que hacer:
+•	Formar y gestionar a un equipo de (por ahora) 4 programadores (además, para que tu trabajo luzca todavía más, contarás con el apoyo de 2 diseñadores y un redactor)
+•	Llevar a buen puerto proyectos web de distintos tamaños
+•	Interpretar lo que dice el cliente y traducirlo para que tu equipo lo sepa ejecutar
+•	Ayudar en la estimación de tiempos y costes para que los comerciales elaboren sus presupuestos
+•	Controlar y registrar tiempos y costes para cada proyecto en marcha
+•	Meter presión a los clientes para finalizar los proyectos en las fechas acordadas
+•	Solucionar las dudas existenciales de tus cándidos desarrolladores
+•	Optimizar constantemente el proceso de producción
+•	Encargarte de la permanente formación y mejora de tu equipo y de ti mismo
+¡¡Es mucho más importante tu experiencia como programador que en dirección de proyectos!!
+Cláusula de sinceridad: a tu llegada te vas a encontrar con más trabajo del aconsejable para mantener una buena salud mental.
+REQUISITOS
+Ingeniero superior informático con los siguientes conocimientos:
+Esto lo tienes que controlar a la PERFECCIÓN:
+•	(X)HTML
+•	CSS
+•	PHP
+•	Javascript
+•	Ruby On Rails
+•	GIT
+•	MySQL o similar
+•	Sentido común
+En este terreno te tienes que sentir cómodo:
+•	Unix / Linux
+•	Alguna metodología de trabajo de desarrollo de proyectos, como Agile o SCRUM –aunque utilizaremos una propia–
+Idiomas:
+•	ENGLISH IS A MUST! Tendrás que leer documentación en inglés, ver vídeos en inglés y hablar con clientes en inglés. Tarde o temprano acabarás visitando a algún cliente en London.
+Esto no es imprescindible, pero si sabes algo de ello, mejor:
+•	Software de gestión de proyectos (PMS)
+•	Algún framework de PHP (¿Simfony, CakePHP?) y Javascript (¿jQuery, Mootools?)
+•	CMSs como WordPress, Drupal o Prestashop
+•	Conocimientos de marketing digital, especialmente SEO, SEM y Email Marketing
+•	Conocimientos de usabilidad, experiencia de usuario y diseño web y de interfaces gráficas
+Habilidades personales
+•	Capacidad de trabajo en equipo.
+•	Liderazgo y gestión de equipos.
+•	Organización y planificación.
+•	Sentirse cómodo trabajando en condiciones de estrés. Que el exceso de trabajo no te impida ver las cosas con claridad, ni que la falta de trabajo no te permita disfrutar del tiempo libre :)
+•	Excelente habilidad comunicativa hablada y escrita: te comunicarás con clientes con nulo conocimiento técnico. Tienes que ser capaz de comprenderles, hacerte entender y mantener la calma en las situaciones más surrealistas.
+•	Auto didacta: tienes que estar al tanto de las últimas tendencias y tecnologías en programación y gestión de proyectos.
+•	Creatividad: tendrás que exprimirte los sesos para plantear una solución que le permita al cliente sacar el máximo partido a su presupuesto.
+•	Sentido estético y de marca: debes de ser capaz de juzgar la calidad estética de un documento, una interfaz gráfica y otro tipo de diseños.
+•	Capacidad de crear y hacer crecer equipos de alto rendimiento.
+•	Honestidad y sinceridad: a veces puede no resultar fácil reconocer ante un cliente una metedura de pata, sin embargo, en tu puesto, ser capaz de hacerlo a tiempo te ahorrará muchos problemas.
+•	Capacidad de delegación.
+•	Proactividad para desarrollar la capacidad y trayectoria de tus compañeros.
+•	Independencia: nadie te va a sacar las castañas del fuego. Tienes que ser capaz de analizar la situación teniendo en cuenta todos los factores, ser objetivo y realista, asumir riesgos y tomar la decisión más beneficiosa para la empresa y tus compañeros.
+•	Autocrítica: si te va la marcha (y si has leído hasta aquí es que te va mucho) lo bueno es que tu trabajo no acaba nunca, siempre hay algo que mejorar.
+•	Asertividad: especialmente saber decir “no”.
+•	Puntual: qué te vamos a contar que no sepas de las fechas de entrega.
+•	Detallista: Howard Hughes, un aficionado a tu lado.
+•	Organizado: recibiendo cientos de emails y llamadas diarias con documentación en todos los formatos, debes contar con una impecable organización.
+•	Pasión: si no te ENAMORA lo que has sentido hasta ahora, mejor no continúes.
+

@@ -1,0 +1,13 @@
+
+Experiencia minima requerida en las siguientes tecnologías:
+- Html5+css3
+- Javascript/Jquery
+- Ajax
+- Imprescindible 3 años mínimo de programación Php y mysql
+Se valora positivamente :
+- SVN o GIT
+- Administración servidor Linux
+- Yii o framework similar
+- Diseño y maquetación
+- Alto nivel de Ingles
+Residir en la provincia de puesto. 

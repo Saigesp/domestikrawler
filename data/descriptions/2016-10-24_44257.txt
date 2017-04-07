@@ -1,0 +1,27 @@
+
+Duplex, agencia de marketing interactivo y promocional, busca incorporar al equipo un programador con ilusión, flexible, apasionado del mundo interactivo y con experiencia mínima de 5 años. 
+Trabajo de proyectos para grandes marcas en un entorno de trabajo agradable, joven, con un equipo consolidado y con gran experiencia. 
+¿EN QUÉ NOS DIFERENCIAMOS? 
+Flexibles: puedes escoger entre 2 horarios dentro de una horquilla de tiempo, variando la hora de entrada y el tiempo de la comida. 
+Generosos: ¡Te regalamos una tarde libre al mes! Porque siempre tenemos recados pendientes…  
+Viajeros: Nos encantan los puentes. 
+Somos eficientes y nos gusta nuestro trabajo así como nuestra vida personal. ¡El tiempo es oro en los 2 ámbitos!
+Y muchas otras cosas que podrás descubrir en la entrevista. 
+¿QUÉ SE PIDE? 
+Maquetación y desarrollo Web Responsive. Actitud proactiva para evolucionar según las tendencias del mercado. ¡Tenemos nuevos proyectos y necesitamos un cable!
+Imprescindible:
+- PHP 
+- MySQL 
+- Algún Framework php (codeigniter, cake, zend, …) 
+- HTML5 & CSS3 & SASS/LESS 
+- JQuery 
+- Boostrap 
+- Wordpress 
+- APIs de Twitter y Facebook 
+- Git o algún otro control de versiones
+También se valorará:
+- Conocimiento de SEO
+- Desarrollo Android & iOS 
+Contrato indefinido a jornada completa en una nuestra oficina de Barcelona, situada en pleno centro..
+Sueldo: a negociar, según valía   
+

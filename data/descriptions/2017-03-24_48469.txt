@@ -1,0 +1,72 @@
+
+Somos un estudio de diseño estratégico y desarrollo joven, con sede en el centro de Barcelona y proyectos en varios países, con una trayectoria intensa y en pleno crecimiento a todos los niveles.
+Nos apasiona el mundo del emprendimiento y es por ello que nos hemos dedicado a él casi en exclusiva desde que empezamos. Trabajamos con un enfoque pragmático poco habitual que casa a la perfección con las necesidades, los ritmos y las posibilidades de las startups.
+Nos vuelve locos el branding (la creación y gestión de marcas) y su capacidad para contribuir al éxito de un proyecto. Construimos lo que hacemos desde una base estratégica que activamos creando identidades de marca, productos digitales y webs.
+Pero sobre todo, lo que más nos importa, es disfrutar haciendo lo que hacemos. Es la única manera de que el resultado sea siempre el mejor posible.
+Buscamos:
+Unx apasionadx del desarrollo web. Si no te flipa programar, puedes dejar de leer aquí. Esto es lo más importante, todo lo demás se puede aprender. La actitud no.
+Buscamos unx desarrolladorx frontend, con capacidad de adaptación a distintos entornos de trabajo, proactivx y con muchas ganas de aprender.
+Cada equipo de cada proyecto en el que participamos, tiene su forma de trabajar, sus ritmos y sus necesidades. Nosotros les ofrecemos ser uno más, de ahí que la adaptación sea especialmente relevante.
+Por un lado
+· Proyección dentro del estudio: estamos construyendo algo a largo plazo con un futuro prometedor y ambicioso.
+· Crecimiento profesional: nos preocupamos de forma activa por la formación de los nuestros y tratamos de facilitar que todos sigamos aprendiendo y creciendo.
+· Flexibilidad. Ponerlo fácil nos obsesiona, sobre todo si es algo bidireccional.
+· Responsabilidad y autonomía. El objetivo a medio plazo es que tengas proyectos a tu cargo.
+· Voz y voto: nos gusta escuchar y aprender unos de otros.
+· Entorno de trabajo de calidad: bien situado, buen ambiente, equipos nuevos (con posibilidad de personalización), luz natural, terraza, futbolín, muchas pizarras y cerveza.
+Por otro
+· 40 horas semanales con horario (orientativo) de 9:30 a 18:30 presencial en Barcelona
+· Contrato temporal de 6 meses con posibilidad objetivo de pasar a indefinido.
+· Un mes de prueba para conocernos y empezar a rodar.
+· Remuneración negociable, según mercado y perfil. Probablemente entre 24K y 30K anuales.
+Requisitos:
+· Mínimo de 3 años de experiencia con proyectos reales.
+· Compromiso con el trabajo.
+· Actitud responsable y comprometida.
+· Honestidad, humildad y generosidad.
+· Exigencia con la productividad y la calidad.
+· Delicadeza y ojo crítico.
+· Interés por el diseño y las marcas.
+· Que entiendas y compartas el tono en el que está redactada la oferta.
+Conocimientos importantes:
+· Bootstrap, SASS.
+· VanillaJS, jQuery y dominar algún framework JS (Backbone, AngularJS, React, VueJS...).
+· Conocer Gulp o Grunt. Saber qué es Bower.
+· Entender un diseño para llevarlo a código e incluso poder desarrollarlo.
+· Conocer cómo funciona un tema de Wordpress.
+Conocimientos que molaría que tuvieras:
+· Sin miedo a trabajar con Javascript "a pelo".
+· Dominar más de un framework JS.
+· ES6
+· Webpack
+· React Native
+· Cordova
+· PHP como para no depender de nadie a la hora de llevar cosas al frontend.
+· NodeJS
+· Soltura trabajando con APIs externas.
+· Compatibilidad entre navegadores.
+· Herramientas de testing.
+· Mimo al píxel.
+· Soltura aplicando estilos (por ejemplo, portando una versión desktop a móvil).
+Otros conocimientos que valoramos:
+· Suite de Adobe
+· Sketch + Zeplin
+· Idiomas
+· Ecosistema startups
+Ejemplos de proyectos actuales:
+Por razones de confidencialidad, no podemos contar mucho aquí sobre los trabajos que estamos llevando a cabo, pero sí podemos citar algunos de los proyectos en los que podrías entrar a participar desde el momento de la incorporación:
+· Desarrollo front-end de producto digital con ReactJS y Redux.
+· Desarrollo de webapps en productos digitales corriendo sobre PHP y Python.
+· Desarrollo de APPs híbridas con Cordova/Backbone y React Native.
+· Web scraper sobre NodeJS con CasperJS.
+· Desarrollo de temas con Wordpress.
+· Desarrollo de herramientas para proyectos de identidad gráfica.
+En resumen:
+Lo mejor
+· El ambiente de trabajo y las oportunidades que queremos ofrecerte.
+· Trabajar en productos top que serán usados por miles de personas.
+· Ritmo dinámico de trabajo: no te dará tiempo a cansarte de un proyecto.
+Lo (quizás) menos mejor
+· Por ahora, el ritmo de casi todo “lo interno” es más lento de lo que queremos.
+· De momento, la flexibilidad que podemos ofrecer es más limitada de lo que nos gustaría.
+· La exigencia es máxima, con picos de intensidad no aptos para todo el mundo.

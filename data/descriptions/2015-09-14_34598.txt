@@ -1,0 +1,14 @@
+
+Buscamos un Front-End junior freelance con 1/2 años de experiencia para formar parte del equipo digital con disponibilidad para trabajar de forma presencial en nuestras oficinas de Barcelona a tiempo completo.
+Nos dedicamos a realizar campañas publicitarias online y proyectos digitales para nuestros clientes.
+Tareas a realizar 
+ - Programación de diferentes piezas digitales: (sites, newsletters, landing page, banners, interfaces, etc)
+Requisitos mínimos  
+‐ HTML/CSS
+- Programación responsive. 
+Se valorará:
+- Maquetación de newsletters.
+- Javascript
+- Banners en HTML5
+- Flash 
+

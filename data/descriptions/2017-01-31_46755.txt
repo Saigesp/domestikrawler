@@ -1,0 +1,7 @@
+
+Fútbol e Informática, ¿qué más se puede pedir? En Director11 estamos buscando desarrolladores java para participar en el proyecto futbolero de Director11.
+En esta oferta tendrás la posibilidad de participar tanto en el desarrollo front como back-end del producto final, y realizar tareas complementarias como apoyo a soporte o elaboración de documentación.
+Ahora te estarás preguntando ¿Qué es Director11?
+Somos un sistema SaaS que ayuda en la gestión deportiva de la cantera, actualmente trabajamos con el 50% de los clubs de primera división y con distintos clubes de élite a nivel internacional. En este proyecto trabajamos con tecnologías Cloud y Big Data ayudándonos de metodologías ágiles de desarrollo y tecnología web, principalmente con Java, J2EE, BootStrap, HTML5, AJAX, AWS, desplegando nuestras soluciones en la nube.
+Si tienes ganas de aprender en un ambiente joven y dinámico no lo dudes más aplica a esta oferta y ¡comencemos el partido!
+

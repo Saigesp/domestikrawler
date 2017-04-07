@@ -1,0 +1,26 @@
+
+Estamos buscando nuevos compañeros. Nos hacen falta (mucha) dos o tres programadores buenos de backend que tengan “callo” trabajando con Python, experiencia en ingeniería de software y buen carácter. Nuestro equipo de IT les hará la ola cuando lleguen porque tenemos muchos proyectos entre manos (todos nuestros, no trabajamos para terceros). 
+Dentro de IT se forman equipos autónomos multidisciplinares para abordar proyectos concretos. Cada equipo escoge qué enfoque, qué tecnologías y qué metodología son los más adecuados para llevar a cabo ese proyecto de la forma más eficiente posible. 
+Por eso, además de conocimientos técnicos, necesitamos que les apetezca asumir responsabilidades y riesgos y trabajar en equipo. 
+Nosotros nos dedicamos a desarrollar metodologías matemáticas de inversión para grandes instituciones financieras. No os asustéis, lo nuestro es más la tecnología y la ciencia que la corbata y el parqué. No nos conoce ni el tato, pero somos un sitio estupendo para trabajar (indagad un poco si queréis), además de la empresa de asesoramiento financiero más importante de España. Nos llamamos ETS Asset Management Factory (rápido y fácil de pronunciar, ¿verdad?).  
+Aunque tenemos un espíritu muy startup (organización horizontal, apertura total al cambio, cultura de innovación…) tenemos el respaldo de 30 años de historia. Y estamos creciendo considerablemente, así que nos está haciendo falta savia nueva para:
+-Desarrollar todo tipo de aplicaciones, sobre todo herramientas de captura, procesamiento y visualización de datos (web, mobile y Excel-addings). 
+-Añadir funcionalidades a un gran sistema ya existente (estaba en .NET, pero los nuevos proyectos se están haciendo todos en Python).
+-Aportar nuevas ideas y conocimientos. 
+ Nos gustaría que tuvieran:
+-Experiencia con Python y manejo de alguna de sus librerías y frameworks.
+-Dominio de la Ingeniería de Software (patrones de diseño, SOLID y CRUD).
+-Destreza con bases de datos relacionales (MySQL, SQL Server…).
+-Conocimientos de Rest y microservicios.
+-Costumbre de trabajar con lenguajes de programación orientados a objetos (C #, Java, C++...).
+-Capacidad para hacerte preguntas y para resolver problemas. Necesitamos gente resolutiva, que cuando encuentra un obstáculo, en vez de preguntar, “¿qué hago?”, propone una o varias soluciones. 
+-Curiosidad vital, ganas de manteneros al día en cuanto a tecnologías, metodologías, buenas prácticas...
+Sería un plus (pero no fundamental) si tuvieran:
+-Conocimientos de bases de datos no relacionales (MongoDB, Cassandra…).
+-Experiencia en el desarrollo de sistemas asíncronos en tiempo real.
+-Conocimiento práctico de Javascript y C.
+-Buen nivel de inglés. 
+Ofrecemos un contrato indefinido con un salario entre €20-30k para perfiles junior (hasta 3 años de experiencia) y de €32-45k para perfiles senior, a partir de 4 años de experiencia en adelante. Estos serían los sueldos de inicio, aquí el valor que aporta cada uno tiene su recompensa. De verdad, no de boquilla. 
+Tenemos horario flexible que nos permite entrar entre las 8:00 y las 9:30 y salir entre las 17:00 y las 18:30, aunque al final lo que prima es cómo te organices con tu equipo.
+Trabajamos en Pozuelo de Alarcón y, aunque estamos un poco lejos de Madrid, el sitio merece la pena. 
+Podréis recuperar energía con fruta, café o unas buenas tostadas, pero lo que os hará resucitar 100% será la comida casera que nos prepara cada día Pepe, ¡nuestro cocinero!

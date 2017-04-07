@@ -1,0 +1,18 @@
+
+Puesto: Desarrolador / Programador Web
+Nº vacantes: 2
+Ubicación de la oferta: En Centro de trabajo de Madrid y/o A distancia 
+Descripción Oferta: 
+Desarrollo de Módulos para Prestashop 
+Maquetación de diseños para Prestashop
+Configuración de E-commerce prestashop
+Gestión de Clientes mínimo en castellano e inglés
+Seguimiento de proyectos
+Calidad de proyectos
+Tipo de Jornada:  Completa.
+Salario: 1000€ netos (revisables según se vayan adquiriendo conocimientos) más incentivos variables, es necesario pasar una prueba de acceso.
+Años de experiencia:  Conocimiento de prestashop avanzado en programación, Demostrable. 
+Nivel de estudios (Ed. Secundaria, Bachillerato, Diplomado…): Indiferente
+Idiomas (si se requiere): Inglés/Francés. No exigible pero sí recomendable
+Requisitos mínimos: Conocimiento PHP, Jquery, Smarty, MySql, HTML o HTML5, CSS (Con Bootstrap preferible y puntuable). Si tiene Linux será valorable también
+

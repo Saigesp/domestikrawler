@@ -1,0 +1,16 @@
+
+Tanto si eres un programador con mucha experiencia y ganas de experimentar, testear y optimizar constantemente una ecommerce, como un joven talento con poca experiencia pero ganas de demostrar tu potencial, tenemos el puesto ideal para ti.
+Trabajamos la metodología "Growth Drive Design" por lo que no creemos en las "webs acabadas". Analizamos cada cambio y tomamos decisiones de testeo y mejora constantemente, tanto en diseño como en usabilidad, y queremos que nos acompañes en la vertiente técnica de desarrollo y programación para nuestro ecommerce en Magento, así como en todos los procesos de marketing automatizado, gestión de stocks, pedidos y clientes que requieran de conectividad vía API's.
+Requisitos:
+- Experiencia en otros proyectos con ecommerce en Magento (mínimo 1 año)
+- Conocimientos de las tecnologías actuales de programación web: HTML5, CSS3, JavaScript, jQuery y PHP/MySQL
+- Conocimientos trabajando con API's externas para automatizar procesos con nuestra herramienta de Inbound Marketing (marketing automation)
+- Conocimientos en la conectividad y funcionamiento de Magento con nuestro ERP y CRM corporativos
+Valorable:
+- Experiencia en Wordpress para la gestión del blog corporativo
+Ofrecemos:
+- Trabajar en una empresa seria y solvente ubicada en Barcelona
+- Entrar en un departamento en constante crecimiento y con un proyecto sólido y netamente orientado al entorno digital
+- Trabajo presencial flexible (actualmente buscamos alguien a media jornada y nos adaptamos si prefieres venir un par de días a la semana de forma intensiva o todos los días menos horas)
+- Podemos realizar convenio de prácticas si lo prefieres (tampoco es obligatorio)
+- Salario definido por horas semanales acordadas y conocimientos/experiencia aportados (y valoramos mucho el trabajo bien hecho)

@@ -1,0 +1,13 @@
+
+Estamos buscando un nuevo desarrollador Android para que se integre en el equipo.
+Buscamos una persona con amplia experiencia en la plataforma Android, preocupado por la experiencia de usuario.
+Requisitos mínimos
+• 2+ años de experiencia en Android
+• conocimiento de patrones de diseño en desarrollo móvil y tablet
+• 3-5 años experiencia en desarrollo de software
+• al día en los avances de la plataforma Android
+Requisitos deseados
+• experiencia en desarrollo para iOS/Objective-C es un plus
+• experiencia en desarrollo html5 es un plus
+• acostumbrado a trabajar con metodologías ágiles
+• interacción con APIs propias o de terceros 

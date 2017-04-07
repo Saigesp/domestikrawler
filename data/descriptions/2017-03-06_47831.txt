@@ -1,0 +1,14 @@
+
+Buscamos un programador. 
+Jornada: presencial en oficinas, completa 8 horas de lunes a viernes.
+Las tareas serán principalmente de maquetación HTML y CSS, y una parte de desarrollo en JS.
+Perfil y conocimientos necesarios: 
+- HTML5 + CSS3 (sass y less), nivel alto. 
+- Javascript (AngularJS y jQuery). 
+- Nociones diseño y usabilidad. 
+- GIT. 
+- Persona dinámica y resolutiva.
+Se valorará: 
+- Conocimientos de PHP i/o diseño gráàfico.
+Experiencia: 
+- Experiencia en Trabajos similares de mínimo, 3 años.

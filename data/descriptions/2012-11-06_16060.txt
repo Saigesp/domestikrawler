@@ -1,0 +1,9 @@
+
+Requisitos mínimos:
+Flash ActionScript 3
+(AS3)
+Javascript 
+HTML5
+Requisitos deseables:
+Muy valorable - XML – XSLT 
+Valorable -Programación PHP y Base de Datos MySQL

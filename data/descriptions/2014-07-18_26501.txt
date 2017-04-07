@@ -1,0 +1,43 @@
+
+Packlink 
+ Madrid, España
+LAMP Software Engineers – Spain
+Based in our Madrid Headquarters PackLink (www.packlink.com) is a disruptive online comparison, booking and management service for all shipping needs, a young and upbeat company experiencing extreme international growth.
+The service first launched in Spain in 2012, making headlines and partnering with major national and international couriers, integrating with their booking and parcel tracking systems. Our success to date has taken us to new horizons and we’re already present in Spain, Germany and France. PackLink is backed by renowned international investors and we’re experiencing tremendous growth and international expansion.
+Today, we offer consumers, e-commerce sites and SMBs a fast and easy way of booking parcel deliveries with the world’s top couriers, at a discounted price, through our consumer web and our business shipping tools and applications.
+Consumers and companies couldn’t be more connected; yet the shipping industry is still lagging behind. We can’t stand it! So we’re building groundbreaking solutions, it’s time to get shipping up to speed - everyone is asking for it!
+So if you’re ready to change things, you’ve found the right job advert.
+Are you the one? 
+We are looking for a highly motivated and experienced LAMP Software Engineers, based in our headquarters in Madrid. You need to enjoy working in a fast-paced, dynamic environment and be very result-oriented.
+We’re not looking for ninjas or gurus. We’re looking for real software developers, who are excited and motivated to change things and to work in a close-knit team environment.
+Key Accountability and responsabilities
+•	Backend development and analysis, reporting to the CTO 
+•	Arranges project requirements in programming sequence by analyzing requirements; preparing a work flow chart and diagram using knowledge of computer capabilities, subject matter, programming language, and logic. 
+•	Encodes project requirements by converting workflow information into programming language. 
+•	Confirms program operation by conducting tests; modifying program sequence and/or codes.
+Key skills, knowledge, experience and competencies. This job is not for everyone. You’re:
+•	Not afraid of technical challenges, in fact you hunger for the impossible. 
+•	Passionate about new technologies and problems to solve. You’re ready to offer fresh ideas. 
+•	Have experience and enjoy working in an agile development (SCRUM) team. 
+•	Enthusiastic, self-motivated, proactive, self-sufficient, but also a team oriented. 
+•	You thrive on coding.
+Sure, working from scratch is great, but so is the challenge of renovating and innovating. Here’s the first challenge. We’re kicking off from a classic LAMP technology, transforming it completely into a scalable, highly available platform, which will support over 20 countries distributed throughout Europe, Latin America and Asia.
+Technical Requirements:
+•	3-4 years of experience in LAMP development. Python or Java is a plus. 
+•	Advanced understanding of object oriented programming principles. 
+•	Experience using UML diagrams, as well as data layouts and database implementation using MySQL and version controllers like Git, SVN or CVS. 
+•	Contrasted experience working with any PHP frameworks, such as Yii, Symfony, Zend frameworks. 
+•	Experience desiging and implementing RestFull APIs. 
+•	Experience applying Scrum/Kanban.
+Desirable experience:
+Additionally, if you have experience with the following, you’re a winner!
+•	JavaScript frameworks: Backbone, Jquery and CoffeScript 
+•	Non SQL database 
+•	Nginx or NodeJS 
+•	Test Driven Development (TDD). 
+•	Redis and RabbitMQ.
+What we offer:
+•	A competitive package. 
+•	A young, upbeat, international work environment. Leave your suit behind; we’re a t-short and converse kind of place. 
+•	A place where your impact counts. 
+•	An exciting role in a start-up with high growth potential.

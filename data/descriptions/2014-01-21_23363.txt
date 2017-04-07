@@ -1,0 +1,5 @@
+
+En TwistIdeas necesitamos incorporar un perfil de programador / desarrollador Front End para colaborar en las labores de mantenimiento y desarrollo de los proyectos de nuestros clientes.
+Ha de tener experiencia en HTML/HTML5 y estilos CSS/CSS3, y el uso en frameworks como Bootstrap. 
+También es primordial el conocimiento y manejo de Javascript y alguna de sus bibliotecas, como jQuery, y algún framework como node.js, three.js o angular.js
+Más información aquí

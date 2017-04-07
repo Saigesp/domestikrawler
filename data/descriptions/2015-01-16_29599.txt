@@ -1,0 +1,21 @@
+
+Proyectos  de desarrollo en escritorio y web
+En AKTIOS IT GLOBAL SERVICES estamos reclutando a un PROGRAMADOR SENIOR . NET para posición estable ubicada en Barcelona. Por nuestra parte, explicarte que somos una Consultora IT Global que trabaja con diferentes empresas multinacionales y sectores. 
+Descripción:
+El Programador Senior .NET debe aportar capacidad de desarrollo, realización de test unitarios, adaptación a las metodologías de desarrollo y trabajo en equipo. Además, es importante la capacidad para realizar diseños técnicos, para poder ir creciendo profesionalmente asumiendo nuevas responsabilidades. 
+El candidato debe aportar amplia experiencia en el uso de las siguientes tecnologías: Nivel alto de Javascript, web responsive (HTML5, Javascript y CSS3), Entity Framework Code First y librerias (JQuery mobile, handlebars, Bootstrap, AngularJS, Socket.io, etc) Conocimiento de CSS preprocessors (SaaS, Less, Stylus), OOCSS (Object oriented CSS).
+Requisitos mínimos:
+Nivel alto con Javascript.
+Experiencia con:
+- Módulos (p.ej Requirejs), 
+- Programación orientada a objeto y patrones de diseño.
+- Nivel alto: maquetación, Css...
+- Asp.net MVC, Webapi
+Requisitos deseados:
+- Valorable otros frameworks tales como knockout, emberjs, etc...
+Ofrecemos:
+- Contrato indefinido.
+- Incorporación inmediata a compañía con importantes oportunidades de crecimiento y desarrollo profesional.
+- Formación especializada.
+- Retribuciones competitivas.
+Si eres una persona entusiasmada por las tendencias tecnológicas, comunicativa, con capacidad de análisis y gestión eficaz del tiempo, resolución de problemas técnicos/humanos complejos, iniciativa, organización, coordinación y que sepa trabajar en equipo, eres el candidato/a que estamos buscando. 

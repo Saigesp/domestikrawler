@@ -1,0 +1,18 @@
+
+In our company we are looking for a C ++ programmer who joins our development team to carry out new projects.
+REQUIRED SKILLS: 
+· Minimum of 3 years of Professional development experience with emphasis on object oriented programming 
+Methodologies ( OOA/D ). 
+· Experience developing small scale applications in embedded Linux environments 
+· Knowledge of the C++ Standard Library or Standard Template Library. 
+· Knowledge of software engineering best practices, including design patterns.
+BONUS SKILLS: 
+· Attention to detail. 
+· Ability to work independently and be team oriented. 
+· Knowledge of networks, hardware, and security concepts. 
+· Familiarity with version control software such as Subversion, Mercurial, Git. 
+· Knowledge of Multi-threading, TCP/IP socket programming, XML/JSON parsing.
+BENEFITS: 
+· Flexible hours. 
+· Salary based on experience. 
+· An exceptional, dynamic, demanding and motivating working environment within a fast growing company.

@@ -1,0 +1,4 @@
+
+Hey Av es una agencia de comunicación y marketing online en la que llevamos más de 5 años dando servicio a distintas marcas y empresas de múltiples sectores.
+Nos gustaría ampliar nuestro equipo en el área de programación y estamos buscando a una persona con conocimientos de programación web, más concretamente con experiencia en PHP, MySQL, CSS y jQuery; y en adaptación de CMS como Wordpress, Joomla o Prestashop.
+Somos un equipo joven, con un buen ambiente de trabajo y de desarrollo profesional. 

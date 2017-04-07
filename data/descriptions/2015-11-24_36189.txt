@@ -1,0 +1,27 @@
+
+En BoatBureau seleccionamos desarrollador web con experiencia mínima de 3 años en el desarrollo de sites utilizando tecnologías LAMP, en particular PHP con orientación a objetos, y con experiencia en entornos de integración continua.
+Sus tareas principales se centrarán en el desarrollo y mantenimiento de nuestros portales, el análisis y el diseño arquitectural de las nuevas funcionalidades de los mismos.
+El candidato ideal es una persona al día en tecnología web, que busca soluciones pragmáticas a los problemas que se plantean y cuida la calidad del producto que desarrolla.
+Estudios mínimos: Ingeniero Técnico
+Experiencia mínima: Al menos 3 años
+Ofrecemos:
+- Retribución en base a candidatura
+- Horario Flexible
+- Estabilidad Laboral
+- Formar parte de un equipo multidisciplinar
+- Proyecto internacional y de gran proyección
+- Entorno joven y dinámico
+Requisitos mínimos:
+- Experiencia y dominio de programación en PHP
+- Experiencia desarrollando bajo Frameworks MVC, especialmente Symfony2
+- Experiencia programando Front-End (CSS + JS)
+- Uso habitual de sistemas de control de versiones
+- Buenas prácticas y metodologías de programación
+- Capacidad resolutiva y de organización
+- Habituado al trato con clientes/proveedores y al trabajo de forma autónoma y en equipo
+- Persona autodidacta y ganas de crecer, aprender y proponer alternativas
+Se valorará postivamente experiencia en:
+- Experiencia en CMS (Drupal, Wordpress)
+- Experiencia en bases de datos NoSQL (MongoDB,...)
+- Experiencia en administración de servidores
+- Varnish

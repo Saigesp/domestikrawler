@@ -1,0 +1,24 @@
+
+We need a talented BackEnd Developer to join our creative team in Barcelona.   
+The successful candidate will work with our CEO, CTO, design department and production department in the development of beautiful software and mobile apps for the Southeast Asian markets.   
+We need someone to join our in-house team at our open office spaces in the Poble Nou district of Barcelona.
+  Our new Backend Developer must have expertise in:
+ - MVC 
+ - OOP 
+ - PHP5 
+ - Frameworks like Symphony, Laravel, etc. 
+ - HTML5 / CSS3 / Responsive design 
+ - MySQL 
+ - Git 
+ - Javascript 
+ - Command of both English and Spanish 
+  A plus:
+ - Linux administration  
+- Rackspace Cloud
+ - Mobile development (ios, android)   
+What we offer:  
+- International working environment 
+ - Access to global projects and networks  
+- Openness to personal initiatives and start-up ideas  
+- Top talent team of Visual Designers, Developers, UX designers, and business directors 
+ - Competitive Salary

@@ -1,0 +1,2 @@
+
+Programación en Action Script para una simulación de tienda virtual sencilla (aprox. 10 productos) en Flash.

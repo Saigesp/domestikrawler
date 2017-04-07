@@ -1,0 +1,12 @@
+
+Somos  una Agencia de marketing online andaluza, radicada en el Campo de Gibraltar, con más de 30 años de experiencia en el campo del Marketing y la Comunicación y a día de hoy referencia en Comunicación 2.0. 
+Buscamos un profesional con estas características:
+-          Experiencia y conocimientos DEMOSTRABLES en maquetación HTML/ CSS, desarrollo con CMS Wordpress y dominio de Photoshop para optimización de archivos.
+Otros de los aspectos que se van a valorar en el proceso de selección son los conocimientos en:
+-          Diseño gráfico
+-          Responsive Web Design
+-          Flash (básico)
+-          Php (funciones básicas)
+-          MySQL
+-          JQuery
+Solo se tendrán en cuenta aquellos currículums vitae que aporten portfolio con trabajos realizados. En su defecto también se admitirán enlaces a diseños web puestos en marcha.

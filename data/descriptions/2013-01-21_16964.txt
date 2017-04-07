@@ -1,0 +1,20 @@
+
+INFORMACIÓN SOBRE EL PUESTO:
+- Proyectos variados: La empresa está especializada en el desarrollo de aplicaciones de realidad aumentada y en el desarrollo para dispositivos móviles en general.
+- Tiempos ajustados: El candidato deberá ser capaz de administrar muy bien el tiempo y ser capaz de adaptar la calidad del resultado final dentro de los tiempos fijados. Los deadlines son muy importantes.
+- 3D: La empresa cuenta con un motor de 3D para plataformas móviles propio, en determinados proyectos son necesarios modelos lowpoly.
+- 2D: Diseñar aplicaciones móviles (Interfaces de usuario y demás), imágenes con fines publicitarios (como para publicar en blogs, webs, etc), pequeñas ilustraciones...
+- Video: A veces es necesario crear algún video mostrando alguna aplicación, bien para clientes a modo de demostración del estado de un proyecto, o bien para mostrar un producto final.
+MÁS INFORMACIÓN ÚTIL PARA CANDIDATOS (Cualidades requeridas, conocimientos necesarios, herramientas a utilizar...):
+- Software 3D: Es necesario utilizar 3Ds Max para la exportación al motor de render propio. No obstante, para el trabajo previo a la exportación se puede utilizar cualquier otro software, que permita finalmente una exportación a 3DS Max. Lo que cuenta es la calidad de los modelos y animaciones finales.
+- Software 2D:  Principalmente Photoshop es el programa que utilizamos para la creación de contenidos para aplicaciones. Habitualmente también se utiliza Adobe Illustrator/inkscape (para logotipos, iconos y otros diseños vectoriales), además de Gimp o MyPaint, para trabajos que requieren ilustraciones. Al igual que en 3D, lo que cuenta es el resultado final, con más versatilidad en este área, pues al ser imágenes no hay tantos problemas de compatibilidad entre softwares.
+Cualidades requeridas:
+- Se valorará la actitud ante el trabajo y la calidad del mismo.
+- Cualquier experiencia previa, incluso a nivel amateur, en desarrollo de videojuegos, aplicaciones y proyectos en equipo será valorada.
+- Nivel medio / alto de inglés: En la compañía trabaja gente extranjera, y a veces hay que coordinarse con las oficinas de Israel y/o clientes. Por ello es necesario un nivel decente de inglés, tanto hablado como escrito.
+Conocimientos &amp;quot;artísticos&amp;quot; que serán valorados:
+- Dibujo, pintura y retoque de imágenes digitales (importante para trabajos de texturizado de modelos 3D).
+- Modelado 3D: Orgánico y HardSurface, alta y baja resolución.
+- Rigging: los modelos que requieran algún tipo de animación necesitarán rigs, normalmente simples, pero también puede darse el caso de necesitar algo con un mínimo de complejidad. Las escenas además tendrán que estar muy bien organizadas y los objetos nombrados correctamente.
+- Animación: Animación de personajes a nivel medio para proyectos de realidad aumentada.
+NOTA: Para el aprendizaje del motor 3D propio se contará con documentación y ayuda interna.

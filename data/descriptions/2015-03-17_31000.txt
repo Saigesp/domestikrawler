@@ -1,0 +1,16 @@
+
+Descripción
+Empresa tecnológica y de contenidos digitales orientada a la creación de productos y servicios con foco en entorno web móvil y aplicaciones, tanto propios como de terceros, precisa incorporar a plantilla:
+Un desarrollador senior y gestor de equipo de desarrollo con experiencia demostrable en desarrollo y gestión de proyectos al menos 3 años en puestos similares.
+Buscamos un candidato que quiera participar en el crecimiento de nuestra empresa aportándonos sus conocimientos y experiencia como responsable técnico y gestor de equipos.
+Responsabilidades:
+· Gestionar equipo de desarrollo (aprox. 5 personas)
+· Definir la estrategia tecnológica de los servicios.
+· Reporting diario/semanal de avances 
+Requisitos:
+· Experiencia en desarrollo más de3 años (J2EE, Spring, JPA, Hibernate )
+· Conocimientos en: GIT, MySQL,administración Linux 
+· Herramientas Management / Scrum Agile.
+· Conocimiento en el diseño de arquitecturas 
+Ofrecemos un ambiente de trabajo joven, dinámico y con muy buen trato y respeto por los compañeros, queremos encontrar alguien que encaje en este sentido también con nosotros.
+

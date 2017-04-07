@@ -1,0 +1,12 @@
+
+Buscamos una persona  para apoyar al departamento de desarrollo para un proyecto concreto de automatización de funciones en sistema Ios y Android.
+Puede ser una colaboración freelance o una incorporación a plantilla, depende del candidato. 
+Específicamente buscamos:
+- Conocimientos de Ios y Android 
+- Compilación de apps por comandos 
+- Gestión de un servidor para la automatización de subidas de apps
+Se valorará también conocimientos de:
+- PHP 
+- SQL/MySQL 
+- JavaScript y jQuery 
+- Css

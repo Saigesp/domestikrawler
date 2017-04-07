@@ -1,0 +1,7 @@
+
+Estamos buscando un desarrollador Flash con experiencia en la integración de players de Video con Publicidad.
+Queremos crear un player personalizado con las siguientes características:
+- Personalización básica de colores
+- Compatibilidad VAST 3
+- Compatibilidad VPAID 2 
+Una buena opción sería basar el sistema en OSMF de Adobe ya que tiene la mayor parte de funcionalidades, aunque existen otras opciones en el mercado.

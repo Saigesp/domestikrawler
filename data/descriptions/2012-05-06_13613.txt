@@ -1,0 +1,20 @@
+
+Cambio Imagen  web empresa  de formacion artistica
+Actualización del software del sistema (desde hace 3 años no se ha hecho ninguna actualización )
+Cambio del tema gráfico según las especificaciones :
+Cambio de barra de navegación
+Nueva pagina de contacto
+Cambio de banners, links etc
+2) hacer una Nueva web cosmetica
+Programación de Gestor de Contenido según presentación powerpoint (enviaremos despues de selección)
+  Idioma: Castellano
+ Estructura de menú adaptables
+WYSIWYG editing
+Formulario de contacto
+Carga y descarga de archivos
+Newsmodule + RSS feed
+Friendly URL (importante para buscadores como google)
+UTF-8 Encoding / XHTML
+basado en CSS - no se utilizan tablas para la estructura
+Compatibilidad con Internet Explorer Versión 7/8 y Firefox 3.6.x, y Safari
+

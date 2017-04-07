@@ -1,0 +1,5 @@
+
+We are looking at rebuilding our existing  wordpress site.
+We need to copy and paste our existing 500 page site to a new theme template to maximise on responsiveness, and to clean our existing site as it has lots of unwanted plug ins and history.
+We need someone who can manage this rebuild from start to finish.
+Is this you? Are you an expert in Word Press. Do you have at least 2 years recent experience designing and building modern sites within Word Press?

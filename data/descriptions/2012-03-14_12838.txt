@@ -1,0 +1,8 @@
+
+VACANTE:
+Personal especializado en la construcción y configuración de los elementos dentro de la herramienta Oracle WCM. Valorable conocimeinto de otros gestores de contenido web, para componer los distintos portales B2C, y sus marcas blancas y/o asociadas 
+REQUISITOS MINIMOS:
+Experiencia de 3 años programando plantillas, fragmentos, formularios con UCM. 2 años de análisis y diseño orgánico con UCM. Experiencia con HTML, Javascript, iDOC, SQL y PL/SQL de Oracle, WAI-AA, J2EE y JDeveloper.
+REQUISITOS VALORABLES:
+Conocimientos de HTML5, CSS, JQuery, Ajax, UCM
+

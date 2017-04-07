@@ -1,0 +1,9 @@
+
+Necesitamos desarrolladores residentes en Barcelona para trabajo de proyectos basados en PHP con framework CodeIgniter. 
+Imprescindible: 
+- Buen nivel de PHP. 
+- Experiencia demostrable en CodeIgniter. 
+Recomendado:
+- Se valorará conocimeintos en desarrollo de front-end (HTML,CSS3, jQuery). 
+- Residente en Barcelona o área metropolitana.
+Preferiblemente presencial (oficinas Barcelona), jornada flexible, inicalmente 1/2 jornada.

@@ -1,0 +1,41 @@
+
+Si te gustan los retos, ésta es tu empresa. 
+Destinia es una empresa que combina la experiencia online de llevar más de 15 años en funcionamiento con la mentalidad despierta y ágil de una startup. 
+Nacimos para acercar cualquier rincón del mundo a la gente, convencidos de que no hay límites, y cada día trabajamos para conseguirlo, haciendo de la innovación, el compromiso, la creatividad, la flexibilidad y el precio nuestras señas de identidad. Tenemos una mente tecnológica y un corazón viajero.
+Fundada en 2001, Destinia es una de las mayores agencias de viajes online en España con una oferta de más de 300.000 hoteles y 600 aerolíneas. Con 140 trabajadores en España, Destinia está inmersa en un intenso proceso de internacionalización en Europa, Oriente Medio (tenemos oficinas en El Cairo y Teherán). Hemos sido pioneros en ofrecer viajes al espacio, en aceptar pagos con la moneda virtual bitcoin, en desarrollar una app para reservar hoteles con las Google Glass y acaba de presentar un proyecto de realidad virtual con las Oculus Rift.
+Como ambiente de trabajo encontrarás a un equipo joven, multidisciplinar e internacional. Apostamos por el trabajo en equipo y ofrecemos una empresa en crecimiento para el desarrollo profesional.  
+Tareas:
+-Análisis, desarrollo y mantenimiento de:
+-Plataforma B2B de venta de hoteles, vuelos, traslados, etc que consta de una aplicación web y un API de integración con terceros.
+-Plataforma de contratación propia de hoteles para el mantenimiento y carga de tarifas (manual y a través de API), precios, disponibilidad, etc para su posterior venta en la plataforma B2B.
+-Aplicaciones de mantenimiento de usuarios, datos de integraciones, facturación, control y reglas sobre producto, etc
+-Integraciones con terceros (channels managers, receptivos, mayoristas, etc) para la compra/venta de productos y servicios.
+Lugar de trabajo:
+En pleno corazón de Madrid, junto al metro Gran Vía.
+Muy buen ambiente de trabajo. Equipo joven, dinámico, multidisciplinar e internacional. 
+Como empresa tenemos una mente tecnológica y un corazón viajero. Apostamos por la evolución metodológica continua, por la iniciativa e inquietudes de cada uno de nuestros empleados y creemos en las herramientas open source.
+Requisitos:
+- Estudios mínimos: Formación Profesional Grado Superior - Informática
+- Experiencia mínima: Al menos 2 años
+Conocimientos técnicos requeridos:
+· Experiencia profesional demostrable en desarrollo de aplicaciones con Java EE
+· JSF v1.X y/o v2.X
+· JPA, Hibernate y HQL
+· Richfaces y/o Primefaces
+· Facelets
+· Conocimientos avanzados sobre SQL
+· Experiencia con servidores de aplicaciones Tomcat, WildFly o Weblogic
+· Maven y/o Gradle
+· Git
+Se valorarán:
+· Integración continua: Jenkins
+· Bases de datos noSQL: MongoDB
+· Frameworks de desarrollo de web services; Axis, Metro, Apache CXF, etc
+· Desarrollo de API REST, en especial con Spring MVC o framework similar
+· Desarrollo con metodologías ágiles tipo Scrum, Kanban, etc
+· Seam 2 y 3
+· Weld
+· Spring
+· PL/SQL
+· CDI (Contexts and Dependency Injection)
+

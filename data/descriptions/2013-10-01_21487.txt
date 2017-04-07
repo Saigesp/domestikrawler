@@ -1,0 +1,7 @@
+
+Consultora especializada en servicios tecnologicos y de marketing desea incorporar a su plantilla un Analista Programador Web especializado en PHP.
+Es el encargado de la realización de la interface de comunicación y del front-office de las aplicaciones corporativas a impllantar en cliente integrando las piezas de desarrollo de la capa de datos, realizadas por los AP BBDD y las piezas de interface de la capa de presentación proporacionadas por los Creativos.
+Requisitos:
+- Estudios mínimos: Diplomado
+- Experiencia mínima: De 3 a 5 años en el desarrollo avanzado de aplicaciones web con PHP atacando motores de bases de datos. Conocimiento de Ingeniería de software necesarios para la comprensión de los análisis funcionales.
+- Tecnología: PHP, HTML, Javascript, MySql, JQuery.

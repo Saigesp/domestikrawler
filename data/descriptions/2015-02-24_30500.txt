@@ -1,0 +1,29 @@
+
+Departamento: Servicios técnicos
+Estamos buscando un profesional como tú: 
+_Abierto siempre a explorar y aprovechar el potencial de los nuevos medios. 
+_Con ganas de conocer nuevas herramientas y aplicaciones.
+_Que está fascinado por la tecnología y todo lo nuevo que nos pone al alcance.
+Pero sobre todo queremos a una persona como tú:
+_Con iniciativa y sin miedo a enfrentarse a importantes retos.
+_Interesada en crecer dentro de una agencia con grandes cuentas y que apuesta por aplicar su propia filosofía creativa a las nuevas vertientes de la tecnología aplicada a la comunicación para alcanzar un futuro lleno de nuevas corrientes de negocio.
+En definitiva: 
+¡Queremos crecer contigo! 
+¡Queremos que formes parte de un equipo que valora el esfuerzo! 
+¡Queremos trabajar para ser parte del futuro más inmediato! 
+¡Queremos que evoluciones y aprendas junto a nosotros!
+Requisitos
+Estudios mínimos: Licenciado - Técnico
+Experiencia mínima: 2 año
+Imprescindible residente en: Barcelona
+Conocimientos informáticos: 
+Programador con buen nivel de programación en iOS con objective-c y Xcode para el desarrollo de aplicaciones nativas (mínimo 2 años de experiencia).
+Es necesario dominar la integración de servicios externos mediante REST/SOAP y la gestión de base de datos internas con SQLite.
+Se valoraran conocimientos de desarrollo de aplicaciones híbridas mediante Cordova/Phonegap y de desarrollo de apps en java para Android.
+Idiomas : 
+Castellano / catalán; 
+Muy valorado conocimientos de Inglés y italiano
+Requisitos deseados: 
+Conocimiento a nivel técnico de plataformas de ecommerce : Prestashop y Magento
+Conocimiento de CMS : Umbraco, WordPress o Drupal
+

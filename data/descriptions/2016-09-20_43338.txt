@@ -1,0 +1,12 @@
+
+En *S, C, P, F… buscamos un diseñador/desarrollador para cubrir una baja en nuestro estudio.
+El perfil que buscamos será responsable de la creación, adaptación y desarrollo de nuestras campañas display online. Diseñará banners, wallpapers, Facebook Ads, etc. Por lo que el candidato/a deberá ser capaz de diseñar o adaptar a partir de un máster los diferentes formatos usando Photoshop, desarrollar las piezas en HTML5 usando Adobe Edge o Sublime y publicar las diferentes piezas a los Adservers, generalmente Sizmek.
+Conocimientos mínimos:
+- Photoshop 
+- Adobe Edge
+- Interfaz Sizmek
+Se valorará el manejo de:
+-IDES de desarrollo: Sublime, IntelliJ, etc.
+-InDesign
+-Illustrator
+

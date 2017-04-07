@@ -1,0 +1,13 @@
+
+Nuestro cliente necesita incorporar un/a Programador/a .Net. En sus proyectos utiliza tecnología neuronal para poder ofrecer un excelente servicio a sus clientes (integradores, ingenierías y empresas de software en general.
+Sus Tareas serán:
+- Realizar la programación y el mantenimiento de las aplicaciones en .net
+- Soporte a nuestros clientes ya que su producto es una DLL que los clientes necesitan integrar (a nivel internacional)
+- Ayuda a nuestro departamento de I+D
+REQUISITOS:
+- Ingeniería informática (Valorable UPC)
+- Experiencia programando en .Net (VB y C#)
+- Nivel medio de inglés
+VALORABLE:
+- Conocimientos de cámaras o del mundo de parking o de tráfico
+Contrato indefinido

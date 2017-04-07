@@ -1,0 +1,15 @@
+
+En BKOOL necesitamos incorporar el área de Desarrollo y Tecnología un perfil "Full-Stack" con al menos 3 años de experiencia. Buscamos una persona con mucha motivación y ganas de seguir aprendiendo.
+¿Qué buscamos?
+Alto conocimiento en Grails o J2EE (frameworks Spring/Hibernate)
+Conocimiento de HTML5, Javascript y CSS3
+Valoraremos el conocimiento de frameworks JS
+Experiencia en la integración de APIs de terceras partes
+Experiencia con bases de datos (pero no buscamos un DBA)
+Optimización de código (tenemos muchos usuarios)
+Valorable el conocimiento de metodologías ágiles... o ganas de aprenderlas
+Valoraremos también las ganas de aprender otras tecnologías, incluida la creación de apps móviles.
+Te ofrecemos un proyecto que te permitirá participar en algo distinto, combinar el mundo del deporte y la tecnología, un simulador avanzado y videojuegos, incluso el desarrollo de hardware. Somos un equipo joven y con muchas ideas por delante.
+Ubicación: Las Rozas (Madrid)
+Incorporación: Inmediata
+

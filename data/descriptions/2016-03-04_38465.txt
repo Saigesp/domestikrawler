@@ -1,0 +1,14 @@
+
+Buscamos persona dinámica y pro activa con conocimientos en los siguientes ámbitos.
+- Frontend Development: 
+- HTML5 
+- CSS3 
+- Javascript 
+- PHP 
+- Mysql
+Ademas deberá tener experiencia en:
+- Implementación y customización de Wordpress. 
+- Implementación y customización de Prestashop. 
+- Manejo de herramientas como, Dreamweaver, Photoshop, Fireworks, Illustrator... 
+- Conocimientos SEO.
+- Será de valor añadido, no excluyente, tener conocimientos de Frameworks PHP, codeigniter, smarty, etc.

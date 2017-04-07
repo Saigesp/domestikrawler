@@ -1,0 +1,19 @@
+
+Objetivo
+
+Mantener y mejorar los diferentes sistemas y aplicaciones web que Latam Gvc sostiene y crea en el día a día.
+Conocimientos y experiencia deseada
+•	Tener una importante experiencia en Javascript con Object Oriented Programing
+•	Experiencia en Javascript Node.js
+•	Alto conocimiento en C#
+•	Conocimiento del entorno Linux
+•	Alto conocimiento y experiencia en Php
+•	Buen conocimiento de servicios web y conexiones utilizando Json y Xml
+
+Formación académica
+
+•	Formación universitaria en ciencias informáticas o equivalente
+•	3 años en un puesto similar
+•	Nivel nativo de Español. Catalán y Gallego una gran ventaja
+•	Buena comunicación en Inglés, tanto verbal como escrita
+

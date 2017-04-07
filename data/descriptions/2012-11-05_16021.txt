@@ -1,0 +1,11 @@
+
+Estamos buscando un programador PHP para formar parte del equipo de desarrollo.
+Las características de la oferta son:
+- Jornada completa presencial en un horario flexible de 10:00 a 19:30 (L-V)
+- Retribución fija y plus por objetivos
+Requisitos mínimos:
+- Disponibilidad inmediata
+- Experiencia en desarrollo en PHP5, CSS y JQuery
+Requisitos deseados:
+- Experiencia con Wordpress y PrestaShop
+- Experiencia con Django

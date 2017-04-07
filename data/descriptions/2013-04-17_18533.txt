@@ -1,0 +1,11 @@
+
+Somos una compañía en crecimiento en el sector del e-commerce.
+Buscamos un programador Junior freelance, con conocimientos de frontend y backend. Preferiblemente con experiencia con la plataforma Shopify para el mantenimiento evolutivo y correctivo de nuestras tiendas.
+Necesidades frontend:
+* HTML5/CSS3 (y versiones anteriores)
+* Javascript (JQuery será valorado)
+Necesidades backend:
+* PHP5
+* MySQL 5.*
+* Linux, Bash, Cron
+Incorporación inmediata.

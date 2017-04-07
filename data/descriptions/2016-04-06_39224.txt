@@ -1,0 +1,17 @@
+
+En Iddium estamos buscando a un programador/desarrollador web para formar parte de un equipo dinámico en nuestra empresa de desarrollo de proyectos de marketing comunicación online. 
+Buscamos una persona responsable, apasionada, con ganas de evolucionar y proponer nuevas soluciones y herramientas. Su función principal será la programar y desarrollar webs de todo tipo.
+REQUISITOS:
+-Experiencia de al menos 4-5 años desarrollando proyectos digitales (websites, e-commerce, e-mailings, landings, apps, etc).
+-Dominio de la maquetación para websites responsive
+-Conocimientos avanzados en Gestores de Contenidos, especialmente WORDPRESS y JOOMLA (a nivel de maquetación y de gestión del admin, uso e instalación de plugins y temas, instalación del gestor)
+-Conocimiento de entornos de ecommerce (woocommerce, prestashop, magento).
+-Experiencia en programación de servidor PHP y SQL
+-Conocimientos avanzados de SEO y Analytics. Conocedor de las Webmasters Tools de Google para la gestión de las páginas y su indexación
+-Email marketing: maquetación específica para mailings y gestión de listas de envío e interpretación de estadísticas. Especialmente con GraphicMail, Emailbrain, MailChimp, phpList o Constante contact.
+-Entornos social media (Facebook, Twitter, Linkedin, Pinterest)
+-Campañas en entornos Social Media (con aplicaciones propias o bien con plataformas tipo Easypromos)
+-Administración de alojamiento (plesk, cpanel, panel de dinahosting)
+-Se valorará conocimientos en  Photoshop, Illustrator e Indesign.
+-Horario de jornada completa
+

@@ -1,0 +1,18 @@
+
+Nuclio, Venture Builder en Barcelona, necesita incorporar a su nuevo equipo técnico a un Senior Ruby on Rails Developer. Nuclio es una company builder en continuo flujo de ideas y startups. Emprendemos durante todo el año, creando, impulsando y desarrollando múltiples proyectos a la vez.
+La tareas que llevara a cabo como Senior Ruby on Rails son: definición de arquitectura, desarrollo del Core y de nuestra API, consumir API’s de proveedores,desarrollo de backend, implementación de un entorno de testing.
+Skills
+– +2 años de experiencia.
+– Experiencia en desarrollo de APIs REST
+– Experiencia con AWS.
+– Experiencia en Monitorización.
+– Experiendia en MySQL, MongoDB.
+– Usuario habitual de Github o Bitbucket.
+– Capacidad de trabajar en equipo.
+– Conocimientos de frontend / backend (css, html5, jquery)
+– Imprescindible, tener siempre ganas de aportar, aprender y mejorar.
+¿Qué ofrecemos?
+– Contrato indefinido y salario competitivo (entre 30k – 40k)
+– Formar parte de la toma de decisiones respecto al proyecto y del roadmap.
+– Ambiente Startup: flexible, ambicioso y con ganas de mejorar.
+– Trabajando codo con codo con compañeros con amplia experiencia en el sector.

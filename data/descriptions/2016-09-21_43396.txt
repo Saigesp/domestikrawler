@@ -1,0 +1,24 @@
+
+Estamos buscando un Analista Programador J2EE para un proyecto estable, para una importante empresa que pertenece al sector de Retail, cuyas oficinas están situadas en Barcelona. 
+Responsabilidades
+•	Miembro activo del equipo de desarrollo
+•	Control de la calidad del código.
+•	Interlocución con de QA y Analistas
+
+Requisitos
+•	Desarrollador J2EE, valorable conocimientos de ATG 
+•	Arquitectura SOA
+•	Amplia experiencia en procesos de integración continua (Jenkins, Unit Testing…)
+•	Gestión de proyectos usando metodología AGILE (Jira, Confluence …)
+•	Gestión de código basada en GITFLOW.
+•	Conocimientos de Javascript, Angular, Nginx, Jboss, bash..
+•	Familiarizado en el uso de patrones de diseño. 
+•	Experiencia en la gestión de equipos 
+
+Ofrecemos:
+•	Trabajar en un equipo de expertos.
+•	Jornada completa. 
+•	Pack de retribución ajustada a la experiencia demostrada.
+•	Oficinas en Barcelona ciudad.
+•	Carrera profesional basada en meritocracia.
+

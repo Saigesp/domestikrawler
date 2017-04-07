@@ -1,0 +1,12 @@
+
+Por un cliente buscamos a un Desarrollador Web FRONT-END Freelance. 
+Empresa : Snob Technologies SL 
+Sector : IT 
+Lugar : Barcelona - se puede trabajar de manera remota 
+Tiene que ser capaz de maquetar e integrar nuestras webs así como Landing Pages y kits mails a partir de ficheros PSD del disenador web. 
+Maquetación o paso de diseños web a código XHTML y CSS, dando vida al trabajo de los diseñadores (PSD) y creando el código necesario para que se muestren correctamente cada sitio web en todos los navegadores.
+Habilidades :
+• HTML, 
+• CSS(3), 
+• jQuery (Ajax) 
+• + nociones de PHP

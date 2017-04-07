@@ -1,0 +1,14 @@
+
+En Websdirect SL estamos buscando perfiles de Programador Web Frontend/Backend con las siguientes características:
+
+Conocimientos avanzados y demostrables en maquetación HTML, HTML5, XHTML, CSS, CSS3 y diseño Responsive.
+Conocimientos avanzados y demostrables en programación y BBDD: PHP,  MySQL
+Conocimientos avanzados y demostrables en WordPress (adaptación de temas personalizados)
+Conocimientos avanzados y demostrables en Javascript, Jquery
+Se valorarán
+Conocimientos en usabilidad, experiencia del usuario y arquitectura de la información.
+Participación en proyectos de diseño para dispositivos móviles.
+Conocimientos en diseño gráfico y manejo de Photoshop.
+Conocimientos SEO
+Programación ASP, SQL
+

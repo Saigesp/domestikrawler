@@ -1,0 +1,23 @@
+
+Si tu pasión es Javascript, y tienes experiencia desarrollando RIAs con frameworks como Angular, React, Node ... ¡te queremos! 
+Shokesu se trata de un agregador social media que permite análisis predictivo y semántico aportando valor diferencial a la toma de decisiones en marketing, comunicación, ventas y en la orientación global del management estratégico del negocio. Se trata, por tanto, de una innovadora herramienta tecnológica para el análisis del universo social de Internet que permite la toma de decisiones, reality mining, y sirve para todo tipo de organizaciones, empresas, pymes, sea cual sea su tamaño y el tipo de actividad que desarrolle.
+¿En qué consitiría tu trabajo?
+
+- Desarrollar nuevos interfaces de gestión y visualización de datos complejos (cuadros de mando)
+- Crear widgets y librerías propias para la reusabilidad en las visualizaciones.
+- Adaptar los interfaces a dispositivos móviles.
+
+Conocimientos / Experiencia requeridos:
+
+- HTML5, CSS3
+- Frameworks MVC en JavaScript: Uso en proyectos reales de frameworks como React o Angular.
+- Frameworks de visualización: crossfilter, D3.js
+- Desarrollo RIA (Rich Internet Application) / SPA (Single Page Application).
+- Seguridad y Optimización de rendimientos FrontEnd.
+- Conocimiento de los frameworks CSS (bootstrap, etc)
+- Manejo de Node.js para creación de la parte backend
+- Conocimientos básicos de JAVA
+Experiencia valorada como plus, no indispensable para el puesto:
+- Conocimientos básicos de PHP
+- Python / Django
+

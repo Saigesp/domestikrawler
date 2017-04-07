@@ -1,0 +1,18 @@
+
+Netberry selecciona a un programador FrontEnd Angular, con al menos 2 años de experiencia.
+Funciones y tecnología:
+- Creación de aplicaciones web en HTML5 y CSS3. 
+- Desarrollo con javascript avanzado utilizando Angular, Node.js y Boostrap o frameworks similares.
+Métricas de calidad
+Integración continua
+Servicios Rest
+Maven
+Entornos de desarrollo Agile con Scrum
+TDD
+Formarás parte de un equipo de trabajo de un interesante, y con últimas tecnologías. 
+Ubicación: Las Rozas.
+Horario, ahora jornada intensiva: hasta el 1 de septiembre (de 08 a 15h). Resto del año de 09 a 18h, y los viernes de 08 a 16h.
+Requisitos mínimos
+Profesional entusiasta de la programación y del aprendizaje continuo, que cuente con experiencia en desarrollo FrontEnd con Angular.
+Se valorará experiencia en desarrollo con Java (Back) y que cuente con una Ingeniería informática o Telco.
+Disponibilidad de incorporación: primeros de septiembre.

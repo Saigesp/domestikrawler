@@ -1,0 +1,8 @@
+
+ezzingSolar es una plataforma de gestión para empresas que trabajan en energías renovables, tanto instaladores, distribuidores o fabricantes. Actualmente estamos presentes en 6 países y continuamos en expansión.
+Estamos continuamente desarrollando y mejorando nuestros productos y servicios, lo que garantiza estar involucrado siempre en nuevos retos. Con nosotros no te aburrirás.
+Requerimos un perfil con nivel medio/alto en desarrollo de aplicaciones web y en especial en el uso de php, javascript, jquery, angular, AJAX además de mysql y Google maps API v3.
+Desarrollo bajo Laravel con control de versiones en Git.
+Dentro del departamento de desarrollo, la función principal del candidato será la de participar en la programación y mejora continua de nuestra plataforma. Ayudando a identificar, planificar y crear nuevas prestaciones innovadoras.
+Se ofrece un ambiente de trabajo inmejorable, con gente joven y flexibilidad horaria y de lugar de trabajo.
+Sueldo a convenir acorde a la experiencia.

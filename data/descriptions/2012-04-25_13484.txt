@@ -1,0 +1,6 @@
+
+Desde Sernew Consultores precisamos incorporar a un proyecto estable en Madrid a 3 programadores .NET con los siguientes requisitos:
+- Titulación universitaria (obligatoria)
+- A partir de 1 año de experiencia.
+- Experiencia de desarrollo de portales.
+- SQL Server.

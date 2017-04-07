@@ -1,0 +1,17 @@
+
+Somos un empresa de desarrollo web, con más de 10 años de experiencia. 
+Estamos buscando una persona que le guste el desarrollo web, inquieto y con ganas de afrontar diferentes proyectos y de lo más variopinto. Todo el que quiera estar en internet es nuestro cliente, por lo que cualquier tipo de desarrollo es posible ;-)
+En cuanto a conocimientos y experiencia es necesario que tengas: 
+- Experiencia en programación diferentes proyectos (nos tendras que enseñar cosas que hayas hecho) 
+- HTML5, CSS, Jquery (Obvio). 
+- PHP con o sin uso de frameworks (Obvio también). 
+- MySQL. SQL Server (un +). 
+- Bootstrap, Foundation (un +) 
+- Instalación, adaptación y personalización de WordPress.
+En cuanto actitud: 
+- Inquieto y con ganas de afrontar proyectos nuevos. 
+- Le guste estar al dia, formarse, desarrollar y aplicar nuevas tecnologías, desarrollos, soluciones, frameworks, ..... 
+- Adaptarse a un equipo pequeño de trabajo, pero motivado y mantener un buen ambiente.
+Estamos buscando a este/a compañero/a para incorporación inmediata. No buscamos a una persona para un proyecto temporal, sino para muuucho tiempo si tu perfil encaja en el equipo. 
+El desarrollo del trabajo se realizará en oficina pero con flexibilidad horaria; y de forma consensuada, podrías desarrollar tu trabajo desde tu propio domicilio algún día a la semana.
+

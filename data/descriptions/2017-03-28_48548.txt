@@ -1,0 +1,9 @@
+
+Buscamos un programador para incorporarse a nuestro equipo de desarrollo.
+El puesto de trabajo es en remoto.
+Los requisitos técnicos son HTML, CSS, JavaScript, PHP y mucho Drupal.
+Los requisitos no técnicos, que creemos que son los más importantes, son que tengas pasión por las nuevas tecnologías, que seas autosuficiente y que sepas inglés para leer documentación técnica.
+Sobre Atenea tech:
+Nacimos en Barcelona en 2008, y desde entonces hemos analizado, definido, diseñado y desarrollado proyectos web Drupal para empresas y organizaciones de todo tipo -Corporativo, ONG, educación, media, administración pública-. Combinamos el desarrollo a medida con una atención especial por la Experiencia de Usuario, el SEO y el rendimiento para construir webs y aplicaciones online de gran calidad técnica.
+Creemos en el movimiento open source, y colaboramos activamente en la Comunidad Drupal, tanto en la organización de eventos, como en la aportación de código.
+

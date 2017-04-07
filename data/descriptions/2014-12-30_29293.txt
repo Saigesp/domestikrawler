@@ -1,0 +1,12 @@
+
+Para nuestro equipo de Mobile en Barcelona necesitamos incorporar desarrollador Android
+Estudios mínimos:
+Ingeniero Técnico - Técnico en Informática de Gestión
+Experiencia mínima:
+Al menos 2 años
+Perfil:
+Programador con al menos 3 años de experiencia en programación Android Java SDK
+Claves de conocimiento obligatorias:
+Java, Android SDK, J2EE, REST, Android Studio, Inglés (Documentación)
+Claves de conocimiento valorables:
+Android NDK, C++, OAuth, SCRUM, Realidad aumentada, OpenGL...

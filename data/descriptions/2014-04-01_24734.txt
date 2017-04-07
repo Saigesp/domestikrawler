@@ -1,0 +1,5 @@
+
+Buscamos a una persona con experiencia en desarrollos y mantenimientos web públicos de GRAN TRÁFICO, proactiva y motivada.  Con capacidad de “remangarse” y solucionar en tiempo real y de forma autónoma lo que vaya surgiendo. 
+Realizará mantenimientos PREVENTIVO/CORRECTIVO de lo existente, gestión y tareas de Jefe de proyecto así como implementación de pequeños desarrollos.  Inquieto, versátil, con capacidad de gestión y capacidad de aprendizaje rápido.
+Análisis funcional de proyectos web, Viabilidad técnica vs necesidades creativas y de negocio, Diseño de bases de datos relacionales, Definición e implementación de webservices, Programación en PHP/JavaScript/jQuery/MySQL/HTML5/CSS3... serán algunas de sus funciones.
+Imprescindible Titulación superior en Ingeniería Informática o similar.

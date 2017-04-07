@@ -1,0 +1,12 @@
+
+En DantexGroup buscamos un desarrollador en tecnologías Web para aplicaciones basadas en video streaming de alta calidad para trabajar en equipo en nuestras oficinas de Madrid.
+Los requisitos son: 
+- Dominio del HTML5 + CSS para aplicaciones Web 2.0 y 3.0.
+- Experiencia en el desarrollo de interfaces de usuario basadas en tecnología web.
+- Experiencia en desarrollo de aplicaciones Orientadas a Objetos tanto en JavaScript como en ActionScript.
+Se valorará:
+- Dominio del lenguaje ActionScript para aplicaciones FLASH y FLEX.
+- Experiencia en desarrollo de aplicaciones para móviles.
+- Experiencia en desarrollo de WebApps para plataformas iOS.
+- Experiencia en desarrollo en lenguajes de desarrollo de  aplicaciones nativas (C#, Java...)
+No se responderán candidaturas de empresas o estudios, buscamos un trabajador a tiempo completo para formar parte de nuestro equipo de desarrollo base.

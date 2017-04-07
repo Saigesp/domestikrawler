@@ -1,0 +1,16 @@
+
+Descripción
+QUÉ OFRECEMOS
+Un programador (o programadora) Magento con ganas de incorporarse al equipo de Desarrollo en The Cocktail. Con experiencia en el campo de la programación, apasionado por Internet, con una vida digital muy activa, que sepa trabajar en equipo y sienta gusto por lo que hace.
+QUÉ OFRECEMOS
+Nuestro equipo está formado por Diseñadores de UX, Gestores de Comunidad, Programadores, Analistas de métricas Web, Administradores de Sistemas, expertos en Marketing Online y demás apasionados por Internet.
+Trabajamos en un entorno joven y distendido, con un alto nivel de profesionalidad, donde se fomenta la responsabilidad individual. Nunca te irás a casa sin haber aprendido algo nuevo de tus compañeros.
+QUÉ ESPERAMOS DE TI
+Que puedas trabajar con Magento. 
+Dominio del mundo GNU/Linux, nosotros trabajamos con Debian.
+Conocimientos generales de arquitecturas web: MySQL, Memcached, Git, Javascript…
+Familiaridad y gusto por métodos ágiles de programación, TDD, etc.
+Disposición a conocer, investigar, evaluar y disfrutar de las nuevas herramientas.
+Bola extra: experiencia trabajando con Ruby on Rails, ElasticSearch, Redis, CouchDB, Node.js…
+DESEABLE
+Que no seas alérgico a los perros (tenemos a Maggie en la oficina).

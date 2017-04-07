@@ -1,0 +1,7 @@
+
+Estamos diseñando una pequeña exposición para la que necesitamos desarrollar 4 juegos interactivos concretos, en plataforma Tablet Android.
+Se trataría de un tipo de programación bastante sencilla, integrando elementos que se facilitarían diseñados (imágenes e iconos).
+Se trataría pues de acabar de definir la clase de interacción deseada con nosotros y programarla.
+El presupuesto para ello es limitado (2.400€). Dependiendo de la complejidad final se podría negociar un incremento.
+Gracias de antemano.
+ www.maay.pro

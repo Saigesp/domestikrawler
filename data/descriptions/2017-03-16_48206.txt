@@ -1,0 +1,39 @@
+
+Logismarket, uno de los mayores directorios industriales B2B en Europa y Latinoamérica de empresas y productos de logística, almacenaje, embalaje y equipamiento industrial, precisa incorporar a un/a Front-End Developer para que se responsabilice del desarrollo de las siguientes funciones.
+Funciones requeridas:
+•Maquetación responsive a partir de diseños pudiendo aportar a nivel de diseño en caso de necesidad.
+•Programación en AngularJS 2.x.
+•Velar por las buenas prácticas de desarrollo Front-end.
+•Establecer las directrices de desarrollo UX conjuntamente con arquitectura.
+•Hacer tests funcionales de las maquetas.
+
+Requisitos mínimos:
+•CFGS o estudios universitarios.
+•Persona curiosa, pro-activa, polivalente, con iniciativa y motivación.
+•Capacidad para trabajar en equipo y buena comunicación con los equipos de desarrollo front-end y back-end.
+•Experiencia en maquetación en HTML / CSS3 / Javascript.
+•Experiencia en maquetación web responsive.
+•Experiencia en maquetación cross-browser/dispositivo.
+•Experiencia en solución de problemas de compatibilidad entre navegadores.
+•Conocimientos de accesibilidad y estándares W3C.
+•Experiencia en programación Angular 1.x.
+•Experiencia en trabajo con control de versiones GIT / SVN.
+Requisitos deseados:
+•Conceptualización y diseño de sitios web responsive.
+•Conceptualización y diseño de aplicaciones híbridas.
+•Conocimientos de usabilidad y experiencia de usuario.
+•Experiencia en programación Angular 2.x
+•Experiencia en diseño web, ecommerce y entornos digitales.
+•Conocimientos básicos de SEO.
+•Experiencia en Kendo UI.
+•Experiencia en maquetación sitios internacionales/multiidioma.
+•Creación de wireframes y prototipos.
+•Experiencia en metodologías ágiles de trabajo.
+•Experiencia en maquetación utilizando PUG y SASS
+•Experiencia en maquetación sobre Magento.
+•Experiencia en maquetación sobre Liferay.
+•Experiencia en trabajo con framework híbridos (cordova, etc.).
+•Conocimientos de Adobe Photoshop, InDesign e Illustrator.
+Ofrecemos:
+Proyecto de largo recorrido en una empresa multinacional y en un entorno dinámico.
+

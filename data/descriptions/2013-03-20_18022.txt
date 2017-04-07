@@ -1,0 +1,3 @@
+
+Buscamos un Ingeniero o Ingeniero Técnico en Informática para integrarse en plantilla para el proyecto de desarrollo de activosconcursales.com
+Lo ideal: que tengas experiencia en programación en Symfony 2, PHP. HTML5, CSS3, conocimientos en Javascript, jQuery y AJAX (xml, json).

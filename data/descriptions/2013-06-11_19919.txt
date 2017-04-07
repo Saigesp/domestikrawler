@@ -1,0 +1,22 @@
+
+At a Glance:
+Join our small but very motivated team at Hotelopia online marketing department, with global and international scope, and contribute to our business development, by working closely on important partnerships in different distribution channels such as Meta-Search, PPC, SEO, Affiliate Marketing. 
+What you will be doing: 
+- Work with SQL Server database, pull data from Oracle database into SQL Server, create queries, reports, build dynamic Excel reports using as source data from SQL Server
+- Pull information via XML or CSV from different data sources to load into our database
+- Monitorization of online marketing spent on a daily basis, updating our main KPI reports, dashboards
+- Creation of XML or CSV feeds and upload them into our partner FTPs
+- Analyze profitability of different products and suggest improvements
+- Optimize online campaigns among such partners as Trivago, TripAdvisor, Kayak, etc.
+What we are looking for:
+- Experienced professional with strong analytics, reporting and proactive skills.
+- Team worker with good communications skills
+- Advanced level of English
+- Experience with work using the following:
+* Oracle SQL and PL/SQL
+* Microsoft SQL Server 2008
+* SSIS
+* XML
+* Excel Visual Basic programming
+- Experience in Travel sector will be a plus
+- Previous online marketing experience will be helpful

@@ -1,0 +1,10 @@
+
+En Tilenus Consultores precisamos para proyecto de desarrollo Web un Maquetador con la siguiente experiencia:
+Maquetación de páginas web con HTML 4.01, XHTML 1.0 y CSS 2.012. 
+Desarrollo con Javascript de utilidades y componentes asociados a páginas Web.
+Conocimiento de la normativa vigente en materia de Accesibilidad aplicada a páginas Web.
+Deseable:
+Conocimientos en herramientas de diseño gráfico (Adobe Photoshop, Freehand y similares).
+Desarrollo de componentes dinámicos Adobe Flash con Action Script.
+Herramientas para presentaciones (Power Point). 
+Es un proyecto de larga duración. 

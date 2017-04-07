@@ -1,0 +1,12 @@
+
+Actualmente estamos buscando para uno de nuestros clientes un Analista Programador en Ruby.
+Funciones:
+- Análisis de requisitos, programación, pruebas de entregables, despliegue en entornos Heroku, generación de documentos de especificación, de pruebas, manuales.
+Tecnologías que debe conocer
+- Experiencia de 3 años en desarrollo con Ruby, framework Rails, SQL con Postgres.
+Valorable: PHP, symfony, Heroku, mysql.
+Experiencia con Ruby (v 4.0, V 4.1 o v 4.2.X).
+Experiencia con el lenguaje (versión 2 o superior).
+Experiencia con Rails (4 o superior).
+Lugar de trabajo: Madrid
+Jornada Completa

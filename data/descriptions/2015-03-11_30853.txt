@@ -1,0 +1,28 @@
+
+New Relic
+Senior Full Stack Engineer – Python/Java
+Barcelona, Spain
+At New Relic, we provide our customers with instant and deep insight into their application’s behavior and performance. With our SaaS-based application performance monitoring (APM) solution, we have our customer’s backs by transparently instrumenting their application and reporting issues, often before the customer knows that there is a problem. We give our customers as much information as possible to help them tune their site’s reliability and performance.
+We are looking for an experienced Senior Full Stack Engineer to join our growing team. You will be involved in the entire technology stack and complete tasks such as building web services and apps at large scales and with high availability standards, and ultimately helping shape a complex architecture.     
+As a Software Engineer at New Relic, you will work with some of the best engineers and tackle some of the most complex problems in the industry and as a member of our Barcelona team you’ll help shape and grow the 1st New Relic European development center.
+The right candidate likely has:
+•	A track record of building, releasing, and supporting complex and real time web applications and services
+•	Experience with Python or a similar dynamic language
+•	Experience with asynchronous network frameworks (Twisted preferred)
+•	Working knowledge of database technologies (PostgreSQL preferred)
+•	Comfy with system administration
+•	Solid, demonstrable understanding of scalability, availability and performance
+•	Interest in learning new languages, platforms, and ideas
+•	Great team player skills
+•	Ability to speak fluent English
+•	Authorized to work in Spain (EEA, http://europa.eu/about-eu/countries/ )        
+•	     
+Bonus points for experience in Django, being an Open source contributor, speaking Spanish and mastering drifting skills at MK8.
+To apply please provide a cover letter telling us who you are and why this job, this product, and this company are the place for you, along with a resume that includes links to things you’re proud to have built. 
+A little about us:
+New Relic is a software analytics company that, on behalf of our customers, makes sense of billions of metrics about millions of applications, all in real time. Our comprehensive SaaS-based solution for web and mobile applications consolidates the performance monitoring data into a single, powerful interface. Our 90,000+ customers use New Relic every day to optimize more than three million applications.
+New Relic is a San Francisco Best Places to Work award winner, an Oregon “Top Workplace” award winner, named a leader in the Gartner’s 2013 & 2014 “Magic Quadrant” for APM companies, a Top 100 OnDemand Company, Best of SaaS (THINKStrategies), Top 100 Coolest Cloud Computing (CRN); 10 Cloud Management Companies to Watch (NetworkWorld) – the list of accolades goes on. More important than all of that: we provide challenging work, opportunities to learn, high quality teammates, a standard-setting product, and a company on the move.
+We provide competitive compensation, stock options and big-company benefits (medical, etc.) all while maintaining the energy, agility, and fun of a start-up. We can help with relocation.
+To get started, click on the link below. To fast track your application, let us know in your cover letter why this job, product, and/or company is of particular interest to you.  We look forward to talking!
+#LI-CV1
+Apply Here

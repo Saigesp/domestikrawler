@@ -1,0 +1,13 @@
+
+Buscamos programadores junior para desarrollar una plataforma web bajo Wordpress.
+El candidato deberá:
+1. Tener conocimientos de PHP
+2. Desarrollar temas y plugins para Wordpress (conocimiento medio/alto de la API de Wordpress)
+3. Conocimientos de Javascript y jQuery. El objetivo es integrar la API de Google Maps.
+4. Conocimientos de CSS3 y HTML5
+5. Conocimientos de MySQL
+6. Conocimientos de REST API
+Se valorará positivamente que el candidato tenga alguno de los siguientes conocimientos opcionales:
+1. Java para Android
+2. Objective-C para iOS
+3. Bootstrap CSS, SASS, LESS y Grunt (o gulp)

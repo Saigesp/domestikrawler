@@ -1,0 +1,11 @@
+
+Buscamos programador que viva en Ciudad Real o Alicante ciudad para mantenimiento y mejoras de la website. Persona seria, meticulosa, ágil y formal con experiencia contrastada en comercio electrónico y pagos por internet.
+Experto en conversión a wordpress.
+Características de la web:
+- Estructura e interfaz: HTML5 + CSS3
+- Lenguajes lado cliente (navegador): Javascript, JQuery, AJAX, XML, JSON
+- Lenguaje lado servidor: PHP 5.3 (sin frameworks)
+- Base de datos: MySQL
+- Estructura PHP: POO (Programación Orientada a Objetos)
+- Librerías PHP: PHPMailer (para el envío automático de mails), PHPxls (para la generación de los archivos excel)
+- Plugins Javascript &amp;amp; JQuery: tinymce, audiojs, tablesorter, jquery-cycle, jquery-ui, jquery-validity, jquery-tabs, modernizr, jquery-scrollTo

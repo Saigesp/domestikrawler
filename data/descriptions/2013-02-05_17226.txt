@@ -1,0 +1,3 @@
+
+Programador analista en c# con experiencia demostrable en .Net (FrameWorks 2, 3 y 4), ASPX / MVC, SQLServer, LINQ, JQuery, HTML5 y XML.
+Se valorarán conocimientos de modelado orientado a objetos, programación gráfica y cualquier otra experiencia de demuestre capacidad para la resolución de problemas lógicos (desarrollo XNA, creación de modelos abstractos, etc.).

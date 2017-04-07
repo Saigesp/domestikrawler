@@ -1,0 +1,20 @@
+
+Kodens es una nueva empresa de rápido crecimiento dedicada al desarrollo web y de aplicaciones móviles. 
+Actualmente estamos buscando un desarrollador web junior para incorporarse de inmediato.
+Nuestro candidato ideal debe tener conocimientos/habilidades en lo siguiente:
+- Maquetación en HTML5/CSS3 con Bootstrap
+- Javascript
+- PHP
+- Autosuficiencia y capacidad de tomar decisiones de forma independiente
+Valoraremos adicionalmente los siguientes conocimientos:
+- Wordpress
+- jQuery / AngularJS
+- ASP.NET / C#
+- Control de versiones con GIT
+¿Qué ofrecemos?
+- Un salario competitivo
+- La posibilidad de trabajar desde casa (o desde donde quieras)
+- Oficina bien comunicada en Madrid Capital
+- Ambiente de trabajado flexible e informal
+- Oportunidad de crecer profesionalmente siendo uno de los primeros empleados en una empresa en plena expansión 
+

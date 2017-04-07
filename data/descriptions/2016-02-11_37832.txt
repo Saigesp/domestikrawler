@@ -1,0 +1,28 @@
+
+Buscamos un Gestor de Proyectos en Drupal para que se incorpore en uno de nuestros proyectos mas importantes.
+Atlántida TI cuenta con más de 20 años de solidez empresarial en mercado español de las Tecnologías de la información y las comunicaciones. Colaboramos con las mayores compañías nacionales e internacionales, aportando la experiencia y el conocimiento del modelo de negocio.
+Salario 
+27.000€ - 30.000€ Bruto/año
+Experiencia mínima 
+Al menos 2 años
+Conocimientos necesarios 
+o	Accesibilidad 
+o	CMS 
+o	Drupal 
+o	Entorno 
+o	Gestión 
+o	jQuery 
+o	PHP 
+o	Tecnologías de la información
+Requisitos mínimos 
+Se requiere: Imprescindible experiencia previa en proyectos complejos en diferentes CMS, especialmente Drupal 
+Programación en Php y Jquery, y entornos de programación abiertos 
+Usablilidad 
+Accesibilidad 
+Administración Drupal 
+Creación de tipos de contenido, vistas, gestión de usuarios, reglas
+Requisitos deseados
+Valorable experiencia en: 
+Maquetación Html5, css3, diseño adaptativo - Web Design 
+Accesibilidad y estándares W3C 
+Herramientas de diseño gráfico.

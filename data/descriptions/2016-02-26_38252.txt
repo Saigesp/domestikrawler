@@ -1,0 +1,14 @@
+
+Hola!
+Buscamos un programador freelance para hacer pequeñas colaboraciones con varios proyectos.
+Conocimientos requeridos:
+- PHP, al menos un año de experiencia demostrable.
+- Conocimiento de frameworks de desarrollo (indicar cuáles).
+- Conocimiento de frontend (HTML, CSS, javascript...)
+- MySQL y gestores de bases de datos.
+Conocimientos deseables:
+- Node.js y MongoDB
+- Android/Java y/o iOS nativo
+Es un requisito muy importante estar en Barcelona o cercanías, puesto que habrá varias reuniones de seguimiento durante los primeros proyectos.
+Indispensable poder emitir facturas.
+Si crees que das el perfil y realmente te interesa la oportunidad, ponte en contacto con nosotros!

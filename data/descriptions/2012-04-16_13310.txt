@@ -1,0 +1,11 @@
+
+En Sernew Consultores precisamos para incorporación en plantilla tres PROGRAMADORES BACKEND SENIOR con experiencia en desarrollos Web con .Net: 
+- .Net (C# y Visual Basic.Net) 
+- Visual Studio 2005 (Framework 1.1 y 2.0) 
+- Ajax 
+- Javascript 
+- Maquetación HTML 
+- XML, XSLT 
+- Experiencia en desarrollos en distintos navegadores. 
+- Desarrollos en 3 capas 
+- SQLServer 2005 

@@ -1,0 +1,10 @@
+
+Buscamos empresa o programador PHP freelace con previa experiencia en Google Maps y Zend Framework que se encargará de la continuación de un proyecto web.
+Se requiere experiencia en e-commerce, sobre todo en la implementación de pasarelas de pago.
+Mencionamos que el proyecto usa:
+    Google Maps
+    Zend Framework 1
+    PHP
+    Mysql
+    jQuery
+    Bootstrap

@@ -1,0 +1,5 @@
+
+Buscamos un Front-End developer freelance, con disponibilidad para varios meses de trabajo intenso.
+Estamos desarrollando nuestra web responsive y nuestras Apps híbridas (web-views), por lo que necesitamos alguien con mucha experiencia en desarrollos para móviles, incluyendo iPhone 6. Estamos utilizando Foundation como framework y nuestro back está en Ruby on Rails.
+La incorporación sería inmediata y te necesitaríamos casi al 100% durante unos meses, pasados los cuales seguiríamos contando contigo de manera continua.
+No es necesario trabajo presencial, aunque estaríamos encantados de que vinieras por nuestras oficinas.

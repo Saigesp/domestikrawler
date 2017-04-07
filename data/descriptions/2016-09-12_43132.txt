@@ -1,0 +1,20 @@
+
+¡En Quantion buscamos ampliar equipo incorporando Desarrolladores Web Senior (Node.js, HTML5/CSS3)! Si quieres formar parte de una empresa dinámica, innovadora y con un buen ambiente de trabajo, ¡Te esperamos!
+Necesitamos perfiles de Desarrollo Web con 1-2 años de experiencia en:
+- Node.js 
+- HTML5/CSS3
+- JS
+- Angular
+- Linux
+- Git
+Se valorará experiencia en: 
+- Wordpress
+- MongoDB
+- MySQL
+- Video Streaming
+- Mocha
+- Jasmine
+- Sinon
+- Bootstrap
+- Grunt/Gulp
+Buscamos una persona apasionada por la tecnología, abierta, agradable y que se sienta cómoda trabajando en equipo.

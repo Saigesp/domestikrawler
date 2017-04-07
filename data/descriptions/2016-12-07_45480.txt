@@ -1,0 +1,16 @@
+
+Quantion es la empresa especializada en estrategia y tecnología para las empresas del futuro. En plena Era Digital acompañamos a las empresas y organizaciones en la transformación digital de sus procesos de negocio.
+Nos caracterizamos por nuestro ADN digital, la ilusión por nuevos retos y porque todos nuestros proyectos consisten en aportar la innovación tecnológica que necesitan nuestros clientes. En Quantion te ofrecemos la posibilidad de desarrollarte tanto profesional como personalmente en un ambiente dinámico, creativo y tecnológico.
+Buscamos un perfil maquetador/a web con experiencia en:
+- Maquetación responsive 
+- HTML 5 
+- CSS3 
+- JavaScript (JQuery, Programación modular, patrones,..) 
+- Conocimientos de frameworks: 
+- Bootstrap 
+Se valorará: 
+- SASS 
+- Conocimientos de PHP, Wordpress i Magento, de como maquetar. 
+- Conocimientos de control de versiones GIT. 
+- Photoshop 
+- Invision / Axure / Adobe User experience

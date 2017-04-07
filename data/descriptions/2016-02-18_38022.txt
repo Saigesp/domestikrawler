@@ -1,0 +1,9 @@
+
+Somos una empresa que realiza multitud de proyectos Web con diferentes tecnologías.
+Estamos buscando personas freelance que colaboren con nosotros en proyectos basados en Word Press, tanto en el diseño, maquetación y programación.
+Necesitamos que tenga conocimientos y experiencia en:
+- Instalación, adaptación y personalización de Word Press.
+- HTLM5, CSS3, JQuery, 
+- MySQL
+- PHP
+Si estás interesado envíanos tu CV con tu propuesta económica de precio/hora y un porfolio con algunos de tus trabajos. Aunque el importe económico se cerrará antes de comenzar los proyectos.

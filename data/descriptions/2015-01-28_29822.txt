@@ -1,0 +1,25 @@
+
+Estamos buscando un Backend Developer para Fancy Box, una de las startups lanzadas desde Antai, la incubadora del Grupo. ¿Estás interesado o conoces alguien que lo pueda estar? No dudes en enviarnos tu CV o en hacer llegar esta información a quien encaje en el perfil. 
+Te contamos las tareas que desarrollará la persona que se incorpore. Desde el Departamento Técnico de Fancy Box será responsable de ejecutar los desarrollos técnicos de la plataforma. La posición también incluye la participación en reuniones de producto para decidir la implantación nuevas funcionalidades. 
+¿Qué requisitos pedimos?
+Imprescindible
+3 años demostrables en desarrollo de aplicaciones web
+Conocimiento muy alto del entorno LAMP (Linux Apache MysqlPhp)
+PHP5.4 imprescindible: traits, Closures
+Patrones de programación objectoriented: observer, adapter, decorator, proxy, composite, factory.
+Al menos 3 años de experiencia con frameworksymfony 2 y de orientación a datos: Doctrine, security, routing, creación de Bundles y configuración con ExtensionClasses, services, eventdispatcher, dependencyinjection, composer, environments, twig. Cuidado y orden a la hora de aplicar las buenas prácticas y organización de clases/código.
+Conocimiento de Elasticsearch/ELastica/FOSElasticaBundle
+Al menos 1 año de experiencia con un git: ramas remotas, rebase, merge, cherry-pick
+Deseable
+Experiencia con GitHub - modelo de colaboracionFork&Pullrequest
+Amazon AWS (Ec2, S3, ELB, Cloudfront)
+Dominio de javascript (ECMAScript5.1) y JQuery
+Conocimiento del estado del arte del mundo web (html5, css3, bibliotecas javascriptmvc
+Buscamos personas  proactivas,  resolutivas y entusiastas. Esperamos que la persona que se incorpore lo sea y que, además, esté dispuesta y sea capaz de desarrollarse en un equipo pequeño. 
+¿Qué ofrecemos?
+- Incorporación inmediata. 
+- Interesante paquete retributivo 
+- Lugar de trabajo: Barcelona. (C/Valencia, 333)
+Si encajas en este perfil no dudes en hacernos llegar tu CV a:  alessia@befactory.es. ¡Estamos deseando conocerte!
+ www.fancybox.comes unaE-commerce con presencia en Argentina, Chile, Colombia, México y Perú (próximamente también en Uruguay) que actúa como una plataforma de marketing 360º para marcas de productos cosméticos y de bienestar, proporcionándoles servicios de Business Intelligence y dedicándose, además, a la comercialización de productos online.
+

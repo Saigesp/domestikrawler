@@ -1,0 +1,10 @@
+
+Buscamos un consultor en prácticas que se incorpore al Departamento Técnico para apoyar en proyectos SEO y Analítica Web.
+Las funciones a realizar tienen un fuerte componente técnico (análisis y mejoras SEO relacionadas con el código de programación Web, configuración avanzada de la herramienta Google Analytics), de análisis de altos volúmenes de datos (mercado de búsquedas, analítica web) y de elaboración de informes a clientes.
+Es imprescindible tener conocimientos y experiencia en Excel, Google Analytics y Arquitectura y Lenguajes de Programación Web. Se valorará especialmente haber desarrollado o participado en proyectos reales de diseño y desarrollo web con implantación de analítica web.
+Tras un periodo de prueba máximo de 3 meses en jornada parcial, en función de la capacidad demostrada por el candidato para el puesto, se pasará a un contrato a Jornada completa.
+Requisitos:
+- Experiencia de al menos 6 meses en proyectos SEO y Analítica Web.
+- Conocimientos avanzados y experiencia en EXCEL.
+- Conocimientos de lenguajes de programación web (HTML, CSS, PHP). Se valorará experiencia en desarrollo de sitios web
+- Certificación en Google Analytics. Se valorará experiencia en implantación de la herramienta.

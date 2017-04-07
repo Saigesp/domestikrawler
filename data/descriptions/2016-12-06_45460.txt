@@ -1,0 +1,23 @@
+
+Quiénes somos / Sobre la empresa
+MadPlay Games es una startup en la que desarrollamos y distribuimos videojuegos móviles. Somos un equipo apasionado por los juegos y actualmente estamos trabajando en nuestro tercer juego. Además hemos sido seleccionado por Lanzadera, una de las aceleradoras más importantes de España, para su cuarto programa de aceleración.
+Descripción del trabajo
+Recoger especificaciones, diseñar soluciones e implementarlas con código robusto. Cumplir deadlines sin comprometer la calidad del código. Prototipar rápidamente para probar funcionalidades. Escribir código que se pueda poner directamente en producción.
+Requisitos mínimos
+¡Te encanta jugar y hacer videojuegos!
+Experiencia en programación orientada a objetos en lenguajes como C++, java, etc.
+Experiencia en desarrollo de lógicas de juego, IA, pathfinding, etc.
+Capaz de trabajar bajo presión y realizar el trabajo con plazos muy ajustados, sin comprometer la calidad del código entregado.
+Comunicarse de forma efectiva con todos los miembros del equipo.
+Será un plus
+Experiencia en Unity 3D
+Experiencia en C#
+Conocimiento excelso de videojuegos y su sector
+Ofrecemos
+Salario competitivo
+Plan de carrera y promoción
+Contrato indefinido desde el primer día
+Trabajar en una empresa de videojuegos en continuo crecimiento
+Oficinas abiertas 24x7 con cafetería y cocina
+Unirte a un equipo con mucho talento
+Flexibilidad horaria y teletrabajo

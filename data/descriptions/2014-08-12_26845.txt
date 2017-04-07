@@ -1,0 +1,13 @@
+
+Se requiere de programador Frontend con experiencia en diseño de interfaces web y móviles con las siguientes características:
+1. Diseño de interfaces web y mobile (Manejo de algún editor de imágenes)
+2. Maquetación HTML5, CSS3, Bootstrap (responsive)
+3. Programación OOP en lenguaje javascript, uso de librerías como Jquery, backbone, angularjs
+Se valorará muy especialmente:
+1. Programación OOP en lenguaje PHP y uso del framework Symfony2
+2. CMS como Wordpress, Joomla, Drupal... etc
+3. Conocimiento de entornos LAMP
+4. Conocimiento de algún sistema de versiones como GIT o SVN
+5. Conocer o haber trabajado con alguna metodología ágil, en especial SCRUM
+Sobre iventiajobs.com
+Iventiajobs.com es un portal de empleo de empleo para el sector eventos, moda y publicidad. Además de gestionar empleos y trabajos para perfiles como modelos, azafatas y promotoras, desarrolla proyectos tecnológicos, aplicaciones web y móviles para agencias de publicidad de toda España. 

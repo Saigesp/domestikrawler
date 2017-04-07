@@ -1,0 +1,20 @@
+
+Hola. 
+En factorsim estamos creando un proyecto espectacular y ambicioso y buscamos un desarrollador/a iOS con conocimientos y dominio de las siguientes tecnologías: 
+- iOS SDK 
+- Objective-c 
+- Cocoa framework
+- X-code 
+- MVC 
+- Ingles hablado y escrito
+Se valorarán conocimientos y/o experiencia de:
+- Swift 
+- Usabilidad y accesibilidad 
+- PHP. Experiencia en desarrollo web con PHP y en algún framework MVC (Symfony, Zend Framework...) 
+- Experiencia en integración de librerías
+Requisitos:
+- Incorporación inmediata 
+- 2 años de experiencia demostrable y referencias de aplicaciones publicadas en el Itunes Store.
+Buscamos un profesional con experiencia, ágil, dinámico, resolutivo, con capacidad para el trabajo en equipo y atención por el detalle. Una persona comprometida y competitiva interesada en liderar el desarrollo en IOS de un nuevo producto.
+A la hora de enviar la información se solicita adjuntar detalle de la experiencia y portafolio. Buscamos un perfil para incorporar al equipo de trabajo, no un freelance o una empresa :).
+¡Gracias!

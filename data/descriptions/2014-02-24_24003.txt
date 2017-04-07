@@ -1,0 +1,14 @@
+
+Buscamos a una persona proactiva y motivada, para ejercer de Jefe de Proyecto en proyectos de cierto tamaño.
+Realizará el mantenimiento preventivo/correctivo de lo existente, e implementación de pequeños desarrollos. Con capacidad de solucionar en tiempo real y de forma autónoma lo que vaya surgiendo.
+Debe manejar con las siguientes tecnologías:
+- CMS´s: LIFERAY, Drupal, WordPress
+- Bases de Datos: Postgress, MySQL, SQL Server y MongoDB
+- Lenguajes de programación: PHP, C#, ANSI C, C++, Java
+- Herramientas de desarrollo: Eclipse, Visual Studio .NET, NetBeans
+- SO/Hardware: (Centos, Ubuntu, Xen Server)
+- Otras: Typo3, Symfony 1.4, Symfony 2,Tomcat 6, JBoss AS 5, UML, XML, XSLT, HTML5, CSS3, JSON
+De todas, LIFERAY es de vital importancia y será la que más se valorará para tomar la decisión.
+Contrato por obra y servicio hasta final de año,  con posibilidad de indefinido después.
+Salario en función de valía y experiencia del candidato.
+Desarrollará su labor en Madrid, cercano a Moncloa.

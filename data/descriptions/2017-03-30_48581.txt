@@ -1,0 +1,23 @@
+
+Buscamos a una persona para contrato en Prácticas de Diseño y Maquetación Web para incorporación inmediata.
+Estamos buscando una persona que participe en el diseño y desarrollo de páginas webs de proyectos para nuestros clientes. Buscamos una persona con ganas de poner en práctica sus conocimientos y experiencia en desarrollo Front-End y Diseño Web, etc. a ser posible con una buena formación, pero sobre todo con ganas de aprender, colaborar con los compañeros y enfrentarse a cualquier reto que un cliente nos plantee.
+Requisitos:
+• Conocimientos de desarrollo Front End para realización de webs a medida (sin plantillas) y para mantenimiento y modificaciones de web existentes. (HTML5, CSS3 y media queries, jQuery, Javascript, responsive design, PHP y MySQL...).
+• Conocimiento de diseño y desarrollo A MEDIDA sobre CMS (WordPress, Prestashop, Drupal, Magento o desarrollos para nuestros clientes).
+• Uso de programas de diseño a nivel avanzado de diseño digital (Photoshop, Illustrator, InDesign, Fireworks).
+• Conocimientos de Optimización Web y WPO para trabajar en conjunto con el Departamento SEO.
+• Envíar Portfolio de trabajos, página de GitHub o similar.
+Nos gustaría que te interesara o supieras:
+• Git / Github
+• Conocimientos de Apache2 y Nginx.
+• Conocimientos de SASS o LESS
+Tenemos en cuenta:
+• Experiencia en el sector
+• Buen criterios para el diseño, usabilidad y UX.
+• Alta motivación por el trabajo en equipo y mejora continua, entusiasta por el desarrollo, diseño y nuevas tecnologías.
+Se ofrece:
+• 6 meses de prácticas renovables, con posibilidad de entrar en plantilla fija.
+• Horario 6 horas al día (9 a 15 horas de L-V).
+• Integración en un equipo joven con profesionales de múltiples disciplinas.
+• Oficinas cerca del Metro en Línea 10 (Alcobendas, MADRID).
+• Incorporación Inmediata

@@ -1,0 +1,48 @@
+
+Requisitos:
+•	Programación: Conocimientos avanzados de lenguajes de programación tales como:
+-	PHP
+-	HTML5
+-	CSS3
+-	Javascript y jQuery
+•	Conocimientos en maquetación web avanzados, técnicas CSS3 actuales.
+•	Conocimientos en BBDD (MySQL)
+•	Conocimientos avanzados de eCommerce: WooCommerce
+•	Conocimientos avanzos en CMS Wordpress. Modificación y creación de templates y plugins.
+•	Técnicas de maquetación y contenidos web orientados a SEO, conexión con redes sociales.
+•	Conocimientos en diseño y desarrollo web Responsive 
+•	Conocimientos de adecuación de web para Google Console.
+•	Conocimientos en optimización de recursos web, velocidad de carga, análisis de errores...
+•	Experiencia en desarrollo Cross Browser.
+Otros requisitos importantes:
+•	Conocimientos básicos de redes y sistemas operativos: mantenimiento de sistemas, hardware, configuración de dispositivos de red, manejo de copias de seguridad. (Mantenimiento de instalación informática).
+•	Conocimientos de configuración de hosting, dominios, correo electrónico, zonas DNS, paneles de gestión de alojamiento web.
+Conocimientos extra a valorar:
+•	Conocimientos en Analítica Web (Google Analytics), SEO y SEM.
+•	Manejo de API's de Google y Facebook para analíticas.
+•	Manejo de herramientas de diseño gráfico: Photoshop, InDesign/Illustrator
+•	Conocimientos de diseño web orientados a marketing digital.
+•	Gestión de proyectos
+•	Conocimientos en administración o programación para otros CMS: Prestashop, Magento, Drupal, Joomla, etc.
+•	Conocimientos en desarrollo de Apps 
+Competencias:
+•	Alta creatividad: creatividad y preferencia por el diseño elegante, detallista y exquisito
+•	Capacidad de organización y trabajo en equipo
+•	Proactividad
+•	Iniciativa
+•	Responsable
+•	Orientación a resultados y al cliente
+•	Pasión por tu trabajo y por aprender constantemente las novedades de tu profesión. 
+Funciones: 
+•	Coordinar la imagen web de la empresa y la de sus clientes en todos los soportes
+•	Diseño y maquetación (HTML+CSS) de sitios web multidispositivo (web responsive): diseñar, desarrollar, programar, analizar, administrar, configurar y optimizar diferentes webs (Wordpress) multiidioma. Con programación a medida PHP.
+•	Diseño y maquetación web. 
+•	Creación de landing pages. 
+Experiencia: 
+•	Mínima de dos años
+Ofrecemos: 
+•	Contrato indefinido de jornada completa (40 h semanales)
+•	Horario: Lunes a Jueves de 9:00 a 14:00 y de 15:00 a 18:45; Viernes de 9:00 a 14:00.
+•	Ubicación: Valencia
+•	Posibilidad de crecimiento constante
+

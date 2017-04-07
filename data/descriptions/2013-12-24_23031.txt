@@ -1,0 +1,12 @@
+
+Se precisa desarrollador front-end freelance con disponibilidad para colaboraciones continuadas.
+Requisitos:
+- HTML5 (Buen marcado semántico y validaciones)
+- Conocimientos de SEO onpage
+- SASS y LESS
+- Bootstrap
+- OOCSS
+- CSS3
+- jQuery
+- Wordpress
+Abstenerse estudios o agencias (solo freelances) y sólo contactar si se puede demostrar experiencia en los requisitos especificados.

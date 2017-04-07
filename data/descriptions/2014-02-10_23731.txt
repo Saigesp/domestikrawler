@@ -1,0 +1,19 @@
+
+Kuorum.org es una startup social que quiere salvar la brecha entre la clase política y la sociedad.
+En estos momentos, buscamos a un maquetador/front developer freelance para realizar las siguientes tareas de la nueva fase en la que nos hemos involucrado.
+Las responsabilidades serán las siguientes:
+- Trasladar PSD a HTML5 y CSS
+- Integrarse con el equipo de back
+- Experiencia con JQuery
+- Experiencia con diseños responsive (se admite bootstrap)
+- Conocimientos de SEO
+- Comprender el producto y defender su calidad.
+- Velar por la calidad y coherencia de la experiencia de usuario.
+Requisitos mínimos
+Portfolio online.
+2 años de experiencia demostrable en:
+- HTML5
+- CSS3
+- Javascript(Jquery)
+- Responsive Web Design
+Abstenerse aquellos que no puedan trabajar en Madrid.

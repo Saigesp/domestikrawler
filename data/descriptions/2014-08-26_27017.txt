@@ -1,0 +1,13 @@
+
+El/la candidata/a ideal debe poseer conocimientos de:
+- HTML5
+- CSS3
+- jQuery
+- JavaScript
+- Responsive Web Design (RWD)
+Se valoran conocimientos en: SEO, SEM y UX.
+En cuanto a experiencia, se valora:
+- HTML: Código limpio y semántico. Optimizado para el rendimiento de la página.
+- CSS3
+- Responsive Web Design
+- Código accesible según estándar WAI AA

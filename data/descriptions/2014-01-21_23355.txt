@@ -1,0 +1,43 @@
+
+En aspiring buscamos un desarrollador freelance o estudio para la nueva web eCommerce de nuestro cliente.
+Qué necesitamos:
+o Propuesta inicial: planteamiento del proyecto y consultoría de su desarrollo.
+o Presupuesto de la consultoría.
+o Fases y timings estimados para el proyecto.
+o Presupuesto de desarrollo.
+Requerimientos para el asesoramiento y desarrollo de la nueva web
+‐ El planteamiento inicial es partir de un look&feel ya diseñado. (estamos abiertos a mejoras/alternativas)
+‐ Necesidad de distinguir experiencias de navegación en función del tipo de cliente que
+acceda a la web
+o Establecer una diferenciación de cliente inicial que limite o expanda el número
+de elementos disponible en la web:  Distinguir entre: • Instituciones • Distribuidores • Pymes
+o En función del tipo de cliente, debería accederse a una web con más o menos
+opciones de menú iniciales
+‐ Migrar a un modelo con un menú web de varios niveles
+o Requiere simplificación del árbol de menú
+o Menú 100% responsive y que comprenda muchos niveles de categorización
+o Asesoramiento en la reestructuración de la arquitectura del contenido
+‐ Programación Open Source
+o Necesario software que tenga soporte: Prestashop, Magento, Wordpress, etc.
+‐ Necesaria integración con SAGE
+o Se necesita cruzar la base de datos ya existente de clientes con la base de
+datos que se generará a partir de la web. Es indispensable hallar una solución
+para este tema.
+o Es necesario determinar el método o solución para actualizar únicamente un
+backend de producto, y no tener que hacerlo por separado, en SAGE y en la
+web, como se está haciendo actualmente.
+‐ SEO In Page
+o Mejorar posicionamiento orgánico mediante implantación de soluciones in
+page dentro y fuera de código.
+‐ Proceso de compra simplificado + Proceso de solicitud de más información en
+determinados productos.
+‐ Implementación de métricas y formación sobre su uso
+o Correcta implementación de Google Analytics
+o Configuración de herramienta de conversiones
+o Configuración de métricas de abandonos vs conversiones
+‐ Mejora del proceso de backend
+o Explotación de datos de los clientes
+o Creación de grupos de usuarios
+o Creación de descuentos para categorías
+o Integración de módulos de envío (SEUR)
+‐ Integración del blog de noticias como generador de confianza/leads.

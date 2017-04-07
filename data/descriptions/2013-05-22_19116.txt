@@ -1,0 +1,6 @@
+
+El puesto es PRESENCIAL EN MADRID y a JORNADA COMPLETA con contrato fijo.
+Buscamos un programador de PHP con experiencia en WordPress.
+Se valorará conocimientos de Javascript/jQuery, Bootstrap y Git.
+El puesto está enfocado al mantenimiento y desarrollo evolutivo de un portal montado sobre WordPress.
+

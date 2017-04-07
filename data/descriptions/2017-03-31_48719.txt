@@ -1,0 +1,18 @@
+
+Empresa con equipo joven y multidisciplinar, buscamos un programador php para el desarrollo de diferentes portales, webs y plataformas de la empresa.
+A ser posible con experiencia en maquetación, se valorará aporte de porfolio sobre los temas deseados.
+Trabajo en equipo, proactivo.
+Requisitos mínimos: 
+- php 
+- javascript, jquery 
+- css3 
+- html5 
+- mysql, postgres
+- bootstrap
+- programación orientada a objetos 
+- conocimiento de estructuras JSON
+Requisitos deseados: 
+- ionic 2
+- angularJS 
+- Sass
+Incorporación inmediata.

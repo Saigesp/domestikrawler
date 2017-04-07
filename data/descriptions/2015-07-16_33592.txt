@@ -1,0 +1,26 @@
+
+Sólo lo impensable es imposible. Cuando empezamos nuestro proyecto hace 6 años, nuestra visión de cambiar la experiencia de los clientes en todo el mundo sonaba a ciencia ficción. Hoy en día es más real que nunca, pero no es suficiente.
+Queremos seguir reinventando la forma en la que los clientes interactúan con los espacios físicos, la forma en que la gente piensa acerca de ellos y la forma en que experimenta el tiempo que pasan en ellas. Si quieres ayudarnos a transformar el paradigma de la experiencia del cliente y redefinir el concepto de “estar" en un espacio físico, queremos que trabajes con nosotros.
+Buscamos talento para formar parte del equipo STAY y nos acompañe en nuestro camino para transformar la experiencia del cliente. Si crees que cumples con los requisitos envíanos tu C.V.
+Buscamos un/a iOS Developer con al menos 2 años de experiencia en el desarrollo de aplicaciones móviles y con al menos 2 apps publicadas, preferentemente transaccionales:
+Requerimos: 
+- Experiencia de Desarrollo de iOS SDK. 
+- Experiencia en programación: Objective C. 
+- Experiencia en integración de Servicios web (SOAP, REST, JSON, XML). 
+- Conocimiento de programación orientada a objetos y patrones de diseño. 
+- Experiencia demostrable en la distribución de apps en los stores correspondientes ( AppStore). 
+- Experiencia en debugging y optimización de código. 
+- Experiencia en trabajo con versionado de código y control de versiones. 
+- Experiencia data tracking. 
+- Experiencia desarrollo basado en Localización/Posicionamiento. 
+- Experiencia en el uso de social media APIs.
+Se valorará: 
+- Habilidad para identificar nuevas funcionalidades y definición de interfaces gráficas. 
+- Habilidad para establecer timelines y tiempos de ejecución de forma efectiva. 
+- Alto conocimiento en usabilidad y guías de estilo en tecnología móvil. 
+- Buen nivel de inglés.
+- Estudios Deseables: Ingeniero Técnico- Técnico en informática de Sistemas
+Ofrecemos:
+Incorporación inmediata, contrato indefinido, salario competitivo y Plan Formativo-Carrera.
+La oportunidad de incorporarse a un gran equipo y ser parte de una compañía única.
+Puesto de trabajo en Madrid (C/Consuegra 7). Horario: Lunes a jueves de 8:00-9:30h a 17:30-19h (horario flexible); Viernes de 9h a 15h.

@@ -1,0 +1,17 @@
+
+Oonair is building the new social video platform to help people simply ask their friends or experts befor buying something, turning doubts in sales.
+At Oonair we're looking for a lead UX/UI developer. As a UX/Ui leader, candidate will be responsible of analyzing usability challenges of new products and features and Oonair, turn them in superb user interfaces, build rapid prototypes and wireframes and finally, deliver superior quality cross compatible HTML and CSS using state-of-the-art techniques. Candidate will be also in charge of desing and usability of our products for iPhone, iPad and Android platforms, working in cooperation with the platform developers and the product manager.
+Position can be half day or full day depending on several points both the candidate and the product manager will review during the hiring process.
+Required skills
+Proficieny in rapid design &amp; prototyping tools.
+Deep knowledge of HTML and CSS technologies.
+Knowledge of Javascript(jQuery is a plus)
+Desired skills 
+Knowledge and usage of analytic tools.
+Mobile Design
+Knowledge and usage of analytic tools.
+CSS pre-processors.
+Responsive Design &amp; frameworks (preferably, bootstrap).
+Source Code Management Tools(Git or BitBucket/Mercurial).
+Agile Development Metholodogies (scrum, kanban,...).
+HTML/JS testing (Ideally, Selenium or similar).

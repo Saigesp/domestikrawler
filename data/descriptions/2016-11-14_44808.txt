@@ -1,0 +1,36 @@
+
+Please, Before you apply for this position, take into account that: 
+We are Alternative Consulting People. Digital native, international, talented, and funny.
+We work so close to the client, that we are considered its in-house digital department.
+We work in a disruptive space, where we experiment on always improvement processes.
+Mission
+To create a data-driven culture and ecosystem within company, which will serve to develop profitable models that make a positive impact in our clients, people, stakeholders, and most importantly, for the world.
+Outcomes
+Programming and Planning Digital Media campaigns:
+- Purchasing and analysing the effectiveness of any campaign in real time, i.e. executing campaign optimisations on the go, through Social Media and any other digital platform as required.
+- Preparing cost estimates for customers and produce investment updates throughout the campaign.
+- Getting the most out of social media and digital buzz listening to assist real time optimisation.
+Build a Digital Media Planning and Buying ecosystem for our clients:
+- Identifying the best digital media platforms where to either bid or run any given campaign.
+- Defining how to target audiences for every campaign and deciding the best way of communicating to the intended ones.
+- Creating a comprehensive and agile content and ad tagging system to be applied end-to-end across the whole production value chain by all the involved teams.
+- Negotiating with publishers for the best rates and spaces of the most appropriate media cannel and platform according to every campaign.
+Extracting learnings from any campaign to feed the next strategy, content, and media planning:
+- Reporting paid media performance and budget expenditure per channel or media platform.
+- Aligning with content planning before and after campaign, taking into account accumulated learning from past campaigns, strategies and context.
+What we are looking for:
+- Programmatic Buying, with particular emphasis on Real Time Bidding,
+- Local Ad Servers, Google Adsense and Adwords, Google Display, Mobile Ads, Facebook Ads, Twitter Ads, etc
+- Extraordinary capability for complex analysis and synthesis.
+- Proficiency on Advanced Statistics Modeling techniques, regression techniques, e.g. logistic regression, supervised learning, decision trees, random forests, etc.
+- Relational Algebra.
+- Expert on statistical computing packages, SPSS, SAS, R programming (ggplot, lattice), etc.
+- Proficient on visualisation frameworks and systems, e.g. GraphML, NodeXL, Tableau, D3.js, Flare, Beckon, Tickr, Klipfolio, etc.
+- Experience with xaaS, like AWS, MS Azure, etc.
+- Professional proficiency in English
+Very valuable knowledges and skills:
+- Capability on building algorithms and Predictive Modeling (PMML).
+- Scripting Languages: Java, C++, C#, Scala, Python, PHP.
+- DataBase languages, SQL, NoSQL, PostgreSQL, etc. Parallel query processing.
+- APIs programming, like REST, .NET, Java, Javascript, TWAIN, etc.
+

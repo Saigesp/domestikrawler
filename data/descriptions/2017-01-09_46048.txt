@@ -1,0 +1,27 @@
+
+Somos una joven empresa madrileña que le va a dar la vuelta al mercado como si fuera un calcetín.
+TU PRINCIPAL OCUPACIÓN 
+Estamos buscando una persona que se dedicará a: 
+> Desarrollo de iOS / Android para nuestra APP
+> Integración de API´s de terceros 
+> Documentación de API, código y procesos
+> Creación de webservices
+CONOCIMIENTOS 
+Los conocimientos que necesita para desarrollar su trabajo son: 
+> Swift, Xcode and Objective C / Android Studio y Java
+> Arquitectura de la aplicación en iOS / Android
+> Integración de APIs de terceros (especialmente las de Google)
+> Construcción y testeo de la aplicación de manera estable con APIs evolutivas
+> Orientación a analíticas a lo largo del desarrollo.
+> Sistemas de control de versiones: git, svn. 
+Y ADEMÁS
+  > Si estás motivado y quieres mostrar tus conocimientos al mundo
+  > Si estás dispuesto a aportar ideas y soluciones a los problemas
+  > Si tienes flexibilidad para adaptarte rápidamente a los cambios
+  > Si te gusta trabajar en un equipo pequeño pero dinámico y compacto
+Entonces este es tu sitio
+¿QUÉ OFRECEMOS? 
+Nuestra oficina mola un montón y aquí vas a pasar muchas horas pero te lo vas a pasar genial. 
+Como estamos empezando, los comienzos son duros pero muy satisfactorios... además de un futuro prometedor. 
+Vas a tener toda la autonomía del mundo para trabajar. 
+Tendrás un horario muy flexible y una valoración por objetivos... vamos, lo que nos gusta a todos.

@@ -1,0 +1,27 @@
+
+Importante Agencia de Publicidad, ofrece puesto de trabajo para el Área de Estudio, desarrollando principalmente piezas digitales y campañas On line.
+A corto plazo, el puesto se centrará fundamentalmente en la producción de piezas display en Flash y Landings/emailings HTML. Prestando puntualmente soporte grafico al equipo creativo.
+* Requisitos :
+- Mínimo 3 años de experiencia demostrable trabajando con Flash.
+- Experiencia en el planteamiento de diseño grafico orientado a digital (web, móvil y banners).
+- Experiencia en proyectos desarrollados en HTML, CSS y JS.
+- Conocimiento y práctica en el uso de la suite Adobe (Flash, Photoshop e Illustrator fundamentalmente)
+- Buena actitud, pro actividad e interés por el diseño/desarrollo On line)
+- Capacidad para trabajar en equipo.
+* Descripción del puesto:
+- Desarrollo integral de campañas On line (banners, display estandars y rich media, emailings, Landings HTML, catálogos interactivos .... )
+- Maquetaciones HTML/CSS aplicando librerías de JavaScript/jQuery (front-end).
+- Desarrollo y planteamiento de plantillas graficas y otros elementos gráficos necesarios para web (desktop, Tablet o Mobile) a partir de una línea grafica definitiva.
+* Deseable:
+- Conocimiento de Adobe Edge.
+- Experiencia en Agencias Creativas o de medios en la producción de piezas para campañas, así como las respectivas AdServes.
+- Experiencia (laboral o de ensayo) trabajando con Stage 3D.
+- Conocimientos de JSFL para crear scripts de automatización en la producción de largas tiradas de piezas.
+- Experiencia en los frameworks html/javascript más utilizados: Bootstrap Twitter, Foundation o jQuery.
+- Experiencia en la conceptualización, diseño y maquetación proyectos en RWD.
+- Conocimientos de programación avanzado en AS3 o Javascript.
+- Conocimientos de postproducción audiovisual (fundamentalmente AfterEffects).
+- Dirección de arte digital.
+- Diseño de interfaces basadas en UX.
+- Inglés hablado y escrito.
+

@@ -1,0 +1,24 @@
+
+QUIENES SOMOS:
+Ino es un editor/integrador de soluciones aplicativas en el sector de las telecomunicaciones (TOiP/VOiP) trabajando para más de una centena de clientes en sectores muy variados (energía, cadenas de distribución, prensa, banca, aseguradoras, M2M, salud, turismo, etc.). 
+ http://www.ino-telecom.com 
+LA MISIÓN: 
+Bajo la responsabilidad y en estrecha colaboración con la dirección técnica, tendrás que asumir las tareas siguientes: 
+- Desarrollar aplicaciones móviles Android e iOS para servicios de telecomunicaciones. 
+- Analizar las necesidades de los diferentes clientes 
+- Asegurar el desarrollo de nuevas funcionalidades en nuestras aplicaciones móviles 
+- Asegurar regularmente la actualización de documentos de especificaciones técnicas 
+EL PERFIL: 
+Buscamos varios perfiles de formación en ingeniería o programación informática con disponibilidad inmediata. 
+- Backend : Node.js, Express.js
+- Frontend : AngularJS, HTML5/CSS3, Javascript, jQuery, Responsive Design 
+- Arquitectura: REST, API 
+- Bases de datos : MySQL, SQL 
+- Otro: buen nivel de redacción en francés, buen nivel de inglés 
+OFRECEMOS:
+- Participar al desarrollo del polo R&D de un grupo internacional
+- Integrar un equipo joven, dinámico y apasionado en un ambiente start-up 
+- Trabajar en proyectos de gran visibilidad 
+- Contrato indefinido o de becario basado en Barcelona 
+- Salario según experiencia
+

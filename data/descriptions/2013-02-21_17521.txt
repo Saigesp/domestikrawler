@@ -1,0 +1,30 @@
+
+Las principales funciones serán desarrollar y poner en marcha aplicaciones web (webs corporativas, portales, plataformas, intranets, extranets, tiendas virtuales, aplicaciones móviles, aplicaciones para facebook etc.), así como administrar y actualizar las ya creadas en continua coordinación y cooperación con el equipo de diseño y el Analista on line, gestionando y resolviendo las incidencias que puedan surgir. Deberá ser capaz de transformar los diseños de sitios y aplicaciones web en formato Adobe Photoshop o Adobe Fireworks a código XHTML+CSS, HTML5+CSS3, y además que se adapte a dispositivos móviles (ipad/iphone,etc).
+Buscamos una persona muy motivada, que posea experiencia demostrable, con capacidad de organización, gestión y trabajo en equipo.
+El puesto es fijo con jornada laboral de 8 horas e incorporación inmediata. Horario de oficina en nuestra sede de Getxo. El sueldo se definirá en función de las capacidades y experiencia
+Requisitos
+Imprescindible experiencia demostrable en:
+- Maquetación HTML5/CSS3 &amp; responsive para multidispositivos (smarthphone, tablets, etc.) 
+- Programación PHP y MySQL. 
+- Javascript 
+- jQuery
+- MySQL
+- Front / Back CMS
+- Experiencia en desarrollo de WebApps para plataformas iOS y Android. AndroidAPI, Java (Android)  y Objective-c (Iphone, Ipad).
+- Experiencia demostrable en programación de plataformas opensource como Wordpress, Magento, Prestashop, etc (Instalación, creación y modificación de plantillas, plugins) 
+- Optimización para buscadores.
+
+Se valorará:
+- Dominio del lenguaje ActionScript para aplicaciones FLASH y FLEX.
+- Experiencia en desarrollo de aplicaciones para móviles.
+- Conocimientos Analítica web.
+- Gestión de Alojamientos: LAMP (Linux, Apache, MySql, PHP) y conocimiento de Plesk.
+- Entendimiento de las posibilidades del diseño visual, tal como composición, layout infomation, jerarquía, tipografía y color. 
+- Experiencia en usabilidad. 
+- Excelentes capacidades de comunicación verbal y escrita y habilidades de presentación 
+- Dominio del paquete Creative Suite de Adobe: Photoshop, Illustrator, InDesign, y Fireworks
+- Pasión por el diseño y trabajo en equipo
+- Conocedor de las guías de estilo de Apple, Android, Windows Phone
+El perfil buscado es una persona apasionada de Internet, metódica, organizada en su trabajo y habituada al trabajo en equipo.
+El candidato deberá incluir curriculum con un enlace a su portfolio o a proyectos en los que ha participado, indicando en cada caso cual ha sido su aportación. 
+No se responderán candidaturas de empresas o estudios, buscamos un trabajador a tiempo completo para formar parte de nuestro equipo de desarrollo base.

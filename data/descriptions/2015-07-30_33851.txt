@@ -1,0 +1,10 @@
+
+En Global Communication Concept necesitamos un programador web freelance para crear webs corporativas, tiendas online, revistas y apps. 
+
+Valoramos:
+- Control de versiones: CVS, SVN y GIT. 
+- Web: HTML, JSP, JSF, OGNL, JQuery, JavaScript, JSON 
+- Herramientas: Hibernate, MyBatis 
+- Base de datos: SQLServer, MySQL, Oracle 
+- Programación: J2EE, Struts2, Spring
+- conocimientos de programación de Apps

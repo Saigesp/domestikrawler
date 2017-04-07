@@ -1,0 +1,17 @@
+
+En Red Code Marketing (www.redcodemarketing.com) estamos buscando Programadores Web tanto Frontend como Backend. Los conocimientos que precisamos son:
+Conocimientos avanzados en lenguajes de programación:
+- HTML 5
+- CSS 3
+- PHP 5.0 en adelante
+- JavaScript
+- jQuery
+Conocimientos avanzados en CMS (Crear "Templates" a partir de diseño, gestión contenidos, etc):
+- WordPress 
+- Drupal
+Conocimientos avanzados en plataformas eCommerce:
+- PrestaShop
+- Magento
+Conocimientos avanzados en bases de datos:
+- MySQL
+¡Tenemos altas perspectivas de crecimiento, así que la incorporación es inmediata!

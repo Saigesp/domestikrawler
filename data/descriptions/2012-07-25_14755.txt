@@ -1,0 +1,14 @@
+
+Hola! Necesitamos urgentemente incorporara un desarrollador front end con conocimientos nivel alto de Javascript orientado a objetos, manejo del DOM (experiencia mínima de un año)
+Requisitos mínimos: 
+Conocimientos nivel alto de HTML y CSS (código semántico optimizado a buscadores)
+Conocimientos nivel medio de PHP y fundamentos de programación. 
+Excelente trabajo en equipo, particularmente con desarrolladores y product managers. 
+Requisitos deseados: 
+Saber interpretar y adaptar librerías de JS tipo jQuery, Motools y YUI
+Conocimientos básicos de Photoshop y maquetación de PSD a web. 
+Experiencia en el manejo de plantillas (Smarty). 
+Experiencia en uso de Subversion (CVS/SVN) . 
+Experiencia con gestores de contenidos CMS como Wordpress, Joomla o Drupal. 
+Uso e integración con APIS habituales: Google Maps, Facebook, Twitter, etc.
+

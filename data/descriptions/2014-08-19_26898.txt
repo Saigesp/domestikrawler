@@ -1,0 +1,20 @@
+
+En Wiquot seguimos creciendo y este es el momento de llevar nuestro proyecto al siguiente nivel. Tenemos un diseño increíble para el que buscamos un desarrollador Frontend con experiencia que se encargue de convertirlo en realidad.
+El puesto de trabajo está en Valencia y tendrás un horario flexible. De hecho nuestro equipo está parcialmente distribuido. Aún así te encantará venir a la oficina, un lugar de trabajo abierto, cargado de buen ambiente, con un equipo que disfruta de su día a día y rodeado de grandes startups tecnológicas.
+Las tecnologías con las que trabajarías son:
+Imprescindibles:
+HTML5
+CSS 3
+Foundation
+Sass
+JQuery
+Control de versiones
+Recomendables:
+AngularJS
+Git
+Compass
+Sobre Wiquot
+Wiquot es una startup joven con una visión clara y un roadmap bien definido. Nos gusta probar mucho, equivocarnos rápido y aprender con cada paso que damos. Tenemos un equipo bien equilibrado entre profesionales técnicos y de marketing, y perfiles senior y junior. 
+Sólo nos faltas tú. ¡Te esperamos!
+¿Esta oferta no es para ti? 
+Puede que este no sea exactamente tu perfil, pero seguro que conoces a alguien al que le va como un guante. Si es así, no lo dudes, hazle llegar nuestra propuesta.

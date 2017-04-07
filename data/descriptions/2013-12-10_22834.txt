@@ -1,0 +1,14 @@
+
+Buscamos ingeniero/a en informática, con sólidos conocimientos técnicos. Como requisitos fundamentales, que seas una persona dinámica, metódica, con capacidad de trabajo en equipo y capacidad para innovar.
+Se incorporará en la empresa dentro del equipo de I+D+i para desarrollo de productos de Internet de las cosas. Funciones básicas: 
+• Desarrollo en HTML5 y websocket.
+• Javascript.
+• Desarrollo en Python.
+• Node.js.
+• Trabajo de la Interfaz Gráfica.
+• Redacción de documentación técnica.
+• Apoyo en tareas del departamento de I+D+i.
+Requisitos mínimos:
+- Estudios de Ingeniero en Informática o equivalente.
+- Idiomas, Conocimiento de Inglés.
+- Un mínimo de 2 años de experiencia en HTML5 y conocimientos demostrados de las áreas de actuación anteriormente descritas.

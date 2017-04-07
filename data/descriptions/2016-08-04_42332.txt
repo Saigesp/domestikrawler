@@ -1,0 +1,25 @@
+
+En Iwantic estamos buscando un Javascript Developer para una gran start-up tecnológica del sector Internet en Barcelona.
+Queremos a alguien con iniciativa a quien le interese unirse a una compañía en crecimiento y con un equipo internacional, dinámico y con talento. 
+Requisitos mínimos: 
+- Inglés C1/C2.
+-4/5 años de experiencia en puesto similar.
+-Conocimientos en:
+Knockout, Durandal, RequireJS, Lodash, Moment, Greensock, JQuery, Bluebird.
+New Relic, Browserstack.
+Selenium, Inter, Karma, Mocha, Chai, Sinon.
+NPM, bower, gulp.
+Jshint.
+SASS.
+Git, Github, Zenhub, Slack, Screenhero.
+Vagrant.
+Bash, Python, CofeeScript, Java, Scala.
+TDD, Unit y Functional Testing en Javascript.
+-Disponibilidad para viajar.
+-Trabajo en equipo.
+-Habilidades e interés por el diseño.
+Funciones:
+-Desarrollo de JS webapps para móvil y escritorio.
+-Trabajar con desarrolladores backend para diseñar Apis.
+
+La persona seleccionada gozará de grandes beneficios sociales, contrato indefinido y un atractivo paquete salarial. Además hará uso de las últimas tecnologías del mercado y trabajará en un ambiente de gran visibilidad internacional.

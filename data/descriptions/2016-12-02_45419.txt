@@ -1,0 +1,17 @@
+
+La empresa para la que trabajo esta buscando programador en PHP y MySQL con al menos 2 años de experiencia para desarrollo de proyectos a medida.
+Requisitos:
+- PHP y MySQL con experiencia en desarrollando de soluciones a medida.
+- Conocimientos de HTML y CSS, no es necesario maquetar desde cero pero sí ser capaz de meterle mano a maquetas ya hechas.
+- Javascript para algo más que validar formularios.
+- Aptitudes y conocimientos deseados
+- Programación con patrón de diseño MVC o al menos orientado a objetos.
+- Experiencia en algún framework de PHP, principalmente Codeigniter y Laravel
+- Conocimientos de Bootstrap.
+- Control de versiones (SVN, Git...).
+Se ofrece
+Teletrabajo, preferiblemente de Madrid para posibles reuniones aunque no es imprescindible.
+Retribución salarial a negociar en función de la valía profesional del candidato.
+Contrato indefinido.
+Jornada Completa.
+

@@ -1,0 +1,24 @@
+
+At BMAT we love music and technology! We analyse, index, and recognize all the music in the world to provide search, recommendation and monitoring solutions to the music industry. BMAT is a rapidly growing and passionate company, with a creative, multicultural and dynamic team which operates globally, working with more than 50 customers worldwide. Our clients include companies like Yamaha, Universal, Sony, Samsung and SingTel.
+Summary:
+The Product Technical Support will provide technical assistance to the team during all operation tasks on a daily basis. He/She will be executing offline processes and be responsible for their customization and maintenance.
+Essential Duties & Responsibilities
+•	Give support to Product team with technical-related tasks and customer requests. 
+•	Execute new technologies prepared by the R&D lab
+•	Find creative solutions to new problems using existing knowledge within the Company
+•	Run pilots projects and data analysis according to the priorities and strategies, ensuring the accomplishment of deadlines.
+Knowledge, Skills & Abilities Required
+•	Experience in database operations (MySQL, PostgreSQL)
+•	Experience in scripting and object-oriented programming (Python, shell)
+•	Good knowledge of data-interchange formats (XML, JSON, XSD) and MS Excel
+•	Basic knowledge of Linux OS
+•	Accurateness and attention to details
+•	Analytical thinking and problem-solving
+•	Good communication skills
+•	Initiative, drive, enthusiasm and autonomy
+•	English Intermediate 
+•	Fluent in Spanish
+•	Musical culture knowledge is a plus
+Education
+•	Technical Education (FP) complete or pursuing Bachelor Degree in Computer Science, Telecommunications, Electrical Engineering or related courses.
+ 

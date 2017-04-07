@@ -1,0 +1,14 @@
+
+En Bitoon buscamos un perfil técnico Front - End, de programación web y aplicaciones web/móvil, con personalidad resolutiva y  con mucha iniciativa. Somos una compañía creadora de videojuegos y experiencias de entretenimiento digital para marcas (gamificación y advergaming).
+Requisitos mínimos, alto conocimiento de:
+- HTML5/CSS3 
+- Titulación técnica 
+- Diseño responsive 
+- Javascript, nivel avanzado 
+- JQuery, nivel avanzado 
+- PHP 
+- GIT
+- Photoshop
+- Bootstrap
+Experiencia mínima de 2 años.
+¡Te esperamos!

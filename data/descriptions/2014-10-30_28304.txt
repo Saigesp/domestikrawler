@@ -1,0 +1,8 @@
+
+Wintsan Trade busca abrirse a nuevos sectores, para ello precisamos incorporar un programador especialista con experiencia en diseño y desarrollo sobre Bases de datos NoSQL. Necesitamos un perfil de programador capaz de crear desde cero software según los parámetros que le propondremos. 
+Experiencia mínima:
+Al menos 4 o 5 años de experiencia en el mundo de la programación en bases de datos.
+Experiencia  en bases de datos NoSQL :  MongoDB,  Cassandra, Elasticsearch 
+Necesitamos  también crear el api frond-end y back-end.
+Nodejs o php synfoni para server y angularJs para cliente web
+La elección de los programas a utilizar no esta definida aún al 100%.

@@ -1,0 +1,25 @@
+
+Buscamos un/a front con conocimientos técnicos y capacidad para diseñar aplicaciones web, landings, emails, etc.
+Imprescindible: 
+- Habilidad para diseñar interfaces usables y atractivas 
+- Maquetación con HTML y SASS (dando soporte a IE8+) incluyendo responsive 
+- Experiencia en diseño de landings con variaciones para A/B testing y mejoras en la conversión 
+- Conocimiento de las best practice típicas del puesto 
+- Capacidad para heredar, mantener y mejorar un framework de elementos de maquetación reutilizables 
+- Experiencia maquetando emails con soporte para los webmails más habituales 
+- Nivel alto de Javascript y jQuery 
+- Conocimientos de Rails 
+- Experiencia con Git 
+- Manejo del software de Adobe y algún otro para realizar wireframes, flujos, etc. 
+- Conocimientos básicos para preparar documentos para imprenta (tarjetas, flyers)
+Deseable 
+- Experiencia con jQuery UI y jQuery mobile 
+- Conocimientos básicos de los microformatos / schema.org 
+- Experiencia maquetando / diseñando para móvil 
+- Experiencia con Mailchimp 
+- Conocimientos básicos de SEO 
+- Conocimientos de flash (animación con línea de tiempo) para alguna pieza esporádica 
+- Buen nivel de inglés
+Tendrás 
+- Un iMac de 27" 
+- Horario flexible

@@ -1,0 +1,19 @@
+
+Precisamos de una persona que resida en Barcelona o alrededores para el desarrollo de proyectos web. Su función será trabajar en el departamento de programación para la realización de proyectos online.
+Buscamos una persona responsable y con capacidad organizativa y de decisión, además de amigable y de buen trato. Debe dominar el castellano y el catalán (nivel nativo).
+Aptitudes requeridas:
+Frontend 
+- CSS3, HTML5 
+- jQuery
+Backend 
+- PHP5 
+- Patrón MVC 
+- MySQL
+Administración de sistemas Linux: 
+- Configuración de Apache, MySQL y PHP
+Se valorarán conocimientos de: 
+AngularJS 1.x 
+BackboneJS 
+Bootstrap / Foundation 
+Symfony / Silex 
+Acceso a API externas con JSON / SOAP

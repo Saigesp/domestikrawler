@@ -1,0 +1,20 @@
+
+¡Hola!
+Somos Ashler. Un joven estudio de diseño situado en Pamplona. 
+Desde las tierras del norte realizamos diseño para muy distintos clientes y sectores: diseño gráfico e identidad corporativa, diseño de tipografías, diseño y desarrollo web, packaging, consultoría UX…
+Queremos contar con un nuevo miembro en el equipo para que nos ayude con el diseño y desarrollo web. 
+Buscamos a alguien que: 
+Sepa desarrollar desde 0 páginas web: HTML, PHP, CSS, JS…
+Maneje SASS o ya haya dado el salto a POSTCSS
+Sepa hacer RWD sin bootstrap. 
+También valoramos: 
+Conocimientos de diseño de interfaces (¿Sabes también Sketch? ¡Estás tardando en escribirnos!). 
+El orden y el cuidado por los detalles.
+Gusto por el diseño.
+Conocimientos de GULP
+Conocimientos de PUG
+Qué ofrecemos: 
+Buen ambiente de trabajo.
+Si estás en Pamplona ¡el desayuno está incluido! 
+Oportunidad de crecimiento profesional en un equipo de primer nivel.
+Y si eres freelance pero te apetece que colaboremos escríbenos igualmente :)

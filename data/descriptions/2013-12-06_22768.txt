@@ -1,0 +1,6 @@
+
+Hola necesitamos formadores expertos en programación en Python para Pipeline de posposproduccion con NUKE y MAYA  para formaciones particulares y de grupos con los siguientes requisitos: 
+- Experiencia laboral demostrable de mínimo 9 años programando en Python para Pipelines de posproduccion
+- Experiencia docente
+- Material docente de calidad y abundante 
+- Conocimiento avanzado de flujo de trabajo Smoke-Nuke-Maya

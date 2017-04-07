@@ -1,0 +1,12 @@
+
+Se requieren 3 Ingenieros de Software Java con Liferay con 2 años de experiencia en:
+- Liferay
+- JSF
+- Java y J2EE
+- CVS, Subversion, Maven, Junit, Continuum
+Valorable:
+- eCommerce
+- Apache, Tomcat, MySQL, JBoss
+- Linux/Unix
+- Spring, Hibernate...
+

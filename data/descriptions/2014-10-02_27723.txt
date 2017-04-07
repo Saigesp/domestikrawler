@@ -1,0 +1,11 @@
+
+Nortempo ETT selecciona Game Developer Flash AS2 para importante empresa sita en Hamburgo. 
+Funciones a desempeñar: 
+- Desarrollo de la interfaz del juego MMO de alta calidad basado en el navegador. 
+- Definir y diseñar los requerimientos de software y especificaciones derivadas de Documents Game Design. 
+- Desarrollo de arquitecturas. 
+- Creación y mantenimiento de los juegos, UI, animación y el look en general.
+Requisitos:
+- Amplio conocimiento práctico de ActionScript3. 
+- Experiencia en el desarrollo de juegos. 
+- Se requiere un alto nivel de inglés.

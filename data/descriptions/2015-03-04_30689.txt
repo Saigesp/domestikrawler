@@ -1,0 +1,28 @@
+
+Necesitamos incorporar en el equipo una persona que quiera trabajar con nosotros en un ambiente agradable, con compromiso, y que sepa manejar las competencias necesarias en el entorno front y back de las aplicaciones que utilizamos:
+-WordPress
+-Symfony // CakePHP
+Joomla
+-Adobe Phonegap
+-jQuery
+-ActionScript
+-JavaScript
+-Maquetación HTML/CSS
+Requisitos y funciones básicas a desempeñar por el candidato
+-Diseño de interfaz de la web (psd, jpg)
+-Maquetación HTML/CSS, WordPress de nivel alto (Capacidad de crear themes, saber utilizar plugins y widgets, etc.), Newsletters, Banners,  ….
+Funciones muy deseadas
+-Arquitectura de la información.
+-Nociones SEO
+-Diseño de interfaz junto a un análisis para el diseño de la experiencia de usuario (UX)
+-Maquetación HTML5/CSS3 responsive para multidispositivos (smarthphone, tablets, etc.)
+-Capacidad de adaptación de código javascript (JQuery).
+-Crear scripts Jquery.
+-Presentaciones interactivas.
+Otras habilidades valoradas
+-Tirar código: PHP, ASP, JAVA, Objetive-C
+-Gestionar servidores
+-Gestionar backups, caídas de webs, etc.
+-Creación de correos, instalación de correos, etc.
+Experiencia
+Se requiere experiencia en proyectos digitales, e-commerce, diseño y desarrollo web, …

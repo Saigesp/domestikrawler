@@ -1,0 +1,5 @@
+
+Requerimos incorporar programador presencial (08560 Manlleu, Barcelona) en PHP con experiencia previa de mínimo 2 años. 
+Valoraremos conocimientos de Laravel (o otros frameworks), opencard, prestashop, wordpress, ionic, angularjs,... Horario intensivo de 6 o 8 horas.
+Sueldo y contrato a negociar.
+Javajan es una empresa con un equipo de 10 profesionales, creada en 1999. Ofrecemos un servicio integral y personalizado que contempla todas las etapas del desarrollo de un proyecto web y/o móvil (app): concepción, diseño, maquetación, programación, alojamiento, mantenimiento, promoción... Entre nuestros clientes se encuentran Whirlpool, Casa Tarradellas, Ivan Mañero, Carré y Generalitat de Catalunya.

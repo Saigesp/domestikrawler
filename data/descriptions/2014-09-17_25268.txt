@@ -1,0 +1,12 @@
+
+Hola, somos una empresa del sector turístico y actualmente tenemos una vacante para un desarrollador Junior.
+Requisitos:
+- Tener la mente despierta.
+- Interés por internet, la programación, maquetación... 
+- Con ganas de aprender.
+- Con ganas de trabajar (no esta de menos remarcarlo).
+- Con conocimientos del entorno, tener un nivel básico de programación en PHP y a poder ser también de HTML5 y CSS (evidentemente cuanto mas de todo, mejor, dentro de lo que se puede considerar Junior)
+Ofrecemos:
+Contrato laboral indefinido, de 9 a 19:00, cerca de la playa con un sueldo de 1200€ con revisión a los 6 meses.
+Buen ambiente de trabajo y optimas condiciones para poder desarrollarse y proyectarse laboralmente dentro de la empresa.
+Nos encanta la gente que se implica, la idea no es ocupar una silla.

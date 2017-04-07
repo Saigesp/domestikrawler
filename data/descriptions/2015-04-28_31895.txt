@@ -1,0 +1,45 @@
+
+At Euromillions.com we are looking for a new talent for our development team.
+What are we looking for?
+Somebody that enjoys programming and is always eager to learn and improve.
+Some keywords: Zend, Phalcon, Vagrant, Docker, Ansible, Node.js, Jenkins… 
+We don’t want a guru nor an solitary ninja developer focused on the new trendy language. 
+We want team players that are versatile enough, but with a main expertise in Php and Javascript.
+We want somebody that agrees with the Agile Manifesto, and works accordingly. 
+----
+En Euromillions.com estamos buscando nuevo talento para incorporar a nuestro equipo de desarrollo.
+¿Qué estamos buscando?
+Alguien que disfrute programando y esté siempre dispuesto a aprender y mejorar.
+Algunas palabras clave: Zend, Phalcon, Vagrant, Docker, Ansible, Node.js, Jenkins... No queremos un gurú ni un ninja solitario centrado en el último lenguaje de moda. Queremos jugadores de equpo que sean suficientemente versátiles, pero con un foco principal en Php y Javascript.
+Queremos a alguien que esté en sintonía con el Manifiesto Ágil, y trabaje según sus principios.
+Desired Skills and Experience
+(en español más abajo)
+----
+What do we need?
+- Team player with a good personality. The divas are for the opera.
+- Experience with backend and frontend web development in Php and JavaScript.
+- Proper knowledge of the SOLID principles of OOP.
+- Experience with unit testing, ideally with a TDD workflow (both in front and backend).
+- Experience with version control systems, ideally git and github. 
+What would we like (but you can apply without)?
+- College degree on computer science or related degrees.
+- Familiar with Scrum and XP
+- Experience with Zend and/or Phalcon frameworks.
+- Experience in DevOps (Vagrant, Docker, Ansible)
+- Experience working with internet online payment gateways.
+- Active in the developers scene (attending talks and conferences)
+- Experience with Node.js 
+----
+¿Qué necesitamos?
+- Un jugador de equipo con buena personalidad. Las divas son para la ópera.
+- Experiencia en el desarrollo backend y frontend con Php y JavaScript.
+- Conocimiento adecuado de los principios SOLID de la POO.
+-  Experiencia con unit testing, idealmente siguiendo la metodología TDD (tanto en frontend como en backend)
+- Experiencia con sistemas de control de versiones, idealmente git y github. 
+¿Qué nos gustaría (pero no es imprescindible)?
+- Título universitario en informática o similar.
+- Familiarizado con Scrum y XP.
+- Experiencia en DevOps (Vagrant, Docker, Ansible)
+- Experiencia trabajando con sistemas de pago online.
+- Activo en la escena de desarrolladores (atendiendo a charlas y conferencias)
+- Experiencia con Node.js

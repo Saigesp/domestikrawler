@@ -1,0 +1,16 @@
+
+Maquetación de un Blog en Drupal (incluye plantillas de listado de posts, detalle del post, resutlados de búsqueda y filtrado de categorías)
+La maquetación será en base a un diseño ya realizado en Photoshop o Illustrator.
+Requisitos mínimos: 
+- HTML 
+- CSS 
+- jQuery o JavaScript 
+- Bases en diseño gráfico/web (Photoshop e illustrator)
+Se valorará: 
+- PHP 
+- MySQL 
+- Buena base en HTML5 y CSS3 
+- Conocimientos en creación de plantillas para Drupal
+Envíanos tu portfolio y después de un primer contacto especificaremos mas detalles del proyecto para hacer una valoración de horas y presupuesto.
+Es imprescindible poder emitir facturas en la Unión Europea.
+Además, esta oferta abre la posibilidad de trabajar recurrentemente con nosotros :-)

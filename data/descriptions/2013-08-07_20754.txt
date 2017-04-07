@@ -1,0 +1,27 @@
+
+Misión
+Desarrollar y poner en marcha aplicaciones web (portales, plataformas, intranets, extranets, etc.), así como administrar y actualizar las ya creadas en continua coordinación y cooperación con el Diseñador de Páginas Web , gestionando y resolviendo las incidencias que puedan surgir.
+
+Funciones:
+· Analizar los requerimientos técnicos del proyecto. 
+· Desarrollar la programación de aplicaciones para la intranet corporativa.
+· Crear e implementar el sistema de seguridad de la programación web
+· Administrar, mantener y actualizar las aplicaciones desarrolladas
+Nivel Académico:
+· Ingeniería en Informática.
+· Ingeniería Técnica en Informática de Gestión.
+· Ingeniería Técnica en Informática de Sistemas.
+
+Experiencia profesional:
+· Experiencia de 3 años en un rol profesional similar
+
+Conocimientos:
+· HTMIL 5
+· CSS
+· Java Script
+· PHP
+· My SQL
+· SVN/GIT
+
+Idiomas:
+Nivel de Inglés muy alto.

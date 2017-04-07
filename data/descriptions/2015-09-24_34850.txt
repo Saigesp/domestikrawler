@@ -1,0 +1,15 @@
+
+¿Conoces Drygital? 
+Somos una agencia digital con más de 13 años de experiencia en el sector y estamos buscando un programador front end/Maquetador que colabore con nosotros.
+Conocimiento deseable: 
+1.	PHP/Mysql
+2.	Cold Fusion/Sql Server
+3.	HTML5, CSS3, Responsive Design
+4.	Prototipado (Bootstrap, Foundation)
+5.	JQuery, Javascript
+6.	WordPress (Plugins Seo, Multiidioma, multisite, etc)
+7.	Xml, Json
+8.	Prestashop,joomla, otros
+9.	Ux
+10.	Movilidad, IOS/Android nativo y phonegap o similares.
+  

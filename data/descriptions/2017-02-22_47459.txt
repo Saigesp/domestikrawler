@@ -1,0 +1,11 @@
+
+Seleccionamos un Técnico de Almacenamiento Mainframe con experiencia demostrable en los siguiente entornos y herramientas:
+- Entorno Mainframe: z/OS, Sysplex, Data Sharig y Coupling Facilities, JCL, WLM, RMF, SMP/E, etc.
+- Conocimientos de DFHSM, RMM, ISMF y SMS a nivel de administración. Construcción de rutinas ACS y gestión de backups.
+- Conocimientos de copia remota síncrona PPRC de IBM y de terceros (TRUECOPY).
+- Conocimientos de administración de Librerías Virtuales de cinta (VTS).
+- Administración de cabinas de disco IBM, Hitachi, etc.
+- Monitorización y gestión del almacenamiento con herramientas propias del sistema y de terceros: (CA Vantaje, CA 1, CA Disk. BMC Mainview SRM, OMEGAMON).
+- Disaster recovery GDPS.
+- Capacidad de trabajo en grupo.
+- Interacción con diferentes equipos de forma multidisciplinar (desarrollo, infraestructura, negocio).

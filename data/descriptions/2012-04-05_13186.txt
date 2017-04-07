@@ -1,0 +1,11 @@
+
+WION está buscando un programador/maquetador web con diferentes perfiles.
+Imprescindible residir en Barcelona.
+Somos una empresa muy dinámica y multidisciplinar tecnológicamente con lo que evaluaremos cada candidato individualmente. Requesitos:
+Java, VisualBasic, C++, ActionScript,
+PHP, JavaScript, CSS, MySQL
+CakePHP
+Typolight, Prestashop, Drupal, Joomla, WP
+Jquery, Srciptaculous, Prototype.
+Editor PHP: NetBeans, Eclipse
+Linux (Ubuntu)

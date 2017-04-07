@@ -1,0 +1,12 @@
+
+¡Seguimos creciendo! En estos momentos queremos incorporar un Desarrollador Python/Django para trabajar en nuestros equipos y participar en el desarrollo de los diferentes proyectos que llevamos a cabo para grandes multinacionales. ¿Te apuntas a trabajar en VASS Digital?
+Pensamos en un profesional que nos aporte estos requisitos:
+- Al menos 2 años de experiencia como desarrollador
+- Experiencia demostrable en framework Django / Python (frontend / backend)
+- HTML5, bootstrap.3 , CSS3, JavaScript, jquery y tecnologías similares
+- Conocimiento en bases de datos relacionales (MySQL / PostgreSQL) 
+¿Qué ofrecemos?
+- Salario a determinar en función experiencia y valía aportada
+- Formación
+- Plan de carrera personalizado en nuestro formato VASS and You
+Pensamos en profesionales con alta motivación e interés por las nuevas tecnologías, así como potencial para desarrollarse en la compañía y beneficiarse de nuestra política de gestión de la carrera profesional VASS&YOU.

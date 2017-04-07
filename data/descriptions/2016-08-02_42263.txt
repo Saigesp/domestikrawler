@@ -1,0 +1,18 @@
+
+We seek a sharp, motivated and dependable front-end developer to work as part of the Web Development team, proficient in all aspects of website development. The successful candidate will develop websites and new functionality based on our proprietary CMS.       
+PRINCIPAL RESPONSIBILITIES:
+-Develop high quality and efficient websites, using our PHP-based commercial CMS, ensuring strong optimization and functionality
+-Implementation of ecommerce trackings and events for Google Analytics
+-Manage & implement requested changes or new features with optimal quality and with respect for the timeframes you commit to
+-Manage Domain pointing and hosting issues
+-Introduce new cutting edge front-end functionality to our websites, and keep up with the latest web and front-end related technologies
+-Proactively report to management about your work
+-Extend existing functionality and help put in place and document best practices and procedures for front-end development
+-Thoroughly Document your work, both in the code and in our internal documentation.
+-Follow our testing and QA process to help ensure client satisfaction
+EXPERIENCE AND QUALIFICATIONS REQUIRED FOR THE POSITION:
+-University degree in Computer Science/IT
+-1+ years experience as a Developer
+LANGUAGE REQUIREMENTS:
+-Must be fluent in at least 2 of the following languages:
+English (Must), and Spanish or French or German or Italian

@@ -1,0 +1,11 @@
+
+El candidato se incorporará a un equipo multidisciplinar dentro del cual se responsabilizará del diseño y maquetación de todas las aplicaciones que desarrolla el equipo. Adicionalmente será responsable de la administración y evolución de un CMS.
+El proyecto tendrá una duración aproximada de un año, con posibilidad de prórroga.
+Requisitos mínimos:
+Más de 3 años de experiencia realizando tareas de diseño y maquetación web 
+Sólidos conocimientos de HTML, Javascript, Jquery, Bootstrap 
+Más de 1 año de experiencia trabajando con algún CMS
+Requisitos deseados:
+Angular JS 
+Conocimientos de Java y J2EE
+

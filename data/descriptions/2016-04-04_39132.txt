@@ -1,0 +1,14 @@
+
+Descripción: Se necesita incorporar un desarrollador/a senior PHP con al menos 5 años. Buscamos un candidato con experiencia en Zend Framework. 
+Requisitos:
+    Experiencia con Zend framework
+    Programación en lenguaje PHP
+    Dominio de trabajo con MySQL
+    5+ años de experiencia
+    Residir en Barcelona
+Valoraremos positivamente:
+- Inglés conversacional
+- Otros lenguajes de programación 
+- Maquetación Web
+- Experiencia con ecommerce
+- Familiarizado con métodos Agile

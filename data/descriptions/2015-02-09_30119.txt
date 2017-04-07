@@ -1,0 +1,19 @@
+
+Como Programador PHP formarás parte del departamento de desarrollo para participar en proyectos de desarrollo web (eCommerce). Abstenerse Freelance y autónomos.
+Requisitos esenciales:
+•	Ingeniería en informática o similar 
+•	Idiomas: Inglés Nivel Alto
+•	Experiencia demostrable en programación de Prestashop a nivel frontend y backend 
+•	Conocimientos de otras plataformas como Wordpress, etc.
+•	Nivel alto de PHP y MySQL
+•	HTML 4/5 + CSS 2/3
+•	Amplia experiencia con tecnologías: Ajax, Javascript, JQuery, Json, HTML, CSS
+•	Persona dinámica, resolutiva, orientada a resultados y con capacidad de trabajo en equipo
+•	Experiencia mínima: 2 años
+•	Abstenerse personas que no tengan vehículo propio y movilidad para trabajar a 15KM de Valencia
+Funciones que desarrollará: 
+•	Desarrollo, mantenimiento y mejora de plataformas de ventas, construida sobre Prestashop, tanto a nivel backend (instalación de plugins, extensiones y desarrollos a medida) como a nivel frontend (siguiendo los diseños de nuestro equipo de diseño visual)
+•	Programación de la evolución de la plataforma en php/mysql
+Tipo de Contrato: 
+•	Indefinido 
+

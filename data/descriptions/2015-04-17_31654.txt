@@ -1,0 +1,20 @@
+
+Digitas LBI is a global marketing and technology agency that transforms businesses for the digital age. We exist to help brands embrace the creative and technological changes revolutionising all aspects of their business. 
+As a Senior iOS Developer you would be part of our technology team in Madrid having the opportunity to work in an international environment and working with cutting edge technologies for our multinational clients. 
+These are some of the skills that we are looking for! 
+•	In-depth knowledge of software engineering principles & best practice.
+•	Complete understanding of the iOS development ecosystem.
+• 	Proven track record of delivering apps to the App Store.
+• 	Immersion in the full SDLC, from project initiation to store deployment.
+•	Exhaustive understanding of the iOS API and mobile development..
+•	Experience integrating with external services (Web APIs, CMSs, etc).
+• 	Low-level understanding of SCMS (Git and Subversion).
+• 	Affinity for UX- & UI-driven applications.
+•	Familiarity with project management techniques and tools. 
+•	Experience with TDD, BDD.
+•	Previous usage of automated mobile Unit and Integration testing.
+•	Previous mentoring of more junior developers.
+•	Planning & delivery of technical documentation.
+•	Knowledge of how to manage technical debt.
+If you think you may be a good match do not hesitate to get in touch!! :) 
+

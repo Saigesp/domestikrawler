@@ -1,0 +1,35 @@
+
+Startup ubicada en el vivero de empresas de Villaverde con el apoyo de Madrid Emprende.
+Precisamos incorporar a nuestro equipo un Desarrollador Backend que pueda desempeñar las siguientes tareas: 
+- Gestión del proyecto mediante la utilización de metodologías ágiles (SCRUM).
+- Análisis de los requerimientos de la plataforma.
+- Análisis de las necesidades en cuanto a servidores, herramientas, procesos, etc.
+- Colaboración con los desarrolladores de front-end móviles para conseguir una buena integración.
+- Diseño, documentación e implementación de APIs internas.
+- Análisis, diseño e implementación de bases de datos.
+- Desarrollo de aplicaciones back-end.
+- Desarrollo de la lógica de negocio de la aplicación.
+- Desarrollo de tareas programadas.
+- Desarrollo de interfaz de gestión.
+- Desarrollo de pruebas automáticas, y testeo manual.
+- Optimización del rendimiento de aplicaciones.
+- Desarrollo con vistas a la escalabilidad del producto.
+- Desarrollo con consideraciones hacia la seguridad de los datos de usuarios.
+- Integración con servicios externos (Login social, registro por correo, notificaciones móviles y otras APIs de terceros)
+- Debugging de errores detectados. 
+- Gestión y mantenimiento de la plataforma.
+- Análisis de datos de la aplicación para obtener informes o búsqueda de problemas en la aplicación.
+Requisitos mínimos 
+Experiencia mínima de 3 años 
+- Ingeniería Superior o Técnica en Informática. 
+- Inglés Técnico. 
+- Persona acostumbrada a trabajar en equipo y comprometida con las entregas, organizada y metódica, con capacidad analítica ofreciendo diferentes soluciones.
+Os ofrecemos un trabajo a tiempo completo y la posibilidad de desarrollar vuestra carrera profesional, un salario competitivo que revisaremos anualmente y un alto grado de autonomía dentro de nuestra estructura. Tu opinión y tu punto de vista será importante para todos y marcará la diferencia en el desarrollo del producto tanto en su concepción como en su posterior mejora.
+Buscamos perfiles comprometidos, con interés y capacidad de aprendizaje, proactivos y con habilidades sociales que estén dispuestos a formar parte de los primeros pasos de una startup.
+OFRECEMOS: 
+Contrato indefinido 
+Jornada completa. 
+Formación continua a cargo de la empresa. 
+Flexibilidad máxima en horarios y disfrute de vacaciones. 
+Participación de beneficios a final de año.
+

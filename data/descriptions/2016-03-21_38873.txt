@@ -1,0 +1,28 @@
+
+We are looking for an exceptional Senior Java developer to work on a freelance basis with the possibility of becoming permanent in our Barcelona office in 2016. 
+WDG is a digital agency based in Switzerland specialising in bringing beautiful design to the corporate world particularly in Investor Relations, Marketing and UX. Our clients are some of the largest Swiss institutions in the world - private banks, pharmaceutical companies, fashion industry, luxury goods etc. 
+We don’t take ourselves too seriously rather let our work do the talking....we've stayed low key and are now pushing out and looking to set up a nearshore operation in Barcelona.
+This Senior developer role requires a talented candidate with an entrepreneurial spirit and a passion for the web to develop class-leading solutions that match our clients’ demands. The ideal Java Developer will be have an incredible eye for detail, with a talent for matching requirements to the client’s voice.
+ROLE + RESPONSIBILITIES: 
+•	Technical analysis, realisation and implementation of requirements for the application engine
+•	Responsible for the deployment and implementation of the server-side application engine
+•	Alignment of application architecture with relevant standards 
+•	Design and coordination of work packages 
+•	Support of technical application specific tasks (system environment setup, criticality assessments, reviews etc.)
+•	Delivers all necessary design and specification documents (e.g. System Context Diagram, System Application Document, Program Specification, Change Code Description etc.)
+•	Implementation of central and critical application components
+SKILLS + EXPERIENCE: 
+Graduate degree or equivalent industry experience in a real-world development area
+•	Fluent in English
+•	Expert in solution architecture and design
+•	Agile development methodologies
+•	Mobile UI / UX frameworks and server-side technologies
+•	Has at least 10 years of Java development experience
+•	Profound skills how to implement Java/JEE applications
+•	Mandatory: expert/practitioner in Java / JEE, JMS, JPA, etc.]
+•	Maven, Github, SVN usage and setup.
+•	Nice to have: MQ, XML, XSD, HippoCMS, Eclipse, Apache frameworks, HTML5, AngularJS, DevOps
+•	Strong Leadership and Planning skills 
+•	Basic experience in project management
+•	Able to support and warranty work
+

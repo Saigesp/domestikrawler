@@ -1,0 +1,13 @@
+
+En SCPF Madrid estamos buscando un Programador Front-End para entrar a formar parte de nuestro equipo de desarrollo. 
+Su tarea principal será:
+Desarrollar campañas HTML5 para diferentes plataformas como Sizmeck o DoubleClick y desarrollar sites publicitarios multiplataforma.
+Necesitaremos que sepas:
+- Maquetación HTML5, CSS.
+- Javascript avanzado.
+- Manejo de frameworks como: Zepto, Gsap, jquery…
+- Manejo de pre-procesadores CSS como LESS o SASS
+
+También valoraremos que tengas conocimientos extra en disciplinas como:
+WEBGL, Animación SVG, GIT, GRUNT, etc.
+

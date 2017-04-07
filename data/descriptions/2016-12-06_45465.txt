@@ -1,0 +1,25 @@
+
+Si te gusta el cine, eres diseñador y quieres trabajar en una plataforma innovadora, esta es tu oportunidad. Buscamos diseñadores cinéfilos que quieran colaborar en la creación de la experiencia de cine más innovadora de las que se han conocido. El desarrollo de este proyecto cuenta con un equipo tecnológico de primera especializados en analytics, inteligencia artificial y creación de videojuegos. 
+Estamos optimizando continuamente la experiencia de uso y por eso necesitamos la incorporación de dos perfiles junior que trabajen en el diseño de nuestra app en iOS y Android tanto para smartphones como tablets. Además Dive también está disponible para Smart TVs y algún otro experimento en browser. La oportunidad es única y muy interesante para cualquier diseñador.
+Buscamos gente que haga con amor las cosas y que además les importen los resultados. En otras palabras: con capacidad analítica, pasión por la experiencia de usuario, gusto por los detalles y orientación a la consecución de objetivos de negocio. Para ello nos encantará que te cuestiones las cosas una y mil veces y que agotes las vías creativas para la resolución de problemas. 
+FUNCIONES:
+
+- Trabajo iterativo (sprints) sobre todos los planteamientos actuales y futuros de las apps y de la web a nivel de experiencia de uso así como mejoras visuales.
+- Definición de prototipos funcionales definidos en base a las tareas de User Research y desarrollo de las UIs para su implementación.
+- Diseño completo de los flujos de uso desde el prototipo low fidelity a los mockups y documentación detallada para ayudar a los programadores a implementar los diseños.
+- Creación y mantenimiento de la guía de estilo y adaptación según necesidades para toda la plataforma.
+REQUISITOS: 
+- Formación en diseño visual (bellas artes, diseño gráfico o afines) 
+- Experiencia de 2-4 años en diseño de interfaces de usuario multidispositivo/multiplataforma (arquitectura de información, diseño de interacción, diagramas de flujos, wireframes, mockups)
+- Habilidades comunicativas habladas y escritas para la presentación de los diseños (vas a tener que argumentar tus decisiones y documentar las entregas)
+- Capacidad de colaboración y diálogo con otros diseñadores así como con programadores frontend y backend
+- Manejo de sketch, invision, zeplin, adobe.
+- Algo de conocimiento en diseño corporativo y editorial/gráfico.
+OFRECEMOS:
+- Incorporación inmediata
+- Oficinas en el centro de Madrid (a un paso de Sol)
+- La oportunidad de crecer profesionalmente en un proyecto internacional premiado por tecnología, innovación y diseño, con mucho futuro por delante.
+- Trabajar con un equipo joven y muy majo. 
+- Salario según valía
+Tu portfolio es importante, pero también nos gustaría ver cómo trabajas, cómo piensas y cómo llegas al resultado final. No se atenderán solicitudes sin portfolio adjunto (formato web preferiblemente).
+

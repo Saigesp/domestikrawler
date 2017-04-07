@@ -1,0 +1,14 @@
+
+Estudio Mendue es un estudio de diseño gráfico especializado en tres áreas principales: branding, diseño editorial o print y digital. Nuestro estudio desarrolla proyectos de identidad corporativa, diseño editorial, packaging, señalética, web, ilustraciones... 
+Trabajamos con clientes que pertenecen a distintos sectores como la moda, medios de comunicación, cultura, seguros, tecnología o instituciones.
+Precisamos incorporar a un diseñador web o desarrollador front-end para trabajar a media jornada.
+Funciones principales: 
+Diseño, maquetación y desarrollo front-end en distintos proyectos digitales. 
+Requisítos: 
+Implicación a la hora de afrontar los proyectos, sensibilidad visual, detallista y capacidad para analizar y entender los proyectos.
+- Al menos 2 años de experiencia como maquetador web.
+- HTML 5, CSS3 y amplio conocimiento en javascript
+- jQuery
+- Bootstrap
+- Manejo de guías de estilo y maquetación responsive
+- Wordpress y shopify (capacidad para crear y modificar plantillas, plugins...). Se valora el conocimiento en otras plataformas como magento)

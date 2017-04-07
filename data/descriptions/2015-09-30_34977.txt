@@ -1,0 +1,26 @@
+
+Desarrollador Front End  con alto grado de expertise en implementación de websites, con cuidado extremo del detalle, utilizando HTML, CSS3, Javascript y frameworks. Integrado en un equipo de desarrollo multidisciplinar acometiendo proyectos de amplio espectro participando desde su génesis aportando valor en UX y arquitectura de contenidos.
+Este role reportará directamente al director de producción.
+Cualificación:
+•	Mínimo de 3 años de experiencia como desarrollador en agencia.
+•	Experto en HTML5, CSS3 y Javascript.
+•	Experto en implementación bajo responsive design.
+•	Familiarizado con soluciones de control de versiones (Subversion, GIT)
+Conocimientos requeridos:
+•	HTML5
+•	CSS3
+•	Javascript
+•	UI Frameworks (Bootstrap y similares)
+•	LESS
+•	JS Frameworks (jQuery y similares)
+•	RESTful web APIs
+•	Implementaciones integradas con CMS
+•	UX
+•	Wireframing
+•	Prototyping
+Conocimientos deseables:
+•	Angular JS
+•	Titanium
+•	PHP
+•	Axure y/o Balsamiq
+

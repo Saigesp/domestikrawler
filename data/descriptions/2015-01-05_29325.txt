@@ -1,0 +1,9 @@
+
+Queremos incorporar un diseñador web en el área de diseño de nuestra empresa. Jornada completa y remunerada.
+Requisitos:
+- HTML
+- CSS
+- Wordpress (importante)
+Valoramos mucho:
+- Conocimientos Adobe (Sobre todo Photoshop, Illustrator e Indesign)
+- Conocimientos de programación (Javascript, PHP ...)

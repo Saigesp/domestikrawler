@@ -1,0 +1,21 @@
+
+Senior Frontend Developer para Familia Facil. "Personal doméstico de confianza".  http://familiafacil.es/ 
+En FamiliaFacil estamos buscando un Senior Frontend Developer para que se una a nuestro equipo y seguir mejorando nuestra web y aplicación móvil.
+FamiliaFacil es un market place de empleo doméstico que nació en 2012. Estamos en fase de gran crecimiento tras consolidar el modelo de negocio. 
+EL objetivo de Familia Facil el adaptar paulatinamente el actual stack LAMP a Javascript (ES6) puro en frontend y backend. Somos amantes del Clean Code y las buenas prácticas, y buscamos a alguien que quiera trabajar construyendo un gran producto.
+El trabajo será presencial en la oficina de Madrid (Junto a plaza de Castilla) pero con algo de flexibilidad para trabajar desde casa cuando haga falta.
+La remuneración será de 30.000€ a 36.000€ brutos anuales (en función de experiencia). Periodo de prueba de 6 meses y contrato indefinido tras superar el periodo de prueba. 
+Buscamos a alguien con un mínimo de (seis meses - un año de experiencia con ReactJS) en proyectos reales. Queremos a alguien capaz de asumir retos, acompañado de un equipo formado por gente profesional y trabajadora. Una persona con experiencia en proyectos complejos y capaz de tomar decisiones. Alguien que tenga en cuenta los detalles y con gran nivel técnico. Apasionado por la tecnología y que quiera aprender con nosotros. 
+Tenemos un roadmap lleno de objetivos increíbles y apasionantes, y una plataforma que debe ser segura y escalable debido a nuestro rápido crecimiento.
+Envíanos tu Github y cuéntanos qué es lo que más te gusta.
+Si estás interesado escríbenos
+Se requiere:
+*** JavaScript ES6 (alto nivel) ***
+Experiencia en, ReactJS, React Native y Node.
+Mongo DB.
+Experiencia en trabajo con Javascript Task Runners o meteor.
+Experiencia en HTML5, CSS3, jQuery.
+Experiencia en lenguajes dinámicos para hojas de estilo (como LESS o SASS).
+Valorable:
+Experiencia con FrameWorks en PHP como Symfony, Framework PHP Zend.
+Se valorará adicionalmente experiencia con GraphQL, Redux y proyectos isomórficos.

@@ -1,0 +1,24 @@
+
+Debido a la acogida de nuevos proyectos se requiere la incorporación de Programadores Web Junior PHP.
+Se incorporará a un equipo cualificado, joven y multidisciplinar.
+Dependiendo del director de proyectos las funciones a realizar son las siguientes:
+- Desarrollo y gestión de portales 
+- Desarrollo de webs 
+- Desarrollo de plataformas de empresas
+Es importante que tenga conocimientos y experiencia en maquetación y Wordpress para personalización de plantillas y gestión de contenidos. Valorable conocimientos de portfolio.
+Competencias Clave - Conocimientos:
+- php 
+- javascript, jquery 
+- css3 
+- html5 
+- mysql
+Valorable:
+- bootstrap 
+- angular JS 
+- programación orientada a objetos 
+- conocimiento de estructuras JSON
+Competencias Clave - Conocimientos:
+- Orientación al cliente 
+- Orientación a resultados 
+- Excelencia profesional 
+- Trabajo en equipo

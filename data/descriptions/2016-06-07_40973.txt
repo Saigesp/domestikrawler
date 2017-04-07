@@ -1,0 +1,35 @@
+
+Buscamos un/a programador/a para unirse a nuestro equipo de forma inmediata.
+Con capacidades full stack (frontend/backend) formará parte de un equipo transversal basado en metodologías ágiles de programación (Scrum) para clientes medianos y grandes.
+
+Los conocimientos básicos requeridos son:
+Programación en PHP, jQuery y Ajax
+Control a nivel de HTML5, CSS3, JavaScript.
+Experiencia en interacción con Bases de Datos MySql y SQL Server.
+Programación sobre Wordpress y Prestashop.
+Repositorios de código y control de versiones bajo Git
+Se tendrán en cuenta conocimientos en entornos de programación ColdFusion y/o Joomla.
+Conocimientos Básicos de Angular JS.
+
+Otras capacidades que se tendrán en cuenta:
+Inglés a nivel medio-alto hablado y escrito.
+Conocimientos básicos de SCRUM.
+Deseable conocimientos de TDD.
+Deseable conocimientos de IIS y apache.
+Desarrollo de aplicaciones Híbridas (Ionic, Phonegap, Framework7).
+
+Imprescindible:
+Capacidad de trabajo en equipo
+Amante de nuevos retos y sin miedo a asumir responsabilidades
+Que le guste programar, código limpio, comentado y tabulado
+
+Ofrecemos:
+Incorporación inmediata
+Máximo respeto por horarios y conciliación laboral
+Retribución en torno a los 22-25 mil euros anuales
+Formación continúa
+
+Si te apasiona programar y deseas formar parte de un equipo profesional en permanente evolución, envíanos ya tu C.V. y tus datos de contacto.
+¡Ah! Y si conoces a alguien que pueda estar interesad@ envíale, por favor, esta oferta.
+Estamos deseando conocer a todas l@s candidat@s ;)
+

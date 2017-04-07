@@ -1,0 +1,24 @@
+
+En La Nevera Roja continuamos creciendo, por eso buscamos a un/a profesional como tú, con ganas de potenciar su carrera laboral en una empresa donde apostamos por el desarrollo personal y profesional de nuestros empleados.¿Estás preparad@ para lo que tenemos que proponerte?
+Queremos ampliar nuestro departamento de Tecnología e incorporar a un/a Desarrollador/a en php, con experiencia de al menos 1 año en desarrollo orientado a objetos en php, así como en sql.
+Tú trabajo estará enfocado al desarrollo de código y funcionalidades tanto para aplicaciones nuevas como para las ya existentes, asegurando siempre la calidad del código y ejecutando los pertinentes planes de prueba, entre otros.
+Tendrás la oportunidad de unirte al proyecto de expansión de La Nevera Roja, y trabajar con un equipo y entorno laboral dinámico y creativo, todo ello en contacto con el resto de departamentos de la empresa. Si te consideras analític@, si buscas la excelencia en el trabajo, si te apasiona la tecnología y reúnes los requisitos de la vacante, ¡esta es tu oportunidad! ¿Te apuntas?
+Tus principales tareas o funciones a desarrollar como Desarrollador/a de php son las siguientes:
+- Convertir las tareas de usuario en diseños técnicos (Clases + esquema bbdd).
+- Colaborar en la estimación y planificación de tareas.
+- Programar las tareas asignadas.
+- Asegurar la calidad del código desarrollado, tanto a nivel funcional como de naturaleza del código.
+- Diseñar y ejecutar planes de pruebas en el código desarrollado.
+- Documentar los resultados obtenidos.
+- Colaborar en la gestión de sistemas (lamp).
+- Participar en la definición de la arquitectura de producto.
+Requisitos:
+Para poder valorar tu candidatura, es imprescindible que cumplas con estos requisitos:
+- Estudios finalizados.
+- Experiencia de 1 año en el desarrollo orientado a objetos en php utilizando un framework web (deseable conocimientos de al menos un año en symfony 1.4 y/o 2) y de 1 año en desarrollo orientado a webs con alto volumen de tráfico y conexiones concurrentes.
+- Experiencia de al menos 1 años en sql.
+- Experiencia de 1 año en gestión de sistemas basados en lamp.
+- Experiencia mínima de 1 año en diseño técnico de soluciones sw
+- Experiencia en desarrollo html+ css+js (jquery).
+Requisitos deseables:
+Será muy valorable para la selección del candidato tener experiencia en el uso de metodologías ágiles (SCRUM) y conocimientos en el desarrollo e implantación de test unitarios.

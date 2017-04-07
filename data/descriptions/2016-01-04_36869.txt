@@ -1,0 +1,19 @@
+
+El Diseñador Mobile reportará al Mobility Manager y desempeñará las siguientes funciones: 
+•	Definir requisitos funcionales, arquitectura de información y flujos de procesos.
+•	Definir  la arquitectura de información móvil con experiencia en plataformas iOS, Android y web móvil.
+•	 Conocer  las human interface guidelines de las plataformas nativas de iOS y Android. 
+•	Diseñar bocetos, wireframes y diseño visual para móvil y conocer las herramientas habituales de tratamiento de imagen digital y vectorial (Fireworks, Illustrator, Photoshop, etc.). 
+•	Dar soporte a la red para gestionar con éxito las oportunidades de aplicaciones especiales de sus usuarios. 
+•	 Generar y depurar  Scripts.
+•	 Mantener  y parchear  los diferentes entornos y aplicaciones.
+•	Troubleshooting avanzado de incidencias de los entornos gestionados.
+•	Acompañar a la red de distribución con el fin de concretar las especificaciones adaptadas a lo que el usuario necesite.
+PERFIL REQUERIDO 
+•	Grado en Ingeniería Informática, orientado a diseñar o implementar software y soluciones informáticas innovadoras en áreas de trabajo recientes, como es el caso de las plataformas móviles.
+•	Ciclo de Grado Superior de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma donde se enseña a desarrollar, implantar, documentar y mantener aplicaciones informáticas multiplataforma.
+COMPETENCIAS PERSONALES 
+•	Deberá tener una actitud dirigida hacia el trabajo en equipo. 
+•	Será  buen comunicador e innovador.
+•	 Poseerá una alta  capacidad de análisis y resolución.
+

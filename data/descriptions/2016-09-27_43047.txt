@@ -1,0 +1,25 @@
+
+Our DNA 
+At The Workshop, we invent and reinvent software solutions so businesses can rise above the competition. From disruptive fintech to cutting-edge encryption, we’re all about thinking big and bringing our razor-sharp ideas to life. We’re not bogged down by process or limited by lack of aspiration. And we trust each other to make intelligent decisions, to challenge, change, improve and perfect. It’s a culture where forward-thinkers like you can be fearless.
+Your Mission 
+You’ll be part of a super-motivated Software Development team that’s structured around product-centric PODs. Each POD includes technical leadership, development, architecture, QA, and product and project management functions.
+Using JavaScript, HTML and CSS, you’ll create simple, intuitive and effective web-based Graphical User Interfaces that make our online games even more compelling and engaging. For you, it will be a labour of love and a chance to put your own bright ideas into action.
+What you’ll do: 
+Develop, test, document and maintain the front end of desktop and mobile web-based applications 
+Write front-end code using programming patterns and following industry best practice 
+Help design and develop the front-end architecture 
+Make sure your GUIs are properly built and designed 
+Maintain a personal test environment (Apache with JSP/PHP) 
+Get together with other creative thinkers to build your understanding of players and explore what they want 
+Keep up to speed with industry front-end trends
+What you’ll bring: 
+Equipped with a strong background in web product development plus hands-on experience of JavaScript, HTML(5), CSS(3) and Ajax 
+Well-versed in web-based applications, application servers, HTTP protocol and web services 
+Experienced in JavaScript frameworks like jQuery, Ext or Angular, as well as version control systems such as SVN/Git or Mercurial 
+Skilled at debugging front-end applications using cross-browsing techniques 
+Clued-up about the SDLC and Continuous Integration 
+Familiar with the most popular programming patterns used in front-end development; with image editing and tools like Fireworks or Photoshop; and with web design and user experience principles 
+If you have a Computer Science degree or similar, plus experience of using CSS pre-processor, template systems, CMS, e-commerce systems or responsive web design, even better.
+What’s in it for you: 
+There’ll be challenging, fascinating projects for a start – the kind that give you the chance to do some of the most rewarding work of your life. Plus amazing opportunities to gain international experience thanks to our offices in London and Malaga. On top of that, expect all sorts of initiatives that will nurture, support and develop you, as well as excellent location-specific benefits.
+

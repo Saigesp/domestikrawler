@@ -1,0 +1,32 @@
+
+Funciones y responsabilidades: 
+- Desarrollo y mantenimiento de las aplicaciones internas
+- Gestión de incidencias técnicas
+Experiencia profesional mínima:   
+- superior a 3 años en puesto similar
+Ofrecemos:
+- Integración en un empresa sólida y en un continuo crecimiento y en un equipo altamente cualificado
+- Trabajo estable con contrato indefinido
+- Salario acorde al nivel de experiencia
+- Excelente ambiente de trabajo
+- Formación a cargo de la empresa
+- Horario Flexible de 40 horas semanales, viernes por la tarde libres y horario reducido en verano 
+- Ayuda para la comida (tickets de comida)
+Formación académica: 
+- Mínima: Ciclo Formativo Superior Informática (FP).
+- Deseada: Ingeniería técnica o superior (Telecomunicaciones o informática).
+Conocimientos requeridos:
+- Programación web: JQuery, JavaScript, PHP, css, html5.
+- Experiencia en diseño y desarrollo (usabilidad, pruebas de stress, compatibilidad) de páginas web.
+- Programación sobre BBDD Oracle (11g) y MySQL
+- Capacidad de trabajo en equipo
+- Comprensión y expresión en inglés a nivel medio/alto
+Se valorará:
+- AJAX  y deseable conocimientos en framework GWT o SmartGWT
+- Conocimiento avanzado de protocolos y aplicaciones Internet.
+- Tecnología JavaEE y JavaSE 
+- Experiencia en desarrollos en entorno Web java (JSP, JSTL, Servlets)
+- Conocimiento de las API EJB3, JPA, JAX-WS, JAX-RS, JAXB
+- Uso de IDE Netbeans
+- Experiencia en el sector de hosting
+

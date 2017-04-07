@@ -1,0 +1,14 @@
+
+El trabajo consiste en crear la imagen de empresa de una startup orientada a la web, es una especie de red social.
+La imagen de empresa debe incluir:
+- Marca, Nombre, ...
+- Slogan, emblema, ...
+- Logotipo, isotipo, monograma, ...
+- Colores
+- Iconos
+- Dossier de empresa
+- Presentación de productos
+- Plantillas de Documentos
+- Material para el look de la web
+- Videos Promocionales (por determinar)
+Acordes con la filosofía, misión, visión, valores, lealtad, servicios, integridad e innovación de la compañia.

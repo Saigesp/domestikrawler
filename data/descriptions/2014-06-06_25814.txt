@@ -1,0 +1,12 @@
+
+FUNCIONES:
+- Diseño y adaptación de originales de publicidad para diferenes soportes.
+REQUISITOS:
+- Publicidad online.
+            - HTML 5, CCS3, Java script, jQuery.
+            -Valorable: php y experiencia en diseño responsive para dispositivos móviles. Edge      animate,    Muse, Flash, Dreamweaver, Premier y After Effects.
+- Publicidad Interactiva para tablets.
+            - Publicaciones interactivas con Adobe DPS.
+- Publicidad Impresa.
+            - Manejo de la suite Adobe Creative Cloud: Indesing, Illustrator, Photoshop. Nivel experto.
+- Experiencia demostrable.

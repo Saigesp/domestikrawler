@@ -1,0 +1,17 @@
+
+We are a young, highly motivated and experienced team working in Barcelona. We work in a fantastic environment (World Trade Center, front Maremagnum) and and we will grow to other European countries in the next year.
+This position requires expertise as System Administrator, with special focus on fine tuning, monitoring and automation. His/her main responsabilities will include keep every system and service up and running and exhaustively monitored.
+We currently have an heterogeneous environment of Linux and Windows, but Windows will smoothly dissapear in the next months from the production sites (yeah!)
+Minimum REAL Requirements:
+- Strong Linux administration, bash scripting, etc
+- Experience on MONITORING _production_ systems (we use Zabbix, maybe you are used to nagios or any other mainstream monitoring system)
+- High Availability
+- Automation: Ansible, Puppet, Cheff, etc. whatever but only with real presentable experience of having worked with deployment of multiple servers/apps in production (i.e. >5 simultanous) 
+- Amazon Web Services (mainly, but not limited to, Ec2, S3, IAM, Beanstalk)
+Knowledge of following technologies will be a big plus:
+- Elastic Search (we use it massively)
+- Knowledge on administration databases (not only using it). (any of mysql, postgresql or sqlserver)
+- Knowledge on working with Queues and distributed processes (RabbitMQ, others)
+- Knowledge on Hadoop
+- Any object oriented programming language, to be able to understand the needs and limits of a development team
+Note: Please have in mind that we're not looking for a freelance and this applications will be dismissed. 

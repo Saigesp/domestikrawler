@@ -1,0 +1,15 @@
+
+Agencia de comunicación requiere profesional con al menos cinco años de experiencia demostrable en el desarrollo de páginas Web y aplicaciones interactivas.
+Ofrecemos incorporación inmediata para trabajar y participar activamente en la creación y mantenimiento de interesantes proyectos en un ambiente joven y dinámico que fomenta la iniciativa y la creatividad.
+Buscamos perfil presencial, abstenerse freelance y autónomos.
+Requisitos:
+- Conocimientos de PHP avanzados.
+- Conocimientos avanzados de Programación Orientada a Objetos, MVC, Frameworks, Laravel, Composer,..
+- Conocimientos avanzados de SQL.
+- Conocimientos avanzados de maquetación y estándares Web, XHTMLStrict/CSS, HTML5/CSS3, W3C, Sass,..
+- Conocimientos avanzados de técnicas Responsive y Adaptative para diferentes sistemas, navegadores y dispositivos.
+- Conocimientos avanzados de JavaScript, jQuery, Angular, Gulp, Bower,..
+- Conocimientos avanzados en CMS y desarrollo de Themes y Plugins con Wordpress.
+- Conocimientos avanzados en el uso de APIs y Webservices.
+- Conocimientos avanzados de SEO, optimización y posicionamiento.
+- Al menos 5 años de experiencia demostrable en estas tecnologías.

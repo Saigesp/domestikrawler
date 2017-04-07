@@ -1,0 +1,28 @@
+
+We are looking for an enthusiastic, motivated collegue who would like to work at a young and dynamic company specializing in the complete end-to-end delivery of high-impact JEE web-applications. We are a group of peers who leverage modern methodologies (AGILE, SCRUM), state-of-the-art technologies (BigData) cloud solutions, we are even an ´Advances Consulting Partner´ of Amazon Web Services. We implent complex solution with a numbre of top clients (Ziggo, Randstad, Weight Watchers...)Our office is based in Amsterdam near the RAI station and is home to out European headquarters.
+Requisitos
++ 4 years experience developing applications software
+- Developing RESTful services using JEE/JAVA/SPRING
+- Experience with at least once or two RDBMS, such as Oracle, MySql, or PostreSQL and use of Binermate, ORMs and/or jdbc
+- Clear understanding of desig patterns
+- Demostrated experience working with teams using agile methologies
+BONUS:
+- Experience with integration frameworks such as APACHE CAMEL or MULE
+- Enderstanding of document descrption languages such as JSON and XML
+- Working knowledge of SCM with strong emphasis on Git and Git Flow
+Our main working language is English, so a good command of the English language is required. And if you hace a good sense of humor and a passion for technology, then we are looking for you!
+Funciones
+- Design and develope server side app using JAVA, SPRING, SPRINGMVC, HIBERNATE and other open source technologies
+- Design and develop enterprise RESTful web services
+- Work with mobile architects and developers to implement solutions
+- Work as part of an Agile Team (SCRUM) on leading edge technologies
+As part of the senior role, you will be responsible for software architecture as well, depending on the project team you are working in.
+Ofrecemos
+As a highly ambitious company, we are growing fast. We operate a lean team with a start-up mentality, keeping base salaries on line with taht mindset. The value of that is hands on work in leading edge, innovative projects with worlds best companies, and little bureaucracy or timelines for growth. Highly capable, ambitious proffesionals who can drive impact can grow quickly and lear a tremendous amount along the way.
+And besides a competitive base salary, Mobiquity offers you:
+- €100 for health insurance compesation
+- A pension plan, where Mobiquity contrinutes the most part
+- 25 holidays
+- Stock options
+- Travel cost compensations
+- Bonus plan

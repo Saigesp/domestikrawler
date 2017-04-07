@@ -1,0 +1,26 @@
+
+Desde The Valley Talent, Head Hunter especializado en perfiles digitales, buscamos desarrolladores web Senior PHP con más de 4 años de experiencia para trabajar dentro de una empresa en constante desarrollo, en un proyecto innovador y utilizando metodologías ágiles y las últimas tecnologías en desarrollo web.
+REQUISITOS
+•	Tener experiencia demostrable en PHP, JavaScript y jQuery.
+•	Haber trabajado con HTML5 y CSS3.
+•	Saber programar orientado a objetos y uso de frameworks MVC.
+•	Tener conocimientos de BBDD relacionales y SQL.
+•	Dominar Webservice, API, XML, JSON.
+•	Haber trabajado con metodologías de Desarrollo Ágil (SCRUM, Unit Testing, Git...).
+Se valorará:
+•	Experiencia con bases de datos NoSQL
+•	Familiaridad con servicios Rest
+•	Experiencia en desarrollo con Zend Framework
+•	Conocimiento de Django
+•	Experiencia con bases de datos Oracle y MySql
+•	Capacidad de trabajar en Ticketing con Redmine.
+•	Conocimientos de Linux.
+COMPETENCIAS PERSONALES
+El candidato deberá tener capacidad de cumplir plazos y tareas de forma eficaz, proponiendo soluciones a los problemas y responsabilizándose en las decisiones.
+
+Se considera imprescindible para el candidato ser conocedor de las tendencias relevantes, con capacidad de anticiparse, adaptarse y comprometerse a las ideas y formas de hacer en la organización.
+
+El candidato debe aportar capacidad de reacción con carácter resolutivo ante los problemas que puedan surgir.
+
+El puesto requiere un perfil proactivo con capacidad de anticiparse.
+

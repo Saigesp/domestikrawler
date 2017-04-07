@@ -1,0 +1,19 @@
+
+Buscamos personas creativas, comunicativas, a las que les guste aportar y compartir ideas y que sepan trabajar en equipo.
+Participarás en el desarrollo de campañas y promociones (web, mobile y tablet) para importantes marcas nacionales, así como en el mantenimiento y mejora del site del programa de fidelización desarrollado en Drupal.
+Tus responsabilidades irán desde la maquetación de páginas acorde con los diseños proporcionados, hasta el desarrollo de webapps con un alto grado de interacción.
+Qué has de tener: 
+- Amplia experiencia con HTML5, CSS3 
+- Dominio de JavaScript (sobretodo jQuery) 
+- Conocimientos de técnicas cross-browser 
+- Experiencia en desarrollos multi-dispositivo 
+- Familiaridad con Photoshop
+Se valorará... 
+- Experiencia con LESS o SASS 
+- Experiencia en Drupal u otros CMS 
+- Conocimientos en UX (diseño, interacción, usabilidad...) 
+- Experiencia en últimas tecnologías web (HTML5, CSS3, jQuery, Less...). 
+- Conocimiento avanzado de Javascript 
+- Inglés a nivel técnico 
+- Experiencia en frameworks (Sencha, JQueryMobile, Dojo, ...) 
+- Conocimientos de Bootstrap, Ajax

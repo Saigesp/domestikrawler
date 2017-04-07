@@ -1,0 +1,25 @@
+
+About the company:
+The Onevest ecosystem (1000Angels, Cofounderslab) supports founders and investors in building successful ventures. Onevest provides technology products to connect founders, investors, advisors and influencers in the entrepreneurship community seamlessly and easily.
+As part of a deep renovation of our current Cofounderslab platform we are looking for a web software engineer to join us in our Barcelona office. You will have the chance to join a highly talented international team located around the world with the unique and empowering mission of helping founders and investors to be successful.
+Responsibilities:
+- Write clean and efficient PHP code using the Symfony2 framework.
+- Implement web interfaces using HTML5, CSS and Javascript.
+- Develop and maintain a continuous integration strategy for testing.
+- Work directly with the product leader to technically spec new features.
+- Develop APIs for use by our mobile web applications.
+Requirements:
+- University degree in Computer Science or equivalent work experience.
+- Expertise working with PHP5.
+- Strong experience working with MVC frameworks (Symfony2 preferred).
+- Strong experience working with SQL databases (MySQL preferred).
+- Strong knowledge of client side technologies, HTML5, CSS3, and Javascript.
+- Experience designing, coding and consuming Restful APIs.
+Bonus points:
+- Experience working with NoSQL databases (MongoDB preferred).
+- Experience working with cloud infrastructures, especially AWS.
+- Experience working with Javascript libraries and frameworks.
+- Experience working with distributed teams or third-party vendors.
+- Experience using caching systems like Memcached and Redis.
+- Experience working with version control systems, especially Git. 
+- English at least at written level. You will work closely with our NYC office.

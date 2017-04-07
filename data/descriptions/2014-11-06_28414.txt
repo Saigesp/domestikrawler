@@ -1,0 +1,51 @@
+
+¡¡¡Buscamos talento 360º!!!
+Un Full Stack Developer que sepa moverse con familiaridad en cualquier capa de desarrollo,
+que muestre maestría e interés genuino en toda la tecnología de software.
+La persona que necesitamos sabe cómo hacerles la vida más fácil a las personas que le rodean,
+utiliza la cabeza y el corazón en desarrollar un mejor producto en menos tiempo.
+Participará en proyectos muy interesantes y deberá desplegar todos sus conocimientos y destrezas.
+¿Qué es un Full Stack Developer para Adesis?
+- Server, Network, and Hosting Environment.
+Entiende de servidores, redes y Hosting, tiene una comprensión completa de lo que se puede
+romper y por qué. Saber hacer uso del sistema de archivos, almacenamiento en la nube, los
+recursos de red. Puede trabajar con DevOps.
+- Data Modeling.
+Si el modelo de datos es deficiente, la lógica de negocio y las capas superiores comienzan a
+usar un código extraño (feo) para compensarlo, un Full Stack Developer sabe cómo crear un
+modelo relacional normalizado, con claves foráneas, índices, vistas, tablas de búsqueda, etc.,
+está familiarizado con el concepto de Data Modeling.
+- Business Logic.
+El valor de la aplicación es su Business Logic, se necesitan habilidades sólidas con la
+programación orientada a objetos. El conocimiento de diferentes Frameworks es decisivo.
+- API layer / Action Layer / MVC.
+Un Full Stack Developer tiene la capacidad de escribir interfaces claras, coherentes y sencillas
+de usar. Conoce y sabe trabajar con las Google APIs, trabaja con una arquitectura de software
+MVC y Spring Framework (Webflow, Security, MVC, Data...)
+- Unit tests.
+Tiene la habilidad de escribir pruebas unitarias de calidad (JUnit, JSLint, Jasmine...).
+- Automated processes.
+Genera procesos automatizados para la construcción de las aplicaciones, realiza pruebas, la
+documenta y se despliega a gran escala.
+- Security.
+Tiene en cuenta los problemas de seguridad ya que cada capa presenta sus propias vulnerabilidades.
+- User Interface.
+Un Full Stack Developer debe:
+a) Entender cómo crear un diseño del código legible
+b) Reconoce que es necesaria la ayuda de artistas y diseñadores gráficos, la implementación de un buen diseño visual es clave.
+c) Tiene dominio de HTML5 / CSS3
+d) Utiliza JavaScript como lenguaje de programación en la capa de Frontend, es capaz de
+pegarse con AngularJS, NodeJS, Backbone, GuplJS, Polymer...
+- User Experience.
+Un Full Stack Developer sabe que es vital para los usuarios que las cosas funcionen.
+Es capaz dar un paso atrás y cambiar un proceso que necesita 8 clics y dejarlo en un solo clic.
+Understanding what the customer and the business need.
+Un Full Stack Developer comprende al cliente y entiende sus necesidades. Sabe lo que está
+pasando cuando el cliente utiliza el software. También tiene conocimiento de negocio.
+Requisitos:
+Estudios minimos:
+Ingeniero Superior - Ingeniero en Informática
+Experiencia mínima:
+Más de 5 años
+Conocimientos necesarios:
+Spring, Arquitectura, JavaScript, Hosting, Data Modeling, HTML5, Seguridad, API, CSS3, JUnit

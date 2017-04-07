@@ -1,0 +1,16 @@
+
+Agencia de publicidad busca programador web 
+Tareas a realizar:
+- Desarollo y mantenimiento de páginas web
+- Desarollo y actualización de tiendas online 
+- Gestión de envíos de newsletters 
+Requisitos mínimos:
+- Domínio de Flash y+ ActionScript 2 &amp; 3 
+- HTML + CSS + JavaScript
+- PHP
+- PhpMyAdmin + MySQL
+Se valorará experiencia con:
+- Jquery 
+- Prestashop 
+- Magento
+- Wordpress u otros CMSs

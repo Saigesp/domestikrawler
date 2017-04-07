@@ -1,0 +1,4 @@
+
+Disponemos de un template de Magento ya instalado (orientado a comercio electrónico web2print) y necesitamos configurarlo adecuadamente en cuanto a multitienda (dos tiendas), configuración de la estructura de categorías, subcategorías y productos. Cambio del layout de la página principal y de descripción de producto. Nosotros realizaríamos las tareas de subida de contenidos y elementos gráficos necesarios.
+Básicamente necesitamos una configuración y parametrización de Magento que nos permita empezar a dar de alta productos y contenidos.
+Una vez finalizado este proyecto deberemos comenzar otro para migrar una tienda e-commerce que disponemos actualmente a Magento.

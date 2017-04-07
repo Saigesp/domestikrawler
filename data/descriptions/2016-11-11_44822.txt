@@ -1,0 +1,16 @@
+
+Buscamos un perfil multidisciplinar con capacidad para desempeñar funciones que van desde el diseño interactivo, a la creación y maquetación de webs, microsites, landings, newsletters...
+Aptitudes 
+-  Organizado, metódico y perfeccionista. 
+-  Entrega e implicación en los proyectos. 
+Diseño, conocimientos requeridos: 
+- Dominio del pack Adobe (Photoshop, Illustrator, InDesign, ...)
+- Sensibilidad y sentido del gusto.
+- Se valorarán conocimientos en fotografía, representación 3D, edición de vídeo, ilustración...
+Maquetación, conocimientos requeridos: 
+- HTML5 
+- SASS/LESS
+- CSS3 
+- Jquery
+El candidato debe tener experiencia contrastable y aportar un portfolio de trabajos realizados.
+

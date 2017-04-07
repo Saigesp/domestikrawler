@@ -1,0 +1,9 @@
+
+Hola, buscamos un programador con dominio de:
+- C#
+- MVC 
+- HTML5, Javascript, Css3
+- SQL
+- Buen nivel de Inglés
+- Ganas de aprender
+Deseable que tenga conocimientos de otras tecnologías.

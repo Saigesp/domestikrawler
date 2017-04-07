@@ -1,0 +1,8 @@
+
+En allinagency_ somos nosotros mismos. Nos gusta venir a un lugar llamado oficina y de vez en cuando nos damos cuenta que estamos trabajando. La transparencia es uno de nuestros valores y lo llevamos a la práctica en el día a día. En estos meses estamos creciendo despacio pero con paso firme. Aún somos una empresa pequeña pero la usamos bien ;)
+Pues ahora es el turno del departamento de desarrollo ya que estamos buscando a un Programador Senior. Esto de Senior significa que debes tener al menos 4 ó 5 años de experiencia y los siguientes conocimientos mínimos: 
+- PHP, HTML5, CSS3, jQuery… 
+- Conocimientos de alguno de los siguientes Frameworks PHP: Symfony 2 o Yii. 
+- Actitud abierta, analítica y altos dotes de organización. 
+- Conocimientos en WordPress y Drupal a nivel de desarrollador. 
+- Alta motivación y capacidad comunicativa.

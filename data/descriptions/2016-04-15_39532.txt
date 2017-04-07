@@ -1,0 +1,13 @@
+
+Empresa multinacional líder en el mercado en banca digital precisa incorporar 2 diseñadores UX-UI para integrarse en el equipo de experiencia de usuario, con alta capacidad de trabajo en equipo, motivación constante por aprender e interés por las nuevas tendencias del mercado.
+Función Principal: 
+- Apoyo al equipo gráfico en tareas de diseño y usabilidad web. 
+- Controlar que las pantallas diseñadas por el departamento gráfico sean implementadas adecuadamente por el equipo frontends. 
+- Devolver el feedback de los frontends de manera organizada al departamento gráfico para asegurar que los diseños son factibles.
+Perfil de Competencias Técnicas: 
+- Conocimientos de Usabilidad Web.   
+- Conocimientos de Best-practices de optimización de velocidad. 
+- Nivel avanzado en Illustrator y Photoshop. 
+- Experiencia en CSS y HTML. 
+- Se valorará InDesign, After Effects y Muse.
+

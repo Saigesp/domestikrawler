@@ -1,0 +1,51 @@
+
+What we can offer?
+We offer the chance to take part in one of the most exciting projects that will change the vision of social media and e-commerce that the world has today. We are growing fast and looking to integrate an experienced iOS Developer into our international developing team based in Madrid, Spain. We have our own lab where we get try out some of today’s most advanced technologies, making this is an exciting time to join us and help us create the new standard for selling online. Aside from sharing in the successes of the team, we offer:
+- Forming part of the awesome team driving the Instant Commerce revolution worldwide
+- A competitive package depending on your experience, including fixed & variable salary and 50% allowance private health insurance
+- Very cool offices located in the heart of Madrid’s best neighbourhood, Salamanca, close to Retiro Park.
+- Corporate Kitchen
+- Great work environment 
+- A young, diverse and dynamic international environment 
+- True opportunities for professional growth 
+- English dominated, but multilingual workplace
+Our Recruitment Process
+We aim to reply to all applicants within a couple weeks of receiving your application. Our interview process consists of several stages, each one allowing us get to know you better, professionally and technically. It is also an opportunity for you to gain a better understanding of our culture and the work we do here at Bloombees. The stages include:
+- CV and source code repository code / public portfolio review
+- The Code Test - We sometimes skip this if your portfolio of work has enough examples of code you’ve worked on to give us confidence in your ability to write code to solve a real-world problem.
+- Phone / Skype Interview
+- Face to Face interview
+What are we looking for ?
+We are looking for outstanding developer with at least 3 years of experience in iOS native development. You will be responsible for the coding of our application. Technically you will:
+- Design and build advanced applications for the iOS platform
+- Collaborate with cross-functional teams to define, design, and ship new features.
+- Unit-test code for robustness, including edge cases, usability, and general reliability.
+- Work on bug fixing and improving application performance.
+- Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+- Support the entire application lifecycle (concept, design, test, release and support)
+- Produce fully functional mobile applications writing clean code
+- Gather specific requirements and suggest solutions
+- Write UI tests to identify malfunctions
+- Troubleshoot and debug to optimize performance
+- Design interfaces to improve user experience
+- Liaise with Product development team to plan new features
+- Ensure new and legacy applications meet quality standards
+- Research and suggest new mobile products, applications and protocols
+- Stay up-to-date with new technology trends
+Interested in developing iOS applications and to work with young, dynamic and talented people. The selected person should be open minded, passionate for best design and coding practices and a desire to develop new bold ideas. 
+- Main qualifications and knowledge that you must have:
+- Proven working experience in software development.
+- Have published one or more iOS apps in the app store.
+- A deep familiarity with Objective-C/Swift and Cocoa Touch.
+- Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and Core Text.
+- Experience integrating and using Cocoa Pods.
+- High experience building custom interfaces.
+- Experience with third-party frameworks.
+- Experience consuming REST APIs.
+- Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.
+- Deep knowledge of source control tools such as GIT.
+- Solid understanding of the full mobile development life cycle.
+- Knowledge and understanding of agile methodologies.
+- Advanced in English
+Bloombees is an equal opportunities employer. Diversity is one of our values and it is critical for our business success. Our decisions are based on your experience, your skills and our needs. Everyone is welcome independently of your age, gender, disability, sexual orientation, race, religion or beliefs.
+

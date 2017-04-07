@@ -1,0 +1,14 @@
+
+We are starting a social enterprise that aims to encourage volunteering in the UK. We  believe that many of the world’s social issues can be improved by creating a stronger, better supported culture of volunteering and are building a digital platform to support this vision.
+We are currently working on the first MVP and are looking for backend developers to join our team. The project is being built on Node (Express + MongoDB + Jade; this can be discussed); the frontend is starting to take shape and we are looking for a fullstack or backend developer to help on the development.
+Platform includes features such as:
+- Online CV / profile
+- Validation of experience from tier
+- Multiple user  profiles and access rights
+- Content Management
+Further specifications can be shared with candidates.
+The ideal freelancer will have proven experience working with Node/Express, and working on similar projects (creation of multiple profiles with different contents to manage, data collection from APIs, workflow validation with multiple tiers…) Experience with MongoDB and appetite for frontend development are pluses.
+We are just starting our adventure but already have great feedback  and traction in the market.
+At the end of this work, if both parties are happy with the collaboration, we’re open to integrate the successful developer in the team.
+We're looking for someone to start soon.
+Preferred locations: Barcelona and London

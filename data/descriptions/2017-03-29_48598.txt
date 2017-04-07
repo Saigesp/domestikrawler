@@ -1,0 +1,21 @@
+
+AxesInMotion es una empresa especializada en juegos de conducción para móvil. En pocos años hemos conseguido acumular más de 200 millones de descargas en iOS y Android, apareciendo en posiciones altas en los rankings de descargas en multitud de países, lo que nos hace muy competitivos a nivel internacional. Con este ritmo de crecimiento estamos sentando las bases para desarrollar juegos cada vez más sólidos, ambiciosos y divertidos. 
+Somos un equipo de profesionales y contamos con antiguos trabajadores de empresas como Gameloft, Tequila Works, Pyro Studios, Electronic Arts, Dinamic o Goodgame Studios. Estamos asentados en Sevilla y además de proyectos que se encuentran en su recta final estamos entrando en pre-producción de otros especialmente ilusionantes. 
+Buscamos a profesionales exigentes y amantes de los videojuegos en todas sus plataformas con quienes compartir un apasionante proyecto de largo recorrido cuyo potencial crece día a día.
+Descripción del puesto:
+El diseñador de usabilidad y experiencia de usuario es el responsable de encontrar soluciones intuitivas de diseño centradas en el usuario. En estrecha colaboración con los diseñadores y artistas, tendrás que definir, prototipar, comunicar e iterar en soluciones de usabilidad y experiencia de usuario, incluyendo UI, signos y feedback, controles y otros elementos de juego que el jugador encara.
+Las tareas principales del puesto son:
+Recopilar los requisitos de los diseñadores y transformarlos en elementos de UI usables y de paradigmas de interacción.
+Crear las especificaciones del diseño de interfaz, generar concepts wire-frame, pre-visualizaciones, storyboards o flujos de usuario.
+Validar e iterar en la experiencia de usuario basándose en Playtest y analíticas.
+Diseñar la lógica, el layout y el flujo del juego de los interfaces de usuario incluyendo HUD, menús basados en arquitectura de información y principios de accesibilidad.
+Asegurarse de que los signos y señales y el feedback recogido comunica de manera clara la información del juego basadas en las mejores prácticas de accesibilidad.
+Requisitos:
+3 años de experiencia práctica en diseño UX/UI.
+Conocimiento exhaustivo de interacción y diseño y de los principios del diseño orientados a usuario.
+Se valorará conocimiento de programación y/o web (para entregar prototipos interactivos).
+Se valorará conocimiento de testeo de usabilidad.
+Habilidad para entregar prototipos y diseños para interacciones complejas.
+Experiencia en videojuegos.
+Pasión por el diseño de UX.
+Motivado con un deseo por conducir el cambio.

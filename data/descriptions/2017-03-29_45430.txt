@@ -1,0 +1,24 @@
+
+*Descripción de la empresa:*
+El Instituto Europeo de Posgrado es una Escuela de Negocios con una metodología 100% online, que imparte programas MBA, Máster y formación a empresas. El Instituto Europeo de Posgrado es miembro de las principales asociaciones educativas españolas e internacionales que acreditan la calidad de sus programas. Su metodología, le ha permitido obtener la certificación de calidad en formación Qfor. Prestigiosas publicaciones económicas (Financial Times y Business Week) recogen en sus listados a la institución, entre las mejores de ámbito nacional e internacional.
+*Tareas a Desarrollar:*
+* Adaptación y modificación de piezas de email marketing en HTML y CSS.
+* Programación y envío de las piezas de email marketing usando herramientas de emailing.
+* Edición de imágenes a un nivel intermedio con el uso de Photoshop/Illustrator.
+* Modificaciones y desarrollos de la página web y landings.
+* Gestión de las páginas webs y dominios de forma directa o a través de las empresas que nos lo gestionan.
+*Conocimientos y aptitudes necesarias:*
+* HTML5
+* CSS3
+* PHP
+* JQUERY
+* JavaScript
+* Photoshop e Ilustrator
+* Adwords/ Analytics / Tag Manager
+* Con Conocimientos de Wordpress y Plugins
+* Persona muy ordenada y organizada
+* Persona acostumbrada al uso de buenas prácticas en programación y desarrollo web
+* Ayuda en labores del departamento de marketing digital
+*Horario*: De lunes a viernes de 10:30 a 19:30
+*Salario*: 1.000 € (brutos) / mes
+*Tipo de contrato:* 3 meses + 3 meses + indefinido

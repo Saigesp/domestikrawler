@@ -1,0 +1,21 @@
+
+Voices That Matter SL es una plataforma internacional que promueve de forma online el mundo de los negocios en diferentes países, centrándose en sus principales empresas con el fin de incrementar las inversiones extranjeras y promocionar relaciones comerciales.
+Actualmente estamos buscando un diseñador / desarrollador web para mantener y desarrollar nuestra red de sitios web.
+Requisitos indispensables:
+
+- Inglés nivel medio-alto (se hará una prueba oral del idioma)
+- HTML, Javascript, CSS, Dreamweaver.
+- Amplia experiencia en MySQL y phpMyAdmin
+- Programación PHP nivel medio-superior
+- Nivel medio de diseño gráfico (Photoshop, banners GIF animados)
+- Control absoluto de Joomla (a nivel gestión y personalización de templates)
+- Control de cPanel: Crear emails, hacer backups, acceder a phpMyAdmin.
+- Manejo de FTP (FileZilla)
+- Manejo de PDF (separar, unir, diferenciar en resoluciones: 72, 300 ppp)
+- Portfolio o ejemplos de trabajos
+
+Conocimientos deseados adicionales:
+
+- Conocimiento de Flash
+- Conocimiento de Video
+

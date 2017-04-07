@@ -1,0 +1,16 @@
+
+Busco una persona que de manera continuada pueda realizar tareas de mantenimiento en webs de mis clientes.
+Se propone una colaboración en remoto y pasado un periodo de prueba se ofrecerá la posibilidad de trabajar desde nuestra oficina.
+Requisitos mínimos:
+- HTML4 
+- CSS2
+- PHP
+- jQuery
+- WordPress
+- Joomla
+Requisitos deseados:
+- HTML5
+- CSS3 (media query)
+- PrestaShop
+Abstenerse candidatos sin capacidad de facturar y no residentes en Madrid.
+Enviar un portfolio con una pequeña descripción de los trabajos realizados en cada proyecto.

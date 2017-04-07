@@ -1,0 +1,31 @@
+
+Buscamos Mobile Developer iOS
+•	Que haya llevado equipos de desarrollo previamente. (Experiencia demostrable)
+•	Opcional pero valorable que hayan sido equipos ágiles. (Experiencia demostrable) 
+•	Conocimiento amplio sobre IOS. Valorable Apps propias. Apps de e-commerce 
+•	Opcional pero valorable conocimiento sobre Android. 
+•	Conocimiento sobre arquitecturas límpias. (Talento)
+•	Cultura de equipo y personalidad. (Actitud)
+Responsabilidades:
+• Ingeniero de desarrollado de aplicaciones móviles.
+• Proporcionar aplicaciones móviles con una experiencia de usuario positiva
+• Trabajar de forma independiente.
+• Asegurar que el desarrollo se ajusta a los requerimientos y
+especificaciones definidas.
+• Trabajar estrechamente con control de calidad para garantizar código es
+limpio, libre de errores y seguro.
+• Desarrollo evolutivo y correctivo de las apps.
+• Ayudar a la revisión de los desarrollos externalizados.
+Calificaciones:
+• Conocimiento profundo de iOS y de Android, Apple y nociones de otra.
+• Experiencia en Framework PHP (Symfony, Laravel, Codeignite…) y/o Framework
+J2EE (Spring, Struts, …)
+• Experiencia en el desarrollo de interfaz de usuario orientada al
+consumidor.
+• Amplio conocimiento de las diferencias clave entre los diferentes sistemas
+operativos Android y la interfaz de usuario.
+• Experiencia en el uso de servicios web REST y JSON
+• Experiencia con Git o SVN para el control de versiones.
+• Trabajo en equipo de desarrollo
+• Experiencia en aplicaciones en la App Store de Apple y Google Play Store
+• Experiencia en la construcción de un SDK y plugins.

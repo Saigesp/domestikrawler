@@ -1,0 +1,4 @@
+
+Necesito un programador node.js en Barcelona centro. Es un pequeño proyecto de una prueba de concepto. 
+Será por ahora solo dos o tres días, pero mas adelante podría ser un trabajo recurrente. El proyecto empieza 25-26 de Noviembre.
+Se pueden usar frameworks como express o meteor y tambien se puede usar coffeescript si lo prefieres.

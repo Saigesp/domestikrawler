@@ -1,0 +1,28 @@
+
+Nuestro cliente es un importante player en el sector de la Formación Superior una sólida trayectoria empresarial de más de 15 años.
+Qué buscamos,
+Si eres un CTO con ganas de hacer algo nuevo y fresco, y demostrar tu talento… Si nos quieres ayudar a hacer el paso al siguiente nivel de la Fuerza. Con un espíritu empresarial y visión de negocio, eres un ex CTO o CEO de un Startup tecnológica, SSII o Agencia Web. Tienes una sólida cultura general técnico con experiencia reconocida en las áreas de: SaaS, PaaS, móvil, internet de las cosas, open y big data, etc. Eres un desarrollador polivalente y sabes arbitrar entre las soluciones simples y complejos. Más que un as de la tecnología, buscamos un colaborador con visión de mercado y que realiza regularmente tareas de anticipación digital. Tienes fuerza de propuesta y sabes someter a un test ideas con un enfoque de Lean Startup y luego liderar su desarrollo con métodos ágiles.
+Tu experiencia de liderazgo y tus habilidades técnicas serán más apreciados si tienes una buena dosis de inteligencia emocional y saber estar: estamos buscando a una persona flexible con una mente abierta; energética, que sabe pasar a la acción; entusiasta y simpática, con aptitud creativa.
+Tus Responsabilidades serán:
+- Gestión CMS (Wordpress, Drupal) en entornos webs corporativas, blogs corporativos.
+- Gestión LMS (Moodle, Canvas)
+- Gestión del emailing corporativo. Maquetación HTML.
+- Comprobación rendimiento general y compatibilidad cross-browser de los sites.
+- Analíticas web: creación de informes, tratamiento de logs, etc. (Webtrends, Google Analytics).
+- Webmaster Tools: optimización de tiempos de carga e indexación.
+- Optimización (SEO) para posicionamiento en buscadores.
+- Benchmarking periódico de presencia en internet de las webs del grupo (buscadores, índices, otro).
+Conocimientos Técnicos:
+- Wordpress, Drupal, Moodle, Canvas
+- PHP, MySQL, SQLserver, VisualBasic
+- Html5 (Bootstrap), CSS3, JavaScript (AngularJS, JQuery)
+- Google Analytics
+- SEO, SEM, SMO
+- Gestión Hosting de nuestros Web Servers
+- Amplios conocimientos en Microsoft Windows Server
+Competencias:
+- Buen criterio gráfico.
+- Madurez y autonomía.
+- Buen nivel de comunicación.
+- Proactividad, interés por aprender nuevas tecnologías y por aportar ideas.
+- Habituado a trabajar con pulcritud y calidad.

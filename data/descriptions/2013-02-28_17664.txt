@@ -1,0 +1,14 @@
+
+Buscamos 4 programadores entorno web en el sector del comercio electrónico.
+Se requiere experiencia de al menos 2 años en desarrollo y programación web y/o Cliente-Servidor (DHTML, Coldfusion, PHP o ASP) y código Javascript, AJAX, HTML5 y CSS3.
+Lugar de trabajo en Igualada (Barcelona).
+REQUISITOS MÍNIMOS
+- Experiencia en Web y/o Cliente-Servidor (DHTML, Coldfusion, PHP o ASP)
+- Capacidad de analizar problemas, y busqueda de soluciones
+REQUISITOS DESEADOS
+- BB.DD. relacionales (SQL Server, MySQL)
+- Javascript, AJAX y CSS a nivel avanzado
+- Conocimientos de HTML sobre mobile
+- Infraestructuras de sistemas (Servidores Linux, Windows, redes y FWs)
+- Alto nivel de inglés
+- Se valoran conocimientos en posicionamiento SEO.

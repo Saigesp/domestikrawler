@@ -1,0 +1,28 @@
+
+En dnoise estamos buscando un analista programador presencial para nuestro equipo de desarrollo, también estamos incorporando un desarrollador junior. Somos una agencia de publicidad 360 con equipo interno de diseño, UX, desarrollo, marketing, producción y RRSS
+[Requisitos básicos]
+> Ingeniero informático, ingeniero técnico, FP Informática o formación reglada afín.
+> Desarrollador PHP con más de 5 años de experiencia.
+> Conocimiento de programación orientado a objetos.
+> Experiencia con framework de PHP. (Preferentemente Symfony).
+> Experiencia con Wordpress.
+> Experiencia con Bases de datos relacionales.
+> Experiencia con bases de datos NoSQL. (MongoDB principalmente).
+> Experiencia con sistemas operativos Linux.
+> Experiencia con JavaScript.
+Si no cumples alguno de los requisitos, especialmente los formativos, no te preocupes, lo importante es poder llevar adelante los proyectos.
+[Se valorará:]
+> SOLID.
+> Clean Code.
+> Unit Testing.
+> Experiencia con AngularJS.
+> Conocimientos de Administración de sistemas. Servidores con Plesk.
+[Ofrecemos]
+> Contrato indefinido
+> Oficina muy céntrica y agradable. Calle Cervantes 21
+> Remuneración 30-36.000€ al año, según experiencia y valía demostrada
+> Horario de trabajo de 9:00 a 17:00 de lunes a jueves, los viernes salimos a las 15:00 :D
+> Formación interna orientada, acceso a charlas y seminarios, etc.
+> Incorporación Inmediata a un equipo de más de 25 profesionales jóvenes, dinámicos y de un trato humano excelente
+> Posibilidad de teletrabajo en determinados momentos
+

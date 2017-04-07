@@ -1,0 +1,24 @@
+
+Nano Nino SL es una empresa de desarrollo de tecnología de primera generación,impulsada por el reto de crear soluciones IT altamente innovadoras y adaptables a las necesidades de la industria.
+Tenemos las soluciones Web & Mobile que necesitas para tener un impacto positivo en el mercado.
+Backend
+Requerimientos:
+- Experiencia en PHP5.
+- Conocimientos de MVC, OOP, design patterns.
+- Experiencia en MySQL.
+- Desenvolverse con Apache/Nginx/Memcached etc.
+- Experiencia en AWS/Rackspace.
+Se valorará:
+- Experiencia con frameworks PHP Symphony, Phalcon, Laravel, etc.
+- Conocimientos en desarrollo móvil (iOS, Android).
+- Experiencia con OAuth2, Facebook API.
+Frontend
+Requerimientos:
+- Experiencia en HTML5/jQuery/AngularJS/CSS3/Bootstrap.
+- Experiencia en desarrollo de aplicaciones web escalables.
+- Capacidad de trabajo en equipo y conocimientos básicos de Git.
+Se valorará:
+- Conocimientos en Grunt/LESS/Bower/NodeJS.
+- Desarrollo crossbrowser y buenas prácticas.
+- Experiencia en SEO.
+Persona proactiva, dinámica, orientada a resultados y al aprendizaje. Alta capacidad para el trabajo bajo presión. Orientado a cliente.

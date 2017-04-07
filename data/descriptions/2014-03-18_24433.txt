@@ -1,0 +1,15 @@
+
+Descripción:
+Para importante editorial buscamos un desarrollador web para administrar tanto el front como el back de una web de ecommerce.
+Será el encargado de la programación, maquetación, diseño y administración de la misma, y deberá también diseñar emails para su envío a clientes.
+Requisitos:	 
+Amplia experiencia demostrable en las siguientes tecnologías:
+- PHP (OOP, CMS Prestashop) Se valorarán conocimientos y trabajos realizados con los frameworks Silex y Symfony2
+MYSQL
+- Familiarizado con la administración en Plesk y entornos Linux
+- Pasarelas de pago Sermepa (Redsys) y Paypal
+- HTML5, Diseño de emails en html
+- CSS, CSS3, Responsive design
+- Javascript, Jquery, Ajax
+- Photoshop (Optimización de imágenes, creación de gifs)
+- Manejo de pdfs

@@ -1,0 +1,21 @@
+
+¿Qué buscamos?
+Buscamos a una persona proactiva (abstenerse en caso contrario) que tenga conocimientos de programación en Wordpress, que sea capaz de gestionar, analizar y desarrollar proyectos y sepa exprimir las posibilidades de la plataforma para adaptarla a las necesidades del cliente. También ha de tener conocimientos de posicionamiento web para que los proyectos tengan una buena presencia en buscadores como Google.
+Además debería tener conocimientos de maquetación e incorporar soluciones en HTML, CSS & JavaScript, algo que se valoraría positivamente, así como los conocimientos necesarios para que los diseños sean adaptables tanto en Tablet como Smartphone.
+Dedicación a tiempo completo y presencial. Incorporación inmediata.
+Aptitudes
+- La principal es el desarrollo basado en Wordpress y el correcto uso de su CODEX, por lo que es imprescindible el conocimiento de PHP y MySQL ya que algunos proyectos se realizan a medida.
+- Conocimientos de maquetación en HTML5 y CSS3, valorando que el resultado sea responsive.
+- Javascript, es decir jQuery.
+- Conocimientos de SEO.
+También valoraremos muy positivamente:
+- Conocimientos de otros CMS como Joomla o Drupal.
+- El uso de frameworks como Bootstrap.
+- Conocimientos en el desarrollo de aplicaciones móviles.
+¿Cuál será el trabajo a realizar?
+- Participar activamente en el desarrollo de los proyectos Web buscando y dando soluciones técnicas.
+- Maquetar e integrar páginas y plantillas con desarrollos a medida o bajo WP.
+Imprescindible:
+- Enviarnos un portfolio de proyectos realizado en los últimos 3 años máximo
+- Realizaremos al candidato una pequeña prueba para evaluar sus conocimientos y asegurarnos que encaja en el perfil
+- Abstenerse empresas

@@ -1,0 +1,71 @@
+
+Buscamos diseñador UX /UI con al menos 3 años de experiencia en diseño de interacción
+y usabilidad, creando arquitecturas de información y desarrollo de experiencias únicas en
+mobile y web.
+Deberá poseer capacidad analítica y ser capaz de identificar los objetivos y necesidades del
+usuario para después conceptualizarlos, así como capacidad para poder definir, tanto los
+flujos de navegación, como el diseño de los prototipos.
+Indispensable, portfolio de trabajos como Diseñador UX/UI en el que se puedan visualizar
+wireframes e interfaces para plataformas web y para dispositivos móviles.
+FUNCIONES
+● Diseño gráfico de interface web, interacción y funcionalidad, con integración en los
+flujos de navegación y proceso de compra. Se valorará experiencia en diseño de
+portales y webs corporativas.
+● Propuesta de soluciones para la mejora de la usabilidad y la experiencia de usuario
+(UX) de la web de SolBooking y otros sites de la compañía.
+● Desarrollo de prototipos para el análisis e integración de los desarrollos anteriores.
+Valoramos tanto el trabajo realizado con HTML/CSS como wireframes (Axure,
+Balsamic, Photoshop, Illustrator...).
+● Participar en la creación de nuevos productos usando prototipos y diseños.
+● Trabajar junto con un equipo de desarrolladores usando metodologías ágiles.
+● Colaborar con el equipo para mantener el diseño de solbooking.com.
+● Colaborar con marketing, diseño, contenidos, frontend.
+y desarrollo desde el concepto hasta la implementación final de los proyectos.
+● Optimización de los canales de SolBooking: apps nativas, web y web mobile.
+○ Detección de oportunidades de mejora en base a las necesidades y metas de
+los clientes y los objetivos de negocio.
+○ Investigación con usuarios, tests de usabilidad y A/B Testing, reportando a
+Marketing.
+○ Colaboración con marketing en el seguimiento de las métricas de analítica
+web y estudios cualitativos.
+○ Establecer procedimientos de control de la calidad de la experiencia del
+cliente.
+● Desarrollo e innovación de los canales:
+○ Conceptualización de nuevos productos y servicios liderando un proceso de
+diseño centrado en el usuario.
+○ Definición de la arquitectura de información.
+○ Diseño de interacción y flujos de navegación.
+○ Definición y seguimiento de KPIs y objetivos.
+REQUISITOS
+● Conceptualización de sitios web.
+● Diseño de interacción multiplataforma (apps nativas, responsive design, web).
+● Responsable, resolutivo y con iniciativa.
+● Capacidad de análisis. Detallista. Metódico.
+● Conocimientos HTML.
+● Experto en diseño de interfaz.
+● Conocimiento extenso en el campo de la tipografía.
+● Atención al detalle y capacidad de autogestión.
+● Excepcional capacidad de trabajo en equipo.
+● Capaz de desarrollar varios proyectos de forma simultánea.
+● Apasionado de la experiencia de usuario.
+● Prototipado interactivo.
+● Experiencia en proyectos de orientación Responsive y crossdevice.
+● Experiencia de trabajo con equipos de programación.
+● Que te guste viajar.
+DESEABLE
+● Dominio de herramientas de prototipado (Balsamiq, Illustrator…).
+● Elaboración de tests de usabilidad presenciales y remotos, así como otros tipos de
+estudios con usuarios: entrevistas, Personas y Escenarios, etc.
+● Atención al detalle y sensibilidad por el diseño visual.
+● Herramientas de analítica web, preferiblemente Google Analytics.
+● Metodologías ágiles y lean UX. Agile UX, Scrum, Kanban.
+● Mínimo 2 años de experiencia en el ámbito de user experience en ecommerce
+o consultoría relacionada, con participación en proyectos mobile.
+● Perfil proactivo, con ganas de seguir aprendiendo y enfocado a resultados.
+● Alta capacidad de comunicación y adaptación a un ambiente en constante cambio.
+● Aportar una visión innovadora y al día de las nuevas tendencias de diseño y
+tecnológicas.
+● HTML/CSS/JS.
+● Experiencia con test online de usabilidad (test A/B...).
+● Desarrollo de documentación.
+● Copywriting.

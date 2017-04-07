@@ -1,0 +1,31 @@
+
+Job Description
+We are looking for a passionate and creative Back-End Developer responsible for managing the interchange of data between the server and the users. Your primary focus will be the development of all server-side logic, definition and maintenance of the central database, and ensuring high performance and responsiveness to requests from the front-end. 
+You will also be responsible for integrating the front-end elements built by your coworkers into the application. A basic understanding of front-end technologies is, therefore, necessary as well. 
+If you consider yourself the best in your field, if you need to be challenged, if you are as passionate about learning from your team as you are about making your team better, and you want to create new and modular applications following best practices, then this is the place for you.
+Responsibilities
+-	Integration of user-facing elements developed by a front-end developer with server-side logic
+-	Building reusable code and libraries for future use
+-	Optimization of the application for maximum speed and scalability
+-	Implementation of security and data protection
+-	Design and implementation of data storage solutions
+Skills and Qualifications
+•	Basic understanding of front-end technologies and platforms, such as JavaScript, HTML5; AngularJS is a plus.
+•	Understanding accessibility and security compliance 
+•	User authentication and authorization between multiple systems, servers, and environments
+•	Understanding of distributed and scalable architectures.
+•	AWS scaling solutions and understanding of EC2, Lambda, S3, RDS., and more
+•	Data migration (Mongo, SQL)
+•	Transformation, and scripting with Bash/Python and more 
+•	Understanding differences between multiple delivery platforms such as mobile vs desktop, and optimizing output to match the specific platform - Session, latency, battery efficiency.
+•	Understanding of testing techniques – (experience with any of the following – xUNIT, Jasmine, Mocha, moq, mockery)
+•	Continues Integration and testing.
+•	Proficient knowledge of JavaScript (Node.js), candidates with strong knowledge of other server-side languages will be also considered (C#, Python, Java)
+•	Knowledge of calling and creating Restful APIs
+•	Proficient understanding of code versioning tools, such as Git
+•	Understanding of “session management” in a distributed server environment
+What we offer
+•	Permanent contract
+•	Extended benefits package 
+•	Fantastic site and central location to work
+•	Exceptional work environment

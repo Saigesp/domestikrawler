@@ -1,0 +1,18 @@
+
+Posición: Desarrollador.Net
+Nº Vacantes: 2
+Localidad: Valencia (España)
+Horario: J.Completa, L-V
+Estudios Mínimos: Ciclo Formativo Grado Superior-Informática.
+Experiencia Mínima: 3 años en el desarrollo de las siguientes herramientas
+* Desarrollo Orientado a Objetivos (SOLID)
+* Testing de aplicaciones
+* .NET Framework
+* C#
+* ADO.NET / Entity Framework
+* Web Services / Web API
+* Conocimientos avanzados de SQL Server 2005/2008/2012
+Se valorará:
+* Inglés o Francés
+* HTML, AJAX, CSS, JQuery, Angular JS, ASP NET MVC
+

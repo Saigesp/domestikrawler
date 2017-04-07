@@ -1,0 +1,27 @@
+
+Programador Senior Unity 3D
+Codigames, una empresa de desarrollo de videojuegos sociales multijugador para plataformas móviles busca un programador senior con experiencia en Unity 3D y capacidad de trabajar con metodologías ágiles.
+Requisitos:
+• Experiencia demostrable con Unity 3D.
+• Programación C# de algoritmos y mecánicas de juego.
+• Experiencia en títulos publicados.
+• Flexibilidad para adaptarse nuestra filosofía de trabajo basada en SCRUM.
+• Tener pasión por los videojuegos.
+•  Pasión por el mundo de los videojuegos, dinamismo y entusiasmo en el trabajo. Nos gustan las personas enérgicas y con voz para aportar sus ideas.
+Se valorará positivamente:
+• Experiencia en videojuegos para móviles.
+• Experiencia en videojuegos de sociales, estrategia, gestión y rpgs.
+• Experiencia trabajando con NGUI y 2DToolkit.
+• Valorable conocimientos de programación en red.
+• Valorable conocimientos de programación en PHP y Amazon Web Services.
+• Conocimientos de inglés
+Experiencia mínima:
+•Al menos 2 años
+Tipo de incorporación:
+• Presencial. Imprescindible mudarse a Valencia.
+Beneficios:
+• Trabajar en una startup con una gran proyección de crecimiento.
+• Trabajar en un ambiente de trabajo abierto, con un personal joven y dinámico.
+• Trabajar en proyectos de gran visibilidad.
+Remuneración:
+• Según Valía

@@ -1,0 +1,24 @@
+
+PharmaHero es el primer comparador de farmacias y parafarmacias online que permite al cliente ahorrar hasta un 50% en sus compras. 
+Buscamos desarrollador core con conocimientos de .NET, C#, TSQL, ASP.Net MVC, JavaScript, JQuery, AngularJS, XAML, TFS
+Asimimo se valorarán conocimientos de:
+Database
+- MongoDB
+- SQLServer
+- MySQL
+- Tunning
+- Indexes
+FrontEnd
+- HTML
+- CSS
+- JavaScript
+- FrameworksJS
+- PHP
+Azure
+- WorkerRoles
+- VirtualMachine
+- Storage
+- ServiceBus
+- QLAzure
+BigData
+- HDInsight

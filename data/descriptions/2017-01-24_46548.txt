@@ -1,0 +1,24 @@
+
+Mr Jeff, we are looking for an experienced Backend Java developer, ready to produce high quality software in a fast growing start-up. The qualified candidate will be responsible for, but not limited to, the following: Support current app and operational.
+Mr Jeff, start-up pioneer and online service platform laundry and dry cleaning pick-up and delivery. We are a young company committed to the professional development of its workers. In Madrid, Barcelona and Valencia, within a very short time we will launch Mexico and Paris.
+Where are we located?
+Mr Jeff headquartered is in Valencia. Our offices, a sunny open dúplex, have easy parking slots, a pool and a constant supply of soft drinks, caffeine and other beverages.
+As backend developer you will responsible for designing and implementing the middleware to support our operations. The role includes functional analysis, implementation, testing and deployment of high demanding environments.
+Required skills:
+• Java SE
+• Spring (core, mvc, data, security, xd...), JPA/Hibernate, Jackson.
+• REST, APIs REStful
+• Version controlling (Git)
+• Continuous integration (Jenkins)
+• Unit testing (JUnit, Mockito)
+• Performance testing (jMeter)
+• Application Servers (Apache Tomcat) or containers (Docker)
+• Relational databases (MySQL)
+• Agile development (SCRUM)
+Proficiency in any of the required skills is nice to have.
+Salary, benefits & commitments
+· Gross salary: 30.000 € - 40.000€ depending on how much you fit the profile. 
+· Flexible timetable.
+· Some of us have kids already, so we know how it works to conciliate job/life.
+· Personal training budget, for books or attending conferences (600 €/year).
+· Personal hardware budget, for a laptop of your choice (up to 1.500 € + taxes).

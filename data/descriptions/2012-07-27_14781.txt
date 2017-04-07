@@ -1,0 +1,18 @@
+
+En Cloquo estamos naciendo y buscamos un desarrollador de aplicaciones backend para integrarse en este apasionante proyecto que colabore desde el principio.
+Sobre Cloquo no podemos todavía dar mucha info, pero te contamos que es una startup con vistas internacionales, multiplataforma y con la “nube” siempre sobre nuestras cabezas. 
+Somos un equipo joven con amplia experiencia internacional de primer nivel trabajando en negocios multinacionales online, y con la incubadora/aceleradora de Tadium Invest como socios en esta aventura online multiplataforma.
+Nosotros te ofrecemos un lugar de trabajo agradable, joven y dinámico, dentro del entorno “startup”, con mucha capacidad de crecimiento ágil y rápido. 
+¿Qué buscamos?
+*Experiencia demostrable en desarrollo de aplicaciones backend
+*Amplia experiencia con Django y Python
+*Experiencia con desarrollo guiado por pruebas, trabajando en entornos con control de versiones
+*Pilotar Linux
+*Conocimientos de Postgres SQL
+Además, también se valorarán:
+*Autenticación oauth, facebook connect y/o google SSO
+*Conocimientos de procesado de lenguaje natural: information extraction, information tagging
+*Conocimientos de XML, json, jQuery, HTML5 y CSS3
+Si estás aburrido de tus vacaciones y sigues pegado a la pantalla, nos gustaría conocerte. Agosto no es un buen mes, lo sabemos, pero si te interesa nosotros somos todo oídos. En cualquier caso, no sufras, hasta septiembre no empezaríamos. LoL
+The Cloquo Heroes…
+

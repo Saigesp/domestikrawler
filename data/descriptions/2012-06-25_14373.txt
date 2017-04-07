@@ -1,0 +1,25 @@
+
+
+Puesto vacante: Arquitecto de software 
+Categorías: Ingenieros y técnicos - Otras ingenierías  
+
+Nivel: Empleado 
+Número de vacantes: 1 
+Descripción de la oferta: Emprsa líder en su sector precisa incorporar a su plantilla a un Arquitecto de software.
+se incorporará al equipo de desarrollo existente, que en la actualidad está en plena transición de un entorno de desarrollo PHP4 a un framework symfony2 con sistemas de integración continua.
+se busca una persona con amplios conocmientos de arquitectura de software, con experiencia en la creación de servicios web en alta disponibilidad, con inquietudes tecnicas, proactiva, dispuesta a aprender y a compartir conocimiento.
+Será el responsable de definir las directrices de arquitectura y velar por las mismas en la plataforma software reportando al Director de Plataforma software. 
+Requisitos
+Estudios mínimos: Ingeniero Técnico 
+Experiencia mínima: Al menos 3 años 
+Imprescindible residente en: Provincia Puesto Vacante 
+Requisitos mínimos: Titulacion superior de Ingeniería / Ingeniería técnica informatica
+buen nivel de ingles
+alto dominio de HTML/CSS/JAVASCRIPT/JQuery
+conocmientos XHTML Y CSS3
+Conocimiento y experiencia en desarrollo con HTML 5
+Conocmientos desarrollo de aplicaciones para móviles
+Experiencia con metodología ágiles de desarrollo
+conocmientos de arquitectura de software, con experiencia en la creación de servicios web en alta disponibilidad, con inquietudes tecnicas, proactiva, dispuesta a aprender y a compartir conocimiento.
+
+

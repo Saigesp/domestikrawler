@@ -1,0 +1,2 @@
+
+Se busca programador web PHP / JQuery con experiencia. Indispensable conocer paradigma MVC para desarrollos con frameworks propios y convencionales, bases de datos / SQL, y capacidad de implementar desarrollos de forma individual dentro de un equipo. Se valorará conocimientos de AngularJ.

@@ -1,0 +1,31 @@
+
+Buscamos dos programadores que tengan capacidad y vocación de liderar proyectos y de darles continuidad. Nuestro candidato ideal debe tener una experiencia mínima de cuatro años programando y debe estar familiarizado con PHP Frameworks.
+Los desarrolladores se incorporaran a un proyecto que se inicia en las proximas semanas para el desarrollo de una plataforma de venta online a nivel internacional para una importante compañia.
+Esenciales:
+• PHP5 OOP – Programación orientada a objetos
+• Nuevas características de PHP5.3 y PHP5.4
+• MVC Framework (Zend Framework, Symfony, CakePHP, Codeigniter)
+• Template engine (Smarty, Twig, etc...)
+• Version Control (SVN, Git, Mercurial, etc...)
+• MySQL5
+• Haber trabajado con un ORM (Propel, Doctrine, etc...) o Mapper
+• Conocimiento funcionamiento servidores WEB (LAMP)
+• Fundamentos HTTP
+Conocimientos importantes:
+• Symfony2.0 – Symfony2.1
+• Git
+• Trabajo con IDE (Eclipse, Netbeans, PHPStorm)
+• Twig
+• Doctrine
+Conocimientos deseables:
+• TDD (Test driven development) y BDD (Behaviour driven development)
+• Coding Standards (PSR-0, PSR-1, PSR-2, etc...)
+• Behat y mink
+• Experiencia con Mocks y Stubs
+• Jenkins CI (jenkins-php.org)
+• Capifony deploy
+• Desarrollo con PHPStorm y conomientos avanzados
+• Uso de xDebug
+• Symfony2 Coding Standards (https://github.com/opensky/Symfony2-coding-standard)
+Posibilidad de Freelance presencial.
+

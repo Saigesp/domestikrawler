@@ -1,0 +1,28 @@
+
+¿Te gusta mucho desarrollar con Javascript y utilizar varios frameworks o librerías?
+¿Has trabajado con AngularJS, ReactJS, KnockoutJS, EmberJS...?
+¿Te consideras un profesional apasionado por el desarrollo Frontend?
+¿Te gustaría trabajar en un equipo internacional muy bueno técnicamente y con metodologías ágiles, como Scrum, y seguir aprendiendo junto a los mejores?
+Si te motiva trabajar en una compañía donde se tenga en cuenta tu opinión sobre las tecnologías a utilizar y cómo realizar un proyecto,  te gustan los desafíos y trabajar con ultimas tecnologías...
+¡Esta es tu oportunidad! 
+Actualmente estamos colaborando con compañía internacional que se ajusta con estas características, las cuales han centrado su atención en Barcelona y que quieren incrementar sus equipos con auténticos profesionales del sector.
+Requerimientos necesarios:
+- Experiencia de más de 4 años en Javascript.
+- Haber trabajado en algunos frameworks como AngularJS, ReactJS, EmberJS...
+- Inglés hablado.
+Skills valorables:
+- Prototype
+- Mocha, Chai, Karma, Babel
+- Stylus
+- SignalR
+- TDD
+- Git
+- Design patterns
+- PostgreeSQL or Elasticsearch
+- Excelentes habilidades comunicativas
+¿Qué te ofrece la compañía? 
+- Flexibilidad horaria
+- Beneficios sociales: así como tickets restaurant, seguro de vida...
+- Ambiente internacional
+- Metodologías ágiles
+

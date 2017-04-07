@@ -1,0 +1,6 @@
+
+Mobdala ha desarrollado una solución tecnológica basada en la geolocalización, para dotar de inteligencia la infraestructura WiFi, aportando conocimiento sobre el comportamiento de los clientes y un canal directo de comunicación con ellos en tiempo real. Su inteligencia se integra con otras herramientas de fácil manejo, obteniendo información valiosa para poder realizar estrategias de marketing eficientes, aumentando el retorno de tu inversión.
+Se busca desarrollador de backend para incorporación inmediata a jornada completa.
+Se requiere experiencia previa en desarrollo de herramientas web y/o proyectos de desarrollo de software. Mínimo 3 años en el sector.
+Se valoraran conocimientos y aptitudes sobre bases de datos, BigData, arquitectura de software, análisis de requisitos, desarrollo de proyectos software, metodologías de  trabajo y trabajo en equipo.   
+Es imprescindible un buen nivel de JavaScript / Node.js  y se valorará muy positivamente la experiencia con MongoDB, Elastic Search, MQTT y sistemas de gestión de colas tipo Fluent o RabbitMQ.

@@ -1,0 +1,16 @@
+
+Buscamos un desarrollador web con experiencia para incorporar a nuestro equipo de desarrollo en nuestra oficina de Juan Carlos I en Murcia capital.
+Requisitos mínimos:
+•	2 años de experiencia.
+•	Desarrollo con código limpio, semántico y reutilizable.
+•	Conocimientos avanzados de PHP y MSQL
+•	Conocimientos avanzados de  HTML5, CSS2, CSS3
+•	Conocimientos avanzados de Bootstrap
+•	Conocimientos avanzados de JavaScript,  Jquery 
+Requisitos valorables:
+•	Experiencia con Symfony
+•	Experiencia en el desarrollo de aplicaciones móviles.
+•	Experiencia con Photoshop
+Se valorarán especialmente ejemplos de trabajos realizados y proyectos en los que hayas participado.
+Horario de Lunes a Viernes de 9:00 a 14:00 en un principio.
+

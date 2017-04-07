@@ -1,0 +1,20 @@
+
+Desde Agencia Interactiva radicada en Vigo estamos buscando un Desarrollador Front-End Junior. Necesitamos una persona con algo de experiencia trabajando con las siguientes tecnologías. Se incorporará a agencia interactiva en expansión
+Requisitos:
+-HTML5
+-CSS3
+-Javascript
+- Experiencia con frameworks front (Bootstrap principalmente)
+- Conocimientos básicos de trabajo sobre CMS (Drupal y Wordpress).
+- Conocimientos de Diseño Web, Diseño móvil y RWD.
+- Manejo básico de Photoshop.
+Valoraremos experiencia o interés en los siguientes campos:
+- C++ y Javascript aplicado a juegos.
+- Conocimientos de Cocos2D-X
+- Conocimientos de frameworks de desarrollo móvil (Phonegap).
+Ofrecemos:
+- Proyecto internacional de larga duración con contrato indefinido. 
+- Formar parte de un equipo de trabajo con un alto nivel de participación, donde podrás compartir tus conocimientos y experiencia con profesionales como tú. 
+- Posibilidades reales de crecimiento profesional al entrar a formar parte del equipo nuclear una pequeña empresa en crecimiento. 
+- Buen ambiente de trabajo. 
+- Zona de trabajo, Centro de Vigo.

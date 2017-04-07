@@ -1,0 +1,17 @@
+
+Desde Iwantic, seleccionamos para cliente final un Arquitecto Front-End para una de las empresas multinacionales de alimentación más importantes a nivel europeo. El puesto está situado en Madrid. 
+Entre las funciones a realizar destacan: 
+Diseño, evolución y mantenimiento de las arquitecturas software de sistemas de tienda y web (fundamentalmente en las arquitecturas de Front-End).
+Coordinación técnica de los desarrolladores de FrontEnd.
+Experiencia en metodologías ágiles (Valorable SCRUM).
+Soporte técnico a los equipos de desarrollo.
+Asegurar el cumplimienbto de las buenas prácticas de usabilidad y maquetación.
+Control de la calidad de los desarrollos.
+Elaborar documentación de procedimientos y recomendaciones de arquitectura.
+Requisitos y experiencia:
+Titulación universitaria (preferiblemente Informática).
+Conocimientos y experiencia en Aruqitecturas de Front, tales como HTML5 / JavaScript: AngularJS (imprescindible), así como experiencia en arquitecturas Back - Java/Spring.
+Se valorarán conocimientos de maquetación.
+Valorables conocimientos de Scrum.
+Salario según valía.
+

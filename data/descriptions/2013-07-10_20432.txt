@@ -1,0 +1,14 @@
+
+Job offer - European Parliament in Brussels
+Important to have a high level of English and French.
+En tant que "Senior Java Developer", vous êtes chargé de la réalisation de nouvelles fonctionnalités, composants et/ou d'applications dans un environnement IT novateur et multidisciplinaire, y compris le web mobile.
+Membre de l'équipe de développement, vous êtes responsable de l'élaboration d'analyses techniques sur base du dossier d'analyse fonctionnelle. Vous assurez le développement (Java) de la partie WCMS (Web Content Management System) et/ou Publication. L'implémentation des tests unitaires et d'intégration, ainsi que la rédaction et la mise à jour de la documentation technique, fait partie intégrante de vos tâches.
+Diplôme universitaire avec une expérience professionnelle minimum de 6 ans en IT ou diplôme non universitaire avec une expérience professionnelle minimum de 10 ans en IT.
+Minimum 4 ans d'expérience en analyse et développement Java front-end.
+L'expérience professionnelle doit être acquise principalement en qualité de "Senior Java developer" dans des projets WEB de taille importante. Ces projets doivent couvrir la production / gestion de contenu (aspect WCMS) et/ou la publication web.
+Front-end server side
+- Excellente maîtrise de Spring MVC, Spring 3, JSP, TOMCAT.
+- Expérience IntellJ, Maven et Subversion.
+Front-end client side
+- Expérience en Javascript, Ajax.
+- Expérience en HTML5, CSS.

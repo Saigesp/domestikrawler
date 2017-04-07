@@ -1,0 +1,32 @@
+
+Job Description
+We are looking for a proactive, versatile, experienced C++ engineer to maintain and improve our build and bake pipelines, as well as automating recurring manual steps involved in the creation and delivery of releases.
+Daily responsibilities
+    Support and improve the toolset for continuous integration (of both code and data), automated testing and release management for all studio projects.
+    Proactively collaborate with Engine and Game C++ teams in order to identify and reduce bottlenecks throughout the processes.
+    Review C++ header inclusion practices, and propose and benchmark patterns and solutions to reduce build overhead coming from code structuring.
+    Improve automatic reporting of issues in the build/bake pipelines.
+    Develop and maintain guidelines and practices to facilitate branch-based development workflows, with CI.
+    Maintain documentation on processes and tools involved.
+    Establish best-practices and guidelines to sustain the solutions and actively advocate for them.
+    Provide support and maintain implemented solutions, empowering client teams to meet their deadlines with the adequate quality guarantees.
+Qualifications
+Required Skills
+    Strong C++ knowledge.
+    Experience working with automation servers for CI (Jenkins preferably).
+    Experience with scripting languages (Lua, Python preferred).
+    Experience working in cross-platform environments (Windows, Linux, iOS, Android, …)
+    Experience working with different build systems (MSBuild, gcc/make, xcode, …)
+    Strong familiarity with VCS systems such as svn or git.
+    Excellent communication and organizational skills.
+    Excellent English technical writing level.
+    University Degree in relevant subject or equivalent experience.
+Desired Skills
+    Good knowledge of Unix/Linux systems.
+    Excellent spoken English level.
+Additional information
+Why Join the World of Gameloft?
+    Because you want to be part of an exceptional experience within a company that is constantly growing!
+    Because you want to work with talented people who are industry pioneers!
+    Because you want to join a global company and meet great people around the world from all walks of life.
+    Or, just because you’re looking for a great place to work!

@@ -1,0 +1,11 @@
+
+Hola,
+Estamos buscando un programador/a frontend con sólida trayectoria y experiencia en Javascript y en el desarrollo de Single Page Apps con frameworks MVC JS.
+Necesitamos que tengas soltura con lo siguiente:
+* HTML5 + CSS3
+* Preprocesadores CSS (Less, Sass...)
+* Javascript, jQuery/UI/mobile
+* MVC Javascript (AngularJS, BackboneJS...)
+* Desarrollos multidispositivo/multiplataforma
+Genial si pilotas o conoces algo de esto otro:
+* NodeJS, Jasmine, Phonegap.

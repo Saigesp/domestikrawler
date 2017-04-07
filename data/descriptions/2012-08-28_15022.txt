@@ -1,0 +1,18 @@
+
+Task description: 
+    - To maintain the high available Linux-Serversystems
+    - To supervise, monitor and backup the system components
+    - Problem analysis, troubleshooting and documentation
+    - To design and implement security concepts
+    - To investigate and evaluate new technologies and techniques in order to increase the onlineshop’s
+    - Performance and its internal systems
+    - Identification and rectification of performance bottlenecks
+Requirements:
+    - Technical university education and at least 5 years of relevant work experience
+    - Enthusiasm for the Internet and its basic technologies
+    - Knowledge of the particular requirements to high-availability, performance and security
+    - Experience in the administration of Debian-Linux-Servers of a High Traffic Site
+    - Profound knowledge of Tomcat, Apache and MySQL in a Master/Slave configuration
+    - Willingness for flexible working hours
+    - Fluency in English.
+

@@ -1,0 +1,13 @@
+
+The Thinklab is a film production company and digital services shop based in Madrid, Spain. The Thinklab produces quality content for global audiences, specializing mostly on documentary films, fiction, advertising and animation. Our films have been broadcast on many global channels including Channel 4, MDR-Arte, National Geographic, History Channel, Aljazeera, TVE, Canal+, etc. 
+Job description: 
+Reports to the IT Manager. The main responsibility is to work as pipeline TD, helping to develop and improve our current pipeline.
+Tasks and Responsibilities:
+•	Creates, develops and refines all technical aspects of the Maya animation production pipeline. 
+•	Developing and supporting procedures and tools to allow for a streamlined and efficient animation pipeline consisting of character rigging, character animation, simulation, props, layout, cameras, plates, geometry conversions, and general shot asset management. 
+•	Accountable for meeting schedules and show deadlines, participates in dailies, rounds and team reviews of work in progress. 
+•	Interacts with production, supervisors and team/ peers in order to problem solve and share information related to show/ assigned tasks. 
+Minimum requirements: 
+•	Knowledge of applicable software platforms including LINUX, Maya, shell and Python scripting language.
+•	Knowledge of 3D programming.
+•	Good level of English language (oral & written).

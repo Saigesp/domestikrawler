@@ -1,0 +1,17 @@
+
+Somos una agencia de publicidad integrada con clientes importantes y proyectos digitales ilusionantes.
+Estamos buscando un Full-Stack Developer con formación en PHP y ninja de HTML / CSS / Javascript para incorporarse en nuestro equipo creativo de producción digital. Desarrollamos proyectos para cliente nacional aportando siempre valores de innovación y creatividad tecnológica.
+Responsabilidades:
+- Alto nivel Maquetación HTML & CSS3. 
+- Sólidos conocimientos PHP, mySQL.
+- Conocimientos de React, Polymer, Vue.
+- Recopilación de requisitos funcionales, desarrollo de especificaciones técnicas, y pruebas de proyectos y gestión de riesgos. 
+- Trabajar en conjunto con varios equipos: creativo, cuenta y producción. 
+- Trabajar junto con terceros proveedores. 
+- Supervisión del desarrollo de proyectos externalizados. 
+Calificaciones:
+- 3+ años de experiencia en el desarrollo de aplicaciones web. 
+- Experiencia con todo el Ciclo de Vida de Desarrollo de Software. 
+- Habilidades de trabajo en equipo multidisciplinar. 
+- Comprensión del proceso de diseño / arquitectura de software. 
+- 3+ años de sólida experiencia en HTML5, CSS, JavaScript y otros frameworks de presentación de Web UI.0.

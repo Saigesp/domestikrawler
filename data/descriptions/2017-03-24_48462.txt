@@ -1,0 +1,18 @@
+
+En Kimia buscamos un Desarrollador Back-End para que se una a nuestro potente equipo técnico de super héroes.   
+Tendrás experiencia en arquitecturas escalables y robustas para que te puedas implicar en las decisiones del diseño de la arquitectura de nuevos proyectos y en la evolución de los actuales.  
+Necesitamos que tengas al menos 4 años de experiencia en desarrollos y definición de arquitecturas PHP en entornos de alta carga en internet  así como en el trabajo en un entorno de colaboración con múltiples equipos.     
+Conocimientos imprescindibles para este puesto:   
+ o  Desarrollo con PHP en plataformas escalables: HAProxy, nginx, php-fpm, APC, memcached, redis, mongo, MySQL,PostgreSQL.   
+o   Manejo de sistemas operativos Linux.   
+o   Git, SVN, CVS...   
+o   TDD.   
+o   Vagrant.
+Valoraremos muy positivamente, (pero mucho, eh?), que puedas tener también los siguientes conocimientos/ experiencia:    
+o   Otros lenguajes de programación como Go, ruby y/o python, J2EE, perl, C...  
+o   Symfony2 framework.   
+o   HTML5 y CSS3.  
+o   Lenguajes de programación de apps nativas (IOS y Android). 
+o   Maquetación HTML para dispositivos móviles.   
+o   AWS.
+

@@ -1,0 +1,33 @@
+
+En Yeeply.com estamos ampliando el equipo de desarrollo, por ello estamos buscando un desarrollador que quiera unirse a nuestro equipo. Necesitamos que hayan trabajado con Symfony2 (PHP) o similar durante al menos 2 años. 
+El candidato seleccionado se incorporará a nuestras oficinas situadas en la Universidad politécnica de Valencia. 
+El candidato debe de ser proactivo, con capacidad de asumir responsabilidades y con ganas de mejorar día a día.
+
+Responsabilidades
+•	Desarrollo de nuevas funcionalidades de la web a cualquier nivel (Backend, frontend, …)
+•	Mantenimiento de los posibles bugs que puedan aparecer tanto en la plataforma como en los proyectos paralelos relacionado con ella (blogs, herramientas de captación…)
+•	Configuración y mejoras en el servidor
+Habilidades técnicas
+A continuación se listan una serie de características técnicas mínimas para la incorporación del candidato.
+•	Experiencia 2 años Symfony2 o similar
+•	ORM Doctrine
+•	Control de versiones (GIT)
+•	HTML5, CSS, JS
+•	POO y conocimientos de Patrones de diseño
+•	Trabajo en equipo
+•	Habilidades en la gestión de servidores LINUX
+•	Conocimiento básico sobre Wordpress
+•	Actitud proactiva y motivación en las mejoras generales del proyecto
+Las siguientes habilidades son muy positivas para la selección:
+•	Interés por el testing automatizado
+•	Interés por escribir código limpio y reutilizable
+•	Interés por las metodologías ágiles de desarrollo
+•	Nivel de inglés medio
+Se ofrece
+•	Trabajo a tiempo completo (40h semanales) 
+•	Formar parte de una empresa en constante crecimiento
+•	Aprender diariamente en diferentes ámbitos.
+•	Equipo internacional, mejora en inglés.
+•	Café, agua y fruta gratis. 
+•	Buen ambiente startup con un entorno joven y muy dinámico.
+•	Opción a bonus por objetivos

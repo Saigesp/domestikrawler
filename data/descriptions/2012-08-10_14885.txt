@@ -1,0 +1,24 @@
+
+Junior AS3/AIR Developer wanted for developing mobile cross-platform apps (Android &amp; iOS). 3 months trial.
+The developer will work in tight collaboration with a project manager in a remote location. The tasks will be two-fold: to develop x-platform mobile apps and to develop a framework and components that will simplify future development of those apps.
+Character:
+- Independent: will work @ home
+- Thorough.
+- Passionate about software
+- Self-learner
+- Interested in mobile development
+- Liking for optimizing code.
+Required:
+- University degree in CS.
+- Experience: 0-2 years
+- Fluent English
+- Based in BCN area
+A plus:
+- Previous experience developing in AS3
+- Subversion, GIT
+- Knowledge of languages for Adobe Native Extensions (Obj-C, Java)
+- Knowledge of server side programming (PHP, Java etc…)
+- Basic knowledge of Adobe Illustrator
+- Proficiency in Stage3D &amp; Starling.
+- Basic understanding of OpenGL ES
+Rates are based on spanish levels and depends on experience. Low in the beginning but rapidly increasing with improved productivity. Quarterly salary reviews. The developer will be asked, and possibly assisted, to become a freelance (autonomo) and to invoice for hours worked. Invoices will be paid 1 week after reception. 

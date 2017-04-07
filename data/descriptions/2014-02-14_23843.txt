@@ -1,0 +1,6 @@
+
+Estudio Creativo formado por profesionales de diferentes ámbitos (Marketing, Publicidad, Televisión) que busca freelance para desarrollar proyectos para nuestros clientes.
+Perfil:
+Buscamos persona con los conocimientos técnicos suficientes para, usando una plantilla de wordpress, implementar la página web de una empresa. Además de conocer el manejo de la interfaz de wordpress debe tener los conocimientos de standares de programación necesarios para solucionar/desarrollar imprevistos técnicos que surjan cuando se está implementando el diseño al cliente. Buscamos gente con ganas de demostrar su valía y ofrecemos remuneración para este proyecto, con la posibilidad de realizar acuerdo de colaboración para los proyectos siguientes que ya están en nuestra agenda.  Buscamos conocimiento, ganas y talento. 
+Conocimientos  requeridos:
+ Wordpress, PHP, JQuery, HTML5 y CSS3.

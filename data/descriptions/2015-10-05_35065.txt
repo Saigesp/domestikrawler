@@ -1,0 +1,27 @@
+
+Descripción: 
+Somos una empresa de diseño y programación web en Barcelona. Hace más de 30 años que estamos abiertos y dando el mejor servicio. Buscamos un programador web senior que trabaje en entornos LAMP y que se encargue de gestionar proyectos de diferentes índoles.
+Requisitos mínimos: 
+- Experiencia sobre entornos LAMP. 
+- Experiencia demostrable con PHP. 
+- Conocimientos sólidos de PHP, MVC y OOP. 
+- Conocimientos básicos de HTML5 y CSS3. 
+- Experiencia con jQuery.
+Se valorará: 
+- Experiencia con diferentes frameworks PHP. 
+- Experiencia con diferentes frameworks JavaScript. 
+- Experiencia con algún VCS, especialmente GIT. 
+- Conocimientos de Node JS. 
+- Experiencia con algún CMS como Wordpress o similares
+Aptitudes: 
+- Dinamismo, capacidad de adaptación y aprendizaje 
+- Iniciativa 
+- Capacidad de trabajo en equipo
+Ofrecemos: 
+- Proyectos de diversa índole 
+- Buen ambiente de trabajo 
+- Vestimenta informal 
+- Maquina de cafe 
+Condiciones: 
+- Horario: de 8:00 a 14:00 h. y de 15:30 a 18:00 h, viernes de 8:00 a 14:30 h.
+- El salario es de 24.000€ anuales. 

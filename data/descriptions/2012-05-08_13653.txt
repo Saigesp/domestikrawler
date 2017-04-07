@@ -1,0 +1,9 @@
+
+Actualmente nos encontramos seleccionando un perfil con los siguientes requisitos 
+- Experto en Javascript y conocimientos en jQuery (relacionados con animaciones y transiciones)
+- Experto en HTML/CSS3
+- Experto en animación de elementos en HTML5 (Transitions)
+- Experto en diseño y optimización de elementos móviles y Sprites para HTML5
+- Experto en Flash y actionscript
+- Experiencia como diseñador gráfico y/o artes graficas.
+- Conocimiento en programas como Adobe Flash, Adobe Photoshop, Adobe Illustrator y Adobe Dreamweaver.

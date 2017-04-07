@@ -1,0 +1,17 @@
+
+Doctoralia is a healthcare leading destination for finding and booking with professionals and medical centers.
+We are looking for a very motivated individual, who likes teamwork and is an excellent .NET developer. We offer to work on our platform, helping bring it to the next level, implementing new features in a smart and efficient way.
+THE ROLE:
+Build .NET web applications used by millions of users.
+Technical support of deployed applications in production environment.
+Attend operating company task team meetings to gain a better understanding of functional group needs.
+EXPERIENCE:
+- Bachelor’s degree in MIS, Computer Science, Engineering or equivalent experience.
+- Past experience developing application integrations using .NET.
+- .NET framework: from 3.5 (ideally from 4.0) .
+- Database knowledge (MS SQL).
+- Fluency in English.
+- Experience with synchrouneous/asynch interface dev.
+- Ability to work successfully in a dynamic and fast paced environment with changing priorities and requirements both as team member and independently.
+- Ability to understand business concepts and provide technological responses.
+

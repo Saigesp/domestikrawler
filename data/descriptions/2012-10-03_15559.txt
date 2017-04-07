@@ -1,0 +1,11 @@
+
+En Supertruper estamos buscando un perfil senior que lidere nuestra arquitectura y procesos de backend en tecnología J2EE.
+ Las funciones del puesto incluyen:
+- La integración mediante API con diferentes plataformas de comercios online y offline. 
+- Definición, Desarrollo y Gestión de la API de Supertruper
+- El desarrollo y evolución de procesos de importación de productos.
+- Explotación de la base de datos. 
+- Administración de ubuntu, mysql, apache, servidores virtualizados y ftp
+- Conocimientos de J2EE, OSGI, HADOOP, SOLR, PHP, HTML y CSS
+Actualmente tenemos mas de 600.000 descargas y una clara oportunidad para posicionarnos como uno de los actores principales dentro del mundo del m-commerce.
+Los requisitos son experiencia contrastada en el desarrollo de las tecnologias anteriores, titulacion media o superior en carrera tecnica y una gran capacidad para innovar y para hacer realidad las oportunidades de negocio. 

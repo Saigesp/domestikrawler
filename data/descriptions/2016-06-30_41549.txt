@@ -1,0 +1,10 @@
+
+¿Te gusta trabajar sobre los últimos frameworks de javascript?
+¿ Conoces Aura, Polymer, AngularJS? Quizás no todos pero si, tengas interés. 
+¿Te gusta trabajar con animaciones CSS3 para que una página tenga vida? 
+¿Tienes experiencia en responsive? 
+¿Conoces performance, cache y carga de aplicaciones web? 
+¿Estás convencido que un Single Page Application es mejor que cualquier web clásica? 
+¿Estas convencido que los servicios cloud y las infraestructuras de micro servicios son el futuro ?  
+Si es así, tenemos un lindo proyecto para contarte. Nos encantaría conocerte.  
+Estamos aumentando nuestro equipo de front y necesitamos un profesional senior con ganas de liderarlo. 

@@ -1,0 +1,9 @@
+
+Buscamos una persona que lleve a cabo el desarrollo backend en PHP puro (Sin Frameworks). 
+El principal trabajo consistirá en el desarrollo backend en PHP de una plataforma basada en PHP y MySQL.
+Será imprescindible tener buen conocimiento y manejo de PHP demostrable (se realizará prueba)
+Uso y manejo de bases de datos SQL
+Conocimientos sobre HTTP y JSON
+Habilidades:  
+Buena capacidad de trabajo en equipo y comunicación
+Capacidad autónoma y resolutiva

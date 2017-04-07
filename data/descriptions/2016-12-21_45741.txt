@@ -1,0 +1,9 @@
+
+Pixel Mouse es un estudio de diseño y programación web. 
+Se compone de profesionales especializados en Diseño Gráfico, Diseño Web, Desarrollo y Programación (Web & Apps) y esto nos permite abordar proyectos de todo tipo con resultados de gran calidad. 
+Ahora ampliamos equipo y buscamos programadores. 
+Requisitos: 
+Dominio de los siguientes lenguajes: Python/Django y/o PHP/Laravel. Javascript. 
+Se valorará: Backbone, Marionette, React o jQuery. MySQL y/o PostgreSQL así como la  la capacidad de trabajo en equipo, implicación y superación,
+Ofrecemos flexibilidad de horario en un entorno de trabajo joven y dinámico.
+

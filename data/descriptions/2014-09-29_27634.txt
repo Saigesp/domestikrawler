@@ -1,0 +1,42 @@
+
+Misión:
+Conjuntamente con el equipo de Desarrollo de IT, realizará una colaboración puntual para maquetar un site completo de E-commerce (desktop+mobile).
+
+Requisitos imprescindibles para la posición:
+•	Acostumbrado a trabajar en sitios de alto tráfico 
+•	Sólidos conocimientos en programación LAMP y entornos MVC
+•	Experiencia con frameworks MVC, tipo FuelPHP, Symfony, Zend…
+•	HTML5
+•	CSS3 (uso de sprites)
+•	Responive
+•	jQuery
+•	Bootstrap
+•	SEO Friendly (h1, h2, microformatos, …)
+•	Importante tener alta disponibilidad y sobrada experiencia. Presentar proyectos realizados.
+Tecnologías utilizadas:
+PHP 5, MVC, MySQL, Big data, HTML, jQuery, Ajax, Unit Testing, Memcached, CDN, Amazon WS, SOAP, JSON, GIT, SVN, PHP Unit, ZendFramework, FuelPHP, Simfony, WebServices, XML, Nginx, oAuth, Scrum, Midnight commander.
+PERFIL 
+Requisitos de formación:
+•	Ingeniero informático
+Requisitos de idiomas:
+•	Inglés fluido
+Requisitos técnicos (demostrable, se harán pruebas técnicas durante el proceso de selección):
+•	Desarrollo en PHP 5 (Orientado a objetos)
+•	Alto nivel en MySQL (optimización de consultas)
+•	Memcached
+•	Patrones de diseño MVC y experiencia con frameworks MVC
+•	JS + jQuery + Ajax
+•	Integración con Webservices de terceros (SOAP, JSON)
+•	Control de versiones (GIT/SVN)
+•	Unit Testing
+•	Administración de sistemas Linux
+•	Valorable tener experiencia y/o conocimientos de desarrollo aplicaciones para iOS en Objective-C / Xcode y/o Android (JAVA) con sus respectivas librerias nativas (UIKit, Core Data, REST operations...) 
+Requisitos de experiencia:
+•	Experiencia mínima de 3 años en una posición de Programador PHP
+•	Persona metódica con alta capacidad de trabajo, proactividad, habilidades comunicativas, trabajo en equipo, visión de negocio y orientación a resultados. 
+•	Valorable conocimientos del sector de la motocicleta.
+Se ofrece:
+•	 Contrato de temporalidad determinada, 6 meses aproximadamente. Podrá ser prorrogable según experiencia y resultados. 
+- Empresa joven en pleno crecimiento y expansión a nivel nacional e internacional.
+•	Retribución en función de la experiencia.
+•	Posibilidades de crecimiento y de desarrollo.

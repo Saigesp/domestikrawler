@@ -1,0 +1,10 @@
+
+PRISMAS Trabajo y Personas busca candidatos para cubrir una vacante como desarrollador web para una startup médica en Berlín, Alemania.
+Se requiere:
+- 4 años de experiencia desarrollando en PHP5 (OO), y mySQL.
+- Experiencia con integración de sistemas de terceros, o utilización de APIs.
+- Conocimiento de métodos de desarrollo agile.
+- Conocimientos o aptitudes para tecnologías y plataformas emergentes (incluyendo plataformas moviles -HTML5, iOS, Andorid...-).
+- Conocimiento de los problemas de programación relacionados con el diseño de la UI y SEM.
+- Experiencia en la integración de sistemas de gestión de anuncios, social media, SEM y herramientas de gestión de leads en una plataforma CMS
+INDISPENSABLE Alemán Fluido.

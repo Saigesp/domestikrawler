@@ -1,0 +1,22 @@
+
+DigitasLBi is a marketing and technology agency that builds complex digital marketing solutions delivered to a range of devices for an ever-growing portfolio of clients.
+We are looking for a Front End Developer with proven industry experience in your craft skills, who is looking to use their expertise to influence our teams, and to learn from your colleagues to further your own knowledge and grow.  The Front End Developer will use JavaScript, HTML, CSS and other Front End Technologies to deliver our clients solutions.  You will work in multi-disciplinary teams, bringing together strategy, creative and technology in agile programmes of work. 
+Responsibilities
+We’re looking for an enthusiastic Front End Developer to help us:
+Code in JavaScript, HTML5 and CSS
+Apply and advance best practices
+Collaborate with colleagues clients
+Desired Skills and Experience
+Qualifications
+We expect our Front End Developers to have experience in:
+Delivering demanding JavaScript, HTML, CSS for high profile clients
+Using modern frontend stacks & tools, such as RequireJS, Grunt and/or Angular.
+Modern development processes – TDD, Code-reviewing, Agile
+Web accessibility knowledge
+Responsive web development experience
+We also expect you to genuinely enjoy your craft, to take initiative, and want to help do things better
+Our front-end technology stacks typically comprise modern frameworks and tools - Backbone.js, Angular.js, Node.js, Grunt/Gulp, Jasmine, Handlebars, SASS, Git, etc. You will work closely with application developers delivering content management, data-driven marketing, search and e-commerce solutions. Our approach is underpinned by a culture of strong development standards, TDD, continuous integration, peer review, test automation and replicable deployment processes. 
+We foster a creative and collaborative environment where expertise is championed, and questions push, challenge and stretch our teams and clients alike. Our UK Technology team sits firmly at the centre of the agency, with our technologists brought into client engagements from the very beginning, serving strategic and creative roles in addition to more traditional architectural, development, test and DevOps roles.
+ DigitasLBi is a fun and enjoyable place to work. We are a collaborative and friendly bunch, with a number of groups meeting regularly. On Fridays you can enjoy free drinks from our very own Lion & Unicorn Pub. Come and have a look, it’s a vibrant environment.
+
+We look forward to hearing from you!

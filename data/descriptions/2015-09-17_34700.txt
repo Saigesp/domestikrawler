@@ -1,0 +1,27 @@
+
+Primero, un poco sobre la empresa. En Fonetic (http://www.fonetic.com) somos expertos en buscar soluciones a los problemas de los clientes empleando técnicas basadas en el reconocimiento de voz en entorno telefónicos (IVR's, call centers, etc.). Contamos con un equipo de ingenieros, lingüistas y consultores para llevar a cabo nuestra misión. 
+Durante mucho tiempo hemos hecho consultorías y desarrollos ad-hoc. Ahora queremos hacer productos con todo lo que sabemos.
+Aquí es donde tenemos una carencia importante, necesitamos a alguien que se pueda encargar de todo el desarrollo front-end de estos productos, incluido el diseño (interacción con diseñadores), UX, definición de plataforma tecnológica, etc.
+Tenemos tres o cuatro productos en cola y todos nuestros clientes son grandes empresas, por lo que los productos también irán orientados a la gran empresa, pero nos interesa mucho la usabilidad y destacar por la calidad de cara al usuario.
+Queremos a alguien que sea capaz de definir la plataforma tecnológica para cada producto y llevar por completo la ejecución del front-end del mismo, interactuando con diseñadores y con los desarrolladores de back-end, proveyendo los inputs necesarios en cuanto a UX, etc.
+Por ahora, el proyecto que tenemos más avanzado utiliza ember.js, por si sirve de referencia (me gustaría poner una URL pero no es muy público que digamos, está más orientado a empresa).
+Si te unes a nosotros, podrás:
+* Disfrutar de unos compañeros increíbles :)
+* Crear algo que puedas ver crecer.
+* Salario competitivo, según valía (alrededor 35.000 €)
+* Trabajar en Madrid, en la oficina, sin desplazamientos.
+* Posibilidad de teletrabajar algún día de la semana.
+* Jornada completa, contrato indefinido.
+Requisitos mínimos:
+* HTML5 / CSS
+* Experiencia con ember.js o similares.
+* Experiencia con d3.js
+* Inglés como para que no sea un problema.
+Se valorará experiencia en:
+* OAuth
+* Continuos Delivery
+* Entornos de alta disponibilidad, tolerancia a fallos, escalabilidad, etc.
+* Scrum / Kanbam / ...
+* Conocimiento en seguridad (XSS, DDOS, ...)
+* Cualquier cosa con la que te hayas peleado
+

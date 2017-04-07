@@ -1,0 +1,32 @@
+
+Description
+TravelClick is in search of an experienced Analyst to join our Web team in the International division. We are seeking a highly skilled, motivated and proactive candidate with web analytics experience (strategy, requirements, implementation, validation, reporting).
+This position will play an integral role in delivering accurate Analytics insights for our company and our clients. The right candidate will act as subject matter expert within the organization and champion the use of data to help drive decisions for product and operation, working alongside the SEO, PM, Design and Development teams.
+Job and Skill Requirements
+•	Excellent ability to configure Google Analytics accounts, audit sites, compose implementation instructions, set up advanced tracking, profiles, custom filters, advanced segments (and goals).
+•	Good general knowledge of how click-stream tracking works 
+•	Proficient in debugging: identifying and rectifying tracking (or other) issues.
+•	Excellent logical-deductive ability to interconnect concepts and have a holistic picture of web analytics and tracking necessities to ensure client data is correctly recorded
+•	2+ years experience in Javascript (and jQuery). 
+•	Good knowledge of HTML, PHP and RegEx
+•	Ability to build and maintain advanced dashboards and reports for our clients.
+•	Ability to think on your feet and provide prompt, accurate responses to ad-hoc client requests.
+•	Comfortable with creating and delivering client presentations relating to site performance and online strategies, providing recommendations and walking clients through Google Analytics, both via online and in-person meetings.
+•	Executes reporting and analytic tasks in support of other team members, as well as providing internal education (tool training).
+•	Creates and maintains documentation relating to GA implementation, recommended tools, metrics and best practices.
+•	Strong analytic skills along with the ability to be detail and deadline-oriented while managing multiple projects is a must.
+•	Excellent interpersonal, communication and presentation skills
+•	Advanced knowledge of Microsoft Excel
+•	Fluent in written and spoken English
+•	Demonstrates self-reliance and resourcefulness.
+Desirable Skills & Experience
+•	Capable of building dashboards based on main KPIs and perform competitive benchmarking and trending 
+•	Attribution modeling
+•	Tag management (TagMan, DC Storm, Google Tag Manager)
+•	Experience with database management
+•	Familiarity with statistics 
+•	Understanding of SEO strategies
+•	General understanding of usability design and conversion optimization design
+•	Knowledge of other online analytical tools (e.g. Omniture, Crazy Egg, Clicktale, Surveygizmo, ClickTracks, Webtrends or other)
+•	Experience in implementing and supporting A/B and multivariate testing
+•	Google Analytics certification

@@ -1,0 +1,37 @@
+
+Informática y telecomunicaciones - Programación
+Departamento: Desarrollo Front-End
+Nivel: Especialista
+Número de vacantes: 3
+Descripción de la oferta:
+¿Eres un apasionado/a del desarrollo web con ganas de trabajar para una compañía joven y dinámica que está creciendo rápidamente?
+Únete a una organización innovadora que desempeñará un papel fundamental en tu continuo (y emocionante ) crecimiento y desarrollo profesional.
+Tendrás la oportunidad de trabajar junto a algunos de los mejores desarrolladores de España, y hacer una contribución significativa a el desarrollo de software. 
+Keywords:
+Web Developer, Javascript, html5, css3, AJAX, OOPS, Ajax, nodeJS, angularjs, backbone, bootstrap, grunt, web application, software, cross-browser compatibility, test driven development, git, open source.
+Para tener éxito en esta posición que tendrá las siguientes competencias técnicas y personales:
+- Actitud impresionante y compromiso
+- Más de 5 años de desarrollo de software Front-End 
+- 2-3años de experiencia de desarrollo de interfaz de usuario con CSS, HTML5, CSS3 
+- Experto con JavaScript conociendo los principales frameworks
+- Esperiencia con Angular JS, Node JS. 
+- Desarrollo de código bien documentado y limpio
+- Fuerte experiencia en Accesibilidad Web y Responsive Web Design 
+- Con experiencia en scripting del lado del servidor (JSP, ASP, PHP, AJAX, etc) 
+- Con experiencia en SQL y NoSQL bases de datos (Oracle, MySQL y MongoDB) 
+- Experiencia en Sistemas de Gestión de Contenidos y Arquitectura 
+- Conocimientos de las mejores prácticas de desarrollo de la Industria (TDD, integración continua, GIT 
+- Habilidades de comunicación escrita y verbal
+- Un gran interés en las tecnologías web actuales y emergentes y los marcos de desarrollo.
+- Capacidad para trabajar de forma autónoma en un alto nivel.
+Esta es la oportunidad que has estado esperando!!
+Requisitos
+- Estudios mínimos: Ingeniero Técnico
+- Experiencia mínima: De 3 a 5 años
+- Conocimientos necesarios: angular JavaScript nodejs
+- Imprescindible residente en: Provincia Puesto Vacante
+Contrato
+Tipo de contrato: De duración determinada
+Jornada laboral: Completa
+Salario
+Salario: 24.000 € - 33.000 € Bruto/año

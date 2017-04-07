@@ -1,0 +1,13 @@
+
+Estamos buscando un Frontend Developer para Fancy Box, una de las startups lanzadas desde Antai, la incubadora del Grupo. ¿Estás interesado o conoces alguien que lo pueda estar? No dudes en enviarnos tu CV o en hacer llegar esta información a quien encaje en el perfil. 
+Te contamos los requisitos y las tareas que desarrollará la persona que se incorpore. 
+Perfil técnico :
+- Tres años de experiencia como Frontend Developer
+- HTML, CSS3, Preprocesador,SASS, SCSS, Crossbrowsing según estándares W3C, WGAA, etc +Uso de CDN, sprites, compresión de assets y otras estrategias de rendimiento Javascript, JQuery, Backbone, RequireJS, Sólidos conocimientos de programación orientada a objetos y MVC Aplicación de test unitarios, TDD Sistemas de templates como TWIG (Symfony2) Control de versiones Git
+Se valora:
+- Linux, entorno LAMP , Metodología Agile, Scrum Gestor de tareas Redmine, JIRA
+Otros :
+- Persona organizada, proactiva y resolutiva
+- Capacidad de adaptación a los cambios, timmings y objetivos de negocio
+- Buenas dotes de comunicación y coordinación con equipos de diferente ámbito
+- Capacidad de colaboración, formación y/o soporte a otros compañeros

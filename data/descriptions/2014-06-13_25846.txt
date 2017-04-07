@@ -1,0 +1,5 @@
+
+Programador Java/Processing per a desenvolupament d'aplicacions interactives singulars.
+Cerquem perfils creatius per desenvolupar projectes multimèdia amb interfícies gràfiques avançades. Desenvolupem projectes per a espais expositius amb interacció multitàctil i gestual. Integrem control extern de dispositius via Arduino i Raspberry.
+Actualment disposem en cartera diversos projectes innovadors i atractius.
+Es valora experiència en entorns Java/Processing, OpenFrameworks/Cinder, vvvv, Max/Jitter així com d'entorn Linux. També es valora el grau d'especialització i experiències concretes amb protocols TUIO, UDP, llibreries multitàctils, Kinect SDK, etc.

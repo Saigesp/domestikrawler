@@ -1,0 +1,23 @@
+
+We are seeking a Drupal Developer to join our growing team. This full-time position is primarily supporting and improving a Drupal 7. It’s a Global project, available on 35 different markets and growing, based on a Drupal Multisite for each market. This position will be primarily responsible for back-end/module development.  
+Responsibilities
+•	Understanding of technical and functional requirements
+•	Proposal preparation for the project assigned SOW
+•	Estimation of risks related to technical development 
+•	Performing technical analysis and solution proposal
+•	Helping with QA 
+Requirements
+•	Proficient in Drupal 7, including custom module development, key contributed modules and core API.  (samples of applications that you have worked can be required)
+•	Minimum 5+ years of Drupal hands-on development experience.
+•	Proficient in the maintenance and administration of Drupal modules and sites.
+•	Experience integrating open source and third-party applications into existing systems.
+•	Familiarity with source control systems such as Git, etc.
+•	Ability to both collaborate with team members and to work independently.
+•	Solid understanding of AJAX, HTML, Javascript, and CSS.
+•	Understanding of agile methodologies (SCRUM/Kanban).
+•	High English level.
+Personal Qualities
+•	Excellent organization skills
+•	Responsible and results oriented person
+•	Team management and leadership capacity
+•	Team Player

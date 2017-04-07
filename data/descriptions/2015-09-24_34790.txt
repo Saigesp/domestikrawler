@@ -1,0 +1,20 @@
+
+Qué buscamos:
+Buscamos un diseñador gráfico con experiencia demostrable en Bootstrap / HTML 5/ CSS3 / otros.. para puesto de trabajo presencial en Madrid. Queremos incorporar a una persona con ilusión, dinámica, con experiencia y conocimientos en:
+Bootstrap 3
+HTML5
+CSS3 
+javascript
+jquery preferible backbonejs o thorax
+conocimiento de hojas de estilo con SASS o LESS
+conocimientos en cakephp 
+maquetación directamente con vistas y helpers
+Interesados adjuntar información de trabajos realizados
+Quienes Somos:
+Somos es una plataforma con herramientas y servicios de fácil uso, que permite incorporar con éxito a pymes y empresas al ecosistema de Internet, mejorando la productividad y ventas de sus negocios, integrando un comunicación directa y personalizada con sus clientes ya fidelizados.
+Permitiendo a las empresas de un acceso a un universo de clientes potenciales en Internet, permitiendo a las pymes y empresas ofrecer servicios a sus clientes 24x7 durante todo el año.
+Que ofrecemos: 
+Incorporación a una start up en fase beta.launch, un equipo jovén, dinámico.
+Sueldo: 18.000 € - 22.000 €
+Verdaderas posibilidades de mejora salarial en función de desempeño, conocimientos e implicación en el proyecto.
+

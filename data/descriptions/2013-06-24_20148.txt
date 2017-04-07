@@ -1,0 +1,16 @@
+
+
+¡Hola!
+Somos un equipo que está iniciando un nuevo proyecto. Estamos creando una plataforma de comunicación multi-temática para España y Portugal.
+Buscamos un programador web que domine Wordpress, PHP, MySQL, HTML y CSS.
+Necesitamos que te sientas confortable en la alteración de templates de Wordpress tanto a nivel visual como de backoffice.
+Algunas de las necesidades de programación que tenemos hasta el momento y que deberías poder solucionar son:
+- Unificar dos templates distintos en un sólo backoffice y añadir nuevas funciones  en él.
+- Implementar un sistema multilingüe que nos posibilite la publicación de contenido en un .com/es, en un .com/pt o en ambos.
+El trabajo de programación no te supondrá una carga horaria fija, ni una obligación de desplazamiento físico. 
+Podrás trabajar desde casa pero nos gustaría poder reunirnos de vez en cuando contigo, por eso pedimos que vivas en Barcelona o alrededores. 
+El trabajo consiste en crear la plataforma online y posteriormente llevar su mantenimiento.
+Lo que buscamos es a alguien que pase a formar parte de nuestro equipo como uno más de nosotros.
+La figura del programador es fundamental para que podamos iniciar el proyecto. 
+Con lo cual hasta que no arranque el proyecto no generaremos beneficios, pero en el momento en el que se empiecen a generar, tu recibirás la parte del beneficio que pactaremos contigo si te interesa el proyecto.
+Si encajas con el perfil que buscamos, contacta con nosotros y te daremos más detalles sobre el proyecto y las condiciones de esta colaboración.

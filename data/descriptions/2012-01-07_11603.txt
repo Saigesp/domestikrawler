@@ -1,0 +1,23 @@
+
+¡Hola!
+En Fever hemos abierto dos posiciones nuevas para nuestro equipo de diseño. Más abajo os dejo toda la información relativa a los dos puestos vacantes. A grandes rasgos os cuento que somos una startup americana con oficinas en Barcelona y New York de nueva creación que acaba de terminar de levantar su primera ronda de financiación con inversores de primer nivel tanto de aquí como de allá. Tenemos un equipo único en España , ofrecemos stock options, una formación acojonante, un buen sueldo y la oportunidad de compartir un sueño con todos nosotros.
+Si eres un(@) supercrack diseñando y creando productos usables, si te flipan las apps y tienes ganas de cambiar las cosas, avísanos.
+Info Position // Design Engineer (see also Art Director)
+
+Your role will not be only to be responsible for the “look” of the application but is also part of a creative team responsible for developing the very concept. The art director and a product manager (who owns the product) may decide on a application concept together. Then they determine how the app will look and what it will say.
+You will be focused on the development of several applications, taking responsibility of the graphical design of the product. You will work directly with a day-to-day software development life cycle to ensure the delivery of the project is on time and of high quality.
+You will have the chance to acquire more knowledge thanks to the technological environment in Fever.
+This position is full-time, with benefits, stock options, a competitive salary, and a high degree of autonomy. Your work will heavily influence all stages of product development from product conception to iterating on products already shipped out the door.
+Responsibilities
+
+Carry out product development in designing whole products
+Work with the rest of the engineering team and the product team to develop product concepts based on identified market needs
+Comply to defined coding standards
+Write, test and deploy production-ready code quickly and efficiently
+Maintain high code quality and maintainability
+Required Skills
+
+2+ years of experience in graphical design
+Working knowledge of HTML/CSS authoring
+Deep working knowledge of user products based on web and mobile devices
+A sincere passion for social media, start-ups, and changing the world through technology

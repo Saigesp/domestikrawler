@@ -1,0 +1,14 @@
+
+¿Te apasiona la tecnología?
+¿Te interesa trabajar en una compañía líder en consultoría TIC integrándote en un equipo de expert@s?
+Para formar parte de IN2 buscamos un/a Arquitecto/a PHP para formar parte de un proyecto innovador que impuslará tu carrera profesional.
+- Requisitos:
+    - Experiencia trabajando con Symfony1.5 y Symfony3.
+    - Experiencia con Javascript y HTML.
+    - Apache.
+    - BBDD Mysql.
+    - Conocimientos de control de versiones (GIT y SVN).
+Valorable conocimientos en web services (SOAP, REST). También será valorable conocimientos de Python, Elastic, JQuery y Angular2. Se requiere formación técnica y un mínimo de tres años de experiencia en una posición similar.
+La persona participará en el diseño y la definición de la arquitectura, además de emitir valoraciones y propuestas de cambio.
+Buscamos una persona autónoma, responsable, flexible, organizada, proactiva y con capacidad de trabajo en equipo.
+Ofrecemos incorporación inmediata en una empresa joven pero consolidada, contrato indefinido, formación técnica, certificaciones homologadas y plan de carrera en una compañía dinámica y en continua expansión.

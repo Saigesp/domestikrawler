@@ -1,0 +1,5 @@
+
+Desde Raccoon buscamos un programador Javascript senior residente en Madrid con dominio en NodeJS (2 años de experiencia) y Ajax (conocimientos avanzados) para un apasionante proyecto internacional en el sector de la gamification. 
+Valoraremos muy positivamente conocimientos técnicos en bases de datos no SQL como MongoDB y experiencia en el desarrollo de Webapps y CMSs.
+El lugar de trabajo estará situado en el nuevo Google Campus de Madrid en un entorno de startups tecnológicas con un ambiente inmejorable.
+Imprescindible inglés nivel conversación.

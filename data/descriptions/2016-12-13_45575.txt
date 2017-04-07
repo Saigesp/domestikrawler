@@ -1,0 +1,5 @@
+
+Somos una joven startup en pleno crecimiento y necesitamos gente dinamica y autodidacta, con muchas ganas de formar parte de un gran proyecto.
+Buscamos a una persona para incorporarse al equipo de programación en la parte de interface, donde desarrollará en conjunto con el equipo las pantallas para los usuarios, empleando para ello tecnologías HTML, CSS y Javascript (también utilizamos librerías como bootstrap, jquery, kendo, ...).
+El perfil que buscamos es principalmente de front aunque valoraremos conocimientos de programación en algún lenguaje (nosotros usamos c#) y conocimientos de herramientas de diseño como Photoshop para complementar los diseños de las interfaces.
+Si crees que puedes encajar en este perfil no dudes en contactar con nosotros, tenemos muchas ganas de trabajar contigo.

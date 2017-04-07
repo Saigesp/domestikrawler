@@ -1,0 +1,21 @@
+
+Promofarma.com es un marketplace ecommerce líder en España en el sector de salud y belleza. En Promofarma.com estamos buscando ingenieros de software con experiencia para ayudarnos a escalar y expandir el backend de nuestra plataforma.
+Es una plataforma desarrollada con tecnología propia usando PHP Zend Framework + ORM Doctrine con una arquitectura multinivel en entorno Amazon Web Services, usando servicios como EC2, RDS, ElastiCache, Cloudfront, S3, etc. Usamos Github para gestión de código y versiones, tenemos un proceso de desarrollo ágil, diferentes tipos de releases, e implementamos un proceso completo de testeo funcional, de integración y regresión.
+Buscamos a alguien que sea un apasionado del desarrollo de software, que piense en performance y rendimiento en cada línea de código que escribe, en su día a día haya OOP, design patterns, o algoritmos, tenga experiencia en lenguajes de alto nivel y frameworks de desarrollo web, y que pueda comunicarse con otros departamentos de la compañía, sabiendo que aunque hablemos el mismo idioma, los lenguajes son diferentes ;)
+Serás parte del equipo de ingeniería, y trabajarás en un entorno dinámico, innovador y cambiante, con un equipo experimentado en sites de alto tráfico
+Más específicamente, las tareas principales que realizarás son:
+- Evolución y mejora del proceso de integración logística en entorno multi-proveedor y multi-operador logístico (implementación estándares de comunicación, diseño e implementación de workflows, etc)
+- Evolución y mejora del proceso de gestión de catálogos (integración con ERPS, webshops, normalización de referencias, escalabilidad, etc)
+- Trabajarás con el dpto de finanzas en la evolución y mejora del proceso de clearing a farmacias
+Para poder realizar estas tareas, necesitamos a alguien que:
+- Domine OOP, algoritmos y design patterns
+- Tenga experiencia desarrollando software de backend en PHP y con frameworks modernos (Zend, Laravel, Simphony2)
+- Tenga conocimiento de desarrollo de software frontend mediante javascript/jquery, html5 y css3
+- Implemente queries complejas en SQL y analizarlas desde el punto de vista de rendimiento
+- Describa concisamente como testear la funcionalidad que se ha implementado
+- Sepa recoger requerimientos de los diferentes equipos dentro de la compañía de forma crítica, entendiendo el problema a solventar, y proponiendo alternativas en caso se identifiquen soluciones mejoras a las originalmente requeridas
+Consideramos las actitudes como mínimo tan importantes como las aptitudes. Buscamos personas inteligentes, curiosas, integras y trabajadoras, que sepan jugar en equipo, que quieran tomar responsabilidades, que vean los problemas como oportunidades, y que sepan solucionar problemas adoptando los compromisos necesarios
+Finalmente, experiencia concreta que sería útil pero no es obligatoria:
+- Experiencia en sistemas de backend de webs de ecommerce, especialmente con presencia en múltiples países
+- Experiencia con bases de datos no SQL
+Nota: Salario a convenir, según valía y experiencia del candidato.

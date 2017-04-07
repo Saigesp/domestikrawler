@@ -1,0 +1,9 @@
+
+LCB Selecciona dos candidatos. 
+Los candidatos han de tener conocimientos de servidores enfocados al vídeo streaming, 
+Son valorados especialmente conocimientos de Apache, Icecast, Amazon o Adobe Media Server. Igualmente se valorarán conocimientos en el desarrollo de aplicaciones para smartphones y software así como conocimientos en IPTV.
+Funciones
+- Configuración de servidor, configuración cuentas clientes, instalación y mantenimiento de software, contacto con proveedores….
+Contrato media jornada por seis meses con posibilidad de extensión indefinida a tiempo completo.
+Se valorará experiencia en el sector pero no es indispensable. Por otro lado se valorarán las calificaciones obtenidas en los estudios abajo reflejados.
+ Licenciados o estudiantes con el 50% de los créditos aprobados en los estudios de Ingeniería de software -Ingeniería Informática- Desarrollo de videojuegos o similares.

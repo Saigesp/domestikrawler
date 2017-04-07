@@ -1,0 +1,12 @@
+
+¡Hola! 
+Somos una empresa mediana que actualmente se encuentra en fase de expansión a nuevos mercados y líneas de negocio.
+Descripción 
+Se trata de un trabajo realizado desde la oficina donde te incorporaras en el equipo de investigación, desarrollo e innovación, entrando a formar parte del equipo de programación de nuevas herramientas para la empresa.
+Conocimientos técnicos 
+•	PHP. 
+•	SQL. 
+•	Conocimiento de otros lenguajes (html5, css3, etc)
+•	Conocimiento de Frameworks de PHP (phalcon).
+Buscamos a alguien dinámico que tenga ganas de crecer en la empresa y que aporte ideas frescas a los proyectos, un apasionado por las nuevas tecnologías y por investigar nuevas herramientas que poder usar e implementar.
+Si tienes ganas de unirte al reto envíanos un mail.

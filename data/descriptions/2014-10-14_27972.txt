@@ -1,0 +1,14 @@
+
+Atmira, consultora especializada en ofrecer soluciones y desarrollos de software, incorpora en Barcelona un Programador Drupal que se integrará en el proyecto indefinido de uno de nuestros principales clientes líder en el sector audiovisual.  
+Requisitos mínimos:
+- CMS Drupal
+Requisitos Deseables:
+- PHP 5.x
+- Frameworks: CodeIgniter
+- CMS: WordPress
+- Javascript: jQuery, JSON, Ajax
+- Bases de datos: MySQL 5
+- Symfony 2.x
+- HTML/HTML5, CSs
+Mínimo 2 años de experiencia.
+Tipo de contrato: Indefinido

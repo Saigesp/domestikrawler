@@ -1,0 +1,8 @@
+
+Buscamos un programador freelance experto en prestashop para poner en marcha dos tiendas online.
+El trabajo es puntual, y consiste en instalar prestashop en un hosting de nuestro servidor, instalar un tema que hemos comprado, configurar las opciones básicas, configurar pago mediante tarjeta, transferencia y paypal,  meter un producto de ejemplo y realizar pruebas de compra
+Creemos que es un trabajo más o menos rápido y necesitamos un presupuesto por horas.
+Requisitos:
+- El trabajo será presencial en nuestras oficinas (Madrid)
+- Disponemos de equipo con todo lo necesario para realizar el trabajo
+En principio el trabajo es puntual, pero estamos abiertos a futuras colaboraciones y acuerdos para este tipo de desarrollos

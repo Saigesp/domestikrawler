@@ -1,0 +1,17 @@
+
+Somos una agencia de marketing móvil de Barcelona. Buscamos un analista-programador:
+Desarrollador con conocimientos y experiencia en el desarrollo de Apps Nativas para Android y programación  en PHP.
+Conocimiento y experiencia en programación en:
+- PHP (symfony)
+- Android 
+- JQuery
+- HTML5 y CSS3
+- Javascript
+- MySQL
+Se valorará:
+- Node JS
+- Desarrollo iOS nativo
+ - Adminsitración de servidores Linux
+- Desarrollo de proyecto con uso de metodologías Agile
+- Idiomas: Español,  Ingles y Catalan
+Puesto de trabajo en el centro de Barcelona

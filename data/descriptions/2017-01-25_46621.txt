@@ -1,0 +1,16 @@
+
+En eNubes Madrid buscamos un desarrollador web LAMP PHP full-stack para nuestro Departamento de Programación y Desarrollo.
+Somos una compañía de comunicación y marketing online/offiline que ofrece soluciones innovadoras a grandes compañías con un servicio personalizado e integral que abarca la producción audiovisual, el desarrollo de aplicaciones web y móviles, el diseño gráfico, la creación de plataformas virtuales, la analítica de datos y organización de eventos.
+Si te apetece formar parte de un equipo joven e innovador y tienes muchas ganas de trabajar, te damos la posibilidad de unirte a una empresa en pleno proceso de expansión y crecimiento.
+Conocimientos requeridos:
+- PHP.
+- MySQL.
+- JavaScript.
+- jQuery.
+- CSS3.
+- AJAX.
+- HTML5.
+- Frameworks tipo Zend y/o Codeigniter.
+- Maquetación Responsive y Crossbrowsing.
+- Webservices.
+

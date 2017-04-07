@@ -1,0 +1,16 @@
+
+En Yepalí buscamos un maquetador con 3 años de experiencia como mínimo para ayudarnos en la maquetación de Yepalí y otras App. Un perfil multidisciplinar, con amplios conocimientos técnicos y creatividad.
+Buscamos un experto en HTML, CSS, con amplios conocimientos de javascript y frameworks javascript con los que se sienta cómodo en entornos de desarrollo.
+Necesitamos que conozcas muy bien la maquetación responsive y es indispensable que sepas maquetar aplicaciones móviles en frameworks como Phonegap, Ionic, etc. 
+Conocimientos requeridos: 
+- JavaScript 
+- JavaScript Frameworks 
+- Responsive design 
+- W3C standards 
+- WCAG 
+- HTML5 
+- CSS3 
+- Adobe suite 
+- Phonegap
+- Ionic 
+- Angular

@@ -1,0 +1,19 @@
+
+We’re looking for a passionate Frontend developer to join one of our product development teams and support in building, improving and tracking user behaviour on our public website, our upcoming help center and blog, and other future assets (Wordpress framework). The ideal candidate has a great eye for design, incredible attention to detail and knows about on-page SEO and web analytics. 
+As a Front-end developer at Typeform, you should have a solid understanding of CMS Wordpress architecture and functionalities. You should be able to manage big customizable and complex Wordpress structures. A plus would be to have a strong desire to innovate among new technologies.
+Our ideal candidate meets the following requirements: 
+-Experience in building Wordpress themes, developing customizable plugins, maintain security environments and scalable projects. 
+-Strong front-end knowledge, included responsive web development 
+-Knowledge and experience with improving on-page SEO 
+-Familiarity with automatic tests 
+-A love of Git 
+-Be highly flexible and like to take a pro-active role 
+-Familiarity with Agile working 
+-Making yourself understandable in the English language in a business situation (medium / high level of English) 
+-Experience with working with Sketch is a strong plus
+You will be working in important projects to grow our company: 
+-Scaling and making constant changes to our website 
+-Coding new sections and projects such as our Blog and Help center 
+-Responsible for deployment and tests environment 
+-Responsible for building automatic tests 
+-Developing Wordpress plugins for our platform

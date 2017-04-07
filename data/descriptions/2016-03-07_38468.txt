@@ -1,0 +1,14 @@
+
+Somos una empresa de subastas de arte, antiguedades y joyas online.
+
+Estamos buscando un programador/a freelance experto/a en plataforma PrestaShop para continuar el desarrollo de nuestra web: www.quoniam.es y realizar el mantenimeinto de la misma.
+Requisitos técnicos:
+- Experiencia comprobada con CMS  (PrestaShop).
+- Experiencia desarrollo web.
+- Maquetación HTML/CSS.
+- Conocimiento de librerías y frameworks Javascript / CSS, incluyendo jQuery.
+- Conocimientos en PHP.
+- MySQL, programación en bases de datos.
+Otros:
+- Preferible residente en Madrid.
+

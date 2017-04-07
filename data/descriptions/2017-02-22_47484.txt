@@ -1,0 +1,17 @@
+
+Requisitos mínimos:
+- Residencia: Bilbao o alrededores.
+- Titulación: Ingeniería Técnica Informática.
+- Experiencia mínima demostrable: 2 años en puesto similar.
+- Desarrollo técnico de proyectos web basados en HTML, CSS, JS y PHP respetando los estándares de accesibilidad y usabilidad.
+- Manejo fluido de los principales programas de diseño gráfico: Adobe Photoshop y Adobe Illustrator.
+Conocimientos mínimos:
+- Conocimiento en HTML y CSS.
+- Dominio y uso de librería jQuery.
+- Programación PHP orientada a objetos.
+- Conocimientos básicos de herramientas de diseño como Adobe Photoshop.
+Otros conocimientos deseados:
+- Accesibilidad web.
+- Conocimientos en Ajax y JavaScript.
+- Conocimientos sobre SEO.
+

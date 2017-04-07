@@ -1,0 +1,39 @@
+
+AKTIOS is seeking a SAP Senior Consultant to work in a permanent position in Barcelona. We are an IT Consultancy who works in different sectors and functional areas of the companies, providing 360º solutions to our clients.  
+Work Summary
+This is an opportunity for talented and experienced SAP consultant to join one of the most challenging and exciting global implementation project directly with end-user.
+Successful candidate will join our SAP team and be engaged on some of the most relevant projects in the SAP landscape. On this position you will be a member of the team of top-class business and IT experts responsible for business challenges, enterprise transformation, business and IT architecture and continues process excellence. In your daily work you will have a chance to work ERP architects, functional and technical experts, developers, and you will be involved in the delivery of SAP projects end-to-end, from the solution design to the implementation and deployment.
+If you would like to make a next step in your career and experience large-scale, complex and complete life-cycle ERP Implementation, starting from envisioning & architecture through business blueprint setup, solution design, system configuration, development till deployment and operations in clients with worldwide presence this job is for you.
+Key Responsibilities 
+•	Requirements gathering and prioritization. Fit / gap analysis.
+•	Estimation of gap efforts and scope prioritization.
+•	Analysis, design, and configuration of the business processes based on the standard functionality of the SAP modules: FICO, PP and SD. The ideal candidate will be able to demonstrate as well a solid understanding of SAP best practices and process optimization on those areas.
+•	Creation of functional designs for custom developments (RICEFWs).
+•	Liaising with the technical teams (developer lead, developers, technical architect) to support the development and implementation of the custom functionalities.
+•	Analyzing and troubleshooting of technical and functional issues in the SAP FICO, PP and SD modules /components and providing day-to-day support to other team members.
+•	Lead and own the execution of the multiple test cycles: component / assembly test, integration test, user acceptance test, performance test, and regression test.
+•	Participating in “team architectural and design brainstorming sessions” where key architecture and design ideas are exchanged, brainstormed and effectively selected.
+•	Providing support to the deployment team during data migration planning, scoping & execution.
+•	Ensuring good design & development practices and high quality standards are in place.
+•	Based on the client location, travelling may be required, including internationally.
+Qualifications and knowledge
+•	Minimum 5 years of professional experience as a SAP business analyst and/or consultant in the areas of FICO (GL, AR, AP, legal and tax declarations), PP and SD.
+•	In the finance area, must have extensive knowledge in statutory reporting (Intrastat, Model 349, customer payments, VAT Management, FEBA banking integration).
+•	In the SD area, must have extensive experience in Sales Order management and management of multiple installment processing. 
+•	In the PP area, must have extensive experience in project management and integration with the production process.
+•	Experience in integration both with clients and external WMS, as well as other third party applications.
+•	Strong overall SAP experience in various types of SAP projects: greenfield implementation, SAP optimization, migration projects, upgrades, and maintenance projects.
+•	Demonstrated ability to transform poorly-defined business requirements into comprehensive processes and solutions based on industry best practices, as documenting processes and procedures used to support the business Standard Operating Procedures (SOP).
+•	Strong ability to gather business requirements and provide quality documentation.
+•	Self-motivated and driven to achieve professional success in end-client environment.
+•	Target oriented, professional attitude, good manners and high work culture is greatly desirable.
+•	You will have good educational background, ideally a master degree level – or equivalent – in a related subject. 
+•	Very good both written and oral English is essential.
+We Offer: 
+•	Very attractive, multicultural and friendly project environment in fast growing international company.
+•	Cooperation with highly skilled and professional team of architects, functional and technical experts.
+•	Hands-on experience and participation in establishing of business & IT enterprise architecture.
+•	Flexible working hours including combination of remote work, home office and international travels.
+•	Possibility to grow and make the next step in your professional career and self-development.
+•	Long-term relationship and very attractive and competitive salary package and bonus.
+

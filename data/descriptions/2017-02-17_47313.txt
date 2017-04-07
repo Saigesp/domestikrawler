@@ -1,0 +1,24 @@
+
+Zankyou offers its services in a range of European and South American countries and in the USA and in 9 different languages (German, French, English, Italian, Portuguese, Spanish, Polish, Russian and Dutch).
+To date, more than 100,000 couples have created their wedding webpage through Zankyou and more than 500,000 gifts have been given via Zankyou gift lists. Every month more than 3 million users use the website, with an average of 14 million page views.
+We are looking for a Senior PHP Engineer to join our team. As a key member on the team, you will play an integral role in architecting and building the backend technology to help our platform grow.
+You will work in a dynamic, creative and innovative environment with motivated team players who are not afraid of going the extra mile toward new challenge. We use the newest technologies in our field on a day-to-day basis, in a high-traffic site with a global philosophy. We’re crazy about the Internet and we love to learn new things every day as well as at conferences and industry events.
+Around 140 people work at Zankyou at this time. Our team is young, international and energetic, with an average age of 29 and XX nationalities represented companywide.
+This position is full-time and based in Madrid.
+What you will do:
+Design and craft improvements or brand new features in core backend projects focused on one of the pillars of the company
+Find scalable and high performance solutions to the projects challenges
+Thoroughly apply development best practices (Clean Code, TDD, etc.)
+Contribute with fresh new ideas and your vision about the projects and their impact in the final product
+Requirements:
+Strong Computer Science fundamentals
+Feel right at home building core functionality in PHP
+Strong object oriented programming skills
+Intimately familiar with MySQL and NoSQL systems
+Disciplined and efficient approach towards architecture and stability
+Love finding efficient and scalable solutions to complex problems
+Write code clean, fast, and elegant
+Team player, flexible, analytical and problem solver.
+What we offer:
+Working hard while having fun: Flexible working hours, a gorgeous office with stunning views. 
+Ongoing Training: Biannual off-site summits in Cadiz or Mallorca, travel to and attend external tech conferences.

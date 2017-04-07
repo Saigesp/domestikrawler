@@ -1,0 +1,41 @@
+
+Are you passionate about video games? Do you want to keep progressing in an exciting, young and dynamic environment? Gameloft Madrid, the studio behind the mobile gaming hit Gods of Rome and many other successful titles, is currently seeking an Online Programmer!
+A leading publisher of digital and social games, Gameloft® has established itself as one of the top innovators in its field since 2000. Gameloft creates games for all digital platforms and is present on all continents, distributing its games across 100 countries and employing over 6,000 employees. 
+As C++ Online Programmer at Gameloft Madrid, you’ll be working with some of the best talents in the world from hit games and franchises including Asphalt Xtreme and Gods of Rome, which were created in this studio.
+Job Description & Environment:
+As part of the Programming Department, you will work on developing online features for iOS games.
+Within this framework, your main tasks will include:
+•	Defining the social and online features of our games closely with the design teams
+•	Designing and developing our online servers, supervising their deployment and their maintenance
+•	Implement the social and online features using our technology
+•	Assisting gameplay and UI teams in the integration of the social and online features in our games
+•	Suggesting the best techniques to offer players the best social and online experience
+•	Producing relevant documentation and report to your online lead.
+Minimum requirements:
+•	>4 years´ experience in developing and launching online games or applications preferably on iOS or Android.
+•	Bachelor’s degree in computer science, computer engineering or similar fields or equivalent experience.
+•	Excellent C/C++ programming skills.
+•	Experience working with relational databases such as MySQL.
+•	Web scripting experience, PHP/Python and Javascript preferred.
+•	Experience in HTTP protocol and REST services.
+•	Prior experience working with Facebook or other Social Networks API/SDKs.
+•	Motivated and passionate about video games.
+•	Independent, dynamic, thorough and enjoy working as part of a team.
+•	Fluent in English.
+And above all, motivation and a passion for video games!
+*All qualified candidates will be asked to take a skills assessment test.
+Why Join Gameloft Madrid?
+
+•	Opportunity to work in a professional environment with people who have a passion for creating video games!
+•	Fun, passionate and creative studio with a casual, friendly atmosphere. International environment and open working climate with young, dynamic teams from around the world
+•	Permanent contract
+•	Full coverage with health insurance
+•	25 paid vacation days
+•	Flexible schedule
+•	Dynamic salary review, bonuses and other perks (Game room, ping pong table, free fruits and coffee, parties & joyful events…)
+•	Workshops, team building activities and free Spanish and English classes
+•	Professional growth opportunities supported by a performance review process and a Training Plan
+•	If coming from abroad, we offer relocation support
+•	Excellent working conditions! Office situated in the very heart of Madrid with rooftop terrace with panoramic views of the city
+We can’t wait to find our next great talent! 
+

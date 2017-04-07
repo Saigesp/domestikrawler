@@ -1,0 +1,16 @@
+
+Buscamos un Programador Web freelance para una colaboración contínua, con las siguientes características:
+-	Persona proactiva y dinámica. 
+-	Facilidad para el trabajo en equipo. 
+-	Con capacidad de resolución de problemas
+Se integrará en un equipo de trabajo joven y dinámico dedicado al desarrollo de aplicaciones web y juegos online.
+Requisitos mínimos:
+- Experiencia mínima de 2-3 años en trabajos similares.
+- Dominio de tecnología ASP.NET 
+- Dominio de SQL SERVER
+- Experiencia en Maquetación HTML, CSS
+Requisitos deseados:
+-	Experiencia en gestión de proyectos. 
+-	Experiencia en el análisis funcional de aplicaciones web
+-	Experiencia en el diseño de bases de datos relacionales 
+Si das el perfil, envíanos tu CV a angel@xtragames.com con el asunto 'Programador Web'

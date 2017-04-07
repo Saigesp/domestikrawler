@@ -1,0 +1,38 @@
+
+Company:
+Our Client is a Swiss-based fast-growing venture with a patented and award-winning technology which focuses on security and performance monitoring.
+Job Description:
+The position includes a high level of responsibility in the R&amp;amp;D team. Your contribution will have a clear and significant impact on hundreds of thousands users of our real-time monitoring technology that is already used by dozens of major organizations around the world.
+We are looking for a very senior and experienced quality engineer with outstanding process Management and automatisation capabilities to play a major role in the company. The candidate should be heavily motivated by the projects and experienced in software release Management and testing methods.
+Your main Responsibilities will include:
+Test bench development:
+-Establishment with the manager and the contribution of the team of the test strategy
+-Develop automated tests bench software tools (C#, Python, bash, …) amd automation scripts for stress, accuracy, and non-regression
+Take over with the team the responsibility of the second level support cases and manage the issue resolution process:
+-Help 1st level support with issues they cannot solve
+-Set-up labs to reproduce the issues and manage test machines
+Establish with the support of the respective manager the Bugs management process:
+-Sort out and dispatch issues into the correct workflow (bug, enhancement, …)
+-Evaluate severity and check priority
+Participate to the Product release delivery process
+-Prepare the release ready product
+-Contribute to the technical end-user documentation
+Offer:
+-An opportunity to join a growing, multinational and first-class technical team
+-An enterprise culture focused on technical excellence and creativity
+-Technical trainings and conferences financed by the client
+-Very competitive salary from and good social conditions
+-Ideal working conditions on EPFL's campus near the lake
+-A chance to live in the heart of Europe, a couple of hours from most capitals
+Your Profile:
+-B.S. in Computer Science (or equivalent)
+-5+ years of QA experience
+-Very strong motivation to learn new technologies and to improve
+-Excellent background in web technologies, networking, unix and DBs
+-Strong knowledge of software development tools (make, subversion, …)
+-Basic knowledge in programming languages (C, C++, C#, Java, Javascript, …)
+-Ability to write shell scripts and small programs (Python, …)
+-Experience in Helpdesk support would be a strong plus
+-Professional-level English spoken and written
+-Excellent communication and teamwork skills
+

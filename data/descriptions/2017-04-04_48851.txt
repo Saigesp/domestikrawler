@@ -1,0 +1,24 @@
+
+Agencia de Marketing digital en pleno crecimiento precisa incorporar un Programador PHP + HTML + CSS + JS Front-end especializado en desarrollo con CMS (WordPress / Drupal) para jornada completa.
+Requisitos mínimos
+- Imprescindible experiencia en el desarrollo de templates completos con WordPress, así como desarrollo de plugins.
+- Versatilidad para trabajar en tareas de desarrollo tanto Front-end (HTML + CSS + JavaScript / JQuery) como back-end (PHP + MySQL).
+- Dominio de lenguaje Javascript.
+- Experiencia con Bootstrap, así como JSON, API REST, Ajax y Web services.
+- Experiencia en integración de APIs.
+- Experiencia trabajando con entornos OSX.
+Conocimientos deseados
+- AngularJS.
+- Phonegap.
+Se valorará:
+- Conocimientos SEO.
+- Experiencia en el desarrollo de aplicaciones iOS y Android.
+Qué esperamos de ti:
+- Saber gestionar tu tiempo.
+- Buena comunicación.
+- Trabajar en equipo.
+Qué ofrecemos:
+- Un entorno de trabajo distendido.
+- Trabajar en diferentes tecnologías.
+- Participar en las diferentes etapas de los proyectos.
+HorarioL-J: 8:30 a 14:00 y 15:00 a 18:00. V: Intensiva

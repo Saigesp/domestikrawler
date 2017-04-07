@@ -1,0 +1,14 @@
+
+Seleccionamos una persona para trabajar conjuntamente con el supervisor de I+D, para proveerle de las herramientas que configuran el sistema completo y la tecnología del pipeline.
+La persona seleccionada se responsabilizará de:
+Bajo las directrices del supervisor de I+D, crea las herramientas necesarias para facilitar el proceso técnico del pipeline para las producciones del área Audiovisual.
+Creación, desarrollo, testeo y mantenimiento de herramientas para los equipos de Storyboards, Animáticas, 2D, 3D, Layout, Animación, Fixing, Render, Postproducción y Producción dentro del sistema general que da soporte al pipeline.
+Se coordina con los supervisores de los respectivos departamentos para recopilar datos de qué y cómo se han de desarrollar las posibles herramientas que automaticen tareas departamentales.
+Ayuda al supervisor a crear e implementar procesos internos y externos dentro del departamento.
+Colabora con producción para cumplir las cuotas y objetivos semanales.
+Crea y actualiza la documentación para las herramientas, técnicas y flujos de trabajo
+Requisitos:
+Experiencia previa como programador en empresas del sector audiovisual (imágenes, videos, audio)
+Disponibilidad para incorporación inmediata
+Conocimiento de procesos de producción audiovisual (2D y 3D)
+Experiencia en programación de herramientas orientadas a la organización y soporte de los pipelines de trabajo para animación de cine o televisión

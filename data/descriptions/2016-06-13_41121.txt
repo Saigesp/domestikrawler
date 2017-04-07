@@ -1,0 +1,10 @@
+
+ArX Solutions, empresa líder en visualización arquitectónica en 3D, está buscando artistas 3D y programadores talentosos para ampliar su  equipo de desarrollo de realidad virtual en su oficina de Madrid, España.  Los candidatos deben posee un nivel muy avanzado en el manejo de  Unreal Engine 4 y/o Unity 5. El puesto consiste en el desarrollo de aplicaciones de Realidad Virtual y/o Realtime para las plataformas  Gear VR, Oculus Rift y HTC Vive. El tipo de contrato ofrecido es un contrato indefinido con período de prueba de un año. No se contemplan trabajos freelance o a través de agencias. El puesto es para una jornada de 40 horas semanales en nuestra oficina del centro de Madrid.
+El candidato deberá contar con tres requisitos básicos excluyentes. (Si no se tienen los tres requisitios por favor abstenerse)
+1- Conocimiento a nivel de experto en Unreal Engine 4 y/o Unity 5. (Ambos es un plus muy importante)
+2- Conocimientos avanzados de 3Ds Max y PS.
+3- Comprensión del idioma inglés.
+Otro tres conocimientos adicionales que se tendrán en cuenta son:
+1- Conocimientos avanzados en C++
+2- Conocimientos avanzados en JAVA o PHP.
+3- Conocimientos avanzados en Base de Datos.

@@ -1,0 +1,35 @@
+
+Hello.
+We’re looking for a front end developer to join our small and enthusiastic team who run Shooting People. We have offices in Hoxton, East London, in Olomouc, Czech Republic, and in Barcelona, Spain.
+Who are we?
+Shooting People is an online creative network that supports the independent filmmaking community. We are committed to developing new services which benefit creatives across the industry. Members use the site in a number of ways; over 100 productions are cast/crewed per week, advice is discussed, skills and resources are constantly shared. We’re dedicated to engineering new ways to make the industry more accessible through alternative routes to funding, project commissions and new distribution models.
+Who we work with
+We’re fortunate enough to boast an incredibly talented list of Patrons, including the likes of Nick Cave, Lena Dunham, Matt Groening, Miranda July and most recently Kevin MacDonald. Sitting at the heart of the industry we partner with top UK festivals, institutions and brands including Sheffield Doc/Fest, Encounters, BAFTA, The BFI, Firefox and C4 who all have unique opportunities to offer our members.
+If you have the skills, and are interested in joining our team, email us at tim@shootingpeople.org with examples of your recent work.
+We look forward to hearing from you.
+Team SP
+--------------------------------------------------------
+Job outline
+This role is based in Barcelona, Spain and can be full or part time.
+You will be:
+- building web pages in HTML and CSS
+- designing page layouts
+- working with our designer to brand new and existing areas of the site
+- re-designing and updating designs for existing services
+You will need to:
+- have excellent modern HTML and CSS and attention to detail
+- have at least a good knowledge of JavaScript
+- have a strong grasp of UX design, being able to produce sensible interfaces
+- ensure the layouts of each page are accessible and logical
+- be able to produce responsive page designs
+- be keen to learn new things and improve your knowledge and skills
+- have good English language skills
+Ideally you would also:
+- have some graphic design skills, although you would be working with out graphic designer
+- have a good working knowledge of PHP and/or Python
+- have familiarity with MVC frameworks
+- be comfortable working with unix command line and git
+The right person for us would be someone who:
+- likes to take the initiative and own their area of work
+- enjoys working in a small, dedicated and flexible team
+- be happy to travel to London and Barcelona on occasions to spend time working with other staff

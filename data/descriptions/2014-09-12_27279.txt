@@ -1,0 +1,41 @@
+
+En Plain Concepts Madrid estamos buscando varios desarrolladores Web 4x4 con ganas de disfrutar de su trabajo día a día. 
+¿Qué vas a hacer en Plain Concepts?
+Vas a trabajar con un equipo joven y divertido, pero sobretodo apasionado por el desarrollo y sobre todo todos los proyectos que realizamos siempre son con las últimas tecnologías, así que no te vas a aburrir. 
+¿Qué se espera de ti?
+• Que seas proactivo y no te den miedo las nuevas tecnologías 
+• Que el trabajo en equipo y la colaboración con equipos multi disciplinares no sean un problema para ti. 
+• Tener un nivel de inglés que te permita trabajar y comunicarte con anglo parlantes de forma fluida. 
+• En Plain Concepts participamos bastante con la comunidad de desarrolladores y realizamos ciertas tareas de formación, por lo que si te consideras un buen comunicador, será valorado. 
+Qué tecnologías se esperan que conozcas? 
+Lenguajes
+• HTML 
+• Razor (ASP.NET MVC) 
+• JavaScript 
+• C# 
+Maquetación HTML y CSS
+• HTML5 y CSS3 
+• Conocimiento de la filosofía de diseño “Responsive Web Design” y uso de media-queries, con el objetivo de que las aplicaciones puedan visualizarse en diferentes dispositivos (framework Bootstrap) 
+• Conocimientos “Cross Browser Design” para que el diseño sea posible visualizarlo desde cualquier navegador y versión 
+• Conocimientos de herramientas de preprocesadores de CSS (LESS, SASS/Compass) 
+
+Javascript y Framework
+• Experto en JavaScript. Conocimiento de patrones, capacidad para definir el uso correcto de namespaces, closures, scoping, etc 
+• Conocimientos del API del DOM de los navegadores 
+• Conocimiento de los frameworks de desarrollo en JavaScript y específicamente jQuery y AngularJS 
+• Especial atención al rendimiento y el interfaz de usuario que sea fluido. 
+• ASP.NET MVC. Cuanto más conozcas esta tecnología de servidor mejor. 
+Buenas Prácticas
+• Definición de buenas prácticas de desarrollo con código limpio, semántico y reutilizable. 
+• Conocimiento de los estándares de W3C 
+• Buenas prácticas de las prácticas de Accesibilidad AA 
+• Unit Testing 
+Herramientas
+• Visual Studio 2012/13 
+• Team Foundation Server o GIT 
+Herramientas o tecnologías deseables
+• Yeoman 
+• Grunt 
+• Bower 
+• NodeJS 
+• Karma

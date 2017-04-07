@@ -1,0 +1,20 @@
+
+Buscamos un director de tecnología con capacidad para dirigir un equipo de programadores en varios proyectos multiplataforma (PS3, PS Vita, PSP, Xbox, Wii y dispositivos móviles).
+
+RESPONSABILIDADES
+o    Capacidad de gestionar el equipo de programadores.
+o    Organización de los aspectos técnicos de los proyectos.
+o    Gestión de las necesidades tecnológicas de la empresa.
+o    Análisis y estructuración técnica de los proyectos, estableciendo la planificación.
+o    Gestión del sistema de control de versiones (CVS, Perforce, SourceSafe…).
+
+REQUISITOS
+o    Experiencia en programación de videojuegos de consola.
+o    Experiencia dirigiendo equipos.
+o    Visión práctica para resolver problemas.
+o    Capacidad para gestionar varios proyectos de corta duración simultáneamente
+o    Experiencia con engines (Phyre Engine, Unity, Gamebryo, Vicious…).
+o    Sólidos conocimientos de C++.
+o    6 años de experiencia y al menos 1 título comercial publicado como lead
+o    Ganas de trabajar en equipo en proyectos innovadores dirigidos a un público que no suele jugar a los videojuegos.
+

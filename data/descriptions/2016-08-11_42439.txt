@@ -1,0 +1,35 @@
+
+En DNOiSE seguimos ampliando nuestro departamento de desarrollo y buscamos Analista Programador Senior para integrarse en nuestro equipo
+Responsabilidades:
+> Desarrollar nuevas funcionalidades y mejorar las existentes
+> Escribir código fácilmente mantenible y escalable
+> Desarrollar íntegramente las soluciones
+> Colaborar con otros desarrolladores y personal de sistemas
+> Apoyo a I+D+I con propuestas personales
+Requisitos mínimos, amplia experiencia en:
+> Sólidos conocimientos de Symfony2
+> Arquitectura y desarrollo de software
+> Entorno Unix + Apache + MySQL
+> Javascript y jQuery, HTML5, CSS3
+> Control de versiones GIT
+> Twig (o sistema de plantillas similar)
+> Técnicas de testing unitarias y funcionales
+Imprescindible aptitudes para:
+> Análisis estructurado
+> Gestión de proyectos
+> Trabajo en equipo
+> Resolución de problemas
+Valoraremos muy positivamente conocimientos en:
+> MongoDB, Redis, RabbitMQ/ZeroMQ
+> Silex, Laravel u otros frameworks
+> AngularJs u otros frameworks.
+> Metodologías ágiles
+> DDD
+> Conocimientos sobre datascience / R / Python
+Ofrecemos
+> Integrarse en un equipo de trabajo multidisciplinar, oficina en pleno centro de Madrid con muy buenas comunicaciones (Calle Cervantes 21)
+> Remuneración 24/36.000€ año, según solvencia demostrada del candidato
+> Realización de proyectos, tanto desarrollos para grandes marcas como el desarrollo de la herramienta propia de dnoise de análisis en Twitter www.followthehashtag.com
+> Horario de trabajo de 8:00 a 17:00 con pausa para el almuerzo de Lunes a Jueves, Viernes de 8:00 a 15:00 
+> Un ambiente de trabajo excelente
+> Incorporación durante septiembre, contrato de trabajo por cuenta ajena

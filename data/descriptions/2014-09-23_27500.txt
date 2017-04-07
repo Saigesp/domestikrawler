@@ -1,0 +1,19 @@
+
+Buscamos un Programador Java Senior con amplia experiencia en Java/Oracle. Apasionado por la programación y con capacidad para la gestión de tareas.
+Estudios mínimos:
+Técnico Superior
+Experiencia mínima:
+Al menos 4 años.
+Requisitos:
+- JavaSE / JavaEE. 
+- Hibernate, JPA. 
+- Spring {Framework, Data, Security, Batch, web flow, web services, social}. 
+- Maven, SVN. 
+- Servidor de aplicaciones weblogic, base de datos Oracle 
+- PHP5. y MySQL. 
+- HTML, CSS, JS.
+Condiciones:
+- Zona de trabajo: Las rozas 
+- Contrato: indefinido 
+- Duración del proyecto: 1 año y medio aproximadamente. 
+- Muy valorable disponibilidad inmediata de incorporación.

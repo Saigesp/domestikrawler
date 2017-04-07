@@ -1,0 +1,17 @@
+
+Se busca FrontEnd Developer Freelance de manera urgente para incorporación inmediata en varios proyectos.
+Imprescindibles los siguientes requisitos:
+•  Experiencia mínima de 2 años en frontend development
+•  Conocimientos profesionales en HTML5 + CSS3 + maquetación responsive + grids + Bootstrap (o similar).
+•  Experiencia en uso de precompiladores CSS como LESS o SCSS
+•  Conocimiento alto en Javascript/jQuery + POO + AJAX
+•  Conocimiento (nivel frontend developer) de PHP
+•  Experiencia en entornos de trabajo de tareas con Gulp/Grunt
+•  Enlaces a proyectos terminados
+•  Demostración de conocimientos
+Se valorará positivamente:
+•  Experiencia en uso de Backbone/Backbone Marionette/Angular/React
+•  Rapidez y detalle en los resultados finales
+•  Experiencia en sistemas de control de versiones como Git/GitHub
+Otros datos
+•  Trabajo no presencial

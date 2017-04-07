@@ -1,0 +1,56 @@
+
+En Dantex Group buscamos un programador en tecnologías Web para aplicaciones de video streaming diseñadas para una excelente experiencia de usuario.
+Los requisitos son: 
+-	Dominio del HTML5 + CSS3 
+-	Amplia experiencia JavaScript y jQuery.
+-	Desarrollo en ANGULAR.
+-	Conocimiento en instalación de entornos de desarrollo y control de versiones.
+-	Programación en NODE.
+-	Experiencia en la instalación de BBDD y generación de WebServices Restful.
+Se valorará:
+-	Formación en arquitectura del software.
+-	Experiencia en desarrollo de aplicaciones para móviles.
+-	Experiencia en desarrollo de WebApps para plataformas iOS.
+-	Experiencia en desarrollo en lenguajes tradicionales (C#, Java...)
+Sobre Dantex Group:
+	Dantex Group es una consultoría estratégica especializada en la planificación, asesoría y desarrollo de proyectos de Marketing, Comunicación y Ventas, mediante las más avanzadas técnicas de Comunicación Digital.
+El equipo humano está formado por profesionales con una dilatada experiencia en Consultoría estratégica, Consultoría tecnológica, Marketing & Comunicación, Estrategia Comercial, Realidad Virtual, Video Interactivo, Tecnología 3D y Aplicaciones Multimedia. 
+En Dantex Group entendemos como la comunicación digital el conjunto de herramientas tecnológicas que facilitan, optimizan y hacen más eficiente la  gestión de las acciones de marketing, comunicación y de los procesos comerciales. 
+Clientes:
+Dantex Group cuenta, entre otros, con los siguientes clientes: 
+•	Siemens.
+•	CLH.
+•	Bankinter.
+•	Lexus.
+•	Securitas.
+•	BNP Paribas.
+•	Adecco
+•	Teleperformance
+•	El Corte Inglés.
+•	Deloitte.
+•	Heineken.
+•	Prosegur.
+•	Endesa.
+•	Repsol.
+•	Grupo BBVA.
+•	Grupo Santander.
+•	Merck Serono.
+•	Grupo Roca.
+•	Office Depot.
+•	RTVE.
+•	Aramark.
+•	Grupo Agbar.
+•	Gas Natural.
+•	Port Aventura.
+•	Expo Zaragoza 2008.
+•	Dragados.
+•	Svenson.
+•	Iberdrola.
+•	Thyssen Krupp.
+•	Esade.
+•	Metrovacesa.
+•	Almirall.
+•	Acciona. 
+•	Novartis.
+•	Pfizer.
+•	Bayer.

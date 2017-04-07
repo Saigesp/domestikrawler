@@ -1,0 +1,4 @@
+
+Buscamos un programador para incorporar en plantilla inmediatamente.
+Debe ser experto en Php, MySql, Javascript, jQuery y Ajax, y además debe tener conocimientos avanzados en SEO.
+Se valorará que sepa gestionar servidores dedicados.

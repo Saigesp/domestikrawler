@@ -1,0 +1,22 @@
+
+Seleccionamos Desarrollador Web con experiencia mínima de 3 años en el desarrollo de sites utilizando tecnologías LAMP , en particular PHP con orientación a objetos, autónomo y con experiencia en entornos de integración continua.
+Sus tareas principales se centrarán en el desarrollo y mantenimiento de nuestros portales, el análisis y el diseño arquitectural de las nuevas funcionalidadesde los mismos. 
+Se valorarán adicionalmente experiencia y conocimientos en el uso de frameworks PHP (Symfony / Symfony2 ) 
+Sobre ti:
+- Programar es tu vocación y tu obsesión; eres devoto del aprendizaje técnico con libros y blogs técnicos. 
+- Tienes formación en Informática, Telecos, Matemáticas o similares. 
+- Eres una persona autónoma,analítica y resolutiva. 
+- Estás acostumbrado a trabajar en equipo ya sonreir de vez en cuando. 
+- Has programado sites de alto tráfico en plataformas LAMP. 
+- Te obsesiona la calidad y la mantenibilidad del código que haces y conoces la importancia detener un site optimizado, escalable y rápido. 
+- Soportas bien la presión de trabajar en un site de alto tráfico y en entornos cambiantes. 
+- No programas webs,desarrollas aplicaciones de software en plataforma web.
+Te encargarás de:
+- Desarrollar nuevas secciones y mantener las existentes usando PHP5, OOP, AJAX, Smarty , Twig ,MySQL entre otros. 
+- Optimizar elcódigo existente para que sigamos creciendo sin perder velocidad. Análisis y propuesta de refactoring de la plataforma. 
+- Definir junto con el equipo de producto nuevos requerimientos para los proyectos quedesarrollarás. 
+Ofrecemos:
+Seguro médico 
+Más de 23 dias devacaciones + 1 dia de vacaciones por tu cumpleaños. 
+Ambiente de trabajo agradable. Código de vestimenta informal. 
+keywords: php5, symfony2, mysql, refactoring, developer, subversions,

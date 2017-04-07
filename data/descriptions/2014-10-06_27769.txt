@@ -1,0 +1,29 @@
+
+Nuestro cliente es una empresa internacional líder en restauración y retail para viajeros. Se va a desarrollar un nuevo proyecto de aplicación híbrida multi-device para dar servicio a sus más de 1200 establecimientos.
+Buscamos un desarrollador especializado en javascript para trabajar con un equipo de especialistas encargado de crear el proyecto desde cero con las tecnologías y herramientas más recientes. El proyecto, así como el puesto tienen proyección a largo plazo.
+Competencias Requeridas
+· Profundo conocimiento en javascript como lenguaje y comprensión de cuales de sus aspectos son buenos y malos.
+· Experiencia escribiendo javascript nativo (sin usar frameworks/librerías)
+· Conocimientos claros en patrones de diseño (aplicados a javascript) y buenas prácticas para escribir código bien estructurado, mantenible, y escalable.
+· Familiaridad de MVC y MVVM, y experiencia en aplicar estos conceptos en frameworks modernos (Backbone, Angular, Ember, etc)
+· Experiencia en proyectos con control de versiones e integración continua.
+Competencias Deseadas
+· Experiencia en diagnóstico y optimización de "page rendering”
+· Experiencia trabajando con AngularJS, node, grunt y sass.
+· Experiencia en  estratégias y herramientas de testing (BDD, TDD, unit testing, end-to-end testing, sinon, jasmine, casper, etc)
+· Experiencia en git
+· Experiencia en desarrollo de apps híbridas (web views)
+· Experiencia trabajando con web components
+· Experiencia trabajando en metodologías ágiles (SCRUM, kanban, etc)
+Responsabilidades
+· Participar en el establecimiento de una arquitectura limpia, mantenible y escalable.
+· Participar en nuevas ideas de mejoras de la aplicación, con componente innovador.
+· Participar en reviews de código, pair-programming y planning de las fases de desarrollo
+· Participar en la definición de baterías de tests antes del desarrollo
+· Mantenerse actualizado explorando/aprendiendo nuevas tecnologías de posible provecho
+Competencias personales
+· Team player, capaz de expresarse con claridad y comunicarse adecuadamente con los miembros del equipo
+· Positivismo, humildad y con ganas de aprender
+· Atención a los detalles y pasión por la calidad y la experiencia de usuario
+· Pro-actividad en resolución de problemas y mejora del código
+· Entusiasta y cuidador del ambiente de trabajo

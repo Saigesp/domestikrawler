@@ -1,0 +1,31 @@
+
+Sharing Academy is a peer to peer marketplace that connects students with private tutors. 
+As a Senior Backend Engineer, you will innovate, learn and participate in a start-up that’s going to do great things.
+We are looking for smart, flexible, innovative thinkers and team worker who aren’t afraid to challenges. We want a person who can manage software development roadmaps in alignment with product, engineering and business priorities.
+Mínimum studies
+Ingeniero Técnico Informático
+Experience
+2 años
+Required
+- 2+ years of coding clean, object-oriented, namespaced PHP frameworks, specially Zend Framework and/or Symfony
+- Solid MySQL.
+- Software design and architecture patterns.
+- Cloud/auto-scaling environment experience.
+- Experience integrating code with different Web APIs.
+- Knowledge in GitHub.
+- Familiar with agile methodologies.
+- Experience in JavaScript (jQuery or similar).
+- Level of English medium.
+A plus
+- Experience modeling and building complex and large data management systems and applications based on relational and/or NoSQL databases.
+- Management experience in a software engineering organization.
+- Strong communication and interpersonal skills.
+- Strong technical leadership skills.
+- Scrum Master.
+- Knowledge using Javascript Frameworks (Angular, BackBone, etc..).
+- Good experience with RESTful APIs.
+- Experience in test driven development (TDD).
+Salary:
+20.000 – 23.000 €
+Type of contract
+Permanent

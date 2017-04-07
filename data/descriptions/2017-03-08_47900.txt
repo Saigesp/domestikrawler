@@ -1,0 +1,8 @@
+
+En Digital Nomad buscamos incorporar un programador/a iOS, a tiempo completo (De 8 a 17 horas), para trabajar en nuestras oficinas de San Sebastián de los Reyes, Madrid. En Digital Nomad desarrollamos aplicaciones móviles multiplataforma para grandes empresas. 
+Requisitos:
+Experiencia demostrable en programación iOS.
+Experiencia en uso de cocoapods y librería más comunes.
+Se valorarán conocimientos de diseño UX
+Se valorará la productividad, creatividad y capacidad de resolución de problemas y toma de decisiones, así como independentismo.
+

@@ -1,0 +1,16 @@
+
+Hola a tod@s:
+1.Busco persona o equipo para colaborar realizando 
+videos con infografias similares a este:
+ http://www.youtube.com/watch?v=RAz44jLrpY0
+2. También estaría interesado en encontrar alguien que
+dominase la técnica de rendering tiempo real, para 
+hacer animación similares a los videos anteriores pero 
+con el añadido que el usuario pudiese interactuar. 
+Meterse dentro de la operación, rotarla para tener 
+distintos puntos de vista y tener control sobre la 
+escena, reproducirla, pararla...cuando por ejemplo se 
+produzca una infección.
+Sería algo similar al enlace que pongo pero con la 
+temática médica del video anterior.
+ http://www.youtube.com/watch?v=n7YfQqYHQxI

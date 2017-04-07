@@ -1,0 +1,37 @@
+
+Principales funciones del perfil:
+•	Se enfocarían en el área de programación web principalmente, con websites, banners, landingpages, newsletter, etc.
+•	Maquetación y programación de campañas digitales: banner dinámicos, webs, emailing.
+•	Manejar los tiempos de los proyectos e Identificar los puntos de riesgo. 
+•	Trato directo con los departamentos de cuentas, creación y producción. 
+•	Identificar y solucionar problemas de rendimiento y usabilidad.
+Conocimientos básicos:
+-	Experiencia mínima dos años en desarrollo de front-end.
+-	Programación de banners (Richmedia, HTML5). 
+-	Maquetación y programación responsive: web, landings, emailing. 
+-	Diseño web / UI / UX : Diseño de interfaces web  y emailing.
+-	Conocimientos de HTML, y la especificación HTML5.
+-	 Manejo de CSS, CSS3, Javascript.
+-	Edición de contenidos en WordPress. 
+-	Dominio de los programas del Pack de Adobe (Photoshop e Illustrator).
+Conocimientos deseables:
+-	Conocimientos de SEO (etiquetado schema).
+-	Dominio de jQuery y Bootstrap.
+-	Otros lenguajes de programación: PHP; .NET.
+-	Escaneo de web sites con Qualys. 
+-	Experiencia en UX , desarrollo de Wireframes Low y High quality, 
+-	Conocimento API de Facebook y Google.
+-	Desarrollo de plugins.
+Otras habilidades
+- Trabajo en equipo. 
+- Adaptación y autosuficiencia. 
+- Autocrítica. 
+- Perfil dinámico.
+- Interés y dominio por las nuevas tecnologías.
+- Conocimiento inglés. 
+¿Qué ofrecemos?
+- Incorporación a una empresa dinámica y con presencia internacional. 
+- Formar parte de un equipo multidisciplinar y autónomo. 
+- Jornada completa.
+- Contrato indefinido (período legal de prueba).
+

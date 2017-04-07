@@ -1,0 +1,2 @@
+
+Redactor para la creación de 2 artículos mensuales para blog, orientado al SEO. 

@@ -1,0 +1,20 @@
+
+¿Quién hay detrás de SyncRTC?
+Hace casi cuatro años que comenzó nuestra aventura en el mundo de la videocolaboración. Es posible que aún no nos conozcas por este nombre, pero seguramente te sonará el equipo de MashMeTV, esa increíble plataforma azul que ha llegado a más de un millón de usuarios repartidos por todo el globo terráqueo. Pues esos somos nosotros, un equipo multidisciplinar, joven y divertido que, tras el éxito conseguido en el ámbito B2C ha dado un salto al B2B con una nueva plataforma. ¿Y tú, quieres saltar con nosotros?
+Lo que te ofrecemos...
+Además de un sueldo entre 20-25K/año según valía, te ofrecemos ese primer trabajo después de la universidad en el que desarrollarte y crecer junto a nosotros, o incluso esa alternativa a tu aburrido trabajo de consultor junior. En SyncRTC cada día aprendemos algo nuevo, no hay dos días iguales y, -no te mentiremos-, aunque se trabaja mucho, siempre hay lugar para momentos increíblemente divertidos. Disfrutamos de lo que hacemos y queremos seguir sintiéndonos como una pequeña familia.
+Lo que necesitamos de ti...
+Que tengas una mente inquieta, ganas de aprender, espíritu autodidacta, voluntad para seguir mejorando día tras día e ilusión por crear. Que te guste el ambiente startup, el buen rollo, adaptarte a diferentes perfiles y que seas capaz de trabajar tanto en equipo como teletrabajando en solitario. Que tengas los siguientes conocimientos:
+• Conocimientos medios-altos de Javascript
+• Conocimientos medios-altos de CSS3
+• Conocimientos medios-altos de HTML5
+• Conocimientos medios-altos de Polymer
+Y, además, valoraremos positivamente...
+• Conocimientos sobre Less
+• Conocimientos sobre Gestión de Paquetes Bower y NPM
+• Haber trabajado previamente con Docker
+• Capacidad para trabajar con música de fondo, ver películas geek a la hora de la
+comida y jugar a lanzar compañeros rodando sobre la silla de escritorio.
+Una vez aquí...
+• Se te asignará un mentor dentro de la compañía, según la casa para la que seas elegido.
+• Se te permitirá traer una lechuza, un gato, una rata o un sapo. Por políticas de empresa no aceptamos elfos domésticos.

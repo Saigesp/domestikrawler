@@ -1,0 +1,20 @@
+
+Estamos en constante crecimiento, buscamos profesionales con talento, actitud, conocimiento, cualificación y sobre todo pasión en lo que hacen.
+Kelevra es una empresa de desarrollo, innovación y consultoría tecnológica especializada en soluciones 360º para empresas, con una clara orientación a la ejecución de proyectos tecnológicos de vanguardia. Somos expertos en i+D+i y ofrecemos servicios de asesoría tecnológica, desarrollo de aplicaciones móviles (iOS, Android, Windows Phone), diseño web, desarrollo de software a medida, ERP, Cloudcomputing, marketing online, posicionamiento web SEO y SEM, ingeniería 3D, entre otros.
+Conocimientos exigidos y Experiencia demostrable en:
+- Objective-C y SWIFT
+- Android
+- Cordova / Angular
+- React Native
+Conocimientos valorados positivamente:
+- Software Testing
+- Ruby
+- Java
+- Metodologías Ágiles
+- REST
+- Git
+Ofrecemos:
+- Puesto estable
+- Posibilidad de ascenso
+- Incorporación a una empresa tecnológica puntera y de reconocido prestigio en el sector
+

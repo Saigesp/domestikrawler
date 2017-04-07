@@ -1,0 +1,17 @@
+
+En boream estamos buscando Analista/Programador en la plataforma iOS, con una sólida base tecnológica y experiencia mínima de 3 años en desarrollos de Apps.
+Características de la oferta:
+* Incorporación a proyectos de primer nivel, que te permitirán seguir creciendo como profesional. 
+* Formación continua en las tecnologías del sector. 
+* Trabajo presencial en Madrid.
+* Oferta salarial de entre 30k y 40k €/año, según valía.
+Necesitamos que tengas soltura con lo siguiente:
+* Experiencia en desarrollo de aplicaciones multidispositivo para iOS
+* Conocimientos sólidos Objective-C/Swift y Patrones de Diseño.
+* Conexión con servicios Rest (AFNetworking, Alamofire,...) 
+* Conocimientos SQL y sistemas de almacenamiento de datos (Core Data,...)
+* Experiencia con librerías gráficas y de animación (Autolayout, CoreGraphics, CoreAnimation,...).
+* Uso de otros frameworks y librerías de terceros (Cocoapods,...) 
+* Mapas, Geolocalización, Push e integración con pasarelas de pago. 
+* Tareas de testing (local/remoto), analítica y optimización de rendimientos.
+* Experiencia en metodologías ágiles tipo Scrum o Kanban.

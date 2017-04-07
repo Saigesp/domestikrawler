@@ -1,0 +1,22 @@
+
+Zigurat es una empresa de formación on-line enfocada en los sectores de la ingeniería, arquitectura e IT, que selecciona un Técnico de Marketing Analítico.
+Requisitos mínimos:
+-          Licenciatura en marketing
+-          Experiencia de más de 5 años 
+-          Enfocado a la consecución de leads para el Departamento Comercial
+-          Altos conocimientos de herramientas de análisis (SQL, Excel Avanzado, Google Analytics, Similar Web...) de los distintos canales (Redes Sociales, web, mailing, eventos...)
+-          Alto nivel de inglés
+-          Proactividad, creatividad, innovación y empuje
+-          Capacidad de trabajo colaborativo y en equipo
+-          Responsable, metódico y comprometido
+-          Conocimiento de mercados internacionales
+Funciones:
+-          Analizar las acciones de marketing (web, redes, mailings, eventos, directorios, paid media...) mediante herramientas específicas (SQL, Google Analytics...) para la elaboración de planes de optimización y mejora; y prospección de nuevas acciones. 
+-          Alcanzar los KPI’s programados
+-          Reporte del resultado de las acciones llevadas a cabo para el equipo y gerencia.
+-          Colaboración en la definición y mejora de las acciones para maximizar su alcance y rendimiento.
+-          Toma de decisiones estratégicas (junto con gerencia) en función de la información relevante concluida del análisis.
+Se valorará:
+-          Experiencia en el sector de la formación digital
+-          Base matemática y estadística, habilidad para trabajar con BBDD.
+

@@ -1,0 +1,20 @@
+
+En King-eClient buscamos un programador para que se integre a nuestro equipo de desarrollo y que participará en el análisis funcional y desarrollo de nuevos proyectos implementados en Drupal (7/8) así como en mantenimiento y evolutivos de proyectos vivos.
+Te pedimos… 
+Formación y conocimientos 
+- Modulos custom en drupal 7 
+- PHP-OOP y MVC (Symphony o Sílex o Laravel valorados) 
+- Que te guste internet y todo lo que le rodea 
+- Idiomas: Catalán, Castellano e Inglés 
+- Persona creativa y resolutiva, con capacidad de trabajar en equipo. 
+- Orientado a objetivos. Agile.
+- Con ganas de aprender y aportar
+Experiencia 
+- Experiencia mínima 3 años.
+Ofrecemos: 
+- Contrato indefinido 
+- Plan de empresa. 
+- Trabajar en un entorno joven, con personas dinámicas y en constante crecimiento, siempre dispuestas a aprender y a echar una mano. 
+- Proyectos muy interesantes que implican integración de Drupal con diferentes plataformas, APPs, APIs, etc. 
+- Crecimiento constante aplicando nuevas tecnologías según requerimientos de cada aplicación. 
+- Salario negociable según experiencia

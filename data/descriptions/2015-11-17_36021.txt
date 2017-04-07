@@ -1,0 +1,18 @@
+
+Buscamos:
+1 programador freelance senior de iOS (Objective C)
+(Abstenerse estudios u otros perfiles que no cumplan todos los requisitos) 
+Requerimientos:
+- Disponibilidad a tiempo parcial para relación laboral más o menos estable.
+- Que pueda facturar como autónomo.
+- Que trabaje con metodologías ágiles haciendo un seguimiento continuo. Gestionamos el proyecto con Trello y Google Drive.
+- Vivir cerca de Barcelona ciudad por si fuese necesario asistir de forma muy puntual a alguna reunión con el cliente o empresas colaboradoras.
+Descripción del trabajo:
+Participará en el desarrollo de nuevas funcionalidades de una App nativa que ya existe en el mercado.
+Entrará a formar parte de nuestra cartera de desarrolladores para esta App y deberá trabajar en equipo de forma telemática (Skype, mails) con el resto de desarrolladores del proyecto (de nuestra empresa y otras empresas externas).
+Imprescindible:
+- Experiencia previa desarrollando Apps nativas.
+- Conocimientos extensos de Objective C.
+- Conocimientos en el desarrollo remoto basado en repositorios GIT.
+- Experiencia previa implementando SDKs y APIs de terceros como: Facebook, servicios web, servicios Push, plugins y/o SDKs nativos.
+- Experiencia previa gestionando sistemas de certificados, firmas y llaves digitales para Apple.

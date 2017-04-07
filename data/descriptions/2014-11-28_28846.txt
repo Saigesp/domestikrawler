@@ -1,0 +1,12 @@
+
+¿Quiénes somos?
+Somos una empresa española que nos dedicamos al turismo.
+Ofrecemos a los turistas lo que necesitan para disfrutar de sus viajes: transportes, actividades culturales, excursiones, espectáculos, etc. Todo esto con el soporte que nos brindan las nuevas tecnologías, a través de páginas webs, aplicaciones móviles, pantallas táctiles, quioscos interactivos…
+¿Qué buscamos?
+- Estamos buscando talento y ganas de trabajar en un muy buen equipo.
+- Queremos ampliarlo incorporando un frontend developer con un enfoque creativo, muy bueno en diseño de interface y usabilidad.
+- Necesitamos que tengas experiencia en maquetación html y css, y conocimientos en diseño responsive y adaptación de diseños en web. Es imprescindible que manejes el paquete Adobe y valoraremos que tengas conocimientos de Bootstrap y Sass.
+¿Qué ofrecemos?
+- Ofrecemos que te unas a un agradable ambiente de trabajo.
+- Tenemos entre manos proyectos muy interesantes y divertidos que te esperan.
+- Trabajamos en el centro de Madrid, pero tenemos mucha libertad para movernos y para gestionar el tiempo.

@@ -1,0 +1,12 @@
+
+Buscamos un programador con altos conocimientos de programación orientada a objetos, preferiblemente C#, con las siguientes características:
+•	Más de 3 años de experiencia en desarrollo de aplicaciones de escritorio y/o web
+•	Conocimiento de bases de datos SQL (SQL Server, MYSQL) o Oracle
+•	Conocimientos de desarrollo web (HTML, CSS y Javascript)
+•	Capacidad de trabajo en equipo
+•	Abierto a aprender nuevos lenguajes / entornos de programación
+Tecnología
+ .NET, C#, SQL Server, ASP.NET Webforms y MVC
+Funciones
+Programador, analista
+

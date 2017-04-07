@@ -1,0 +1,21 @@
+
+En boream estamos buscando Desarrolladores Frontend, con experiencia en desarrollos especializados en Maquetación Web.
+Características de la oferta:
+* Trabajo presencial en Madrid Centro.
+* Incorporación a proyectos de primer nivel, que te permitirá seguir creciendo como profesional.
+* Formación en las tecnologías actuales del sector.
+* Oferta salarial según valía.
+Aptitudes y conocimientos deseados
+* Necesitamos que tengas soltura (al menos 3 años de experiencia) con lo siguiente: 
+* HTML5 + CSS3, multidispositivo y crossbrowser.
+* HTML Semántico. 
+* Uso de preprocesadores CSS de tipo Sass y Less.  
+* RWD aplicando frameworks como Bootstrap o Foundation, y uso habitual de MediaQueries. 
+* Metodologia y plataforma BEM
+* Nivel de Javascript medio, desarrollando habitualmente con jQuery.
+* Automatización de tareas con Grunt/Gulp, así como control de versiones en GIT
+* Conocimiento y aplicación de buenas prácticas SEO.  
+Genial si pilotas o conoces algo de esto otro:
+* Aplicación de las normativas WCAG 2.0 de Accesibilidad Web
+* Uso de otros frameworks de actualidad como Angular o ReactJS.
+* Conocer y tener experiencia en metodologías ágiles tipo Scrum.

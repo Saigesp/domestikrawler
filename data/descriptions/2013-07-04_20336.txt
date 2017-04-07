@@ -1,0 +1,17 @@
+
+Importante empresa del sector de los servicios precisa incorporar Programador Freelance para nuevo proyecto dentro del sector de las ITVs.
+El programador debe poder trabajar en nuestra oficina durante todo el verano. Desarrollará su trabajo codo con codo con un diseñador.
+Posibilidades reales de incorporarse en plantilla.
+Requisitos mínimos.
+- Javascript avanzado
+- CSS
+- Jquery
+- HTML, HTML5
+- ASP.NET
+- Herramientas de diseño gráfico (Adobe y similares)
+
+Requisitos deseados
+- C# o VB.NET
+- Visual Studio 2012
+- IIS 7 y superior
+ 

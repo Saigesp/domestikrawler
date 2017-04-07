@@ -1,0 +1,28 @@
+
+¿Estás buscando un reto en el que poder aportar tu conocimiento y además contribuir al desarrollo de las personas? ¿Te apetece sumar tu granito de arena a un proyecto que nace con vocación de trascender e impactar de lleno en el ámbito de la innovación,  la educación y el empleo? Si es así, ¡esta es tu oportunidad!
+En Telefónica Educación Digital estamos buscando profesores expertos freelance en el ámbito de las TICs. Estamos desarrollando un proyecto enmarcado en el Horizonte2020, enfocado a cubrir el GAP entre la formación académica y las necesidades reales de contratación de las empresas. ”En 2015 en Europa habrá unos 900.000 puestos no cubiertos de perfiles digitales” (El Mundo)  y aprovechando esa oportunidad, queremos tender un puente en el que conectemos a  los jóvenes que no encuentran trabajo y las empresas que necesitan esos perfiles, impactando directamente en la tasa de desempleo juvenil. 
+Si tienes conocimientos en una o varias de las siguientes áreas, experiencia demostrable como formador y te apetece participar en este reto, ponte en contacto con  nosotros. 
+INTRODUCCIÓN DESARROLLO WEB
+Objetivo: dominar las técnicas y herramientas para dirigir el desarrollo web complejo.
+Conceptos clave: Trabajo en equipo. Control de versiones GIT. Optimización. LINUX administración. Seguridad. Optimización del rendimiento
+INTEGRACIÓN WEB
+Objetivo: partiendo de maquetas gráficas, realizar la integración HTML/CSS correspondiente.
+Conceptos clave: HTML5. CSS. Tipografía. Posicionamiento. Selectores. Mobile. Responsive design. Photosop. Accesibilidad
+DESARROLLO DE UN PROYECTO WEB
+Objetivo: desarrollo de un sitio web complejo.
+Conceptos clave: Programación orientada a objetos. Arquitectura MVC. Desarrollo de un proyecto complejo 
+JAVASCRIPT
+Objetivo: conocer el lenguaje Javascript, la biblioteca JQuery y el mecanismo AJAX
+Conceptos clave: Eventos. DOM. JQUERY. Funciones y switches. AJAX. JSON. Operación y sintaxis básica
+PHP
+Objetivo: aprender a utilizar el lenguaje PHP y comprender su lógica para poder desarrollar aplicaciones PHP complejas
+Conceptos clave: la sintaxis. Variables. Operadores. Condiciones. Bucles. Funciones. Gestión de la seguridad de errores. Debug. Interacción BBDD. Autenticación. Back-office
+WORDPRESS
+Objetivo: ser capaz de realizar una simple página web o blog utilizando el CMS
+Conceptos clave: Instalación. Configuración de back-office. Extensiones. Plantillas. API. Plugins. Custom fields. Lógica CMS
+MYSQL
+Objetivo: saber cómo crear, organizar y operar una base de datos MySQL
+Conceptos clave: Estructura. Import/Export. Phpmyadmin. Lenguaje y consultas MySQL. Agregaciones. Grupos. Optimizar el rendimiento.
+Además nos interesa la participación en el diseño de otros módulos sobre Experiencia de Usuario, Big Data, SEO/SEM, Business Intelligence, Cloud Computing y Diseño de Aplicaciones Móviles.
+El formador debe impartir el módulo o módulos asignados y desarrollar los materiales para el alumno y el docente. El diseño del curso debe ser eminentemente práctico.
+

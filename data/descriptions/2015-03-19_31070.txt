@@ -1,0 +1,15 @@
+
+Solamente se valoraran los CV con portfolio o enlaces a últimos trabajos.
+Experiencia mínima de 2 años.
+Incorporación inmediata.
+Trabajo presencial en Madrid. Abstenerse freelance no presenciales.
+Los requisitos son:
+Experto en maquetación HTML+CSS (y uso de HTML5 y CSS3)
+Conocimientos de accesibilidad y estándares W3C
+Lenguaje de SASS/LESS
+Conocimientos de frameworks de desarrollo de css (bootstrap, foundation)
+Control de versiones git
+Conocimientos básicos de Javascript
+Se valorará:
+Conocimientos en diseño de experiencia de usuario (UX)
+Conocimientos de Photoshop e Illustrator

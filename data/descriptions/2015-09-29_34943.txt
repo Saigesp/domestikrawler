@@ -1,0 +1,16 @@
+
+Desde The Valley Talent, Head Hunter especializado en perfiles digitales, buscamos un Diseñador de Juegos para importante empresa del sector ocio.
+El candidato, reportando al Director del Área de Desarrollo, desempeñará las siguientes funciones:
+•	Creación y adaptación de las mecánicas de los juegos y transmisión de las especificaciones a ingenieros de desarrollo.
+•	Colaboración con los ingenieros de software para la realización del testeo de los modelos matemáticos en simulaciones.
+•	Análisis de las métricas y patrones de uso real para la optimización de los diseños de los juegos.
+•	Comprobación de la calidad del producto final y realizar pruebas de aceptación para comprobar que el juego cumple con las especificaciones de diseño.
+Requisitos y competencias personales
+o	Licenciado/ Graduado en Matemáticas o Ingeniero con experiencia en estadística.
+o	Experiencia de 1-3 años en desarrollo de juegos y diseño de modelos matemáticos.
+o	Dominio de Excel y herramientas de análisis de métricas.
+o	Experiencia en programación con Java, C++ o C#.
+o	Conocimiento avanzado de tecnologías de desarrollo ágiles
+o	Nivel alto de Inglés
+Se considera imprescindible para el candidato su alta capacidad de adaptación a diversos entornos, capacidad de trabajo en equipo y estar al día en las últimas tendencias del sector.
+El puesto requiere un perfil proactivo, con alta capacidad de organización para la gestión de diferentes proyectos y con conocimientos de la psicología del cliente. Deberá ser una persona autónoma y muy familiarizada con metodologías ágiles de trabajo.

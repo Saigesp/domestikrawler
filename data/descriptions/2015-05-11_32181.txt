@@ -1,0 +1,18 @@
+
+In Cronnection we have developed a complete product which has been tested for 5 months with real users, for which we’ve received a great feedback, so we’re looking for an expert frontend developer to help us make the whole platform more lightweight, clean the code and optimise it for performance.
+We are a small team with a lot of passion for our work and a great ambition when developing new ideas and products. You will have a high responsability position and your work and ideas will have a real impact in the company and the product. You will work at a new startup, undergoing growth and with the possibility to grow both personally and in your career in a really interesting project.
+What we need
+- An HTML5 and CSS3, standards, good practices and accessibility expert.
+- Clean and optimize our LESS CSS code for best performance and reduce the weight of the compiled files
+- Optimize our SEO on-site creating clean and semantic markup, using micro data and schema everywhere possible
+- Expertise in JS, jQuery and other libraries
+- An expert in the use of Bootstrap, modularizing development of new sections to increase development speed
+- Experience animating on the browser using Animate.css; achieving visual effects, transitions, etc.
+We value
+- You have worked with AngularJS or Node in the past
+- Mastery in JS, performance and optimisation
+- An URL to your portfolio, recent projects, experiments, personal projects, github...
+What we offer
+- A young and fun work enviroment, focused on development.
+- Full-time monday-friday
+- Salary to be discussed

@@ -1,0 +1,13 @@
+
+Buscamos un desarrollador Drupal con experiencia que quiera formar parte de un equipo joven y una empresa en plena crecimiento.
+El proyecto es una página de citas online que lanzaremos al mercado este mes.    
+Analista informático y desarrollador con 5 años de experiencia en desarrollo web (mínimo 3 años de experiencia en PHP y Drupal)
+Conocimientos necesarios:
+- 3 años de Experiencia en desarrollo web PHP
+- Experiencia Open Source en Drupal y Wordpress
+- Experiencia en Diseño y Gestión de bases de datos: MySQL, MS SQL...
+- Experiencia en desarrollo de Front-end y Back-end
+- Experiencia en HTML, JavaScript, CSS, jQuery, AJAX, XML
+- Experiencia de integración de sistemas Open Source con otros sistemas (ej. sistemas de correo)
+- Conocimientos básicos de inglés
+Buena experiencia de analista y de desarrollo con algunas habilidades de gestión de proyectos.

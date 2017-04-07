@@ -1,0 +1,18 @@
+
+En BQ la tecnología es nuestra pasión. Queremos crearla, compartirla y hacerla accesible a todos.
+Tenemos un compromiso de calidad con todo lo que hacemos: no nos conformamos con menos que lo excelente y queremos que esto se perciba en cada una de las cosas que creamos, incluida nuestra web.
+Buscamos un desarrollador front-end para integrarse en el equipo de desarrolladores frontend de BQ, con conocimientos sólidos de HTML5, SASS, Responsive Web Design, jQuery y JS.
+Tendrás la oportunidad de maquetar las webs de los distintos proyectos que gestionamos.
+REQUISITOS
+Estudios mínimos: Formación Profesional Grado Superior
+Experiencia mínima: Al menos 1 año
+Conocimientos necesarios: 
+- Front-end  HTML5 jQuery 
+- Programación en JS
+- Conocimientos en frameworks js
+- Manejo de Illustrator y Photoshop
+- Conocimientos de PHP
+- Conocimientos de Wordpress
+- Amplios conocimientos en HTML5, SASS, Responsive Web Design y jQuery
+- Manejo en sistemas de control de versiones, SVN, GIT
+

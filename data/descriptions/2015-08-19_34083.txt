@@ -1,0 +1,12 @@
+
+¿Buscas una oportunidad en la gestión de proyectos front end? ¡Entonces sigue leyendo! 
+Somos una empresa dedicada a trabajaR con las últimas tecnologías, especializada en grandes proyectos para clientes del sector banca, seguros y energía.
+Buscamos un maquetador senior, con experiencia en supervisión de proyectos front end a todos los niveles, para un importante cliente del sector seguros.
+Sus funciones serán:
+- Contacto con proveedores, presupuestos, 
+- Soporte técnico, timing, revisión de entregables,
+- Supervisión del código.
+Requisitos mínimos
+Imprescindible un nivel alto en conocimiento de estándares W3C (HTML, CSS, accesibilidad WCAG 2.0), desarrollos con JS y JQuery.
+- Nivel alto de inglés hablado y escrito, para proyectos internacionales. 
+- Conocimientos AngularJS.

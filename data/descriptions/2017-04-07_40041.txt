@@ -1,0 +1,25 @@
+
+En Netberry, buscamos incorporar a un desarrollador Full Stack (Front/Back) que cuente con 1-2 años de experiencia en desarrollo web, para nuestra Software Factory en Albacete.
+Si crees que contigo podemos ser mejores y estás dispuesto a creer en Netberry, solo te queda convencernos de que eres la persona que necesitamos en nuestro equipo.
+Tendrás la oportunidad de formar parte de una empresa joven, innovadora, con un equipo preparado y un gran crecimiento.
+Requisitos
+•	Conocimiento de los estándares web.
+•	Conocimiento de Javascript (nativo, jQuery y AngularJS).
+•	Conocimiento de PHP.
+•	Consumo y desarrollo de APIs Rest tanto desde php como desde javascript. 
+•	Conocimiento de bases de datos relacionales como MySQL y bases de datos no relacionales como MongoDB.
+Valoramos
+•	Desarrollo de aplicaciones híbridas con Apache Cordova / Ionic.
+•	Conocimiento de frameworks MVC PHP (Symfony, Zend Framework, etc…)
+•	Conocimiento de frameworks javascript (AngularJS, NodeJS, etc…)
+•	Experiencia en Apache2 y Nginx.
+•	Manejo de sistemas de control de versiones como GIT o CVS. 
+Tenemos en cuenta
+•	Profesional con alta motivación por el trabajo en equipo y mejora continua, entusiasta por la programación y nuevas tecnologías.
+•	Profesional con muchas ganas de aprender y de comprometerse con Netberry; gente con iniciativa y potencial.
+Ofrecemos
+•	Trabajar con las últimas tecnologías.
+•	Inmejorable ambiente de trabajo.
+•	Valoramos a las personas individualmente.
+•	Incorporación en una empresa con una continua evolución.
+

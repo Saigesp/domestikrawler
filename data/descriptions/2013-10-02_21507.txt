@@ -1,0 +1,27 @@
+
+Descripción del puesto
+· Seleccionamos desarrollador PHP senior con experiencia demostrable para formar parte de nuestro equipo de desarrollo inhouse.
+· Jornada completa.
+· Incorporación a un equipo joven y muy dinámico.
+· Será partícipe del actual proyecto de innovación de la empresa.
+· Gran capacidad de trabajo y motivación por formar parte de una empresa sólida y en crecimiento. 
+· Incorporación inmediata.
+Requisitos imprescindibles
+· Más de tres años de experiencia demostrable en proyectos de desarrollo web.
+· Obsesión por desarrollar un código de alta calidad.
+· Comprometido con la entrega de los proyectos a tiempo.
+· Conocimientos SEO. 
+Conocimientos
+· PHP 5
+· Symphony 2
+· JavaScript + jQuery
+· HTML5
+· AJAX
+· CSS
+· MySQL
+· Sistema de control de versiones (Subversion o similar)
+· Microsoft Office
+· Estimación de tiempos de desarrollo
+· Excelente capacidad de comunicación oral y escrita
+La empresa
+Oi Barcelona es una agencia inmobiliaria nacida en el centro de Barcelona en 2009. Con un crecimiento sólido y continuado, trabajamos cada día para estar a la vanguardia en servicio e innovación.

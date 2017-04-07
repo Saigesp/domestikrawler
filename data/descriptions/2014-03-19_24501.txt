@@ -1,0 +1,11 @@
+
+atSistemas, compañía especializada en el diseño e implementación de soluciones IT en entornos web. Business partner de IBM, Oracle Gold Partner, Microsoft Partner, Pitss, Atlassian y RedHat precisa incorporar en plantilla a:
+Programador/a JavaScript cuyas principales funciones serán las de desarrollar aplicaciones híbridas para móvil (basados en nuestro propio framework de desarrollo). 
+El perfil requerido debe aportar: 
+- Al menos 2 años de experiencia en desarrollo optimizado Multidispositivo/Multicanal. 
+- Nivel avanzado de programación enJavaScript (buenas prácticas, uso de prototipos/herencia, módulos, AJAX, etc.). 
+Sólida experiencia en programación OOJS con BackBone/Angular y Marionette.
+Se ofrece: 
+- Colaboraciones como freelance en proyectos de desarrollo de apps híbridas, apps para Smart-tv. Posibilidad de incorporación en plantilla. 
+- Formación especializada en últimas tecnologías ofrecida por nuestro. 
+- Proyectos realizados en últimas tecnologías.

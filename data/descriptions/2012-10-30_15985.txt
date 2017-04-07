@@ -1,0 +1,22 @@
+
+Precisamos incorporar a nuestra sede de Madrid, un Diseñador/Maquetado Web, con amplios conocimientos en HTML+CSS y jQuery, para la definición e implementación de todos los aspectos de la experiencia usuario de la plataforma. Buscamos incorporar a una persona apasionada de Internet, con una vida digital activa y con alta orientación al trabajo en equipo.
+Se requiere una persona altamente creativa, con habilidades demostrables para el diseño de interfaces web y un ojo agudo para detalles de usabilidad, tipografía, composición y color.
+Trabajará en estrecha coordinación con los departamentos Técnicos y de Marketing.
+Se ofrece incorporación inmediata.
+Requisitos mínimos:
+• Maquetación bajo estándares XHTML - CSS2, HTML 5 - CSS3.
+• Programación Javascript, AJAX, jQuery
+• Experiencia contrastada en desarrollo de mockups y flujo de aplicaciones.
+• Experiencia en métricas de comportamiento de usuarios y optimización de sitios web (Google Analytics, Woopra, New Relic, etc).
+• Experiencia en usabilidad y accesibilidad Web.
+• Conocimientos de AB Testing.
+• Dominio de herramientas de diseño (Adobe Photoshop, Illustrator, etc)
+• Manejo de JSON y XML. 
+• Experiencia en entornos web 2.0
+• Nivel medio de Inglés
+El candidato deberá acreditar al menos 3 años de experiencia
+Conocimientos deseados:
+• Otros plugins de javascript
+• Programación orientada a redes sociales. 
+• SEO (Optimización de motores de búsqueda)
+• Se valorará presentación de portafolio o direcciones web de trabajos realizados.

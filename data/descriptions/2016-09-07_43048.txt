@@ -1,0 +1,54 @@
+
+• Capacidad y desempeño en la medición de la actividad front-end Web
+
+• Demostrar la capacidad de liderazgo técnico
+
+• Capacidad de análisis e interpretación  de los datos de rendimiento en valor para el negocio
+
+• Conocimientos de desarrollo y arquitectura a nivel técnico en el desarrollo de sitios y aplicaciones web, con capacidad de aportación de valor a negocio
+
+• Ayuda a configurar e implementar con eficacia productos  de experiencia de usuario final (SOASTA mPulse)
+
+• Proporcionar formación técnica in situ para clientes y socios
+Capacidades
+
+• Capacidad de comunicar información altamente técnica a profesionales de negocio.
+
+• Excelente capacidad de escucha, presentación, analítica y habilidades de resolución de problemas.
+
+• Excelente comunicación (escrito y verbal) y habilidades interpersonales y empatía.
+
+• Capacidad para priorizar la carga de trabajo entre los rápidos cambios de prioridades.
+
+• Adaptación a cambios en la carga de trabajo y priorización.
+
+• El candidato seleccionado deberá tener:
+
+o   Título universitario en Informatica o equivalente
+
+o   Capacidad demostrada en la toma de decisiones.
+
+o   5 años de experiencia laboral en el ámbito de rendimiento web.
+
+o   3+ años de experiencia con desarrollo de software en proyectos de cliente frente a la función técnica.
+
+o   Experiencia con JavaScript y dominio de al menos una de las siguientes opciones de programación
+
+o   Conocimiento de lenguajes de programacion : Java, C / C ++, Perl, C #, VB.
+
+o   Profundo conocimiento de las mejores prácticas en tecnologías web front-end.
+
+o   Experiencia con herramientas de medición del rendimiento de aplicaciones para usuario (Dynatrace, Introscope).
+
+o   Experiencia en resolución de problemas de rendimiento de aplicaciones Web.
+
+o   Experiencia en monitorización de aplicaciones web y metodologías de implementación y análisis APM
+
+Capacidades adicionales:
+
+• Se valorará la experiencia con las pruebas de rendimiento de la carga
+
+• Conocimiento y experiencia en el lenguaje de programación Julia
+
+•  Experiencia de programación y arquitecturas de aplicaciones Web
+

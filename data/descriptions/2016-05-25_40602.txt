@@ -1,0 +1,41 @@
+
+Company overview:
+Clicktransfer is a spinoff setup in 2015 by Monty Global Payments, a Spanish Payment Institution founded in 2004 who operates in Europe’s eight largest countries. Clicktransfer was founded with the main purpose of digitalizing the money remittance business, by developing a powerful and versatile online and mobile platform that allows customers to send money to over 160 countries and over 200,000 payment points. We use technology as our competitive strategy since our origins, designing and developing unparalleled value adding tools for our customers.
+Although relative newcomers to the business, we have fought hard for our customers’ trust and enjoy a solid reputation, especially in Spain. We currently provide our services to Europe’s 8 main outbound countries (Spain, Portugal, Italy, United Kingdom, Germany, France, Belgium and the Netherlands) and we are in the process of expanding to United States and Latin America.
+We believe the key to success and steady growth relies on our refusal to take shortcuts in terms of quality, reliability and innovation through a smart, technology-intensive process of service. What sets us apart is our drive to achieve the highest quality service for our customers.
+Job Title:
+Web Programmer
+At a glance:
+You will be part of a development team responsible for the design and implementation of Clicktransfer’s multi-device international online remittance platform.
+•	Location: Madrid, Spain.
+•	Department: Software Development.
+•	Interaction with other departments: Business Development, Sales.
+Key responsibilities:
+•	Organic and functional analysis of new functionalities, products and processes.
+•	Develop new B2C ad hoc functionalities designed for specific segments and clusters of customers.
+•	Analyze and improve of our platforms UX and processes.
+•	Adapt our platform to new markets and its particular needs and requirements.
+•	Work on API integrations with external service providers and tools.
+Candidate profile:
+•	Educational background: Computer Science Degree
+•	Languages: Language level must be accredited.
+        o	Spanish (full working proficiency),
+        o	English (B1) is a must.
+All about you:
+•	Professional background: 4 years of proven experience in a similar position
+•	Quick learner, curious, meticulous, detail oriented and proactive.
+•	Advanced knowledge and experience in:
+        o	Back-end implementation: Java (J2EE, Hibernate, Spring, Web Services), MySQL and SQLServer.
+        o	Front-end implementation: JQuery, Ajax, HTML, CSS.
+        o	IDE: Eclipse
+        o	Subversion
+The following knowledge will be highly valued:
+•	Jenkins.
+•	Maven.
+•	JUnit.
+What we offer:
+•	Fixed salary + variable.
+•	Social Security affiliation.
+•	Employment contract.
+•	Full time employment.
+

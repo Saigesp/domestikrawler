@@ -1,0 +1,20 @@
+
+Seleccionamos un Programados Java con al menos 2 años de experiencia y conocimientos técnicos en:
+- Área de especialización técnica: J2EE y BBDD Oracle (al menos 2 año de experiencia).
+- Experiencia de programación en Java para la web, J2EE (2 años mínimo)
+- Conocimientos de Spring MVC (1 año mínimo)
+* CAPA DE ACCESO A DATOS
+· Hibernate
+· Spring DAOs
+* CAPA DE NEGOCIO
+· Spring Controllers
+· Spring Services
+- Conocimientos de programación de BBDD Oracle
+- Conocimiento de HTML, Javascript y CSS (preferiblemente HTML5 y CSS3)
+- Conocimientos de Framework javascript Bootstrap / AngularJS
+· Conocimientos de JQuery
+* Requisitos valorables no imprescindibles:
+- Conocimientos del Gestor de dependencias Maven (o similar)
+- Experiencia en otros entornos de programación (Groovy/Grails, .Net, etc)
+- Conocimientos BBDD No-SQL.
+- Conocimientos de Business Intelligence

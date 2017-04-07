@@ -1,0 +1,13 @@
+
+Descripción de la oferta:
+Empresa dedicada al ámbito de Marketing Digital y Diseño Web desea incorporar a un programador/a web para su departamento de IT.
+Requisitos:
+-Conocimientos sólidos de PHP, MYSQL, HTML5, Css3, Jquery, Wordpress, etc.
+-Valorable: Manejo de Drupal, Plataforma Zend Framework 2, ASP, .NET, Magento, Prestashop, Photoshop, Maquetación responsive y Flash.
+Funciones:
+Dentro del departamento de desarrollo el candidato se encargará del desarrollo de proyectos de programación web para diferentes clientes: desarrollo de webs, tiendas online, aplicaciones, landing pages, microsite, etc.
+Se ofrece:
+-Sueldo a convenir según perfil. 
+-Duración: Contrato indefinido
+-Horario: L-J 9/18h V- 9/15h
+

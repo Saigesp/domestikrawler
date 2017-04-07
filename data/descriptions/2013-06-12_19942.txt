@@ -1,0 +1,21 @@
+
+Job description
+Touch of Classic is dedicated to bringing the classics to life for children by creating a compelling and stimulating experience using tablets and smartphones.
+The Senior Developer will take charge of app development. Initially charged with the completion of 5 apps currently under production on iOS and subsequently to take charge of future products. Initially this will be very hands on role that could develop into a more managerial one at a later stage.
+Knowledge of iOS and COCOS2D essential. Ideally Android too. Candidate must also have a good sense of aesthetics and design and an appreciation for art and good design.
+Senior Developer to oversee Junior Developer tasked with improving user experience and correction of errors.
+reports to CEO
+Technical qualifications
+Strong iOS programming skills
+COCOS2D
+Knowledge of Android 
+Other skills needed
+Good level of English
+Portfolio of developed Apps
+Proven track record of delivering Apps on time
+other attributes
+Punctual
+Reliable
+Initiative
+Passionate about the project
+Team player but comfortable working individually on tasks

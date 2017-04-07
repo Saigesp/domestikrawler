@@ -1,0 +1,22 @@
+
+The Role
+We are looking for an enthusiastic professional to help us with the implementation and adaption of our client’s corporate visual style onsite. You will have proven Front End development open source CMS experience, taking supplied written, photographic and multimedia content and turning it into rich site content. You will be part of a team which is responsible for the page layout, interactive conceptual projects, content delivery site and navigation structures.
+Part of your role will be consulting on site integration, customer experience and providing front end formatting for web services. 
+The role offers a good mix of content implementation, design and localization, working with like-minded individuals, in a technically demanding environment. This is an excellent opportunity to work on leading edge projects for important international fashion brands, within a highly skilled, multi-disciplinary team. 
+You will have a minimum of two years’ experience of open source CMS’s. You will also be responsible for the custom corporate theme, the UI and UX. 
+Requirements:
+Core Technical skills:
+- HTML5
+- CSS media queries
+- Experience with some open source CMS
+- PHP
+- jQuery
+- Competent with Photoshop or equivalent
+- Good knowledge of responsive development
+- Candidates should have a minimum of two years’ experience in a similar role.
+Key non-technical skills:
+- You should be able to contribute to projects using your technical skills, but also have good interpersonal skills. 
+- The ideal candidate will constantly be looking for more efficient, effective and innovative process improvement.
+- Excellent problem solving skills.
+- Analytical approach.
+

@@ -1,0 +1,23 @@
+
+Nuestro equipo de Desarrollo quiere crecer y, por ello, buscamos, un Developer con experiencia mínima de 3 años en el desarrollo de proyectos mediante Spark, JAVA y conocimientos básicos de ElasticSearch.
+Shokesu se trata de un agregador social media que permite análisis predictivo y semántico aportando valor diferencial a la toma de decisiones en marketing, comunicación, ventas y en la orientación global del management estratégico del negocio. Se trata, por tanto, de una innovadora herramienta tecnológica para el análisis del universo social de Internet que permite la toma de decisiones, reality mining, y sirve para todo tipo de organizaciones, empresas, pymes, sea cual sea su tamaño y el tipo de actividad que desarrolle.
+
+Te integrarás en el equipo de desarrollo para el rediseño de la plataforma y su arquitectura así como el lanzamiento de nuevos proyectos. Ayudarás a implantar buenas prácticas y a aumentar la calidad de nuestra base de código.
+¿En qué consitiría tu trabajo?
+
+- Desarrollar nuevas secciones y migrar algunas de las actuales en CakePHP o Java.
+- Optimizar el código existente para que sigamos creciendo sin perder velocidad. Análisis y propuesta de refactoring de la plataforma.
+- Definir junto con el equipo de producto nuevos requerimientos para los proyectos que desarrollarás. 
+- Desarrollar un sistema de análisis semántico (named-entity recognition) en donde se extraiga información de los textos.
+Conocimientos / Experiencia requeridos:
+- Java
+- Bases de datos NoSQL: MongoDB, ElasticSearch.
+- Herramientas de creación y gestión de APIs: Kong
+- Spark
+- Experiencia en análisis semántico (named-entity recognition)
+Experiencia valorada como plus, no indispensable para el puesto:
+- Kafka 
+- Kibana
+- Storm
+- Flint
+

@@ -1,0 +1,18 @@
+
+En Iwantic seleccionamos para una gran compañía internacional de desarrollo de software un Desarrollador Frontend para Madrid.
+El candidato participará en proyectos innovadores que apuestan por tecnologíaspunteras, programas de formación continua y trabajará con metodologías ágiles como SCRUM y Kanban.
+Requisitos:
+-  Experiencia demostrable con Angular, Backbone, React, Polymer y/o
+Marionette
+-  Experiencia en JavaScript.
+- Maquetación HTML5 y CSS3, preprocesadores como Sass o Less,
+Bootstrap…
+(Valorable)
+- Desarrollo de aplicaciones híbridas con Ionic, Cordova/Phonegap.
+- Automatización de tareas con Grunt/Gulp
+- Control de versiones en GIT
+- Servicios REST/JSON.
+- Patrones de diseño MVC/MVP/MVVM.
+-  TDD, BDD, Unit Testing, Jasmine, Karma, Selenium, Protractor…
+- Metodologías ágiles como SCRUM y Kanban.
+-Nivel medio de inglés (B1)

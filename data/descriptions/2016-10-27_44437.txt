@@ -1,0 +1,7 @@
+
+Se requiere desarrollador para la creación de varios addons de Xenforo. Maquetación de plantillas Xenforo para adaptar al diseño proporcionado.
+Se trata de una colaboración a largo plazo. Después de la realización de estas dos tareas, se seguirá contando con el profesional seleccionado para el mantenimiento y nuevos addons.
+Tecnologías necesarias:
+PHP5 - Zend Framework 1.1
+Sería deseable que el candidato tuviera experiencia previa con XenForo.
+El candidato podrá ser de cualquier parte del mundo, pero deberá adaptarse a la zona horaria de España.

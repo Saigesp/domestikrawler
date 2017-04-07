@@ -1,0 +1,23 @@
+
+Machiina es una firma especializada en la creación de servicios y productos con un enfoque de negocio donde primamos la consecución de objetivos de nuestros clientes.
+Buscamos a un desarrollador con ganas de seguir desarrollándose profesionalmente. Nos interesas tanto si ya estás trabajando como si acabas de terminar tus estudios. 
+Debe apasionarte la tecnología, ser autosuficiente, crítico con tu trabajo y estar siempre dispuesto a aprender nuevas cosas. Pero lo más importante, es que entiendas el valor que tu trabajo, cuidado hasta el último detalle, puede aportar a nuestros clientes al crear experiencias únicas.  
+En qué consiste el puesto: 
+- Entrarás a formar parte del equipo de tecnología para crear soluciones a medida para nuestros clientes participando tanto en el desarrollo de FrontEnd como de Backend de nuestros proyectos.
+Qué debes saber:
+- Conocimiento de Frameworks MCV sobre PHP (Laravel, Symfony, ..)
+- Desarrollo de interfaces RWD mediante HTML semántico
+Qué valoraremos:
+- Uso de buenas prácticas (como git, TDD, ...)
+- Conocimiento de tecnologías como Node.
+- Conocimiento de técnicas, metodología y herramientas de integración continua
+- Conocimiento y uso de Docker.
+- Uso de precompiladores CSS 
+- Gusto por el detalle.
+Experiencia:
+- No es necesaria la experiencia pero se valorará positivamente si has estado involucrado en proyectos con equipos multidisciplinares.
+Qué te ofrecemos:
+- La oportunidad de participar en proyectos para grandes marcas.
+- Horario de entrada y salida flexible.
+- Uno/Dos días de teletrabajo a la semana.
+

@@ -1,0 +1,14 @@
+
+Main functions:
+•	Definition of Big Data architecture , from a previous requirements gathering.
+•	Detection and analysis of the major trends in Big Data Technology , to realize PoCs which help in selecting new tools.
+•	Evaluation and integration of new features into the existing architecture.
+•	Pre-sales team support into Big Data projects.
+•	Implementation team support, coworking in verifying proper operation of the defined solutions .
+•	Training new users.
+Main requirements:
+The successful candidate must have at least an 8-year professional experience in software development , have been working for the past three years, Big Data Architect positions ( positively assessed having worked in consulting as well as have managed teams) .
+The future Big Data Architect of the Company, will be extremely proactive, with great capacity for learning and analysis. At the same time, it must have a high degree of customization and excellent communication skills.
+In terms of technology, the candidate has to be expert in Big Data technologies ( Hadoop, Storm, Cloud) and also needs experience in databases, both relational and non-relational , distributed processing and data management required.
+Finally, it is necessary to prove a degree level or equivalent for computer science, software or telecommunication engineer.
+

@@ -1,0 +1,21 @@
+
+En Finhub Technologies buscamos desarrollador web. 
+Una presentación rápida de Finhub sería que somos una startup tecnológica y buscamos revolucionar con nuestro producto la gestión a medida de productos financieros.
+Para que esto ocurra, buscamos gente con grandes ideas y con actitud para ir a por ellas. Jugadores de equipo apasionados de la innovación digital. No somos ninjas o allstars, sino una empresa joven que busca personas con actitud proactiva y con experiencia, todavía somos un equipo pequeño así que tendrás que tener capacidad de manejar diferentes roles.
+Te unirías a un equipo de 12 personas y un ambiente de trabajo muy dinámico (con metodologías de trabajo agile) e internacional, la sede comercial está en Londres y parte del equipo está allí.
+Qué buscamos: 
+- Al menos 2 años de experiencia como desarrollador Frontend. 
+- Conocimientos de UI/UX. 
+- Conocimientos de SEO on page y accesibilidad web. 
+- Capacidad para convertir los diseños en plantillas web. 
+- Dominar de la maquetación responsive. 
+- Dominio de HTML5/CSS3/SASS. 
+- Trabajar con javascript y jQuery. 
+- Haber trabajado o tener conocimientos de AngularJS. 
+- Tener experiencia trabajando con sistemas CMS (haberte pegado con el código, customizar temas, crear nuevas funcionalidades, etc.)
+Qué ofrecemos: 
+- Área para desayuno y fruta. 
+- Almuerzo disponible en la empresa. 
+- Un presupuesto para equipamiento. 
+- Instalaciones deportivas. 
+- Disponibilidad de cursos de formación.

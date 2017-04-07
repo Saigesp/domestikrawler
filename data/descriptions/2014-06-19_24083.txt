@@ -1,0 +1,31 @@
+
+Somos una empresa dedicada al sector educativo, para el cual creamos herramientas de gestión de centros (tanto de educación reglada como también academias e incluso otros ámbitos) y un potente editor de contenidos digitales para la creación de libros interactivos de actividades para los alumnos y profesores.
+Las herramientas se engloban dentro del sello "Weeras".
+Además, ofrecemos una aplicación para móviles y tabletas que sirven como ventana para ofrecer tanto a alumnos como profesores, así como padres, familiares y/o tutores legales el acceso a los contenidos digitales de estudio y mucho más.
+Este último proyecto lo llamamos "Weeras App", que está actualmente disponible en las principales tiendas de aplicaciones (Apple AppStore y Google Play Store).
+Es justamente para Weeras App que estamos buscando la incorporación de un desarrollador con conocimientos bien fundamentados de FlashDevelop, ActionScript 3.x, Adobe Flash, Flex, AiR y frameworks relacionados con estas tecnologías para colaborar en la implementación de nuevas características.
+Así, principalmente, la función del candidato/a es participar en nuestro equipo de desarrollo de software en el ámbito de la movilidad, tanto implementando requisitos como contribuyendo a la mejora funcional y técnica del producto.
+Aquí con nosotros te encontrarás un ambiente amigable, orientado a objetivos, mediante gestión ágil Scrum y XP, donde prima la planificación y la definición de requisitos en base al debate entre todos los implicados.
+Algo también valorable, es que somos un equipo en el que se tocan múltiples disciplinas y hay interacciones entre todos nuestros proyectos y productos, así que existe un trabajo en equipo diario que relaciona de una forma u otra a todos los compañeros.
+Si crees que te ajustas a lo que estamos buscando, no lo dudes y apúntate, así valoramos juntos en una entrevista tu candidatura.
+Requisitos:
+- Estudios mínimos: Educación Secundaria Obligatoria 
+- Experiencia mínima: Al menos 2 años
+Conocimientos necesarios:
+- Actionscript (Flash) 
+- ActionScript 
+- oop 
+- flashdevelop 
+- Adobe Air 
+- Mobile 
+- Adobe Flash 
+- Adobe Flex 
+Requisitos mínimos:
+Es tan importante para este puesto tener una buena factura técnica como ser comunicativo, colaborativo, crítico y autocrítico.
+A nivel técnico, es imprescindible tener un dominio de la programación orientada a objetos y conocer a fondo Adobe Flash, ActionScript en sus últimas iteraciones. 
+Respecto al plano humano, el saber trabajar en equipo es también imprescindible, tener buena comunicación, buen trato. Buscamos una persona con empatía.
+Tener un dominio del inglés leído y escrito es muy valorable.
+Residir en la provincia vacante y especialmente vivir en Barcelona o cerca es un plus importante.
+Contrato:
+- Tipo de contrato: Indefinido
+- Jornada laboral: Completa

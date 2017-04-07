@@ -1,0 +1,3 @@
+
+Hola busco una persona que me acabe un pdf que tiene que ser accesible, tiene que guardar todos los parámetros de accesibilidad.
+El trabajo está hecho diseñado y maquetado en indesing el pdf está creado ya dado que interactivo con botoenes, ahora solo falta repararlo y dejarlo accesible.

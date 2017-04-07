@@ -1,0 +1,11 @@
+
+Hola, somos Ecoled Desarrollos, empresa de eficiencia energética con gran proyección de futuro.
+Necesitamos un programador web PHP para desarrollo de código en programa ERP Dolibarr. 
+Se trata de un proyecto en el que estaremos unos 3 meses pero con vistas a seguir desarrollando en siguientes proyectos de mejora y adaptación de Dolibarr a nuestra operativa como empresa. El candidato básicamente tendría que desarrollar el código necesario para que podamos implementar los cambios que necesitamos y portarlos de versión en versión de Dolibarr (ya sea a través de hooks o a través de triggers u otro sistema que nos puedas aportar para no perder ese código al actualizar a nueva version).
+Funciones básicas:
+-Desarrollo de código PHP según los parámetros e indicaciones que le facilitaremos en persona (el candidato tiene que estar dispuesto a tener reuniones de trabajo en nuestras oficinas).
+-Depuración de errores.
+El horario es totalmente flexible, concretamos unas fechas para ir revisando y probando el código desarrollado.
+Los conocimientos necesarios son:
+-Programador con al menos 1 año de experiencia en desarrollo con lenguajes PHP, HTML, CSS, MySQL y JavaScript.
+-Conocimientos de arquitectura ERP Dolibarr.

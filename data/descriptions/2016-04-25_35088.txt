@@ -1,0 +1,16 @@
+
+Descripción de la empresa
+Buscamos perfiles para incorporación inmediata al equipo de departamento creativo en publicidad de un grupo editorial con gran prestigio a nivel nacional e internacional. 
+Funciones y competencias: 
+-	Traducir conceptos complejos a un sencillo y agradable interfaz pixel-perfect
+-	Prototipados
+-	Comprender las necesidades del usuario
+-	Desarrollar flujos de navegación, casos de uso y storyboards 
+-	Definir interfaces que ofrezcan experiencias de usuario óptimas
+-	Diseñar desde cero el aspecto gráfico y visual de aplicaciones y herramientas para plataformas de todo tipo, web, móviles y de escritorio
+-	Conocimientos avanzados de herramientas de diseño como Illustrator y Photoshop
+-	Maquetación web con CSS3 y HTML5  Javascript, JQuery
+-	Experiencia en diseño en dispositivos móviles
+-	Creatividad, proactividad y capacidad para trabajar en equipo 
+-	Al menos tres años de experiencia, demostrable mediante Portfolio (fundamental)
+-	Jornada completa

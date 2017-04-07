@@ -1,0 +1,14 @@
+
+Importante empresa multinacional líder en servicios de consultoría Tecnológica necesita incorporar varios EXPERTOS EN ARQUITECTURA J2EE.
+Buscamos personas que puedan aportar más de 4 años de experiencia en proyectos con tecnología J2EE, con capacidad de compromiso, de comunicación y con inquietudes para desarrollar una carrera profesional en una gran compañía multinacional consolidada y líder en el sector.
+Necesitamos incorporar candidatos con conocimientos y experiencia:
+- Patrones de arquitectura SOA
+- Tecnología J2EE, Frameworks Spring, Struts
+- Eclipse, Oracle JDeveloper, Netbeans, ESBs
+- Oracle WebLogic Application Server, IBM WebSphere Application Server, JBoss, Tomcat
+- Business Process Management (BPMs)
+- Oracle SOA Suite, IBM WebSphere.
+- ANT, Maven
+- Oracle
+- Web Services, SOAP, XML, Axis2, Apache JMeter, Hibernate
+

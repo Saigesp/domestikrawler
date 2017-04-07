@@ -1,0 +1,10 @@
+
+En estos momentos estamos buscado programadores analistas Java/J2EE con un minimo de 2 años de experiencia, para una importante empresa del sector energético que aporten sólidos conocimientos en desarrollo de aplicaciones y capacidad de trabajo en equipo.  Unos para Madrid y otros para Valencia.
+Requisitos mínimos
+- Experiencia en desarrollo de software, infraestructura y sistemas de integración.
+- Experiencia desarrollando con: Java, J2EE, Spring, JavaScript, jQuery, AJAX, JSON.
+- Experiencia en servidores de aplicaciones: Tomcat.
+- Experiencia trabajando con bases de datos MySQL.
+Competencias personales:
+- Proactividad y responsabilidad.
+- Capacidad de trabajo en equipo.

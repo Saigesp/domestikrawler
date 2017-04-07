@@ -1,0 +1,6 @@
+
+Buscamos juniors PHP/ Symfony Developers, para desarrollar un nuevo portal. 
+Requisitos: 
+- PHP
+- Frameworks Symfony 2
+- Experiencia en PHP, HTML, CSS, JavasScript, Jquery

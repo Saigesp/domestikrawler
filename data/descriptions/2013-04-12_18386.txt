@@ -1,0 +1,2 @@
+
+Buscamos 2 maquetadores con el siguiente perfil; 2+ años de experiencia como desarrollador Front-end manejando HTML,CSS, JavaScript. Nivel alto en JavaScript Manejo librerías JS tipo: jQuery, Dominio HTML5 y CSS3. Conocimientos de Sass. Conocimiento de algún framework. Normas WCAG 2 (WAI-Aria). Optimización de tiempos de carga. Experiencia en desarrollo para Móviles y Tablet (responsive design). Conocimientos en JQUERY y JQUERY Mobile. Desarrollo cross-browser. Convertir diseños a XHTML y CSS estándar, compatibles con todos los navegadores. Cv´s. atencion@meridiad.com

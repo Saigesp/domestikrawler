@@ -1,0 +1,9 @@
+
+Buscamos un desarrollador que pueda montar un microsite de clasificación de jugadores con tres pantallas principales:
+Tabla de posiciones 
+Lista de jugadores 
+Agenda de torneos
+Es como la que se usaría para un torneo donde participan jugadores por puntajes. Se debe realizar íntegramente en drupal, ya sea con plugins de pago o a desarrollado a medida, nos da lo mismo. Lo importante es que sea actualizable vía CMS por el cliente y la maquetación sea aparentemente usable.
+Te daríamos los UX y Diseños para que puedas dedicarte todo el tiempo disponible al desarrollo.
+Tenemos 15 días a partir de hoy para desarrollarlo, por lo cual deberías estar libre si quieres postularte. 
+Esto se paga 50 al iniciar y 50 al terminar. Lo tienes listo, lo cobras entero, sin retrasos.

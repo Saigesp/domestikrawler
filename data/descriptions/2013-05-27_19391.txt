@@ -1,0 +1,21 @@
+
+En Pelonio (www.pelonio.com) buscamos un programador senior freelance para trabajos puntuales con los siguientes conocimientos:
+Front-end
+- HTML5
+- CSS3 / SCSS
+- Javascript (más allá de jQuery)
+- Experiencia en responsive/adaptive design (adaptar layouts a dispositivos táctiles y móviles)
+Back-end
+- PHP y MySQL
+- Conocimiento de algún framework como Yii, Cake, CodeIgniter, etc…
+- Experiencia con gestores de contenidos como Drupal, Wordpress, etc…
+- Experiencia con servidores LAMP (también uso de SSH, etc...)
+Además nos interesaría un perfil con experiencia en sistemas CVS (GIT o Mercurial imprescindible) y criterio estético, puesto que Pelonio es una agencia que realiza proyectos con una gran base de diseño gráfico.
+Otros aspectos que valoraremos:
+- Desarrollo iOS/Android
+- Experiencia con frameworks javascript (hablo de OOP, no jQuery y tal)
+- Experiencia con otras plataformas como Ruby On Rails
+- Conocimiento de otros lenguajes como Java, C++, Python
+- Conocimientos de tecnologias como Processing, OpenFrameworks o Cinder
+- WebGL
+Es imprescindible que los interesados nos envíen proyectos realizados y una breve descripción de su rol exacto en los mismos.

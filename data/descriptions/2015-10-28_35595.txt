@@ -1,0 +1,17 @@
+
+En King-eClient buscamos un becario para dar soporte al equipo de desarrollo, para participación en análisis funcional y desarrollo de nuevos proyectos a implementar en EpiServer.
+Te pedimos…
+Formación y conocimientos
+•	Análisis funcional de nuevos proyectos a implementar
+•	Maquetación de páginas (HTML5/CSS3/Javascript)
+•	Se valorará experiencia en Drupal y conocimientos de diseño y usabilidad.
+•	Que te guste internet y todo lo que le rodea
+•	Idiomas: Catalán, Castellano e Inglés
+•	Ser una persona creativa y resolutiva, con capacidad de trabajar en equipo
+Experiencia
+Es necesaria una mínima experiencia previa en maquetación web, pero sobretodo mucha ilusión y ganas de aprender. Serás tutorizado por un desarrollador senior que te ayudará a lograr los objetivos.
+Ofrecemos:
+Contrato en prácticas
+Trabajar en un entorno joven, con personas dinámicas y en constante crecimiento, siempre dispuestas a aprender y a echar una mano.
+Grandes perspectivas de crecimiento como desarrollador en Drupal, el framework/cms más demandado y versátil del mercado online, así como otros frameworks php (silex, symphony, laravel, según proyecto)
+

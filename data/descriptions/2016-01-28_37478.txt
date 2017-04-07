@@ -1,0 +1,11 @@
+
+GAME es una empresa líder en la venta y comercialización de productos electrónicos orientado a los videojuegos con más de 270 tiendas a nivel nacional.
+Precisamos para nuestra oficina central situada en Ciudad de la Imagen, un/a Diseñador/a Web.
+Buscamos una persona con más de 3 años de experiencia en diseño para aplicativos móviles y web para aplicaciones de gestión interna corporativa como páginas web y aplicativos móviles para nuestros clientes y usuarios.
+Ofrecemos un buen ambiente de trabajo, joven y dinámico junto con flexibilidad horaria y puesto estable.
+Requerimos:
+- Conocimientos avanzados de photoshop, HTML5 y CSS3 
+- Responsive Design 
+- Bootstrap y LESS/SASS 
+- Se valorará positivamente conocimientos en Maquetación Web
+- Se valorará positivamente conocimientos de UX y UI 

@@ -1,0 +1,25 @@
+
+¿Sabes programar en iOS y Android? ¿Te gustaría trabajar en el desarrollo de aplicaciones móviles? 
+
+Buscamos talento, ilusión y creatividad en un programador con experiencia en el desarrollo de aplicaciones móviles (smartphones, tablets y wearables) en Android e iOS principalmente para nuestros próximos proyectos.
+
+Experiencia mínima:
+
+- Android: desarrollo de aplicaciones nativas con Android SDK, Android Studio y las diferentes versiones de su API. 
+- iOS: experiencia en proyectos y pleno dominio de Swift con total capacidad en el uso de Xcode.
+- Control del rendimiento y calidad de las aplicaciones.
+- Mantenimiento de la calidad del código.
+- Conocimiento de control de versiones, publicación en Google Play Store y App Store.
+
+Se valorará
+
+- Diseño de aplicaciones para la plataforma iOS y Android.
+- Experiencia en otros ámbitos de desarrollo como la programación web (PHP & Javascript)
+- Conocimientos en maquetación Web (HTML5,CSS3)
+- Experiencia en el manejo de la base de datos (MySQL, MongoDB)
+
+Ofrecemos un puesto de trabajo para un programador con capacidad de afrontar el reto de creación y mantenimiento de proyectos de aplicaciones móviles. Contarás con un puesto donde desabajo ? no te arrollar tu trabajo con todo lo necesario para ello en nuestra oficina en Chiclana de la Frontera. Formarás parte del departamento de desarrollo y colaborarás estrechamente con otras áreas de la empresa.
+
+ http://www.costasur.com/es/oferta-trabajo-programador-costasur.html
+¡Te esperamos!
+

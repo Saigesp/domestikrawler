@@ -1,0 +1,25 @@
+
+En Gidea Online Consulting; consultora especializada en UX, desarrollo de aplicaciones, marketing digital y eficiencia operativa en el mundo online; estamos creciendo y reforzando nuestro equipo, por ello buscamos una persona que quiera ser parte de una empresa joven, con ganas de aprender y de enfrentarse a nuevos retos profesionales.
+Sus funciones principales serán:
+Dar soporte al área de Control de Calidad en la promoción de actividades  y soluciones Cloud. Lograr incrementar la satisfacción y experiencia del usuario a través del diseño de interfaces óptimos. Realizar labores de búsqueda y extracción de datos e información relevante de empresas del sector.
+•	Realización y desarrollo de “planes de test” (requisitos, especificaciones y estrategias test)
+•	Usar “sistemas de versiones” para codificar “test scripts”
+•	Crear y desarrollar campañas test siempre que sea necesario para desarrollar planes globales.
+•	Uso del bug tracking en Bases de Datos para reportar bugs (Team Foundation Server si es posible)
+•	Utilización de Bug Tracking Database para gestión de Report Bugs (Team Foundation Server if possible)
+•	Analisis de resultados de Test
+•	Reportar esos resultados al QA Manager
+•	Notificar al responsable en caso de incidencias o tareas importantes inherentes al desarrollo del proyecto
+•	Trabajar de cerca con otros miembros de QA para asegurar la calidad de los productos y proyectos, asegurándose que las entregas cumplen sus plazos correspondientes en cada caso.
+•	Asistir a reuniones de clientes y partners durante el proceso de desarrollo y venta.
+•	Elaborar y gestionar casos de test.
+•	Elaborar y gestionar test de escenarios
+•	Realizar ejecuciones de test para fortalecer los escenarios de negocio.
+•	Capacidad para validar y verificar soluciones de UX y Look & Feel.
+Requisitos deseados:
+•	Conocimientos de .NET (C#), Javascript, CSS, HTML, Selenium Webdriver, Selenium Grid, Nunit, integration tools, webservices protocols, scripting.
+•	Idiomas: Ingles fluido y Español
+Ofrecemos:
+Entorno de trabajo joven, agradable, dinámico, abierto y con capacidad de aprendizaje.
+Salario adaptado a las capacidades y valía del candidato.
+Contrato temporal durante el período de prueba.

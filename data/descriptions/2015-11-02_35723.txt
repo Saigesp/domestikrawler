@@ -1,0 +1,38 @@
+
+XING Spain is growing and we need a talented Backend Developer!
+As a member of our team, your main focus will be the development and maintenance of our web-based Recruiting products. These define the social recruiting market in the German speaking area with high relevance and transparency for the jobseeker.
+The combination of E-Recruiting and Social Networking is an exciting emerging market. Our focus is on building smart solutions in the spirit of user-centric relevant information, fuelled by company reviews and ratings from our subsidiary Kununu.
+What we offer:
+The chance to work on a large, highly distributed platform with over 14 million users
+A variety of technologies and languages: Perl, Ruby on Rails, Java, Scala, Elasticsearch, REST, AMQP, Linux, Hadoop, Riak, MongoDB, MySQL, Solr, iOS, Android, Backbone.js, jQuery, Git, Jenkin
+Regular hack weeks
+Training, conferences and many opportunities to learn, experiment and grow
+A multicultural diverse environment with employees from all over the world
+Subsidised restaurant tickets, free fruit, drinks, snacks
+Pension plan
+Spanish & German lessons
+A mobile device for private use (iPhone, iPad, Android)
+Competitive salary, permanent contract
+A sunny office located in the centre of Barcelona, with a large terrace
+We're an Open Source contributor (https://github.com/xing) and we let the world know what we're doing (https://devblog.xing.com) while also organising public user groups and coding events
+ 
+What we need
+We are looking for an experienced and passionate engineer, with special focus on the back-end side, and expertise in Ruby, Ruby on Rails, MySQL, REST, AMQP who is:
+Constantly evolving with the technology trends, and willing to embrace change
+Able to architect & design APIs and components used by other developers
+Experienced in working with memory/performance critical applications
+Experienced in large scale data/distributed systems
+Capable of understanding people and knows the best way to get along with them to come up with good solutions to technical challenges
+Always looking for self-improvement and, together with other people, enhance your work
+Familiar with agile methodologies and enjoys working in teams with a focus on sharing knowledge with other experts
+Fluent in English
+Nice to have (a plus):
+Expertise across the whole stack e.g. additionally Backbone JS, Marionette
+A regular contributor to open source projects
+Fluent in Spanish and German
+
+XING - For a better working life. 
+XING is a social network for business professionals. More than 14 million members worldwide – 7,7 million of whom are based in German-speaking countries - use XING to boost their business, job, and career. XING is a platform where professionals from all kinds of different industries can meet up, find jobs, colleagues, new assignments, cooperation partners, experts and generate business ideas. 
+
+An inspiring environment
+XING offers a dynamic environment located in the center of Barcelona. As well as flexible working hours, you'll have an opportunity to unleash your skills and acquire new ones. We offer  a long term contract and a wide range of training courses in addition to German and Spanish lessons, regular team and offsite events, and lots of fun in a nice and multicultural environment with employees from all over the world. We also provide free drinks and fruit as well as subsidized restaurant tickets and a company pension plan. And let's not forget you'll also be provided with a high-end Macbook Pro and the latest generation mobile device for business and private use (iPhone, iPad, Android).

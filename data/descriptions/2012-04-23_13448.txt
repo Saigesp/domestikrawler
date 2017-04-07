@@ -1,0 +1,18 @@
+
+Groupalia busca maquetadores con talento, para incorporarse en el equipo de desarrollo de headquarters @ Barcelona.
+Tareas:
+- Maquetación de newsletters.
+- Actualización de banners.
+- Maquetación de páginas estáticas.
+- Maquetación con cms wordpress.
+- Responsabilidad sobre la correcta visualización en los principales navegadores.
+- Actualización de newsletters automáticas.
+Requisitos mínimos:
+- HTML (maquetación tanto en tablas como en divs)
+- CSS
+- Código limpio.
+Requisitos deseados:
+- CSS3
+- PHP
+- Capacidad para adaptarse a cualquier tipo de lenguaje de programación o herramienta.
+- Conocimiento CMS MAGENTO.

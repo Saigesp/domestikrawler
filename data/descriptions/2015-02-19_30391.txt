@@ -1,0 +1,46 @@
+
+Who we are:
+Be part of Marfeel, one of the hottest European start-up companies. We are recommended at the very top by Google itself for our mobile design solution and with our partners we have over 600 million worldwide readers and over three billion page views. Our headquarters are based in sunny Barcelona and our office has a huge terrace to enjoy.
+If you feel like a Front-end Jedi, join the Marfeel Force you must.
+This is you:
+Your life begin and end with a slash 
+You feel like you have a mission not just a task and you Write testable front-end code in JavaScript and HTML/CSS 
+You understand iterative development, a day without pushing code makes you sad
+You’re not afraid to crack open an existing code base and bend it to your will
+Self-starter is your middle name. You can take or come up with a high-level idea and run with it
+You have a real understanding of building products that work at web scale
+You can’t imagine your life without a whiteboard, open-source boards and definetly CODE
+You Know the importance of being part of an universe where all the departments need each other and work together for a mutual goal. So, your communication shows both tech and functional command what you’re doing.
+As a software craftsman you will advocate and practice pair-programming, test-driven development, refactoring, collective-code ownership, continuous integration, and refactoring.
+You care about online news and user experience
+International team player
+Eager for knowledge
+Lots of stamina, you get bored if you don’t have nothing to do.
+Hands-on and proactive.
+Fluent english (it’s a must)
+Experience:
+Can solve technical problems equally well with OO, DOM oriented, or functional JS
+Ability to create an interface using JavaScript, HTML and CSS
+Solid understanding of the web technology stack (i.e. headers, cookies, cross-domain restrictions, https, caching, optimization opportunities, hardware acceleration, junk and scroll performance, etc.)
+>2 years experience building software that works at web scale
+Demonstrable experience with cross-browser JS and CSS development
+Experience with client-side site development in JS
+Solid understanding of HTML5 tags — functions and intent
+We will be impressed if:
+Experience with RequireJS, SASS and Jasmine
+ReactJS
+#perfMatters
+Experience with more recent web technologies (i.e. localStorage, geolocation, CSS transitions and transformations)
+Experience with GoogleAnalytics
+Experience with AdServing
+You have experience with various AWS services and understand the challenges of deploying large applications in the cloud.
+AngularJS
+This will be you as part of the Marfeel team:
+Working on an international, multicultural and talented team and enjoying our sunny terrace. 
+We speak +than 8 languages so, you will not get lost in translation.
+Flexible working-time.
+Free commodities (coffee, tea, juices,etc).
+Ping-pong tournaments.
+Team building events!
+Training, books, all you need to feel the empowerment.
+And, Referral Bonus if you bring other talented people like you.

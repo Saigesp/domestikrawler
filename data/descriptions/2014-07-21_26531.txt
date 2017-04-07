@@ -1,0 +1,17 @@
+
+¿Quienes somos?
+Somos Zizerones, un proyecto de turismo centrado en el segmento de visitas guiadas. Con Zizerones queremos llevar a cabo una iniciativa innovadora trasladando la el sector de visitas guiadas al mundo online. 
+Nuestra propuesta de valor es tecnológica por lo que necesitamos encontrar a una persona que quiera integrarse en el proyecto y crecer dentro de él.
+Zizerones forma parte además del proceso de aceleración de Lanzadera y Conector aportándonos recursos para continuar creciendo.
+¿Qué pedimos?
+- Experiencia en arquitectura de software, tenemos que crear buenas bases ☺
+- Capacidad de organizar los proyectos a desarrollar por orden de importancia.
+- Actitud proactiva y positiva, ¡algo que para nosotros es fundamental! 
+- Amplios conocimientos sobre desarrollo: Ruby, Sinatra, bootstrap3, Sass, Haml, MongoDB. TDD/ BDD, Git, Metodologías agiles (Scrum, xp).
+¿Qué ofrecemos?
+-	Contrato laboral a tiempo completo con sueldo acordado.
+-	Un ambiente de trabajo afable y enriquecedor, estamos compartiendo instalaciones con 20 emprendedores mas.
+-	Flexibilidad de horarios.
+-	Trabajo por objetivos.
+-	Reconocimiento y puesta en valor de tus aportaciones al proyecto.
+-	Oportunidad para crecer hasta donde quieras.

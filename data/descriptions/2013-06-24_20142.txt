@@ -1,0 +1,18 @@
+
+Para ampliar nuestros equipos estamos seleccionando 3 desarrolladores Web Senior.
+Nuestros proyectos tienen audiencia masiva y necesitamos gente que proactiva que nos ayude a mejorar.
+Los requisitos mínimos son:
+- Experiencia +3 años en programación PHP.
+- BD MySQL (se valora experiencia en MongoDB y otros...).
+- Conocimientos avanzados de HTML5 y CSS3.
+- Conocimientos avanzados de Javascript / Jquery.
+Se valorará positivamente conocimiento de las siguientes tecnologías:
+- AS3
+- Experiencia en maquetación Responsive.
+- Experiencia en desarrollo mobile (bien Flash Builder o Phonegap, Sencha etc...)
+Ofrecemos:
+- Incorporación inmediata a una empresa en continuo crecimiento (En diciembre cumplimos 10 años!)
+- Estabilidad laboral y mutua privada
+- Ambiente de trabajo ameno y dinámico
+- Formación continua
+El puesto de trabajo es en Sabadell por lo que se valorará positivamente residencia en la ciudad o cercanías.

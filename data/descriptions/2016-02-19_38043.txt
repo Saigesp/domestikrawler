@@ -1,0 +1,24 @@
+
+Get Glocal es una empresa líder consolidada en el ámbito de la creación de soluciones digitales con foco en entorno web, móvil y aplicaciones, tanto propios como de terceros.
+Somos un equipo joven de personas apasionadas por el marketing digital y las nuevas tecnologías, con buenas ideas y ganas de marcar la diferencia. 
+Venimos de diferentes sectores como el marketing online o la consultoría digital y tratamos de aplicar nuestro expertise en ayudar a empresas a trasladar sus fortalezas al online, ofreciendo soluciones completas, hechas a medida de nuestros clientes, pero a un precio asequible. 
+Ofrecemos un ambiente de trabajo joven, dinámico y con muy buen trato y respeto por los compañeros, queremos encontrar alguien que encaje en este sentido también con nosotros.
+Buscamos:
+Un Desarrollador Web que pueda colaborar con nuestro equipo en nuestras oficinas en Madrid.
+Estudios mínimos:  
+Formación Profesional Grado Superior – Informática
+Experiencia mínima: 
+Dos años trabajando con estas tecnologías y haber empleado las mismas en desarrollos previos (necesario ejemplos demostrables).
+Conocimientos necesarios: 
+- Dominio en entornos CMS wordpress y sus plugins
+- Programación y maquetación en HTML5, CSS3, PHP5, JQuery, Javscript 
+- Integración con APIs externas desde RRSS a APIs de google y otros players de internet con APIs abiertas 
+- Acostumbrado a programar bajo plataformas de e-commerce como Magento, Prestashop 
+- Conocimientos de SEO
+- Maquetación responsive tanto dentro de Wordpress como para diseños adhoc, implementando custom fields de forma que todo el contenido (texto, imágenes o video) sea gestionable evitando contenido hardcodeado proveniente de los diseños. 
+- Conocimiento de servidor Apache
+Requisitos valorables:
+- Bases de datos: MySQL 
+- Frameworks web: Spring MVC 
+- Desarrollo de Apps
+

@@ -1,0 +1,27 @@
+
+At WePlann we're looking for a Freelance Front-end Developer to work with a small, growing team developing a great e-commerce. 
+We are looking for a person with a lot of talent, ideas and above all, significant motivation to excel inside of an internet start-up. 
+The ideal candidate will have a deep passion for programming excellence and will have the ability to quickly learn new technologies. 
+Requirements 
+● Happy, talented and motivated. 
+● Stay current on new technologies and best practices 
+● English fluency is mandatory 
+● 2-3 Years of experience. (Preferably in e-commerce) 
+● Ability to carry design from ideation, wireframes and mockups all the way through solid HTML, CSS and Javascript.
+● Strong time management, interpersonal communications, and organizational skills. 
+● Must be able to work independently and home-based. 
+Technical:
+● HTML (XHTML, HTML4, HTML5, HTML5 API’s), CSS (2.1, CSS3, etc.), JavaScript/Ajax/JQuery
+● Mobile/Responsive Web Design (mobile Web development a plus)
+● Bonus: .NET 4.0, C#, AJAX, jQuery, SQL 2008 R2.
+Languages: 
+● English: Fluent 
+● Spanish: Fluent 
+About WePlann 
+WePlann is an e­commerce startup offering tickets to musicals, shows, tours, attractions and 
+other unique, fun things to do in the best destinations in the world like Las Vegas, New York, 
+Rome, Paris, London, and many more. 
+Imagine being part of a project that you can help transform into something great by being part of 
+our team. You can do this while working with a small, talented team of 5 professionals.
+This is the ideal time to join WePlann.
+You may also reference our current web site: www.WePlann.com

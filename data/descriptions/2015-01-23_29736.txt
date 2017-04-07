@@ -1,0 +1,30 @@
+
+Front end developer with experience
+Company:
+Created in 1999, Anakena Internet Services SL is a small company focused on the development of weight loss related websites for the US market. We have also started a site dedicated to Barcelona for French tourists.
+Location:
+Paseo de Gracia, 60 3-B
+08007 Barcelona
+The company is located in the heart of Barcelona (Metro: Paseo de Gracia)
+Description:
+We are looking for an in-house full time experienced front-end developer.
+Main responsibilities:
+•	Front-end development for several web sites
+We only seek people that are:
+•	Highly skilled
+•	Passionate about new technologies
+•	Motivated to work in a challenging environment where we all contribute significantly to the growth of the company
+•	Eager to take initiatives
+•	Curious
+•	Team-player
+We also value experience in web design.
+Technologies:
+Required:
+HTML5, CSS3, Less/SASS, Javascript, JQuery, Responsive Web Design
+Valued:
+Twitter Bootstrap, Wordpress, Magento, Mobile apps, Photoshop
+Languages:
+Excellent level of English indispensable 
+Optional: Spanish, French, Catalan
+Starting date:
+Immediately

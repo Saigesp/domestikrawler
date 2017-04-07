@@ -1,0 +1,30 @@
+
+Somos una empresa joven desarrollando un producto innovador dedicado al mundo del espectáculo y la organización de acontecimientos con las últimas tecnologías del mercado.
+PRINCIPALES RESPONSABILIDADES: 
+Participar en el desarrollo de interfaz de aplicación web basados en tecnologías Java. 
+Conocimientos requeridos:
+-	Programación web (js,css,html,jquery)
+-	HTML5 + CSS3
+-	Ajax
+Conocimientos deseados:
+-	J2EE
+-	Spring
+-	Hibernate
+-	Maven ,Junit
+-	Mysql
+-	Servidor de aplicación Tomcat
+-	Herramienta de control de versiones Mercurial 
+PERFIL: 
+1. Ingeniería Técnica y/o Superior en Informática o ciclo formativo de Grado Superior en Informática.
+2. Experiencia demostrable de entre uno y tres años en desarrollos web.
+
+COMPETENCIAS: 
+1. Capacidad para trabajar bajo presión. 
+2. Orientación a Resultados. 
+3. Orientación al Cliente. 
+4. Capacidad de análisis. 
+5. Iniciativa. 
+6. Trabajo en equipo. 
+7. Planificación y Organización. 
+8. Visión y Anticipación.
+

@@ -1,0 +1,27 @@
+
+GAMELOFT, present in 20 countries around Europe, North America and Asia (more than 4,000 employees), is a leading international developer and distributor of video games looking for new talent to reinforce its creation teams.
+In the last few years, the studio in Barcelona has been developing high-quality, critically acclaimed games and is currently expanding.
+Senior Tracking/Analytics Programmer
+Duties and responsibilities:
+Evaluate business tracking needs
+Evaluate existing procedures for tracking and reporting data
+Design a robust analytics solution that could be used in all Gameloft games
+Design advanced analytic features such as: cross-game analysis, abnormal behavior detection, etc.
+Implement this analytics library for various platforms like Android and iOS by working with existing Gameloft teams 
+Maintain and support this library, including documentation and direct support to game teams.
+Analyze competitors Analytics solutions for ways to improve our own
+Requirements:
+Excellent C++ and JAVA skills
+Ios / Android experience is considered a plus
+Strong analytical skills.
+Self motivated and resourceful.
+Rigor, autonomy and organizational skills are essential.
+Ability to work as a team player, initiative and openness
+Good English speaking and writing.
+Very good communication skills and ability to integrate quickly in a team.
+Benefits:
+- The opportunity to work and learn in a professional environment, with people who have a passion for making great games. 
+- We offer a supportive working climate, a young and dynamic team with a free communication style and also the possibility to reward outstanding performances fairly.
+- Motivating salary, long-term contract and a merit pay system.
+
+

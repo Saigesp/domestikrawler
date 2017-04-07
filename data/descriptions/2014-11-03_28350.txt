@@ -1,0 +1,17 @@
+
+Somos una consultora IT orientada a ofrecer servicios de valor añadido, soluciones y desarrollos software adaptados a las necesidades de nuestros clientes. Actualmente contamos con una plantilla de 450 personas. Buscamos un perfil AQ (Quality Assurance) para incorporar en un importante cliente dentro del sector e-commerce.
+Ofrecemos:
+- Incorporación en una consultora líder en el sector financiero.
+- Trabajar en proyectos únicos, desarrollados para grandes Entidades y definidos por equipos de consultores especializados.
+- Formación especializada.
+- Estabilidad profesional (contratación indefinida)
+Requisitos:
+- Experiencia QA Testing funcional: realización de pruebas funcionales, definición de casos de test, documentación.
+- Experiencia administración Subversion (hooks,...).
+- Experiencia con creación de scripts en sistemas Linux (bash,perl,...)
+Deseable:
+- Experiencia en entornos LAMP.
+- Experiencia desarrollando pruebas automatizadas con Selenium.
+- Conocimientos básicos JMeter.
+- Experiencia con AWS.
+- Valorable tener certificación ISTQB Foundation Level.

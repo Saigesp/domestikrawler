@@ -1,0 +1,20 @@
+
+Empresa situada en el centro de Barcelona busca  un Programador Senior  PHP, que domine tanto Frontend como Backend, con experiencia demostrable en un puesto similar.
+Sus tareas consistirán en el desarrollo de nuevos sitios de la empresa y en el mantenimiento de los mismos. Buscamos personas que se comprometan con el proyecto y nos acompañen durante su actual internacionalización.
+Se trata de un puesto estable, con contrato indefinido y salario competitivo. Buen ambiente de trabajo, equipo joven y multicultural.
+Conocimientos requeridos: 
+- Dominio de frontend responsivo: HTML, CSS, Javascript. 
+- Experiencia en JQuery y técnicas AJAX. 
+- Experiencia PHP orientada a objetos. 
+- Experiencia en Frameworks MVC. 
+- Base de datos MySQL
+Conocimientos deseables: 
+- Conocimientos de Foundation, con diseños responsivos para móvil/tablet. 
+- Conocimientos de Codeigniter 
+- Web Services, REST y SOAP 
+- Inglés o Francés, hablado y escrito.
+Nuestra Compañía ofrece: 
+- Posibilidad de evolución en la compañía 
+- Remuneración atractiva, en función de la valía del candidato. 
+- Buen ambiente laboral. Equipo joven, dinámico, guiado por profesionales con experiencia.
+

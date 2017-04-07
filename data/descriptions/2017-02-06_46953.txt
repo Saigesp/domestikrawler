@@ -1,0 +1,10 @@
+
+En Grupo Sothis estamos colaborando con la selección de un Ingeniero de DevOps para Mercadona. 
+Titulación: Ingeniero informático / Telecomunicaciones
+Requisitos:
+- Conocimiento de sistemas operativos UNIX / LINUX
+- Conocimiento y experiencia en instalación, configuración y mantenimiento de servidores de contros de versiones Github
+- Conocimiento y experiencia en automatización de procesos de entrega de Software con entornos Travis CI o Jenkins
+- Conocimiento y experiencia en automatización de entornos de desarrollo con Ansible /Vagrant / Docker
+Valorable:
+- Conocimiento en Python /Django

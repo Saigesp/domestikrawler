@@ -1,0 +1,19 @@
+
+Descripción:
+Buscamos un desarrollador web front-end creativo y entusiasta para unirse a nuestro equipo con sede en Terrassa (Barcelona). ONnergy desarrolla innovadoras soluciones Web y mobile relacionadas con el mundo del “Internet of things”, consumo energético, control del hogar...
+Tenemos vacante de tiempo completo para incorporación inmediata para el candidato adecuado. Si te gusta el mundo del IoT, quieres ser parte de un equipo dinámico y creativo y quieres crear productos innovadores utilizados por miles de usuarios esta podría ser la oportunidad ideal.
+En tu papel como desarrollador front-end trabajarás estrechamente dentro de un pequeño equipo para crear aplicaciones web y app  con un alto nivel en innovación. Trabajarás junto a otros desarrolladores Front end y back end, diseñadores UX/UI, y el gestor de proyecto, tanto en la oficina en Terrassa como a distancia con otras sedes (Madrid y Bélgica)
+Requerimientos:
+2 años de experiencia demostrada como programador web
+Alto y actualizado conocimiento y experiencia de las tecnologías web. HTML, CSS, JS
+Conocimientos avanzados en frameworks javascript como AngularJS, Node js...
+Que seas amante del buen código y las buenas prácticas que te guste optimizar su trabajo y seas ordenado.
+Buen nivel de Inglés.
+Estar motivado y mostrar interés en utilizar las últimas tecnologías en un entorno real.
+Que tenga capacidad para trabajar en un equipo multidisciplinar, habituado en trabajar en equipo y satisfacer las necesidades de los socios interesados.
+Disponibilidad inmediata.
+Valorable :
+Conocimiento en uso de tecnologías de control de versiones. (Git)
+Experiencia con PHP/json API
+Se valora experiencia con Apache Cordova/Mobile Hybrid
+Desarrollo nativo de aplicaciones IOS o Android

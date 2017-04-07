@@ -1,0 +1,18 @@
+
+Buscamos a un diseñador y maquetador web responsive que realice estas funciones bajo los lenguajes de HTML5, CSS3 y Javascript (jQuery).
+Los requisitos son:
+* Conocimiento alto en maquetación responsive con HTML5, CSS3 y jQuery.
+* Conocimientos de Bootstrap y SASS/Less
+* Conocimiento medio/alto de Photoshop e Illustrator 
+* Experiencia en la creación y personalización de Wordpress 
+* Experiencia en control de versiones con GIT 
+* Mínimo 3 años de experiencia 
+* Portfolio con trabajos realizados (muy importante) 
+Se valorará:
+* Conocimientos en PHP/MySQL
+* Conocimientos en motor de plantillas Twig
+* Conocimientos de AngularJS
+Ofrecemos:
+* Contrato indefinido 
+* Horario de Lunes a Jueves: 10:00h a 14:00h y de 15:00h a 19:00h y Viernes de 09:00 a 15:00 (posible flexibilidad de horario) 
+* Puesto de trabajo en un ambiente joven y dinámico 

@@ -1,0 +1,26 @@
+
+Para nuestras oficinas de Barcelona, estamos buscando Programador Web Front-End y/o Backend que se involucrará en el conjunto de proyectos de desarrollo web y sus correspondientes entornos Backend.
+Se valora la multidisciplinariedad en la tipología de proyectos de Transformación Digital y eCommerce que la Agencia implementa para sus clientes.
+Conocimientos mínimos
+	•	PHP, HTML5, CSS3, JQuery, Bootstrap
+	•	Conocimientos en algún Framework PHP (Codeigniter, Yii, Zend, etc)
+	•	MySQL y PostgresSQL
+	•	Integración de Webservices (REST y SOAP)
+	•	Javascript
+	•	Fuertes Skills de maquetación Web
+Serán bienvenido los siguientes conocimientos
+	•	Angular2
+	•	CMS para eCommerce (Prestashop, Magento, etc)
+	•	Altos Conocimientos de Oracle PLSQL & Oracle APEX
+	•	Nociones de metodología Agile
+	•	Nociones de Machine Learking, Data Mining o Business Intelligence
+ 
+Requisitos:
+	•	Ser una persona optimista, positiva y alegre :)
+	•	Tener mínima experiencia de 2-3 años 
+ 
+Ofrecemos:  
+	•	Jornada completa
+	•	Salario a convenir según experiencia demostrada. 
+	•	Incorporación inmediata.
+ 

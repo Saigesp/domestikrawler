@@ -1,0 +1,19 @@
+
+Somos  una empresa joven y dinámica buscando un desarrollador iOS & Android con experiencia en aplicaciones nativas para ambos sistemas operativos.
+Funciones:
+- Definición, desarrollo y mantenimiento de aplicaciones nativas.
+- Publicación de las apps en los markets.
+Necesario:
+- Objective-C, C, C++, Xcode
+- Aplicaciones móviles para Android: Java, Eclipse, ADT, Android SDK.
+- Uso de webservices SOAP, XML, REST, JSON 
+- Conocimientos SQL, SQLite
+- Inglés
+- Pueda desarrollar aplicaciones teniendo en cuenta la vida del proyecto, generando código flexible, mantenible y correctamente formateado.
+- Experiencia en uso de software de control de versiones (preferiblemente Git)
+- Excelente capacidad de depuración de código.
+Se valorará:
+- Experiencia con PHP, HTML5/CSS3, Javascript
+- Conocimiento de protocolos wireless como Bluetooth, AirDrop, iBeacon..
+Se ofrece:
+Contrato indefinido en una empresa joven con un excelente ambiente dinámico en el que desarrollarse como profesional. Formación continua en tecnologías OpenSource. Posibilidad de participar en diferentes proyectos para grandes clientes. Plan de carrera personalizado y a medida.

@@ -1,0 +1,6 @@
+
+Buenos días.
+Estamos abriendo nuestra tienda online y necesitamos un módulo asociado a nuestros productos para que el cliente pueda obtener el precio de un producto introduciendo unas medidas personalizadas.
+El precio no sólo dependerá de las medidas si no del tipo de producto, unidades, adornos y demás procesos de fabricación. En cada producto estos datos cambiarán.
+Estamos ubicados en Elche y necesitamos a un profesional de la provincia de Alicante para poder reunirnos. Imprescindible nivel experto programando y creando módulos para prestashop
+Muchas gracias

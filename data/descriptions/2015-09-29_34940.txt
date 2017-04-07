@@ -1,0 +1,17 @@
+
+Buscamos para nuestro departamento tecnológico, un Diseñador/Maquetador Web, con experiencia de entre 3 y 5 años, trabajando con HTML/HTML5, CSS3 y acostumbrado a programar con JavaScript, ActionScript, y otros lenguajes de diseño web.
+Trabajará con las últimas tecnologías en un ambiente de alto nivel técnico donde puede crecer profesionalmente, formándose en habilidades profesionales.
+Es necesario que la persona seleccionada tenga conocimientos y experiencia en: 
+•	Diseño gráfico y alta creatividad
+•	HTML/HTML5.
+•	Maquetación Responsive Design orientada a multidispositivo
+•	Estándares de accesibilidad y W3C
+•	CSS2 y CSS3.
+•	Javascript: jQuery / Prototype, JSON, Ajax
+•	Photoshop, Ilustrator
+También valorable haber trabajado con: 
+•	Metodologías ágiles, tipo SCRUM
+•	Nivel medio-alto de inglés
+•	Frameworks: node.js, angular, ionic
+•	Edición y adaptación de plantillas de Wordpress y Drupal
+

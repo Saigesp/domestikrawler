@@ -1,0 +1,10 @@
+
+Estamos buscando a un Analista Funcional, para incorporarse en una empresa líder en su sector; se trata de un proyecto con carácter indefinido.
+A continuación describimos el perfil que estamos buscando:
+
+- Experiencia previa como Programador (4-5 años) y Analista Programador J2EE (min 2años)
+- Experiencia en el diseño de aplicativos, modelo de datos, estructura y arquitectura SOA
+- Amplia experiencia en procesos de integración continua (Jenkins, Unit Testing…)
+- Gestión de proyectos usando metodología AGILE (Jira, Confluence …)
+- Gestión de código basada en GITFLOW.
+

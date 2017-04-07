@@ -1,0 +1,54 @@
+
+(English text below)
+Elements Interactive fue fundada en Holanda en1996 como un estudio interactivo especializado en el diseño y desarrollo de aplicaciones web y para móviles. Somos un equipo entusiasta y con experiencia de unos 35 profesionales que comparten su pasión por la tecnología y una actitud proactiva de cara a nuevos retos.
+Para expandir nuestras operaciones, hemos abierto una oficina en Barcelona en Octubre de 2013. Para esta oficina estamos construyendo en este momento un nuevo equipo de desarrollo web.
+Estamos buscando un Desarrollador Senior de Python Django, un hombre o una mujer con pasión por la construcción de aplicaciones web de última generación. Como Desarrollador/a Senior de Python Django trabajarás en un equipo de profesionales e implementarás soluciones solidas para crear aplicaciones web de alta calidad. Como especialista del dominio de Python Django, tú serás la persona a la que acudirán tus compañeros en caso de dudas sobre la plataforma o sobre tecnologías relacionadas.
+Responsabilidades:
+•	Asistir en la realización de estimaciones y definición de arquitecturas, soluciones técnicas y estructurales para proyectos.
+•	Diseñar, programar y testear soluciones técnicas.
+•	Asistir en la definición de bases de datos y diseño de aplicaciones (web).
+•	Apoyar al Progamador Líder y al resto del equipo.
+•	Adherirte y contribuir a los estándares y la forma de trabajar de la compañía.
+•	Comunicarte clara y abiertamente con los compañeros, tanto locales como a distancia.
+•	 Mantener el conocimiento técnico participando en eventos profesionales y networks, y manteniéndote informado de las últimas novedades del sector día a día.
+Requisitos:
+•	Titulo en Ingeniería Técnica en Informática o Ingeniería en Informática o similar.
+•	Al menos 5 años de experiencia en programación y desarrollo profesional.
+•	Al menos 2 años de experiencia en desarrollo de Python Djan.
+•	Amplia experiencia con (X)HTML, XML, CSS, JavaScript, Ajax y tecnologías relacionadas.
+•	Experiencia con metodologías de trabajo agiles en proyectos(Scrum).
+•	Excelente habilidad de comunicación y nivel alto de inglés.
+•	Capacidad de trabajar con compañeros a distancia.
+•	Actitud ambiciosa, creativa, flexible y precisión.
+•	Carácter para tratar, convencer y motivar gente.
+Habilidades deseadas:
+•	Experiencia con PHP5, OOP y patrones de diseño (Plataforma Zend es un plus);
+•	Nivel alto de Español.
+•	Flexibilidad para viajar ocasionalmente.
+===
+Elements Interactive was founded in the Netherlands in 1996 as an interactive studio specialized in designing and developing applications for web and mobile. We are an enthusiastic and experienced team of over 35 professionals who share a passion for technology and a “can do” attitude.
+To expand our operations, we have opened an office in Barcelona, Spain in October 2013. For the Barcelona office we are currently setting up a new web development team.
+We are looking for a Senior Python Django Developer (M/F) with a passion for building next-generation web applications. As Senior Python Django Developer you work in a team of professionals and implement rock solid solutions to create high quality web applications. As a domain specialist on Python Django, you are the go-to person for team members with questions on the platform and related technologies.
+Responsibilities:
+•	Assist in making estimates and defining architecture, technical solutions and structure for projects;
+•	Design, code and test technical solutions;
+•	Assist in defining database and (web) application design;
+•	Support the Lead Developer and development team;
+•	Adhere and contribute to the company standards and way of working;
+•	Communicate clearly with local and remote colleagues;
+•	Maintain technical knowledge by participating in professional events and networks and keeping up to speed with the latest developments in the industry.
+Requirements:
+•	BS or MS in Computer Science or related field;
+•	At least 5 years experience with professional programming and development;
+•	At least 2 years experience with Python Django development;
+•	Extensive knowledge of (X)HTML, XML, CSS, JavaScript, Ajax and related technologies;
+•	Experience in working in agile project teams (Scrum);
+•	Excellent communication and English language skills;
+•	Being able to work with colleagues at remote offices;
+•	Go-getter attitude, creative, flexible, accurate;
+•	Strong personality that knows how to approach and motivate people.
+Desired skills:
+•	Experience with PHP5, OOP and Design Patterns (Zend Platform is a plus);
+•	Spanish communication skills;
+•	Flexible for occasional traveling.
+

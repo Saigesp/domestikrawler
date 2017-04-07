@@ -1,0 +1,18 @@
+
+Desarrollo y puesta en marcha de aplicaciones web así como administrar y actualizar las ya creadas, gestionando y resolviendo las incidencias que puedan surgir.
+Funciones:
+- Conocer las técnicas adecuadas para el análisis de los requerimientos técnicos de la aplicación a desarrollar.
+- Conocer y aplicar las técnicas de programación de aplicaciones web, utilizando los distintos lenguajes de programación.
+- Administrar, mantener y actualizar las aplicaciones desarrolladas proponiendo soporte técnico a la aplicación.
+- Conocer y aplicar las técnicas referentes a seguridad y protección de las aplicaciones web, creando barreras de acceso (zonas restringidas, control de acceso, certificados, etc.) y solucionando los problemas de las mismas
+- Conocer y aplicar la metodología de mantenimiento y actualización de las aplicaciones
+web, utilizando las últimas novedades tecnológicas para renovar o actualizar aquellos
+aspectos que se requieran.
+CONOCIMIENTOS INFORMÁTICOS:
+- Diseño gráfico para on line
+- Programación html y css
+- Programación jquery y ajax
+- Programación php
+- Experiencia en zend framework
+- Experiencia en magento
+- Nivel alto de inglés

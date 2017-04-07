@@ -1,0 +1,16 @@
+
+Buscamos a un candidato para incorporar en el departamento de tecnología de la agencia. 
+El candidato deberá ser un perfil mixto frontend/backend.
+Requisitos mínimos: 
+- Conocimientos avanzados en HTML, CSS y JavaScript (jQuery) 
+- Conocimientos generales en Photoshop
+Se valorará: 
+- Conocimientos avanzados en PHP, (haber trabajado con algún framework como CodeIgniter, Yii, Doctrine, ...) 
+- Haber utilizado APIs de terceros (Facebook, Twitter, Google, Instagram, ...) 
+- Haber desarrollado apps de Facebook. 
+- Conocimientos de HTML5/CSS3 
+- Haber trabajado en agencia de publicidad online.
+Dentro del departamento es necesario que el candidato posea: 
+- Actitud proactiva y mentalidad creativa. 
+- Capacidad para trabajar en equipo y bajo dirección. 
+- Capacidad de afrontar retos y encontrar soluciones a problemas.

@@ -1,0 +1,16 @@
+
+En SolucionesUno necesitamos una persona con conocimientos de: 
+- Frontend Development: 
+- HTML5 
+- CSS3 
+- Javascript 
+- PHP
+- Mysql
+Es deseable  ademas conocimientos en:
+- Wordpress (desarrollo themes y plugins) 
+- Prestashop (desarrollo themes y módulos) 
+- Optimización SEO.
+- Framework, codeigniter, smarty, etc.
+- Manejo de herramientas de diseño, Photoshop, Fireworks, Illustrator.
+Horario de 9 a 15hs. 
+Ofrecemos sueldo a convenir, lugar de trabajo agradable, conocimientos avanzados en PHP, Linux, WP y PS.

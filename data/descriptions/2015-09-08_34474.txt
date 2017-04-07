@@ -1,0 +1,7 @@
+
+Full-Stack Developer, Hamburg Germany, ONSITE
+nodejs, golang, hadoop, docker, elasticsearch, etc
+d3media builds adserving, analytics and other tools to power marketing campaigns, custom on-site features, and activate advertiser data for targeted campaigns.
+We are looking for a great full-stack dev to join our team. You should be willing to work on everything. (little bit of UI, application servers, message queues/services, hadoop and infrastructure/provisioning)
+As a small team we don't have the luxury of people working in silos "owning" pieces of our stack. Currently we are one american, one spaniard and one german on the dev team. This is a great chance to work on interesting problem space with scalable loosely coupled systems and a big influence over the future setup of the team and technology.
+If you aren't local we can discuss remote for the right candidate or we can help you relocate.

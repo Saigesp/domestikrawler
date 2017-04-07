@@ -1,0 +1,18 @@
+
+Spring Professional IT busca un/a Director/a de Desarrollo de Software para incorporar en plantilla para Barcelona centro. La persona gestionará un equipo de 6 Developers.
+El equipo de software está formado por expertos en Python/Django, es un equipo joven e innovador que se encuentra en pleno crecimiento.
+Buscamos a una persona con gran conocimiento técnico, capaz de aportar nuevas ideas y con capacidad de liderazgo.
+Requisitos mínimos
+- Experiencia gestionando equipos de desarrollos, en entornos de calidad y alto rendimiento.
+- Experiencia previa desarrollando o gestionando proyecto con tecnología Python/Django.
+- Capacidad para desarrollar arquitectura de software y aportar nuevas soluciones a problemas técnicos.
+- Experiencia trabajando con metodologías ágiles de desarrollo como SCRUM.
+- Dominio de HTML, Bootstrap, CSS, JavaScript, jQuery.
+- Experiencia trabajando en entorno Linux.
+- Capacidad para liderar un equipo.
+- Persona con ganas de participar en proyectos innovadores, aportando ideas y mejorando las herramientas ya desarrolladas.
+Funciones del candidato:
+- Gestión del desarrollo de un nuevo sistema de búsqueda.
+- Gestión del desarrollo de controles de búsqueda y gestión de contenidos.
+- Participación activa en la creación y desarrollo de proyectos innovadores.
+

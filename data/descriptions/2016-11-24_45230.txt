@@ -1,0 +1,16 @@
+
+Para nuestro departamento audiovisual buscamos incorporar un editor grafista senior que asista en las actividades diarias de la empresa. 
+Requisitos:
+- Manejo de la suite Adobe CC (Photoshop, illustrator, Premiere, After Effects, Audition, etc)
+- Conocimiento de otros programas de edición (Final Cut, Avid)
+- Experiencia en Compositing 2D y 3D con After Effects, integración con programas de 3D (Cinema 4D)
+- Manejo medio/avanzado de suites de colorización (Da vinci Resolve) y otros plugins de etalonaje
+- Capacidad de gestionar proyectos y equipos de trabajo
+- Capacidad de desarrollo de conceptos creativos audiovisuales desde su inicio hasta el final con poca   
+   supervisión
+- Capacidad de manejar entregas en tiempos cortos y bajo presión
+Deseable:
+- Manejo de programas de diseño y animación 3D (Cinema 4d, 3DMax, etc).
+- Conocimiento de HTML5, flujos de trabajo con video HTML 5 y manejo de CMS wordpress 
+- Conocimiento y manejo de flujos de trabajo en diseño Web/App
+- Conocimiento del sistema de grafismo Viz Artist

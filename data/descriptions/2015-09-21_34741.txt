@@ -1,0 +1,12 @@
+
+Hola a todos,
+Buscamos maquetadores/programadores front con experiencia en desarrollos responsive y con accesibilidad Web.
+Necesitamos que al menos te manejes con soltura en lo siguiente:
+* HTML5
+* CSS3 y preprocesadores (LESS SAAS, etc.)
+* JS y JS no intrusivo
+* Responsive Web Design
+* Accesibilidad: WCAG 2.0
+Es importante que tengas experiencia en proyectos con requisitos de accesibilidad, basados en Web Content Accessibility Guidelines 2.0 (WCAG 2)
+Trabajo presencial en Madrid. No se admiten freelance no presenciales.
+

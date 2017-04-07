@@ -1,0 +1,14 @@
+
+El zinc es un laboratorio de diseño e innovación en Barcelona. (www.zinc-group.com)
+Estamos buscando un desarrollador freelance iOS para ayudarnos en 2 proyectos interesantes.
+Ambas aplicaciones tienen hardware sensor con BTLE.
+Va a trabajar junto a nuestro principal desarrollador y la UX y diseño visual es casi completo por lo que debe adaptarse a cualquier persona que tenga experiencia en Objective C y Swift.
+Al principio será de 2 a 3 semanas, a continuación, si usted es un buen ajuste el papel puede continuar.
+Importe del pago Freelance está entre 700-1000 euros por semana dependiendo del nivel de experiencia.
+Zinc is a design and innovation lab in Barcelona. (www.zinc-group.com)
+We are looking for a freelance iOS developer to help us on 2 cool projects.
+Both Apps have sensor hardware with BTLE.
+You will work alongside our main developer and the UX and Visual design is mostly complete so it should suit anyone who has experience in Objective C and Swift.
+At first it will be for 2 or 3 weeks, then if you are a good fit the role may continue.
+Freelance Payment amount is between 700-1000 euros per week depending on the level of experience.
+Español y/o Inglés 

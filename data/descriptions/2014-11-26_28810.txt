@@ -1,0 +1,6 @@
+
+El Hype busca un programador informático especialista en Drupal para que lleve a cabo las siguientes tareas:
+- Actualización gráfica de magazine digital. Eliminación de elementos gráficos e inclusión de nuevos, rediseño de plantillas.
+- Reconfiguración de módulos.
+- Inclusión en la web de elementos SEO (breadcrumbs, keywords, URL amigables, sitemap,etc.)
+- Instalación o programación de módulos para marketing publicitario (control de impresiones, clics, estadísticas, etc...)

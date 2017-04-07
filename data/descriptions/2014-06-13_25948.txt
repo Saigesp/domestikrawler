@@ -1,0 +1,7 @@
+
+Técnico de Diseño Web en prácticas.
+El estudiante se integrará en el Departamento de Diseño On Line de un importante grupo editorial.
+Requisitos:
+- Tiene que conocer y manejar el paquete de diseño web de adobe: Photoshop, Flash (conocimientos básicos actionscript 3) dreamweaver (u otro ID de maquetación html, sublime, note pad +, etc…) ilustrator. U otros programas de diseño web fuera del paquete adobe (open source u otros). 
+- Conocimientos de CSS, CSS3, XHTML, HTML5, estándares web actuales, ligeros conocimientos de javascript y jquery
+- Persona activa y creativa, cuyos estudios y espíritu estén enfocados al diseño web.

@@ -1,0 +1,21 @@
+
+Estamos buscando incorporar a dos developers (iOS / Android) apasionados por el código, la escalabilidad y la comunicación. Una persona proactiva, creativa y curiosa. Incorporación a equipo multidisciplinar, orientado al objetivo y muy flexible. Nos gusta disfrutar de la tecnología.
+El día a día, dependerán de los sénior developers y se encargarán del:
+•	Desarrollo de nuevas funcionalidades según el roadmap de producto 
+•	Testeo y ejecución de escenarios y documentación de resultados.
+•	Elaboración de la documentación técnica.
+•	Contribuir en la continua mejora del proceso de testeo.
+•	Proponer mejoras de front a nivel de UX.
+•	Colaborar de las sesiones de evolución de producto con nuevas funcionalidades.
+Lo que estamos buscando: 
+•	Espíritu emprendedor y ganas.
+•	Experiencia de 1 - 2 años en desarrollo móvil.
+•	Conocimientos de sistemas de control de versiones, preferiblemente GIT.
+•	Conocimientos de iOS o Android. 
+•	Conocimientos de testing. 
+Lo que ofrecemos: 
+•	Salario en función de la experiencia: fijo + variable + participación en la starup.
+•	Contrato indefinido y jornada completa.
+•	Horario flexible y posibilidad de teletrabajo.
+•	Equipo con muy buen rollo y que de vez en cuando se va a tomar burgers ;-)
+

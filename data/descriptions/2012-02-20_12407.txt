@@ -1,0 +1,4 @@
+
+La escuela de español Inhispania necesita añadir algunas aplicaciones para facilitar la reserva online de cursos a través de su página web (www.inhispania.com). En concreto, mejoras en sus formularios y añadir un calculador de precios a su sección de Registro Online. 
+Se necesita a una persona con conocimientos de PHP, JavaScript (con JQuery), HTML y CSS, que se desplace a la empresa una serie de jornadas a desarrollar y enseñar a la persona responsable del mantenimiento de la web la creación y funcionamiento de estas herramientas, de forma que facilite posteriores modificaciones.
+El pago dependerá de las clases necesarias.

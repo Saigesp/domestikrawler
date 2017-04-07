@@ -1,0 +1,9 @@
+
+Necesitamos Desarrollado de IOS con al menos 2 años de experiencia para empresa dedicada al sector público.
+Conocimientos necesarios:
+- Haber trabajo con webservices y manejo de json
+- Notificaciones push
+- Manejo de servicios 
+- Geolocalización
+- BBDD local
+

@@ -1,0 +1,41 @@
+
+The role combines sound SharePoint administration and development experience. It is instrumental in the development and roll out of our internal SharePoint collaboration platform to support the ongoing improvement of agility and efficiency or our business processes.
+Candidate will be responsible for the whole SharePoint farm administration, proactively, while still being able to zoom-in to manage development and deployment of new sites and functionality.
+RESPONSIBLITIES
+Working with users, IT specialists and management on activities including but not limited to:
+· Server farm and site collection monitoring and administration
+· Gather and analyze requirements of highly customized site structures and functionality to reflect business needs
+· Elaborate and maintain functional and technical documentation
+· Design, code, and implement custom solutions in the SharePoint environment including designing the look and feel of SharePoint sites 
+· Create and maintain department sites and sub-sites within existing site collections
+· Advise on appropriate security levels within sites
+· Create new workflows and assist with the management of site structure
+· Coordinate and provide direct support to users
+WE OFFER
+·Full-time (39hrs/week) from Monday to Friday
+·Contract: 6 months + Indefinite contract
+·Opportunity to join an international team
+SKILLS
+· In depth knowledge and understanding of SharePoint 2013 / 2016 features and best practices, including:
+o Microsoft SharePoint server 2013/2016 administration
+o ASP.NET development
+o SharePoint Designer
+o UI/UX Design, with responsive HTML / CSS / JavaScript
+o Strong PowerShell skills, managing SharePoint exclusively via PowerShell if needed
+· Proven experience planning and building enterprise level SharePoint solutions, including stretch farm or similar non-trivial deployments
+· Strong knowledge of SharePoint's logical farm architecture and product major Service Applications
+· Methodologies to synchronize SharePoint environments (e.g. Prod, Pre-Prod and Dev)
+· Ability to work with side IT teams to co-ordinate changes (networking, security, systems admins)
+· Experience working with Agile management practices
+· Demonstrable approaches to monitoring SharePoint environments to ensure good health
+· Hands-on troubleshooting experience, including tracing performance issues
+· Knowledge of security and encryption practices to secure farms and services
+· Native level of Spanish and fluent English
+KEY SOFT SKILLS
+· Ability to work with clients to understand their needs
+· Ability to maintain a positive relationship with customers and team members
+· High organizational capacity to deal with variable workload
+· Flexible and comfortable with constant change
+· Capability to work in a team environment, as well as independently
+· Excellent written and oral communication skills
+_The recruitment processes and people involved in them (both recruiters and Project Managers) will not discriminate any candidacy because of age, disability, ethnic, marital status, gender, nationality, ideology, politic, race, religion and sexual orientation

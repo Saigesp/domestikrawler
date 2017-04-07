@@ -1,0 +1,18 @@
+
+Matchapp, S.L. es una empresa creada en el entorno del deporte y dedicada al diseño, programación y mantenimiento de aplicaciones para smartphones ha desarrollado la primera app para el fútbol base representando una herramienta única y una nueva generación de redes sociales dando servicio a clubes, entrenadores, jugadores y seguidores.
+Matchapp  forma parte de un grupo de empresas de desarrollo tecnológico y está formado por un equipo interdisciplinar con una actitud positiva y emprendedora.
+Actualmente queremos incorporar a nuestro equipo de la oficina de Barcelona (zona centro) un perfil con más de 3 años de experiencia en backend y mantenimiento del sistema.
+Conocimientos técnicos requeridos:
+•	Más de 3 años de experiencia trabajando en entornos PHP: PHP 5.4+
+•	BBDD: MySQL
+•	PDO
+•	Administración de Linux
+•	Deseable experiencia en Amazon Web Services
+Las tareas a desarrollar son:
+•	Implementar y mantener la capa de acceso a datos de la plataforma en el cloud de Amazon y sus servicios.
+•	Aplicar nuevas técnicas de gestión de datos para soportar el adecuado crecimiento de la plataforma.
+•	Optimizar el rendimiento de la plataforma en lo que se refiere a su despliegue y rendimiento en el cloud de Amazon, utilización de CPU, tráfico de red, capacidad de almacenamiento de datos, tiempo de respuesta y concurrencia.
+•	Escribir y mantener test y documentación de código.
+•	Depurar fallos basado en informes de usuarios.
+En Matchapp valoramos tanto la experiencia como la actitud, por ello buscamos personas con ilusión, ganas de aprender y que tengan ganas de aportar su manera de hacer las cosas. Con capacidad analítica, resolutiva y organizativa, autonomía y proactividad.
+Te ofrecemos la oportunidad de trabajar en un proyecto verdaderamente apasionante.

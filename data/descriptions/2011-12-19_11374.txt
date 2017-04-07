@@ -1,0 +1,16 @@
+
+Programador (BBDD, BI, servidor)
+REQUISITOS: 
+Grado en Ingeniería informática o equivalente, Grado de Ingeniería de Tecnologías y Servicios de Telecomunicación o Ingeniería de Telecomunicaciones (Especialidad Telemática).
+OBJETIVO/RESPONSABILIDAD DEL PUESTO: 
+• Diseño e implementación de bases de datos relacionales, almacenes de datos, OLAP. 
+• Programación de aplicaciones Web y servicios en el lado servidor. 
+HABILIDADES REQUERIDAS: 
+• Dominio del lenguaje de programación Python, preferiblemente framework Django. 
+• Experiencia en el diseño e implementación de bases de datos relacionales (MySql, Sql Server). 
+• Experiencia en el diseño de almacenes de datos. 
+• Dominio del lenguaje SQL, desarrollo de procedimientos almacenados. 
+• Nociones en bases de datos multidimensionales, cubos OLAP. 
+• Experiencia en la creación de procesos ETL. 
+• Experiencia en la creación de scripts.
+

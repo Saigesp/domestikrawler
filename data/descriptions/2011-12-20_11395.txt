@@ -1,0 +1,27 @@
+
+Desarrollador web back-end en Ciudad Real
+
+Empresa: Ático, estudio gráfico
+Full-time y presencial en Ciudad Real (zona centro)
+Jornada laboral flexible
+Incorporación inmediata
+Salario según capacidades demostradas
+Requisitos
+Amplia experiencia en desarrollo web basado en frameworks:
+
+Trabajamos con CakePHP y Ruby on Rails, aunque experiencia con cualquier otro framework es bienvenida.
+Experiencia con software de desarrollo colaborativo (SCM y project management software).
+Conocimiento de metodologías de desarrollo basadas en tests (TDD, BDD…).
+Experiencia de trabajo en entornos UNIX.
+Nivel medio/alto de inglés, desarrollamos y documentamos en este idioma.
+Nociones de desarrollo front-end: HTML, CSS, JavaScript y web standards.
+Pasión por tu trabajo, serás una parte fundamental de nuestro equipo.
+Extra
+Administración de sistemas UNIX.
+Monitorización, rendimiento y escalabilidad de aplicaciones.
+Experiencia en desarrollo front-end.
+Sería muy interesante ver tu trabajo en producción o tu perfil en GitHub o similares.
+Sobre nosotros
+Somos una empresa con sede en Ciudad Real formada por desarrolladores de software y diseñadores gráficos que apuesta por la calidad del software y la experiencia de usuario.
+Nos centramos en aplicaciones construidas a medida para cubrir las necesidades específicas de nuestros clientes, y aunque tenemos nuestras preferencias, contamos con un amplio abanico de opciones tecnológicas para cada uno de nuestros proyectos.
+Cubrimos todas las etapas del desarrollo de software con la mayor agilidad posible a través de una colaboración activa entre managers, diseñadores, desarrolladores y el propio cliente.

@@ -1,0 +1,20 @@
+
+Buscamos un Programador Android para realizar tareas de programación de aplicaciones móviles nativas para Android con incorporación inmediata. El perfil del programador que buscamos es una persona dinámica, responsable, comunicativa, proactiva, curiosa, flexible, con orientación al trabajo en equipo, a la innovación y pensamiento creativo, que le gusten las nuevas tecnologías, pero sobre todo que tenga muchas ganas de colaborar y aprender.
+Conocimientos básicos requeridos e imprescindibles:
+Experiencia mínima de 2 años en desarrollo de aplicaciones móviles nativas para Android.
+Experiencia en el uso de herramientas de Control de versiones (Git).
+Experiencia en el uso de Android Studio.
+Conocimientos de REST, JSON
+Conocimientos de: Java, SQLite.
+Valoraremos también:
+Experiencia en desarrollo de aplicaciones híbridas (HTML5, JQueryMobile, AngularJS, Cordova).
+Experiencia en desarrollo de aplicaciones para iOS con Swift
+Capacidad analítica y de organización.
+Funciones en UXSmobile siempre junto al apoyo de las personas del equipo serán:
+Desarrollo y programación de Aplicaciones Móviles en el entorno Android.
+Participación en las distintas etapas de un proyecto (análisis, diseño, desarrollo, implementación) y sus distintas tareas (definición de la arquitectura, diseño de algoritmos, codificación, pruebas, publicación, etc.).
+ Ofrecemos:
+Incorporación inmediata.
+Posibilidad de evolución en la compañía.
+Remuneración competitiva, con una evolución y revisión salarial anual.
+Flexibilidad horaria.

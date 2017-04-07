@@ -1,0 +1,15 @@
+
+Este NO ES UN PUESTO DISEÑO CREATIVO, sino un puesto de SOPORTE y DESARROLLO que ha de hacerse creativamente.
+Dar soporte  y asesorar a las Agencias Creativas,  explicar cómo trabajar técnicamente con Media Mind y  aconsejar sobre la mejor forma de optimizar y de llevar una campaña  publicidad on-line a buen término. 
+Explicar el funcionamiento de la Plataforma Media Mind y el Workshop (plug-in de flash) así como involucrarse en proyectos hasta su emisión en medios y soportes. 
+Validaran creatividades que envíen las agencias creativas. Comprobar la compatibilidad de las creatividades con la plataforma así como valorar su buen funcionamiento y arquitectura para su posterior emisión en las publicaciones web.
+Media Mind es una plataforma tecnológica para la emisión de cualquier tipo de formato publicitario en la red.
+Requerimientos
+-	Solidos conocimientos de ActionScript 2.0 y 3.0 
+-	Buen conocimiento de HTML, JavaScript, CSS, PHP, MySQL y otros lenguajes de programación empleados en internet
+-	Conocimiento del medio publicitario: Formatos, Medios de Publicidad, Tecnologías Publicitarias.
+-	Tener bagaje creativo con experiencia en el mundo publicitario Online
+-	Nivel de inglés necesario: Buen nivel hablado y escrito.
+-	Gran  capacidad de comunicación y de transmitir Información.
+-	Capacidad de trabajar en equipo.
+-	Experiencia: 1 o 2 años en programación (html, flash, JavaScript)

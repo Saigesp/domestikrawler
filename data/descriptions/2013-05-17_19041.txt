@@ -1,0 +1,52 @@
+
+Buscamos un excelente programador web senior. La vacante es en nuestra ofi en Santander, con posibilidad de trabajar en remoto un día a la semana. El ambiente de trabajo es excelente. Consulta la oferta de empleo detallada.
+Requisitos obligatorios:
+
+Amplios conocimientos demostrables de PHP y/o Python con algún framework moderno de desarrollo. Se valorará el conocimiento del framework CakePHP o Django.
+
+Maquetación de páginas web usando los estándares W3C: HTML5 y CSS3.
+
+Conocimientos de JavaScript y jQuery.
+
+Experiencia en la construcción y verificación de servicios web.
+
+Diseño, administración y optimización de bases de datos relacionales, preferiblemente en entornos MySQL.
+
+Conocimientos de administración de sistemas GNU/Linux.
+
+Dominio de algún sistema de gestión de contenidos. 
+Preferiblemente WordPress, Drupal, Joomla, Magento u otros.
+
+Manejo de al menos un sistema de control de versiones (preferentemente Git).
+Conocimientos de algorítmica y estructuras de datos.
+
+Al menos dos años de experiencia profesional desarrollando funciones equivalentes.
+
+Honradez, perfeccionismo, organización y autonomía.
+
+
+Requisitos opcionales:
+
+Conocimientos de lenguajes de scripting adicionales: Python, Perl, Ruby, Bash, etc.
+
+Manejo del framework de construcción de aplicaciones móviles PhoneGap.
+
+Manejo de bases de datos no relacionales, preferentemente destinadas a la construcción de motores de búsqueda (Apache Solr).
+Conocimientos básicos de software de diseño gráfico (Adobe Photoshop, Adobe Illustrator…)
+Título de ingeniero, ingeniero técnico o licenciado en Física.
+
+
+Ofrecemos
+
+Un salario competitivo.
+
+Un contrato de trabajo indefinido.
+
+Un puesto de trabajo estable en una empresa que funciona.
+
+Las mejores herramientas de trabajo que el dinero puede comprar :-) (doble pantalla de 23", teclado y sillón ergonómicos, teléfonos Cisco...)
+Proyectos interesantes y profesionalmente estimulantes.
+
+Trabajar desde tu casa (o donde quieras) el 20% de tu tiempo.
+Comedor, microondas, cafetera y aparcamiento en la puerta.
+

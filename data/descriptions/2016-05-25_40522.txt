@@ -1,0 +1,18 @@
+
+Buscamos desarrollador .net freelance para el siguiente proyecto:
+Renovación de un sitio web totalmente funcional actualmente. Proporcionaríamos las páginas ya maquetadas en html , css y jquery, para cambiarlas por las actuales (unas 13 páginas).
+La mayor parte de las páginas del sitio son informativas con contenidos no dinámicos, escritos directamente en el código.  
+PARTE 1:
+Las páginas restantes contienen formularios (unos 8)  ya desarrollados y funcionando actualmente, en los que no habría que cambiar sus funcionalidades, sino llevárselos a conectar con el nuevo desarrollo web.
+PARTE 2:
+El sitio web actualmente dispone de un blog o apartado de noticias en el que sí habría que añadir nuevas funcionalidades sencillas, como categorías, etiquetas, más vistos o suscripción a newsletter.
+PARTE 3:
+Actualmente el sitio existe unicamente en español y habría que crear una versión en inglés con su correspondiente funcionalidad de cambiar de un idioma a otro en la web.  La versión en inglés sería una copia del sitio, no una traducción.
+LENGUAJE Y SERVIDOR
+El sitio está y tendrá que ser implantado como páginas .aspx
+El acceso a la base de datos será remotamente mediante un usuario que le facilitaríamos.
+El proyecto o sitio tendría que ser instalado en un servidor propiedad del freelance o localmente.
+La base de datos esta en MS SQL Server 2008 R2 bajo el sistema de gestión MS SQL Express 2008.
+La conexión remota a la base de datos será a través de SQL Management Studio u otros.
+Necesitamos presupuestos entre hoy y el viernes 27 de mayo.  Es muy urgente, si una propuesta nos cuadra antes, cerraremos el proceso de selección antes del viernes.
+El siguiente paso será dar acceso al proyecto al freelance para que pueda echar un vistazo y cerrar su valoración.

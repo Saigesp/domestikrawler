@@ -1,0 +1,8 @@
+
+¡Hola que tal!
+Buscamos un programador para un proyecto de tienda virtual realizado en CMS Wordpress.
+La tienda tendrá que cumplir las funciones básicas de cualquier tienda virtual como aplicación de descuento según la cantidad de pedidos, que se pueda añadir "accesorios" (a través de un select) y se sume al precio final, etc.. 
+Aplicación/instalación de plugins y modificación de código php, que la web no se demore en tiempos de carga, generación de facturas, etc...
+Enviar CV + links de tiendas creadas en CMS WORDPRESS.
+¡Gracias! 
+

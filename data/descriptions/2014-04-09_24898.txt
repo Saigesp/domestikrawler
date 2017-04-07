@@ -1,0 +1,19 @@
+
+2 años de experiencia en:
+- Gestión de sistemas LINUX (Ubuntu y SuSE) en la nube.
+- Configuración y gestión de Apache 2
+- Administración de base de datos MySQL
+- Programación PHP 5
+- Programación Javascript con y sin Jquer
+- Codificación HTML: xHTML y HTML5
+- Orientación a la seguridad de los sistemas y privacidad de los usuarios.
+Deseable:
+- Conocimientos de CodeIgniter
+- Configuración y adaptación de Wordpress
+- Generación de sistemas sobre CMS Joomla
+- Conocimientos de gestión de infraestructuras sobre Windows Azure.
+Se valorará:
+- CSS 3
+- Experiencia sobre IIS + .NET 4 + c#
+Horario de trabajo:
+- De lunes a viernes de 12:00 a 21:00 con una hora para la comida.

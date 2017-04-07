@@ -1,0 +1,12 @@
+
+Si te apasiona el desarrollo de soluciones web y sientes la necesidad de aprender, descubrir e investigar las últimas novedades del sector, nos gustaría conocerte.
+Somos NOVICELL, una empresa danesa que se dedica a mejorar los negocios online de nuestros clientes, esto significa tecnología, marketing, diseño gráfico y estrategia. Somos 180 empleados, nuestras oficinas principales están en Dinamarca, pero también estamos en Barcelona, Madrid y Londres. Trabajamos en un ambiente sano y relajado. Actualmente buscamos un desarrollador para nuestra acogedora oficina en Poblenou, donde somos ahora 11 empleados.
+Las tecnologías y frameworks de back que usarás son principalmente C#, ASP.NET MVC, ASP.NET Web API, MSSQS. Usarás el entorno de cloud Azure y trabajarás también siguiendo los principios S.O.L.I.D.
+Tendrás la oportunidad de hablar con tus compañeros daneses en persona, por chat y skype, por lo tanto, se requiere que tengas un buen nivel de inglés o que estés motivado para mejorarlo.
+Trabajarás junto con desarrolladores backend y frontend, project managers, diseñadores, consultores de marketing y también con clientes para la elaboración de proyectos. Estarás involucrado en el análisis, planificación y ejecución de los proyectos.
+Tratamos de apoyar el desarrollo profesional de nuestros empleados y el fortalecimiento de las habilidades.
+NOVICELL como lugar de trabajo
+Como empleado de NOVICELL experimentarás una organización informal con gran libertad personal y un buen ambiente. Un entorno creativo e inspirador, con la oportunidad de influir en el desarrollo de la empresa y la opción de participar en actividades de ocio y diversión.
+* Requisitos: Experiencia mínima de 1 año en desarrollo de aplicaciones con las tecnologías y metodologías descritas arriba.
+* Duración del contrato: Indefinido con 6 meses de prueba.
+Si cumples con las características descritas, siendo la curiosidad y las ganas de aprender las principales, envíale tu CV por email a Birgit: bka@novicell.es

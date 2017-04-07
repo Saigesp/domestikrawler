@@ -1,0 +1,22 @@
+
+Offerum ofrece diariamente a sus usuarios actividades exclusivas de ocio con descuentos de hasta el 90%, cenas de lujo, escapadas románticas, espectáculos exclusivos...
+En Offerum somos más de 100 trabajadores, pero seguimos creciendo y necesitamos personas con ganas de trabajar y evolucionar con nosotros. Con sede central en Barcelona y en plena expansión nacional e internacional, tenemos presencia en España, Francia e Italia.
+¿Te encanta el mundo de la programación? ¿Tienes iniciativa y te gusta dar tu opinión y proponer soluciones técnicas a los problemas? ¿Buscas un puesto de trabajo estable en un ambiente joven y divertido? ?Tienes ganas de aprender cosas nuevas cada día? Pues nosotros te estamos buscando a ti.
+
+Queremos a alguien con un buen nivel de programación web, idealmente en PHP,  pero si has estado programando en cualquier otro lenguaje también nos vale. Deberás tener conocimientos de bases de datos (consultas SQL medianamente complicadas) y un mínimo de Javascript y/o jQuery. Será un plus si, además, has trabajado ya en algún entorno de alto rendimiento, con millones de visitas al mes.
+
+Ofrecemos un entorno de desarrollo con metodologías ágiles, un equipo de trabajo compenetrado y organizado (control de versiones con Git, sistema de ticketing con Jira, revisiones de código,...) y proyección laboral, aprendiendo cosas nuevas cada día. La retribución será acorde a la experiencia y valor aportado.
+Conocimientos deseados:
+- PHP 5
+- MySQL
+- Patrón de diseño MVC
+- Solr y Sphinx
+- Javascript y jQuery
+- Experiencia con frameworks (CakePHP, Codeigniter, Symfony,...)
+- Conocimientos generales de CSS
+
+Requisitos imprescindibles:
+- Motivación
+- Ganas de montar nuevos proyectos
+- Disponibilidad para trabajar en equipo
+- Autonomía y responsabilidad

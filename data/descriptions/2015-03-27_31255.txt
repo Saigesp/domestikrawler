@@ -1,0 +1,4 @@
+
+Estamos seleccionando un back-end con conocimientos PHP sobre la metodología Modelo Vista Controlador, con experiencia en algún framework MVC de PHP tipo CakePHP o similar y programación jQuery. 
+El trabajo es presencial en nuestras oficinas de Valencia y consistirá en desarrollar la parte de gestión de datos de las aplicaciones que desarrollamos.
+Se valorarán conocimientos de CMS como Wordpress y Prestashop.

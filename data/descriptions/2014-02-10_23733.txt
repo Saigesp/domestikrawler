@@ -1,0 +1,17 @@
+
+Para dar apoyo a distintos proyectos necesitamos un desarrollador freelance. 
+
+Buscamos una persona con capacidad analítica, dinamismo y un alto conocimiento del sector online.
+
+-      Implementar mejoras de funcionalidad, diseño y maquetación en el font end
+-      Modificaciones css
+-      Ampliación de mejoras de los procesos operativos del back end
+-      Optimización de recursos para un mejor rendimiento de los procesos
+A su vez nos gustaría que la persona tuviera los siguientes conocimientos y aptitudes:
+-         Mínimo 2 años de experiencia en e-commerce o sites de alto rendimiento
+-         Imprescindible altos conocimientos php (OOP) / mysql
+-         Conocimientos maquetación html (CSS)
+-         Valorable conocimientos Memcached y Vamish
+-         Valorable conocimientos Jquery y prototype
+-         Valorable conocimientos SEO
+-         Persona con carácter emprendedor

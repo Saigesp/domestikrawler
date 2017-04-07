@@ -1,0 +1,17 @@
+
+Linkin es una joven agencia dedicada al Marketing online y Desarrollo web ubicada en Barcelona. Contamos con un pequeño equipo con muchas ganas de seguir aprendiendo y creciendo. 
+Actualmente estamos en fase de crecimiento y por esta razón estamos buscando perfiles de desarrollador web (frontend y backend) con conocimientos SEO, para incorporación inmediata. Una persona proactiva, creativa y resolutiva, con amplia experiencia en el mundo online (demostrable), con ganas de seguir aprendiendo, trabajar en equipo y con una mínima sensibilidad para el diseño.
+* También valoramos la opción de trabajar con Freelances.
+Conocimientos requeridos:
+- PHP, Javascript, HTML5, CSS3
+- SEO
+- Gestión de proyectos con GIT
+- CMS (Wordpress, Drupal, Prestashop, Magento...)
+- Gestión de servidores
+Conocimientos valorados:
+- Angular JS
+- Laravel (desarrollo MVC)
+- SASS / LESS
+- Grunt
+- Manejo de APIs de terceros
+- Creación de APIs propias

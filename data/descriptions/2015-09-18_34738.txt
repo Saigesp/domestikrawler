@@ -1,0 +1,20 @@
+
+Desde Cegos Selección programadores JAVA (JEE) para una importante empresa del sector público de tecnología, empresa pionera en tecnología de vanguardia que realiza actividades de ingeniería, consultoría... en diversos sectores (medioambiente, agrario, ganadero, forestal...). 
+Proyecto de 1 año renovable.
+Conocimientos requeridos mínimos:
+-De 2 a 4 años de experiencia en desarrollo e aplicaciones JAVA
+-Base de Datos ORACLE 11g.
+-ID Eclipse
+-Frameworks JAVA (Struts2, Spring, Hibernate)
+-Jasper Report
+-Herramienta de control de versiones
+Conocimientos valorables:
+-Metodología Métrica V3
+-TOAD u otra herramienta de manejor ORACLE
+-Componente DHTMLX
+-HTML5 y CSS3
+-Desarrollo de servicios Web
+-Desarrollo con sistemas de integración continua
+-Carnet de conducir B
+-Vehículo propio
+

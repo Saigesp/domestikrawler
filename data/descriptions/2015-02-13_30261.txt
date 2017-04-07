@@ -1,0 +1,26 @@
+
+Millions of people from around the world have downloaded and used Uber’s Android application and our numbers continue to grow rapidly. We’re looking to expand our Android application development team with exceptionally talented engineers who want to combine Uber’s thoughtful design sensibilities with our architectural vision in order to continue building momentum behind the world’s most exciting mobile platform. We are just at the beginning of building this platform and we need the best engineers to take it further. Completely building new features, integrating with exciting strategic partners and contributing to the app design process… Are you interested?
+Responsibilities
+HERE ARE THE KINDS OF SKILLS WE'RE LOOKING FOR:
+Experience developing, releasing, and maintaining native Java Applications (point us to your apps on Google Play).
+Deep understanding of the Android SDK.
+Crazy stories about supporting multiple Android devices
+Experience collaborating on software projects with design and back-end aspects
+Flexibility in working with a core team in San Francisco while building and mentoring a team in Amsterdam.
+Additional Requirements
+BONUS POINTS IF YOU HAVE:
+Insightful opinions about developing for mobile
+A github account with some cool projects in it
+Scary amazing debugging skills
+Experience developing location aware mobile applications
+Experience developing testing suites for mobile applications
+Experience with web technologies (JavaScript, CSS, HTML5)
+Other Information
+PERKS:
+Employees are showered with Uber credits each month
+Ground floor opportunity with the Amsterdam engineering team. Shape the vibe and the culture of our engineering efforts here.
+Change the world with the applications that you build. Our apps move people and things around the world and you get be a key part of that.
+Sharp, motivated co-workers in a fun office environment.
+COMPENSATION:
+Full-time salary negotiable based on experience, and equity compensation plan.
+We're bringing Uber to every major city in the world. We need brains and passion to make it happen and to make it happen in style.

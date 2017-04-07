@@ -1,0 +1,18 @@
+
+En estos momentos precisamos incorporar una persona para el puesto de:
+Programador Web HTML5, JavaScript y PHP respetando los estándares de accesibilidad y usabilidad. Se valorarán conocimientos en SEO y programación PHP.
+Requisitos mínimos: 
+- Residencia: Bilbao o alrededores. 
+- Titulación mínima: Ingeniería Técnica: Informática. Experiencia mínima demostrable: 2 años. 
+- Desarrollo técnico de proyectos web basados en HTML, CSS, JS y PHP 
+- Conocimiento de los estándares de accesibilidad y usabilidad. 
+- Manejo fluido de los principales programas de diseño gráfico: Adobe Photoshop y Adobe Illustrator.
+Conocimientos mínimos: 
+- Conocimiento en HTML y CSS. 
+- Dominio y uso de librería jQuery. 
+- Programación PHP orientada a objetos. 
+- Conocimientos básicos de herramientas de diseño como Adobe Photoshop.
+Otros conocimientos deseados: 
+- Accesibilidad web. 
+- Conocimientos en Ajax y JavaScript. 
+- Conocimientos sobre SEO.

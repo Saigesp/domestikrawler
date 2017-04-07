@@ -1,0 +1,16 @@
+
+Busco a un programador para que me eche una mano con los desarrollos que me van surgiendo. Trabajo con muchas tecnologías, tanto front como back.
+Me interesa mas la actitud y las ganas que los conocimientos, pero puestos a pedir, trabajo con estas tecnologías:
+Back
+- Php. En general trabajo con un framework propio, pero me vendría bien que tuvieses conocimiento en otros frameworks.
+- Drupal.
+- Wordpress.
+- Prestashop.
+Front
+- Flash (as2 y as3).
+- HTML5 + CSS3.
+- Jquery.
+- Bootstrap.
+- NodeJs.
+Aplicaciones móviles, iPhone y Android, ambas en nativo.
+La idea es que trabajes conmigo por las mañanas, de 8:00 a 14:00, en oficina  (por Chamartin - Madrid).

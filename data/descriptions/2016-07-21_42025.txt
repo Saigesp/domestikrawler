@@ -1,0 +1,16 @@
+
+El futuro Desarrollador Senior llevará a cabo las siguientes funciones:
+• Liderar diferentes proyectos.
+• Ser responsable de la calidad del software.
+• Establecer y cumplir los timings.
+• Optimizar el rendimiento.
+REQUISITOS:
+• Formación como Ingeniero de Software, Informática o equivalente.
+• Poseer 5 años de experiencia en desarrollo profesional de software.
+• Ser programador con amplios conocimientos de PHP5 orientado a objetos, acostumbrado a las buenas prácticas, incluyendo patrones de diseño.
+• Ser capaz sacar el máximo partido a PostgreSQL, escribiendo queries eficientes y complejas, y utilizando ORMs como Doctrine.
+• Tener conocimiento del framework Symfony2
+• Estar habituado a utilizar herramientas como git, composer, Solr, Jenkins,
+PHPStorm, XDebug, JMeter y metodologías de desarrollo (Scrum and KanBan,
+eXtreme Programming).
+Se valorará la experiencia en aplicaciones eCommerce, APIs, web services REST Java.

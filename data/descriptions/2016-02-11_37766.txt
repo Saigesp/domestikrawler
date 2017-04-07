@@ -1,0 +1,31 @@
+
+DigitalCo es una empresa líder consolidada en el ámbito de la creación de soluciones digitales con foco en entorno web, móvil y aplicaciones, tanto propios como de terceros.
+Somos un equipo joven de personas apasionadas por el marketing digital y las nuevas tecnologías, con buenas ideas y ganas de marcar la diferencia.
+Venimos de diferentes sectores como el marketing online o la consultoría digital y tratamos de aplicar nuestro expertise en ayudar a empresas a trasladar sus fortalezas al online, ofreciendo soluciones completas, hechas a medida de nuestros clientes, pero a un precio asequible.
+Ofrecemos un ambiente de trabajo joven, dinámico y con muy buen trato y respeto por los compañeros, queremos encontrar alguien que encaje en este sentido también con nosotros.
+Buscamos: 
+Un diseñador web freelance que pueda colaborar con nuestro equipo en nuestras oficinas en Madrid.
+El primer trabajo irá orientado al diseño y mauetación de una página web basada en wordpress que contiene plugins de distribución en Wordpress como plugis desarrollados por el equipo actualmente. Su dedicación será exclusiva en el diseño y maquetación sobre wordpress donde el equipo de desarrollo integrará la parte correspondiente.
+Conocimientos mínimos 
+Usabilidad y diseño de interfaces 
+Dominio de las herramientas: Photoshop. 
+Dominio de los lenguajes: 
+•	HTML5
+•	PHP
+•	Bootstrap
+•	Css3 
+•	Gestión de base de datos(  Mysql)
+•	Javascript/jQuery 
+•	Responsive Web Design 
+•	Dominio de los CMS 
+•	Wordpress( integración de custom fields en maquetación)
+•	Prestashop
+Conocimientos valorables: 
+•	Herramientas: Illustrator, Dreamwever, Sublime Text o similar 
+•	SEO básico 
+•	Sass 
+•	Less 
+Experiencia mínima: 
+Se requiere que el candidato tenga como mínimo 3 años de experiencia laboral como freelance. 
+Se solicitará el portfolio online para poder valorar la posible candidatura.
+

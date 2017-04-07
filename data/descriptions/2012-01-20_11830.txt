@@ -1,0 +1,16 @@
+
+Buscamos ampliar nuestro equipo en Barcelona, necesitamos un perfil de Analista Programdor  para realizar las funciones de programación en proyectos de movilidad para incorporar en un equipo de trabajo solido, entorno de desarrollo en el ambito de un grupo lider en tecnología.
+
+El candidato debe contar  con experiencia en desarrollo de aplicaciones para móviles, entornos, BBDD, etc. El programador se encargará del análisis funcional y de requisitos,  y de la implementación de los proyectos en ambiente iOS y Android. 
+Requisitos mínimos
+- Experiencia comprobable en desarrollo de aplicaciones para iOS o Android
+- Conocimientos de Android o iOS SDK
+- Conocimientos de bases de datos y SQLLite
+- Conocimientos de JavaScript y AJAX
+- Conocimientos de HTML y CSS
+- Conocimientos de herramientas de control de versión 
+- Capacidad de trabajar en equipo y habilidades organizativas
+- Profesionalidad, responsabilidad y seriedad
+Requisitos deseables
+- Conocimiento del idioma inglés
+

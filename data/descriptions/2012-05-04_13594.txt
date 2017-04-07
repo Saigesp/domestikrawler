@@ -1,0 +1,35 @@
+
+SIGESA, empresa en constante crecimiento, tiene la necesidad de incorporar a su plantilla y concretamente al Área de Desarrollo y Soporte, a candidatos que cumplan con el perfil adecuado.
+	Nuestro trabajo consiste en desarrollar, implantar y facilitar soporte de una solución informática de nuestra propiedad en aquellas empresas del sector sanitario que lo soliciten para la aplicación de Análisis y Casuística del Episodio Hospitalario. 
+En la actualidad, estamos en un proceso de expansión internacional y buscamos incorporar un candidato a nuestro equipo para reforzar nuestra expansión en el mercado italiano. El candidato estará basado en nuestra oficina de Madrid. 
+Para dicho puesto, es absolutamente imprescindible el conocimiento profundo del italiano y del inglés tanto a nivel escrito como oral. 
+ En principio las personas deberían cumplir una serie de requisitos para ser candidato. A continuación intentaremos realizar un perfil acorde a nuestras necesidades:
+
+Formación
+*Licenciado en Informática
+Idiomas
+*Italiano Nativo o Bilingüe
+*Español Nativo o Bilingüe
+*Ingles Alto
+Funciones
+*Análisis, Diseño Técnico y Desarrollo de nuevos sistemas
+*Diseño, preparación y participación en las pruebas funcionales 
+*Elaboración de documentación 
+*Soporte a usuarios y administración de sistemas expertos y aplicaciones 
+*Oportunidad de participar en proyectos de carácter internacional desarrollados desde Madrid.
+Conocimientos obligatorios (experiencia probada)
+*BBDD ORACLE
+*Programación ORACLE SQL
+*Programación ORACLE PL-SQL
+*Ofimática en general (Microsoft Office)
+Conocimientos valorables
+*Herramientas ORACLE BI (Discoverer, Bussines Intelligence, ..)
+*Herramientas ORACLE BI (Discoverer, Bussines Intelligence, ..)
+*Programación ORACLE Application Express (APEX)
+Otros
+*Trabajo en equipo
+*Disposición al aprendizaje
+*Aptitud para transmitir conocimiento (Imprescindible)
+*Disponibilidad de viajar
+*Jornada completa
+

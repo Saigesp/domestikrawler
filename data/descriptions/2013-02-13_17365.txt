@@ -1,0 +1,17 @@
+
+Somos una startup con la difícil misión de combinar dos mundos que siempre han estado muy desligados: la moda y la tecnología. Hemos sido elegidos por Wayra (Telefónica) como una de las startups más innovadoras a nivel mundial, y con su apoyo estamos revolucionando el sector del e-commerce moda.
+Queremos mejorar nuestro equipo incorporando a un frontend developer con al menos 2 años de experiencia y con ganas de trabajar en una startup con proyección internacional. Buscamos a alguien que sea autónomo y proactivo, y que sepa trabajar codo con codo en un equipo con grandes profesionales multidisciplinares.
+Se requieren conocimientos y experiencia en:
+- HTML5 / CSS3 responsive
+- AJAX
+- Javascript, jQuery
+- PHP
+Se valora adicionalmente conocimientos en el framework Symfony 2 (o similar), en sistemas de control de versiones (Git o similar), en herramientas de diseño (Photoshop, Illustrator,...), y que se tenga gusto para el diseño web, la usabilidad y UX.
+¿Y esto a cambio de qué? Pues ofrecemos:
+- Buen ambiente de trabajo. Somos un equipo joven y muy heterogéneo (la mitad del equipo son estilistas!)
+- Buena ubicación. Nuestras oficinas están en Atocha, mejor comunicación en Madrid imposible.
+- Trabajo a tiempo completo.
+- Posibilidad de incorporación inmediata.
+- Sueldo a determinar según valía.
+- Participar en un proyecto muy innovador; lo nuestro es hacer cosas diferentes.
+

@@ -1,0 +1,12 @@
+
+Buscamos incorporar un Desarrollador AngularJS con al menos 2 años de experiencia para desarrollar soluciones que interactúan en tiempo real con millones de usuarios diarios. 
+Requisitos mínimos:
+– Frameworks Modelo Vista Controlador (MVC) en Javascript, experiencia sólida y demostrable en proyectos utilizando AngularJS.
+– Nivel alto en HTML5, CSS (LESS /SASS) y Templating (mustache, handlebars, underscore, etc).
+– Conocimiento y experiencia en Seguridad (OAuth 2, Cookies, localStorage, sessionStorage) y Optimización de rendimientos Front End.
+– Definición / Ejecución de pruebas en javascript: Conocimiento de librerías (jasmine, qUnit, etc).
+Bonus Points:
+– Experiencia demostrable con algunas de estas herramientas/tecnologías: Yeoman, Grunt, Npm, Bower, jQuery, RequireJS, NodeJS, 
+– Aplicación de Metodologías Agiles: Scrum, Kanban.
+– Aplicación normativa Clean Code.
+– Experiencia en desarrollo SPA (Single Page Application).

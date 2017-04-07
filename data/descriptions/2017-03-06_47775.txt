@@ -1,0 +1,51 @@
+
+Company details: 
+We are based in Madrid, Spain; an amazing place to live and work. It is the core of the Spanish culture, the place where you can savor a fabulous meal accompanied by some of the best wines of the world, a place where you can get steeped in our passion, traditions, kindness and history meanwhile you enjoy flamenco performances, art heritage, football matches, the perfect place not only to let spring our ideas.
+Our Mission:
+At Sofia Square we have a simple mission: “To make people smarter”. 
+We are just focused on people. Students are able to change the world, thanks to the teachers who love to educate them.
+The Job:
+We value design skills, programming ability and teamwork.
+You will be helping the design processes and the implementation of high-performing systems that link students with teachers. 
+During the most part of your time, you will be working on Javascript, HTML5, Android, IOs and hybrid apps. We require experience in our staff but, if you are skilled on other technologies we use, it is always a plus!
+We have recognized a direct lack of a good value proposition in our industry, and we are not okay with it! That is why we actively seek a change through our recruitment and culture to address it.
+We are searching a great co-worker and a practical person, besides a determine developer. Passion, dedication and desire to make the difference is a must!
+Our Culture:
+Hard work, dedication, passion and the desire of changing the life of many people are our grounds, as much as fun and strong team spirit reinforce us!
+We trust on our team!
+What about you?
+Do you consider yourself an open minded, actively cooperative and team hard-worker?
+Do you believe that the diversity, trust, hands-on approach and willingness to learn from each other are the key factors of success?
+Do you consider yourself an ambitious person, passionate about both technology and entrepreneurship?
+Do you have a hands-on mentality?
+Do you speak English and Spanish fluently?
+Do you want to be part of a new Edtech Company which will change the world?
+Do you consider yourself a quick thinker and a proactive person?
+We are putting all our efforts on building a dream team! A true dream team!
+Your Responsabilities: 
+What will you be involved on?
+•	Software engineering
+•	Web and mobile development
+•	Fullstack production process
+Skills & Experience:
+•	+6 months experience
+•	Computer Science Degree 
+•	HTML5, PHP, Javascript
+•	Frameworks: JQUERY
+Desired Skills:
+•	Able to work across all departments and levels
+•	Project leader ability and team management
+•	Ability to get adapted to challenging and changing environment.
+Highly valuable:
+•	Open API’s and webservices
+•	Version control knowledge
+•	SEO 
+ 
+Desirable but not required:
+•	CSS3
+•	React-Native 
+•	Bootstrap
+•	Responsive design and UX
+•	Graphic design
+•	Photoshop, Illustrator, Sketch
+•	CRO

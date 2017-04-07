@@ -1,0 +1,27 @@
+
+AKTIOS CONSULTORA IT de Barcelona, actualmente requiere de un perfil ANALISTA PROGRAMADOR.NET para trabajar en una empresa reconocida a nivel internacional con más de 100 Profesionales del sector IT. 
+Por nuestra parte, explicarte que somos una Consultora IT que trabaja con diferentes empresas y sectores. Actualmente, una de nuestras empresas multinacionales con las que trabajamos de manera Outsourcing, se requiere de un perfil Analista-Programador.NET Senior para poder desarrollar diferentes proyectos dentro de la programación web. Contáctame en xenia.armengod@aktios.com
+Funciones: Analista-Programador, tareas de análisis y programación de un evolutivo, lenguaje, herramientas, metodologías y gestor de datos utilizadas: asp.net, c#, entity framework, modelo MVC, web service, sqlserver 2008 y visual studio 2010 ultimate.
+Planificación de proyectos de equipo con SCRUM.Uso de tecnología ASP.Net con arquitectura MVC y por capas.También uso de Javascript para la programacion client-side.Programación con metodología SOLID, y patrones de diseño. Uso extenso de TFS Server para la coordinación de código con el equipo.
+Las capacidades técnicas que requerimos en este ámbito son conocimientos y experiencia sólida en: 
+- Plataforma .Net (C#, VB, ASP, XAML) 
+- C / C++ - 
+- HTML 5 / XHTML 4.0 + Javascript 
+- XML
+Tecnologias: 
+- WPF - WCF / Wsdl - Silverlight + RIA Services 
+- Entity Framework 
+- LINQ 
+- .Net Compact (PDA) 
+- MVC 3 / 4 / Web API + SignalR 
+- Testing de Visual Studio - Entity Framework 4
+Bases de datos: 
+- SQL Server – MySQL.
+Otros requisitos: 
+Toma requerimientos /- Documentos funcionales / Documentos de diseño técnico.
+Te ofrecemos: 
+• Estabilidad laboral. 
+• Perspectivas de crecimiento y proyección profesional. 
+• Oportunidad de integrarte a un equipo de profesionales altamente cualificados. 
+• Incorporarte en un equipo joven y entusiasta. 
+• Salario a negociar en función de la valía y experiencia.

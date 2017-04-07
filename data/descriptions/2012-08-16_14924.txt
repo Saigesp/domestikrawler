@@ -1,0 +1,13 @@
+
+Hooptap es una aplicación móvil para que las marcas puedan promocionar sus productos en un entorno lúdico, donde las marcas proponen acciones a los clientes, realizar una foto, leer un QR, acudir a lugar y hacer checking, contestar un pregunta, pasalapalabra a otro usuario y los clientes obtienen premios y puntos de forma divertida.
+Buscamos un programador/a Junior, a jornada completa o media jornada
+Requisitos:
+- PHP
+- HTML, CSS, JavaScript (JQuery), AJAX 
+- Mysql
+- Linux
+Se valorará:
+- MongoDB
+- Amazon EC2
+
+Precisamos incorporar un Programador Junior, a jornada completa o media jornada, con conocimientos demostrables en PHP, Mysql y Linux. Formando parte del equipo de Desarrollo se encargará de cubrir las necesidades de nuestros clientes.

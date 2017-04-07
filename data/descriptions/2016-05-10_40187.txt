@@ -1,0 +1,15 @@
+
+Como manager de analítica, formarás parte del departamento de Data y reportarás a la persona responsable de este departamento. 
+Esta persona deberá tener un profundo conocimiento y manejo de las principales herramientas de analítica (Google Analytics, Adobe…) y ser capaz de manejar otras a corto plazo (DMPs, herramientas de atribución…) con el fin de diseñar e implementar soluciones y estrategias.
+Responsabilidades:
+·         Diseño del plan de métrica de la analítica web.
+·         Diseñar e implementar soluciones y estrategias para el tracking (GTM, GA, Adobe, DMPs).
+·         Consultoría con distintos clientes.
+·         Contacto con el cliente para asesorarle en temas de métrica y data.
+·         Dar soporte interno en temas de data y ayudar a la implementación de una herramienta de analítica propia.
+Requisitos indispensables:
+·         Experiencia en consultoría.
+·         Capacidad de gestión de equipos.
+·         Dominio de herramientas de analítica.
+·         Capacidad de desarrollo de estrategias.
+

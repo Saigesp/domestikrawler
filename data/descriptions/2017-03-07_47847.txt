@@ -1,0 +1,21 @@
+
+Se precisa incorporar al área de Soluciones 2.0 una persona  dinámica, responsable, con predisposición de trabajo en equipo y capacidad de comunicación, siendo sus funciones principales:
+•	Desarrollo aplicaciones web utilizando  CSS3, HTML5, Javascript, Bootstrap.
+•	Participación en la construcción e la interfaz de los proyectos Web.
+•	Maquetación de páginas y plantillas (en landing o microsites).
+•	Desarrollo de sitios web administrados (CMS): Wordpress, Joomla, etc.
+•	Participación en la creación y definición de los proyectos: usabilidad, arquitectura de la información, funcionabilidad, etc.
+Requisitos: 
+•	Conocimientos en el desarrollo de aplicaciones Web utilizando HTML 5, CSS3, Bootstrap.
+•	Conocimientos en código abierto JavaScript Frameworks (JQuery).
+•	Conocimientos en desarrollo de sitios web administrados, especialmente Wordpress.
+•	Capacidad para producir un código limpio que se adhiere a los estándares web actuales.
+•	Comprensión del entorno del sistema de compatibilidad con navegadores.
+•	Conocimientos relacionados con la maquetación orientada a dispositivos móviles y amigables a SEO.
+•	Se valorará muy positivamente paquete Adobe: Photoshop, Illustrator, InDesign.
+Condiciones:
+•      Media jornada flexible.
+•      Imprescindible poder firmar convenio de colaboración con universidad o centro de formación. 
+•      Posibilidad real de continuidad en la empresa con contrato una vez finalizado el periodo de prácticas. 
+•     Incorporación inmediata a un equipo de trabajo joven y dinámico.
+•     Formación interna constante.

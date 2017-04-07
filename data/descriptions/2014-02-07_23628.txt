@@ -1,0 +1,17 @@
+
+Desarrollador Senior con los siguientes requisitos imprescindibles:
+- Al menos 2 años de experiencia en proyectos JavaScript
+- Participación proyectos PHP
+- Conocimientos altos JQuery
+- Conocimientos BackboneJs
+- Conocimientos de control de versiones GIT
+Además se valorarán:
+- Conocimientos en HTML5 y CSS
+- Conocimientos en frameworks javascript MVC/MVP (AngularJs, Knockout, ...)
+- Conocimientos básicos en TDD/BDD (Jasmine, qUnit, ...)
+- Patrones de diseño, coding standard y clean code
+- Conocimientos en Symfony2
+- Nivel B2 de inglés.
+Buscamos programadores/as con experiencia profesional apasionados por el mundo web, que quieran participar en un proyecto tecnológicamente puntero integrado por un equipo joven y dinámico. 
+Debe tener experiencia profesional en la construcción de aplicaciones front basadas en JavaScript avanzado y HTML5 , y en frameworks de tipo MVC/MVP, en librerías de pruebas, gráficas.
+El candidato tendrá que realizar tareas de análisis y desarrollo, junto con un equipo de producción multidisciplinar, participar de las mejoras de la herramienta de edición del website builder Zeendo.com (editor de páginas web responsive web design) y proponer soluciones o sugerencias de manera independiente y pro-activa.

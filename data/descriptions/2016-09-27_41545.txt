@@ -1,0 +1,16 @@
+
+Perfil candidato:
+OpenSistemas, compañía líder en España en tecnologías de código abierto y Linux con más de 10 años de experiencia en el mercado busca Analista Java/J2SE sobre Linux. Se requiere titulación media o superior con carrera terminada, nivel medio-alto de inglés, al menos cuatro años de experiencia en las tecnologías core citadas y capacidades demostrables de liderazgo, comunicación, compromiso, proactividad y trabajo en equipo.
+El candidato se incorporará dentro del departamento de Soluciones dentro de un un equipo multidisciplinar y bajo un plan de carrera profesional establecido, trabajando dentro de proyectos de Desarrollo de Sistemas de Fraude y Análisis de Información.
+Formación y requisitos mínimos:
+    Conocimientos y experiencia en desarrollo Java sobre diferentes entornos
+    Experiencia en desarrollo JSP y JavaScript , fundamentalmente JQuery
+    Nivel Linux administración avanzado
+    Bases de datos: SQL, JDBC
+Valorable:
+    Experiencia desarrollo entornos Java Swing
+    Conocimientos C++, DBus y desarrollo Qt
+    Procedimientos almacenados SQL
+    Netbeans
+    Nivel medio-alto de inglés hablado y escrito
+Lugar de Trabajo: Madrid (zona Pío XII)

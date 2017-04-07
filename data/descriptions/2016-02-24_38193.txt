@@ -1,0 +1,21 @@
+
+Funciones y competencias requeridas
+•	Preocupación por la experiencia de usuario, competencias de diseño de interacción del núcleo y un buen entendimiento de la usabilidad.
+•	Gusto por la resolución de problemas, ejecutar soluciones elegantes y disfrutar con la iteración.
+•	Buen ojo para el diseño y el detalle.
+•	Entendimiento del funcionamiento del navegador de forma interna y como afecta a la hora de escribir características con el fin de que sean lo más performant posible.
+•	Sin miedo a los desafíos técnicos.
+•	Apasionado de las nuevas tecnologías y de la solución de ideas ofreciendo ideas frescas.
+•	Tener experiencia y disfrutar trabajando en un equipo de desarrollo Agile.
+•	Disfrutar aprendiendo y compartiendo conocimiento.
+•	Disfrutar con los códigos y los algoritmos.
+•	Entusiasta, motivado, proactivo, autosuficiente pero también orientado al equipo.
+
+Requisitos técnicos:
+•	Sólidos conocimientos en programación con JavaScript y jQuery. Será un plus con-tar con conocimientos estructurados de MVVM framework como Angular.js, Back-bone.js o Ember.js
+•	HTML5/CSS3/Responsive (experiencia requerida en ZURB’s Foundation, SASS)
+•	Experiencia en control versión system como Git, SVN.
+•	Experiencia con  Scrum/Kanban
+•	Necesario codificar utilizadando Test Driven Development (TDD)
+•	Conocimientos de programática (PHP, Python, Ruby) and lenguajes orientados a objetivos
+

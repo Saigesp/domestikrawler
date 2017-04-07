@@ -1,0 +1,17 @@
+
+En Iwantic, seleccionamos para una de las mayores compañías financieras, líder en su segmento, un UX Specialist en Sevilla.
+Reportando directamente al E-Commerce Manager, trabajará en proyectos de desarrollo de aplicaciones web y responsive.
+Entre las funciones a realizar destacan: 
+- Conceptualización, benchmarking, arquitectura de la información, definición de flujos de navegación y del diseño de los prototipos y gráficos finales de las aplicaciones web.
+- Optimización del flujo de venta.
+- Planificar y plantear test A/B.
+- Uso de herramientas de analítica web para la implantación de mejoras y acciones y análisis de resultados.
+Requisitos:  
+- Ciclo Formativo Grado Superior o Titulación universitaria.
+- Al menos 1 año de experiencia en UX.
+Tecnologías:
+- Wordpress
+- Google Analytics
+- Optimizely
+- Javascript, HTML
+ 

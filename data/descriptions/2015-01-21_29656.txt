@@ -1,0 +1,14 @@
+
+Productive Mobile is hiring JavaScript Engineers to join us on our mission to make people more Productive on Mobile.
+As one of the first hires, you'll be hands on from the very beginning, designing the core architecture, setting up standards and taking major technical decisions and developing the backend infrastructure, webapp, mobile app, API, modules and libraries - the full shabang.
+We'll recognize a great engineer when we see one, but ideally, you should have:
+• Multiple years of proven engineering track record using JavaScript, with a strong knowledge of coding patterns in object-oriented programming as well as functional programming. 
+• We are using React.js + Flux but hands-on experience with Angular.js / Knockout.js / Backbone.js / Ember.js is a good start.
+• Good experience with Node.js, both server side and CLIs
+• Should be comfortable with Git and TDD/BDD
+Big plus if you have:
+• Experience with Mobile Web or Native App development, as well as performance engineering.
+• In depth understanding of Webkit/JavascriptCore & Chromium 
+• Knowledge of modern browser capabilities such as Web Sockets, Web Workers, WebGL,  Canvas and HTML5 APIs.
+We are an engineering-centric company working on complex problems. So if you are tired of hacking together libraries from github and up to for some real R&D, drop us a line and we will have a chat.
+This position is located in our Berlin office. Applicants from all over the world are welcome, we sponsor visas if necessary. 

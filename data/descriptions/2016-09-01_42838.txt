@@ -1,0 +1,23 @@
+
+En AKTIOS IT GLOBAL SERVICES estamos reclutando a un ARQUITECTO .NET para posición estable ubicada en Barcelona. 
+Por nuestra parte, explicarte que somos una Consultora IT Global que trabaja con diferentes empresas multinacionales y sectores ofreciendo un posicionamiento de 360º. 
+La información empresarial y nuestros principales clientes los puedes encontrar en nuestra web:  www.aktios.com
+Descripción:
+El Arquitecto formará parte de un equipo de desarrollo .NET, convirtiéndose en referente técnico del equipo de trabajo, y encargado de marcar las directrices de diseño y desarrollo del proyecto.
+Requisitos:
+Experiencia mínima: 
+-	Experiencia en un rol similar
+-	5 años de experiencia en MVC
+Conocimientos:
+-	.NET Framework 4.x
+-	Windows Forms
+-	ASP.NET MVC 4 o superior
+-	javascript, jQuery, AJAX
+-	WCF
+-	TFS
+-	Base de Datos Oracle
+Te ofrecemos:
+• Retribución salarial atractiva.
+• Estabilidad laboral.
+• Perspectivas de crecimiento y proyección profesional.
+• Oportunidad de integrarte a un equipo de profesionales altamente cualificados.

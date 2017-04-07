@@ -1,0 +1,28 @@
+
+Buscamos un desarrollador web para incorporación inmediata en plantilla. Dicha persona será parte de un equipo de trabajo presencial (oficina en Bilbao) ya formado en distintas tecnologías web.
+Buscamos un compañero que se quiera manchar sus manos de barro y aprender todo lo que hacemos en Last Dock, que sea capaz de desarrollar, maquetar y gestionar proyectos, pero sobre todo con capacidad y ganas de aprender con nosotros y enfrentarse a cualquier reto que un cliente nos plantee.
+Requisitos: 
+- Wordpress, ser capaz de crear y modificar plantillas/plugins tanto a nivel estético como funcional. 
+- Conocimientos de usabilidad web
+- Javascript
+- jQuery
+- PHP
+- MySQL
+- Experiencia con HTML5 y CSS3 
+- Experiencia demostrable
+Valoramos:
+- Programas de diseño gráfico (Indesign, Illustrator y Photoshop) 
+- Experiencia con frameworks PHP (especialmente Symfony2) 
+- Experiencia con diferentes frameworks JavaScript 
+- Buen gusto por el diseño, con trabajos demostrable de calidad
+- Experiencia con otros CMS (Prestashop, Magento, drupal,...)
+Aptitudes: 
+- Dinamismo, capacidad de adaptación y aprendizaje 
+- Iniciativa, independencia 
+- Capacidad de trabajo en equipo
+Otras características del empleo: 
+- Flexibilidad horaria 
+- Contrato indefinido con período de prueba 
+- Salario a negociar 
+Zona céntrica de Bilbao bien comunicada.
+

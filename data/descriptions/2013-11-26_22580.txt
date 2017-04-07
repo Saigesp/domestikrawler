@@ -1,0 +1,8 @@
+
+Buscamos desarrolladores web para valorar un proyecto web basado en recopilar datos generados por un juego de plataforma movil que desarrollaremos.
+Con estos datos buscamos generar perfiles de usuarios y un sistema de rankings en base a los datos recibidos (sistema de rankings clásico)
+Otras características suponen generar rankings de equipo, basado en la suma de los individuos seguidores de un mismo grupo.
+Estos rankings y perfiles deben mostrarse en una web con una interface clara, dinámica que pueda generar estadísticas y gráficos (?) basados en los datos recibidos.
+Solo Barcelona.
+Gracias, un saludo,
+Juan Sabater

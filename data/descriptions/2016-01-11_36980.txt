@@ -1,0 +1,42 @@
+
+Estamos buscando varios perfiles  dentro del ámbito de programación y desarrollo para un importante  proyecto, Senior Developer Android para  Barcelona.  El candidato deberá ser una persona apasionada en el desarrollo de aplicaciones para Smartphones y tabletas, orientado a usuario, que le gustan los retos y aprender sobre nuevas tecnologías, centrándose en arquitecturas limpias y código limpio. Esta persona deberá aportar valor a nuestro equipo de desarrollo móvil, por lo que deberá tener un alto nivel de conocimiento en esta área y entusiasmo para aprender y compartir la información. Estamos construyendo un equipo apasionado en Android e IOS, centrado en la calidad del código, valoraremos las ganas de aprender, ambición y el trabajo en equipo. Tratamos de crear aplicaciones complejas utilizando los mejores métodos y nuevas tecnologías. Animamos a nuestro equipo para compartir nuevas ideas y la innovación. Se trabajará en un ambiente informal con un equipo joven, dinámico y altamente calificado.
+Responsabilidades como Developer Senior Android:
+•	Ingeniero/a de desarrollo de aplicaciones móviles. 
+•	Desarrollo nuevas implementaciones de funcionalidades utilizando las mejores prácticas en Android. 
+•	Definir estrategias para la optimización de nuestras aplicaciones existentes. 
+•	Definir junto con el resto del equipo la arquitectura siempre basada en arquitecturas y código limpios. 
+•	Proporcionar aplicaciones móviles con una experiencia de usuario positiva 
+•	Dominio del entorno de desarrollo Android Studio, Eclipse.
+•	Soltura en el manejo y gestión de dependencias Gradle.
+•	Conocer algunas de las librerías más utilizadas en concepto de efectos gráficos (Parallax, picasso...)
+•	Experiencia con Google Play Services
+•	Experiencia en integración con Facebook, Twitter
+•	Amplia experiencia en GIT 
+•	Asegurar que el desarrollo se ajusta a los requerimientos y especificaciones definidas. 
+•	Trabajar estrechamente con control de calidad para garantizar código es limpio, libre de errores y seguro. 
+•	Desarrollo evolutivo y correctivo de las apps. 
+•	Ayudar a la revisión de los desarrollos externalizados. 
+Experiencia / conocimientos: 
+•	Demostrar experiencia de al menos 2 años en aplicación móvil Android. 
+•	Demostrar experiencia en pruebas unitarias y pruebas funcionales. 
+•	Experiencia en el trabajo con la integración continúa. 
+•	Conocer los criterios para el diseño de aplicaciones móviles (usabilidad e interacción). 
+•	Conocimiento en nuevas tecnologías, arquitecturas limpia y codificación de manera disociada. 
+•	Diseño para mejorar la experiencia del usuario. 
+•	Experiencia en el desarrollo de interfaz de usuario orientada al consumidor. 
+•	Tener una mentalidad de mejora continua. 
+•	Conocimiento profundo de metodologías ágiles 
+•	Experiencia en Framework PHP (Symfony, Laravel, Codeignite…) y/o Framework J2EE (Spring, Struts) 
+•	Amplio conocimiento de las diferencias clave entre los diferentes sistemas operativos Android y la interfaz de usuario. 
+•	Experiencia en el uso de servicios web REST y JSON 
+•	Experiencia con Git o SVN para el control de versiones. 
+•	Trabajo en equipos de desarrollo agile. 
+•	Experiencia en aplicaciones en la App de Google Play Store 
+•	Experiencia en la construcción de un SDK y plugins.
+•	Inglés escrito y leído. Se valorará inglés hablado.
+Ofrecemos: 
+•	Trabajar en un equipo de expertos.
+•	Jornada completa. 
+•	Pack de retribución ajustada a la experiencia demostrada.
+•	Oficinas en la Barcelona ciudad.
+

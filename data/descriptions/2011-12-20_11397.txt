@@ -1,0 +1,31 @@
+
+Position Description
+This position is responsible for design implementation, development, maintenance, and support of the front end of web-based applications. This position will work at several phases of the software development life-cycle and will be personally responsible for front-end application appearance and functionality: writing code, compliance testing, documentation, and maintenance. 
+Demonstrate an understanding of business and technical requirements for each assigned project. 
+The individual in this position has a high degree of responsibility and autonomy.
+Position responsibilities:
+• Develop, test, document, and maintain the front end of web-based applications using XHTML, CSS, JavaScript, jQuery.
+• Code HTML E-mails for compatibility with all major email clients, including web based.
+• Keep up to date with a wide range of communications technologies (particularly those related to web development).
+• Design implementation on the Ruby application.
+Position requirments:
+• At least three to five years experience.
+• Expertise in HTML/XHTML, CSS3, JavaScript,, jQuery DOM
+• Experience reading Requirements, Documentation, wireframes and visual specifications documents.
+• Interpersonal/communications skills with the ability to interact effectively with team members and members of other departments.
+• Ability to work in a fast paced / dynamic team environment.
+• Ability to make time estimations and meet deadlines.
+Preferred skills:
+• Experience in New Media, social networking, mobile or game products
+• Familiar with image compression, file correction, and optimization techniques
+• Understanding of UI and user-centered design
+• Intermediate skills with Ruby on Rails, Photoshop/Fireworks, Smarty, jQuery
+• Knowledge of application software testing (unit, integration, and application-level)
+• Familiarity with QA Test Plans and QA Methodologies.
+This position will have a 3 month trial period with possibility to extend to full time employment. 
+Note: Candidates must be able to legally work in Madrid, Spain and be able to speak, read &amp;amp;amp; write in English at a high level.
+Top Reasons to Work at Jobandtalent
+• Challenging, exciting, ‘world first’ project
+• A young multi-national team
+• Care and dedication from the management team and your colleagues – we’re all striving to achieve the common good
+• Salary – to attract the very best.

@@ -1,0 +1,17 @@
+
+Denox es una empresa ubicada en Cádiz y Madrid con experiencia de mas de nueve años en el sector del comercio electrónico, especializados en el desarrollo de tiendas virtuales.
+Seguimos creciendo y necesitamos la incorporación inmediata a nuestro equipo de una persona que se encargue del área de desarrollo y programación frontend/backend en nuestra oficina de Madrid, así como de la asistencia técnica telefónica de nuestros clientes.
+¿QUÉ REQUISITOS DEBES CUMPLIR?
+
+- Tener disponibilidad para INCORPORACIÓN INMEDIATA
+- Que sea un Programador PHPero (Frontend/Backend) y que controle bien de bases de datos MySQL.
+- Alguien que le mole y pilote el Javascript (usamos jQuery y MooTools para nuestros proyectos) y no le de miedo el AJAX.
+- Que tenga experiencia demostrable en proyectos con/sin CMS, y si es con tiendas virtuales ¡aún mejor!
+- Que sepa maquetar en HTML/CSS los diseños desde el PSD facilitado por el diseñador, con capacidad de solucionar problemas de compatibilidad con exploradores (Sobre todo de nuestro querido Internet Explorer).
+TAMBIEN SE VALORARÁ…
+
+- Si ha trasteado con tiendas virtuales bajo osCommerce, Prestashop, Magento o algún otro CMS
+- Si ha trabajado o por lo menos conoce los Frameworks como Yii, Symfony, Codeigniter… 
+- Si a la vez que maqueta va pensando y optimizando la web para posicionamiento (SEO ON PAGE).
+- Si está metido con HTML5, CSS3, microformatos...
+- Si programa para móviles iOS/Android.

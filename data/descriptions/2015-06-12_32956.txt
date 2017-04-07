@@ -1,0 +1,12 @@
+
+About UnPlis
+UnPlis is a new and exciting project in Barcelona. We are trying to adapt the Instacart idea in the Spanish market. Therefore, we will be the first mcommerce that will offer a 1-hour and collaborative delivery service. We will launch the Android version of the app in June.
+Description
+We are looking for a iOS developer to work on the iOS version of our mCommerce app. Design mock-ups and API documentation of backend will be provided. 
+Role description
+- As technical lead you’ll take ownership for UnPlis iOS application development.
+- Create new ideas with our Product to continually iterate on the experience, exploring and prototyping improvements and new features.
+- Maintain high standards of quality through automated testing, continuous integration and automation scripts.
+What we offer
+We are an experienced team in a young startup launching in June 2015. We have been working on the product since January 2015 and we have funding for the app development. The salary and share options would be discussed in the interview depending on the value of the candidate.
+Our office is in Barcelona Activa (Llacuna). We are expecting to expand to other Spanish cities after summer, and internationally in the second year.

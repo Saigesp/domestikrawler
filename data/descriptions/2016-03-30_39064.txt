@@ -1,0 +1,15 @@
+
+Hola, en five is blue estamos buscando desarrolladores front-end con amplios conocimientos de bootstrap y sass, HTML5 y CSS3 con disposición inmediata, se valorará experiencia en PHP y MYSQL.
+El trabajo será presencial en nuestras oficinas de Barcelona en Urquinaona.
+Conocimientos necesarios: 
+· HTML5 / CSS3 
+· Responsive
+· jQuery 
+. Bootstrap & Sass
+· Con ganas de aprender constantemente nuevas herramientas y tecnologías.
+Idealmente:
+· PHP, MYSQL
+· ECOMMERCE
+· Prestashop
+. Magento.
+En five is blue trabajamos para grandes clientes con gran presencia en Ecommerce.

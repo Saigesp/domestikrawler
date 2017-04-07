@@ -1,0 +1,3 @@
+
+Necesito programador familiarizado con el Framework Yii (http://www.yiiframework.com) para realizar una implementación de cambios en una web.
+

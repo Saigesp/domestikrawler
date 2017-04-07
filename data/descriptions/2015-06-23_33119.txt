@@ -1,0 +1,53 @@
+
+Descripción de la empresa
+CoRegistros es una empresa joven enfocada al marketing digital y e-Commerce. Somos expertos en atraer nuevos usuarios a través de Internet y convertirlos en un activo para nuestros anunciantes y negocios online.
+Somos divertidos, creativos y apasionados por el mundo de Internet. Todo el mundo de la empresa es un profesional “A+” con firmes valores y convicciones.
+Estamos en Barcelona, situados en el World Trade Center, un lugar privilegiado rodeado de agua. Valoramos el trabajo bien hecho,  la flexibilidad,  la curiosidad y colaborar para resolver problemas de manera creativa, con un espíritu de mejora continúa. Nuestro equipo celebra los logros y se inspira en el éxito. 
+Descripción de la oferta
+Buscamos un diseñador maquetador apasionado por el Marketing. 
+Nuestro objetivo es muy claro: primero buscamos una excelente persona y segundo  un gran profesional.
+CoRegistros quiere dar la oportunidad a una persona con ganas de crecer profesionalmente junto a nosotros y con un contrato laboral. Somos la empresa pionera en atraer usuarios hacia páginas de concursos y premios y manejamos varias páginas de sorteos alrededor del mundo y también somos propietarios de un e-commerce.
+¿Te apasiona el mundo on-line? Si compartes nuestras inquietudes, come join us!
+Responsabilidades:
+
+Maquetación en HTML de acuerdo a las best practices de la industria.
+
+Responsive design
+
+Gestionar campañas de email marketing utilizando plataformas de envío profesionales, incluido el desarrollo creativo, email set-up, revisión, control de calidad, entregabilidad.
+
+Seguimiento y análisis de las campañas. Control e interpretación de los resultados internamente y para el cliente.
+
+Diseñar y programar formularios y landing pages.
+
+Gestión de bases de datos
+
+Desarrollos a partir de APIs
+
+Diseñar proactivamente, junto con la dirección, estrategias de email marketing, segmentación y test A / B para optimizar el rendimiento
+
+Ofrecemos:
+Contrato laboral 
+Jornada completa
+Formar parte de un equipo joven y multicultural, con un fuerte crecimiento internacional y oportunidades reales de carrera.
+Requisitos:
+
+Estudios mínimos: grado universitario.
+
+Buen nivel de inglés u otra lengua extranjera.
+
+Nivel alto de maquetación HTML/CSS.
+
+Nivel alto de programación PHP, AJAX, JQuery…
+
+Nivel alto en gestión de bases de datos MYSQL.
+
+Experiencia con proveedores de envío, preferiblemente Cabestan
+
+Comprensión y análisis del rendimiento de las campañas.
+
+Capacidad de organización  y atención al detalle con habilidades de gestión de proyectos
+
+Persona convencida de poder aportar valor y que demuestre ganas
+
+El candidato ideal para esta posición debe tener gran capacidad de análisis y excelentes dotes de negociación, así como demostrar un gran interés por mantenerse informado y actualizado sobre email marketing y recomendar las mejores prácticas en la codificación, diseño y pruebas de campañas

@@ -1,0 +1,50 @@
+
+An eager group of self motivated techies constantly working in a fast moving environment.  Working hard to expand our online advertising system  providing live tracking analysis. Creating and managing real time statistics. we process more than 10 million messages day where optimisation is critical. Working in an agile manner to maximise our resources, we are pragmatic and results focused. Supporting non-technical colleagues to work in a flexible manner and see improvements instantly.
+Role Briefing
+This role is perfect for someone who is flexible enough to work in the ever changing digital world and is constantly learning and adapting to new technologies. You will be working on Debian based servers with Java and PHP in tight integration. You will develop and extend web based APIs, work on server side applications for our CRM system and create PHP / Bash scripts to schedule tasks. You will also develop and test new ideas for growth in existing and new markets. “Think outside the box” conveys the ideal mindset needed to be part of the Direct Marketing Team.
+We expect you to take your own responsibilities in our team and will put you in charge of some parts of our system.
+Role Profile
+
+Technical Skills
+Essential:
+2+ years OOP in PHP and JAVA
+2+ years with MySql
+Linux, you know how to cp, mv, rm, cat, tail and grep and are willing to do your work on a Linux Desktop
+You know how to write CLI scripts in PHP
+Desired:
+Run efficient SQL Queries
+Shell scripting (ksh, bourne, bash, csh, etc).
+Cassandra / RabbitMQ
+Eclipse and SVN
+Database optimization
+Knowledge of Big Data
+Soft Skills
+Essential:
+Conversational English
+Able to communicate to all levels
+Results focused
+Excellent time management
+Works well under pressure
+Right to work in the EU
+Desired:
+Organized
+Pragmatic (Problem Solver)
+Additional language
+Leadership qualities
+
+Company Briefing   
+We’re addicted to mobile, marketing and technology. Basebone is a team of thrillseekers; fast, competitive and always looking for new challenges. For us, mobile is the perfect industry, constantly evolving,offering new opportunities and we are always on the lookout for likeminded people.
+During the last 15 years we have become specialists in Carrier Billing, Mobile Marketing and Mobile Entertainment. We have an amazingly creative and innovative team to promote the products we build and monetize them. We’re proud of the reputation we’ve built over the years and treat our customers and partners with outmost care. Our team are committed to us as we are committed to our team and there is an  fantastic work environment, No one said it’d be easy, but nothing worth having is!
+Company Benefits
+We are continually adding and improving our benefits but here are some of the perks we offer:
+Private healthcare
+Complimentary lunches
+Half-day Fridays
+Personal training budgets
+Special hours for new parents
+Life insurance
+Awesome parties
+Daily fresh fruit and as much coffee as you can drink!
+The best team you may ever work with!
+We know that it’s easy to click and apply and there is no saying you even think you’d be good at the job, so if this profile really gets you excited and you think you’d be perfect for us, do something different… check out our video and/or our blogs and and apply directly on our careers page, mentioning where you saw the role, stating why you would be a good fit, how much cash you want and when you could get going! Then we’d know you really want the job (and are ready for it!).
+We´d like to call every candidate who´s applied, but the reality is we have so many applications, it´s just not possible, and half of those are people who are completely inappropriate and just click “apply”. Oh joy. We will always feedback from interviews, however we will only feedback on applications (no interview) if you email us directly. We realise sometimes, a little effort on our part, may help you in your future job search… and what can we say… we are really nice! 

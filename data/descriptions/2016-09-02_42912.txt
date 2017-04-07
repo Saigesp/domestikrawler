@@ -1,0 +1,30 @@
+
+About us
+Brava Fabrics is an apparel ecommerce startup based in Barcelona. All our products are created in Barcelona respecting Fair Trade and carefully manufactured in small productions.
+We are a passionate team of young people who strongly believe that things can be different in the fashion industry.
+We work at Indiana House, our showroom/office in the heart of Poblenou district in Barcelona. 
+What’s the job about?
+We are looking for an IT Software Developer with Project Management skills willing to lead challenging projects in Brava Fabrics.
+He/she will take care of developing our e-commerce, creating automations and dashboards in all business areas and helping to organize the company information.
+The candidate will be very immersed in advanced marketing online tools and will help us to create automations to optimize our marketing campaigns.
+Your role in the company:
+-       Hold responsibility for project delivery and execution of projects.
+-       Code, search for tools and implement all solutions.
+-       Create a development environment: choose the right tools & frameworks,
+-       Create business dashboards in all company areas: Finance, Marketing, Logistics…
+-       Help us automate all the business process that requires a manual, brainless execution.
+-       Hold responsibility in webserver performance and uptime ratios.
+-       Improve our e-commerce adding new features.
+-       Help the team with issues related to computers: e-mail, preparing computers for new team members, printers, network…
+We would like you to be...
+These are our must:
+-       Speak English and/or Spanish almost native.
+-       Computer Science Degree
+-       Experience in developing websites using: PHP, Javascript, CSS and Mysql.
+-       Knowledge of developing for CMS. Prestashop will be highly valuated.
+We will positively value
+-       Experience in Online Marketing using any platform.
+-       Experience using Marketing Online APIs: Google Analytics, Facebook, Google Adwords, Mailchimp.
+-       Knowledge on how to create a development environment: Github, text editors, debuggers.
+-       Experience in ERP Systems.
+-       Experience in business intelligence reporting tools, such as Qlickview or Tableau.

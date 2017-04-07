@@ -1,0 +1,22 @@
+
+En eNubes buscamos un desarrollador web LAMP freelance para nuestro Departamento de Programación y Desarrollo.
+Somos una agencia de comunicación y marketing online/offiline que ofrece soluciones innovadoras a las grandes compañías con un servicio personalizado e integral que abarca la producción audiovisual, el desarrollo de aplicaciones web y móviles, el diseño gráfico, la creación de plataformas virtuales, la analítica de datos y organización de eventos.
+La incorporación sería inmediata y el salario será presupuestado por el freelance según el proyecto a desarrollar.
+Conocimientos requeridos: 
+•	PHP.
+•	MySQL.
+•	JavaScript.
+•	jQuery.
+•	CSS3.
+•	AJAX.
+•	HTML5.
+•	Frameworks tipo Zend y/o Codeigniter.
+•	Maquetación Responsive y Crossbrowsing.
+•	Webservices.
+Valorables:
+•	Desarrollo de aplicaciones para IOS y Android
+•	Conocimientos de procesadores LESS/SASS
+•	Diseño gráfico 
+•	Photoshop 
+•	Servidores 
+•	CMS: Joomla, Drupal, Wordpress, etc. 

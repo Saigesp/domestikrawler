@@ -1,0 +1,13 @@
+
+Buscamos un desarrollador con experiencia en desarrollo de aplicaciones móviles para incorporarse al equipo de desarrollo y diseño de Creadsmedia. Trabajará en proyectos multi-dispositivos (web,smartphone, tablet) en el ámbito de soluciones de movilidad para empresas.
+Las soluciones incluyen portales B2B, e-commerce (web/móvil), aplicaciones de marketing y ventas. Puedes consultar alguno de nuestros proyectos en http://www.creadsmedia.com/web/projects
+Necesitamos un profesional con conocimiento y experiencia demostrable en desarrollo con:
+- Aplicaciones móviles para iOS: Objetive-C, Cocoa Touch, xCode, CoreData 
+- Desarrollo de web services usando JSON y PHP, tecnologías REST, XML, SOAP.
+- Inglés técnico
+
+Se valorará:
+- Experiencia en desarrollo de aplicaciones nativas con Android 
+- Desarrollo de APIS con redes sociales.
+- Experiencia con PHP, HTML5/CSS3/JS
+- Gestión de servidores Linux, Apache, MySQL

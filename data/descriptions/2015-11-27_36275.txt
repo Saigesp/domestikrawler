@@ -1,0 +1,23 @@
+
+En Betaminders queremos seguir creciendo en innovación y mejorando la integración digital de las compañías y clientes para las que desarrollamos soluciones tecnológicas. Más móvil que nunca. Más iOS que nunca.
+Y es por eso que buscamos ampliar nuestro equipo de techies con un desarrollador Full Stack con experiencia desarrollando apps móviles de calidad en iOS y con pasión por diseñar e implementar los mejores recursos para potenciar la experiencia de usuario móvil.
+En definitiva, de ti buscamos los siguientes superpoderes:
+
++ de 1 año de experiencia desarrollando con objective C y/o Swift
+Experiencia con Git
+Experiencia en comunicación con servidores REST, SOAP, OAUTH, etc.
+Experiencia en los procesos de subida y validación en la App Store
+Experiencia trabajando con XCode, Instruments y simulador de iOS
+Experiencia desarrollando con tests unitarios
+Buenas capacidades comunicativas en inglés (que pueda mantener una conversación con nuestro equipo de marketing y ventas)
+Otros superpoderes valorables:
+Conocimiento de herramientas como CocoaPod, AutoLayout y frameworks de testing.
+Haber trabajado con PHP y alguno de sus frameworks como Symfony2, Cake, Laravel...
+Experiencia en el uso de herramientas de analítica móvil
+
+Qué puedes encontrar en nuestra "BetaCueva":
+
+Un equipo joven, multidisciplinar, muy techie y "friki"
+Una oficina amplia, luminosa, con buen ambiente y bien comunicada (Nervión).
+Horarios flexibles
+Vacaciones flexibles

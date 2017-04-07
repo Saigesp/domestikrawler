@@ -1,0 +1,27 @@
+
+About us: 
+We are a dynamic startup company with international projects and high growth potential. We have creative business ideas and are a team of young and highly motivated professionals.
+We are we looking for: 
+A highly motivated person with enthusiasm for coding and deep knowledge in the development of J2EE web applications. The main task will be the development of an e-learning web platform. The duration will be 6 month with the option to extend the contract. You can find out more about us on www.inovum-solutions.com
+Minimum requirements: 
+- Excellent knowledge in Java/JEE
+- Experience with JSP, JavaScript and web page design
+- Practical Experience with Spring MVC or other MVC Frameworks
+- Hibernate and MySQL
+- Ability to be artistic, aesthetic and creative within the web 2.0 environment
+- English fluent
+- No remote work, we have a beautiful office close to Arc de Triumf in the center of Barcelona
+Desirable requirements: 
+- Programming Knowledge in Android or iPhone 
+- Eclipse, JUnit, Maven, Log4J, i18n, Tiles, Svn
+- HTML 5
+- Linux Ubuntu, Tomcat
+- Test driven development
+- Spanish or German language skills
+
+We offer: 
+- A young dynamic startup where you can contribute with your own ideas
+- freelance or temporary contract.
+- Interesting international projects to expand your knowledge
+- Flexible hours
+- Attractive remuneration 

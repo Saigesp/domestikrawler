@@ -1,0 +1,7 @@
+
+We’re putting together a small agile team to redefine B2B ecommerce — we’re funded and even have customers lined up. We just need to build a great product platform!
+Are you up for doing web app backends and devops, classy frontends, real-time dashboards or critical APIs? Starting ASAP.
+We offer flexible working from a coworking space, and potentially splitting time between your city and another such as Paris, Barcelona, London, Berlin, Lisbon… (But sorry, we won’t consider applicants who can only work remotely.)
+You should have at least several years Linux/OS X web dev experience (Windows just won’t cut it), and not be scared of continuous deployment, dCVS, or white fluffy things (clouds, ahem). We’re currently looking to fill two roles, working with the architect, but full-stack would be awesome.
+1. Backend — you’ll need to be ready to pick up( we&amp;#39;ll help) and run with languages and tools you may not be familiar with (Lua, Go, Node.js, Nginx, Redis, MongoDB, …?!), bonus points for some devops experience. Up to €55k for full-stack.
+2. Frontend — we’ll consider both juniors and pros alike if you can demonstrate strong Javascript, CSS skills, and wrangling with IE. Bonus points for an understanding of UX. From €25k for junior.

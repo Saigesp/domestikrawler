@@ -1,0 +1,6 @@
+
+Se busca programador freelance con experiencia en iPhone y Android principalmente para desarrollar una aplicación para estos dispositivos. es necesario que el candidato tenga experiencia propia como desarrollador, bien haciendo aplicaciones para Android o para iPhone, y demostrable que es el autor de la aplicación. Abstenerse candidatos que no tengan la más mínima experiencia en programar para terminales móviles de algún tipo. Indispensable capacidad de facturar.
+Requisitos Valorados:
+- Programación en iPhone y Android demostrable
+- Programación para iPhone, iPad, Blackberry o J2ME
+- Programación en .NET , ASP o PHP

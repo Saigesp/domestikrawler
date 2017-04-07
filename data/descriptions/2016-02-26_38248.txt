@@ -1,0 +1,30 @@
+
+[b]Funciones requeridas:[/b]
+Como Programador/a sénior para integrarse en equipo de trabajo para implementar nuevo sistema orientado a ofrecer soluciones de sistemas logísticos y de almacenaje.
+-Diseño técnico, análisis y programación.
+-Pruebas unitarias, integradas y de calidad del software.
+-Conocer las soluciones técnicas actuales y hacer propuestas de mejora.
+-Conocer y comprender las características y lógica de funcionamiento de los productos de la Compañía
+Se ofrece:
+-Incorporación a equipo de trabajo altamente cualificado.
+-Proyecto estratégico.
+-Contrato indefinido.
+-Jornada completa: 8:00 a 17:05 o 9:00 a 18:05
+Requisitos:
+-Titulación universitaria media o superior, preferiblemente Informática o Telecomunicaciones (sin descartar otras titulaciones universitarias).
+-Años de experiencia: Más de 5 años
+-Lenguajes: C# (.NET Framework 4.0 y superior), javascript, JQuery.
+-Desarrollo sobre arquitectura WEB: ASP.NET / WebForms / MVC 4.x/5.x.
+-Desarrollo con arquitecturas y tecnologías orientadas a servicios web: WCF / REST / WEB -API.
+-UI: basados en AJAX / Json.
+-Bases de datos relacionales: MySQL y/o SQL Server 2008 o superior.
+-ORM: EF5 o superior.
+-Repositorios: SVN y TFS.
+Se valorará: 
+-AngularJS
+-Experiencia en desarrollo aplicaciones gráficas y/o CAD.
+-Conocimientos de frameworks de dibujo y motores gráficos, 2D y 3D
+-Lenguajes: HTML5.
+-Bases de datos relacionales (embebidas): SQLite3, SQLDB.
+-Real-time frameworks: SignalR, XSockets, etc
+-Bases de datos no relacionales: RavenDB o similares.

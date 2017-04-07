@@ -1,0 +1,16 @@
+
+Iplusd Innova S.A. busca un perfil de diseñador y maquetador  web para el diseño y la maquetación del front-end de una plataforma Web destinada a turismo para personas con discapacidad o turismo accesible. Esta plataforma se desarrolla con tecnologías de inteligencia artificial en colaboración con el Instituto de Investigación en Inteligencia Artificial del CSIC.
+Se trata de un proyecto innovador, de alto contenido tecnológico y financiado por el Centro para el Desarrollo Tecnológico Industrial con el que la empresa busca posicionarse en el negocio del turismo accesible o turismo para todos, a través de internet. 
+La persona contratada realizará las tareas de diseño y maquetación de la plataforma Web a partir de las especificaciones funcionales y eventualmente podrá realizar tareas de programación Java.
+Requisitos mínimos: 
+- Experiencia mínima de 2 años
+- HTML, XHTML, HTML5 y CSS3
+- JavaScript, jQuery yAjax
+- W3C, estándares web, usabilidad yaccesibilidad(WAI)
+- Responsive web design
+- Cross-browser
+- Social networking
+Requisitos deseados: 
+- Conocimientos de programación Java/J2EE
+- SEO y SEM
+

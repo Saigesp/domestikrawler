@@ -1,0 +1,46 @@
+
+Empresa Unience
+Localidad madrid
+Red Social de Inversores, que comparten conocimiento. Incluye servicio de gestión de carteras reales de Fondos y acciones, creación de carteras simuladas, grupos, blogs, reputación e integración con otras redes sociales. Lugar de encuentro para inversores, asesores financieros, gestores, entidades financieras y empresas cotizadas. Startup que lanzó actividad en Madrid en 2009 con vocación Internacional, espíritu emprendedor y líder en España en su sector.
+Buscamos:
+Desarrollador Junior Java con las siguientes responsabilidades
+• Ser miembro junior del equipo de desarrollo.
+• Trabajar estrechamente con el equipo de calidad de software.
+• Colaborar proactivamente con el área de Sistemas y Seguridad.
+
+Ofrecemos:
+Contrato indefinido con un periodo de prueba inicial de 6 meses.
+• Rango salarial: 20.000€ – 25.000€
+• Participación en el éxito de la compañía mediante un plan de incentivos.
+• El puesto es en España pero se ofrece un posible desarrollo profesional en Estados Unidos
+Requerimos:
+• Capacidad para asumir responsabilidades con un alto grado de autonomía y automotivación, resolviendo problemas complejos y cumpliendo hitos de manera sostenida.
+• Capacidad de esfuerzo y compromiso necesarios para cumplir unos objetivos ambiciosos marcados en el entorno dinámico de una start-up.
+• Capacidad para trabajar en equipo.
+• Alto nivel para las relaciones interpersonales.
+• Actitud de búsqueda permanente de la excelencia.
+Más de 2 años de experiencia como desarrollador de aplicaciones J2EE.
+• Conocimientos de frameworks de presentación web de aplicaciones java como struts2, spring, grails...
+• Capacidad para escribir y revisar código en XML, HTML, JSP, CSS y javascript.
+• Conocimientos de frameworks AJAX, preferiblemente Mootools o JQuery.
+• Acostumbrado a trabajar con IDE’s como Eclipse.
+• Conocimientos de frameworks O/R preferiblemente JPA, Hibernate.
+• Acostumbrado a trabajar en entornos Apache, Tomcat, MySQL.
+• Conocimientos de sistemas de control de versiones
+• Conocimientos de sistemas de pruebas unitarias como Junit. Uso de Ant.
+• Inglés 
+Deseamos:
+Capacidad para diseñar, desarrollar, codificar, realizar pruebas unitarias y depurar aplicaciones complejas orientadas a objetos.
+• Conocimientos de metodologías ágiles como Scrum o XP.
+• Familiarizado con entornos de cloud computing como Amazon Web Services.
+• Alguna experiencia en aplicaciones financieras o estadísticas y en el desarrollo de algoritmos matemáticos.
+
+Salario:
+20.000-25.000 €
+Experiencia:
+1 a 3 años
+Idiomas:
+ingles
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa

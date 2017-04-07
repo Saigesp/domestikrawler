@@ -1,0 +1,8 @@
+
+Estamos montando un proyecto que va a revolucionar el mundo de las ventas.
+Estamos buscando un desarrollador Joomla con experiencia en:
+- PHP para Joomla. 
+- Desarrollo front-end y, sobre todo, back-end.
+- Desarrollo y modificación de extensiones.
+- Modificación y adaptación de templates.
+Si no eres un crack de Joomla, creemos que esto no es para tí.

@@ -1,0 +1,18 @@
+
+En Grupo Sothis estamos colaborando con la selección de un Ingeniero Backend Senior para Mercadona.
+Se requiere:
+Titulación: 
+Titulación universitaria en Ingeniería Informática
+Experiencia:
+- Diseño de arquitecturas de Software
+- Desarrollar siguiendo principios SOLID y Clean Code
+- Conocimiento y uso de patrones de diseño
+- Experiencia en crear APIs Rest perfectamente diseñadas
+- Experiencia con bases de datos relacioneales y No SQL
+- Deseable experiencia con buscadores como ElasticSearch
+Aptitudes y conocimientos técnicos:
+- Pasión por hacer un buen software
+- Responsabilidad para hacer un código del cual sentirse orgulloso
+- Seguir los principios del código limpio
+- Experiencia usando Git en equipos grandes de desarrollo
+- Persona detallista y proactiva

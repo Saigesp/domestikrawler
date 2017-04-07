@@ -1,0 +1,15 @@
+
+Precisamos la incorporación de una/a Programador/a Web, con sólida experiencia en Programación PHP y Symfony.
+Sus funciones serán:
+- Analizar proyectos de nuevos sistemas y módulos web.
+- Desarrollar módulos web, realizar pruebas, implementar y realizar el mantenimiento de los sistemas.
+- Dar soporte al usuario en el manejo de las aplicaciones.
+- Proponer y crear componentes para mejorar la gestión de trabajos habituales de mantenimiento.
+Se requiere:
+- Formación Superior en Informática, con experiencia en programación en PHP y Symfony.
+- Diseño de bases de datos relacionales (MS-SQL y MySQL).
+- Programación en SQL.
+- Inglés alto.
+Será valorable:
+- Experiencia con metodologías ágiles.
+- Conocimientos de MS Dynamics AX.

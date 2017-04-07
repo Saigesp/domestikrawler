@@ -1,0 +1,19 @@
+
+Belibe Salud es una empresa tecnológica centrada en el mundo de la salud y con una amplia vocación de crecimiento y servicio al cliente que quiere incorporar a su equipo un Programador Web que cumpla los siguientes requisitos:
+Requisitos Imprescindibles:
+· Tecnologías web básicas de frontend (html5, css3, javascript).
+· Bootstrap, jQuery, ajax, etc.
+· Experiencia con PHP5 o PHP7.
+· Dominio de SQL.
+· Experiencia programando con el patrón MVC.
+· Conocimiento de algún CMS de e-commerce (preferiblemente Prestashop).
+· Experiencia con Linux.
+Requisitos Deseados:
+· Experiencia con Python.
+· Uso de Git o algún otro sistema de control de versiones.
+Qué valoramos:
+- Capacidad autoresolutiva y positividad.
+- Actitud abierta y creativa.
+- Adaptabilidad frente al cambio.
+- Iniciativa y ganas de aprender.
+Ofrecemos un proyecto de una empresa del siglo XXI con un equipo altamente comprometido, un ambiente colaborativo y divertido y la capacidad de crecer profesionalmente al máximo ritmo.

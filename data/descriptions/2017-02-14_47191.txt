@@ -1,0 +1,14 @@
+
+Somos una empresa de desarrollo Frontend y UX y estamos buscando en estos momentos desarrolladores frontend en modalidad freelance.
+Sería para hacer desarrollos en remoto, por proyectos y de forma continuada.
+Requisitos: 
+- Experiencia en desarrollo de frontend (mínimo 3 años) 
+- Buen manejo de frameworks JS como(jQuery, Angular, React, Backbone…) 
+- Sistema de control de versiones (GIT)
+- Conocimientos de pre-procesadores de CSS (SASS/LESS)
+- GULP, Grunt, Yeoman, etc.
+- Dominio de maquetación responsive mediante utilización de Bootstrap, Foundation o Angular Material 
+- Capacidad de trabajar en equipo y habilidades organizativas 
+- Profesionalidad y responsabilidad en el cumplimiento de las entregas pactadas
+Valorable:
+- Conocimientos mínimos de manejo de un servidor Apache y Amazon WS para montar un entorno de desarrollo y de producción para los proyectos

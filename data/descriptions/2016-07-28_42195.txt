@@ -1,0 +1,10 @@
+
+Informatico en practicas para protocolos de seguridad en wordpress / prestashop.
+Migraciones, altas nuevas, gestión de correos.
+Dirección y Gestión de proyectos informáticos.
+Consultoría Informática tanto técnica como estratégica.
+Diseño de Sistemas Web: comercio electrónico, enseñanza electrónica, gestión de relaciones con los clientes (CRM), etc.
+Diseño de sistemas, protocolos y servicios de telecomunicaciones.
+Seguridad e Integridad de los sistemas informáticos y las comunicaciones.
+Diseño de Sistemas Digitales y basados en microprocesadores.
+Programación de aplicaciones que requieran técnicas de ejecución paralela, concurrente, distribuida y de tiempo real.

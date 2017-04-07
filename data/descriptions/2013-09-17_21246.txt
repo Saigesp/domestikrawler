@@ -1,0 +1,23 @@
+
+MyValue (www.myvalue.com) nace en enero de 2012, como la mejor herramienta online para que el usuario pueda ver y controlar en una sola web todas sus cuentas bancarias, sus movimientos, sus activos, sus productos financieros o a su cartera de inversión, aunque sean de distintas entidades. Así, ayuda a cada persona a clasificar y vigilar sus finanzas, ofreciendo la “foto” más completa de su situación y a gestionar de forma más eficiente el dinero, evitando gastos innecesarios. El usuario conecta directamente con sus bancos y clasifica todos los movimientos de sus cuentas en ingresos y gastos (vivienda, comida, ocio, viajes, etc.). 
+FUNCIONES:
+•	Adaptaciones de la web  sobre guía de estilo existente (nueva imagen en slider, secciones)
+•	newsletters, banners, microsites, emailings
+•	Diseños para app (banners de publicidad, modales)
+•	Diseños puntuales de material  offline sobre guía de estilo existente (papelería, leaflet, roll-up)
+
+IMPRESCINDIBLE:
+•	HTML5
+•	CSS3
+•	Javascript, nivel medio
+•	Desarrollo cross browser
+•	Capacidad de aprendizaje e innovación
+DESEABLE:
+•	Nociones de responsive design
+•	Maquetación para dispositivos móviles
+•	Diseño web / diseño de interacción
+•	Conocimientos de UX
+EXPERIENCIA:
+Experiencia laboral previa ejerciendo estas funciones
+HORARIO:
+9.00-14.00

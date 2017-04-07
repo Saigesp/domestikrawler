@@ -1,0 +1,7 @@
+
+Buscamos un programador autónomo con disponibilidad para trabajar con el equipo in-house en proyectos puntuales.
+Requisitos:
+·         Dominio del front-end, JavaScript (con jquery, mootols…), css y flash para dar soluciones de alto nivel a la web
+·         Experiencia en maquetaciones accesibles enfocadas a SEO y dispositivos móviles e integraciones con redes sociales (facebook, twitter)
+·         Conocimientos de back-end, php, conexión mediante ajax, y consulta sobre base de datos
+·         Se valorará experiencia en maquetación sobre cms

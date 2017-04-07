@@ -1,0 +1,14 @@
+
+We are looking for a hands-on hacker on helping the development of our social gaming platform on Web, Facebook &amp; Mobile.
+Requirements:
+* 5+ Years of PHP5 OOP Developer Experience.
+* Deep knowledge of AJAX, MooTools, REST, JSON.
+* Deep knowledge of HTML5, CSS3.
+* Deep knowledge of Web, Facebook &amp; Mobile Arch.
+* Knowledge of PhoneGap
+Bonus Qualifications:
+* BS or MS in Computer Science or Equivalent.
+* Knowledge of Doctrine ORM.
+* Knowledge of Agile, TDD, Continuous Deployment / Integration.
+* Knowledge of Objective-C, iOS Platform.
+* Knowledge of Java, Android Platform.

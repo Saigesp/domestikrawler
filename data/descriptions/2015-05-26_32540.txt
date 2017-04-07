@@ -1,0 +1,15 @@
+
+En BrainSINS ofrecemos un servicio SaaS de personalización de tiendas online. En la actualidad damos servicio a clientes en 10 países distintos, aunque con mayor énfasis en España y Estados Unidos, donde contamos con oficinas propias. Debido a una importante fase de internacionalización y crecimiento, estamos buscando un perfil de front-end y soporte, para asistir desde nuestras oficinas de Madrid en las integraciones a nuestros clientes en todo el mundo.
+Buscamos una persona resolutiva, autónoma, con iniciativa y que se integre fácilmente en nuestro equipo de desarrollo y soporte. Las labores fundamentales de este perfil serán las de asistir a nuestros clientes en la integración de nuestros servicios en sus tiendas online, así como dar soporte a nuestros actuales y futuros clientes.
+¿Qué es lo que tienes que saber para optar a este puesto de trabajo?
+	* Nivel alto de inglés, tanto hablado como escrito
+	* Tecnologías imprescindibles: HTML, CSS, JavaScript, XML y JSON
+	* Tecnologías que valoramos mucho: PHP, JQuery, Interfaces REST, CMS ecommerce, servicios AWS
+	* Capacidad de trabajo en equipo
+	* Ser amable y resolutivo con nuestros clientes
+¿Qué ofrecemos?
+	* Empresa en importante fase de crecimiento, con continuos retos
+	* Retribución adecuada, a convenir, según aptitudes y experiencia
+	* Formación en herramientas punteras de soporte (Zendesk), CMS de ecommerce (Magento, Prestashop), servicios en nube (AWS) y relación con herramientas punteras Big Data (Cassandra, Kinesis)
+	* Oficina en Majadahonda, a 5 minutos andando desde la estación de cercanías. Sabemos que no está en el centro de Madrid, pero disfrutarás de nuestra terraza para salir a tomar el aire, piscina en verano y unas fabulosas barbacoas cada 2 meses con profesionales del eCommerce
+        * Posibilidad de flexibilidad laboral (híbrido teletrabajo/presencial)

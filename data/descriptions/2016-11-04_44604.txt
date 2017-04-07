@@ -1,0 +1,21 @@
+
+¿Quiénes somos?
+Desygner (www.desygner.com) es una start-up tecnológica con base en Gold Coast, Australia. Es una herramienta de diseño online colaborativa, con app para Android e iOS. Llevamos 7 meses en beta pública y rondamos los 200.000 usuarios en más de 180 países.
+El proyecto ha nacido en Australia y nuestra base de operaciones se encuentra en la meca del surf: Gold Coast. Gran parte del equipo reside en Australia, pero otra parte se encuentra distribuida: España, USA, Brasil, Rusia...
+¿A quién buscamos?
+Buscamos a alguien a quien le guste el desarrollo y el diseño. Con muchas ganas de aprender en un proyecto en el que se puede crecer junto a la empresa. Alguien con una base de programación sólida e interés en interfaces y usabilidad. Nuestro stack tecnológico involucra muchísimas tecnologías. Debe manejar JavaScript a todos los niveles: librerías, frameworks, template engines, build tools, node, etc... hasta JavaScript puro. Y que se defienda muy bien con CSS (preprocessors, animaciones, etc).
+
+¿Qué podemos ofrecerte?
+Trabajar en una start-up tecnológica, con condiciones flexibles y con la posibilidad de crecer hasta dónde uno se marque.
+Posibilidad de trabajar en un proyecto ilusionante, con mucho potencial y con unas perspectivas de crecimiento masivo y rápido.
+Trabajar con el CTO y el desarrollador jefe de la start-up.
+Aprendizaje: mentoring, uso de un stack tecnológico de primera, apertura al uso de nuevas tecnologías…
+Opciones de visitar y trabajar en un ambiente con muy rollo en Australia.
+Auto-gestión de horarios y esfuerzos, trabajando en iteraciones y plazos.
+
+¿Qué necesitas tener?
+JavaScript (clean code) y CSS (buen gusto). Estas son las habilidades principales que estamos buscando.
+Inglés: El equipo es multicultural, todos hablamos inglés todo el tiempo (sí, el código está en inglés). 
+Dentro del gran mundo JavaScript suman los “sospechosos habituales”: libraries, frameworks, ES6, build tools, testing tools, etc. Pero también (y más de hecho) otros: canvas, SVG y herramientas gráficas (Three.js, D3.js, Snap.js)
+Además de lo ya comentado toda experiencia es positiva: experiencia backend (PHP: Symfony, Codeigniter, Java: Play, Ebeans, Rest APIs, ...), experiencia en AWS, DB (MySQL, Redis, Dynamo), Linux.
+

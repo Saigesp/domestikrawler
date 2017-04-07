@@ -1,0 +1,14 @@
+
+Unique, consultoría multinacional de RRHH selecciona para importante empresa pionera en la creación y comercialización de software de simulación busca incorporar un/a programador/a junior c/ c++ con QT/Open GL.
+Requisitos:
+- Conocimientos avanzados de programación en lenguaje C/C++
+- Conocimientos medios de programación gráfica (openGL)
+- Conocimientos medios de programación de redes (sockets y protocolo TCP)
+- Conocimientos de programación de interfaces gráficas de usuario, especialmente Qt.
+- Buen nivel de inglés
+Se requiere Licenciatura / Ingeniería Superior y Al menos 2 años de experiencia
+-Ingeniero/a Informático o Carrera Técnico/a (física/Matemáticos/as).
+-Experiencia/Conocimiento en desarrollo de interfaz gráfico, preferiblemente con QT/Open GL.
+- Experiencia/ Conocimiento programación de redes. 
+-Manejo de herramientas de diseño gráfico.
+Inglés: Nivel Alto

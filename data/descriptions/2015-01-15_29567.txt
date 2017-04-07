@@ -1,0 +1,4 @@
+
+Estamos seleccionando un front-end con conocimientos de maquetación HTML5 y CSS3 y programación JQuery. El desarrollo del CSS lo trabajamos con LESS por lo que es aconsejable conocimientos en esta materia. Buscamos un perfil más técnico que de diseño.
+El trabajo es presencial en nuestras oficinas de Valencia y consistirá en maquetación de las webs, sobre todo responsive design, por lo que tener experiencia en este aspecto sera un plus.
+Se valorarán conocimientos de CMs como Wordpress y Prestashop sobre todo, ademas de PHP.

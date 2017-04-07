@@ -1,0 +1,19 @@
+
+Los requisitos que buscamos son:
+Programador PHP Freelance con mínimo 5 años de experiencia.
+
+* Requisito vivir en Madrid para trabajo presencial. 
+- Imprescindible incorporación inmediata.
+- Dominio de programación en PHP.
+- Dominio de maquetación CSS y HTML.
+- Dominio de Javascript (JQuery).
+- Soltura de Photoshop.
+- Aptitudes de una buena usabilidad.
+- Estandarización W3C.
+Valoraremos tu know-how en:
+- Desarrollos con Drupal.
+- Desarrollos con WordPress.
+- Desarrollos con Magento y PrestaShop.
+- Conocimientos de ASP.
+También se valorará:
+- Conocimientos de Ruby on Rails.

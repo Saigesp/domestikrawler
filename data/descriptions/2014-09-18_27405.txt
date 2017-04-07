@@ -1,0 +1,15 @@
+
+Requisitos:
+- Programación de front end.
+- Programación de back end. 
+- Acceso a base de datos
+Necesario experiencia en todas o algunas de las siguientes tecnologías:
+- Javascript, HTML5, CSS3
+- Bootstrap
+- EmberJS
+- apiREST
+- Phyton
+- Django
+- MySQL
+- Neo4j
+Formarás parte del Laboratorio de Desarrollo dentro del área de I+D+i.

@@ -1,0 +1,6 @@
+
+Buscamos un front end developer y UI designer con experiencia en interface design, user experience y technical integration para implementar la nueva versión del site de www.promocionesfarma.com.
+Colaborará con diseñadores y expertos de usabilidad externos para crear el diseño e implementar la maquetación, y con el equipo de backend para integrarlo en la plataforma, creando un site atractivo, con flow usable e intuitivo y una experiencia de usuario consistente. 
+Son necesarios conocimientos y experiencia en HTML5, CSS3, UI kits (Bootstrap), CSS preprocessors (Compass, LESS), responsive design,  herramientas de diseño como Photoshop e Illustrator, y tener una vena artística.
+Familiaridad con Zend Framework, Javascript, jQuery, y Smarty es un plus.
+Es deseable además experiencia con servicios de marketing como Google Analytics, SEO/SEM, Captación (Google Tag Manager, Criteo), herramientas de test A/B y plataformas de newsletter.

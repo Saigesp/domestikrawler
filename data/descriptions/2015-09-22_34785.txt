@@ -1,0 +1,25 @@
+
+Tecnologías
+PHP, Yii, Symfony, Solr, TDD, Javascript, MySql, PHPUnit, RabbitMQ, Memcached, Git
+Descripción
+La persona que buscamos ha de ser entusiasta del código que produce, creativa en la búsqueda de soluciones y dispuesta a afrontar nuevos retos profesionales.
+Responsabilidades:
+-	Colaborar en un equipo de desarrollo ágil
+-	Desarrollar nuevas funcionalidades para nuestros productos
+-	Aplicar buenas prácticas de desarrollo (Clean Code, TDD, etc)
+-	Contribuir con nuevas ideas y conocimientos
+Requisitos: 
+-	Experiencia en desarrollo web mínimo 2 años.
+-	Ser exigente con la calidad del trabajo realizado. 
+-	Experiencia con al menos un framework moderno (Yii, Symfony2, Laravel, etc)
+-	Experiencia con MySQL
+-	Experiencia con cachés del lado servidor (Redis, Memcached)
+-	Experiencia con motores de búsqueda (Solr, Lucene, ElasticSearch)
+-	Experiencia con unit testing (PHPUnit)
+-	Conocimientos básicos de tecnologías frontend (HTML5, CSS3,Javascript, jQuery)
+-	Conocimientos en control de versiones (Git, git-flow) 
+Deseables:
+-	Experiencia con sistemas de encolado de mensajes (RabbitMQ, SQS)
+-	Experiencia desarrollando y consumiendo APIs REST
+-	Experiencia con tecnologías AWS (EC2, S3, Cloudfront)
+

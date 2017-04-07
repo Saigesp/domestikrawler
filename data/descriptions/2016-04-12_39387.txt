@@ -1,0 +1,11 @@
+
+Necesitamos incorporar en la empresa un programador php para incorporarse de manera inmediata a nuestro equipo. Abstenerse freelance: 
+Requerimientos:
+- Conocimientos de desarrollo de Temas para Wordpress (CPTs, Schema, Jerarquía de plantillas, Customizer).
+- Conocimientos de desarrollo de Plugins para Wordpress.
+- Conocimientos de Javascript.
+- Maquetación en SCSS, experiencia con Bootstrap.
+Se valorará: 
+- Dominar Gulp.
+- Experiencia con ReactJS, ES6, JSX.
+- Experiencia con Laravel.

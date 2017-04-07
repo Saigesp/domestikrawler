@@ -1,0 +1,37 @@
+
+QA Engineer
+Based in our Madrid Headquarters
+What is packlink?
+PackLink (www.packlink.com) is a disruptive online comparison, booking and management service for all shipping needs, a young and upbeat company experiencing extreme international growth. 
+The service first launched in Spain in 2012, making headlines and partnering with major national and international couriers, integrating with their booking and parcel tracking systems. Our success to date has taken us to new horizons and we’re already present in Spain, Germany and France. PackLink is backed by renowned international investors and we’re experiencing tremendous growth and international expansion. 
+Today, we offer consumers, e-commerce sites and SMBs a fast and easy way of booking parcel deliveries with the world’s top couriers, at a discounted price, through our consumer web and our business shipping tools and applications.
+Consumers and companies couldn’t be more connected; yet the shipping industry is still lagging behind. We can’t stand it! So we’re building groundbreaking solutions, it’s time to get shipping up to speed - everyone is asking for it!
+So if you’re ready to change things, you’ve found the right job advert. 
+Are you the one?
+We are looking for a highly motivated and experienced QA Engineer, based in our headquarters in Madrid. You need to enjoy working in a fast-paced, dynamic environment and be very result-oriented. 
+We’re not looking for ninjas or gurus. We’re looking for experienced professionals who are excited and motivated to change things and to work in a close-knit team environment.
+Key accountability and responsabilities
+•	Reporting to the CTO.
+•	Designing, implementing and maintaining the QA test strategy and processes.
+•	Evaluate, test, automate software, and verify that code functions according to user requirements and conforms to established guidelines, economically and efficiently. 
+•	Ensuring all applications are test covered, automated and qualified for production environments.
+•	To support developers in understanding how to write more testable and robust code.
+•	Be aware of and understand the impact to QA of any new technologies being introduced.
+•	Working with the Solution Architect to ensure the team delivers to required quality and adheres to best practice.
+Key skills, knowledge, experience and competencies
+This job is not for everyone. You’re experienced with:
+•	Web-based development, automation, API testing and a full understanding of requirements and functional specifications.
+•	Unit functional and user acceptance testing, using tools such as phpUnit, jUnit, Selenium, Bamboo, etc.
+•	Stress and performance testing, black box, white box and usability testing in client-server, web and database environments. 
+•	Creating test artifacts: test specifications, status updates.
+•	Developing in at least 3 of the following: PHP,  Python,  JavaScript, HTML, SQL, Ajax 
+•	Web service architecture.
+•	CI with Jenkins, Hudson, etc.
+•	Agile development methodologies (SCRUM)
+ What we offer
+•	A competitive package.
+•	A young, upbeat, international work environment. Leave your suit behind; we’re a t-short and converse kind of place.
+•	A place where your impact counts.
+•	An exciting role in a start-up with high growth potential.
+Interested?
+Send an email with your CV and cover letter to jobs@packlink.com with the Ref.: QAENG

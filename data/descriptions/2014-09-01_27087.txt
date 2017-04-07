@@ -1,0 +1,15 @@
+
+A tech company located in Barcelona, is looking to hire an employee for a full-time, in-office position for Web Programmer/Developer. 
+EonianTec is a fast-growing online advertising and consultancy company specialized in trigger marketing campaigns and performance programs that drive results for e-commerce businesses around the world. 
+We develop world class advertising optimization technologies and offer brands and advertisers lead generation and new customer acquisition services.
+If you can’t live without coding, love delivering astonishing results while working on interesting projects, then please continue reading. 
+We are looking for someone who is:
+•	Extremely detail-oriented and passionate for clean, well-documented code.
+•	Has willingness to work in a team, with friendly attitude, as well as work alone under deadlines.
+•	Knows the basics of project management.
+Your skills:
+•	Basic knowledge of Git. We have multiple installments for different countries hosted in the cloud.
+•	Knowledge of Code Igniter. Our projects are all based off of it, so you need to have prior experience; PHP alone won’t do it. We want someone who knows CI already, but if you are proficient with Zend, CakePHP or other PHP framework then you should be fine.
+•	Advance knowledge of MySQL. We send millions of emails (all non-spam) and obviously track a lot of movement points within the system. We have a team of always-hungry marketers in Europe that challenge us with requests to provide sophisticated reports from our systems. You need to know how to build optimized queries (some that may take tens of sub queries, etc.) that drill through multiple databases, using JOIN, HAVING, GROUP, writing custom FUNCTIONs, etc.
+•	Fluent knowledge of HTML, JavaScript, jQuery, CSS and Bootstrap. Knowledge of editing graphics for websites. 
+•	Fluent in English.

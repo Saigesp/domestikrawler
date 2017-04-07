@@ -1,0 +1,10 @@
+
+AGR Food Marketing una Empresa de Servicios de Marketing y Comunicación.
+Se busca un desarrollador de front-end, con experiencia en back-end, para la implementación de un serie de proyectos webs en coordinación con nuestro equipo de diseño y usabilidad.
+Requerimientos:
+Programador con experiencia en PHP, CSS3, Java Script y HTML5
+Se requiere igualmente que tenga experiencia en algunos CMS como Wordpress y Prestashop.
+Al menos 3 años de experiencia en desarrollo de proyectos web tanto de front-end como de back-end.
+Profesionalidad, responsabilidad y seriedad.
+Capacidad de trabajar en equipo y habilidades organizativas.
+

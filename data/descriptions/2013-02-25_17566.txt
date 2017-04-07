@@ -1,0 +1,21 @@
+
+In recent years the developments of medical technologies lead to a new range of opportunities when curing illnesses. However, the exponentially growing amount of devices and their complex working principles has created a gap between the final user and the technology. Moreover, healthcare professionals do not have the time and motivation to be trained on them.
+LeQuest is a spin-off company based in Rijswijk(The Netherlands) that designs and develops user oriented training modules that approaches education from a new perspective getting the knowledge to the user through applied games. 
+Collaborating with LeQuest means working on a multidisciplinary team that develops products with the highest standards and use cutting edge technologies to deliver content to PC's, tablets and mobile devices.
+LeQuest is looking for enthusiastic colleagues to assist the game development of LeQuest training modules. You will work together with the design and development teams in a multidisciplinary environment. 
+Your role: 
+In the context of serious-game development, emerging new technologies in HTML5/ CSS3/ Javascript are used to build up training modules. You will get an insight into the game development process of our trainings. 
+Your tasks: 
+        • Development of games in HTML5/CSS3/Javascript
+	• Support the development department with the creative process of game design.  
+	• Communicate with development and design departments 
+Your profile: 
+	• Excellent knowledge of HTML5/CSS3/Javascript 
+	• Strong interest in the area Serious gaming 
+	• Knowledge on testing frameworks/methodologies is a plus. 
+	• Highly perceptive mind and a love for detail 
+	• Strong team and communication skills 
+	• Good knowledge of English  
+	• Strong in other programming languages (e.g. Python)
+	• Familiarity with Version Control Systems (e.g Git)
+	• Prior experience in the gaming industry would be ideal		

@@ -1,0 +1,18 @@
+
+Funciones:
+- Técnico de publicidad en vídeo VAST. 
+- Llevar a cabo proceso de certificación de terceros para incorporarlos a nuestra red de vídeo. Bien mediante la conexión de su solución de video a nuestras red mediante protocolo VAST, como implementando nuestras soluciones propias para servir VAST. 
+- Detección, diagnóstico y traza de posibles problemas en las integraciones de vídeo ya existentes.
+Requisitos:
+Tecnologías: imprescindible HTML, CSS, JAVASCRIPT y conocimiento del protocolo HTTP
+Experiencia: experiencia demostrable con HTML; CSS Y JAVASCRIPT
+Idiomas: Nivel alto de inglés
+Valorable (no imprescindible):
+· Paquete office.
+· JQuery.
+· Flash
+· Experiencia con ad-servers
+· Experiencia con video ads.
+· Experiencia CMS de video: Kaltura, Brightcove, Youtube, etc...
+· Experiencia Players comerciales: JWPlayer, Flowplayer, VideoJS.
+

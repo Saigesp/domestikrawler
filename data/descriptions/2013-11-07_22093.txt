@@ -1,0 +1,12 @@
+
+Somos una empresa de jóvenes emprendedores, con 10 años de experiencia en desarrollo web. Nos apasiona el desarrollo, la administración de sistemas, y las nuevas tecnologías. Nos encontramos en un momento de expansión, por lo que abrimos un proceso de selección para incorporar nuevos miembros a nuestro equipo, que cubran distintos perfiles.
+Para esta vacante de desarrollo web frontend se valorará la experiencia previa en algunas de las siguientes tecnologías (obviamente no en todas ;-) ):
+* 2 años de experiencia profesional como maquetador web HTML/CSS (único requisito obligatorio)
+* Conocimientos en desarrollo bajo javascript y jQuery
+* Conocimientos de HTML5/CSS3
+* Conocimientos de SEO/SEM
+* Conocimientos de desarrollo web sobre frameworks JavaScript
+(AngularJS, Backbone, ...)
+* Experiencia en sistemas de control de versiones SVN o Git
+* Conocimiento de las metodologías de desarrollo ágil Scrum y Kanban
+* Habituado a entornos UNIX, trabajo en consola y editor Vim.

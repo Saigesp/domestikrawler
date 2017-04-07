@@ -1,0 +1,18 @@
+
+Serás el/la responsable de implementar las mejoras de UX y de captación y conversión de usuarios, tanto en nuestra plataforma Web como gradualmente en nuestras Apps. 
+Formarás parte de nuestro equipo como casi-fundador; esperamos que aprendas con nosotros y que rápidamente asumas la gestión de los proveedores y los miembros del equipo que intervienen en los procesos front-end. 
+También te incorporarás en el proceso de conceptualización y diseño de las futuras iteraciones de nuestro producto. Formarás parte del equipo core del proyecto, y tu opinión jugará un papel cada vez más importante en la toma de decisiones de producto.
+Requerimientos
+Si estás interesado, es crucial que veas la programación como un proceso íntimamente integrado con el diseño del producto, y la captación y conversión de usuarios. 
+Entiendes que una aplicación online debe ser mejorada continuamente en unos tiempos muy rápidos, según el comportamiento de sus usuarios, la estrategia de la competencia, y las tendencias del sector.  
+•	Tienes un conocimiento profundo de HTML, CSS, JQuery y PHP. Tienes la capacidad y sientes la necesidad de ser creativo con estas herramientas.
+•	Te gusta participar en el análisis del comportamiento de nuestros usuarios, y tienes la capacidad de implementar con rapidez las iteraciones de maquetación necesarias para optimizar los objetivos de conversión.   
+•	También tienes unos conocimientos básicos de programación en iOS y/o Android, que nos permitirán implementar upgrades de nuestras aplicaciones cada vez más complejos. Enriquecerás estos conocimientos mientras trabajes con nosotros. 
+•	No es necesaria experiencia laboral, pero sí experiencia y pasión por la programación front-end de aplicaciones web y/o mobile dirigidas a usuarios.
+Qué ofrecemos
+Empezaremos por un período de prueba de 3 meses, que posteriormente ampliaremos a 1 año. Tras este año, si todos estamos de acuerdo convertiremos el contrato en indefinido.
+Tendrás un sueldo fijo inicial, al que añadiremos un variable tras el período de prueba. Queremos que seas nuestro socio, por lo que estableceremos un plan de acciones de nuestra empresa, que irás adquiriendo con el transcurso del tiempo.  
+Trabajarás en nuestro local a media jornada o a jornada completa, según acordemos. Crearemos un entorno  de trabajo atractivo y flexible. Un rol profesional intenso no debería ser obstáculo para disfrutar de una vida personal completa.
+Dispondrás de tiempo para soñar, diseñar y desarrollar tus proyecto personales dentro del entorno de nuestra aplicación. En estos proyectos serás el único responsable y tomarás las decisiones.
+Ahora mismo tenemos nuestras instalaciones en el barrio de Gracia, a 2 minutos de la parada de metro  de Diagonal, Líneas 3 y 5.
+El sueldo será negociado caso a caso. En cualquier caso, un 2,5% del sueldo será abonado en forma de cervezas y pica-pica.

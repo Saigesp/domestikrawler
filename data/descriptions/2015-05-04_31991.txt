@@ -1,0 +1,11 @@
+
+For a new travel startup, we are hiring a Front-End Developer:
+- Software Engineering degree or equivalent experience
+- 3+ years of work experience
+- HTML5, Javascript, JQuery, Ajax, CSS3 (you know we live in a responsive world)
+- You have developed complex web applications utilizing various JS libraries.
+- You have worked on iOS or Android apps
+- And you are familiar with Bootstrap, Git and SCRUM and Agile methodologies.
+We are a small team in a growing project, so you will get to experience a startup at its best: high energy, low bureaucracy, very results-oriented.
+We are lucky to work in something everyone loves: travel. We are building a service millions of people will use to discover and enjoy the world. 
+If this sounds good, we want to hear from you!

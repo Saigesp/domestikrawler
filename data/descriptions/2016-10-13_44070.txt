@@ -1,0 +1,15 @@
+
+Necesitamos una persona para el desarrollo de proyectos web a jornada completa para incorporación antes de final de año en un equipo joven y con buen ambiente de trabajo.
+Su función será trabajar en el equipo de programación para la realización de proyectos, en colaboración con los diseñadores del estudio.
+- Persona responsable, con capacidad organizativa y de decisión.  
+- Capacidad de autogestión y de gestión con cliente y asistencia a reuniones.
+- Capacidad de trabajo en equipo. 
+ - Conocimientos sólidos de CCS3, HTML5, JavaScript, PHP, MySQL,.. 
+ - Conocimientos en CMS: wordpress, drupal,..
+-Maquetación responsive con Media Queries o Pure o Bootstrap. 
+- Herramientas de gestión de repositorio de código como GIT o SVN.
+ - Se valorará conocimientos desarrollo SEO, Responsive Design, Facebook, app, .. 
+ - Se valorará conocimientos en Photoshop, indesign e illustrator 
+ - Se valorará conocimientos en Prestashop o Magento
+Lenguajes de programación PHP, HTML5, CSS3, MySQL, Javascript, JQuery, Ajax,..
+Será de valor añadido, no excluyente, tener conocimientos de Frameworks PHP, codeigniter, smarty, etc. y  desarrollo de Apps.

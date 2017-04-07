@@ -1,0 +1,31 @@
+
+Descripción
+Bloo Media es una agencia especializada en inbound marketing con clientes en todo el ámbito nacional. Estamos buscando incorporar un/a Front-End para apoyar a nuestro equipo de desarrollo para trabajar tanto en proyectos propios como con clientes.
+Requisitos mínimos
+- Estudios superiores ya sea Grado superior o universitario
+- Habilidades sociales y comunicativas
+- Habilidad para trabajar en equipo
+Tareas y responsabilidades:
+- Capacidad de trabajo y comunicación con clientes.
+- Set-up y diseño general de páginas en WordPress.
+- Coordinación entre los distintos compañeros del equipo de desarrollo.
+- Trabajar con herramientas de control de versión.
+- Elaborar informes de resultados con las principales KPi
+- Evaluación de la competencia.
+- Mockups y prototipado.
+Competencias:
+- Capacidad de trabajar en equipo, aunque también debe sentir la confianza de trabajar por su cuenta.
+- Orientado a objetivos y resultados.
+- Excelentes habilidades de organización & planificación.
+- Flexibilidad y habilidad para trabajar respondiendo a los cambios rápidos e imprevistos del negocio.
+- Versatilidad para trabajar en diferentes temáticas y adaptarse a las mismas.
+- Capacidad de diseñar páginas web en HTML-CSS-JS haciendo uso de las últimas tendencias.
+Requisitos:
+- Capacidad analítica.
+- Manejo básico mínimo de Git.
+- Experiencia mínima de 2 años en HTML-CSS-JS.
+- Se valorará positivamente conocimiento en lenguajes Backend.
+- Se valorará positivamente conocimiento en Angular, Bootstrap, React y/u otras librerías.
+- Conocimientos básicos de UX y UI design thinking.
+- Idiomas: Inglés nivel básico profesional.
+- Experiencia: 1-2 años mínimo.

@@ -1,0 +1,26 @@
+
+El grupo Guustavmark, dentro del proceso de su desarrollo en España, busca a Desarrollador web:
+Lenguaje:
+- PHP 5
+- HTML/XHTML
+- css 2.1 / CSS 3
+- Javascript
+- J2ee (no imprescinble)
+- .net (no imprescinble)
+- IOS o android 
+CMS (debe ser experto al menos uno de ellos):
+- Wordpress
+- Prestashop
+(Magento / Drupal valorados también)
+Requisitos imprescindibles:
+- Al menos 5 años de experiencia trabajando con estándares web.
+- Conocimientos de las últimas adiciones a esos estándares (HTML5, CSS3, canvas, APIs de Javascript).
+- Uso avanzado de jQuery.
+- Experiencia con arquitectura MVC.
+- Conocimientos de frameworks Javascript orientados a esa arquitectura (Backbone, Ember, Spine...)
+- Solvencia en problemas de compatibilidad de navegadores, incluidos dispositivos táctiles.
+- Conocimiento de herramientas de trabajo en equipo y control de versiones.
+Contratación:
+
+- Fecha de Inicio: mitad septiembre 2016
+- Sueldo según valía

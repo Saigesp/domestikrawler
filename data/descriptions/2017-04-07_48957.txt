@@ -1,0 +1,8 @@
+
+Wyred es una empresa con sede en Madrid que nace en 2013 en el sector de las TIC, y que apuesta por el desarrollo de software propio. 
+En Wyred desarrollamos Sistemas Expertos para mejorar la Atención de Cliente. Creamos soluciones de mercado para atender y mejorar en tiempo real y de forma integral la Experiencia de Usuario. La complejidad de estas soluciones requiere sólidos conocimientos y una amplia experiencia en Tecnologías de la información y la comunicación (TIC).
+Perfil del candidato:
+Buscamos estudiantes para colaborar en el desarrollo de un producto tanto en la parte de front-end con lenguajes como HTML5, SASSS, Javascript, y en la parte de back-end trabajando con SCALA, AKKA, etc. 
+Adquisición de conocimientos en el uso de herramientas de cloud computing como AWS y en el uso de sistemas de control de versiones con GIT. Uso de metodologías de desarrollo ágiles como SCRUM.
+Estudiantes de titulación:
+Master en ingeniería de Telecomunicación, Master en Ingeniería informática, Grado en ingeniería informática, Grado en ingeniería telemática, Grado en Ingeniería en Tecnologías de Telecomunicación.

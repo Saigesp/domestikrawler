@@ -1,0 +1,20 @@
+
+Buscamos persona creativa y detallista para aumentar el equipo de Frontend de KPMG - Servicios digitales, dentro de este equipo tendrás la oportunidad de trabajar en un buen ambiente de trabajo con clientes interesantes como NH, Iberia Express, Unicef, Rodilla, Grupo Vips, etc.
+Para poder aplicar a este puesto necesitamos que domines las siguientes tecnologías:  
+- HTML5 y CSS3
+  - Responsive design 
+- Bootstrap u otro framework 
+- LESS / SASS
+ - jQuery
+ - GIT
+Y se apreciará que tengas conocimiento sobre estas otras tecnologías:
+  - AngularJS 2 
+- Javascript
+- Grunt / Gulp
+ - Atomic Design 
+- BEM 
+- Creación de themes para Drupal 8 y Magento 2.
+- Entorno Mac
+Aparte es necesario que cuentes con un buen nivel de inglés con capacidad para leer y comprender documentos técnicos, contar con un mínimo de 2 a 3 años de experiencia, tener capacidad para trabajar en equipo así como poder seguir la metodología de trabajo interna y tener una disciplina de trabajo organizada.
+KPMG te brinda la oportunidad de integrarte en una firma de prestigio, elegida "Mejor empresa para trabajar" según el ranking que elabora anualmente la revista Actualidad Económica, donde podrás desarrollar una atractiva carrera profesional con programas de formación continua, trabajar en proyectos multidisciplinares y una remuneración competitiva, acorde con tu valía y experiencia.
+Jornada laboral completa y 31 días laborables de vacaciones

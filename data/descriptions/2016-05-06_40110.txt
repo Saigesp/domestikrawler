@@ -1,0 +1,13 @@
+
+En Iwantic, estamos buscando un/a PHP Developer para una de las empresas líderes en el sector de Internet en su sede de Barcelona.
+Entre las funciones del puesto se encuentran:
+- Desarrollar aplicaciones frontend y backend en entornos de Inteligencia artificial relacionados con el procesamiento del lenguaje natural.
+- Desarrollar aplicaciones específicas, utilizando mayoritariamente PHP, Javascript y Ajax.
+- Contacto con los clientes, darles consejos sobre cómo mejorar sus ideas o ser más efectivos, y encargarse de mejorar la plataforma.
+Requisitos necesarios:
+- 1 año o más de experiencia en desarrollo de software en PHP y AJAX.
+- Conocimientos demostrables de tecnologías web, incluyendo PHP, HTML, XML, CSS, JavaScript, SQL.
+-Conocimientos de JQuery, Mootools o Prototype.
+-Español y catalán: Nativo.
+- Inglés: B2 (FCE).
+Salario según valía.

@@ -1,0 +1,4 @@
+
+En The Vrain, incubadora VR dedicada al desarrollo de productos y proyectos de realidad virtual, buscamos programador Unity para proyectos inmersivos.
+Necesitamos un perfil para generar interactividad en vídeos 360 estereoscópicos, desarrollo de apps en iOS y Android para lanzar dicho contenido así como la posibilidad de configurar dicha experiencia.
+Se valorará el criterio visual y experiencia con herramientas de diseño gráfico para una mejor integración y coherencia entre la parte más artística y la programada.

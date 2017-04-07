@@ -1,0 +1,24 @@
+
+We are looking for a highly talented and motivated professional who is willing to explore new technologies and trends, and to work in systems and cloud infrastructure such as Amazon Web Services.
+Minimal skill set:
+	•	Linux internals knowledge.
+	•	MySQL database knowledge.
+	•	Used to work under pressure.
+	•	Very good spoken and written level of English.
+	•	Very skillful bash scripting.
+	•	GNU/Linux candidates only.
+Recommended skillset:
+	•	Amazon Web Services
+	•	Nagios
+	•	Puppet
+	•	Python
+Responsibilities:
+	•	Work closely to the other technological       
+                departments and support them.
+	•	Improve the performance and reliability of all 
+                services.
+	•	Management of web services and operating 
+                systems.
+	•	Development of bash and python scripts.
+	•	Monitoring of the services and platforms.
+

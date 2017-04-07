@@ -1,0 +1,17 @@
+
+As a Web Developer (PHP5 / Symfony2), you will incorporate our technology team, devoted to create custom advertising products for our marketing team and for our clients. You will also take part in our R&amp;amp;D, that aim at pushing a little bit further the common limitations of the internet.
+As a heavily motivated and always hungry for new learnings developer, you will participate in the conception and development of specific solutions on a wide range of thematics, like mobile and tablet devices, geolocation, or scalability under very high traffic constraints.
+Powerspace is offering outstanding work conditions and top-market compensation. The offices are pretty awesome, in the center of Barcelona, and the team is cool, young and dynamic. Most importantly, we invest a lot in research and development, and have innovation, technology and science in our DNA.
+Responsibilities : 
+- End-to-end development of specific advertising solutions. 
+- Conception of technical specs, stories, and tasks. 
+- Improvement and development of existing solutions. In close liaison with the Technical Manager, you will set development priorities and make sure our solutions are always one step ahead.
+- Research: You will share your knowledge on technologies, research creative ways of solving problems (from HTML to RAM-allocation optimization), write documentations and ensure that your products are understood and usable by everyone.
+Background and Skills
+Background
+- Computer science background, passion for web technologies and computers
+- Used to team-working, but at the same time critical and able to contribute with their expertise.
+- Perfectly fluent in English (mandatory), French is a big plus.
+- Some knowledge in online marketing/advertising is a plus.
+Skills
+- You are keen to learn all kinds of technology-related papers. You’d like to work with top-notch technologies, including yet not limited to high-performance scalable architectures.

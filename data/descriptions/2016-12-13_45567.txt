@@ -1,0 +1,93 @@
+
+* Descripción de la empresa:
+LaComunity es una start-up en Barcelona del sector del alquiler vacacional en constante crecimiento que aspira no sólo a ofrecer la cartera más amplia y variada posible para clientes particulares y agencias, sino también a ofrecer un producto interesante y bien situado.
+* Responsabilidades clave:
+Buscamos un perfil de Backend PHP Senior Developer residente en Barcelona o alrededores (abstenerse freelances) con un nivel de experiencia avanzado (3 años mínimo), para incorporarse a nuestro equipo técnico.
+La creciente expansión de nuestra start-up ha incrementado las necesidades técnicas de la empresa, haciendo vital el desarrollo de nuevas funcionalidades, la refactorización de aquellas que podrían funcionar mejor y el mantenimiento y ampliación de las ya existentes.
+Tus tareas incluirán desde el desarrollo de nuevas funcionalidades para y el mantenimiento de nuestra API, al análisis e integración de nuevos servicios de datos en nuestros sistema, pasando por el soporte técnico a nuestros diferentes partners externos y a los demás departamentos de la empresa.
+* Aptitudes y conocimientos:
+Responsabilidades:
+- Escribir código eficiente, limpio, mantenible, escalable y reutilizable
+- Desarrollar y desplegar nuevas funcionalidades y herramientas, documentarlas adecuadamente
+- Encontrar, probar, diagnosticar y solucionar problemas de software y bases de datos en nuestro sistema
+- Identificar y solucionar problemas de rendimiento y escalabilidad
+- Participar en la toma de decisiones para el desarrollo de nuevas funcionalidades
+- Analizar las diversas alternativas de implementación para llegar a la mejor solución técnica
+- Crear especificaciones detalladas de las tareas asignadas, así como reportar adecuadamente y ofrecer visibilidad a los demás departamentos respecto a su progreso
+Conocimientos Técnicos:
+- Programación orientada a objetos OOP - PHP 5+, MySQL, Apache/NGINX
+- Conocimientos sólidos de SQL y optimización de tablas y consultas
+- Experiencia con los frameworks Symfony2/ZF2
+- Experiencia utilizando sistemas de control de versiones (Git)
+- Integración de aplicaciones SOAP
+- Desarrollo de APIs-REST e integración con APIs de terceros
+- Patrones de diseño e ingeniería del software
+- Inglés nivel profesional
+Otras habilidades:
+- Trabajo en equipo
+- Adaptación, autosuficiencia y autocrítica
+- Si tiene un manual, se puedes aprender
+Valorable:
+- Experiencia en plataformas online de reserva de hoteles, alquiler vacacional o similares
+- PHP7 y Symfony3
+- Conocimientos de metodologías ágiles (SCRUM/KANBAN) y las herramientas de gestión relacionadas (Jira)
+- Conocimientos administración de sistemas
+- Haber trabajado con virtualización (Vagrant/Docker)
+- Integración Continua (Jenkins), Unit testing (PHPUnit)
+- Conocer Redis/Varnish
+- Experiencia con MongoDB y ElasticSearch
+- RabbitMQ, Ansible, ELK
+- Experiencia en TDD, BDD o DDD
+- Amazon Web Services
+Ofrecemos:
+- Salario a negociar según experiencia del candidato.
+- Oficina bien comunicada en el centro de Barcelona.
+- Voz y voto en la toma de decisiones técnicas.
+- Ambiente de trabajo distendido e informal.
+- Oportunidad de evolucionar profesionalmente en una empresa en plena expansión y con una alta proyección de crecimiento.
+____________________________
+LaComunity is a constantly growing startup from Barcelona that works with holiday rentals. The company aims not only to offer the widest and varied portfolio for private clients and agencies, but also to offer an interesting and well located product.
+We are seeking for a Senior PHP Backend Developer that resides in Barcelona or surroundings with an advanced level of experience (3 years minimum) to join our technical team (we do not take freelancers).
+The increasing expansion of our startup has increased the technical needs of the company, making vital the development of new features, refactoring those features that might work better and the maintenance and expansion of existing ones.
+Your tasks will be the development of new functionalities and the maintenance of our API, to analyse and to integrate new data services in our systems and give a technical support to our external partners and to other departments of the company.
+Responsibilities:
+- Write efficient, clean, maintainable, scalable and reusable code
+- Develop and deploy new features and tools, and document them properly
+- Find, test, diagnose and troubleshoot software and databases in our systems
+- Identify and troubleshoot performance and scalability
+- Participate at decisions for the development of new features
+- Analyze implementation alternatives to reach the best technical solution
+- Create detailed specifications of the assigned tasks and properly report and provide visibility to other departments regarding their progress
+Technical knowledge:
+- Object Oriented Programming - PHP 5+, MySQL, Apache / NGINX
+- Solid knowledge of SQL optimization
+- Experience with frameworks Symfony2 / ZF2
+- Experience using version control systems (Git)
+- SOAP Application Integration
+- Development of REST-APIs and integration with third-party APIs
+- Design patterns and software engineering
+- Professional english level
+Other skills:
+- Teamwork
+- Adaptation, self-reliance and self-criticism
+- If you have a manual, you can learn
+Assessable:
+- Experience at online hotel booking platforms, holiday rental or similar
+- PHP7 and Symfony3
+- Knowledge of agile methodologies (SCRUM / Kanban) and related management tools (Jira)
+- Knowledge management systems
+- Virtualization (Vagrant / Docker)
+- Continuous Integration (Jenkins), Unit testing (PHPUnit)
+- Redis / Varnish
+- Experience with MongoDB and ElasticSearch
+- RabbitMQ, Ansible, ELK
+- Experience in TDD, BDD or DDD
+- Amazon Web Services
+We offer:
+- Salary based on the candidate's experience.
+- Well connected office in Barcelona center.
+- Voice and vote at taking technical decisions.
+- Relaxed and informal job environment.
+- Opportunity to professionally grow in a full expansion company.
+* Sueldo negociable según valía del candidato.
+

@@ -1,0 +1,7 @@
+
+Pin Digital es una nueva red social enfocada a satisfacer las  necesidades de bookmarking y descubrimiento de nuevos contenidos a una serie de comunidades nicho. Pin Digital complementa su negocio con un e-commerce con productos y servicios destinados a los miembros de estas comunidades.
+Estamos buscando un Front-End Develope, quien en dependencia del CTO, se responsabilizará del mantenimiento de la página web y de la maquetación de las diferentes campañas que se lleven a cabo.   
+•	Es imprescindible una experiencia profesional mínima de 2/3 años como Front-End Developer. 
+•	Son imprescindibles sólidos conocimientos de HTML5+CSS3 coder, crossbrowsing y jQuery básico. 
+•	Valoraremos muy positivamente un código semántico y cuidado por los estándares.  
+•	Es deseable aportar conocimientos de sistema de control de versiones (Git o similar) y JavaScript avanzado.

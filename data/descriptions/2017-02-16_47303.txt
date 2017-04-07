@@ -1,0 +1,20 @@
+
+Estamos buscando una persona que se incorpore en el departamento técnico y realice tareas de desarrollo y mantenimiento de la parte Backend y de la API de nuestro proyecto.
+¿Qué ofrecemos?
+Participar en el desarrollo de un ambicioso proyecto en Internet de ámbito internacional en un sector atractivo y en constante crecimiento.
+Formar parte de un equipo joven, dinámico y emprendedor donde se promueve la innovación, se comparte know-how y se valora el talento, la creatividad y la participación en la toma de decisiones.
+Flexibilidad de horarios y de jornada.
+Incorporación inmediata a jornada completa.
+Requisitos mínimos del candidato
+Experiencia demostrable de mínimo 3 años programando en Python y usando el Framework Django 
+Experiencia demostrable trabajando con Elasticsearch o Solr
+Experiencia demostrable trabajando con RabbitMQ, Amazon SQS, Celery, etc
+Experiencia demostrable trabajando con MySQL o PostgreSQL
+Conocimiento y uso habitual de repositorios (subversión o Git)
+Experiencia demostrable aplicando Unit testing.
+Requisitos deseados
+Nivel alto de inglés.
+Conocimiento y uso de metodologías agiles para la gestión de proyectos.
+Conocimientos de Django Rest Framework (DRF)
+Experiencia
+Mínimo 3 años de experiencia en puestos similares en empresas de Internet.

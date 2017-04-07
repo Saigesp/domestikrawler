@@ -1,0 +1,10 @@
+
+We’re looking for developers to help us make Cabify more awesome. As a member of the Cabify team you'll deliver features and enhancements that will make users and drivers and happier.
+Do these phrases ring true for you?
+- You have a passion for creating great apps that work well.
+- You enjoy creating apps for the Android platform.
+- You think maps, geolocation and real time communications are awesome.
+- You believe that a good design and user experience brings happiness and joy to others.
+- You agree that English is important for communicating with colleagues.
+- You write tests, within reason ;-)
+- You think code should be elegant and clean, and that beauty is found in simplicity.

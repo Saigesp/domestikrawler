@@ -1,0 +1,19 @@
+
+Desde Iwantic Seleccionamos un Frontend Developer con 3 años de experiencia para empresa líder del mundo en su sector. Para su centro de trabajo en Barcelona. Se ofrecen un importante paquete retributivo y beneficios sociales.
+Se requiere
+- Técnico Superior DAW
+- Al menos 3 años de experiencia realizando funciones de Frontend
+- Amplios conocimientos HTML, css3, javascript con conocimientos de la librería jQuery, Ajax, API Rest
+- Manejo experto en IDE (Eclipse)
+- Gestión de requisitos (JIRA).
+- Gestor de contenidos de IBM Websphere 
+Funciones a Realizar:
+- Desarrollo de nuevas funcionalidades de la Web standard & Mobile.
+- Recogida de requisitos funcionales y técnicos.
+- Implementación en maqueta de las nuevas necesidades por apertura de nuevo país
+- Funcionalidades nuevas o cambios en las existentes (lookbook, parrilla, ficha de producto…)
+- Seguimiento de la implementación final y testing, de nuevos proyectos.
+- Corrección de incidencias detectadas
+ - Registro de la conversión de las Newsletters
+- Programación de Newsletters (HTML) y envío con Cheetahmail
+- Seguimiento nuevos proyectos. Por ejemplo nuevas Apps.

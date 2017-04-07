@@ -1,0 +1,16 @@
+
+Buscamos incorporar desarrollador/maquetador web freelance / autónomo. Lo ideal sería que pudiese reunirse presencialmente para hacer un seguimiento de sus tareas las primeras semanas, una vez tenga asimilado nuestra metodología de trabajo no hay problema en trabajar de forma remota gran parte de su jornada.
+Tienes que tener experiencia en: 
+- HTML5, CSS3 (bootstrap), JavaScript, Jquery,
+- Dominio avanzado de PHP y MySQL. (Si conoces el framework Yii, Laravel u otro framework MVC mucho mejor)
+Valoraremos mucho conocimientos sobre: 
+- Git
+- Wordpress 
+- Linux
+- Node.js
+- AngularJS
+No es para ningún proyecto en concreto sino para una colaboración a largo plazo. Queremos unificar las ventajas de un asalariado en una empresa con las ventajas de ser freelance. Que cada uno tenga la máxima libertad para decidir cuantas horas trabaja cada día y donde, pero por el contrario no preocuparse de ir a buscar clientes, pasar presupuestos y discutir con ellos.
+Ofrecemos: 
+- Horario: A tiempo parcial. La idea es trabajar unas 3 o 4 horas al día, pero somos muy flexibles. Si quieres trabajar 1 o 12 horas al día tambien podrías hacerlo :) 
+- La parte económica la negociamos según tu valía y experiencia, pero somos una empresa pequeña, así que de momento no podemos pagar grandes sueldos ... eso sí, a cambio tendrás mucha libertad ... en elección de tecnología, en horarios, en cuantas horas trabajas, etc. 
+

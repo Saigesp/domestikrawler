@@ -1,0 +1,27 @@
+
+Position duties
+•   Design, develop, document, test, and debug new and existing software systems and/or applications for market sale or large-scale.
+•   Implement designs in our websites following best practices to improve the site and achieve deadlines.
+•   Work in an Agile team involved in the product lifecycle from the definition of features to the release phase and results monitoring.
+•   Collaborates with web designers and web developers to build high-quality, standards-compliant web pages and experiences in HTML5, CSS3 and JavaScript.
+General skills
+•   English speaking and writting skills, we are an international company!
+•   Excellent communication skills, happy in a highly collaborative Agile development environment.
+•   Excellent troubleshooting skills.
+•   Ability to work with cross-functional teams, problem solving and committed attitude.
+•   Professionalism, reliability, integrity, motivation.
+Preferred Requirements
+•   At least 3 years development experience, mainly as Web Designer.
+•   Deep knowledge about CSS3, HTML5, SASS, BootStrap.
+•   Experience with Version control with Git (SVN is a plus).
+•   Basic JavaScript development experience (OOP, Closures, scopes, etc).
+•   Basic understanding of data formats (JSON, XML, etc. ).
+•   Basic experience with MVC/MVW  frameworks like Backbone (Angular or Ember is a plus).
+•   Basic experience in testing (TDD or BDD).
+Welcome Requirements
+•   Relevant industry experience (an advantage).
+•   Experience with Yeoman, Grunt, Bower, Maven or similar build system.
+•   Experience with continuous integration is a plus. 
+•   Experience with testing frameworks as Jasmine, Mocha, SinonJS or similar is a plus.
+•   Basic knowledge about Java, MySQL.
+•   Agile/Scrum/XP methodologies

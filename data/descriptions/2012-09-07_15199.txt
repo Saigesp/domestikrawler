@@ -1,0 +1,25 @@
+
+Desde GettingContacts.com solicitamos una persona responsable, abierta, dispuesta a dar su opinión, y que pueda llevar a cabo varias tareas sobre la página web.
+Trabajarás en un equipo muy dinámico y con una empresa innovadora en el sector del networking.
+Funciones:
+ - Planificación y desarrollo de nuevas tareas.
+ - Tareas de mantenimiento de web.
+Requisitos mínimos:
+ - PHP
+ - Experiencia con CodeIgniter o otros frameworks
+ - jQuery
+ - HTML4-5
+ - CSS3
+ - MySQL
+ - Mínimo conocimiento de SEO y SEM
+ - Control de versiones
+Requisitos deseados:
+ - CodeIgniter
+ - jQuery UI
+ - Twitter bootstrap
+ - GIT
+ - Conocimientos de OAuth
+ - Administración servidores Linux
+ - Optimización de carga (Apache)
+ - Netbeans, Eclipse, Sublime Text 2...
+ - Experiencia en programación de newsletter

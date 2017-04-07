@@ -1,0 +1,7 @@
+
+Buscamos un programador para formar parte de nuestro equipo.
+Debido a la gran carga de trabajo, necesitamos incorporar a un programador freelance, con conocimientos de trabajo con CakePHP.
+Se valorarán:
+- Maquetación HTML+CSS
+- Trabajo con Api como Facebook, Twitter, etc...
+Queremos gente de la provincia de Alicante, aunque no es un requisito imprescindible.

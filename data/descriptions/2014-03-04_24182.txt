@@ -1,0 +1,3 @@
+
+Tenemos un proyecto enfocado a la gestión de eventos; entre los servicios que se quieren ofrecer nos gustaría contar con un sistema de control de aforo mediante códigos de barra y chips RFID. La idea es poder dotar a este chip de más valores añadidos para mejorar la experiencia del evento al usuario tales como pago de consumiciones a través de la pulsera de acceso, o darle en enfoque social a través de vinculaciones a RRSS. 
+Para poder desarrollar este proyecto, necesitaríamos contar con un perfil que tenga conocimientos acerca de los sistemas descritos y que le interese participar en un proyecto de estas características.

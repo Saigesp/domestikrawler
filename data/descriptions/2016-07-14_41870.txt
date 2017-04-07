@@ -1,0 +1,17 @@
+
+En Iwantic estamos buscando un/a Senior PHP Developer con experiencia en Laravel o Symfony, para una gran start-up del sector Internet en Barcelona, formando parte de un equipo joven, dinámico y multidisciplinar.
+Funciones:
+Responsable de mantenimiento y mejoras al backend.
+Administración y mejoras de la arquitectura del sistema.
+Coordinación con los desarrolladores móviles.
+Requisitos: 
+4+ años de experiencia en PHP utilizando el framework de Laravel o Symphony2. 
+Experiencia con MongoDB, MySQL y Redis. 
+Experiencia en API Rest para clientes móviles. 
+Experiencia demostrada utilizando los patrones Repositorio y MVC.
+Valorable: 
+Conocimiento en ElasticSearch. 
+Conomientos de Python.
+Conocimiento de bases de datos no relacionales.
+Conocimiento en Administración de Sistemas utilizando AWS
+Se ofrece contratación indefinida y un interesante paquete retributivo acorde al mercado.

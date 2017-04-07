@@ -1,0 +1,14 @@
+
+Somos una empresa que se dedica a la venta online de accesorios móviles y buscamos a un Diseñador Web capaz de mantener nuestra Web actualizada siguiendo las directrices específicas de la empresa. Buscamos a una persona para integrarse en una empresa con un ambiente joven y dinámico.
+Algunas de las tareas a realizar:
+- Creación de distintas categorías: duplicar categorías, añadir traducciones, crear y subir imágenes, etc.
+- Actualización de banners e hipervínculos: banners home, banners laterales-frontales, fondos, etc.
+- Modificación del menú: código HTML, archivos externos para modificar, etc.
+- Tratamiento de páginas: bloques estáticos, descripciones, etc.
+Requisitos Mínimos:
+‐ Experiencia en la plataforma CMS e‐commerce de Magento.
+‐ Conocimientos de HTML, CSS y responsive design.
+‐ Maquetación de imágenes web (banners, newsletters, etc.)
+‐ Conocimientos básicos de Photoshop (redimensiones, guardados web, etc.)
+‐ Conocimientos de Excel (búsquedas, filtros, etc.)
+

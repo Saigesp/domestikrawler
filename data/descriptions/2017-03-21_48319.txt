@@ -1,0 +1,7 @@
+
+Saludos, desde el observatorio tecnológico Quasar Dynamics estamos buscando un programador con experiencia con Java para Android y Objective-C para ios. Requisitos indispensables para el desarrollo de apps para un proyecto concreto que puede alargarse en el tiempo.
+- Es necesaria la experiencia en programación de aplicaciones, tanto en Android como IOS.
+- Experiencia con el uso de APIs de Google.
+Envíanos un mail con tu experiencia y mejores aptitudes. Será un proceso de selección rápido y sencillo, si cumples con los requisitos de arriba, no dudes en escribirnos.
+Quasar Dynamics es un observatorio tecnológico que ofrece proyectos y desarrolla para muchos clientes, entre ellos Valencis C.F., San Miguel, Asociación Española de Mindfulness o la Escuela Superior de Arte y Tecnología (ESAT).
+

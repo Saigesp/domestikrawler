@@ -1,0 +1,5 @@
+
+Busco un programador freelance OpenCart para hacer corregir y añadir algunas extensiones en mi tienda online.
+Sería para trabajos ocasionales, cada vez que desee hacer modificaciones en la web.
+En este caso necesito que nos solucione un tema con la cesta de compra, ya que al añadir productos al carro de compras no aparecen reflejados en ella.
+Otro cambio que queremos hacer es que aparezca el precio con IVA para un grupo de clientes y el precio sin iva para otro grupo de clientes.

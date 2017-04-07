@@ -1,0 +1,19 @@
+
+Bicimarket.com es una empresa del sector deportivo con siete años de experiencia en le mercado y que actualmente se encuentra en franca expansión. Su área de negocio compagina la  venta por internet con tiendas propias y una red de franquicias.
+Actualmente operamos con una plataforma integral de negocio desarrollada a medida y a la que se le van añadiendo nuevas propiedades y funcionalidades de forma continua.
+Buscamos:
+Un desarrollador capaz de colaborar de forma eficaz en el crecimiento y maduración de la herramienta para adaptarla a los requerimientos de la empresa.
+Se requieren:
+-	 Amplios conocimientos y al menos dos años de experiencia demostrable en:
+        PHP
+        MySQL
+        HTML5
+        CSS3
+        Jquery 
+        CakePhp.
+-	Experiencia en gestión de servidores y redes
+-	Nociones de SEO-SEM
+Ofrecemos:
+• Integración en una empresa en fuerte crecimiento
+• Desarrollo profesional 
+• Excelente ambiente de trabajo

@@ -1,0 +1,43 @@
+
+Estudios mínimos: Grado Superior en aplicaciones informáticas
+Requisitos imprescindibles: 
+Experiencia, de mínimo 3 años, como full stack developer que sepa desenvolverse tanto en Front-End como en Back-End.
+Front-End:
+Amplio conocimiento de Javascript, con uso de frameworks como  jQuery, AngularJS, etc.
+Experiencia con HTML, CSS3 y responsive.
+Experiencia en desarrollo orientado a SEO.
+Back-End:
+Sólidos conocimientos en POO y patrones como MVC.
+Experiencia demostrable programando en Python con frameworks como Django o Flask. 
+Experiencia demostrable programando en PHP con frameworks como Symfony o Laravel.
+Conocimientos de API REST, tanto para servir datos, como consumirlos de otros servicios o aplicaciones.
+Experiencia en entornos Cloud, preferiblemente Google AppEngine, aunque se valorará haber trabajado con Heroku, Azure, AWS...
+Experiencia en bases de datos SQL (MySQL) y no-SQL (MongoDB, Google Datastore)
+Conocimientos en seguridad informática orientada al desarrollo web, XSS e inyección SQL.
+Experiencia en uso de control de versiones GIT o similares.
+Nivel alto de inglés.
+Dotes comunicativas.
+Se valorará:
+Perfil Github, Bitbucket u otras plataformas.
+Experiencia en desarrollo con metodologías ágiles (Scrum, Kanban).
+Maquetación bajo estándares HTML/HTML5/CSS.
+Conocimientos de animaciones CSS y JS
+Conocimiento de gestores como WordPress, Drupal o Prestashop.
+Desarrollo de aplicaciones iOS y Android. 
+Gobalo como agencia creativa digital,conectamos marcas, proyectos y personas utilizando las últimas tendencias tecnológicas para crear experiencias web únicas. 
+Estamos buscando un/a profesional que sepa desarrollar, liderar proyectos, comunicarse con el cliente, gestionar proyectos internacionales e implementar soluciones eficaces en estos casos.
+Sus responsabilidades dentro del equipo serán:
+Diseño e implementación de flujos de ejecución.
+Integración de diversas fuentes de datos: repositorios, servicios web, bases de datos.
+Introducción de nuevas técnicas, tecnologías y estándares según se requieran. Pasión por la innovación.
+Proveer conocimiento sobre tecnología y tendencias con sus potenciales beneficios e impactos.
+Trabajar con tecnologías semánticas.
+Contribuir al diseño y desarrollo de proyectos web.
+Participar en el desarrollo e implementación de arquitecturas J2EE escalables, robustas y tolerantes a fallos.
+¿Qué ofrecemos?
+- Formar parte de un equipo muy joven con muchas ganas de hacer cosas cada vez más grandes.
+- Ambiente joven y distendido, donde venir a trabajar nunca sea un problema, con horario flexible y posibilidad de teletrabajar.
+- Total libertad para proponer ideas y desarrollarlas. 
+- Jornada completa. 
+- Formación continua. 
+- Salario, según experiencia y valía.

@@ -1,0 +1,29 @@
+
+Frontend developer
+Empresa nvivo.es
+Localidad Madrid
+nvivo.es, agenda online de conciertos y agregador de entradas lider en España.
+Buscamos:
+En nvivo.es, agenda online de conciertos y agregador de entradas lider en España deseamos incorporar un programador de frontend experto en CSS, HTML5, JQuery y con conocimientos de PHP.
+Ofrecemos:
+Ofrecemos la incorporación a un equipo joven, internacional, con oficinas en el centro de Madrid en un ambiente musical y desenfadado, flexibilidad horaria y salario acorde con el candidato.
+Requerimos:
+- Portfolio propio (especificar URLs)
+- Experto en Javascript, JQuery, CSS y HTML5.
+- Amplios conociemientos de PHP y entornos linux, Web Services, JSON
+- Experiencia de al menos 2 años en sitios con alto volumen de tráfico y aplicación de algoritmos de mejora de rendimiento de carga demostrable.
+Deseamos:
+Se valorará
+- Experiencia basada en desarrollo de proyectos propios
+- Conocimientos de herramientas de diseño y prototipado: Photoshop, Fireworks, Gimp.
+- Conocimientos de HCI y usabilidad.
+- Desarrollo de aplicaciones móviles con frameworks tipo Appcelerator o Phonegap
+- Inglés.
+Experiencia:
+1 a 3 años
+Idiomas:
+Ingles, Español
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+¿Te interesa? Apúntate aquí http://bit.ly/ujAT6K 

@@ -1,0 +1,8 @@
+
+Buscamos incporporar al equipo de trabajo un AP senior.
+•	Requisitos mínimos
+- Experiencia demostrable en proyectos Web con PHP, ASP, .net, HTML, CSS, JAVASCRIPT, JAVA, Gestores de contenido.
+- Alguna experiencia con gestor de contenido tipo LifeRay
+•	Requisitos deseados
+- Conocimientos movilidad y desarrollo básico de Apps Android / Ios
+- Manejo de Programas de Diseño y maquetación

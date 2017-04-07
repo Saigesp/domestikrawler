@@ -1,0 +1,18 @@
+
+Una Pyme alemana muy avanzada técnicamente y dedicada al ámbito de la telemedicina necesita incorporar desarrolladores java para un equipo interno de consultores. 
+Desarrollador Java Senior 
+Funciones: 
+- Colaboración en el desarrollo de plataforma de telemedicina
+- Participación en varios proyectos de desarrollo
+- Participación en meetings relacionados con el trabajo
+- Elaboración y Entendimiento de las exigencias técnicas
+- Concepción, Implementación y Pruebas de componentes de software
+- Testeo frecuente del software desarrollado y sus componentes
+- Documentación del software implementado
+- Mantenimiento de paquetes trabajados
+- Mejora contínua del reporting interno en base de JasperReports
+Buscamos un profesional con estudios universitarios y un mínimo de tres años de experiencia de desarrollo en Java SE y EE y conocimientos y experiencia de las siguientes tecnologías:
+EJB3, Spring Security, JPA, JBoss App. Server 5, JBoss App. Server 7, Maven 3, Subversion, Jenkins.
+Debe tener buenos conocimientos de bases de datos: Oracle y PostgreSQL y experiencia en la elaboración de Reports con iReport y JasperReports
+Además debe conocer alemán a nivel B1 e inglés a nivel B2.
+El salario mínimo es de 42,000 euros y el horario es de jornada completa alemana, es decir de 8 a 17 horas. El contrato es de un año con posterior conversión a indefinido.

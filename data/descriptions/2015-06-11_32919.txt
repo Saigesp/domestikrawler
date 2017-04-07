@@ -1,0 +1,23 @@
+
+Nuestro cliente, empresa internacional online de alimentación está buscando Desarrollador/a en PHP para al departamento de Tecnología, con experiencia de al menos 1 año en desarrollo orientado a objetos en PHP, así como en SQL. El trabajo estará enfocado al desarrollo de código y funcionalidades tanto para aplicaciones nuevas como para las ya existentes, asegurando siempre la calidad del código y ejecutando los pertinentes planes de prueba, entre otros. 
+Las principales tareas o funciones a desarrollar como Desarrollador/a de PHP son las siguientes:
+-Convertir las tareas de usuario en diseños técnicos (Clases + esquema BBDD).
+-Colaborar en la estimación y planificación de tareas.
+-Programar las tareas asignadas.
+-Asegurar la calidad del código desarrollado, tanto a nivel funcional como de naturaleza del código.
+-Diseñar y ejecutar planes de pruebas en el código desarrollado.
+-Documentar los resultados obtenidos.
+-Colaborar en la gestión de sistemas (LAMP).
+-Participar en la definición de la arquitectura de producto.
+Requisitos
+Nivel de inglés alto
+Para poder valorar tu candidatura, es imprescindible que cumplas con estos requisitos:
+-Estudios finalizados.
+-Experiencia de 1 año en el desarrollo orientado a objetos en PHP utilizando un Framework web (Deseable conocimientos de al menos un año en Symfony 1.4 y/o 2) y en desarrollo orientado a webs con alto volumen de tráfico y conexiones concurrentes.
+-Experiencia de al menos 3 años en SQL.
+-Experiencia de 1 año en gestión de sistemas basados en LAMP.
+-Experiencia mínima de 1 año en diseño técnico de soluciones SW.
+-Experiencia en desarrollo HTML+CSS+JS (JQuery).
+Requisitos deseables:
+Será muy valorable para la selección del candidato tener experiencia en el uso de metodologías ágiles (SCRUM) y conocimientos en el desarrollo e implantación de test unitarios.
+

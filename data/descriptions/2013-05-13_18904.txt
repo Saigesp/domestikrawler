@@ -1,0 +1,11 @@
+
+Estamos buscando un(a) Frontend developer con para nuestras oficinas en Barcelona (presencial).
+Buscamos a una persona polivalente, proactiva y con iniciativa. Con capacidad de adaptación y los siguientes conocimientos:
+- Maquetación HTML/HTML5 con CSS3.
+- Conocimientos de Javascript y librerías como jQuery.
+- MUY IMPORTANTE: Conocimientos relacionados con la maquetación orientada a dispositivos móviles (responsive) y SEO.
+- Conocimientos de PHP/MySQL.
+- Conocimientos de usabilidad.
+- Buen nivel de inglés
+Buscamos personas con dedicación y atención al detalle.
+

@@ -1,0 +1,19 @@
+
+Al menos 3 años de experiencia en:
+*Desarrollo orientado a Objetos
+*Desarrollo en arquitectura de N capas
+*Conocimientos de patrones de Diseño de aplicaciones
+*.NET Framework
+*Visual Basic .NET o C#
+*ASP NET MVC 4 - Web API
+*ADO .NET / Entity Framework
+*Conocimientos avanzados de SQL server 2008/2012
+Se valorará positivamente también conocimientos en las siguientes áreas:
+*Inglés
+*Metodologías ágiles como SCRUM
+*CSS
+*JavaScript
+Se ofrece:
+*Incorporación a grupo empresarial líder en su sector.
+*Integración en equipo de trabajo joven y dinámico.
+*Salario según experiencia

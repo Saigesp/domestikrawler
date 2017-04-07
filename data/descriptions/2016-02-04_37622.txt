@@ -1,0 +1,34 @@
+
+¿Te gusta hacer un poco de todo? ¿Quieres ponerte a prueba en un entorno dinámico? ¿Ser parte de una startup?
+Smartvel es una startup B2B enmarcada dentro de lo que se conoce como Local Listings. Somos capaces de contestar a la pregunta: “¿Qué puedo hacer en X el próximo Y?”. Hacemos cosas que pocos se han atrevido a hacer para clientes muy exigentes del turismo y medios. Vamos, que tenemos una montada interesante.
+¿A quién buscamos?
+A alguien con aCtitud. Necesitamos a una persona despierta, con ganas de aprender y que quiera aportar.
+Conocimientos que valoramos (no, no hemos dicho requeridos):
+• JavaScript
+- CoffeeScript.
+- AngularJS.
+• Python
+- Django.
+- Django REST framework.
+• Machine Learning
+- numpy / scipy
+- ntlk
+• Administración de sistemas / DevOps
+- Amazon Web Services.
+- Ansible.
+• Desarrollo y herramientas ágiles
+- Scrum.
+- Git.
+• Speak English.
+¿Qué te ofrecemos?
+• Banda salarial entre los 20K y 24K€.
+• Plan de “phantom shares”, es decir, ante una posible venta de la compañía en el futuro, todos ganamos.
+• 100€ en tickets restaurante al mes.
+• Nevera con comida y bebida.
+• (Cierta) flexibilidad en el horario.
+• Posibilidad de trabajar en remoto de tanto en cuanto (una vez asentado).
+• Y algún “perk” más que estamos incubando.
+¿Qué otras tecnologías estamos usando?
+Ofrecemos nuestros servicios mediante Single Page Applications usando AngularJS y distribuimos componentes (directivas) construidos con Webpack.
+Nuestro backend está implementado con tecnologías de Python (Django, Django REST framework, Celery, Flask, etc…) con una parte apoyada en Machine Learning (numpy, scipy, ntlk, scikit-learn, pandas, etc…).
+Y toda la parte de sistemas está en Amazon Web Services, gestionado con Ansible y haciendo uso de múltiples servicios como RabbitMQ, Redis, Elasticsearch, MongoDB, PostgreSQL, etc...

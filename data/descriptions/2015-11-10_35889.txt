@@ -1,0 +1,19 @@
+
+Estamos buscando un Desarrollador especializado en Drupal con conocimientos y experiencia en la capa frontend.
+Necesitamos una persona que cumpla los siguientes requisitos:
+
+* Nivel alto en Drupal 7 y su pool de módulos 
+* Dominio de  lenguajes PHP / MySQL 
+* Desarrollo de Custom Features 
+* Capacidades de configuración, securización, medida y optimización de performance de entornos. 
+* Diseño de Arquitectura de un sistema basado en Drupal.
+* Experiencia en capa frontend: HTML5 / CSS3 / JS
+* Experiencia mínima de 3 años
+Y además estaría genial que controlaras algo de: 
+* Desarrollos Drupal 8 con Symfony
+* Aplicación de Metodologías TDD / BDD
+* Desarrollo con Frameworks MVC JS (Angular/React) y librerías UI (Bootstrap/IONIC).
+* Técnicas de desarrollo web accesible, seofriendly y responsive design.
+El trabajo es presencial en Madrid. Abstenerse freelance no presenciales.
+Te esperamos.
+

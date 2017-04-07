@@ -1,0 +1,23 @@
+
+Empresa wuaki.tv
+Localidad Barcelona
+Wuaki.tv es una empresa española que ofrece el mejor contenido multimedia con la mejor calidad posible. Somos tu videoclub en casa, las mejores películas y series de televisión al mejor precio, a un sólo un clic de distancia de ti. Somos independientes. Nuestra única prioridad es servir a nuestros usuarios. En Wuaki.tv seleccionamos las mejores películas y series de televisión de las "Major" de Hollywood y compañías españolas.. Tenemos los clásicos y los nuevos lanzamientos. Estamos en el ordenador (www.wuaki.tv), y en Televisores Inteligentes (Smart TVs)
+Buscamos:
+Ingeniero Técnico o Documentalista encargado de redactar los manuales, procedimientos, documentación de código y API... Encargado de generar toda la documentación interna y externa de caracter técnico y colaborando con el equipo de IT y Producto. Esta documentación permitirá desarrollar nuevas plataformas con el equipo interno y con equipos externos.
+Ofrecemos:
+Ofrecemos puesto de trabajo dentro de una startup que está creciendo y revolucionando la forma de ver películas y series de TV. Oficinas modernas en el distrito del 22@ en Barcelona. Salario acorde a la experiencia demostrable. Trabajar con un equipo multidisciplinar, y multicultural. Ambiente joven y muy agradable. Oportunidades de crecimiento y de formación.
+Requerimos:
+Experiencia en cargos similares.
+Alto Dominio del Inglés: la documentación será desarollada en Inglés.
+Conocimientos técnicos: ha de ser capaz de generar documentación sobre el código fuente.
+Deseamos:
+Conocimientos de tecnologías web
+Deseable haber trabajado en proyectos desarrollados con Ruby on Rails.
+Experiencia:
+1 a 3 años
+Idiomas:
+Español, Inglés
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+

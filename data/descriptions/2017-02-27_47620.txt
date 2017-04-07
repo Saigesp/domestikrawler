@@ -1,0 +1,17 @@
+
+Requisitos mínimos:
+-	Al menos 4 años de experiencia en Drupal en desarrollo web con conocimiento sólidos de PHP. 
+-	Amplios conocimientos de los módulos Drupal existentes.
+-	Nociones de HTML/CSS/AJAX/JavaScript. 
+-	Conocimiento de seguridad de aplicaciones web. Manejo de sistemas de control de versiones como GIT.
+-	Se valorará experiencia en desarrollo app movil.
+-	Capacidad resolutiva. 
+Competencias personales:
+-	Capacidad de análisis y organización.
+-	Pro actividad y dinamismo.
+-	Trabajo en equipo.
+Te ofrecemos:
+-	Trabajar con las últimas tecnologías. 
+-	Inmejorable ambiente de trabajo. 
+-	Incorporación en una empresa con una continua evolución.
+

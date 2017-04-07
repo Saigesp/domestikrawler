@@ -1,0 +1,29 @@
+
+Company Description
+Notedlinks is a startup from Barcelona developing a SaaS tool that helps professional marketers and online media analyze, understand and improve their content strategy, increasing engagement and traffic. We analyze content weaknesses and strengths based on the analysis of competitors, giving tailored insights about how to outperform them.
+We analyze content performance across different platforms, using big data, semantic technologies and we are focused on building a next generation product. We have a fun flexible environment – we work hard and play hard – the team supports you, pushing forward with the latest technologies and agile work practices.
+Job Description
+We are looking for a Front-End engineer to build an advanced dashboard where data will be represented in an interactive way. You will be developing reports to share complex data with users and making them look great
+As a Front-End engineer, you should have advanced Javascript programming skills and experience in developing cross-browser and cross-platform compatible solutions. You will create super clean HTML5 and CSS3 code, adding JQuery and JS magic to improve the experience.
+You will be also calling external API's to get useful data. This data will be saved to be later represented in our dashboard. So we need someone who is not scared of working with APIs and some Backend Code.
+Minimum training: Technical Engineer
+Experience: 2 years
+Technologies that we use:
+- Javascript
+- Bootstrap
+- CSS3
+- Wordpress 
+- NoSQL
+Required:
+- Extensive experience with frontend development – HTML, CSS, responsive design, JS and JS MVC frameworks e.g. Angular JS, Ember JS, Backbone…
+- Flexible person with a great desire to innovate, learn and participate in a start-up that’s going to do great things.
+- Experience in use of APIs/web services and common Internet technologies and protocols (HTTP, SSL, OAuth, REST, JSON, XML,…).
+A plus:
+- Level of English medium / high.
+- Backend programming.
+- Experience in test driven development.
+- Github profile with code examples.
+- Degree in computer science.
+- Knownledge of SEO.
+- Familiar with agile methodologies.
+Contract Type: Full time contract

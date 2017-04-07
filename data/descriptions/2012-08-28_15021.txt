@@ -1,0 +1,21 @@
+
+
+Task description:
+    - To lead the Frontend Development Team consisting of Mobile, Shop Frontend and Frontend
+    - Inhouse Tools
+    - Good knowledge of PHP5/MySQL permits you to use and extend the MVC-Framework based
+    - on the Zend Framework
+    - Your excellent knowledge of Webstandards helps you to develop and extend the interactive
+    - Web-Frontends by the use of (X)HTML(5), SASS/compass and JavaScript (jQuery, extjs4 and nativ)
+
+
+Requirements:
+    - Degree in (Media) computer science or equivalent
+    - Enthusiastic Internet Developer, programming is not just your job but your hobby
+    - 5+ years of experience in the fields of web development and web design
+    - Excellent knowledge of (X)HTML, CSS, HTML5 and cross-browser programming and
+    - knowledge of JavaScript, AJAX jQuery, extjs4, SEO, tracking/analysis, optimization of HTML,CSS, JavaScript
+    - Excellent communication skills an capacity for teamwork in order to find the best solutions
+    - Collaborating with the colleagues
+    - Fluency in English. German is a plus.
+

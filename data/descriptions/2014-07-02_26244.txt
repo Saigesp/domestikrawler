@@ -1,0 +1,24 @@
+
+Gamygame es una de las compañías de gamificación más punteras en España y en proceso de expansión. Tenemos una larga y variada lista de clientes incluyendo equipos de fútbol, farmacéuticas, bancos y muchos más. Tenemos un entorno joven y dinámico siempre dispuesto a escuchar nuevas ideas.
+Estamos buscando un desarrollador Frontend con conocimiento experto en HTML5, CSS3 y JavaScript para unirse a nuestro equipo de desarrollo y trabajar en proyectos de alto rendimiento.
+¿Qué ofrecemos?
+- Trabajo en proyectos de alto nivel y en diferentes sectores. 
+- Formar parte de una excitante nueva disciplina de la industria. 
+- Una posición permanente en un entorno joven y dinámico. 
+- Una aventura dentro de una start up con mucho potencial de crecimiento.
+¿Qué valores nos interesan?
+- Pasión por el desarrollo Frontend 
+- Iniciativa, ganas de aprender y autogestión. 
+- Trabajador en equipo, capaz de enseñar si es necesario.
+Habilidades esenciales:
+- +3 años de experiencia en un trabajo similar 
+- Conocimiento experto en HTML5, CSS3 y estándares web 
+- Conocimiento avanzado de JavaScript nativo y jQuery 
+- Experiencia en maquetación accesible, usable y compatible con estándares W3C 
+- Experiencia con maquetación “responsive” y “adaptive” 
+- Control de maquetación multinavegador
+Habilidades deseadas:
+- Experiencia en desarrollo de aplicaciones móvil (iOS, Andorid, Windows, etc.) 
+- Frameworks de desarrollo móvil basados en HTML 
+- Conocimiento avanzado de librerías JavaScript
+Experiencia mínima de 5 años

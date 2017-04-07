@@ -1,0 +1,30 @@
+
+PRISMAS Trabajo y Personas esta buascando a un ingeniero de sistemas con disponibilidad para trabajar en Lisboa (Portugal) en una importante compañia de juegos en plataforma movil e internet.
+El puesto que se ofrece es a jornada completa, y eses necesario que los candidatos tengan permiso de trabajo en la Unión Europea.
+Responsabilidades:
+Será responsable de la automatización del lanzamiento, el despliegue y la gestión de cara a los productos del cliente, desde el desarrollo hasta la producción (ciclo de vida del producto).
+Su principal enfoque será trabajar codo con codo con los desarrolladores web, desarrolladores de juegos, arquitectos BBDD y cualquier otra persona que requiera de los servicios de administración de sistemas para diseñar y construir aprovisionamiento automático, gestión de configuración y sistemas de orquestación de servicios en ambientes internos dentro del ámbito cloud corporativo y público. 
+Formaras parte del "Operations Team", siendo un miembro clave del equipo.
+Los candidatos que apliquen, deben estar dispuestos a realizar viajes ocasionales a otras oficinas del grupo (sobre todo UK y Suiza).
+ 
+Tu perfil:
+Estamos buscando una persona sociable, buen jugador de equipo y que sea apasionado y dedicado en el trabajo.
+El candidato ideal deberá tener experiencia en los siguientes campos:
++3 años de experiencia en la automatización (puppet, cobbler, chef, foreman, AWS, VMware y orchestrator).
++7 años de experiencia en administración de sistemas Linux.
++4 años de experiencia en administración Enterprise.
++3 años de experiencia en trabajos de tipo DevOps dentro de un entorno basado en Linux o UNIX, con un profundo conocimiento del funcionamiento interno del sistema operativo.
++3 años de experiencia en ingeniería de sistemas.
+Experiencia con Python, Ruby, Perl, Shell y PHP.
++2 años de experiencia en virtualización (VMware, KVM, XEN).
+Acostumbrado a trabajar en equipo.
+Tener iniciativa.
+Poseer habilidades comunicativas.
+Ser responsable y tener compromiso.
+ 
+Serán valoradas positivamente las siguientes skills:
+Habilidades de seguridad (Selinux, IDS, evaluaciones de vulnerabilidad) sobre PHP.
+Tener experiencia como DBA.
+Experiencia en administración de redes.
+Licenciado en Ingeniería Informatica o similar.
+

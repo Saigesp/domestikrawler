@@ -1,0 +1,6 @@
+
+Si quieres formar parte de un equipo joven pero altamente tecnológico desarrollando un producto de software propio, esta es tu oportunidad!
+Buscamos un/a back-end developer con conocimientos sólidos en PHP y Symfony2 (ORM, routing, DIC, servicios, eventos...).
+Se valorará conocimientos en HTML5, CSS3, jQuery, Git, Integración continua, tests unitarios y funcionales, Jira, Confluence y/o bootstrap.
+Conócenos en http://www.wearebab.com.
+No te lo pienses, contacta con nosotros y conozcámonos!

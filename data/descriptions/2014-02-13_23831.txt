@@ -1,0 +1,16 @@
+
+Onebox es una empresa que desarrolla tecnología para la comercialización de espectáculos y actividades de ocio en los recintos más importantes del país.
+Buscamos un desarrollador con experiencia en tecnologías Java / JEE para para participar en la evolución constante de nuestra plataforma.
+Tus responsabilidades incluirán el desarrollo de componentes de backend basados en tecnologías innovadoras que definen una arquitectura de alto rendimiento.
+Te integrarás en un equipo dinámico, utilizando metodologías ágiles.
+Perfil:
+- Ingeniero Técnico y/o Superior en Informática o Grado Superior en Informática.
+- Experiencia 1-3 años en desarrollo Java.
+Conocimientos requeridos:
+- J2EE
+- Spring
+- Hibernate
+- Maven
+- Junit
+- Mysql
+- Servidor de aplicación Tomcat

@@ -1,0 +1,16 @@
+
+Empresa dedicada al desarrollo de proyectos de inteligencia artificial aplicada al marketing y tecnologías de optimización de páginas web está buscando un desarrollador/a de aplicaciones web con experiencia en desarrollo de back-ends/front-ends, para desarrollar interfaces y back-ends para la web. Deberá aplicar sus conocimientos en SEO para crear herramientas que mejoren el posicionamiento de las búsquedas de nuestras webs/aplicaciones.
+Requisitos
+- Estudios universitarios en informática, ingenieria en sistemas, o similar.
+- Experiencia en SEO
+- HTML/HTML5
+- PHP
+- Experiencia en Django y Python
+- MySQL
+- Javascript
+- CSS3 y nuevas tendencias 2.0
+- Experiencia en FrameWorks MVC
+- Tecnologías: Ajax, Jquery, Extjs, , phpmyadmin
+Valorable:
+- Serán evaluados altos conocimientos en programación orientada a objetos, manejo de errores, estructuras de datos, algoritmos, y creatividad e independencia a la hora de trabajar
+- Conocimientos de HTML5 son considerados un plus

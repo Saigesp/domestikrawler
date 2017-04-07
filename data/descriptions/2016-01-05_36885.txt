@@ -1,0 +1,17 @@
+
+Conocimientos nivel avanzado de lenguaje JavaScript
+Conocimientos de algún frameworks JavaScript: Ember js, Angular Js...
+Experiencia en alguna herramientas de automatización de pruebas, capybara, calabash,...
+Conocimientos de aplicaciones Web SPI
+Desarrollo de aplicaciones Web HTML5 / JS / CSS3
+Construcción de aplicaciones con Grunt o Gulp
+Conocimientos de herramientas de verificación de calidad de código JavaScript como JSLint / JSHint
+Conocimientos del repositorio de código y control de versiones con GIT
+Nivel alto de lectura de inglés técnico
+Se valorará
+Conocimientos de Java, especialmente framework Spring
+Metodologías ágiles de desarrollo de proyectos, scrum, kanban
+Experiencia en entorno Bancario
+Desarrollo JavaScript servidor con Node.js e instalación de paquetes npm
+Otras metodología ATDD / BDD / TDD
+Otras herramientas/ entornos como Bower o Yeoman, Rubi, Bootstrap, Integración continua con Bamboo / Jenkins

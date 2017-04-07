@@ -1,0 +1,5 @@
+
+Buscamos Programador web freelance para proyecto de duracion corta/media.
+El proyecto consiste en el desarrollo un site de subastas para un sector especifico. Diseño grafico y maquetacion no estarian incluidos en esta fase.
+En caso de estar interesado por favor enviar la tarifa por horas junto a una pequeña carta de presentacion o enlace a portfolio. Se facilitara la especificacion del proyecto para acordar la oferta final.
+Las tecnologias a usar nos son indiferentes, aunque prefeririamos PHP o Java. Imprescindible conocimientos de algun SCM como SVN, CVS o GIT,...

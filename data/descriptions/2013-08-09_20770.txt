@@ -1,0 +1,13 @@
+
+OnTheGo Systems está buscando desarrolladores de software brillantes para unirse a nuestro equipo.
+Creamos plugins comerciales para WordPress, que estan siendo usados en más de 200.000 sitios web.
+Nuestros clientes vienen de todas partes del mundo y nuestro equipo incluye desarrolladores de 4 continentes.
+Si eres un desarrollador con talento, te gusta trabajar en equipo y liderar proyectos complejos, esta es una gran oportunidad.
+Requisitos:
+* Título universitario en Informática
+* 3 años de experiencia en desarrollo PHP, incluyendo programación orientada a objetos
+* Fuerte experiencia en JavaScript
+* Fuerte experiencia en el uso de bases de datos eficientemente con MySQL
+* Buen nivel de inglés hablado y escrito
+* Disponibilidad para trabajar como parte de un equipo distribuido
+* La experiencia en desarrollo WordPress es una gran ventaja. Si eres un desarrollador destacado pero eres nuevo en WordPress, tendremos en cuenta tu aplicación de todas formas.

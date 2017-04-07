@@ -1,0 +1,16 @@
+
+BEE AND BIRD ANIMATION STUDIOS BARCELONA is a company dedicated to 3D Productions for an international clients.
+Job Description
+The person applicable for this job will work within the infrastructure while looking for the best possible solutions and implementation for audiovisual environments in 3D productions. A self motivated and task driven person with enthusiasm for the job is the perfect candidate. On day to day basis the person will be responsible for handling various IT tasks, both software and hardware related in order to ease the general workload.  Good team skills are essential.
+Requirements
+- Experience in CG productions
+- Windows administration
+- Knowledge of Win32 Api and shell scripting
+- Confidence in working with scalable storage solutions
+- Experience in backup policy implementation
+- Security conscious
+- Good verbal and written english communication skills
+Desired Skills
+- Programming experience (Python is highly appreciated )
+- Experience in digital asset management environments is a plus
+- Experience in LDAP connectivity (to an Active Directory)

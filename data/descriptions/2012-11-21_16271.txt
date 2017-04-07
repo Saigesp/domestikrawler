@@ -1,0 +1,25 @@
+
+Buscamos desarrolladores/as especializados en PHP que quieran trabajar en equipo y tengan la motivación para llevar a cabo proyectos internacionales con los que crecer. En IDODI tenemos un fondo considerable de proyectos en los que trabajar, solo se precisa inquietud, innovación y motivación para formar parte del equipo de desarrollo.
+Requisitos mínimos:
+•	Experiencia en proyectos PHP
+•	Conocimiento avanzados en: PHP, MySQL, HTML5, jQuery
+•      Experiencia en frameworks PHP, Linux, Apache, JQuery, AJAX y JSON
+•	Conocimiento alto de inglés
+•	Conocimientos en escalabilidad y redundancia
+•	Conocimientos básicos de MVC
+•	Asministración de Servidores en Linux (LAMP)
+•	Facilidad para asimilar nuevos conceptos de forma autodidacta
+•	Responsabildad y trabajo en equipo
+Se valorará:
+•	Amazon Web Services
+•	Linode
+•	Creación de APIs
+•	Conocimientos de herramientas opensource
+•	Conocimiento de técnicas de programación agil (Scrum)
+•	Experiencia en el desarrollo de clientes y servidores de servicios web (SOAP, JSON…)
+•	Utilización de herramientas de generación de documentación
+•	Creación/utilización de test unitarios
+Condiciones:
+•	Tipo de contrato: 6 meses + Indefinido
+•	Horario: Lunes a Viernes de 9h a 18h (flexible)
+•	Sueldo: A negociar

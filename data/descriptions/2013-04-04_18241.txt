@@ -1,0 +1,4 @@
+
+Tipo de Jornada completa.Teletrabajo.
+Labores de programación y mantenimiento plataformas digitales
+Se requieren amplio conocimiento de programación en PHP y CMS Joomla y Wordpress.

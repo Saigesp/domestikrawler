@@ -1,0 +1,12 @@
+
+Adecco Professional desde su división especializada en IT y Telecominucaciones selecciona para incorporación directa a nuestro cliente del sector tecnológico un/ a programador senior PHP.
+Buscamos un perfil con mínimo cinco años de experiencia que haya colaborado en todas las fases de un proyecto web, desde la toma de requisitos con el ciente hasta el desarrollo final del producto.
+Conocimientos técnicos requeridos:
+- Experiencia en algún framework PHP (Zend, Symfony, Cake, Yii) 
+- Javascript, jQuery, CSS, HTML5 
+- MySQL, Postgres
+Requisitos:
+- Mínimo 5 años de experiencia con PHP 
+- Experiencia en gestión de proyectos 
+- Titulación Ingeniería Técnica o Superior 
+- Inglés alto

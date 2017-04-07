@@ -1,0 +1,13 @@
+
+Buscamos un desarrollador freelance con experiencia demostrada para Startup en sector alimentario que va a cambiar las cosas. Nos gustaría trabajar con un profesional experto y con capacidad y ritmo ágil para cumplir con los plazos de entrega. 
+Requisitos mínimos:
+-Experiencia en desarrollo de aplicaciones web en PHP con bases de datos MySQL
+-Experiencia en el del paradigma de programación orientada a objetos y patrón MVC
+-Experiencia en Maquetación web responsive HTML5 + CSS3 con bootstrap y similares
+-Experiencia en Javascript + JQuery
+Se valorará:
+-Experiencia en desarrollo de aplicaciones móviles
+-Experiencia en administración de servidores LAMP
+-Conocimientos de Wordpress y Drupal
+Inicio proyecto: enero 2016
+Estamos construyendo algo grande. Vale la pena estar!

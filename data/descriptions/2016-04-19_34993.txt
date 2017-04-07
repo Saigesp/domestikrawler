@@ -1,0 +1,21 @@
+
+Buscamos a un desarrollador Django/Python (frontend/backend) en Barcelona, que disfrute desarrollando aplicaciones web en un entorno startup (ágil y exigente)Responsabilidades
+Diseñar, codificar y probar soluciones de software
+Colaborar en la definición de la base de datos y en el diseño de la aplicación web
+Dar soporte al desarrollador principal
+Requerimientos:
+Al menos 2 años de experiencia como desarrollador
+Experiencia demostrable en framework Django / Python (frontend / backend)
+Conocimiento extenso en HTML, bootstrap, CSS, JavaScript, jquery y tecnologías similares
+Conocimiento en bases de datos relacionales (MySQL / PostgreSQL)
+Se valorarán conocimientos en gestión de servidores Linux (nginx, gunicorn y relacionados) y en software de control de versiones (git o similar)
+Creativo, resolutivo y ordenado en el trabajo, con capacidad para trabajar de forma autónoma
+Inglés (para manejo de documentación y para traducción de memes ;-) )
+Ofrecemos:
+Proyecto en expansión con posibilidades de promoción
+Entorno de trabajo jóven y agradable
+Autonomía en la forma de trabajo
+Tipo de Puesto: Jornada completa
+Salario: 25-30.000 € brutos / año
+Ubicación del empleo: Barcelona, Barcelona
+Experiencia requerida: python: 2 años

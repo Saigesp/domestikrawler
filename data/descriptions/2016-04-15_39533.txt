@@ -1,0 +1,51 @@
+
+TORO development Ltd
+TORO is looking for experienced and motivated front-end Web developers to join its server
+development team.
+This team is in a global race to build the best mobile wallet. “Best wallet” is about mobile
+payments, but much more than that. The team builds services behind the wallet allowing to
+get coupons, offers, get into the metro, to buy concert tickets, to play games...
+At the same time, we are deploying many wallet projects in many countries around the
+globe.
+This position is open for Barcelona.
+Job description
+As a Front-end Web Developer you will develop functional and appealing web-based
+applications that work seamlessly also on mobile devices. This means creating Web
+interfaces using most recent techniques and technologies in close cooperation with our UX
+team. The goal of your work is to give the best possible usability to the users of the best
+mobile wallet in the market.
+Skills needed
+• 5+ years of experience with developing web-based front-ends
+• A firm grasp of modern Web standards and W3C coding practices
+• Good knowledge of HTML5, JavaScript and CSS3
+• Knowledge of popular JavaScript libraries and frameworks (jQuery, Angular.js)
+• Experience with building mobile and responsive Web interfaces
+• Knowledge of writing modular and reusable software using best coding practices
+• Fluent or working proficiency in English
+Optional skills / experience
+• Familiarity with browser testing and debugging
+• Experience with performance optimization of websites, usage of tools like Yslow
+and PageSpeed
+• Knowledge of modern tools for JavaScript (Grunt, Gulp, Bower)
+• Knowledge of CSS frameworks (Bootstrap, Foundation) and CSS tools (Sass,
+LESS)
+• Familiarity with SEO / SEM best practices
+• Familiarity with SCM such Git or Mercurial.
+• Contributions to OpenSource projects or active GitHub account is a plus!
+Working environment
+• You can choose your OS (e.g. Windows, any GNU/Linux based distributions)
+• Free Friday drink and snack
+• Multicultural working place with global projects.
+• Startup atmosphere
+About TORO Ltd
+Toro Development Limited (Toro) was established in 2007 to focus on improving the overall
+NFC user-experience (in the real world, on the mobile phone, and on the Internet).
+We have developed and continue developing akami suite™, a software platform to
+distribute NFC applications to end-users. Our technology is today licensed to Trusted
+Service Managers (TSM), mobile carriers, banks, payment systems, transport systems,
+retail chains, hotel chains, etc.
+For that matter, Toro has gathered a team of smart card and secure transactions
+specialists, together with experts in mobile applications, server applications, graphic
+design, marketing, and database management. Our aim is to provide the best environment
+for NFC services development, deployment, operation, usage and maintenance
+Toro is headquartered in Netherlands, with R&D and operations center in Barcelona, Spain

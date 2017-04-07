@@ -1,0 +1,41 @@
+
+¡Excelente posición de Senior Frontend Magento Developer en empresa especializada en el eCommerce con Magento!
+Tenemos proyectos de B2B y B2C de varias empresas de renombre en España y buscamos a una persona motivada para hacer parte de nuestro equipo de desarrollo en crecimiento.
+Reportarás directamente al CTO y te responsabilizarás de la maquetación y desarrollo de nuevos proyectos o existentes de tiendas eCommerce con Magento (versiones EE y CE 1 y 2).
+Formarás parte de un equipo de desarrollo multidisciplinar, joven y dinámico, en formación constante, con horario flexible, siguiendo metodologías ágiles y usando las mejores prácticas y herramientas existentes hoy en día para el desarrollo web.
+Ofrecemos:
+- Estabilidad laboral.
+- Retribución en base a candidatura.
+- Horario Flexible.
+- Formar parte de un equipo multidisciplinar.
+- Formación continuada.
+- Entorno joven y dinámico.
+Estudios mínimos
+- Ciclo Formativo Grado Superior - Informática
+- Experiencia mínima Más de 5 años
+Conocimientos necesarios
+- Magento  HTML5  CSS3  Lenguaje SASS  XML  Bootstrap  Git  JavaScript  jQuery  Desarrollo web 
+Requisitos mínimos
+- Experiencia mínima: Al menos 5 años maquetación eCommerce y 2 años con Magento
+- Conocimientos necesarios: Magento o Zend Framework, OOP, control de versiones
+- Conocimientos básicos de administración de OS basados en UNIX
+- Programación medio/alta de Javascript usando jQuery/Prototype
+- Experto de HTML5, CSS3 y estándares web
+- Cross-browsing
+- Responsive
+Requisitos deseados:
+- Nivel experto en Magento, idealmente con la certificación
+- Experiencia en webs de alto rendimiento
+- Nivel experto en JavaScript
+- Posicionamiento SEO
+Valorable:
+- Experiencia con Magento EE
+- Experiencia con Magento 2
+- Nivel medio en administración de plataformas redundantes y escalables
+- Experiencia en el desarrollo de código testeable y de test unitarios usando PHPUnit, Selenium u otras herramientas
+- Conocimientos de programación Backend con PHP
+- Creación de módulos de Magento
+- Experiencia de trabajo con metodologías ágiles (Scrum, Kanban, Lean, ...)
+- Conocimientos Memcached, Varnish, Dockers
+Si eres una persona proactiva y dinámica, motivada para crecer dentro de una empresa en expansión, te gusta aportar nuevas ideas y propuestas para crecer junto al resto del equipo y estar al día de las últimas tecnologías esta es una oportunidad única para dar un salto en tu carrera profesional.
+Ofreceremos una oportunidad de crecimiento, contrato directamente con la compañía de forma Indefinida y un salario atractivo, acorde con el expertise y potencialidad que aporte el candidato además de interesantes beneficios sociales.

@@ -1,0 +1,11 @@
+
+Busco desarrollador de aplicaciones móviles para empaquetar una aplicación desarrollada en HTML5 para las plataformas iOS y Android.
+La aplicación utiliza el framework jQueryMobile y es necesario empaquetarla con PhoneGap o Cordova. 
+Capacidad para publicar en iTunes y Google Play. 
+Conocimientos necesarios:
+- JavaScript
+- jQueryMobile
+- HTML5
+- PHP
+- WordPress.
+Duración del proyecto: 1 semana

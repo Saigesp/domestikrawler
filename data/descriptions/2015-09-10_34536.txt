@@ -1,0 +1,16 @@
+
+Somos una consultora IT, orientada al desarrollo web trabajando con las últimas tecnologías, con sede en Madrid, Alicante y Mexico DF.
+Buscamos un maquetador senior con un alto nivel en conocimientos de HTML5, CSS3, y RWD, para importantes proyectos de banca, seguros y energéticas.
+Buscamos un profesional con curiosidad y pasión por la innovación y la calidad del software y con una visión pragmática de los resultados.
+Estudios mínimos
+Formación Profesional Grado Superior - Informática
+Experiencia mínima
+Al menos 4 años
+Requisitos mínimos
+- Experiencia maquetación HTML5, CSS3.
+- Altos conocimientos calidad código. 
+- Altos conocimientos Responsive Web Design 
+- JavaScript
+-  Grunt.
+- Wordpress.
+- Boostrap 3.

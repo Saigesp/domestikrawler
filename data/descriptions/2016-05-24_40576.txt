@@ -1,0 +1,18 @@
+
+En boream estamos buscando Frontenders con experiencia en desarrollos basados en los frameworks ReactJS o BackboneJS.
+Características de la oferta:
+* Incorporación a proyectos de primer nivel, que te permitirá seguir creciendo como profesional.
+* Formación en las tecnologías del sector.
+* Trabajo presencial en Madrid.
+* Oferta salarial según valía
+Necesitamos que tengas soltura con lo siguiente: 
+* Javascript experto, aplicable a soluciones SPA con frameworks ReactJS o BackboneJS.
+* HTML5 + CSS3, multidispositivo aplicando técnicas RWD. 
+* Uso de preprocesadores CSS de tipo Sass o Less.  
+* Aplicación de frameworks como Bootstrap, Foundation o Ionic. 
+* Automatización de tareas con Grunt/Gulp, así como control de versiones en GIT
+Genial si pilotas o conoces algo de esto otro:
+* Desarrollo de apps Híbridas con Phonegap, Fuse o similar.
+* Definición y desarrollo de Testing automático. 
+* Capacidades en el diseño de Arquitecturas Técnicas de Frontend.
+* Conocer y tener experiencia en metodologías ágiles tipo Scrum.

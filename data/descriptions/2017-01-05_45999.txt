@@ -1,0 +1,33 @@
+
+Grou es la plataforma que te recomienda las mejores fiestas según tus preferencias en ese momento. Actualmente estamos operando en Barcelona y Gerona. En los próximos meses abriremos mercado en toda España y ampliaremos nuestros modelos de negocio.
+Estamos buscando una persona que lleve todo el desarrollo y actualizaciones de la app para iOS ayudando a mejorar el producto, ya que es nuestra gran prioridad a corto plazo.
+Skills: 
+Experiencia previa en sector de internet o en empresas con un fuerte core tecnológico (2 años).
+Experiencia en Javascript, HTML, CSS, PHP y MySQL.
+Clean Architecture
+Swift
+Conocimiento sobre Testing
+Requisitos principales:
+Desarrollo, control y supervisión de iOS.
+Visión de estrategia y futuro en la nube. Asegurar que las plataformas son resistentes y escalables.
+Se requiere una comprensión profunda de las diversas comunidades y las tecnologías de código abierto.
+Clara visión sobre el Big Data. Como aprovecharlo al máximo.
+Traducir la estrategia y la dirección marcadas por el CPO en resultados claros.
+En constante comunicación con el equipo de producto, el CMO y COO para poder adecuar la plataforma a las necesidades establecidas por el grupo.
+Diseñar una hoja de ruta de los procesos de desarrollo de la plataforma.
+Capacidad para trabajar en un entorno dinámico y cambiante.
+Capacidad para diagnosticar y solucionar problemas.
+Atención al detalle.
+Nice to have:
+Nivel inglés alto.
+Interés en startups
+Habilidades interpersonales y de liderazgo.
+Perks
+Oficinas sexys en el centro de Sabadell (A 5 minutos de transporte público (FGC y RENFE)).
+Fruta fresca en las oficinas
+Free Beer
+Team-building events
+Acceso gratuito a todas las fiestas de Barcelona, Girona y próximamente el resto de España
+Oportunidad de aprender con un equipo interdisciplinar 
+Flexibilidad horaria y en el periodo de vacaciones
+Trabajar en un entorno joven, dinámico y con mucha pasión por lo que hacemos

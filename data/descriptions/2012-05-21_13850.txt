@@ -1,0 +1,19 @@
+
+El proyecto: Challngr
+Ahora mismo en fase beta y a menos de 30 días del inicio de la campaña de comunicación (momento dulce).
+Challngr nace como una plataforma móvil que invita a los usuarios a "Retar" a sus marcas, productos y establecimientos favoritos para conseguir promociones. Los usuarios interactúan a través de la aplicación Challngr para iPhone/Android y las empreses pueden gestionar y preparar sus promociones a través de un frontend web.
+El puesto: 
+Líder de programación web de la mano de nuestro developer senior actual y con 2 júniors en vuestras manos.
+Participación directa en la toma de decisiones del proyecto y criterio total en sus enfoques técnicos.
+Requisitos técnicos: 
+Experiencia en proyectos con Symphony 1.4, web services (JSON), JQuery, Linux.
+La retribución:
+A negociar 100% en función de la aportación de la persona.
+Potencial de crecimiento profesional a corto, medio plazo, de la mano del proyecto y la empresa.
+El perfil:
+Buscamos a alguien que acepte el reto de unirse e implicarse en una startup, con iniciativa y capacidad de adaptación para desarrollar la "plataforma de los retos". Alguien motivado para aportar ideas y soluciones colaborando con todo el equipo; con ganas de discutir y mejorar todo lo que pueda.
+Más detalles:
+- No imprescindible inglés (el día a día se vive en castellano y/o catalán).
+- Trabajo presencial en nuestra oficina en Granollers (a 30km de Barcelona).
+- Flexibilidad ante cualquier circunstancia (por ambas partes).
+- Incorporación immediata (cuanto antes mejor).

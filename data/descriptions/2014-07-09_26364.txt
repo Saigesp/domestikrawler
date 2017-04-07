@@ -1,0 +1,7 @@
+
+Desde la Universidad Internacional de la Rioja seleccionamos un Diseñador Gráfico Senior.
+Funciones:
+- Generar productos gráficos para los diversos departamentos de la empresa y responsabilizarse del área creativa de las diversas web de la empresa, de las aplicaciones móviles y de los documentos corporativos impresos. 
+- También asesorará y realizará mejoras en la usabilidad web.
+Experiencia mínima de tres años.
+Experiencia con tecnologías CSS3 y HTML Frameworks de CSS (Twitter Bootstrap 3) Preprocesadores de CSS(LESS/SASS), Conocimientos de Usabilidad web Conocimientos de Best-practices de optimización de velocidad.

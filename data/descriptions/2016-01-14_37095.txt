@@ -1,0 +1,30 @@
+
+iOS SENIOR DEVELOPER
+En AKTIOS necesitamos incorporar a un iOS SENIOR DEVELOPER para participar en un proyecto de carácter estable en el Departamento Mobile de un cliente multinacional en Barcelona. 
+Por nuestra parte, explicarte que somos una Consultora IT Global que trabaja con diferentes empresas multinacionales y sectores ofreciendo un posicionamiento de 360º. 
+La información empresarial y nuestros principales clientes los puedes encontrar en nuestra web: www.aktios.com 
+Descripción: 
+Un Senior iOS Developer debe aportar capacidad de desarrollo, realización de test unitarios, interpretación de documentación, adaptación a las metodologías de desarrollo y trabajo en equipo. Además debe tener consolidada la capacidad análisis y toma de requerimientos, de realizar diseños técnicos, ser capaz de definir test de integración y debe iniciarse en la gestión de pequeño equipo de trabajo.
+Requisitos: 
+-	Experiencia en desarrollo de aplicaciones iOS
+-	Experiencia con iOS SDK, lenguaje (Swift – Objective –C) y IDE (XCode)
+-	Conocimiento de web service response (JSON, XML, SOAP)
+-	Creación de prototipos, análisis funcional, análisis técnico
+-	Creación y ejecución de tests unitarios y tests de integración
+-	Conocimientos de desarrollo de aplicaciones cliente-servidor y uso de APIs REST a través de HTTP y JSON
+-	Manejo de Control de versiones GIT
+Requisitos deseables: 
+Conocimiento y haber trabajado con Metodologías Ágiles, Conocimientos en UI/UX, Conocimientos de aplicaciones Android.
+Competencias requeridas
+Capacidad de trabajo en equipo
+Orientado a objetivos
+Capacidad de análisis y resolución
+Capacidad de innovación y de aplicación de nuevas tendencias
+Gestión del estrés
+Proactividad
+Se Ofrece: 
+-	Estabilidad laboral y plan de carrera
+-	Oportunidad de integrarte en un equipo de profesionales altamente cualificados
+-	Incorporarte en un equipo joven y entusiasta
+-	Salario a negociar en función de la valía y la experiencia 
+

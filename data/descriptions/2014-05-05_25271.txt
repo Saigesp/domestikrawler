@@ -1,0 +1,19 @@
+
+La empresa
+Originalmente somos una compañía holandesa que desde 2001 nos especializamos en la tecnología detrás de la recolección de datos online. Además de trabajar en el corazón de Ámsterdam con unos 20 empleados, nos embarcamos una aventura internacional; abrimos una oficina en Barcelona, España. ¡Y tú puedes formar parte de esta aventura! 
+Desarrollamos técnicas innovadoras para que la recolección online de datos se haga más fácil y eficiente para nuestros clientes (en su mayoría, empresas de investigación de mercado). Trabajamos 100% con software propio y con plataformas existentes, así que somos muy flexibles y siempre solemos actuar con rapidez.
+Descripción del trabajo 
+Como el Lead Developer formarás parte de nuestro equipo de programadores internacional y trabajarás en proyectos técnicamente desafiantes. Estos proyectos pueden ser desde aplicaciones basadas en web hasta extensas aplicaciones integradas. Trabajamos con una extensa variedad de tecnologías (C #, MVC .NET, MS SQL, HTML5, CSS3 y jQuery). 
+Como Lead Developer en Barcelona serás en parte responsable del establecimiento de la estructura de desarrollo para todo el equipo de programadores. Trabajarías en una compañía donde estamos continuamente investigando con técnicas innovadoras y donde se comparte el conocimiento.
+Ofrecemos
+- Gastos de viaje, comidas y jubilación. 
+- Jornada laboral a tiempo completo. 
+- Un entorno de trabajo internacional con un continuo contacto con los colegas de Ámsterdam. 
+- Un entorno de trabajo donde motivamos y fomentamos las iniciativas e ideas personales.
+Los candidatos deberán demostrar
+- Un mínimo de 5 años de experiencia en desarrollo de software.
+- Tener pasión por la tecnología e innovación, al igual que nosotros. 
+- Conocimiento y experiencia en C# como lenguaje de programación (se valorará conocimiento de MVC, .NET, MS SQL, HTML5, jQuery y CSS3). 
+- Buscas un nuevo reto donde puedes fijar tu propio rumbo y en el que puedes expandir tus conocimientos.
+- Tener fluidez con el inglés.
+

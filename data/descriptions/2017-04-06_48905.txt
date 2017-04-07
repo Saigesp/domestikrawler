@@ -1,0 +1,19 @@
+
+Eelp!, startup en fase de crecimiento en Barcelona, busca incorporar a su equipo técnico un Ruby on Rails Developer. 
+Si eres un apasionado del mundo startup y te gustaría formar parte del ecosistema startup, esta es tu oferta.
+
+La tareas que llevará a cabo como Senior Ruby on Rails son: definición de arquitectura, desarrollo del Core y de nuestra API, consumir API’s de proveedores, desarrollo de backend, implementación de un entorno de testing.
+Requisitos:
+Ruby on Rails
+Javascript 
+Git / Github
+Experiencia en MySQL, MongoDB
+Capacidad de trabajar en equipo
+ Conocimientos de frontend / backend (css, html5, jquery)
+¿Qué ofrecemos?
+Contrato indefinido y salario competitivo.
+Horario flexible.
+Pertenecer a una startup en fase de crecimiento.
+Formar parte de la toma de decisiones respecto al proyecto y del roadmap. 
+Ambiente Startup: flexible, ambicioso y con ganas de mejorar. 
+Trabajando codo con codo con compañeros con amplia experiencia en el sector.

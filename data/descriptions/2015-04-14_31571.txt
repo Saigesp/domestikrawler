@@ -1,0 +1,12 @@
+
+Insignia Studio somos un estudio de diseño web especializados en WordPress en Barcelona
+Buscamos autonomos o pymes que colaboren con nosotros para picos de trabajo que puedan darnos servicio en:
+- Desarrollo en WordPress tanto de plugins como plantillas
+- PHP
+-  Maquetación HTML5 y CSS3
+- Javascript / jQuery
+También valoramos positivamente aptitudes como:
+- Git o Subversion
+- LESS / SASS
+- Aptitudes de diseño web
+

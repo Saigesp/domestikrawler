@@ -1,0 +1,25 @@
+
+Funciones:
+Tareas del día a día de soporte de varias plataformas y también de la programación de nuevas funcionalidades.
+Requisitos
+- Experiencia en programación web. 
+- Soporte
+- Conocimiento de métodos de programación (Scrum, Agile).
+- Conocimiento de automatización con Maven y otras herramientas de terminal.
+- Conocimiento básico de MySQL y MongoDB (nosql).
+- Experiencia básica de programación en Java y Spring (1 año, o universitario).
+- Capacidad para comunicarse bien con los usuarios, administración y clientes.
+- Atención al detalle en el trabajo. 
+- Responsable en la toma de posesión de las tareas asignadas
+- Capacidad de trabajo independiente.
+Se ofrece 
+- Tipo de contrato: Indefinido
+- Jornada laboral: Completa
+- Horario: 9-18h
+- Salario: 18.000 € - 21.000 € Bruto/año
+Observaciones 
+- Empresa con plataforma propia y con Oficinas ubicadas en Barcelona
+- Disponibilidad Inmediata.
+- Se valorará uso y conocimiento de Redes sociales como Facebook-Twitter-YouTube, etc.
+- Incorporación inmediata
+ 

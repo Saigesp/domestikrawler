@@ -1,0 +1,11 @@
+
+Empresa de Mataró en procés  de creIxement, busca una persona dinámica amb  capacitat de treball en equip i amb experiència amb la programació d'aplicacions móbils.
+Requisits:
+- Experiència en HTML5 Y CSS3, creació,  testeig i publicació d'aplicacions amb Xcode i SDK Android. 
+- Coniexements de PHP i bases de dades MySql
+- Es valorarà que hagi treballat amb patrons MVC i SqlServer
+Condicions:
+- Contacte de 6 mesos prorrogable
+- Horari de dilluns a dijous de 9-14h i de 15-18.30h divendres de 9-15
+Salari: De 16.000 a 26.000€ segons la valua amb 14 pagues.
+Incorporació inmediata 

@@ -1,0 +1,17 @@
+
+ClubKviar es una empresa dedicada al e-commerce que gestiona un club privado gastronómico que ofrece una cuidada selección de los mejores restaurantes de la ciudad, junto a un servicio de reservas online y Asistente Personal.
+Actualmente estamos buscando un programador para reforzar nuestro equipo de desarrollo.
+Requisitos mínimos:
+- Experiencia y dominio de programación en PHP 
+- Experiencia desarrollando bajo Frameworks MVC 
+- Conocimientos de base de datos MySQL 
+- HTML5/CSS3 
+- Javascript/Jquery 
+Requisitos deseados:
+- Tener iniciativa y ser capaz de proponer alternativas 
+- Uso de plataformas Linux 
+- Foundation responsive Front-end Framework 
+- Conocimientos en el desarrollo de Android y iOS 
+- Git (BitBucket) 
+- Nivel medio de inglés
+Ofrecemos contrato estable, formación y beneficios sociales.

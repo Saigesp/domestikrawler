@@ -1,0 +1,13 @@
+
+Programador Web / PHP / e-commerce Granada
+Cívica Software es una empresa ubicada en Granada que ofrece soluciones y servicios en el sector de tecnologías de la Información y Comunicación (TIC) a clientes locales y nacionales.
+Abrimos un proceso de selección para buscar un programador con experiencia en la creación de aplicaciones web en PHP para el desarrollo de los proyectos en cartera. Necesitamos una persona proactiva, con disponibilidad y facilidad para trabajar en equipo y entusiasta de las nuevas tecnologías.
+Ofrecemos incorporación inmediata en una empresa joven, digital y flexible. 
+Jornada intensiva durante todo el año para compatibilizar la vida profesional y personal.
+Un excelente ambiente laboral en unas oficinas cómodas y bien comunicadas.
+Requisitos necesarios:
+* Experiencia mínima de 2 años como desarrollador Web con PHP , HTML5 y Javascript
+* Experiencia utilizando un framework en PHP de Modelo Vista Controlador(MVC)
+* Experiencia en desarrollo de tiendas online (Prestashop, Magento,...)
+* Experiencia en desarrollo con Gestores de Contenidos (Wordpress, Joomla, Drupal)
+* Se valorarán conocimientos en Angular JS, Java y .NET. 

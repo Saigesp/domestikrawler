@@ -1,0 +1,20 @@
+
+Se precisa incorporar un desarollador Java/J2EE.
+Buscamos ingenieros informáticos con al menos 1 año de experiencia, proactivos y con ganas de aprender, para trabajar en proyectos exigentes y muy ambiciosos en un entorno joven e innovador.
+Formará parte de un pequeño equipo de desarrollo orientado a proyectos relacionados con el mundo audiovisual y las telecomunicaciones, que requieren gran capacidad analítica. Las tareas serán tanto de desarrollo de nuevas funcionalidades como de gestión y mantenimiento de los sistemas existentes, entre otras.
+El stack tecnológico de los proyectos se centran en Java, principalmente en J2EE (JSP/Servlets) y Oracle ADF. 
+Salario negociable según valía del candidato. 
+Requisitos imprescindibles
+Conocimientos básicos de SQL
+Conocimientos de algoritmia
+Conocimientos de Java
+Conocimientos de HTML/CSS/JS
+Conocimientos básicos de sistemas operativo (Linux preferiblemente)
+Capacidad analítica.
+Manejo fluido del inglés técnico, escrito y leído
+Requisitos deseables
+Conocimientos básicos de AWS
+Conocimientos de Hibernate
+Conocimientos de MySQL o Oracle PL/SQL
+Conocimientos básicos en desarrollo de WebServices REST/SOAP
+Oracle ADF 

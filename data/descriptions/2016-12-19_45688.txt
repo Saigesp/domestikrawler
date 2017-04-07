@@ -1,0 +1,12 @@
+
+Estamos buscando diseñador digital en prácticas durante un periodo de entre 3 y 6 meses con posibilidad de integrarse a nuestro equipo en un futuro.
+Durante su estancia apoyará al departamento digital en la creación de diferentes materiales audiovisuales y online.
+Buscamos una persona con ganas de aprender, que pueda trabajar en equipo, con inquietudes relacionadas con el mundo digital, audiovisual y programación.
+Requisitos: 
+- HTML 5, CSS 3, Javascript, PHP y MySQL
+- Conocimientos de Motion graphics (After Effects) y edición de video (Premiere). 
+- Dominio de catalán y español.
+Se valorará: 
+- Nivel medio/alto de inglés. 
+- Dominio de los programas del paquete Adobe
+- Desarrollo de apps.

@@ -1,0 +1,13 @@
+
+atSistemas, compañía especializada en el diseño e implementación de soluciones IT en entornos JAVA, precisa incorporar en uno de nuestros clientes orientado al mundo de las comunicaciones situado en Madrid centro: 1 Programador con experiencia en Javascript de al menos 3 años. 
+Se requiere:
+- Experiencia con Javascript: Alto conocimiento de JQuery (al menos 3 años). 
+- Experiencia demostrable de 9 meses (dedicación completa) con alguno de estos frameworks: Backbone, Ember, AngularJS, Knockout 
+- Experiencia con html 5y css3 
+- Experiencia con MediaQueries de Css 
+- Experiencia con PHP de al menos 2 años
+- Experiencia con frameworks como Cake php o Symfony
+- Experiencia en frameworks como Modernizer o Require.js
+Se ofrece:
+- Salario a negociar 
+- Cursos de formación gratuito y posibilidad de retribución flexible

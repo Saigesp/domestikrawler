@@ -1,0 +1,19 @@
+
+Description:
+Database, Systems, Performance, Scalability &amp; Security Engineer.
+Ingeniero de Sistemas, Bases de Datos, Rendimiento, Escalabilidad y Seguridad.
+Overview:
+We are TOTFAN Games, a Barcelona (22@ Glòries) based startup developing The New Era in Digital Collecting.
+We are looking for a hands-on hacker on helping growing our platform on web, facebook, mobile, applications, databases, systems, performance, capacity planning &amp;amp; security.
+Requirements:
+* 5+ Years of Systems &amp; Database Engineering Experience.
+* Deep knowledge of MySQL Performance &amp;amp; Scalability.
+* Deep knowledge of Ubuntu Server / Debian Linux Admin. &amp;amp; Security.
+* Deep knowledge of Apache Server.
+* Knowledge of CDN, AWS, S3, EC2, RDS.
+Bonus Qualifications:
+* BS or MS in Computer Science or Equivalent.
+* Knowledge of OOP, PHP5, Python.
+* Knowledge of AJAX, MooTools, REST, JSON, Node.js.
+* Knowledge of Database Sharding, PostgreSQL, MongoDB, CouchDB.
+* Knowledge of Nginx, Lighttpd, Squid, Load Balancing &amp; Failover Arch.

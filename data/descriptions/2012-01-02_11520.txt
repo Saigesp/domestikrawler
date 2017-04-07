@@ -1,0 +1,14 @@
+
+Buscamos una persona joven y dinámica para responsabilizarse de la maquetación, programación y mantenimiento web en Bilbao
+La duración del proyecto es de aprox. 3 meses.
+Idealmente el candidato debería cumplir los siguientes requisitos:
+Experiencia bajo entornos LAMP: linux, Apache, MySQL, PHP
+Experiencia en XHTML/CSS/JavaScript/Jquery para maquetación de webs a partir de diseños facilitados en formatos gráficos. 
+Conocimiento de estándares SEO online
+Experiencia con servidores LINUX
+VALORAMOS:
+Conocimientos en tecnologías de desarrollo web (estándares, librerías, frameworks)
+Conocimientos en plataformas de gestión web (CMSs, e-commerce)
+Posicionamiento SEM
+Conocimientos de JOOMLA, WORDPRESS, DRUPAL... 
+

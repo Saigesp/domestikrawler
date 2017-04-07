@@ -1,0 +1,6 @@
+
+Necesitamos para ya mismo un/a desarrollador/a experto/a en Magento, que viva en Galicia o esté dispuesto/a a trasladarse a estas bellas tierras.
+Si no has tocado nunca Magento, pero te consideras experto/a programador/a PHP con capacidad para adaptarse a esta plataforma, también podrías ser el perfil que buscamos.
+Tu trabajo consistirá en velar por el buen funcionamiento de la plataforma, programar o adaptar módulos, preparar las acciones que plantee negocio, incluyendo páginas estáticas, etc. de una tienda online de primer nivel.
+Por tanto, también es necesario que domines HTML, CSS y JS y tener siempre presentes los distintos navegadores y dispositivos en los que la página debe funcionar correctamente.
+

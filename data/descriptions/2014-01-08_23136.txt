@@ -1,0 +1,4 @@
+
+La Universidad Internacional de La Rioja busca a un programador especializado en Javascript (Node, d3, jQuery) para integrarse en un laboratorio de nuevas narrativas formado por periodistas de datos, infografistas y expertos audiovisuales.
+El objetivo es realizar ambiciosos especiales sobre diversas temáticas educativas y periodístas con grandes cantidades de datos y una presentación muy innovadora.  
+El puesto sería preferiblemente presencial. 

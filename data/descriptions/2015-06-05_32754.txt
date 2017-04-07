@@ -1,0 +1,31 @@
+
+¿Qué es Barkibu?
+Barkibu es una aplicación web y móvil que permite realizar consultas veterinarias a través de Internet.
+Resolvemos más de 3000 consultas al mes. Acabamos de cumplir hace unos meses 1 añito de vida y todo va viento en popa, así que ahora que nos hacemos mayores toca hacer crecer la familia.
+¿Qué buscamos?
+Buscamos un desarrollador en Ruby on Rails con al menos 2 años de experiencia en esta tecnología y más de 6 años en el campo del desarrollo web para incorporarse a jornada completa.
+Te unirás a un equipo enormemente divertido y cualificado de 5 personas con mucha experiencia en desarrollo web que han hecho proyectos fantásticos a lo largo de su carrera.
+Tus tareas serán prácticamente el 90% desarrollar pero también participarás en la creación y diseño del producto.
+Requisitos obligatorios
+- Tienen que gustarte los animales. Y no vale decir: “me gustan los toros”. Si te gustan vivos y en el campo, pues vale.
+- Experiencia en ROR de más de 2 años. Te haremos unas pruebas técnicas
+- Entendemos que con más de 6 años en el desarrollo web ya tienes un conocimiento robusto de una arquitectura cliente-servidor pero si por casualidad no sabes que significa Jquery, Postgres, ActiveRecord, Git, Haml, Sass, MVC, REST, Github o Heroku no hace falta que nos sigas leyendo el resto de la oferta.
+- Conocimientos básicos de metodologías ágiles.
+- Dominio de flujos de trabajo con git o mercurial.
+- Muy alta proactividad. El equipo es muy independiente y muchas veces nadie te dirá lo que tienes que hacer. Y evidentemente no hacer nada no es una opción
+Requisitos valorables
+- Experiencia en grandes proyectos ROR de mucho tráfico
+- Experiencia en Seo
+Requisitos muy valorables
+- Cuenta en Github llena de cosas guays.
+- Colaboración en proyectos open source
+- Rails Way
+- Participación en eventos, concursos, coding dojos, formaciones o charlas técnicas en tu comunidad
+Ahora viene lo guay. Obtendrás
+- Un macbook para trabajar
+- Cuenta Premium de Spotify y cascos 
+- Posibilidad de trabajar en tu casa, en las oficinas de A Coruña, en las oficinas de Valencia o en la playa si quieres. 
+- Sueldo competitivo entre 25.000 y 35.000 euros dependiendo del candidato
+- Plan de crecimiento revisable cada 6 meses
+- Plan de Stock Options
+- Libertad de horarios, seguimos un modelo de rendimiento, no de horas en la silla.

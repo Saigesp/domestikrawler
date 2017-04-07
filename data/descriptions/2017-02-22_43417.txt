@@ -1,0 +1,16 @@
+
+Bilua Ecommerce - Bilua.com es la primera red de tiendas online especializadas en venta de productos para toda la familia en Europa. El grupo tiene su origen en la tienda online de mascotas Miscota.es, fundada en 2012.
+En la actualidad, Bilua cuenta con cinco tiendas online traducidas a 8 idiomas y desde las que vende sus productos en toda Europa:kidits.es, para el cuidado y atención del bebé; biuky.es, especializada en productos de belleza, carethy.es, del sector de la parafarmacia y Wellindal productos para hogar y jardín.
+Con más de 200.000 clientes únicos, Bilua ofrece más de 500.000 de productos en su portfolio.
+Descripción del puesto:
+Estamos buscando programadores senior para nuestra compañía, conocimientos en:
+- FrontEnd
+- HTML 5, CSS 3,
+- Javascript, Ajax,
+- JQuery, Bootstrap
+- BackendEnd
+- PHP
+Estudios mínimos:
+Formación Profesional Grado Superior
+Experiencia mínima:
+Al menos 5 años

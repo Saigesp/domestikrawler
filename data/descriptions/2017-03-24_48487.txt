@@ -1,0 +1,21 @@
+
+Reticulae consultores, división de consultoría de Reticulae, especializados en servicios de Recursos Humanos a nivel nacional,selecciona para cliente, Programadores Full Stack.
+Funciones:
+-Participar en los proyectos de desarrollo de programas, aplicaciones y productos donde podrás desarrollarte profesionalmente en una empresa en constante crecimiento.
+ - Desarrollar y mantener programas y aplicaciones web.
+ -Colaborar con el equipo para analizar, definir y desarrollar funcionalidades complejas.
+- Garantizar la calidad y las prestaciones del código y del producto entregado.
+Se ofrece: 
+-Contrato laboral indefinido
+-Salario acorde a las capacidades y experiencia
+Requisitos mínimos
+
+- Experiencia mínima de 1 año en Full-Stack JavaScript
+ -Haber trabajado en proyectos empleando ECMAScript 2015
+ -HTML5
+ -CSS3
+Se valorará:
+ -React
+ -MongoDB u otras bases de datos no relacionales
+ -NodeJS
+ -Meteor

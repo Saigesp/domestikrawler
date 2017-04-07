@@ -1,0 +1,16 @@
+
+As a senior Frontend Engineer you will assume the responsibility to create the a nice and reliable front-end four our application.
+Your main focus will be developing the front-end architecture including the connection with the back-end. You will join to our agile development process to ensure that the deliveries are timely and according to high quality standards.
+This is a full-time position in our office in Barcelona.
+Responsibilities
+·Transform the product requirements into production frontend code in coordination with the rest of the team
+·Design, and maintain the frontend architecture.
+·Implement test code coverage to the code to ensure its maintainability
+Required skills
+·Solid professional programming experience
+·Expert knowledge of Javascript
+·Solid knowledge of OO programming
+·Passionate about programming
+·Ability to accurately transform a wireframe into a real interface, paying attention to design details.
+·Able to work closely with and incorporate feedback from designers and/or other engineers
+·Keeps up with evolving web standards and good practices.

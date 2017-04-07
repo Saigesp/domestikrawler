@@ -1,0 +1,15 @@
+
+Home eating es una nueva comunidad de chefs que cocinan desde casa! 
+Abrimos al público en diciembre 2015. Somos un equipo de 5 personas.
+Necesitamos desarrollador IOS y ANDROID para media jornada, preferiblemente por la mañana, pero estamos abiertos a horario de tarde también.
+Algunas de las tecnologías web que usamos son: 
+-Ruby on Rails 
+-AWS 
+-Heroku 
+-Coffeescript 
+-Postgres SQL 
+-Python
+Contrato como indefinido. Indispensable poder enseñarnos ejemplos de apps desarrolladas previamente.
+Media jornada. 
+Salario: 1.000€/mes 
+Experiencia mínima: 1 año

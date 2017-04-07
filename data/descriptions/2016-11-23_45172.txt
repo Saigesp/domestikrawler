@@ -1,0 +1,25 @@
+
+Appnormals Team es un estudio indie de videojuegos para plataformas móviles, ordenadores y consolas. 
+Estamos buscando un programador con experiencia en Unity 3D, apasionado por su trabajo y por los videojuegos, para que se incorpore a jornada completa y de forma inmediata a nuestras oficinas en Barcelona.
+Requisitos mínimos: 
+• Experiencia mínima de 3 años con Unity 3D a nivel profesional.
+• Conocimientos altos de C#.
+• Experiencia con desarrollo de juegos 2D y en especial, pixel art.
+• Habilidad para escribir código limpio, bien organizado y estructurado.
+• Capacidad para adaptarse a código existente.
+• Conocimiento sólidos de algoritmos y técnicas utilizadas en videojuegos como AI, físicas, sprites, iluminación, animaciones, etc.
+• Alto grado de experiencia en plataformas móviles (iOS/Android) y Steam (PC/Mac).
+Se valorará positivamente: 
+• Programación orientada a objetos.
+• Experiencia en trabajos con gráficas en pixel art: escalas, spritesheet, animaciones frame by frame.
+• Experiencia en técnicas de optimización para dispositivos móbiles.
+• Conocimientos de Flash y HTML5
+• Conocimiento de metodologías ágiles de desarrollo
+• Buen nivel de inglés.
+• Experiencia en desarrollo para videoconsolas
+Ofrecemos:
+• Sueldo acorde a experiencia
+• Bonus por objetivos
+• Oportunidades de promoción y crecimiento profesional 
+• Puesto de responsabilidad 
+

@@ -1,0 +1,19 @@
+
+Bitban Technologies busca un desarrollador Front-End para cubrir nuevos desarrollos.
+¿Qué necesitamos?
+   * Conocimiento profundo de Html(5), CSS(3), JavaScript, jQuery, estándares y cross browser.
+   * Persona proactiva, con ganas de aportar y crecer con el equipo.
+   * Capacidad para hacer estimaciones de tiempo y cumplir plazos
+   * Que hayas trabajado más de 3 años 
+Bonus track:
+   * Escribir javascript desde "cero"
+   * Haber trabajado con diferentes Frameworks
+   * Sistemas de control de versiones
+   * Criterio estético y atención a los detalles (cada pixel cuenta)
+¿Qué ofrecemos?
+   * Lugar: Madrid (Cerca del Retiro)
+   * Horario: intensivo: de 8 a 16h
+   * Contrato: Indefinido
+   * Salario: acorde a experiencia y capacidades
+   * Trabajar con un equipo multidisciplinar
+

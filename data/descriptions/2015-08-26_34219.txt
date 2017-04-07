@@ -1,0 +1,18 @@
+
+KANTOX is looking for an Talented Ruby on Rails Developer (trainee) to join our growing international team and learn exciting trends in our Barcelona office. Your will act as a bridge between two key departments (Marketing and Tech), developing solutions for a fast-changing environment.
+We want you! Because…
+-Designing and programming is your passion.
+-You learn fast and can easily adapt to change. 
+-You are detail oriented, and you always strive for improvement. 
+-You are creative, you think out of the box and you love seeing your projects become a reality. 
+-You are (very) analytical and can propose multiple solutions to a given challenge.
+Desired Skills & Experience:
+-Relevant Degree and any experience/projects on Ruby on Rails projects. 
+-Basic knowledge of HTML5, CSS3 (with responsive design), JavaScript. 
+-Basic experience on how to integrate APIs/gems. 
+-Testing: you are convinced of its value and you know the basics to create useful tests. 
+-Fluent in English 
+-Practical experience in functional programming and concurrency will be a plus.
+Company Description
+Kantox is a pioneering firm in the FX industry providing worldwide currency exchange and international payment solutions. Kantox relies on a cutting-edge online platform that enables its customers to place orders based on real-time exchange rates that may result in peer-to-peer transactions. It is an efficient, transparent and innovative solution to serve real clients in this economy.
+Expertise and passion drive our young and multi-cultural team based in our offices in Barcelona, Spain and our headquarters office in London, United Kingdom. Despite being challenged by the static nature of the financial industry, our team manages to achieve a monthly growth of 30% and over $4 million in savings for our clients. Are you ready to join such a fast-growing, expert and passionate team?

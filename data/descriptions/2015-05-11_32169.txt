@@ -1,0 +1,60 @@
+
+Madrid, SPAIN
+Liferay Spain is looking for a developer with a passion for Frontend technologies and the
+creation of excellent user experience to join our international Theming team working from our
+office in Madrid.
+This position is specially well fitted for people who enjoy working in an international and
+multidisciplinary environment, collaborating with other developers, visual and UX designers as
+well as Product Managers from all around the world.
+In this role, you will...
+● Design and implement Themes for Liferay that will be included in the product out of the
+box or distributed through Liferay’s Marketplace.
+● Contribute to improving Liferay’s theme development infrastructure.
+● Apply new Web standards, including those that are only implemented in the latest
+browser versions.
+● Work closely with multidisciplinary
+developers helping them to build beautiful UIs and
+great user experience.
+● Use Git and GitHub on a daily basis to produce Open Source software.
+● Be part of a multicultural and ethical environment, helping to make the world a better
+place :)
+Skills & Requirements
+1. High proficiency on HTML5, CSS3/SASS.
+2. Ability to quickly learn new JavaScript frameworks and apply them effectively.
+3. Passionate learner, who wants to stay up to date with the latest web development
+technologies and is eager to apply them in an Open Source project like Liferay.
+4. Selfmotivating
+capabilities and Proactivity. We like being surprised with ideas that
+improve the product.
+5. High level of English and Spanish. Both written and spoken.
+6. Availability to work from our Madrid office.
+7. We will also value:
+a. Experience building Liferay themes.
+b. Experience with JavaScript frameworks such as jQuery.
+c. Experience contributing to Open Source projects. Send us links to your
+contributions!
+Awesome, but what does Liferay offer me?
+An opportunity to change the world :)
+Liferay, Inc. is a leading provider of enterprise open source portal and collaboration software
+products, servicing Fortune 500 companies worldwide, including Allianz, Barclay's, BASF, Cisco
+Systems, Lufthansa, TMobile,
+and the United Nations.
+Working at Liferay is an opportunity to participate in an ethical, motivating, challenging and
+constantly expanding project within an international environment that offers the possibility
+developing a personal career according to your capabilities and preferences as part of the
+Liferay team.
+Benefits and Perks
+● A place to be yourself, in which everyone can grow personally.
+● Fast and powerful Mac or PC and a 24' monitor.
+● Flexibility to work remotely when the task allows for it.
+● Free healthy food in our kitchen. Tons of fruits, coffee, Tea, ColaCao
+or Nesquik, diet
+cookies...
+● Health insurance for you and your family.
+● Sorry, we don't have a gym yet, but maybe in our next office.
+● No, we don't have an Xbox, Play2/3/X, but who needs them when you enjoy your job so
+much ;)
+● But above all, your happiness is important for the team. Moneyback
+guarantee if you
+don't get enough daily smiles.
+

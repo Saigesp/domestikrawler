@@ -1,0 +1,12 @@
+
+Voices That Matter SL es una plataforma internacional que promueve de forma online el mundo de los negocios en diferentes países, centrándose en sus principales empresas con el fin de incrementar las inversiones extranjeras y promocionar relaciones comerciales.
+Actualmente estamos buscando un desarrollador web junior para mantener y desarrollar nuestra red de sitios web.
+Requisitos técnicos:
+- PHP5, MySQL, Drupal
+- HTML, CSS, Javascript (jQuery)
+Requisitos imprescindibles:
+- Inglés nivel medio-alto
+- Atención a los detalles
+- Capacidad de trabajar en equipo
+- Flexibilidad y capacidad de adaptarse fácilmente
+Incorporación inmediata, no se requiere experiencia previa. Puesto presencial, no se admiten candidaturas remotas.  

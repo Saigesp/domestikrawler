@@ -1,0 +1,6 @@
+
+Abrimos nueva sede de la escuela de Realidad Virtual VR-EVO en Madrid. Buscamos profesionales del Unreal Engine para que cubran las aulas enfocadas a dicho software.
+Necesitamos tanto profesores enfocados en el desarrollo de niveles en general, importación, exportación, compilación y debugging, optimización, Persona, VR, IA, etc...
+No requerimos que domine todo el Unreal Engine 4, pero si nos gustaría diferenciar entre profesores destinados al apartado gráfico y la programación, por lo tanto si te interesa no dudes en mandarnos CV.
+Igualmente también necesitamos profesionales para algunos proyectos de VR que estamos desarrollando.
+Se valora si se tienen conocimientos extra, como Zbrush, Max, Photoshop... sobre todo si se ha tenido contacto con el diseño para VR.

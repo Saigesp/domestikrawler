@@ -1,0 +1,33 @@
+
+Responsabilidades: Desarrollar y mantener la evolucion de un user interface de una web-site web-aplicacion y llevar su evolucion y optimizar el UI/UX, rendimiento / performance haciendo uso de las buenas practicas y tools.
+Antecedentes y experiencia:
+Necesario
+Titulado en informática y experiencia laboral equivalente
+Al menos 3 años de experiencia como Front-End
+Excelente conocimiento de 
+Angular
+JS Javascript y jQuery
+HTML5, CSS3 y Bootstrap
+MVC
+Buen conocimiento de
+bases de datos relacionales (SQL, MySQL, PostgreSQL)
+al menos un lenguaje de scripting (Python, Perl, Ruby)
+git-hub (control de versiones)
+Nivel medio/alto de Inglés
+Salario
+18.000€ - 24.000€ Bruto/año
+Requisitos
+Estudios mínimos:
+Sin estudios
+Experiencia mínima:
+Al menos 3 años
+Conocimientos necesarios:
+Angular  JS Javascript  jQuery  HTML5  CSS3  Bootstrap  MVC 
+Requisitos mínimos:
+Titulado en informática y experiencia laboral equivalente
+Al menos 3 años de experiencia como Front-End
+Excelente conocimiento de 
+Angular
+JS Javascript y jQuery
+HTML5, CSS3 y Bootstrap
+MVC

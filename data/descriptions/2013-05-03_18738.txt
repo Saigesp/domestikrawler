@@ -1,0 +1,7 @@
+
+Startup, situada en Barcelona Activa ,que ofrece al mundo una nueva forma de participar e interacturar alrededor del sharing online. Precisa incorporar a los más apasionados developers del sector, para integrarlos en su equipo de desarrollo en Barcelona. Como buena startup, necesita gente con experiencia, flexibilidad y motivación para participar y formar parte de un producto nuevo.   
+Su objetivo es llegar a millones de usuarios a través de su web... y ahí entras tú. 
+Buscamos a un Frontend Engineer que asumiría tareas de UI/UX de su producto. 
+Para ello precisamos una sólida experiencia en HTML5/CSS3/JS, frameworks como jQuery y desarrollo de aplicaciones web REST complejas en JS; Así mismo precisamos tus habilidades en la escritura de código reusable en aplicaciones de alto rendimiento, sistemas de templates y desarrollos enfocados a solución de bugs cross-browser. 
+Valoraremos positivamente tu experiencia con Backbone JS, Twitter Bootstap o algún otro framework JS como Angular, Ember, etc.
+

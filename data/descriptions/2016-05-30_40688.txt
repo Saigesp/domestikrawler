@@ -1,0 +1,16 @@
+
+Desarrollo de temas responsive desde cero y plugins a medida para WordPress
+Desarrollo font-end
+PHP, HTML5, CSS3 y JavaScript
+Integración de APIs usando Json
+Uso de procesadores de CSS
+Gestión y manejo de BBDD relacionales (MySQL).
+Se valorarán conocimiento de desarrollo en:
+Woocommerce
+Magento
+Integración pasarelas de pago en Woocommerce y Magento
+Conocimientos de UX, experiencia de usuario, desarrollo de diseño funcional, user flow, etc.
+Otros lenguajes de programación como Python
+Conocimientos de GIT como control de versiones
+Conocimientos en programas de diseño como Photoshop, Illustrator, Sketch
+Ser un poco geek.

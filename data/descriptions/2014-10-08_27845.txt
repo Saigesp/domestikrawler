@@ -1,0 +1,10 @@
+
+Atmira, consultora especializada en ofrecer soluciones y desarrollos software incorpora en un Analista / Programador Senior J2EE que se integrará en el proyecto de uno de nuestros clientes líder en el sector e-learning. 
+Buscamos un perfil AP/ PS J2EE con 3 años de experiencia con conocimientos en:
+- Struts
+- Hibernate
+- Jqueries
+- Tomcat
+- Eclipse
+- Experiencia en entornos unix (Linux/Solaris)
+- Experiencia en análisis funcionales y diseño basado en UML

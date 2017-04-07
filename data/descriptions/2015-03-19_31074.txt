@@ -1,0 +1,3 @@
+
+Desde Alfa9 buscamos perfiles JavaScript Developer para trabajar en empresa cliente internacional, en sus oficinas de Rambla de Catalunya. Horario: 10:30-19h. Contratación directa por el cliente.
+Se requiere experiencia sólida en Programacion JavaScript y al menos 2 años de experiencia con algún framework (Foundation, Angular, backbone y socket.io) y con RestFul/Json APIs. Imprescindible fluidez con el inglés, ya que el 70% del equipo es internacional.

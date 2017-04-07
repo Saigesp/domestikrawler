@@ -1,0 +1,4 @@
+
+Hola,
+Necesitamos un desarrollador PHP con experiencia en cualquiera de los frameworks Yii/Zend que pueda realizar una valoración de la implementación de un Backend de un proyecto cuyo Frontend se encuentra diseñado y maquetado.
+Gracias

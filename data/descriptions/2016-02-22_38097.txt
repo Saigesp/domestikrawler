@@ -1,0 +1,17 @@
+
+En el departamento web de Cocus buscamos un experto en D3.js para un proyecto de software de carácter muy ambicioso.
+Necesitamos alguien con grandes conocimientos técnicos de la librería de Javascript D3.js, experiencia demostrable en proyectos anteriores.
+Nos gustan las reuniones presenciales, por lo que es preferible que sea de Madrid, aunque no es indispensable.
+Conocimientos: 
+- D3.js
+Deseable: 
+- CSS3 
+- Bootstrap 3
+- Muy buen gusto
+Tareas: 
+- Front-end responsive
+- Integraciones REST
+Condiciones: 
+- Freelance 
+- Responsable con los plazos 
+- Disponibilidad para reuniones con cliente en Madrid

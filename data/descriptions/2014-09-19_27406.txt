@@ -1,0 +1,7 @@
+
+Buscamos programadores JavaScript para proponer y/o ejecutar "mashups” usando APIs públicas.
+Se requiere saber programar en JavaScript, sentirse cómodo en PHP y WordPress y haber trabajado con un preprocesador de CSS como Sass, Less o Stylus. 
+También tener conocimiento y experiencia con librerías como D3.js y two.js, así como  conocimiento de las APIs REST principales internacionales (dev.twitter.com, instagram.com/developer, developers.google.com, etc.).
+Queremos alguien que haya identificado algunas APIs o fuentes de datos más específicas en España (como la API de Idealista por ejemplo: www.idealista.com/labs/api.htm).
+Estamos generando una red de profesionales freelance (programadores frontend, diseñadores interactivos) para ayudarnos a ejecutar contenidos dentro del campo del "periodismo de datos” y la “infografía o visualización interactiva”. Aunque nuestro gestor de contenidos sea un Wordpress (de momento), se valorará experiencia con Node.js y Express.js.
+Se trata de un trabajo freelance en remoto utilizando Skype y GitHub, ya que nuestra sede actualmente se encuentra en Nueva York. 

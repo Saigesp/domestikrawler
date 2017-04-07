@@ -1,0 +1,19 @@
+
+Empresa especializada en Database Marketing y Business Intelligence ofrece puesto de trabajo como Analista BI, con experiencia profesional en puesto similar.
+Buscamos un profesional con talento analítico, capacidad de aprendizaje y gran dosis de creatividad, capaz de analizar la información, extraer conclusiones y realizar recomendaciones que impacten en los planes de negocio de nuestros clientes.
+Entre sus funciones,
+- Segmentación de cartera de clientes por valor y comportamiento.
+- Generación de modelos productivos mediante técnicas datamining.
+- Desarrollo de propuestas de acciones para segmentos de clientes definidos.
+- Análisis económico de las posibles acciones, viabilidad y objetivos esperados.
+- Control y seguimiento de la rentabilidad de las campañas, efectividad y desviaciones respecto a los objetivos presupuestados marcados.
+Requisitos mínimos:
+- Licenciatura en Estadística, Matemáticas, Económicas, Ingeniería, Investigación en Técnicas de Mercados o similar.
+- Herramientas análisis estadístico: R, SPSS, ACCESS.
+- Usuario avanzado de Excel, Access y SPSS.
+- Nivel Inglés mínimo equivalente a First Certificate Of English demostrable.
+Requisitos deseados:  
+- Experiencia en Agencia de Publicidad o Marketing o Instituto de Investigación de Mercados.
+- Experiencia en CRM Sector Automoción/Gran Consumo.
+- Analítica Web.
+

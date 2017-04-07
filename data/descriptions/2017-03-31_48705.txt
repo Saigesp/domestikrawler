@@ -1,0 +1,25 @@
+
+Keytree, consultora de tecnología galardonada y especializada en Innovación y Desarrollo, busca incorporar a su plantilla un desarrollador de ABAP para unirse a su equipo de Madrid. El candidato seleccionado estará involucrado en todo el proceso del producto: recopilación, análisis de requisitos, diseño, codificación, testeo, implementación y mantenimiento del código.
+Experiencia requerida:
+•	5+ años de experiencia en desarrollo de aplicaciones utilizando ABAP / 4. 
+•	Conocimientos de ABAP y ABAP OO.
+•	Experiencia en depuración.
+•	Amplia experiencia demostrada en ABAP dentro de las siguientes áreas: 
+Flujo de trabajo 
+Programación orientada a objetos 
+Diccionario de datos 
+BAPI, BADI, RFC, ALE / EDI, IDOC, programación de ALV
+Informes Clásicos e Interactivos
+BDC 
+SAP Scripts 
+Formularios inteligentes, formularios Adobe (offline / interactivo) 
+Mejoras 
+Salidas del usuario 
+Programación de diálogo 
+Interfaz / programación ABAP Proxy 
+LSMW 
+BSP 
+ABAP Web Dynpro
+Ajuste de rendimiento, desarrollo de módulos de funciones y programación de Spool 
+•	Comprensión de las áreas funcionales de SAP en Finanzas (FI / CO), Ventas y Distribución (SD), Gestión del Capital Humano (HCM), Customer Relationship Management (CRM) y Netweaver Portal.
+•	Se valorará positivamente la experiencia en Gateway, PI y desarrollo web.

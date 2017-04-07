@@ -1,0 +1,24 @@
+
+Para atender la demanda de software, Solbooking Spain, solicita desarrolladores .NET especializados en C#, ASPNET, MVC con conocimiento de lectura XML, programación orientada a objetos, comprensión de APIs modulares, acceso a base de datos SQL, conocimiento en web services y HTML5. 
+Principales responsabilidades: 
+-	Participar en el análisis y desarrollo de proyectos de desarrollo de software 
+-	Desarrollar código fuente en un equipo de trabajo 
+-	Actualizar, mantener y agregar nuevas funcionalidades al software desarrollado por la compañía 
+-	Trabajar en uno o más de los siguientes roles definidos por la empresa: analista, desarrollador, tester, etc. 
+-	Implementar APIs de terceros para ampliar capacidades de software comercial 
+Conocimientos técnico: 
+-	Desarrollo de Tecnologías Microsoft .NET / C# 
+-	Programación orientada a objetos (clases, objetos, interfaces, etc.) 
+-	jQuery, JavaSript, Bootstrap, Azure, VS2013, TFS deseables
+-	SQL Server 2012
+-	Compresión de APIs (Web API RESTFul)
+-	Conocimiento en análisis, diseño, desarrollo de Software 
+Requisitos: 
+-	Ingeniería o TSU en sistemas computacionales, informática o carrera afín 
+-	Demostrar competencia técnica en C# .Net
+-	Preferentemente tener experiencia mínima de 1 año, en caso que no, se evaluará la capacidad técnica actual y la facilidad de aprendizaje 
+Ofrecemos: 
+-	Excelente ambiente laboral 
+-	Oportunidad de desarrollo 
+-	Capacitación en metodologías de desarrollo de software 
+-	Plan de formación continua

@@ -1,0 +1,9 @@
+
+Buscamos un programador-desarrollador web para nuestro departamento de sistemas. 
+Con nivel alto en HTML5, CSS3, Javascript, con dominio de librerías tipo jQuery y Lodash
+Conocimientos de maquetación responsiva, Bootstrap 3 y/o foundation v5.
+Conocimientos de frameworks JS: ember.js, backbone. Preferiblemente Angular.js. Dominio de PHP y/o vb.net
+Con una experiencia mínima en el manejo de la tecnología detallada.
+Valoraremos muy positivamente, experiencia en desarrollo de aplicaciones móviles híbridas. Haber trabajado anteriormente con control de versiones, preferiblemente GIT. Conocimientos de arquitectura REST.
+Buscamos un profesional con iniciativa, orientado al logro, proactivo y creativo. 
+Capacidad de afrontar retos y encontrar soluciones a problemas. Responsabilidad y autonomía

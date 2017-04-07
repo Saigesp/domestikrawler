@@ -1,0 +1,7 @@
+
+Hola,
+Necesitamos un programador que domine el campo, para el desarrollo de un pequeño software para el control de unas pantallas LED dinámicamente. El proyecto debería entregarse en 3 semanas.
+Tareas
+- Decisión (conjunta) de la mejor opción y desarrollo de software. 
+- Entrega del código y testeo presencial. 
+- El desarrollo es muy pequeño, pero la manera de enfocarlo es lo que más valoraremos.

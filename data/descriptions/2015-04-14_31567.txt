@@ -1,0 +1,31 @@
+
+Job Summary
+PUSHTech™ is seeking a star iOS SDK Developer. You will work on the most exciting projects in mobile -- as well as one of our product offerings. You will occupy a role as the subject matter expert on iOS within the fastest growing player in mobile.
+Required Skills and Experience:
+• Have 3+ years of iOS development experience
+• Expert in Objective-C, Core Services, developer tools (Xcode 5 and 6), and workflows (both manual memory management and ARC, debugging, profiling, unit testing, continuous integration, provisioning, distributing and submission to the App Store)
+• Have sound object-oriented programming skills
+• Intimately familiar with iOS design patterns and coding conventions as well as Apple’s Human Interface Guidelines and App Store Review Guidelines
+• Expert understanding of networking, local data caching and multitasking on iOS
+• Git and Agile methodologies understanding
+Desired Skills and Experience:
+• Master in Computer Science 
+•Solid experience with commonly create 3rd party libraries and services 
+• Up to speed with iOS 8 changes, new features and requirements
+• Development experience with other mobile platforms (e.g. Android), a plus
+• Solid HTML, CSS and JavaScript development skills, a plus
+• Experience with task planning and estimating effort
+• Experience working on small to medium‐sized teams
+• Experience leading projects and overseeing other iOS developers
+ • Approach technical challenges with an open mind and desire to innovate
+• Appreciate great design and thrive in a creative environment
+• Communicative and clear under tight deadlines
+• Strong personal organization and attention to detail
+• Flexible and adaptable to both organizational and project-level changes
+Salary and Benefits:
+• Rewarding career within a start-up, mobile 
+• Profit from working with a talented team of serial entrepreneurs and top developers
+• Barcelona’s start-up scene & access to a well-established network
+• Fun and international team of young top performers
+• Competitive remuneration package.
+

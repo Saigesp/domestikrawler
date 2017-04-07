@@ -1,0 +1,14 @@
+
+Buscamos un programador Frontend que sepa y le guste el diseño de interfaces para trabajar como puesto fijo en The Social Coin.
+Somos una Startup de Barcelona que se dedica a fomentar el altruismo mediante unas monedas que simbolizan acciones desinteresadas, estas se pasan cuando alguien realiza un favor, generando así una cadena de favores que se puede trazar mediante nuestra plataforma online.
+Aplica como programador a tiempo parcial o completo, se requieren habilidades y conocimientos de diseños y de usabilidad para rediseñar la nueva plataforma online.
+Se precisa:
+   - Programación PHP, Python, HTML5, Bootstrap,
+   - Maquetación web
+   - Diseño de interfícies
+   - jQuery
+   - Diseño responsive 
+Se valora:
+   - Sass
+   - Django
+   - Less

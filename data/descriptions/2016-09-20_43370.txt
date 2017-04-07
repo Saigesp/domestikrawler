@@ -1,0 +1,36 @@
+
+Fik está buscando incorporar a su filas un/a desarrollador/a web con experiencia de 1 a 2 años en desarrollo de páginas web y en concreto, plantillas de diverso tipo.
+Fik es una empresa que tiene más de cinco años de experiencia desarrollando eCommerce. Hemos tenido la suerte de colaborar en proyectos de primera línea con clientes como La Clínica Design, La Nevera Roja, Babaa, Alegria Industries, Viesgo...
+Tenemos un equipo joven y multidisciplinar, que aborda las diferentes variables que componen un eCommerce en la actualidad. Además siempre estamos un pasito por delante probando y experimentando con nuevas tecnologías y servicios, ofreciendo lo último a nuestros clientes.
+Si te gusta programar, eres detallista, cuidas la maquetación con mimo, y en general, te encanta el mundo del eCommerce, ¡te estamos buscando!
+CONOCIMIENTOR REQUERIDOS:
+Básicos: 
+     - HTML 
+     - CSS : 
+            . Selectores / buenas prácticas. 
+            . Algún preprocesador ( LESS / SASS / Stylus ) .
+     - JS : 
+            . Conceptos básicos : Interacción con DOM, Asincronía, AJAX.
+            . Que hayas manejado algún framework/librería (Jquery, Zepto o similar). 
+            . Gulp / Grunt  	
+- PHP (Nociones básicas, si sabes más o tienes algún otro lenguaje favorito, también nos vale)
+Conectarse a una Base de Datos ( Al menos que sepas manejar un cliente tipo phpMyAdmin o MySQL WorkBench)
+- Git (o algún control de versiones)
+CONOCIMIENTOS ADICIONALES VALORADOS:
+- Maquetación en Wordpress (Que hayas visto alguna plantilla y sepas cómo se organizan)
+- Liquid (Shopify, o pseudo lenguajes, que no te asuste ver cosas nuevas y aprenderlas)
+TAMBIÉN VALORAMOS:
+- Atención al detalle, dedicación y pasión para la programación (Que seas un poco geek). 
+- Profesionalidad y responsabilidad (que te tomes el trabajo en serio y estés dispuesto a crecer profesionalmente). 
+- Capacidad de trabajar en equipo y habilidades organizativas (Que seas una persona con la que se pueda hablar).
+OFRECEMOS:
+18k a 30k, según experiencia y valía. 
+Oficinas en el centro de Madrid
+Un ambiente rodeado de startups
+Flexibilidad horaria
+Vacaciones también flexibles (para bien).
+Perks propios de una startup. 
+Ambiente familiar y distendido.
+Posibilidad de promoción y crecimiento profesional.
+Mentoring y acompañamiento. 
+

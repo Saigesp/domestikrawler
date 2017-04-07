@@ -1,0 +1,19 @@
+
+Descripción
+Como programador junior podrás: innovar, aprender y participar en una nueva empresa que va a hacer grandes cosas. Buscamos pensadores innovadores flexibles inteligentes y trabajadores del equipo que no tengan miedo de tomar nuevos desafíos y aprender nuevas tecnologías.
+Estudios mínimos:
+Ingeniero Técnico Informático.
+Experiencia:
+Conceptos básicos en javascript, nodejs.
+Requisitos mínimos:
+- Conocimientos de programacion limpia , orientado a objetivos , nodejs, express
+- Conocimientos de Relational Databases como MySQL
+- Conocimientos en Data Bases como NoSQL.
+- Software design y architecture patterns.
+Requisitos máximos:
+Experiencia en test driven development (TDD).
+Experiencia con web crawling.
+Nivel de English
+Conocimientos Elasticsearch o Solr
+Trabajo media jornada en horario flexible.
+Ambiente de trabajo joven y dinámico.

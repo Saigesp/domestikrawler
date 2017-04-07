@@ -1,0 +1,8 @@
+
+En Snackson precisamos un freelance para realizar cambios menores en nuestra aplicación Snackson en la versión de Android. El trabajo calculamos que llevaría entre 2 y 5 días (dependiendo de la experiencia). 
+Cambios a realizar:
+- Añadir nuevos idiomas a la aplicación (la aplicación ya tiene 3 idiomas, incorporamos 3 nuevos)
+- Realizar un cambio en el menú de idiomas
+- Revisar un bug controlado de una de las funcionalidades
+- Publicar nueva versión
+Los cambios se deberían realizar del 14 al 20 de Julio. Imprescindible residir en Barcelona y desplazarse a nuestras oficinas (Zona Glóries). 

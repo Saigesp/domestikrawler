@@ -1,0 +1,28 @@
+
+Descripción del empleo
+Buscamos 2 becarios para el Dpto. de desarrollo Web, estén cursando o que hayan cursado estudios de Informática, mediante Carrera en FP. 
+
+Sobre ti:  
+•	Conocimientos en LAMP, en particular PHP con orientación a objetos MVC 
+         - PHP, AJAX, jQuery, JavaScript, MySQL, HTML5, CSS3.
+•	Programar es tu vocación y tu obsesión.
+•	Eres autodidacta del aprendizaje técnico con libros y blogs.
+•	Te obsesiona la calidad del código y la carga del site sea rápida?.
+Requisitos Deseados:
+•	Conocimientos en algunas de los CMS o Ecommerce open source: Wordpress y Prestashop.
+•	Conocimientos de básicos en PhotoShop.
+•	Se valorará conocimientos en administración de sistema “CentOs” o similar.
+Te encargarás de:
+•	Dar apoyo en proyecto web en basados en Wordpress, Prestashop y PHP
+
+Aptitudes deseadas
+•	Actitud proactiva, apasionado de la tecnología, trabajo en equipo, motivación.
+•	Agilidad, curiosidad y constante búsqueda de nuevos recursos.
+•	Eres una persona con autonomía, analítica y resolutiva.
+Ofrecemos:
+•	Entorno laboral muy agradable, equipo joven con experiencia y en pleno crecimiento. 
+•	En unas oficinas impresionantes y una ubicación perfecta.
+•	Código de vestimenta informal. 
+•	Jornada laboral: Media jornada.
+•	Horario: 09:00 a 14:00 o de 15:00 a 18:00
+

@@ -1,0 +1,21 @@
+
+El director de programación / Chief Technology Officer será responsable de seleccionar su propio equipo de programadores, desarrollar la web desde el principio y/o supervisar su desarrollo si se subcontrata, dirigir y desarrollar ampliaciones posteriores, y elegir y administrar los sistemas y la tecnología necesaria para mantener el portal operativo.
+Ofrecemos:
+- Convertirte en socio y co-fundador de una ambiciosa start-up en crecimiento
+- Trabajar de Director de Programación / CTO con contrato indefinido y jornada completa, reportando directamente al CEO
+- Seleccionar y liderar tu propio equipo de programadores y administradores de sistemas
+Requisitos básicos:
+Programación web en PHP.
+Programación de interfaces web usando HTML, CSS y JavaScript.
+Diseño y administración de bases de datos relacionales (preferentemente MySQL).
+Administración de sistemas UNIX/Linux.
+Conocimiento de las técnicas básicas de análisis y diseño de algoritmos, así como de los algoritmos y estructuras de datos más habituales.
+Requisitos adicionales:
+Experiencia en el despliegue y mantenimiento de servicios críticos.
+Experiencia en la creación de componentes para WordPress.
+Experiencia en administración de servidores de correo (preferentemente basados en Postfix).
+Experiencia en gestión de proyectos de software.
+Conocimiento de bases de datos no relacionales.
+Conocimiento de las técnicas básicas de programación segura.
+Se valorará positivamente el conocimiento de varios lenguajes de
+programación, más cuanto más variado sea el espectro de aplicaciones.

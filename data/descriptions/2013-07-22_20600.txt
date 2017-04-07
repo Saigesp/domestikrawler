@@ -1,0 +1,24 @@
+
+Ofrecemos unas prácticas en el dpto. IT de nuestra empresa, donde el candidato seleccionado realizará las siguientes funciones:
+- Dar soporte al Manager del Departamento de IT
+- Diseño básico de maquetas para e- mail masivo
+- Gestor de BBDD de Marketing y ventas: BBDD para enriquecimiento, filtrado, extracción y carga de datos, asi como control de calidad.
+- Colaborador en procesos de Marketing directo para IVC y clientes: lanzamiento de campañas vía erial y reporting de sus resultados. Reportará el estatus de las mismas ( envíos-devoluciones-errores- un subscribe) así como las inscripciones y/o acceso a los enlaces patrocinados y de información, según lo requieran las campañas. 
+- Apoyo en la integración de CRM IVC a SQL
+              - Creación de Tablas
+              - Carga de Datos
+              - Testeo de la BBDD resultante
+Buscamos una persona que quiera formar parte de una empresa joven, dinámica y comprometida con su labor.
+Ofrecemos flexibilidad horaria, buen ambiente de trabajo, y un aprendizaje de primera mano, pudiendo colaborar desde un primer momento con el departamento, manteniendo contacto con otros departamentos, como consultoria, fiscal, administraciones, laboral etc...
+Si te gusta trabajar en equipo y formar parte de una empresa con gran proyección internacional, ivc puede ser una fantástica oportunidad para tu formación práctica.
+Requisitos:
+-Imprescindible Inglés
+-Valorable otros idiomas 
+
+Imprescindible:
+- SQL
+- HTML
+- MS Access
+- Lenguaje Programación entorno web
+- PHP
+Jornada laboral: 40 h semanales.

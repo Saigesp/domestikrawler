@@ -1,0 +1,16 @@
+
+Buscamos un programador freelance para los proyectos que desarrollamos en CMS Drupal. 
+Requisitos:
+•	Ciclo Formativo Grado Superior Informática / Ingeniería técnica informática
+•	Conocimientos HTML / CSS
+•	Conocimientos PHP
+•	Conocimientos en Drupal
+•	Módulos Drupal de interés:
+o	Views
+o	Context
+o	Rules
+o	i18n
+o	Webform
+o	Media
+o	Panels
+o	Display Suite

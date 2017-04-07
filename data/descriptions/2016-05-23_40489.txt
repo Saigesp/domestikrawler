@@ -1,0 +1,4 @@
+
+Realización del frontend en HTML y CSS para los diversos proyectos de la compañía e integración de trabajos en JS tanto a bajo nivel con librerías como jQuery como trabajos más complejos en AngularJS o frameworks similares.
+El puesto de trabajo estará amparado en el paraguas del equipo de la compañía que actualmente esta formado por varios desarrolladores senior de backend, diseño y UX.
+Así como el 90% de los trabajos se desarrollan bajo criterios propios de diseño y desarrollo, también existirá la necesidad de atender labores dentro del entorno de los CMS del tipo (Wordpress, Joomla y Drupal).

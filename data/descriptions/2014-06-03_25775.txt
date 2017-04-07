@@ -1,0 +1,9 @@
+
+atSistemas, compañía del sector de Tecnologías de la Información, especializada en el diseño y construcción de arquitecturas Java J2EE y en soluciones de valor añadido para el ámbito de portales corporativos, precisa incorporar un Diseñador/Maquetador web Senior para uno de nuestros clientes situado en campo de las naciones.
+Se requiere:
+Experiencia y conocimientos en css3, html5 y javascript, en concreto con libreria jquery
+Requisitos deseados:
+Que haya trabajado con javascript y css compatibles con navegadores antiguos como IE6, IE7 e IE8
+Tarifa/hora: a negociar
+Es un proyecto puntual de 1 mes de duración.
+

@@ -1,0 +1,23 @@
+
+Somos un equipo joven de personas apasionadas por el marketing digital y las nuevas tecnologías, con buenas ideas y ganas de marcar la diferencia.
+Venimos de diferentes sectores como el marketing online o la consultoría digital y tratamos de aplicar nuestro expertise en ayudar a empresas a trasladar sus fortalezas al online, ofreciendo soluciones completas, hechas a medida de nuestros clientes, pero a un precio asequible. 
+Ofrecemos un ambiente de trabajo joven, dinámico y con muy buen trato y respeto por los compañeros, queremos encontrar alguien que encaje en este sentido también con nosotros.
+Ubicación
+Población: Madrid 
+Descripción
+Descripción de la oferta:	Buscamos un candidato que quiera participar en el crecimiento de nuestra empresa aportándonos sus conocimientos y experiencia en estos lenguajes así como cualquier otra disciplina que domine, Nuestra empresa no solo realiza desarrollos informáticos , también trabajamos áreas como e-commerce, apps móviles, marketing y analítica digital, diseño... Pero principalmente buscamos un apasionado en el área de la programación.
+Ofrecemos un ambiente de trabajo joven, dinámico y con muy buen trato y respeto por los compañeros, queremos encontrar alguien que encaje en este sentido también con nosotros.
+Estudios mínimos:	Formación Profesional Grado Superior - Informática 
+Experiencia mínima: Al menos 2 años
+
+Necesitamos 
+- Sólida experiencia en desarrollo sobre pila LAMP 
+- Amplia experiencia (+5 años) en –al menos uno de– los siguientes frameworks (por orden de preferencia): Yii, Symfony, Laravel o Zend 
+- Amplia experiencia en el desarrollo de herramientas de gestión basadas en web 
+- Experiencia en el desarrollo y consumo de webservices SOAP y REST 
+- Metodologías ágiles (Integración continua, testeo, automatización…) 
+- Capacidad para programar y documentar íntegramente en inglés 
+- Ser autónomo o tener capacidad para facturar en España
+Requisitos mínimos:
+Mínimo dos años trabajando con estas tecnologías y haber empleado las mismas en desarrollos previos (necesario ejemplos demostrables).
+

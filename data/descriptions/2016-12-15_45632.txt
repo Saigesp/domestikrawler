@@ -1,0 +1,14 @@
+
+Grow es una agencia de publicidad que da soluciones efectivas en marketing, comunicación, publicidad y consultoría digital a sus clientes.
+Trabajarás en el departamento de Digital y Social Media, participando en el desarrollo de proyectos web a medida, desde la concepción de la idea creativa de la campaña hasta la puesta en marcha online del backend y frontend del producto.
+Encajarás en el puesto si tienes lo siguiente:
+HTML5 , CSS3, PHP, JAVASCRIPT, DRUPAL - Nivel experto
+BBDD, SLQ, MySQL - Nivel algo
+ASP. .NET - Nivel alto
+JAVA, C# - Deseable
+WebServices, XML - Deseable
+RoR, iOS, Android, Facebook - Medio
+Es muy importante ser experto en Drupal, y conocerlo en profundidad, además de ser capaz de programar funcionalidades que no resuelva un módulo, o ser capaz de complementarlo, si es necesario. Para ello, lo mejor es que nos demuestres que conoces lenguajes como HTML5, CSS3, PHP, y Javascript. Para grandes proyectos, estos lenguajes serán necesarios para programar la web desde cero. Valoraremos mucho conocimientos en Ruby On Rails, Node, Angular, Sass.
+Tener conocimientos de Bases de Datos es imprescindible, puesto que la gestión de los proyectos web se llevará a cabo con tecnología SQL o MySQL.
+En ocasiones, es probable que necesitemos, por requerimientos del proyecto o del cliente que trabajes con ASP, .NET, o Java. Valoraremos conocimientos en estas tecnologías, así como conocimientos para programar aplicaciones en Facebook, Android o iOS.
+Ofrecemos un contrato temporal y un rango salarial de 18.000 a 24.000 brutos anuales según valía del candidato.

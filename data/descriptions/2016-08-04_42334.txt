@@ -1,0 +1,13 @@
+
+En Iwantic estamos buscando un System Developer para una gran start-up tecnológica del sector Internet en Barcelona.
+Queremos a alguien con iniciativa a quien le interese unirse a una compañía en crecimiento y con un equipo internacional, dinámico y con talento. 
+Requisitos mínimos: 
+- Inglés C1/C2.
+-4/5 años de experiencia en puesto similar.
+-Conocimientos avanzados de Java.
+-Conocimientos de Bash, SQL, Python y Javascript.
+-Se valorará experiencia con: Clojure, Scala, Erlang o Go.
+-Disponibilidad para viajar.
+-Trabajo en equipo.
+-Habilidades e interés por el diseño.
+La persona seleccionada gozará de grandes beneficios sociales, contrato indefinido y un atractivo paquete salarial. Además hará uso de las últimas tecnologías del mercado y trabajará en un ambiente de gran visibilidad internacional.

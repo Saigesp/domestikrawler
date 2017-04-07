@@ -1,0 +1,36 @@
+
+Buscamos un Programador Senior para el Desarrollo de una aplicación WEB de Gran envergadura para el entorno Sanitario. El candidato formará parte de un equipo multidisciplinar.
+Buscamos candidatos con inquietud por aprender y crecer profesionalmente, habituados a desempeñar roles de Programador en entornos de Salud.
+Ofrecemos trabajo estable. Somos fabricantes de productos propios, trabajamos en equipo y con metodologías ágiles, nuestro ciclo de vida del software está soportado por herramientas que agilizan el proceso productivo y contribuyen a la cualificación del profesional que se incorpora con nosotros.
+Estamos muy comprometidos con la actualización tecnológica de nuestros productos y en base a ello desarrollamos planes continuos de formación. Fomentamos y aplicamos políticas de conciliación de la vida laboral, personal y familiar, teletrabajo e igualdad.
+Competencias técnicas requeridas:
+ Conocimiento en los siguientes lenguajes/frameworks de programación:
+  -Java. Nivel Experto.
+  - Hibernate. Nivel Experto.
+  - Spring-Data. Nivel Experto.
+  - Spring-IO. Nivel Experto.
+  - Spring-Boot. Nivel Experto.
+  - JPA (Java Persistence API).
+  - Experiencia en Implementación de servicios REST con Spring.
+  - Experiencia en desarrollo software implementando patrones de diseño.
+      o Inyección de dependencias.
+      o Abstract Factory.
+      o Builder.
+      o Factory Method.
+      o Otros.
+  - Conocimiento de Java Reflection API.
+  - Modelado y diseño de bases de datos.
+Competencias técnicas valorables:
+- Conocimiento funcional en el sector sanitario, en concreto en el mundo del HIS (Sistema de información hospitalaria)
+- JasperReports
+- GIT
+- Maven
+- Eclipse
+- Tomcat, JBOSS, Weblogic y otros servidores de aplicaciones J2EE
+Competencias personales:
+- Calidad humana
+- Capacidad de trabajo en equipo
+- Capacidad de análisis
+- Compañerismo
+Formación Mínima: FP2/Grado Superior
+Experiencia mínima (en las tecnologías requeridas): 2 años

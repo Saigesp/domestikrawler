@@ -1,0 +1,20 @@
+
+XHTML / CSS3
+IMPRESCINDIBLE PODER ASISTIR CON FRECUENCIA A NUESTRAS OFICINAS EN MADRID
+El maquetador/a XHTML/CSS3 se encargará de escribir el código XHTML/CSS3 necesario para portales del grupo Bodaclick. Trabajará estrechamente con los equipos de diseño de producto y de desarrollo de software, que son sus dos interfaces principales.
+Se requerirá:
+- Experiencia de al menos de 2 años en el desarrollo Fron-End de interfaces Web
+- Maquetación XHTML + CSS3 bajo estándares W3C y WAI
+- Conocimiento y experiencia en desarrollo con HTML 5
+- Conocimientos relacionados a la maquetación orientada a dispositivos móviles y amigable al SEO
+- Utilización de frameworks de maquetación móvil (jqTouch, jquery mobile...)
+- Programación cliente: Javascript \ AJAX \ JQuery
+- Twitter Bootstrap
+También se valorará:
+- Conocimientos en programación php
+- Conocimientos en plantillas twig
+- Conocimiento de herramientas de control de versiones (SVN, GIT, …)
+- Conocimiento de LESS (lesscss.org)
+Más información  aquí.
+Ponte en contacto con nosotros en jobsit@bodaclick.com
+NO APLICAR SI NO PUEDES VENIR A NUESTRAS OFICINAS EN MADRID

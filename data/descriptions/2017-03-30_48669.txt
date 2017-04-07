@@ -1,0 +1,24 @@
+
+¿Quiénes somos?
+Viewforyou es una empresa joven y dinámica en la que podrás desarrollar todo tu potencial colaborando con un equipo de gente apasionada por la innovación.
+Nuestra empresa acerca soluciones pioneras y personalizadas mediante renders 3d, visitas virtuales 360 y una variedad de servicios enfocados a la visualización en arquitectura, promotoras e inmobiliarias.
+¿Qué buscamos?
+Requisitos mínimos:
+·         Mínimo 3 años de experiencia como desarrollador
+·         Experiencia en PHP y MySQL
+·         Dominio de Javascript y uso de librería WebGL
+·         Familiarizado con el uso de frameworks (Laravel, Symfony...)
+·         Uso de software de control de veriones (Git, SVN)
+·         HTML5 y CSS
+·         Jquery
+Valorable:
+·         Node.js
+·         Uso de librería Three.js o haber trabajado en entornos de VR
+·         Experiencia en sites de alto tráfico
+·         Conocimientos de ElasticSearch, Sphinx…
+·         Optimización webs móviles
+
+¿Qué ofrecemos?
+Contrato full time para 3 meses con posibilidad de contrato indefinido.
+Flexibilidad y posibilidad de involucrarse y participar en el crecimiento de la empresa.
+Disponibilidad: Inmediata 

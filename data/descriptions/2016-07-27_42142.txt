@@ -1,0 +1,32 @@
+
+Si eres un/a geek y te apasiona entender el interior de las tecnologías, tu momento para desarrollar tecnología e innovación es ahora. Desarrolla tu potencial y vive una experiencia profesional única en 8Belts.
+En 8Belts buscamos personas dinámicas, resolutivas, creativas, profesionales implicados y con iniciativa que deseen unirse a nuestro gran equipo. Si crees que tú podrías ser uno de nosotros y quieres formar parte de una empresa joven, innovadora y con gran futuro, continúa leyendo y puede que pronto pases a formar parte del universo 8Belts.
+
+Queremos que te incorpores de manera inmediata al equipo de Tecnología y Producto de 8Belts como programador/a informático/a para poner en valor tu talento y experiencia junto a un gran equipo de profesionales. Contribuirás al desarrollo del software de 8Belts junto a nuestro gran equipo y las nuevas tecnologías que buscarán mejorar el rendimiento, usabilidades, procesamientos, prestaciones... 
+¿Eres tú la persona que estamos buscando? ¿Te atreves con otro nuevo éxito en tu carrera profesional? 
+¿Qué necesitas saber?
+- Experiencia en PHP 5 y desarrollo de scripts.
+- Experiencia con MySQL, y modelado de BDs.
+- Dominio Framework PHP Yii y adaptación de páginas responsive.
+- Conocimientos HTML5,CSS, Javascript, jQuerry, Ajax.
+- Experiencia con sistemas de control de versiones Git.
+- Experiencia en implementación de medios de pagos virtuales (TPVs, Paypal, etc...)
+- Conocimientos de SO. Linux.
+¿Cuáles serán tus misiones?
+- Programación web, scripts y conexiones con API.
+- Análisis funcional de bases de datos.
+- Soporte correctivo, preventivo y reactivo.
+- Testados de funcionalidad y seguridad.
+¿Quiénes nos apasionan?
+- Un/a auténtico/a freak de las tecnologías.
+- Personas con ilusión, humildad, deseo de aprender continuamente y compartir lo aprendido.
+- Alta capacidad de organización, planificación y comunicación.
+- Actitud dinámica y proactiva enfocada en los resultados.
+- Que no tema los cambios: Fácil adaptación al cambio. 
+¿Qué consigues?
+- Oportunidad de crecer profesionalmente en un equipo dinámico, ambiente de trabajo colaborativo y participar de forma activa en el desarrollo de un proyecto de éxito.
+- Contrato laboral en una empresa de idiomas referente en España.
+- Entorno de trabajo innovador y flexible, a la vanguardia de la empresa tradicional.
+- Posibilidad de formación para tu crecimiento profesional.
+- Salario según valía del candidato.
+Conoce el método 8Belts en TV: https://www.youtube.com/watch?v=jN40FLBkQG4

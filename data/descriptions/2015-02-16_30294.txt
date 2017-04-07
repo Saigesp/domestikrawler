@@ -1,0 +1,25 @@
+
+ATTRIBUTES AND SKILLS
+PHP
+SQL
+Java
+MySQL Administration
+magento
+IT MANAGEMENT
+WordPress
+Woocommerce
+jQuery
+AJAX
+JSON
+XML
+Apache Administration
+Zend
+Javascript
+Mobile Programming
+API 
+LANGUAGES
+Italian, Native 
+AVAILABLE TO CANDIDATES FROM
+Italy 
+About
+Activities The candidate will handle the development and implementation of : e-commerce sites , business websites, social web applications, web applications dedicated to business processes and plug-ins to integrate with business products The ideal candidate will have previous experience gained at least 2/3 years in the same role . The profile must have a strong propensity to achieving the goals and a strong ability to work both independently and in teams . requirements PHP 5 and Object Oriented Programming Good knowledge of at least one of the frameworks : Zend , Codeigniter Javascript (both native jQuery framework ) Ajax , JSON , XML Using webservices MySql HTML5 and CSS3 Main CMS ( Magento , WordPress , Joomla ! ) Main API ( Google , Facebook , Twitter ) Excellent knowledge of written and spoken Other relevant skills ( but not mandatory ) for selection: Major Mobile SDK Java , J2EE Actionscript 2/3 Apache Solr , Doctrine ORM , Subversion Ms Sql Server , Oracle More Information Remuneration will be commensurate with experience and the actual skills of the candidate .(RAL 24k-28k) NB : We will consider only the curricula send to cv@nomesia.com , specifying the reference of the position and the authorization to the processing of PERSONAL data pursuant to Legislative Decree . 196/2003 Privacy.

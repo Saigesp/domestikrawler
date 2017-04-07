@@ -1,0 +1,9 @@
+
+Desarrollador especializado en front-end con experiencia: 
+- Maquetación semántica con HTML5 y CSS3
+- Experiencia validando el código de marcado bajo directrices de la W3C
+- Experiencia con Responsive Design y desarrollo gestual y táctil, realizado con media queries manualmente y sin frameworks de apoyo (Bootstrap, etc.)
+- Experiencia en maquetación cross-browser (desde IE7 en adelante), y altamente orientado al testing y a un código de excelencia (testeo en navegadores nativos, simuladores, y dispositivos móviles reales para los desarrollos con responsive design). 
+- Experiencia y muy buen conocimiento de programación con javascript y Jquey (valorable otro tipo de frameworks Javascript, como DOJO, Angular JS, …)
+- Experiencia en desarrollos accesibles (conocimientos de la normativa UNE equivalente a WCAG 2.0). Aplicación de accesibilidad web a desarrollos front-end. Valorable aplicación de WAI-ARIA y conocimiento de auditorías de accesibilidad  sobre desarrollos web.
+Se ofrece contrato indefinido.

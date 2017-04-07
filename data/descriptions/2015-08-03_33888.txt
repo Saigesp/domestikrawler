@@ -1,0 +1,31 @@
+
+Descripción empresa:
+•	Somos E-commerce con modelo de negocio drop shipping. Cuanto más compleja sea la integración y la casuística, más retos se nos presentan, esto nos mola, nos va la marcha. 
+•	Somos un sitio de Alto tráfico.
+•	Generamos un montón registros en la BBDD. Tenemos réplicas, balanceo de las BBDD y distribuimos las lecturas/escrituras. Hay que ser super cuidadoso con los datos, es el activo de la empresa!
+•	Programamos en PHP, fácil, ágil y súper escalable. Eso si… lo hacemos con Objectos (POO) y MVC… Las cosas claras y ordenadas. Además algo de Ruby para hacer deploys con capistrano.
+•	Somos multidevice, por lo que estamos a la última en temas forntend (HTML5, responsive, less).
+- 	Queremos ser los primeros en Google, por lo que el SEO es pan nuestro de cada día.
+•	Tenemos una app nativa, por lo que tocamos lenguajes iOS y Android, además de una API super molona.
+•	Trabajamos con SCRUM, todos sabemos lo que hay que hacer y sabemos lo que hacen los demás
+Requisitos de formación:
+•	Ingeniero informático
+Requisitos de idiomas:
+•	Inglés fluido
+Requisitos técnicos demostrables:
+•	Desarrollo en PHP 5 (Orientado a objetos)
+•	Alto nivel en MySQL (optimización de consultas)
+•	Lenguajes con experiencia: memcached, varnish, php, json, xml, api, soap, bash script, rest.
+•	Patrones de diseño MVC y experiencia con frameworks MVC
+•	JS + jQuery + Ajax
+•	Integración con Webservices de terceros (SOAP, JSON)
+•	Control de versiones (GIT/SVN)
+•	Unit Testing
+•	Administración de sistemas Linux
+•	Valorable tener experiencia y/o conocimientos de desarrollo aplicaciones para iOS en Objective-C / Xcode y/o Android (JAVA) con sus respectivas librerías nativas (UIKit, Core Data, REST operations...) 
+Requisitos de experiencia:
+•	Experiencia mínima de 3 años en una posición de Programador PHP 5 y desarrollo en POO
+•	Experiencia en entornos e-commerce
+•	Persona metódica con alta capacidad de trabajo, proactividad, habilidades comunicativas, trabajo en equipo, visión de negocio y orientación a resultados. 
+•	Valorable conocimientos del sector de la motocicleta.
+

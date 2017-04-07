@@ -1,0 +1,25 @@
+
+Somos Trócola, nos dedicamos al desarrollo web, ofreciendo un servicio integral adaptado a las necesidades de nuestros clientes. 
+Buscamos desarrolladores Frontend para ampliar nuestra plantilla de colaboradores. ¿Quieres formar parte de nuestro equipo? Si cumples todos los requisitos, ¡te buscamos a ti!
+Funciones a realizar
+Maquetación y desarrollo a partir del diseño aprobado.
+Testeo crossbrowsing, marcado HTML, responsive, compatibilidad retina, y fiel al diseño entregado.
+Requisitos
+Experiencia: Al menos 1 año
+Conocimientos necesarios:
+Trabajo con plataformas de gestión de proyectos como Teamwork, Basecamp, Redbooth, Redmine,...
+Conocimiento avanzado de Google Drive.
+HTML5 (Buen marcado semántico y validaciones)
+Conocimientos de SEO general y fundamental SEO onpage
+CSS3; jQuery; SASS / LESS; Bootstrap OOCSS; Wordpress; Inuit.css
+Nociones básicas de diseño.
+Responsive design y diseño para retina.
+Experiencia con sistemas de control de versiones (GIT).
+Requisitos mínimos:
+Importantísimo: cumplir todos los plazos y objetivos marcados. Orden en el trabajo. Ágil y efectivo en las respuestas, (ya que estará en constante comunicación con los responsables de cada proyecto)
+Posibilidad de facturación.
+Mucho detalle con validación de código, crosbrowssing y marcado orientado a SEO.
+Código bien comentado.
+Salario: Remuneración a convenir según proyecto y objetivos.
+¿A qué esperas para inscribirte?
+

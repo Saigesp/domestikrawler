@@ -1,0 +1,49 @@
+
+Guildda is a startup based in Madrid, Spain. As Guildda’s Back End Engineer you will be responsible for delivering an amazing, secure, stable, fast experience to our users.
+Attributes of successful candidates will include:
+
+· You are a full-stack developer - understands the entire LAMP stack and can contribute to any part of it
+
+· Expert knowledge of server-side languages Python, Ruby, Java or C/C++
+
+· Knowledge of corresponding web frameworks a big plus
+
+· Excellent knowledge of RDBMS systems; ideally MySQL
+
+· Security obsessed
+
+· Love your version control - Git
+
+· Likes getting hands dirty with 3rd party APIs
+
+· Enjoys prototyping and iterating stuff
+
+· BS or MS degree in Computer Science or a related technical field Back End Engineer
+
+· Accountability, honesty, responsibility, flexibility… and a sense of fun and playfulness
+
+
+Responsibilities of the position will include:
+
+· Build from scratch the entire technology architecture
+
+· Be efficient writing code: less is more
+
+· Design and implement Guildda’s core service
+
+· Build a fault tolerant platform
+
+· Work with frontend engineers to plan and implement new ideas and features
+
+· Find and fix performance and reliability issues
+
+
+What we offer:
+
+· Pick your own gear - Mac/PC, OS, editor, etc.
+
+· Flat organisational structure and no bs
+
+· Competitive salary €27k-€35k + bonus
+
+

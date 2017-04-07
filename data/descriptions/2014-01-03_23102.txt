@@ -1,0 +1,3 @@
+
+Estamos buscando desarrollador javascript con experiencia en Meteor para construir prototipo de una app. 
+Experiencia con PhoneGap o similar también es bienvenida!

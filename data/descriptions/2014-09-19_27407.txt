@@ -1,0 +1,4 @@
+
+Buscamos a programadores creativos freelance para cear visualizaciones interactivas y desarrollar micro sites que exploran una estética visual.
+Buscamos a alguien con portfolio creativo usando herramientas como Processing, o OpenFrameworks, o experiencia en el diseño web usando librerías como three.js, paper.js, raphael.js, two.js, popcorn.js, o p5.js. Definimos “New Media” como un trabajo expresivo que involucra una combinación de computación, interactividad, y conectividad.
+Queremos encargar proyectos de New Media que reflejen la identidad de las ciudades de Barcelona, y Madrid para su integración en nuestras revistas online (madriz.com y barcelones.com). Sobre todo, queremos experimentar con nuevas formas periodísticas y de presentación de la información online.

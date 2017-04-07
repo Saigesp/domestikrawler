@@ -1,0 +1,15 @@
+
+Texyon Games es un portal de videojuegos que busca profesionales del diseño gráfico que le apasione nuestro sector y quiera desarrollar una carrera profesional en la industria.
+Debe ser una persona participativa, que aporte ideas, que sea creativa, trabaje en equipo, profesional y educada.
+Precisamos la incorporación inmediata de un PROGRAMADOR FRONTENDER con altos conocimientos en Javascript
+Sus labores son las de maquetar e integrar en los diferentes CMS los diseños realizados por el departamento de diseño y marketing.
+Animar las webs de la empresa y programar webs de nuevos proyectos
+Requisitos: 
+Ciclo Formativo de Grado Superior, Ingeniería Técnica Informática o similar. 
+Necesitamos Programador Frontend con experiencia de 2-3 años en: 
+- Experiencia laboral demostrable realizando desarrollo de proyectos front-end. 
+- Experiencia con HTML5, CSS3, Ajax, Responsive Web Design. 
+- Experiencia trabajando con API REST/JSON. 
+Se valorará:
+- Experiencia en Metodología SCRUM 
+- Conocimientos de Angularjs

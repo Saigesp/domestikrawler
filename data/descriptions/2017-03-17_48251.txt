@@ -1,0 +1,43 @@
+
+Are you passionate about video games? Do you want to keep progressing in an exciting, young and dynamic environment? Gameloft Madrid, the studio behind the mobile gaming hit Gods of Rome and many other successful titles, is currently seeking a Graphics Programmer!
+A leading publisher of digital and social games, Gameloft® has established itself as one of the top innovators in its field since 2000. Gameloft creates games for all digital platforms and is present on all continents, distributing its games across 100 countries and employing over 6,000 employees.
+As UI Programmer at Gameloft Madrid, you’ll be working with some of the best talents in the world from hit games and franchises including Asphalt Xtreme and Gods of Rome, which were created in this studio.
+Job description:
+As a member of our engineering team, you will work on our graphics technology used in our games for iPhone and iPad.
+Daily responsibilities include core graphics engine development, implementing new rendering effects, optimizing the rendering pipeline and many more.
+Requirements:
+•	3 years´ programming experience in game or real-time 3D project
+•	Degree in Computer Science or Computer Engineering, or equivalent professional experience
+•	Strong knowledge of C/C++
+•	Strong 3D maths and algorithms skills
+•	Good debugging and optimizations skills
+•	Experienced with DirectX, OpenGL/ES, Metal or any low-level console/mobile graphics API
+•	Good knowledge of shader programming (GLSL / HLSL / Cg / Metal)
+•	Previous experience implementing several rendering techniques in some games or projects
+•	Experienced with different graphics profiling tools and optimization techniques (code and algorithms)
+•	Knowledge of existing commercial/free graphics engine
+•	Good knowledge of multi-threaded real-time graphics engine
+•	Passionate about computer graphics and good interest in latest graphics techniques
+•	Fluent English
+Plus:
+Experienced in graphics programming on iOS or Android
+Experienced in low-level graphics engine programming on consoles like PS3, Xbox360
+Programming experience on iPhone, Xbox, PS3™, PSP® and Nintendo DS
+
+And above all, motivation and a passion for video games!
+*A technical test will be required as the first step of the selection process.
+Why Join Gameloft Madrid?
+•	Opportunity to work in a professional environment with people who have a passion for creating video games!
+•	Fun, passionate and creative studio with a casual, friendly atmosphere. 
+•	International environment and open working climate with young, dynamic teams from around the world
+•	Permanent contract
+•	Full coverage with health insurance
+•	25 paid vacation days
+•	Flexible schedule
+•	Dynamic salary review, bonuses and other perks (Game room, ping pong table, free fruits and coffee, parties & joyful events…)
+•	Workshops, team building activities and free Spanish and English classes
+•	Professional growth opportunities supported by a performance review process and a Training Plan
+•	If coming from abroad, we offer relocation support
+•	Excellent working conditions! Office situated in the very heart of Madrid with rooftop terrace with panoramic views of the city
+We can’t wait to find our next great talent! 
+

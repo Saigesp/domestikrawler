@@ -1,0 +1,6 @@
+
+Buscamos desarrollador Front-End con conocimientos de python-django para integrar una plantilla creada.
+Necesitamos un desarrollador capaz, ágil, rápido pero detallista que maneje a la perfección scripts, html5, wordpress, js, css, y todas esas siglas que sólo alguien como tú sabe su significado o al menos sabe manejarlas.
+La necesidad del conocimiento en python es porque el backend está desarrollado en dicho lenguaje y será necesario realizar la integración.
+Ofrecemos contrato freelance con posibilidad de trabajos regulares e incorporación futura en la plantilla.
+Somos gente seria y buscamos gente seria. No es que no nos guste reírnos pero nos gusta colaborar con gente formal y profesional.

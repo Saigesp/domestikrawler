@@ -1,0 +1,23 @@
+
+Hola,
+Buscamos un diseñador de interacción con capacidad para crear experiencias de uso, elaborar arquitecturas de información, realizar prototipos y establecer los modelos de interacción con el usuario.
+Capacidades:
+* Análisis complejos 
+* Personas, escenarios, flujos de navegación, funcionales, etc. 
+* Clasificación y creación de estructuras de información 
+* Prototipado (low/high fidelity) con las herramientas habituales
+* Definición de soluciones para interfaces multidispositivo/multiplataforma 
+* Capacidad y enfoque hacia visión cliente 
+* Buena capacidad oral y escrita
+Conocimientos:
+* UX, arquitectura de información, diseño de interacción, diseño de información 
+* Criterios de organización de la información y taxonomías. 
+* Metodologías y técnicas de diseño centrado en el usuario.
+Experiencia:
+Al menos 3/4 años de experiencia en entornos especializados dedicados en exclusiva a UX, HCI, Diseño de Interacción y/o Arquitectura de Información y trabajado en grandes proyectos.
+Si además tienes algún conocimiento y/o experiencia en las siguientes áreas sería genial:
+* Analítica Web
+* Evaluación de interfaces de usuario: heurísticos, test A/B, test en laboratorio...
+* Diseño visual
+* Front-end 
+ Trabajo presencial en Madrid.

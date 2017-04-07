@@ -1,0 +1,32 @@
+
+Bilua Ecommerce - Bilua.com es la primera red de tiendas online especializadas en venta de productos para toda la familia a nivel mundial. El grupo tiene su origen en la tienda online de mascotas Miscota.es, fundada en 2012.
+En la actualidad, Bilua cuenta con cinco tiendas online traducidas a 8 idiomas y desde las que vende sus productos en todo el mundo: kidits.es, para el cuidado y atención del bebé; biuky.es, especializada en productos de belleza, carethy.es, del sector de la parafarmacia y Wellindal productos para hogar y jardín.
+Bilua cuenta, con un gran crecimiento de clientes (más de 200.000 clientes únicos), con un aumento considerable de su facturación en el último año y con un ambicioso plan de expansión para el futuro. Ofrece más de 500.00 productos en su portafolio.
+Buscamos un Analista Web CRO para incorporarse a nuestro departamento de marketing realizando las siguientes funciones: 
+-	Definición de métricas y KPIS de desarrollo de negocio
+-	Monitorizar el tráfico de la página web
+-	Controlar y determinar las campañas online
+-	Trazar y analizar datos
+-	Proponer mejoras para optimizar ratios de conversión CRO (Conversion Rate Optimization)
+-	Realización de Test AB y multivariante
+-	Elaboración de informes  para reportar a la dirección
+Competencias:
+-	Persona proactiva, metódica y ordenada
+-	Con capacidad de trabajo bajo presión
+-	Capacidad de trabajo en equipo
+-	Alta capacidad de análisis e investigación
+-	Alta capacidad para cumplir compromisos
+-	Persona resolutiva, efectiva, empática y comunicativa
+Conocimientos:
+-	Licenciatura superior
+-	Certificado en Google Analytics
+-	Formación ampliada en analítica web:
+o	Google Tag manager
+o	Google Spreadsheets
+o	Microsoft Excel
+Valorable:
+-	Máster en Analítica Web
+-	Herramientas de testing:  Abstaty/ Optimizely
+-	Herramientas de personalización
+-	Inglés alto
+

@@ -1,0 +1,17 @@
+
+Seleccionamos Programador Java con al menos 3 años de experiencia en desarrollo. La persona seleccionada se incorporará en un proyecto de larga duración en el sector telco.
+Se requiere:
+- 3 años de experiencia en desarrollo Java
+- Experiencia con framework Spring
+- Experiencia en integración:
+Desarrollo de servicios REST
+Desarrollo de servicios SOAP
+Se valorará:
+- Conocimientos en Bonita BPM
+- Experiencia con bases de datos Mongo DB
+- Experiencia con framework AngularJS para desarrollos SPA
+Ofrecemos:
+- Incorporación inmediata y de carácter estable a la plantilla de Continex
+- Proyecto estable y de larga duración
+- Participación en proyectos de tecnologías destacables en el sector
+- Salario acorde con la experiencia aportada

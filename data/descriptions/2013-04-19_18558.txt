@@ -1,0 +1,16 @@
+
+Estamos buscando programadores para realizar la primera versión de nuestra nueva web.
+Somos una empresa francesa especializada en la creación de web tipo anuarios, destinadas a poner en contacto profesionales y particulares en varios sectores (turismo, servicios...). Hemos desarrollado un sistema basado en Zend Framework 1.12 para acelerar el desarrollo de nuestros nuevos proyectos
+El trabajo consista en la realización de una web similar a http://www.chambrehotes.com/ pero aplicada a otro sector. 
+Junto al actual director técnico el programador tendrá que desarrollar la web usando el sistema existente, el Zend Framework, las pantallas HTML5/JS/CSS ya realizadas
+Las tecnologías usadas son PHP/MySQL/HTML5/jQuery
+El trabajo se tendrá que realizar en nuestra oficina de Barcelona centro hasta el 10 de mayo, luego se realizara a distancia. El contrato sera de tipo freelance.
+Requisitos :
+- PHP5 Object / Mysql / jQuery
+- Experiencia con Zend Framework
+- Experiencia con tests de integración y unitarios
+- Experiencia con la gestion de proyecto
+- Inglés técnico
+El presupuesto para el proyecto es de 3000€
+Gracias
+Alexis 

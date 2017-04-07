@@ -1,0 +1,32 @@
+
+SuitePay is seeking an experienced Appcelerator Developer to create and support native payment acceptance products.    We seek an individual that can leverage a software development background with industry experience to make a difference in next-generation payment processing applications.
+Responsibilities:
+•	Engineer robust and maintainable Appcelerator developed applications with the rest of the SuitePay development team.
+•	Provide outstanding applications with a positive user experience
+•	Meet project deadlines on an independent basis.
+•	Work independently, owning a project from start to finish 
+•	Ensure development adheres to defined requirements and specifications
+•	Work closely with QA to ensure code is clean and bug free
+Qualifications:
+•	At least 2-years developing and testing native cross platforms apps using Appcelerator 
+•	Deep knowledge of Apple’s iOS and Android’s SDK framework
+•	Experience with consumer facing UI development
+•	Understands the key differences between the different Android OSes and the UI/UX specifics
+•	Experience with SQLite and RDBMS
+•	Strong understanding of OOP
+•	Experience using RESTful and JSON web services
+•	Experience with Git/SVN for version control
+•	Experience with public and/or private mobile optimized APIs
+•	Previously worked with development teams of 3+ people
+•	Experience releasing apps in the Apple App Store and Google Play Store
+•	Experience in building an SDK and plugins for Appcelerator
+•	University Degree in CS
+•	Based in the BCN area
+•	Fluent English
+Bonus Qualifications:
+•	Experience with Location Based Services
+•	Experience with JQuery Mobile
+•	Experience with mobile payment applications
+•	Good graphical arts skills in developing apps
+Rates based on experience with increases for improved productivity, includes a benefits package. Please send a resume and cover letter to apply.
+

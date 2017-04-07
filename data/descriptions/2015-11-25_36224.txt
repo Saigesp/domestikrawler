@@ -1,0 +1,22 @@
+
+KD Productions Toons & Games está buscando desarrolladores para juegos con Unity 3D 5.0, conocimiento del sistema operativo Android y lenguaje Java para hacer aplicaciones bajo este sistema.
+• Conocimiento avanzado de OOP (Object oriented Programming)
+• Conocimiento sobre reconocimiento de audio y transformaciones de Fourier
+• Experiencia en desarrollo de juegos bajo la tecnología .Net, (Unity y C # es obligatorio), por lo menos 3 años como desarrollador .Net y 2 años de Game Developer.
+• Codificación bajo Visual Studio 2015.
+• Experiencia en métodos de trabajo ágiles bajo Jira.
+• Conocimiento de los sistemas de depósito, Bitbucket y Unity asset server.
+• Experiencia de trabajo con equipos remotos.
+• Disponibilidad para viajar eventualmente a nuestra central en Lyon.
+• Inglés técnico obligatorio.
+Conocimiento positivamente valorados
+• C / C ++ y habilidades de programación Phyton.
+• Desarrollo de aplicaciones Android con experiencia de entre 3 y 5 años. (Android Studio)
+• Programación de Shaders se valora positivamente
+• Conocimiento de administración de bases de datos, servicios web y front-end web en ASP.net, servidor SQL
+(Management Studio).
+• Programación IOS
+• Juegos publicados sobre cualquier tienda digital. (Tienda de Apple, Google Play Store, Amazon ...)
+• Game portfolio
+• Conocimiento de físicas
+

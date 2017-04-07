@@ -1,0 +1,27 @@
+
+At BMAT we love music and technology! We analyze, index, and recognize all the music in the world to provide search, recommendation and monitoring solutions to the music industry. BMAT is a rapidly growing and passionate company, with a creative, multicultural and dynamic team which operates globally, working with more than 50 customers worldwide. Our clients include companies like Yamaha, EMI, Sony, Samsung, and Singtel.
+The Frontend Developer will be responsible for production, modification and maintenance of the Vericast website and web application’s user interfaces in our platform, implementing the code in order to develop a complex, interactive and database driven website. 
+Essential Duties & Responsibilities
+•	Develop and maintain the Vericast website
+•	Contribute to the company development standards working closely with the software team. 
+•	Provide innovative new ideas to solutions.
+•	Maintaining a high awareness of industry issues and trends, particularly in regard to accessibility, usability, and emerging technologies, and keep team members informed as appropriate.
+Knowledge, Skills & Abilities Required
+•	Proven experience in a similar position
+•	Bachelor Degree in Computer Science or Informatics Engineering
+•	Analytical and problem-solving skills
+•	Keen interest in new and emerging technologies
+•	Planning and organisational skills
+• 	Autonomy
+Computer & Software Experience
+•	Excellent knowledge in HTML y CSS (SASS would be a plus)
+•	Good JavaScript programming skills
+•	Experience with JQuery and Require.js
+•	Experience integrating with server-side code to produce dynamic pages 
+•	Knowledge in Python and MySQL would be a plus
+Languages
+•	Fluent in Spanish
+•	Advanced English
+Availability
+•	Full Time 
+•	Immediate Start

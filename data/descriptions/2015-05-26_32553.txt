@@ -1,0 +1,29 @@
+
+FUNCIONES
+Análisis de requisitos y propuesta de soluciones funcionales
+Desarrollo software sobre PHP
+Definición de arquitecturas Web / Ecommerce / CMS
+Optimización del código html de las páginas
+Programación web services para las app's de ios (contaría con los webservices realizados de la primera de las tiendas)
+Adaptaciones front para la internacionalización
+Requisitos: Conocimientos de Magento o en su defecto de Prestashop
+Conocimientos de Zend Framework
+Desarrollo de proyectos PHP5 (POO), patrón MVC
+REQUISITOS
+Conocimiento funcionamiento servidores WEB
+Fundamentos HTTP
+Base de Datos: MySQL
+Lenguajes: PHP, WebServices, JavaScript
+Frameworks PHP (CodeIgniter, Zend...)
+Ecommerce Prestashop o Magento
+Frameworks JavaScript (jQuery)
+Control de Versiones (GIT,SVN)
+Experiencia en metodologías ágiles de desarrollo
+Trabajo en equipo
+OTROS REQUISITOS
+Linux, Apache, Lighthttpd, Ngix...
+Desarrollo de Apps Moviles Android / IOS
+Experiencia con HTML5, JavaScript, CSSs, AJAX
+Nivel de Inglés Medio Alto
+Se valorarán conocimientos en otros lenguajes de programación
+Se valorará muy positivamente la certificación en Magento Certified Developer Plus

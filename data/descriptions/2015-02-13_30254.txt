@@ -1,0 +1,23 @@
+
+FROMEurope About
+Youwe is a fullservice internet agency consisting of 120 passionate eBusiness and eCommerce lunatics: We have four offices in the Netherlands, one in Manilla and now we want to expand our office in Kyiv. We long for open source and don’t stop until our clients are more successful online. Could be a redesign job, could also be a SEO or SEA optimization issue, can also be a complex business-to-business webshop. We get things done! Not in a top-down way, but working in self managing teams: circles! Every team exists as if it were a small organization. Youwe is a flat organization aiming to become an organization without rules and where every colleague has access to the same information and knowledge and where one is allowed to make mistakes to become better every day. Open source means an open culture. Here at Youwe you will work among highly energetic and intrinsic motivated colleagues. We believe in training and development of people with ambition and drive! Make sure your goals are clear so you we can help you achieve them!
+Responsibilities
+• You play a proactive role in completing medium sized projects (+200 hours) within agreements and options;
+• You don’t manage your clients and colleagues expectations, you exceed them. You’re always communicating with your client and notify the Project Manager or Consultant when you see an opportunity;
+• You take the lead in increasing knowledge within your team and the entire organisation;
+• You make sure you (and your intern or junior) will produce the best code possible!
+Additional Requirements
+• You have at least 4 years of professional programming experience;
+• You are comfortable working with Frameworks (preferably Symfony or ZEND);
+• You are fluent in English, written and spoken;
+• You know how to manage your pride when your code is reviewed;
+• You know the importance of project managementsystems integration: “Hello Atlassian!”;
+• You say “Halleluja!” to testing. Oh and you practice what you preach;
+• Your heartbeat rises when you heard about Continuous Integration and DevOps!
+Other Information
+Personal profile:
+• You are eager to learn and put a lot of effort in mastering new techniques;
+• You have an "energy flows where attention grows" attitude and "teaching is the best way to learn' fits you;
+• You are a good communicator and never hesitate to ask twice if you don’t understand;
+• You excel in a dynamic environment, you have a strong adaptability and are resilient!
+

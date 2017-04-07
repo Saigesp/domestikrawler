@@ -1,0 +1,18 @@
+
+
+En Promofarma.com estamos buscando un ingeniero de soporte con experiencia en la gestión de issues técnicos en empresas de ecommerce.
+En el rol de support engineer, atenderás tanto las peticiones  de consumidores de Promofarma que no hayan podido ser resueltas por el equipo de atención al cliente, como las peticiones internas del día a día de los equipos internos, que requieran consulta y o modificaciones en bases de datos, ejecuciones de scripts, etc.
+Buscamos a alguien que sea un apasionado del servicio al cliente, orientado al detalle, que se sienta cómodo resolviendo muchas tareas pequeñas y variadas, y que se comunique tanto a nivel técnico como a nivel de atención al cliente y consumidor.
+Más específicamente, las tareas principales que realizarás son:
+- Consultas en bd y generación de reports
+- Gestión de issues en el alta de catálogos
+- Gestión de issues de los equipos de producción, contenidos y seo
+- Gestión de issues relacionados con facturas y finanzas 
+- Tracking y generación de reports para identificar tanto el progreso como las áreas que están generando más actividad, buscando oportunidades de automatización de tareas repetitivas
+Para realizar estas tareas, necesitarás poder contribuir en cada una de estas áreas:
+- SQL: Realizar queries en Mysql y PostgreSQL, tanto para consultas como para actualización de datos
+- Código: creación de scripts y bash para automatizar tareas de mantenimiento periódicas
+Consideramos las actitudes como mínimo tan importantes como las aptitudes. Buscamos personas inteligentes, integras y trabajadoras, que sepan jugar en equipo, que quieran tomar responsabilidades, que vean los problemas como oportunidades, y que sepan solucionar problemas adoptando los compromisos necesarios
+Finalmente, experiencia concreta que sería útil pero no es obligatoria:
+- Experiencia en departamentos de soporte técnico (nivel 2-3) en empresas de ecommerce
+NOTA: Salario a convenir, según valía y experiencia del candidato.

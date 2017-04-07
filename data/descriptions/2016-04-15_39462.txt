@@ -1,0 +1,20 @@
+
+ADLPerformance, empresa multinacional francesa con sede en Madrid, solicita los servicios de un diseñador/a-maquetador/a web, para el departamento de Marketing Digital, con experiencia colaborando con equipos de desarrolladores. Sin miedo a la tecnología y a realizar integraciones en frameworks como Symfony o Ruby on Rails.
+Ofrecemos proyección de carrera en una agencia de marketing en fuerte crecimiento en España y con la solidez de una multinacional.
+Requisitos necesarios 
+* Experiencia demostrable con proyectos web y email reales y que hayan estado o estén online 
+* Habilidad y experiencia en el uso de herramientas de diseño (Adobe Creative Suite, Photoshop, Freehand, etc.) 
+* Capacidad de crear por sí mismo diseños rápidos o poco complicados 
+* Capacidad de opinión en labores de UX/UI 
+* Experiencia en maquetación web multinavegador bajo los estándares W3C, así como su adaptación a diferentes dispositivos (responsive) 
+* Experiencia demostrable en tecnologías web: HTML5, CSS3, JavaScript, jQuery, JSON, AJAX. 
+* Experiencia demostrable en “templating engines” como p.ej. Twig o ERB 
+* Experiencia trabajando con equipos de desarrolladores para integrar los frontales con su soporte 
+* Experiencia en el uso de editores de texto avanzados (p.ej. Eclipse, SublimeText, vim, Brackets, …) 
+* Experiencia en git como herramienta de control de versiones, y experiencia en alguno de los “workflow” más comunes 
+* Conocimiento de Google Analytics y de sus implicaciones en la maquetación
+Requisitos valorables 
+* Experiencia en Bootstrap o Foundation 
+* Experiencia con CSS pre-processors como Less o SCSS/SASS 
+* Experiencia en CoffeeScript o TypeScript 
+* Inglés

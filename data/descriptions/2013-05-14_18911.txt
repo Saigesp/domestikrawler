@@ -1,0 +1,24 @@
+
+Nostro Studio es una empresa ubicada en Barcelona y São Paulo, que nació hace 3 años y se ha especializado en el mercado móvil y de tecnología. 
+Buscamos para incorporación inmediata, un programador/a web Back-end.
+Ofrecemos:
+ - Oportunidad de incorporarse a una compañía de nueva creación, joven y dinámica.
+- Posibilidad de desarrollo profesional participando activamente en el crecimiento de la compañía.
+- Realización de proyectos innovadores en un sector en expansión a nivel mundial.
+Requisitos mínimos:
+ - Experiencia mínima de 2 años en posición similar.
+- PHP/MySQL/JAVA/Oracle/Python/JSON
+- Experiencia con algunos framewoks o plataformas como Symphony, Joomla, Wordpress...
+- Conocimientos de APIs de terceros (Facebook, Google Maps, Twitter, Youtube...)
+Competencias: 
+- Capacidad de organización y gestión.
+ - Dinamismo y energía.
+- Trabajo en equipo.
+- Orientación a resultados.
+- Flexibilidad y anticipación al cambio.
+- Honestidad e integridad.
+Valoramos:
+- JAVA
+- Oracle
+- Python
+

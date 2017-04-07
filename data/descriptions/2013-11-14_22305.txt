@@ -1,0 +1,8 @@
+
+Rockabox es una de las principals agencias de marketing digital en Barcelona y estamos buscando un programador con experiencia para trabajar en la cuenta de un cliente que ha desarrollado una plataforma online con ofertas en productos y servicios a nivel mundial, donde además hay ganancias por recomendar a tus amigos.
+
+Buscamos una persona dinámica, responsable, proactiva, apasionada de Internet, con capacidad de innovar y de trabajar en equipo, y con ganas de evolucionar y formar parte de un proyecto en continuo crecimiento.
+
+Programador con 2-3 años de experiencia trabajando con Frameworks de MVC (modelo-vista-controlador) como CodeIgniter, preferiblemente Kohana.
+También se requiere conocimiento extenso en Drupal y Wordpress.
+Los principals lenguajes de programación que se requieren son PHP, Xhtml-html5, jQuery y conocimientos de Bases de datos MySQL.

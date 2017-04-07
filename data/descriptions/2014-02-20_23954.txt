@@ -1,0 +1,7 @@
+
+Buscamos un Programador PHP senior con una experiencia profesional de mínimo 2 años desarrollando proyectos web.
+· Manejo de PHP 5 (clases, objetos y librerías)
+· Manejo de HTML/HTML5, CSS3 y Javascript a nivel maquetación
+· Conocimientos de MySQL (se valorará PDO)
+· Conocimientos de jQuery
+· Conocimientos del framework ZEND para PHP

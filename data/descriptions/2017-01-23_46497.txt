@@ -1,0 +1,6 @@
+
+HRCS inicia un nuevo proceso de selección para incorporar en plantilla de empresa de desarrollo de software sanitario ubicada en el rincón de la Victoria, 3 desarrolladores/as con experiencia en PHP. 
+¿Qué necesitas para poder inscribirte en la oferta?
+Para la parte Back, experiencia de al menos un año desarrollando con PHP "a pelo"; si aportas experiencia con algún framework, ¡mejor que mejor!
+Para la parte Front, es imprescindible que domines Bootstrap. En cliente usan como IDE Eclipse y control de versiones GIT. 
+¿Lo cumples todo? Inscríbete :)

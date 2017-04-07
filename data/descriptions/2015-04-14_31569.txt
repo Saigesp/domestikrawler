@@ -1,0 +1,24 @@
+
+About PUSHTech™
+PUSHTech helps brands, retailers, marketers and developers build brand engagement and customer relationships through intelligent multichannel mobile marketing. PUSHTech’s Mobile Marketing Cloud™ simplifies the creation, delivery and management of smart, precisely targeted and context-aware communications in a highly efficient, effective and profitable way for users, big and small.
+Job Summary
+PUSHTech™ is seeking a star Software Quality Assurance Engineer. Your will be responsible for contributing to a world class QA organization at PUSH. The candidate will need to work closely with team and build world class test plan, and execute them on PUSH products at various stages of product development. Will contribute to various quality processes and practices with in the company. 
+Primary Responsibilities
+•	Design, implement and execute test plans to validate PUSHTech software.
+•	Work closely with cross functional teams, including core Engineering and worldwide QA teams to define and execute test program.
+•	Define, implement and drive root cause analysis process to optimize test plans, for overall quality improvement.
+•	Review product quality at regular stages, and provide actionable guidance to all stake holders.
+•	Work closely with core Engineering teams to debug failures, improve test methods for effective quality improvement.
+Required Skills and Experience
+•	The candidate need to possess very good analytical and problem solving skills, and a self-leaner.
+•	Good troubleshooting and debugging skills on Web platform is required along with a proactive, go-getter attitude.
+•	Knowledge in Ruby/iOS/Android
+Desired Skills and Experience
+•	Master in Computer Science or equivalent
+•	Experience in Mobile or Communication Platforms 
+•	BS Degree required, MBA preferred
+•	Excellent analytical, planning and process development skills
+•	Proven ability to work cross-functionally
+•	High level of initiative and strong business judgment
+•	Excellent communication, interpersonal skills and should be comfortable working in very dynamic and collaborative work environment. 
+

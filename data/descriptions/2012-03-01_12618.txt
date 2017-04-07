@@ -1,0 +1,17 @@
+
+Tareas a realizar:
+- Desarollo y mantenimiento de páginas web
+- Desarollo y actualización de tiendas online
+- Gestión de envíos de newsletters
+Requisitos mínimos:
+- HTML + CSS + JavaScript
+- PHP
+- PhpMyAdmin + MySQL
+- Mac OS
+Se valorará experiencia con:
+- Domínio de herramientas Adobe Creative Suite
+- Domínio de Flash y+ ActionScript 2 &amp; 3
+- Jquery
+- Prestashop
+- Magento
+- Wordpress u otros CMSs 

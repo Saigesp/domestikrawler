@@ -1,0 +1,15 @@
+
+Hola Domestika!,
+somos una recién estrenada Start-up con muchas ganas de crecer y hacer cosas importantes.
+Hemos creado nuestra pagina web con Ruby y estamos buscando a una persona que sea nuestra referencia tecnologica en el proyecto, supervisando la web, mejorando sus funcionalidades y aportando soporte continuado. 
+Estamos a punto de salir a producción y necesitamos a alguien con experiencia en gestionar webs con mucho trafico y que nos de el salto de calidad que necesitamos para entrar en el mercado a por todas.
+El cantidato ideal debe tener un perfil Senior con experiencia demostrable en desarrollos similares, ser proactivo (se valora mucho la propuesta de mejoras y evoluciones) y sobre todo implicado y de rapida respuesta cuando se requiera.
+A nivel tecnico estos son los minimos requerimientos deseados
+- Ruby on Rails y Sql. 
+- Conocimientos de Api Twitter, Facebook y Google maps. 
+- Conocimientos de CSS3 / SASS y Bootstrap 3 
+- Javascript, Jquery, HTML 5 
+- Servidores y Droplets, tipo Digital Ocean. 
+- Wordpress 
+- SEO, no hace falta ser un guru, pero si sera valorable.
+La incorporación es inmediata.

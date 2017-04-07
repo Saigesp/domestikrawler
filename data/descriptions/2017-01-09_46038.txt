@@ -1,0 +1,13 @@
+
+En Proximity Madrid estamos buscando un Programador Front-End:
+Se encargará de: 
+- Maquetar y programar campañas HTML5 sobre diferentes plataformas de AdServing (Sizmek, DoubleClick, Weborama) para desktop y mobile. 
+- Maquetar y programar sites responsive en HTML5.
+Imprescindible tener conocimientos de: 
+- Maquetación HTML5 y CSS3. SASS y/o LESS. 
+- Manejo de librerias de animación: Zepto, Gsap, etc.. 
+- Programación JavaScript, jQuery.
+Se valorará: 
+- Experiencia con framework JavaScript (BackboneJS, AngularJS, Node.js o similares). 
+- Haber trabajado en agencia de publicidad online. 
+

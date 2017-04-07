@@ -1,0 +1,17 @@
+
+Full time position in Blueliv, one of the world’s leading companies in online security.
+We need a highly skilled developer with deep Angularjs knowledge to maintain our web based products/services.
+Desired technical skills:
+- Strong javascript skills
+- Deep Angularjs knowledge
+- Use RESTful APIs
+- Manage memory cache
+- Knowledge in tools used for task automation and deployment (bower, grunt, gulp…)
+- Write clean, well documented, maintainable code
+- Additionally, Ruby on Rails knowledge would be appreciated
+We look for a passionate engineer who can face technical problems and find optimal solutions, someone who writes code for the users not for his Github account. We don’t focus in concrete technical skills but in the right attitude.
+About the company: our offices are in Poble Nou, one of the coolest districts in Barcelona. Our team counts on some of the most expert european hackers in cyber security.
+Conditions:
+- Full time position
+- Salary 30.000€ - 45.000€ depending on the candidate profile
+- Work in our offices in Barcelona

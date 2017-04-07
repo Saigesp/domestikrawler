@@ -1,0 +1,17 @@
+
+Desde Solbooking Spain (Portal de reservas hoteleras orientada al mercado vacacional) precisamos incorporar un programador .NET en nuestras oficinas del Parque Tecnológico de Málaga.
+Conocimientos Necesarios:
+- C#.NET 
+- MVC 
+- SQL 
+- HTML5
+Datos del Puesto:
+Se dedicará al desarrollo y mantenimiento web de la empresa 
+Horario 7:00-15:00 lunes a viernes 
+Formación Mínima: FP2/Grado Superior 
+Experiencia: Al menos 1 año 
+Nivel Profesional: Empleado 
+Tipo contrato: Indefinido 
+Jornada: Jornada completa 
+Honorarios: A convenir
+

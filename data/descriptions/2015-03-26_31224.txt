@@ -1,0 +1,8 @@
+
+Somos TDM Solutions SL, desarrolladores de soluciones CAD desde hace más de 10 años. Nuestro objetivo es acercar las últimas tecnologías 3D, ofreciendo la mejor solución de la manera más amigable.
+Estamos buscando un programador para aplicaciones de modelado y visualización 3D/CAD.
+Se valorarán conocimientos de: 
+- Open GL
+- Geometría 
+- CMake
+- Buen nivel de inglés.

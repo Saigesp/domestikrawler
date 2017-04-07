@@ -1,0 +1,10 @@
+
+Hola!
+En edittio buscamos un programador de HTML5 para convertir una app realizada para iPhone en una app apta para todos los dispositivos (HTML5).
+Deberá utilizarse como Framework de aplicaciones  HTML5+CSS+JS
+http://lungojs.com/
+Y el "paquetitzador" de aplicaciones
+http://phonegap.com/
+Necesitamos ver ejemplos de apps que estén funcionando actualmente y conocernos personalmente. Si te interesa escríbenos un mail y quedamos.
+¡Gracias! 
+

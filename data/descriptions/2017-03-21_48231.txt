@@ -1,0 +1,19 @@
+
+En Arts Creativos de Publicidad estamos buscando programadores freelance para ayudar a nuestro equipo con la realización de una página web para uno de nuestros clientes.
+Trabajará junto a un equipo de diseño gráfico encargado del desarrollo visual y creativo del trabajo.
+Trabajos a realizar: 
+- Programación web. 
+- Banners HTML5. 
+- Publicidad Rich Media. 
+- Newsletters. 
+- Wordpress y otros gestores de contenidos (Joomla, Prestashop, Bootstrap…).
+Conocimientos imprescindibles: 
+- HTML / HTML5 
+- CSS / CSS3 
+- Java Script / JQUERY 
+- PHP 
+- MySQL 
+- Desarrollo web basado en gestores de contenidos (Por ejemplo Wordpress, Drupal, Joomla, Prestashop, Bootstrap…). 
+- Conocimientos de maquetación en diseño Responsive. 
+- Conocimientos de posicionamiento web en buscadores. 
+- Experiencia en realización de webs para distintos navegadores.
