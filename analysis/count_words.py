@@ -10,16 +10,8 @@ def count_words():
 	output_file = '/home/saigesp/git/domestikrawler/data/jobswords.csv'
 
 	words = {
-		'program':		['programa', 'desarroll', 'softw', 'develo', 'ecommerce', 'front'],
-		'web':			['web', 'programa', 'desarroll', 'develo', 'ecommerce', 'front', 'ux', 'ui'],
-		'frameworks':	['wordpress', 'magento', 'prestashop', 'drupal', 'joomla'],
-		'lenguage':		['html', 'css', 'java', 'php', 'flash'],
-		'mobile':		['app', 'ios', 'android', 'mobile'],
-		'data':			['datos', 'data', 'visualizac'],
-		'director':		['director', 'direcc', 'arte', 'art director', 'arti'],
-		'software':		['photoshop', 'illustrator', 'indesign'],
-		'design':		['graphi', 'grafi', 'tipogr', 'industr', 'maqueta', 'fotogr', 'motion', '3d', 'edic', 'packa', 'multim'],
-		'publi':		['copy', 'ejecutiv']
+		'program':		['programa', 'desarroll', 'softw', 'develo', 'ecommerce', 'front', 'web', 'programa', 'desarroll', 'develo', 'ecommerce', 'front', 'ux', 'ui', 'wordpress', 'magento', 'prestashop', 'drupal', 'joomla', 'html', 'css', 'java', 'php', 'flash', 'app', 'ios', 'android', 'mobile', 'datos', 'data', 'visualizac'],
+		'design':		['graphi', 'grafi', 'tipogr', 'industr', 'maqueta', 'fotogr', 'motion', '3d', 'edic', 'packa', 'multim', 'director', 'direcc', 'arte', 'art director', 'arti', 'photoshop', 'illustrator', 'indesign', 'copy', 'ejecutiv']
 	}
 
 	with open(input_file, 'rt') as read_csv, open(output_file, 'w') as write_csv:
@@ -35,7 +27,9 @@ def count_words():
 		for row in reader:
 			for key in words:
 				for word in words[key]:
-					if word in cleanString(row[2]): seen[key] += 1
+					if word in cleanString(row[2]):
+						seen[key] += 1
+						break
 
 			date = row[0].split('-')
 			date[1] = str(int(date[1]) + 1)

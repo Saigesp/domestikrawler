@@ -22,7 +22,7 @@
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <script>
 		function LineChartMultiple() {
-		    var margin = {top: 40, right: 10, bottom: 40, left: 30},
+		    var margin = {top: 40, right: 10, bottom: 80, left: 30},
 		    	width = 960 - margin.left - margin.right,
 		    	height = 500 - margin.top - margin.bottom;
 
@@ -51,11 +51,7 @@
 
 		           	data.forEach(function(d) {
 		                d.date = parseDate(d.yyyymm);
-		                d.programador = d.programador;
-		                d.noprogramador = d.noprogramador;
 		            });
-
-		            console.log(data[2])
 
 		            color.domain(d3.keys(data[0]).filter(function(key) { return key !== "date" && key !== "yyyymm" && key !== "total"; }));
 
@@ -69,7 +65,7 @@
 					});
 
 		            xScale.domain(d3.extent(data, function(d) { return d.date; }))
-		            yScale.domain([0,300]);
+		            yScale.domain([0,250]);
 
 		            var svg = d3.select(this)
 		                .append('svg')
@@ -99,6 +95,24 @@
 						.attr("class", "y axis")
 						.attr("transform", "translate("+(margin.left+30)+","+margin.top+")")
 						.call(yAxis);
+
+					cities.forEach(function(d, i){
+						var space = 110;
+						var rsize = 16
+
+						var ley = svg.append('g')
+							.attr('transform', 'translate(' + ((i*space)+margin.left) + ',' + (height+margin.top+40) + ')');
+
+						ley.append('rect')
+							.attr('width', rsize)
+							.attr('height', rsize)
+							.attr('fill', color(d.name))
+
+						ley.append('text')
+							.attr('x', rsize+4)
+							.attr('y', rsize-4)
+							.text(d.name);
+					})
 
 		        });
 		    }
@@ -131,13 +145,13 @@
 		}
 
 
-		d3.csv("jobswords.csv", function(data) {
-		
+		d3.csv("jobswords_description.csv", function(data) {
+
 			d3.select("#linechart")
 				.datum(data)
 				.call(LineChartMultiple()
 					.width('#linechart')
-					.height(360));
+					.height(460));
 		
 		});
     </script>
