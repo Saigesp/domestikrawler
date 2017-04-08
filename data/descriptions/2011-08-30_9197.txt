@@ -1,0 +1,7 @@
+
+Para un proyecto puntual necesitamos un frelance desarrollador de una APP para Android y para iPhone. 
+
+Tiempo estimado entre una a dos semanas.
+Se valorará la experiencia en utilizar librerías de código libre y la formación posterior. 
+La aplicación ha de escanear un código de barras y códigos QR.
+

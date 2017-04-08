@@ -1,0 +1,21 @@
+
+Buscamos:
+Un Programador PHP que, formando parte de nuestro equipo de  Desarrollo, tendrá como misión el desarrollo de proyectos de ecommerce para nuestros clientes.
+Requisitos:
+Experiencia de mínimo 2 años en:
+Programación PHP orientada a objetos (OOP).
+Manejo en javasript, jquery, ajax, zend, webservices, xhtml, css.
+Conocimientos de MySQL.
+Trabajo en equipo:control de versiones, ticketing de bugs, documentación del código, etc.
+Maquetación avanzada CSS, HTML, Magento.
+Se valorará
+Experiencia de mínimo 1 año en desarrollo de módulos de Magento.
+Conocimientos de SEO, integraciones con otras aplicaciones (Facebook, etc.).
+Conocimientos de las extensiones y módulos (gratuitas o de pago) de Magento.
+Ofrecemos:
+Participar en proyectos de envergadura y grandes cuentas.
+Formar parte de un equipo multidisciplinar especializado en todos los campos de Internet.
+Horario flexible.
+Plan de Retibución Flexible.
+Entorno joven y dinámico.
+Retribución según candidatura.

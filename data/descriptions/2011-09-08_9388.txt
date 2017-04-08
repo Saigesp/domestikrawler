@@ -1,0 +1,11 @@
+
+Buscamos colaboración en Madrid para el desarrollo de la primera versión de nuestro proyecto de Social Ecommerce. Si eres bueno/a desarrollando y quieres formar parte de una empresa joven esta puede ser tu oportunidad.
+¿Qué buscamos?
+- PHP Developer con conocimientos en JQuery, Ajax, patrones MVC y Agile Development.
+- Conocimientos API Facebook, Google Maps, etc.
+- Valoramos interés y conocimientos en arquitectura de la información y usabilidad. Capacidad de afrontar retos, aprender y colaborar con el equipo, proponer alternativas, visión de crecimiento y de producto.
+- Experiencia 1-2 años en desarrollo web, a poder ser con portfolio demostrable. Se valorará estudios en Ingeniería.
+-  Pasión por Internet, startups, tendencias de mercado y marketing online.
+¿Qué ofrecemos?
+La oportunidad de colaborar y comenzar con un equipo joven, en un entorno de desarrollo ágil y siempre abierto a nuevas ideas. Posibilidad de quedarte y crecer con nosotros. Pasarlo bien creando algo diferente.
+Escríbenos a equipo(at)evadity.com y te contamos más...

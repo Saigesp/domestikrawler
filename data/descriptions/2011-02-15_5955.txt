@@ -1,0 +1,11 @@
+
+Requisitos:
+* Programación server-side: PHP, JSP.
+* Programación client-side: XHTML+CSS, Javascript, jQuery.
+* Bases de datos: MySQL
+Deseable:
+* Conocimientos de programación en Flash: As2 y As3.
+Se ofrece incorporación inmediata.
+Horario: 9 a 17:30hs
+Lugar: Villa Crespo (Capital Federal / Argentina)
+Enviar CV a: info@mzstudio.com.ar

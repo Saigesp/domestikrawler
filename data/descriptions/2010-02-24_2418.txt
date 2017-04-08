@@ -1,0 +1,2 @@
+
+Urgente. Buscamos programador Flash con experiencia en FLAR para un proyecto basico pero urgente. Funcionalidad - reconocer un marker diseñado en base del logo del cliente y mostrar un Movieclip con una imagen. 

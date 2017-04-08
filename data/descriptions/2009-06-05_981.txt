@@ -1,0 +1,17 @@
+
+Funciones:
+- Maquetación y desarrollo Front (CSS, html y JS) de la web de Privalia y de emailing.
+Requisitos:
+- Experiencia mínima 1 año en desarrollo web (Front).
+- Nivel muy alto de XHTML y CSS.
+- Nivel medio-alto en Javascript.
+- Desarrollo con código limpio y semántico.
+- Proactividad y motivación por aprender.
+- Trabajar en equipo.
+- Gusto por el detalle.
+Se valorará:
+- Conocimiento de frameworks de Javascript como prototype, jquery, etc.
+- Experiencia en entorno CVS/SVN y uso de SMARTY.
+- Conocimientos en accesibilidad y usabilidad.
+- Experiencia con gestores de contenido CMS, preferiblemente con Wordpress. 
+

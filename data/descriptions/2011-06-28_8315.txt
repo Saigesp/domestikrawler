@@ -1,0 +1,9 @@
+
+ Verificar las integraciones entre nuestros sistemas y los software de adquisición de imagen de nuestros proveedores, probando la compatibilidad de los PCs, sus componentes, sistema operativo con las aplicaciones de adquisición de imagen de nuestros proveedores. Verificar que el sistema lleva todos los componentes de hardware necesarios y que no hay errores de configuración o funcionamiento. Para estas tareas recibirá soporte de I+D y servicio.
+- trabajar con Producción y Calidad para dar soporte a los primeros sistemas que se vendan asegurando el correcto funcionamiento de los sistemas digitales y elaborar listas de materiales e instrucciones de montaje y prueba. 
+- Dar soporte a los otros departamentos (servicio) como experto en estos sistemas.
+- Dar soporte puntual a clientes (distribuidores) en problemas informáticos o de los sistemas de imagen.
+ conocimiento de configuración de ordenadores y redes de datos.
+- Idioma: Inglés avanzado a nivel escrito y leído para poder leer los manuales de los sistemas digitales y poder comunicarse con los proveedores internacionales. Preferible con nivel de conversación fluida
+- conocimiento de programación Visual Basic
+

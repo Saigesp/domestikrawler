@@ -1,0 +1,22 @@
+
+Necesito presupuesto aproximado de un desarrollo similar a keteke.es para funcionar junto al lanzamiento de un programa de TV.
+A grandes rasgos:
+Personal
+
+Mi Perfil
+Mis Amigos
+Mis Videos
+Mis Fotos
+Mi Móvil (subir foto y video desde móvil)
+Mis Mensajes (mail y SMS)
+
+General
+
+Usuarios populares / nuevos / de la semana
+Últimas fotos
+Últimos videos
+Agenda
+
+Blogs
+
+Navegación desde móvil con enlace wap

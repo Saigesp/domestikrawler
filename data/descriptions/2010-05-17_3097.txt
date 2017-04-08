@@ -1,0 +1,17 @@
+
+Como Designer de Interfaz Web trabajarás de cerca con ingenieros y designers de experiencia de usuario durante todas las fases del ciclo de diseño e implementación. Serás el responsable del design e implementación de la capa de interfaz visual usada por millones de personas a diario y deberás pensar críticamente cómo hacerla más usable, intuitiva y elegante.
+Responsabilidades
+    * Trabajar de cerca con el departamento de Ingeniería y Design de experiencia de usuario para definir e implementar el design visual.
+    * Crear soluciones de design totalmente comprehensivas y elegantes teniendo en cuenta cases extensivos y funcionalidad adicional.
+    * Implementar soluciones de design, escribiendo y manteniendo código CSS/XTHML limpio, de alta calidad y en conformidad con los estándares web.
+    * Definir, implementar y transmitir los guidelines de estilo al resto del equipo.
+Requisitos
+    * Sólida formación académica, con titulación en diseño o área equivalente.
+    * Experiencia demostrada en diseño y desarrollo de aplicaciones web.
+    * Expertise en cross-browser HTML/XHTML y arquitectura CSS, con código rápido y optimizado.
+    * Profundo entendimiento de tecnología de internet social e interfaces basadas en AJAX.
+    * Habilidades de comunicación y trabajo en equipo y capacidad para comunicar los fundamentos por detrás de las soluciones de design.
+    * Aptitudes conceptuales, actitud multi-tareas y pro-actividad en un ambiente de start-up.
+    * Fuerte sentido de design, visualmente limpio y atención al detalle, demostrado en un portfolio.
+    * Expertise en Photoshop/Fireworks, Illustrator/Freehand, InDesign y Powerpoint/Keynote.
+    * Conocimientos profesionales de JavaScript serán considerados un plus.

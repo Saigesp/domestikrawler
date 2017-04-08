@@ -1,0 +1,5 @@
+
+En estos momentos estamos buscando programadores de PHP y .NET para incorporar en plantilla.
+Lo que estamos buscando es gente apasionada por el mundo de las tecnologías, gente que disfrute programando y que no tenga miedo a enfrentarse a nuevos retos, gente totalmente motivada que a la vez de programar pueda participar en los proyectos aportando su punto de vista personal e innovador.
+Para poder participar en la selección de programador en PHP se deben de tener conocimientos de la tecnología LAMP, es decir Linux, Apache, MySQL y PHP, para el perfil de programador en .NET se deben de tener conocimientos de C# y SQL Server, se valorará fuertemente el conocer el lenguaje de programación ASP .NET
+Tanto para el puesto de C#, como para el puesto de PHP, se valorará el tema de maquetación con standards W3C.

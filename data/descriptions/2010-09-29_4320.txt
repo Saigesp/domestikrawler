@@ -1,0 +1,22 @@
+
+Founded in Barcelona in 2000, vLex is today the most advanced provider of global legal information on the Internet. More than 35,000 customers across the World rely on our service, as an essential tool to take strategic decisions. Our company is based in Barcelona and it is constantly expanding internationally with offices in Madrid, Miami, Buenos Aires, Mexico DF and Sao Paolo.
+vLex is a high-tech company that values talent, commitment, entrepreneurial spirit and a focus on results. The flexible environment encourages personal development and cultural diversity. Thus, our staff is composed by 80 young professionals from more than 20 nationalities. 
+If you are an ambitious professional with a positive attitude and if you want to develop your personal and professional skills, vLex is your ideal company. Your application is welcome to be taken in consideration.
+Job Description
+Your main responsibility will be development and programming using Ruby on Rails, as well as participating in the administration of requirements and functional design.  You will maintain constant communication with our different offices which will require excellent communication skills.  Valuable experience:  Open Source projects, Test-driven Development and testing frameworks; Knowledge of Python, Perl, Bash and Java as well as Javascript (especially Jquery) and AJAX development; Fluent English.
+What we are looking for:									
+Minimum Requirements
+IT Engineer or scientific university degree (physics, mathematics, etc.)
+Web application development experience, ideally with the Ruby on Rails framework
+High level of English
+Communication skills: team management experience, having been in charge of 6-10 team members.
+Desired Requirements
+Experience in Open Source projects
+Experience in Test-Driven Development and testing frameworks
+Knowledge of Python, Perl, Bash and Java
+Knowledge of Javascript (especially Jquery) and AJAX development.					
+We offer:
+Type of contract: 6m+6m + indefinido
+Working day: complete
+Excellent location in the center of Barcelona
+Compensation based on candidate qualifications	

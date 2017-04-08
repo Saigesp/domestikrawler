@@ -1,0 +1,18 @@
+
+Titulo del puesto o del requerimiento
+Especialista en Codeigniter y MySQL
+¿Es una plaza de trabajo o proyecto freelance?
+Online freelance
+Si es presencial, indique región geográfica
+-
+Descripción del puesto / proyecto
+Busco un colaborador freelance especialista en Codeigniter, el framework de php. Debe saber perfectamente trabajar con él, crear aplicaciones conectadas a MySQL.
+Requisitos:
+- Conocimiento de Codeigniter avanzado
+- Trabajo con base de datos MySQL
+- Residente en México (aunque trabajaremos vía Internet)
+Al elegir al colaborador más adecuado, comenzaremos a trabajar cuanto antes. No son aplicaciones completas, sino partes, como desarrollar un controlador/modelo/vista, etc.
+Por favor contactar sólo personas que cumplan el perfil, sino perderemos el tiempo tú y yo.
+Por favor dejar en éste hilo los proyectos en los que han trabajado, yo los contactare por MP.
+La oferta es para gente de Latinoamerica (México sobre todo).
+Muchas gracias ;)

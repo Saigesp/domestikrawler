@@ -1,0 +1,8 @@
+
+Hola!
+somos un pequeño estudio de Barcelona. Debido a la entrada de dos proyectos inesperados de dos empresas importantes a nivel nacional buscamos un programador eficiente, sólido, limpio, motivado... que no se deje ni un punto y coma, que sepa cuando reutilizar código y cuando crearlo desde 0. Que sea MUY bueno. Que no se le caigan los anillos por tener que rehacer un trabajo para conseguir que todo cargue 1 segundo más rápido.
+Idealmente el perfil que buscamos debería tener más que controlado PHP, mySQL, javascript y librerías como jquery (flash no da puntos así que no nos interesan los programadores ASx). Aparte debería tener nociones y conocimientos suficientes para programar un App para iphone e idealmente android, symbian...  No buscamos un diseñador/programador sino un programador única y exclusivamente. Los hombres orquesta nunca tocan bien todos los instrumentos.
+Su trabajo consistiría en unirse a otro programador que ya trabaja en el estudio y colaborar con los dos diseñadores y el responsable de Diseño Gráfico.
+abstenerse freelance no presenciales, diseñadores, estudiantes y pequeños monstruitos que saben un poco de cada.
+gracias,
+Cero

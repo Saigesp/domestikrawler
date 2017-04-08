@@ -1,0 +1,29 @@
+
+Position:
+We are searching for an organized, focused and highly skilled PHP Developer. The position will require a strong background in object oriented PHP, software engineering, design patterns, and agile methodology. The applicant should demonstrate a track record of innovative problem solving and should possess superior written and oral communication skills. Knowledge of shopping cart design and implementation, inventory control systems, and online entertainment content is preferred.
+Job Description:
+Gather project requirements to create a planned and engineered approach to tackle the problem
+Write highly optimized and engineered PHP code
+Debug and optimize pre-existing code
+Utilize test driven development practices to ensure unit tests exist for all lines of code
+Work well in a team environment on projects that are often being worked on by multiple developers
+Utilize best practices with technologies such as Memcached to ensure fast processing in high load situations.
+Qualifications:
+Self-motivated, team oriented, responsible, and reliable with a positive attitude
+Candidate must have the ability to work in a structured, yet variable environment
+BA or BS degree preferred
+Minimum of 5+ years of Object Oriented PHP coding experience in the workplace
+Must have knowledge of code repository software Git and Subversion
+Must have an understanding of system engineering and object oriented design patterns
+Must have expertise with Model-View-Controller paradigm
+Must have a strong understanding of optimized MySQL queries
+Must have a knowledge of using the Linux command-line
+Must have strong analytical skills
+Ability to resolve complex problems
+Experience with Zend Framework a plus
+High-level understanding of CSS, Javascript and JQuery a plus
+Excellent interpersonal, written and verbal communications skills, with the ability to interact with various levels of personnel, including end users, executive management, and developers.
+Work place chosen by the applier.
+Daily Skype call with team.
+Deadlines to cover.
+No schedules/Sin horario.

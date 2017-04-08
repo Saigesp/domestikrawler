@@ -1,0 +1,18 @@
+
+Tuenti is looking for an experienced User Interface Developer to join our UX &amp;amp;amp; Design department. The ideal candidate is someone obsessed with producing clean, accessible, semantic mark-up, and able to push browsers to their limits with CSS. The candidate must have exceptional attention to detail.
+Responsibilities
+    * Be able to hand-code design comps into optimized, standards compliant websites.
+    * Create cross browser/platform compatible sites in a team environment alongside the UX Designers and PHP Developers.
+    * Demonstrate an intimate knowledge of browser quirks and development best practices.
+    * Implement and advocate for the use of standards based and semantic HTML and CSS to solve design problems.
+    * Assess existing sites/systems for code quality and interactive appeal.
+    * Evangelize for using best practices for front-end development.
+    * Inspire a culture of innovation and teamwork.
+Requirements
+    * 2+ years of work experience.
+    * Mastered (X)HTML and CSS including semantic development practices.
+    * You can hand code design concepts cross-platform, and cross-browser.
+    * Practical knowledge of HTML5 and CSS3.
+    * Know of progressive enhancement theory and how to use it in practice.
+    * You are able to meet deadlines, without losing site of the big picture, while maintaining excellent attention to detail.
+    * Demonstrated familiarity with web technologies and solutions that enhance the user experience.

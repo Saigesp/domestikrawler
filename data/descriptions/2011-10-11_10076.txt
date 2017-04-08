@@ -1,0 +1,3 @@
+
+- Managing of the web services, database.
+- Knowledge of: PHP, HTML, Javascript, web technologies

@@ -1,0 +1,4 @@
+
+Estoy buscando un programador de aplicaciones para iphone y android. El proyecto consiste en una aplicación de busqueda de restaurantes , reserva del mismo y pago. El cliente ya cuenta con una web en php y mysql.
+Todavia no esta del todo definido pero necesitaria saber si dispongo de alguien para llevarlo a cabo y hablar de presupuesto. La colaboracion se mantendria en futuros trabajos. Preferiria, aunque no es indispensable, alguien de Madrid con quien pudiese reunirme para tratar el tema.
+Un saludo.

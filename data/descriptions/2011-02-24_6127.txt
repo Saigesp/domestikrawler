@@ -1,0 +1,12 @@
+
+Somos una agencia joven en fase de expansión. Estamos especializados en el sector del cine, creando estrategias de marketing y comunicación interactivas para productoras y distribuidoras.
+Buscamos un programador web con ganas de integrarse en un proyecto con mucho potencial, con ganas de divertirse pero con un alto sentido de la responsabilidad y del trabajo en equipo.
+La mayoría de trabajos que desarrollamos en la agencia son sites promocionales para películas, social games y desarrollo de herramientas de visualización de datos complejos. Valoraremos mucho que la persona que aplique sea un fanático de las nuevas tecnologías con ilusión por probar nuevas cosas.
+El programador interactivo deberá tener:
+- sólidos conocimientos de AS3.
+- experiencia en programación orientada a objetos. 
+- conocimiento de patrones de diseño.
+- conocimientos de html, css, jquery y javascript.
+- conocimientos de php y MySQL.
+- ganas de probar con apps de iPhone, aplicaciones de Facebook, y otras cosas…
+Este es un puesto presencial a tiempo completo en nuestras oficinas de Barcelona.

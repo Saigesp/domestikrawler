@@ -1,0 +1,12 @@
+
+Oferta de prácticas para estudiantes de Ingeniería Informática Somos una empresa tecnológica con sede en Barcelona que busca alguien para diseñar una nueva aplicación médica a nivel internacional. Que ofrecemos? - Startup que revolucionará el mundo médico en todas sus especialidades. - Flexibilidad en el trabajo - Aprender e implantar las nuevas tendencias para dispositivos móviles. 
+Descripción larga
+Cuáles serán Tus responsabilidades?
+- Desarrollo de una fase de la aplicación y de la propia web, además del diseño del marketing online.
+Qué necesitas:
+- Cross browser semantic HTML y CSS (iOS y Android es un plus)
+- Conocimientos de Javascript y JQuery (JQuery mobile es un plus)
+- Experiencia en control de versiones (Git es un plus)
+- y muchas ganas de aprender!
+Así pues, si eres un buen Programador Front End / UI, ¡te esperamos!.
+Keywords: UI Designer / Developer, Front End Developer, Programador, Diseñador, HTML 5, AJAX, JavaScript, CSS, JQuery, Django

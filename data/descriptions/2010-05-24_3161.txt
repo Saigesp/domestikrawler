@@ -1,0 +1,11 @@
+
+Analista Programador para el desarrollo de simuladores y juegos sobre Flex/Flash. Se valora experiencia de análisis funcional y orgánico. 
+Requisitos: 
+-  Metodología de programación orientada a objetos.
+-  Programación con Flex 3 ó 4. 
+- Programación en  Flash AS3 
+- Experiencia en análisis funcional y orgánico.
+Se valorará nivel avanzado o experto en uno o más de los siguientes aspectos: 
+-  Conocimiento de diseño, mantenimiento y programación de bases de datos. 
+-  Conocimiento de programación en Javascript, HTML y CSS
+-  Experiencia en desarrollo de E-Learning (LMS; SCORM)

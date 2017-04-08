@@ -1,0 +1,43 @@
+
+Somos una empresa nueva creado por un equipo de personas con experencia de crear negocio online con exito en España. 
+Después de dos años greciendo uno de los principales negocios de comercio electrónico en España, estamos montando nuestro nuevo proyecto. Un proyecto de comercio electrónico con aspectos de contenido, comunidad y ambición internacional.??
+Buscamos un architecto y programador con experiencia para liderar el desarollo. Buscamos una persona que tenga una vision global y que la motivación sea hacer las cosas bien y simples.??
+Ofrecemos la oportunidad de grecer profesionalmente dentro de nuestro negocio y unirse en un rol integral a un equipo de personas altamente cualificadas, con experiencia y ideas vanguardistas. 
+?Preferimos trabajar con personas entusiastas, que tienen ilusion y ganas de cambiar el mercado.??
+Responsabilidades:
+?- diseño de la architectura de sistemas?
+- creación de la plataforma y desarollode las aplicaciones?
+- gestionar el equipo de desarollo (incluyendo proveedores)??
+Requisitos mínimos?
+- capacidad de liderar un proyecto de desarollo desde la fase de la toma de requerimientos y de diseño funcional hasta la puesta en marcha?
+- experiencia en desarollos de sistemas de gestion de contenido?
+- experiencia en desarollos de comercio electronico
+?- experiencia en diseñar sistemas de aplicaciones con procesos de compra y logistica?
+- experiencia avanzada de arquitectura de aplicaciones Internet (3 capas)?
+- experto en programación con algún framework: idealmente Ruby on Rails ó sobre PHP
+?- experiencia con bases de datos: PosgreSQL ó MySQL
+?- alto nivel de javascript (especialmente Jquery) y AJAX
+?- conocimiento de HTML, CSS, XHTML?
+- conocimiento de servidores de aplicaciones/web: Apache, Tomcat?
+- conocimiento y aplicacion de metolodogia de programación 3 capas
+?- conocimientos de metodologías ágiles??
+Requisitios deseados:?
+- experiencia en proyectos de CRM?
+- experiencia en integracion con operador logistica, sistemas de pagos, etc.?
+- experiencia en el mundo open source, aplicaciones red 2.0, plataformas abiertas de redes sociales
+?- experiencia con externalizar parte del desarollo y maquetacion?
+- experiencia con sistemas open source de comercio electronico (p.ej. Magento)
+?- conocimientos de usabilidad, accesibilidad y posicionamiento en buscadores??
+Competencias personales?
+- trabajo en equipo?
+- implicación?- compromiso
+?- resolucion de problemas?
+- proactividad?- dinamismo?
+- practico???
+Condiciones de trabajo?
+- jornada completa, pero con mucha flexibilidad (para nosotros es mas importante que las cosas se hacen)?
+- incorporacion inmediata al proyecto?
+- ambiente joven?
+- equipo multidisciplinar y jerarquía plana
+?- oportiunidad de trabajar con gente conocida del sector Internet en España?
+- lugar de trabajo: oficinas céntricas en Madrid (Zona Cuzco)???

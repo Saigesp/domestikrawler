@@ -1,0 +1,11 @@
+
+Se busca Programador web junior para trabajar en empresa multimedia.
+Requisitos
+Conocimiento de PHP, MySQL.
+Estudios mínimos: Formación Profesional Grado Superior - Informática
+Experiencia mínima: 2 años
+Requisitos adicionales
+Conocimientos avanzados de programación orientada a objetos.
+Experiencia en otros lenguajes de programación: Ruby, python, java, etc.
+Conocimiento de algun framework MVC: Zend, Ruby on Rails, CakePHP, etc.
+Estudios de Ingenieria Informatica

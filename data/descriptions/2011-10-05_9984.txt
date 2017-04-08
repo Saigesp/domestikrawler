@@ -1,0 +1,16 @@
+
+Responsabilidades: 
+· Diseñar interficies y vistas atractivas basadas en los principios de diseño y usabilidad. 
+· Voluntad por mejorar la experiencia web a través de soluciones inteligntes y nuevos tipos de interacciones.
+· Mezclar fantasía y web 2.0 Requerimientos:
+· Conocimientos sólidos de diseño gráfico aplicado al diseño web.
+· Familiaridad con los actuales estandars y técnicas de diseño web.
+· Conocimientos sólidos de HTML y CSS.
+· Conocimientos de Javascript / Jquery.0
+· Buena comunicación con artistas y programadores.
+· Experiencia con webs sociales y nuevos medios.
+· Pasión por los videojuegos. 
+Pluses:
+· Concimientos de Flash y AS2/AS3
+· Conocimientos de PHP / SQL o herramientas para la programación de backend o CMS (Wordpress, Drupal, Cakephp, etc).
+

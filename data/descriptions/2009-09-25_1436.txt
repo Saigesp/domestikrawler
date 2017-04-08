@@ -1,0 +1,6 @@
+
+Buscamos programador avanzado PHP/MySQL +  Flash AS3. Valoramos muy positivamente conocicimientos de:
+ - Ajax, xhtml, html y css2
+- Librerias Javascript (Jquery,Mootool)
+- Papervision
+- Adobe family

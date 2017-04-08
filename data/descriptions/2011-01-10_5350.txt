@@ -1,0 +1,7 @@
+
+Buenos días, 
+Agencia de publicidad busca profesional para la realización de un contenido multimedia en flash. 
+Es un curso de aproximadamente 30 diapositivas que necesitamos rediseñar y animar, en el cual estarán conectadas a una BBDD en MySql.  Debe ser agradable a la vista y tener un menú que permita al usuario moverse por las diferentes diapositivas.
+Interesados enviar presupuesto, CV y ejemplos de trabajos parecidos al solicitado a directora@anandacreaciones.es
+Un saludo
+

@@ -1,0 +1,8 @@
+
+Buscamos incorporar a nuestro equipo de desarrollo dos programadores PHP con al menos 2 años de experiencia profesional en PHP, Javascript, MySql, HTML, CSS y jQuery.
+Se valoraran conocimientos:
+- SEO
+- MVC
+- Entornos LAMP
+- POO
+- Frameworks (Symfony, Codeingniter, etc.)

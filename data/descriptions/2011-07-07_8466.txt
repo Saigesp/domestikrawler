@@ -1,0 +1,2 @@
+
+Necesito un programador iOS para crear una aplicación para iPhone y iPad que contenga varios juegos de aprendizaje de idiomas (ya definidos). La aplicación tiene que comunicarse con una plataforma web en la cual los usuarios pueden ver su progreso.

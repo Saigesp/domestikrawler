@@ -1,0 +1,24 @@
+
+Somos una consultora tecnológica en plena expansión, con proyección internacional, líderes en innovación y aplicación de nuevas tecnologías al desarrollo del capital humano. 
+Nuestros clientes, grandes empresas de todos los sectores (entre las que se encuentran más del 50% de las empresas del IBEX 35) apuestan por nosotros en el desarrollo de proyectos de última generación, implementando soluciones tecnológicas innovadoras en gestión del conocimiento, formación y entrenamiento, desarrollo del talento, productividad y desempeño e innovación: plataformas de gestión y evaluación, comunidades en red, herramientas colaborativas, simuladores virtuales, aplicaciones web 2.0, juegos en red,... tecnología de última de generación aplicada al mundo de las empresas.
+Necesitamos contar con un Programador/a Flex, que se incorporará en el departamento I&amp;amp;D, estando entre sus funciones el desarrollo de aplicaciones RIA en Flex empleando FlexBuilder. 
+Este perfil debe poseer buen conocimiento y manejo de Flex, es deseable que cuente con experiencia en el manejo de PHP y MySQL, así como experiencia en el desarrollo de aplicaciones RIA. 
+Ofrecemos incorporación a una empresa en crecimiento, con grandes posibilidades de desarrollo y aprendizaje, un excelente ambiente de trabajo (plantilla muy joven) y ubicada en el centro de Madrid (muy bien comunicada: 4 paradas de metro cerca, e intercambiador de autobuses a 10 minutos). 
+Si eres una persona exigente y responsable, si buscas nuevos retos que te permitan seguir aprendiendo y desarrollándote como profesional, envíanos tu candidatura.
+
+Requisitios Imprescindibles:
+-          Contar con un 1 año de experiencia como Programador/a Flex
+-          Formación académica área informática
+ Requisitios Valorables:
+-          Experiencia y conocimientos de la aplicación Flash
+-          Conocimientos en PHP, MySQL
+-          Conocimientos de Linux 
+-          Experiencia Gestión de proyectos 
+-          Frameworks de desarrollo 
+-          Patrones de diseño 
+-          Conocimientos de Java (Tomcat) 
+-          Conocimientos del estándar SCORM de ADL 
+Ofrecemos:
+-          Contrato por Obra 1 año + Indefinido
+-          Jornada Completa
+-          Salario a negociar según valía

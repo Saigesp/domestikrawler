@@ -1,0 +1,3 @@
+
+Necesitamos convertir 8 objetos 3D de diversos formatos (3dmax y otros) a .DAE. 4 de los objetos no incorporan las texturas por los que además habría que crearlas. Adicionalmente hay que construir 2 objetos 3D (tarjetas de crédito) a partir de los JPGs de frente y vuelta. Este proyecto requiere conocimientos de flash y paper vision.
+

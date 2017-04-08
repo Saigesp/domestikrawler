@@ -1,0 +1,35 @@
+
+Hola,
+RBA Contenidos Audiovisuales busca programador senior.
+Se requiere:
+
+ Experiencia de 2-3 años en proyectos LAMP (Linux, Apache, MySQL y PHP).
+ Desarrollo orientado a objetos.
+
+ Dominio de HTML, CSS, JavaScript, XML, AJAX, etc.
+
+ Experiencia en la utilización de las APIs de Google Maps.
+
+ Alta capacidad de análisis y compromiso.
+
+
+Se valorará conocimientos de:
+
+ Framework Zend.
+
+ Plataforma eZ Publish.
+
+ Otros entornos orientados a web, como JSP/Oracle.
+
+ Conocimiento de servidores de búsqueda basados en Lucene (SOLR)
+
+Se ofrece:
+
+ Contrato por obra, con sueldo anual de referencia 25-30.000€, según valía.
+
+ Incorporación inmediata dentro de un buen ambiente y excelente equipo de trabajo.
+
+ Oficina situada en el centro de Barcelona (el trabajo es presencial).
+ Se garantiza la confidencialidad en el proceso de selección.
+
+

@@ -1,0 +1,13 @@
+
+Buscamos a un programador web para desarrollar websites con Drupal. El candidato deberá ser una persona proactiva, acostumbrada a trabajar por objetivos y muy organizada. Un nivel alto de inglés es imprescindible para este puesto. 
+Requisitos:
+- Experiencia en el desarrollo de sitios web usando Drupal
+- Conocimientos avanzados de HTML, CSS y Javascript (Jquery).
+- Experiencia en creación de aplicaciones web basadas en php
+- Nivel alto en el uso y programación de bases de datos (MySQL).
+- Conocimientos avanzados en el uso de la API de Drupal, CCK y Views
+- Se valorará el conocimiento de técnicas de SEO.
+- Nivel alto de inglés hablado y escrito.
+Salario:
+Según valía del candidato. Por favor, envíe sus expectativas económicas junto a su currículum vitae.
+

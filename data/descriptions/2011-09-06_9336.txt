@@ -1,0 +1,16 @@
+
+Se necesita un Programador / Maquetador senior para incorporación inmediata al equipo de desarrollo de una nueva iniciativa de comunidad vertical en Internet con enfoque Internacional. Se trata de una empresa joven y dinámica.
+Responsabilidades:
+• Desarrollo de estándares de maquetación en css – HTML y programación en Ajax y PHP-MySQL del nuevo portal internet
+• Maquetación del nuevo portal y supervisión del seguimiento de los estándares por el equipo
+• Supervisión y desarrollo de la adaptación multicanal y multinavegador y mantenimiento de la parte presencial y dinámica del portal
+Se Requieren:
+• Experiencia de mínimo 5 años en desarrollo de páginas web dinámicas a través de maquetación CSS, HTML y programación con Ajax, PHP y MySQL.
+• Amplios conocimientos de css3
+• Amplios conocimientos de maquetación multinavegador, y multicanal con HTML4/ 5
+• Experiencia en desarrollo de aplicaciones para aparatos móviles
+• Experiencia en uso herramientas de desarrollo como eclipse (plugins como aptana), subversion o similares
+• Habilidades relacionales y de trabajo en equipo, iniciativa, creatividad y actitud positiva ante un entorno dinámico y de frecuentes cambios.
+Se Valorarán:
+• Experiencia en desarrollo en entornos Linux
+• Conocimientos de Inglés u otro idioma europeo (Francés / Alemán / Italiano etc)

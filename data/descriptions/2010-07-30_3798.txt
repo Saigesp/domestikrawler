@@ -1,0 +1,31 @@
+
+Introducción
+BlackBox Europe es una empresa de selección y búsqueda directa especializada en tres áreas (niche technologies); SAP, Enterprise Application Integration y Online Marketing / Digital. Con oficinas en Ámsterdam y Barcelona, nuestro ámbito de actuación es pan-europeo.
+Esta oportunidad profesional es en Barcelona.
+Nuestro Cliente
+Nuestro cliente es una agencia de comunicación publicitaria e interactiva que ofrece un servicio integral en toda la cadena de valor del marketing.
+Es una agencia que no está compartimentada y tiene una organización transversal en la que en un mismo proyecto trabajan codo con codo creativos, planners, programadores, diseñadores, cuentas, etc.
+Actualmente se encuentra en una fuerte fase de expansión, con inmejorables oportunidades para incorporarse a un equipo muy cohesionado, basado en el buen ambiente y con una clara sensibilidad hacia la excelencia en todos sus trabajos.
+Ofrece un muy buen ambiente de trabajo, con buenas posibilidades de proyección profesional y muy buen cuidado de sus empleados.
+Posición buscada
+Buscamos a un programador interactivo. Su base de trabajo diario debe ser la programación integrada de ActionScript 2 (o 3 idealmente) con PHP y MySQL, de modo que sea capaz de coger un proyecto y llevarlo de principio a fin integrando las distintas tecnologías.
+Se valorará muy positivamente la experiencia en front-end, programando en HTML, CSS, Javascript, jQuery...
+Debe ser una persona capaz de trabajar tanto en equipo (de modo transversal con los distintos departamentos) como de funcionar autónomamente. Con gran responsabilidad sobre su trabajo, perfeccionista y al día de las últimas tendencias y novedades en los ámbitos de programación requeridos. Con ganas de demostrar sus aptitudes y superarlas día a día.
+Es un plus importante el haber trabajado previamente en alguna agencia de comunicación y estar habituado al modo de funcionar de las agencias y sus clientes.
+Requisitos mínimos
+    * Excelente nivel de programación Flash (AS2 e idelamente AS3)
+    * Buen nivel de programación PHP
+    * Buen nivel en MySQL (diseño, modelado, creación y mantenimiento)
+Requisitos deseables
+    * Conocimientos de CSS
+    * Conocimientos de HTML
+    * Conocimientos de XML
+    * Conocimientos de Javascript
+    * Conocimientos de jQuery
+Imprescindible presentar portafolio online personal de los trabajos realizados o bien links a los trabajos o campañas en las que se ha intervenido, idealmente con una explicación del rol ejercido en cada una de ellos/as.
+Salario:
+• Según experiencia
+• Oportunidad de formar parte de un equipo joven y dinámico trabajando para marcas muy conocidas
+ 
+Keywords
+AS2, AS3, ActionScript, Flash, PHP, MySQL, CSS, HTML, XML, Programación multimedia, interactiva, Javascript, jQuery

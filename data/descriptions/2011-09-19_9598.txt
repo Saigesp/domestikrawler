@@ -1,0 +1,6 @@
+
+Necesito presupuesto para hacer un a web con tienda en joomla
+sería como está: http://osc.template-help.com/osc_27872/index.php
+debe integrar módulos de facebook, google + y tiwtter en diferentes partes de la página principla
+detro de la web debe haber una pagina como esta: http://www.womensecret.com/ws_online.asp para enlazar a todas las redes sociales
+Saludos

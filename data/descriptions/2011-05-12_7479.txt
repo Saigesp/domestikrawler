@@ -1,0 +1,17 @@
+
+Buscamos persona con experiencia en desarrollo PHP, Javascript, AJAX, MySql. La persona deberá abordar un proyecto durante 2 semanas donde deberá realizar una serie de tareas hasta finalizar la fase 1 del proyecto. 
+Los conocimientos que aportara el colaborador serán: 
+- PHP 
+- Javascript / Ajax 
+- MySQL 
+- HTML/CSS 
+- Metodologías de programación segura. 
+Adicionalmente, se valorarán conocimientos de gestión de servidores linux. 
+Requisitos: 
+El periodo de duración del proyecto es de 2 semanas, por lo que se requiere dedicación exclusiva en el proyecto. El colaborador trabajara desde su propia oficina no requiere que se desplace. Los únicos desplazamientos serán para explicarle el alcance de sus tareas y el resto para la entrega del trabajo. 
+Necesitamos que los interesados nos envíen una oferta por 2 semanas de trabajo. Se darán el resto de detalles a los perfiles que se ajusten a lo que buscamos y creamos que encajen en el proyecto. 
+Solo contestaremos a los correos que contengan: 
+Curriculum. 
+Referencias. 
+Pretensiones económicas. 
+

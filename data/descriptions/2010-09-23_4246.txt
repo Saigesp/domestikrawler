@@ -1,0 +1,14 @@
+
+En Iskiam Jara Agencia Creativa estamos buscando programadores web expertos en php freelance.
+Buscamos una persona responsable, capaz de autogestionar su trabajo y comprometido con los tiempos de entrega.
+Necesario:
+* Desarrollador en entorno Apache, PHP, MySQL-PostgreSQL.
+* Acostumbrado a trabajar con CVS, subversión y experiencia en framework de desarrollo de PHP.
+* Ruby on Rails
+* Web Services, JSON
+* Con conocimientos de estándares de XML, XHTML, HTML y CSS.
+Se valorará:
+* Conocimientos o experiencia en plataformas LMS (Scorm).
+* Experiencia o conocimientos en tecnologías orientadas a aplicaciones móviles.
+* Conocimientos en tecnologías Flash: AS2, AS3, PaperVision.
+Sólo buscamos freelances que puedan venir a una entrevista personal en nuestra oficinas de Barcelona.

@@ -1,0 +1,11 @@
+
+Buscamos programador PHP/MySQL con experiencia para trabajo en agencia de publicidad interactiva, incorporándose a un puesto con posibilidades de desarrollo y crecimiento. 
+Nos fijaremos en ti si eres capaz de integrar la programación con la maquetación ya realizada sin romper muchas cosas ;), en la administración de sistemas en Apache y su relación con PHP y MySQL, y con algo de conocimiento en JavaScript, AJAX, y XML para esos momentos puntuales.
+Haznos ver tu capacidad para crear Gestores de Contenidos; siempre pasa que nuestros proyectos pueden actualizarse y mantenerse por alguien que no tiene conocimientos de programación o maquetación. Estos gestores pueden partir de los nuestros que ya están creados, o los que se puedan crear desde incluso sistemas Opensource (Wordpress, Drupal...)
+Capacidad de realizar y gestionar tu trabajo de manera autónoma y con una mínima supervisión. 
+Valoraremos que te manejes en términos de Accesibilidad, Usabilidad y Posicionamiento Web, así como de cualquier otro lenguaje de programación (Actionscript, p.e.). 
+Deseable capacidad de autogestión, iniciativa y, como nosotros, ganas de seguir creciendo personal y profesionalmente.
+Lo del perfil creativo de un programador, lo dejamos para la entrevista personal, nos gusta involucrarte en cada proceso y que la parte creativa pueda ser un poco de todos.
+¿Nos conocemos?
+Ah! Para romper el hielo en tu correo, cuéntanos brevemente “en palabras”, sin código, cómo harías  una función que te mostrara por pantalla los X primeros números de la sucesión de Fibonacci, siendo X un parámetro de entrada de la función.
+

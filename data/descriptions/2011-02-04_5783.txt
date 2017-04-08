@@ -1,0 +1,3 @@
+
+Buscamos a un profesional senior con experiencia en drupal / joomla y amplios conocimientos en php, para un proyecto en una de estas dos plataformas con desarrollos de módulos a medida.
+En el proyecto habría que incluir una tienda on-line y hacer unos módulos específicos para la misma.

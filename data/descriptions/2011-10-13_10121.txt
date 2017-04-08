@@ -1,0 +1,16 @@
+
+Fashion Pills es el e-commerce de referencia de moda y tendencia establecido hace unos 5 meses y cuenta con un equipo joven y creativo con muchas ganas de trabajar. 
+Estamos seleccionando candidatos para colaborar con nuestros proyectos. Para esto buscamos becari@s con ganas de aprender el mundo del E-Commerce, con excelente actitud y muy responsables.
+El horario laboral es de media jornada, de Lunes a Viernes por la mañana.
+El perfil que se busca es de un programad@r PHP, con una experiencia minima de 6 meses en un puesto similar. 
+La tareas a realizar son las siguientes:
+- Programación de nuestro sitio web.
+- Desarrollo y mantenimiento del CMS.
+- Trabajar en equipo con nuestro departamento de Diseño WEB.
+Requisitos mínimos:
+- Programación PHP, Apache, AJAX, JQuery
+- Conocimientos de BBDD, MySQL
+- Conocimientos HTML, CSS, XML
+Requisitos Deseados:
+- Os-Commerce, Opencart, Magento, Prestashop.
+- SEO.

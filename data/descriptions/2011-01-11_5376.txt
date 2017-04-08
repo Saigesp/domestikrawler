@@ -1,0 +1,9 @@
+
+Buscamos gente joven, con ganas de aprender y como no, ser un poco friki de los ordenadores e internet. Somos un equipo de trabajo joven y con muy buen ambiente. 
+El puesto de trabajo se basa en el mantenimiento de la red de trabajo de The Zapping Village y resolver las diferentes incidencias de tipo técnico que vayan surgiendo a lo largo del día.
+Se valora conocimientos de:
+Servidores y red de trabajo Windows Server (Active Directory)
+Equipos y redes de trabajo con compartición de archivos SMB / AFS
+Macintosh a nivel usuario avanzado
+Orientación al cliente interno
+Gestión con proveedores

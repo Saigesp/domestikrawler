@@ -1,0 +1,20 @@
+
+AnyHelp International es una Compañía Consultora en TIC cuya estrategia consiste en proporcionar un servicio excelente a sus clientes, en general grandes corporaciones del entorno Financiero, con los máximos niveles de profesionalidad y dedicación.
+AnyHelp International requiere incorporar un Analista Orgánico Cobol CICS DB2 para uno de los departamentos estructurales de nuestro cliente:
+FUNCIONES:
+- Formando parte de un equipo de 10 analistas, realización de análisis tanto de mantenimientos como de nuevos desarrollos.
+- Gestión de proyectos a través de la herramienta MS Project.
+- Pequeños desarrollos con Easytrieve.
+OFRECEMOS:
+- Estabilidad laboral.
+- Entorno dinámico.
+- Inmejorable ambiente de trabajo.
+- Tickets restaurant.
+Requisitos mínimos:  	
+- Experiencia demostrable en análisis de Aplicaciones.
+- Experiencia en Gestión de Proyectos. Preferiblemente con MS Project.
+- COBOL CICS DB2 (Online&amp;Batch)
+Requisitos deseados: 	
+- Experiencia con Easytreave
+- Experiencia en el sector bancario
+- Conocimientos de Assembler

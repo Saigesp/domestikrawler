@@ -1,0 +1,21 @@
+
+Buscamos un profesional con amplia experiencia en Ecmascript/JavaScript y tecnologías relacionadas, capaz de aprender y asimilar nuevas tecnologías rápidamente
+Se Requiere:
+- Formación: Ingeniería Técnica Informática.
+- Nivel Alto de Inglés(hablado y escrito)
+- Experiencia: Al menos dos años trabajando con Javascript.
+- Experiencia técnica INDISPENSABLE: XMLHttpRequest, JSON, XML, Xpath, DOM/DHTML, xHTML, CSS, Ajax
+- Experiencia técnica DESEADA
+-ACTIONSCRIPT(3.0), FLASH,FLEX, AIR
+-HTML5/DOM2
+-ANDROID
+- JQuery
+- Prototype
+Empresa dedicada a la integración de formatos publicitarios de vídeo, internet, internet tv, dispositivos móviles, IPTV
+Funciones:
+Soporte técnico en las integraciones a los clientes
+Desarrollo de aplicaciones para diferentes dispositivos 
+Horario:
+L-J: 9:00 - 19:00 / V: 9:00 - 15:00
+Sueldo:
+23.000 € al año en 14 pagas, seguro médico

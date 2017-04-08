@@ -1,0 +1,4 @@
+
+Encargado de la ejecución, desarrollo, implantación y seguimiento de proyectos a medida y soluciones de en el cliente.
+Reportando al Director de Consultoría y Soporte deberá responsabilizarse de una correcta ejecución y planificación de sus tareas en gestión de proyecto e implantación en el cliente, asegurando en todo momento una correcta calidad en su ejecución y documentando convenientemente todo el proceso seguido.
+Dominio de Bases de Datos para análisis (Data Warehouse) y herramientas de Business Intelligence: QlikView y Open Source (JasperSoft, Pentaho). Profundos conocimientos de SQL y programación (Java, php, Flex)

@@ -1,0 +1,17 @@
+
+Desde Dacartec SP buscamos Analistas Funcionales con 1 año mínimo de experiencia demostrada en Banksphere y que quieran desarrollar su carrera en importantes proyectos de compañías bancarias líderes en su sector.
+Tendrá oportunidad de aportar funcionalmente en la identificación de requerimientos funcionales, así como en el diseño técnico.
+Perfil Técnico:
+* Conocimientos en tecnología BKS.(Mira, Vega, Deneb,...)
+* Conocimientos en cambio de entorno.
+* Experiencia en J2EE y Rational Rose
+* Conocimientos de entornos HOST.
+Perfil Funcional: 
+* Conocimientos en Sistemas estructurales
+* Conocimientos procesos de negocio y Operativa Bancaria
+* Conocimientos de procesos masivos BATCH y On-Line
+Se ofrece:
+- Contrato indefinido
+- Formación continuada
+- Posibilidad de desarrollo profesional
+- Retribución variable en función de experiencia y valía aportadas.

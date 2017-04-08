@@ -1,0 +1,11 @@
+
+Si estás buscando dar el salto a cliente final ¡¡Esta es tu oportunidad!!
+Además de tratarse de un cliente final, también tendrás la oportunidad de entrar en contacto con nuevas tecnologías recién incorporadas al mercado y las versiones más recientes de diferentes lenguajes de programación.
+Requisitos mínimos:
+- Experiencia demostrable en PHP 5 + MySQL + XHTML + CSS + Javascript.
+- Experiencia en Moodle, preferiblemente 2.0. (Administración y Desarrollo)
+- Experiencia previa en el desarrollo de sites con frameworks open-source como: Joomla, Drupal
+Requisitos valorables:
+- Conocimientos de Jquery o similar, Ajax, Html5, Servicios Web Linux, Programación SCORM
+- Buen nivel de inglés hablado, leído y escrito.
+

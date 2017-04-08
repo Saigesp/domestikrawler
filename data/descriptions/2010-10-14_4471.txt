@@ -1,0 +1,15 @@
+
+Buscamos, para trabajar en nuestra oficina de Alcobendas, en nuestra área de Experiencia de Usuario:
+Perfil experto en programación HTML adecuada a estándares, con experiencia en integración de componentes RIA (Jquery, Ajax…) del lado cliente y capacidad para trasladar, de forma fidedigna, los elementos de interacción presentes en el prototipo y los elementos previstos en el diseño.
+Tareas principales del perfil:
+- Maquetación de plantillas: 
+     Desarrollo de código HTML, tanto de plantillas tipo o   maquetas navegables 
+    Creación de hojas de estilo (CCS)
+    Desarrollo de funciones Javascript
+    Desarrollo de maquetas navegables
+    Manuales de buenas técnicas para el desarrollo de interfaces Desarrollo de manuales de buenas prácticas técnicas Formación al equipo de desarrollo en buenas prácticas técnicas
+    Mapa de componentes reutilizables
+- Auditoría de accesibilidad: 
+    Pruebas heurísticas de accesibilidad
+    Identificación de deficiencias técnicas de accesibilidad
+    Intervenciones técnicas sobre código, para la implementación de las pautas de accesibilidad WAI

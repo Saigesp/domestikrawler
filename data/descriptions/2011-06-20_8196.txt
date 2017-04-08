@@ -1,0 +1,17 @@
+
+Somos una empresa de marketing digital basada en Madrid.
+Necesitamos unos desarrollos web en Wordpress  +jQuery algo exigentes y innovadores, para lo que estamos buscando un proveedor bueno y de confianza, trabajando por proyecto.
+Necesitamos 2 cosas:
+1. web front-end development, con jquery, javascript, css, y php, para browsers modernos.
+2. web back-end development en Wordpress y webservices.
+El proyecto es un site para navegación muy muy visual, basado en un CMS Wordpress. En otras palabras, es un blog con una experiencia de usuario muy diferente.
+El proyecto es exigente a nivel de User Interface porque requiere una experiencia de usuario muy buena, muy fluida, muy visual y con un minimo de page loads. En otras palabras, que se sienta casí como si fuera una app de desktop.
+En el backend se tendrá que:
+- configurar algunos plugins wordpress off the shelf;
+- desarrollar un plugin al menos, que usará webservices para facilitar la comunicación entre el Wordpress y el exterior;
+El estilo visual no es importante, desde que sea consistente y aparezca muy poco; queremos que el site sea 95% contenido y 5% elementos del propio site. Incluso podremos usar el estilo visual del theme comprado; lo importante es que la experiencia de navegación sea excelente. 
+Es un proyecto de desarrollo, no de design ni de branding. Necesitamos un programador web muy bueno, no un diseñador web.
+El desarrollo no es gigantesco, pero se quiere calidad de desarrollo, codigo limpio, y resultado final muy muy pulido. Es un proyecto que no puede fallar.
+El deadline es finales de Agosto 2011. Inicio inmediato.
+Si os interesa en este proyecto y tienen capacidad de entrega, me gustaría que habláramos. En general damos preferencia a agencias y desarrolladores basados en Madrid.
+Nos gustaría respuestas con brevidad, ya que se acerca el verano.

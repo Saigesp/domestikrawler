@@ -1,0 +1,9 @@
+
+DRAFTFCB, agencia de publicidad con oficinas en Madrid y Barcelona, busca Maquetador Web para trabajar como freelance.
+Requisitos:
+Lenguajes Web: HTML, CSS y estándares web 
+Experiencia en webs accesibles y estándares (W3C)
+
+Se valorará:
+Conocimientos en HTML5, Jquery y programación de servidor.
+

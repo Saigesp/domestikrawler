@@ -1,0 +1,21 @@
+
+Company Profile: 
+We are the leading provider of ecommerce solutions for hotels, servicing more than 20,000 hotel customers in 147 countries. We help hotels maximize profits from e-commerce. Serving the hospitality industry since 1999, we are a service-based company with leading products that increase revenue and profitability for hotels of all kinds, from international brands and ownership groups to high-profile independents and regional chains. Our headquarters are in New York (United States) and we have offices and customer care services globally based in Schaumburg (United States), Orlando (United States), Atlanta (United States), Philadelphia (United States), Barcelona (Spain), Melbourne (Australia), Dubai (United Arab Emirates), Tokyo (Japan), Shanghai (China) and Singapore. You can find more about us on our website: www.travelclick.com
+Job Description:
+Web designers within TravelClick are required to create engaging and visually appealing web page designs primarily for hotels and other travel related outlets such as restaurants / bars, spas and golf courses. 
+The standard design process requires that the designer directly liaises with the client and the sales team in order to understand how the client wants to position their new online brand. Once the design direction is established the designer is then required to produce a series of static compositions of how the new website will look and function. To this end each designer needs to have a good understanding of web technologies so that they can design with these technologies in mind.  
+Requirements: 
+We are ideally looking for someone with a strong portfolio in web design as well as someone that knows their way around Flash and is comfortable with using AS3, we’re not looking for a full on Flash Developer but a web designer with flash skills.
+TravelClick client list is incredibly diverse as it ranges from mid-range hotels to top name luxury brands. Therefore each designer needs to be able to provide designs that can meet the requirements of these very different types of client.
+Primary Requirements:
+• 3-5 commercial experience designing web pages OR an outstanding web portfolio.
+• Be able to provide examples of previous work that show a definite flair for web design. 
+• A good knowledge of English to a level that will allow you to discuss your designs with others and take design direction from clients and the Creative Manager.
+• Expert knowledge of either Adobe Photoshop or Adobe Fireworks in producing web designs.
+• Good CSS and HTML skills for creating prototyped fluid layouts and some page interactions. (We don’t expect you to be a web developer but we’d like you to have knowledge of how to create a basic website) 
+• Comfortable working on multiple projects at the same time.
+• Ability to work in a team or independently.
+• Organized in the way you manage and structure your files so that other designers and developers within the team can easily use them.
+• Excellent communication skills and be able to explain design concepts to non-design related people.
+• Experience of working with Flash using AS3 so that you can create interactive site elements like photo slideshows.
+

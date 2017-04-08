@@ -1,0 +1,17 @@
+
+Estamos buscando una persona cualificada para cubrir un puesto con contrato de nivel de programador que cumpla las siguientes características:
+Modelización de desarrollos.
+Programación Orientada a Objetos.
+Experiencia en desarrollo web con PhP/MySQL.
+Experiencia en Javascript, AJAX.
+Experiencia en desarrollos y customización de CMS OpenSource (Word Press, Joomla, Drupal, Nuke...).
+Experiencia en HTML, XHTML.
+Inglés.
+Capacidad de trabajar en grupo.
+Se valorará mucho:
+Conocimientos en maquetación con CSS, CSS2.
+Conocimientos del entorno de programación .NET y de los lenguajes C# y Visual Basic.
+Conocimientos de Filemaker y Access.
+Conocimiento de Photoshop (a nivel tecnico, no creativo).
+Conocimiento de Flash (a nivel tecnico, no creativo).
+Su principal función va a ser la de ser capaz de desarrollar webs completas y solidas, tanto estaticas como dinamicas, respetando el estilo y diseño que se le haya dado y efectuando la programacion que se le indique.

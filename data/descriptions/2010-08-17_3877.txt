@@ -1,0 +1,17 @@
+
+Dreamsite, agencia interactiva, busca un programador web para incorporar a su equipo de trabajo.
+funciones:
+maquetación y desarrollo xhtml, css, javascript de aplicaciones web.
+programación php, asp, con acceso a bases de datos mysql.
+integración de plantillas para CMS, wordpress, joomla, ezplublish.
+requisitos:
+aplicación de estándares y accesibilidad web.
+experiencia en prototipo jquery, ajax y json.
+altos conocimientos en maquetación css2/3.
+valoramos:
+página/blog personal actualizado frecuentemente.
+programación API, facebook, gmaps, twitter.
+Ofrecemos:
+Contrato indefinido.
+Buen ambiente de trabajo.
+Horario flexible.

@@ -1,0 +1,7 @@
+
+Agencia de comunicación en Barcelona busca programador de aplicaciones para Iphone / Ipad
+Se requiere que los candidatos cumplan los siguientes requisitos:
+    -Conocimientos del SDK (Software development kit) de apple.
+    -Experiencia en programación desde Mac.
+    -Conocimientos en librerias propias del SDK.
+    -Experiencia lenguaje de programación de Iphone objective-C

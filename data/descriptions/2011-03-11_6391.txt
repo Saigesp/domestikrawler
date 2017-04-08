@@ -1,0 +1,14 @@
+
+Empresa start-up de desarrollo de software busca Programador:
+Imprescindible dominio de:
+- PHP 
+- Javascript / Ajax
+- MySQL
+- HTML/CSS
+- Metodologías de programación, gestores de versiones (svn, git)
+Adicionalmente, se valorarán conocimientos de gestión de servidores linux.
+Ofrecemos:
+- Entorno joven, emprendedor y horario flexible
+- Unirte a un equipo con mucha experiencia en el medio on-line
+- Empresa en crecimiento con clientes internacionales
+- Gran potencial de desarrollo de carrera

@@ -1,0 +1,12 @@
+
+Sokoweb Technologies S.L. es una start-up fundada en Barcelona en 2011 que ofrece servicios de marketing y publicación online a distribuidores y marcas a través de innovadoras herramientas web y móvil. Queremos revolucionar la forma en la que la gente prepara las compras y accede a las tiendas. Buscamos a gente entusiasta que esté buscando nuevos retos!	
+Qué te ofrecemos?
+- Participación en la construcción y responsable del mantenimiento de nuestras aplicaciones móvil para iOS y Android
+- Integración de aplicaciones móvil con los servicios de back-end existentes
+- Una fuerte cultura de equipo donde podrás tener impacto aportando tus ideas
+- Trabajar con un equipo de profesionales jóvenes de primer nivel especializados en desarrollo de innovadoras tecnologías 
+- Un nuevo reto con una oportunidad de aprendizaje muy valiosa para tu desarrollo profesional 
+Qué esperamos de ti?
+- Experiencia previa en el desarrollo de apps móviles en  iOS y/o Android
+- Habilidades de desarrollo con tecnologías Java y/o Objective-C
+

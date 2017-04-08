@@ -1,0 +1,45 @@
+
+Buscamos:
+- Experto en PHP
+- Experto en SQL
+- Experto en Javascript
+- Experto en CSS y HTML
+- Conocimientos de administración de Apache Web Server    
+- Conocimientos básicos de administración DNS
+- Capacidad para resolver problemas y buscar soluciones imaginativas
+- Capacidad para operar un sistema web en producción:
+
+Ofrecemos:
+Puesto de trabajo indefinido, en Mallorca, para un proyecto web innovador de ecommerce.
+Requerimos:
+- Experto en PHP
+    - Scripting general
+    - Generación de HTML dinámico
+    - Acceso a datos MySQL
+    - Depuración de software
+    - Pruebas unitarias phpUnit
+    - Registro de trazas en logs
+    - No imprescindible conocimientos de frameworks PHP (Symfony, CakePHP) pero sería un plus
+- Experto en SQL
+    - No hay framework. Las queries, por eficiencia, se construyen a mano
+- Experto en Javascript
+    - JQuery
+    - Ajax
+- Experto en CSS y HTML
+- Conocimientos de administración de Apache Web Server
+   - Seguridad (ACLs y control de acceso)
+   - Configuración de Virtual Hosts
+- Conocimientos básicos de administración DNS
+- Capacidad para resolver problemas y buscar soluciones imaginativas
+- Capacidad para operar un sistema web en producción:
+    - Automatización de monitorización de logs
+    - Mantenimiento de la web
+Salario:
+25.000-35.000 €
+Experiencia:
+5 a 8 años
+Idiomas:
+español
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa

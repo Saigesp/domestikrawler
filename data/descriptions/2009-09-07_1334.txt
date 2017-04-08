@@ -1,0 +1,10 @@
+
+Buscamos a alguien con experiencia y con altos conocimientos de:
+- maquetación en XHTML Y CSS
+- gestores de contenido de código abierto (Wordpress...) - creación de themes en php, instalación y personalización ...
+- estándares web y accesibilidad
+- arquitectura de la información
+- diseño gráfico creativo
+También se valorarán:
+- Conocimientos de JavaScript
+- Conocimientos de Flash

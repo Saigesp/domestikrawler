@@ -1,0 +1,16 @@
+
+Somos una agencia interactiva llamada Fat Man Collective reconocida en Londres y galardonada en concursos web internacionales como TheFWA 
+En la oficina de Barcelona buscamos un desarrollador web para crecer junto a nosotros. 
+Lo más importante es que la persona sea responsable y tenga una buena base en programación + curiosidad creativa
+Indispensable:
+Haber programado en C, Java o algún lenguaje parecido
+Pasión por programar webs y aplicaciones web. 
+Conocimiento alto en HTML/CSS/JavaScript/PHP/MySQL
+Con ganas de seguir evolucionando
+Relevante:
+Frameworks tipo cakePHP, Ruby on Rails,...
+Frameworks tipo jQuery/jQueryMobile/
+Configuración de servidor unix/linux
+Interesados, poneros en contacto --&amp;gt; dokuniev@gmail.com
+Esperamos vuestras solicitudes, es una buena oportunidad!
+Saludos  :)

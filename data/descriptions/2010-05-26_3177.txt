@@ -1,0 +1,4 @@
+
+Hola, 
+buscamos incorporar un nuevo profesional para el desarrollo, y mantenimiento de Weclic, red social creativa.
+Son necesarios sólidos conocimientos de PHP usando un  framework de desarrollo (Symphony, Cake...)

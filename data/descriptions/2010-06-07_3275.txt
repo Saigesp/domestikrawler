@@ -1,0 +1,9 @@
+
+THK Soluciones busca programador para el desarrollo de nuevo proyecto vinculado a la empresa, a la vez dar soporte a desarrollos actuales.
+Los requisitos para el proyecto son los siguientes:
+Requisitos principales:
+• Experiencia mínima de 1 a 2 años en programación con Java, Struts, Hibernate y MySQL
+Tecnologías adicionales:
+• Conocimientos de Spring
+• Conocimientos de Ajax
+• Conocimientos de Php 

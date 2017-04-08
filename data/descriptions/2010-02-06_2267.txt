@@ -1,0 +1,23 @@
+
+Estarás trabajando en la integración de los diseños y arquitecturas en los sitios web, escribiendo el código HTML y CSS necesario e integrándolo en los CMS. También realizarás pequeños ajustes de diseño en apoyo de la producción de contenidos.
+Tareas
+Implementar en XHTML/CSS diseños web, asegurando adherencia a estándares.
+Integración de código front-end en gestores de contenido en cooperación con los desarrolladores.
+Asegurar la compatibilidad entre navegadores.
+Diseño y maquetación de pequeños elementos gráficos apoyando a la producción de contenido.
+Proyectar y desarrollar soluciones de front-end, así como recomendar las mejores soluciones y mejores prácticas.
+Utilizar sistemas de versionado de código fuente.
+Asesorar en temas de usabilidad y experiencia de usuario relacionadas con la comunicación web.
+
+Competencias necesarias
+Desarrollo en HTML, CSS, PHP y Javascript (Mootools).
+Competencias deseables
+Integración de plantillas en TYPO3 / TYPO3 certified integrator.
+Desarrollo Flash y ActionScript.
+Perfil
+Habilidad para manejar proyectos complejos, las expectativas de los clientes, y la rápida evolución de las necesidades del usuario.
+Experiencia mínima de 2 años, acostumbrados a trabajar en equipo, que demuestren gran capacidad de aprendizaje, superación y clara orientación a la consecución de objetivos de proyecto. 
+Nivel medio-alto de inglés.
+Capacidad de innovar, priorizar, trabajar en varias tareas y trabajar bajo presión para entregar proyectos a tiempo.
+Aptitudes técnicas y habilidades para resolver problemas mediante métodos de cooperación.
+

@@ -1,0 +1,30 @@
+
+Hola:
+En netthink isobar buscamos Project Manager.
+Pensamos que debe ser una persona organizada y metódica con capacidad para producir los trabajos que requieran de una planificación en plazos, costes y calidad.
+Sus funciones serán :
+-Definir el planning de proyecto, realizando una valoración de horas por cada una de las fases. 
+-Acotar el proyecto, bien hablando con el cliente, bien
+estableciendo hipótesis sobre cada variable de riesgo. 
+-Valorar cada fase en horas de trabajo efectivo, definir cada una de las fases, definir de forma
+precisa y detallada el alcance del proyecto.
+-Distribuir y coordinar el trabajo entre las diferentes partes implicadas. 
+-Buscar y proponer soluciones a los problemas que puedan surgir y trabajar en coordinación con el equipo de cuentas.
+- Mantener la relación con el cliente durante toda la ejecución. 
+-Revisar la calidad del trabajo. 
+- Crear tareas y asignar recursos en la fase de ejecución.
+Formación académica:
+- Valorable Ingeniería Técnica o Superior en Informática.
+- Conocimientos necesarios
+- Buen conocimiento teórico de tecnologías web de Microsoft (IS, SQL Server, ASP.NET)
+- Buen conocimiento teórico de lenguajes web (XHTML, CSS2,JavaScript, XML, XSLT, Flash, Flex, HTML 5)
+- Buenos conocimientos de usabilidad y arquitectura de la
+información
+- Nivel alto de inglés, tanto hablado como escrito
+Competencias generales
+- Trabajo en equipo
+- Preocupación por el orden y la calidad
+- Iniciativa
+- Gestión del cambio
+- Experiencia necesaria entre 2-3 años
+

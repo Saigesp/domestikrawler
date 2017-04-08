@@ -1,0 +1,15 @@
+
+Buscamos un programador/maquetador web para jornada completa (no freelance):
+Requisitos:
+• Experiencia mínima 1 año en desarrollos LAMP.
+• Nivel medio-alto de maquetación XHTML y CSS para integración con PHP.
+• Nivel medio en Javascript.
+• Nivel medio en MySQL.
+Se valorará:
+• Experiencia en desarrollos e integraciones sobre entornos LAMP
+• Conocimiento de librerías de Javascript como jQuery, MooTools, etc...
+Se ofrece:
+• Contrato: Indefinido 
+• Incorporación: Inmediata
+• Jornada laboral: Completa 
+

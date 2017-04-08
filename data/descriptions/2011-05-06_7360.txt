@@ -1,0 +1,2 @@
+
+Se precisa un ingeniero técnico con al menos 2 o 3 años de experiencia. Deberá tenerconocimientos avanzados de programación en J2EE/Java EE 5. Conocimientos avanzados y gran experiencia en el desarrollo de aplicaciones web. Altos conocimientos de bases de datos en diferentes tecnologías (mysql, oracle). Se valorarán conocimientos de Anotaciones, Framework e Spring y Struts, Persistencia en hibernate, ibatis, BBDD mysql, Oracle, Html. Abstenerse de enviar curriculum personas sin experiencia.

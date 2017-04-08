@@ -1,0 +1,29 @@
+
+Somos una empresa dedicada a dar servicios informáticos a corporaciones educativas.
+Buscamos profesionales entusiastas, con preferencia por el trabajo en equipo, con gran capacidad de trabajo, iniciativa y alta motivación por incorporarse en una empresa inmersa de lleno en un proceso de expansión y crecimiento.
+Formarán parte de un equipo de trabajo joven, dinámico y altamente cualificado, con importantes posibilidades de evolución y crecimiento personal.
+El perfil que estamos buscando es el siguiente:
+Requisitos Mínimos:
+Sólidos conocimientos de PHP y Javascript
+
+HTML, XHTML y CSS.
+
+
+Requisitos Deseados:
+Experiencia con Drupal y Moodle.
+
+Base de datos: MySQL.
+
+Conocimientos de Linux y Git.
+
+
+Otros Conocimientos Valorables:
+
+Frameworks: phpCake, Symfony, etc.
+
+jQuery, Prototype, etc.
+
+Herramientas web: Sharepoint, Flash, eCommerce, etc.
+
+Lenguajes: Ruby (Ruby on Rails), Pyhton, etc.
+

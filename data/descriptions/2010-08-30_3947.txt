@@ -1,0 +1,18 @@
+
+Coated sigue buscando ampliar a su equipo. Debido al crecimiento que estamos experimentado y, para seguir haciéndolo, necesitamos personas que contribuyan a ampliar y mejorar nuestro equipo ¿eres tu? ¿te vienes?
+Las funciones de la persona que ocupe esta vacante serán las siguientes:
+-	Maquetación y desarrollo de webs en HTML + CSS + JavaScript de forma accesible y siguiendo los estándares actuales.
+-	Dar soporte al equipo en el que formará parte.
+-	
+Requisitios:
+-	Alto nivel de HTML4, marcado semántico y conocimientos de estándares.
+-	Conocimientos de Accesibilidad web.
+-	Dominio de CSS2 y conocimientos de crossbrowsing.
+-	Conocimientos de JavaScript (DOM, AJAX y jSon).
+-	Capacidad de aprendizaje y de trabajo en equipo.
+Deseable:
+-	Conocimientos del IDE Eclipse y haberlo usado como entorno de desarrollo junto con plugins como Aptana o Subversive.
+-	Nociones de SEO.
+-	Interés en investigación sobre HTML5/CSS3.
+-	Conocimientos de Frameworks JS como jQuery, YUI o Prototype.
+-	Nociones de PHP o JSP para realizar integraciones con parte servidor.

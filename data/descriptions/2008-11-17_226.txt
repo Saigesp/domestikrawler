@@ -1,0 +1,8 @@
+
+Requisitos mínimos:
+- Conocimientos y sensibilidad por el diseño gráfico funcional y atractivo orientado a web
+- Experiencia en proyectos web.
+- Maquetación con estándares HTML/XHTML, javascript y CSS sin tablas, multinavegadores y multiplataforma.
+- Persona con alta capacidad de trabajo en equipo, iniciativa y proactividad.
+Se valorará positivamente:
+- Experiencia en programación de PHP y MYSQL.

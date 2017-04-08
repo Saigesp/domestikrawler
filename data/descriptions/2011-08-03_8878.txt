@@ -1,0 +1,13 @@
+
+URL del proyecto: www.trickon.com
+Se necesita de alguien que esté al día de HTML5/CSS3/jQuery y sea capaz de coger el código existente, depurarlo, hacer mejoras, mejorar la experiencia de usuario, aportar conocimiento y esté habituado a trabajar en un entorno de desarrollo sobre Rails y GitHub.
+Además, sería un plus manejarse perfectamente con Photoshop/Illustrator para diseñar nuevas vistas de la web o elementos gráficos necesarios como banners, mailings, etc...
+En principio se busca a alguien como freelance, dedicándole una gran parte del tiempo al proyecto sin llegar a ser 100% presencial, pero sí es esencial vivir en Barcelona.
+Resumiendo:
+- Conocimientos avanzados de HTML5/CSS3
+- Manejarse bien con jQuery
+- Capaz de diseñar acorde a unas guías (Photoshop/Illustrator)
+- Tener experiencia trabajando con versiones (Git)
+- Se valorarán conocimientos de programación en Rails
+- Se valorará experiencia en Social Media
+- Ser majo :P

@@ -1,0 +1,18 @@
+
+Hola
+Mi nombre es Iván. Estamos haciendo unos minijuegos para una ong sobre los derechos de los niños. 
+Nuestro programador va ser padre y se desconecta del proyecto.
+Necesitamos 5 programadores en flash para hacer varios minijuegos para un cd:
+Con caracter general, consiste en:
+    - Corregir un juego de laberinto que ya lo tenemos hecho para que entre en pantalla y tenga un poco más de sentido para los chavales. Ahora es muy grande, o bien hacrelo de nuevo con algún script y verificar si son correctas o falsas unas imagenes. el laberinto tiene 10 salidas.
+    - Arrastar objetos y dejarlos libremente sobre un espacio con un dibujo de una ciudad.
+    Puzzle: hacer 6 puzzles de 2 piezas - total juego 12 piezas -. Panoramica del resultado de los puzzles.
+    - Ordenar 3 secuencias de 4 imágenes cada secuencia.
+    - Asignar 9 viñetas en 2 columnas, una donde si se respetan unos derechos y otra donde no. El chaval tiene que arrastrar las imágenes y ponerlas en lugar correcto.
+Entrega y plazos: enviamos los materiales, y el desarrollo de como funciona cada juego. 
+El tiempo de entrega son 7-10 dias. 
+    Contacto: via skype o en directo, estamos en Madrid.
+    Trabajo online o presencial. Empresa o autonomo.
+    Forma de pago: como mejor os cuadre, a la entrega del proyecto.
+   Saludos
+    Iván 

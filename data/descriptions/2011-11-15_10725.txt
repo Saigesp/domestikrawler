@@ -1,0 +1,39 @@
+
+Buscamos:
+-Responsable del diseño de la arquitectura técnica de las plataformas de servicios WEB: capacidad, disponibilidad, escalabilidad y seguridad
+-Responsable de la gestión de los proveedores de Hosting y de servicios de mantenimiento y soporte avanzado de las plataformas: monitorización, administración y mantenimiento, resolución incidencias técnicas y de seguridad.
+-Gestión de los trabajos para el despliegue de nuevas plataformas, y para la modificación de las existentes.
+-Reporte, disponibilidad y actividad de las plataformas
+Ofrecemos:
+-Incorporación a un grupo de comunicación líder en Internet con webs altamente dinámicas y de elevado tráfico.
+-Alto nivel de interlocución y autonomía.
+-Posibilidades de crecimiento y desarollo profesional.
+-Incorporación a un equipo de tecnología joven y cohesionado.
+-Beneficios sociales (comedor de empresa, formación, etc.)
+Requerimos:
+Capacidad de:
+-de gestión de proveedores de Hosting y Mantenimiento de plataformas Web
+-de relación con áreas de desarrollo y usuarios
+-de interlocución con la dirección de gestión de proyectos
+-de gestión de presupuestos y costesde orientación a resultados
+-Claras inquietudes hacia Internet y tecnología asociada
+Imprescindible:
+*Conocimientos en arquitecturas WEB: generación de contenidos, back, front, Filers, clusterings, balanceadores, …sobre software base: Linux, MySQL, Tomcat-Apache.
+*Conocimientos redes CDN: Akamai, Level3, …
+*Conocimientos avanzados en herramientas de monitorización tipo Nagios
+*Conocimientos seguridad: Firewalls, bastionado servidores, …
+*Conocimientos en soluciones de virtualización: VMWare.
+*Experiencia en la gestión y negociación con proveedores
+Deseamos:
+Valorable:
+-Licenciatura / Ingeniería Superior
+-Plataformas Microsoft: Windows, SQLServer, IISITILGestores de Contenidos WEBXML, HTML, JavaScript
+ 
+Experiencia:
+Más de 8 años
+Idiomas:
+*Inglés, nivel alto
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+

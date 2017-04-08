@@ -1,0 +1,11 @@
+
+Hola, 
+Tenemos 2 posibles externalizaciones. 
+1.- Corrección de bugs aplicación widget desarrollada en Flash Cs3+AS2+SqlLite+Zync
+Necesitamos un flasher residente en Barcelona que se haga cargo de solucionar los bugs una vez los presupueste.
+2.- Desarrollo parcial interface de control remoto desarrollado en flash CS3+AS3+processing
+Necesitamos un programador experto en Flash residente en Barcelona para el desarrollo de unn interface interactivo de control remoto via web a una aplicación desarrollada en processing. El trabajo se puede  desarrollar extrernamente aunque será de agradecer que parte del trabajo se desarrolle in house para una optima comunicación con el actual equipo de desarrollo.
+El sueldo en función de lo presupuestado una vez se explique detalladamente el trabajo.
+Enviar e-mails interesados a vfayos@cpproximity.es
+Un saludo!
+ 

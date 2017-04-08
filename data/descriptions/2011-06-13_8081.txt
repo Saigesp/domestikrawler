@@ -1,0 +1,8 @@
+
+· Windows Server (2003/2008)
+· Windows IIS (6.0/7.0)
+· Servicios web balanceados
+· Windows SQL Server (2005/2008)
+· Conocimientos en protocolos de comunicaciones 
+· Conocimientos en administración del Gestor de Contenidos 
+· Conocimientos en Sistemas de Información Geográfica

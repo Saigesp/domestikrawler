@@ -1,0 +1,14 @@
+
+Oferta laboral para aquellas personas interesadas en formar parte del equipo de la organización mediante la apropiación de sus valores institucionales y la vocación de servicio a la comunidad.
+Para mas información leer el Job Posting
+Funciones Básicas
+1). DISEÑO e IMPLEMETACIÓN (creación, integración e innovación) de proyectos multimediales que permitan a los usuarios de GCFLatino.org “http://www.gcflatino.org” acceder a la información desde distintos dispositivos, ya sean éstos móviles o de escritorio.
+2). Proporcionar asistencia a programadores y diseñadores en la creación e implementacion del material multimedia (Texto, audio, video, gráficas y animación) que sean requeridos por el Project Manager.
+3). Crear pantallazos y elementos específicos de una interfaz (móvil y de escritorio) como botones, ventanas, menús y piezas grafías necesarias.
+Los elementos de diseño que se deben aplicar y crear incluyen:
+• Visualización y navegabilidad
+• Uso del color
+• Manejo de fuentes y textos
+• Fondos, imágenes e ilustraciones
+• Conceptualización y arte gráfico
+• Producción y edición de video.

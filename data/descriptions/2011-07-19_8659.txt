@@ -1,0 +1,36 @@
+
+Experiencia y logros 
+Ganas de aprender y ser parte de un gran equipo de trabajo. 
+1-3+ años de experiencia previa en desarrollo PHP (un año en posiciones similares). 
+Combinar la capacidad de trabajo en equipo con la autogestión y el saber caminar solo. 
+Experiencia en la preparación de informes y documentos técnicos. 
+Nivel de Inglés avanzado. 
+Funciones del Puesto: 
+Configuración de librerías y componentes para CMS como Joombla/Drupal. 
+Diseño y Desarrollo en PHP de nuevos módulos y librerías. 
+Investigación de estrategias y tecnologías de integración con otras plataformas. 
+Revisión de código cruzada. 
+Documentación Técnica. 
+Requisitos de Puesto (LAMP-J/WEB) 
+PHP 5+ (avanzado): especialmente para desarrollos sobre Drupal/Joomla 
+Bases de Datos (SQL): MySQL, Oracle. 
+Administración Linux a nivel medio-alto. 
+HTML5, CSS y JavaScript/AJAX (jquery, json,…) 
+Orientación a Objetos 
+Conocimientos Deseables 
+Web Services / REST Services con tecnologías PHP	
+Java,C/C++ 
+Bases de datos (NOSQL): MongoDB, Cassandra, etc. 
+Patrones de diseño (MVC,…) 
+Herramientas de diseño (Gimp,...) 
+Conocimientos sobre SEO. 
+Herramientas 
+Subversion, Maven, etc. 
+Eclipse, Zend 
+Mysql 
+Linux (ssh, bash scripting) 
+Metodología 
+SCRUM 
+Extreme Programming 
+Pair Code Review 
+White-Box testing

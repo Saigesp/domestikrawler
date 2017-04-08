@@ -1,0 +1,11 @@
+
+Se busca programador Android para incorporarse de forma inmediata en el equipo de Tourist Eye. Somos una startup con una visión integradora del mercado turístico y la tecnología. Desarrollamos una guía de turismo social, web y móvil que abarca las distintas fases del viaje: inspiración, planificación y acceso a la información, pudiendo compartir en todo momento la actividad del viaje en redes sociales: nuevos viajes, lugares descubiertos, check-in’s en los lugares visitados, fotos, mensajes, reseñas, etc.
+Perfil:
+Estudiantes de último curso de la carrera o recién titulados, con experiencia en desarrollo para Android. Dominio de inglés.
+El candidato deberá participar en el desarrollo de la aplicación móvil de Tourist Eye para terminales Android. Se partirá de la aplicación existente y deberá trabajar en la incorporación de nuevas funcionalidades.
+Conocimientos necesarios:?
+Java, Android
+Oferta:
+?Incorporación de forma inmediata en una startup liderada por un equipo joven y ambicioso. Retribución variable en función de la experiencia del candidato y opción a un plan de stock-options dentro de la empresa. Posibilidad de realizar el PFC en la empresa y de trabajar en un futuro en el equipo local de San Francisco.
+Horario:?
+Total flexibilidad para adaptar la jornada a las necesidades del candidato. Jornada mínima de 4 horas.

@@ -1,0 +1,13 @@
+
+InmediaStudio, requiere para su incorporación en un proyecto de larga duracion un programador con experiencia demostrable en PHP.
+Requisitos:
+- PHP
+- Experiencia previa en Framework MVC
+- Conocimientos de Javascript y JQuery
+- Nivel alto en programación orientada a objetos
+- Buen nivel en BBDD MySql
+Se Valorará:
+- Experiencia en el Framework CodeIgniter
+- Conocimientos de Flash/AS3
+- Maquetación xHTML y HTML5
+No se aceptan candidatura de empresas.

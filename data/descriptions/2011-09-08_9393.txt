@@ -1,0 +1,14 @@
+
+Estamos comenzando la distribución en España de varias soluciones de software en el sector médico y necesitamos a una persona que nos pueda dar apoyo desde el inicio y según vaya avanzando la comercialización.
+Inicialmente las tareas que realizará serán las relativas al aprendizaje de las aplicaciones incluyendo la asistencia a 4 congresos médicos al año (el primero del 21 al 24 de Septiembre) y una semana en el extranjero para la formación (entre Octubre y Noviembre del presente año).
+Conforme avance la comercialización colaborará en la instalación-implementación de las aplicaciones y en el servicio a los clientes.
+No se le exige una disponibilidad periódica determinada (tipo dos mañanas o un día a la semana) sino flexibilidad relativa a la carga de trabajo que vaya surgiendo.
+Nos interesa por lo tanto alguien que pueda encontrar esta actividad como complementaria a la que está realizando en la actualidad y que pueda permitir a su vez aprovechar/se los requerimientos it adicionales que los clientes solicitan. 
+Las características deseadas serían:
+-	Básicos de LAN de Windows relativos a las instalaciones de las aplicaciones.
+-	Programación en .NET para poder hacer desarrollos a medida cuando solicitados.
+-	Básica comprensión del inglés.
+-	Interés en el sector it médico.
+De inicio lo que ofrecemos son 500€ mensuales fijos de base aumentando de acuerdo al avance de las ventas proporcionalmente a la carga de trabajo generada.
+La relación que se establecería sería mediante un contrato de prestación de servicios.
+

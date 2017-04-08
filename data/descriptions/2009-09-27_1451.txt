@@ -1,0 +1,15 @@
+
+Rankia S.L., empresa editora de Rankia.com, la principal comunidad financiera española independiente con más de 34.000 usuarios registrados, y Mimandote.com, una nueva comunidad sobre salud, belleza, moda y relaciones de pareja, busca para incorporar a su plantilla una persona que se encargue de desarrollar proyectos web de comunidades online y redes sociales mediante Ruby on Rails. El perfil ideal es una persona con muchas ganas de aprender, interés por el software libre y muy motivada a quien le apasione desarrollar proyectos Web 2.0.
+Requisitos:
+- Titulado en Informática, Ingenieria de Telecomunicaciones o titulación técnica similar.
+- Experiencia de desarrollo web en lenguajes dinámicos (PHP, Perl, Python, etc.)
+- Conocimientos básicos de estandares web: XHTML, CSS y Javascript.
+Se valorará:
+- Experiencia de desarrollo web con Ruby on Rails y MySQL.
+- Conocimientos avanzados de maquetación web y CSS.
+- Conocimientos de administración de sistemas en entornos Linux.
+- Conocimientos de técnicas de optimización para buscadores (SEO).
+Se ofrece:
+- Jornada a tiempo completo en la ciudad de Valencia (España). Horario a convenir.
+- Entorno dinámico y creativo con excelentes posibilidades de aprendizaje.
+- Sueldo a convenir en función de la experiencia del candidato.

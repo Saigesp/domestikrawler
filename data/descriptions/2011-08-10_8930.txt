@@ -1,0 +1,6 @@
+
+Nuestro cliente necesita un experto en programacion Sugar CRM.
+Disponen de dos CRM uno con version 6.1.2 y otro con version 5.2
+Basicamente el problema que tienen es que en ambos no se puede programar el envio automatico de las campañas de email.
+Al enviar una campaña los emails se quedan encolados y no se envían.
+Para mas información ponerse en contacto con el cliente.

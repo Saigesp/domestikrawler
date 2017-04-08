@@ -1,0 +1,42 @@
+
+Software Integration Engineer
+Empresa Fon Technology, S.L.
+Localidad Madrid
+Buscamos:
+
+The selected candidate will join our Firmware department and will be in charge of integration projects of FON firmware into our partners' devices. This task will require support to the CPE manufacturers, analysis of bugs and development of solutions, as well as tasks of monitoring and management of the whole integration process.
+Responsibilities:
+-Leading the integration process with international CPE manufacturers.
+-Preparing integration test plans and new test cases for new and existing software features and new hardware platforms and products.
+-Proactive work with engineers in charge of software and hardware solutions during new product development life cycle. The selected candidate must have good interpersonal communications and be able to deal with technological issues and report them to fellow software team members.
+-Remote and eventually on site support to CPE manufacturers during integration process.
+-Certification of CPE implementations.
+-Analysis, development and maintainance of Fon documentation.
+
+Ofrecemos:
+Salario en función de valía del candidato.
+Tickets restaurant
+Seguro medico privado
+Stock Options
+Requerimos:
+Minimum requirements:
+-Telecommunications Engineer, Computer Science Engineer or Software developer.
+-Strong knowledge of Linux OS and TCP/IP protocols.
+-Excellent software testing methodology skills. Creative approach to isolating problem areas involving multiple hardware and software variables.
+-Hands on experience testing networking products.
+-Fluent in English is a must.
+-Team work skills.
+Deseamos:
+Desirables requirements:
+-Knowledge of 802.11 / WiFi technologies, with specific focus on Access Points.
+-Good network administration skills. Need to setup test environments with Linux based systems using Radius, DHCP, Iptables, etc. for local test fixtures.
+-Shell scripts to develop automate tests will be a plus.
+Experiencia:
+1 a 3 años
+Idiomas:
+Ingles alto
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+¿Te interesa? Apúntate aquí http://bit.ly/oscdgx
+

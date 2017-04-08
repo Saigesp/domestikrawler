@@ -1,0 +1,13 @@
+
+
+Desarrollo Tienda Online. El trabajo será de un mes aproximadamente. 
+Disponibilidad inmediata.
+Imprescindible poder Facturar.
+Requisitos:
+- Presentación de trabajos similares
+- Amplios conocimientos de PHP5
+- Bases de datos MySql
+- Conocimientos de JavaScript, Ajax y librerias Jquery
+Deseable:
+- Conocimientos de maquetación XHTML/CSS2 y HTML5
+

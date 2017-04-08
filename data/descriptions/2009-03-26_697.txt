@@ -1,0 +1,18 @@
+
+IMASTE es una empresa joven y dinámica, con presencia internacional, que trabaja en el desarrollo de plataformas de contacto innovadores entre sus clientes y potenciales usuarios. Conócenos en www.imaste.es 
+¿Estás buscando aprender en un ambiente de trabajo joven y divertido, con los mejores profesionales del desarrollo multimedia, y utilizando las tecnologías más novedosas?. 
+Esperamos de ti que seas capaz de aprender rápidamente y de modo continuo y que sepas trabajar en equipo, con expertos en diferentes especialidades (diseño interfaces, creatividad, postproducción, infografía, desarrollo funcional…). 
+Juntos, desarrollaremos proyectos web innovadores a nivel internacional. Perfil Becario 
+Desarrollo Java/Flex: - Colaborarás en el desarrollo y adaptación de la plataforma de ferias virtuales y los entornos 3D de nuestro laboratorio de entornos virtuales, a diferentes sectores y países.
+ - Desarrollo de pequeñas aplicaciones de apoyo al desarrollo de nuevas versiones de nuestra plataforma. - Pretendemos que te familiarices con nuestro entorno de desarrollo, las tecnologías utilizadas y la concepción del proyecto para una futura incorporación en nuestro equipo de tecnología. 
+Buscamos estudiantes con un elevado nivel de motivación por la utilización de nuevas tecnologías y lenguajes. Con capacidad de integración en equipos multidisciplinares y proactividad e iniciativa para resolver problemas y enfrentarse a retos que resuelvan las necesidades de los clientes. El perfil ideal tendrá un gran conocimiento técnico y una inquietud especial por estar a la última en el uso de las nuevas tecnologías.
+ Valoramos: 
+- Conocimientos de programación orientada a objetos (preferentemente Java, Actionscript) 
+- Conocimientos de J2EE, Spring, JPA, Hibernate
+ - Conocimientos de Flex, BlazeDS, Ant, Linux
+ - Actividad e intervención en la comunidad developer 
+- Conocimientos avanzados de Inglés, otros idiomas también seran valorados.
+Requisitos: 	
+- Colaborarás en el desarrollo y adaptación de la plataforma de ferias virtuales y los entornos 3D de nuestro laboratorio de entornos virtuales, a diferentes sectores y países. 
+- Desarrollo de pequeñas aplicaciones de apoyo al desarrollo de nuevas versiones de nuestra plataforma. - 
+Pretendemos que te familiarices con nuestro entorno de desarrollo, las tecnologías utilizadas y la concepción del proyecto para una futura incorporación en nuestro equipo de tecnología.

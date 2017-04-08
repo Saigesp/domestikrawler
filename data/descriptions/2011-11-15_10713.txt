@@ -1,0 +1,34 @@
+
+Buscamos:
+Deseamos incorporar a nuestro equipo un desarrollador web con ganas de trabajar en una empresa de Internet de gran volumen de usuarios, gestionando aplicaciones que diariamente utilizan decenas de miles de usuarios.
+Buscamos a un programados para nuestro equipo técnico para el desarrollo, evolución, mejora y actualización de nuestras aplicaciones web. La persona ha de ser un programador y tener perfil de informático ya que se integrará en el equipo técnico.
+Ofrecemos:
+Participar de un proyecto dinámico con un equipo joven.
+---------------
+- Horario ajustable
+- Viernes tarde no trabajamos
+- Formación
+- Posibilidad de desarrollo profesional
+Requerimos:
+Se requiere:
+- Perl
+- PHP
+- MySQL.
+- Java
+Deseamos:
+Se valorará:
+- XSL
+- XML
+- Tecnología de buscadores
+a. Sphinx
+b. Solr
+c. Lucene
+Salario:
+17.000-21.000 €
+Experiencia:
+0 a 1 año
+Idiomas:
+Castellano e Inglés
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa

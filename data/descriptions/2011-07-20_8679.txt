@@ -1,0 +1,19 @@
+
+Buscamos un diseñador web junior con nociones de maquetación y muchas granas de aprender para incorporación inmediata.
+Sobre jobandtalent
+Somos un start-up con sede en Madrid. Somos rentables y tenemos ya más de 150 clientes internacionales. Nuestra misión es ayudar a jóvenes con talento (nuestros usuarios) a descubrir e interactuar con las mejores empresas (nuestros clientes). Creemos que las bolsas de empleo y los “headhunters”, tal y como los conocemos hoy, pronto formarán parte del pasado. Para ello estamos construyendo un producto más sencillo, transparente y en una sola palabra, mejor: www.jobandtalent.com
+El puesto
+* Trabajarás en un equipo de producto de 6 o 7 personas.
+* Estarás basado en nuestra oficina de Madrid (al lado de la Plaza Colón).
+* Estarás en contacto con todas las áreas de la empresa. Somos unas 20 personas. Irás aprendiendo lo que hace cada área para incorporar sus necesidades a tus diseños.
+* Te encargarás de definir el diseño y la usabilidad de varias de las funcionalidades que tenemos en nuestro “pipeline” de trabajo, así como del rediseño de partes muy importantes de la página.
+* Con el tiempo, participarás también en la fase de maquetación de tus diseños, así como en su integración en la aplicación. Si no controlas de maquetación y programación, no te asustes, podrás aprender poco a poco con grandes maestros ?.
+* Condiciones económicas en función de experiencia.
+Requisitos
+* Experiencia en diseño de aplicaciones web. Buscamos dos o tres ejemplos de diseño de aplicaciones web que nos aseguren que eres el diseñador que buscamos.
+* Nociones de usabilidad. Queremos a alguien que piense en la interacción completa, que se ponga en la piel del usuario más despistado. 
+* Iniciativa. En poco tiempo, el 50% de tu trabajo debería de ser auto-generado. Queremos a una persona que detecte áreas mejorables de nuestro site y que proponga soluciones de manera proactiva. 
+* Nociones de maquetación. Buscamos a alguien que tenga algo de experiencia en maquetación (html, CSS)
+* Interés por la programación. Con el tiempo serás capaz de integrar tus diseños directamente dentro de la aplicación (Ruby on Rails), coordinándote con los desarrolladores. Con el tiempo serás capaz de mejorar páginas estáticas utilizando Javascript (preferiblemente JQuery).
+Si estás interesado…
+Por favor, envía el link a tu portfolio y tu CV a tabi.vicuna@jobandtalent.com

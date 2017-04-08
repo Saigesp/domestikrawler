@@ -1,0 +1,5 @@
+
+Contamos con tres servidores Linux totalmente personalizados para uso habitual LAMP, correo electronico y ruteo de redes locales. Todos actualmente corren bajo Ubuntu Server y están actualizados.
+A nivel de programación administramos diversos proyectos desarrollados en PHP + MySQL estando los de nuevo desarrollo basados en Zend Framework + librerias Javascript.
+Buscamos una individuo/a con experiencia en la administración de sistemas Linux. Alguién que se sienta más cómodo en una consolo SSH que con una interface gráfica y que sobretodo tenga capacidad de aprender aquello que aún no conozca.
+El candidato/a ideal deberá dividir su tiempo entre la administración de nuestros servidores y pequeña red local con las propias de la programación en PHP y el mantenimiento de aplicaciones y desarrolladas, a la vez que se adapta a un nuevo entorno mucho más orientado a la programación por objectos y el uso de los frameworks sobre los que ahora desarrollamos.

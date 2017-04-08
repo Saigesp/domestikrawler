@@ -1,0 +1,15 @@
+
+McCann Erickson busca un programador-maquetador web a tiempo completo para incorporarse a su oficina de Barcelona.
+Requerimos experiencia de al menos tres años en puesto similar.
+Requisitos técnicos:
+
+Conocimientos avanzados de HTML, CSS y estándares web 
+Conocimientos avanzados de un Framework de Javascript (jquery, mootools, dojo,...) 
+Conocimientos básicos de Flash y Photoshop
+Experiencia en webs accesibles y usables
+Se valorará:
+Programación PHP y MySQL 
+Experiencia con Javascript y web services 
+Conocimientos avanzados de HTML5
+Es imprescindible el envío de un portfolio de páginas webs diseñadas.
+

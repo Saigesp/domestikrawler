@@ -1,0 +1,19 @@
+
+Buscamos un desarrollador front end para incorporación en un equipo de trabajo multidisciplinar: diseñadores de interacción, jefes de producto, brand managers y desarrolladores.
+• Poseer un conocimiento avanzado en tecnologías web abiertas (HTML/CSS/JS)
+• Estar familiarizado con las APIs de documentos web (DOM) y como plus con las APIs de los browsers.
+• Experiencia mínima de dos años trabajando con HTML/CSS/JS
+• Construir sistemas de “front end” eficientes y reutilizables.
+• Participar en el diseño y revisión del código.
+• Interactuar con otros miembros del equipo con el objetivo de incorporar innovaciones de producto para la plataforma.
+• Identificar y comunicar las mejores prácticas para la ingeniería de Front End para productos web.
+• Interes o practica trabajando con HTML5 y CSS3
+• Experiencia con libreria jQuery o similar
+• Interes en nuevos estandares web como microformatos
+Aspectos generales requeridos:
+- Proactividad
+- Interés en explorar nuevas plataformas de publicidad y estrategias.
+- Organización.
+- Interés en la usabilidad.
+- Capacidad de gestion de su tiempo y prioridades.
+Abstenerse Freelance.

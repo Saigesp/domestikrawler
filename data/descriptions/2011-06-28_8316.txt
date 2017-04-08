@@ -1,0 +1,7 @@
+
+Software de tiempo real, pc´s	
+Lenguajes de alto y bajo nivel: C,C ++, 
+Visual Basic, Visual C ++, .Net
+	Tarjetas de Control basadas en diseños propios de microprocesadores 
+	           Experiencia con microcontroladores
+ 

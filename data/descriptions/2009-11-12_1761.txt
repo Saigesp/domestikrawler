@@ -1,0 +1,13 @@
+
+- Incorporación inmediata. Es muy urgente.
+- Puesto presencial.
+- Experiencia demostrable.
+- Profesionalidad, fiabilidad y compromiso.
+- Proactivo.
+- Conocimientos de PHP (y POO), JavaScript, CSS, AJAX (Mootools, jQuery…), DHTML, con al menos 4 años de experiencia en puesto similar. Conocimientos de algún framework PHP (CodeIgniter, Cake…)
+- Conocimiento de las principales APIs de terceros (Google, ShareThis, Facebook…).
+- Conocimiento de administración de BBDD MySQL, análisis técnicos.
+- Conocimientos ActionScript 2 preferible 3
+- Conocimiento básico de software de diseño, Photoshop, Illustrator, etc
+Importante: Abstenerse quien no cumpla estos requisitos.
+

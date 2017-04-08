@@ -1,0 +1,5 @@
+
+Hola, en Engloba buscamos un desarrollador/-a de prácticas para campañas de publicidad nacionales / internacionales.
+El candidato ideal debe tener conocimientos de programación a objectos y conocer por lo menos PHP, mysql, actionscript 2.
+Se valorará positivamente el conocimiento de Java.
+

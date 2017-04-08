@@ -1,0 +1,12 @@
+
+Hola amigos de Domestika,
+Somos una pequeña empresa de hosting y programación web, principalmente en PHP (intranets y gestión documental) y nos ha surgido un encargo de un cliente para hacer en Flash.
+La idea es plasmar una imagen (cargada por el usuario) sobre una superficie circular en 3D, guardar el resultado, que el usuario pueda acceder a sus diseños previamente hechos, modificaciones, etc. El diseño gráfico ya está hecho, simplemente es la implementación de la aplicación.
+Como ejemplo se puede visitar esta web que hace algo parecido aplicando un diseño sobre unas botellas de acero inoxidable.
+ http://www.siggskins.com/design_choice.php
+
+IMPORTANTE: El objeto sobre el que hay que aplicar la imagen, ha de rotar 360º para poder ver la aplicación del diseño y tiene partes personalizables (de un catalogo de opciones predefinidas)
+Como no es nuestro campo de acción directo, hemos propuesto la opción de encargar esta parte del trabajo a alguien externo y que mejor sitio que hacerlo que este :)
+El tiempo estimado para realizar esta parte de la aplicación es de un par de meses. Precio a concretar con el interesado según definamos todo el grosso del trabajo.
+Agradeceríamos en el email de contacto que nos envieis, una pequeña muestra de trabajos realizados (con dos o tres es suficiente) en flash.
+Sería para empezar inmediatamente una vez acordado con el cliente precios y calendario.

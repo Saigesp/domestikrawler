@@ -1,0 +1,5 @@
+
+Saludos!
+En Binocean estamos actualizando nuestra red de colaboradores.
+Queremos tener contacto con más programadores residentes en Madrid que se sientan cómodos trabajando tanto en su casa como en oficina, desarrollando con frameworks como Symfony y CakePhp, puliendo los frontend con jQuery y que tengan cuenta en github, por ejemplo.
+

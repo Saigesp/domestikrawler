@@ -1,0 +1,2 @@
+
+Buscamos un experto en PDF's dinámicos. Se trata de crear un PDF para solicitar presupuestos en el que los diferentes elementos de los combo box vayan cambiando según las opciones seleccionadas. Debe poder enviarse por mail tanto en PDF como en XML.

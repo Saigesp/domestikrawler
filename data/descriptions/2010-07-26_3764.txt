@@ -1,0 +1,16 @@
+
+Arista, para su oficina de Madrid, necesita incorporar un Programador especializado principalmente en Drupal
+Necesitamos que el candidato reuna las siguientes características:
+Backend:
+- Desarrollo en PHP,
+- Conocimiento de CMS, Joomla y Drupal, con capacidad para desarrollar plugins para dichos frameworks.
+FrontEnd:
+- Maquetación HTMl + CSS
+- Validación en todos los navegadores
+- Javascript, Jquery.
+- Conocimientos accesibilidad y Usabilidad web.
+Ofrecemos:
+Contrato temporal por 3 meses con posibilidad de renovación según el volumen de proyectos.
+Incorporación a un grupo joven, con proyección y con proyectos y oportunidades muy interesantes.
+Perfecto emplazamiento para trabajar, Gran Vía.
+Contrato a definir según cada candidato. 

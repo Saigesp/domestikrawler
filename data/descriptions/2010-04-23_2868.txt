@@ -1,0 +1,12 @@
+
+Buscamos un apasionado de la programación web con conocimientos de Wordpress.
+Precisamos:
+* Programación en PHP
+* Conocimientos y experiencia de Wordpress
+* Experiencia en entornos LAMP y WAMP
+* Lenguajes como XHTML, CSS y Javascript, librerías Ajax (del tipo jQuery).
+Se valorarán muy positivamente conocimientos de:
+* Estándares web
+* Trabajo con sistemas de software libre del tipo joomla, drupal, elgg, moodle,…
+* Conocimientos y experiencia en la web social o proyectos relacionados con ella.
+Para Valencia o Madrid.

@@ -1,0 +1,15 @@
+
+Estamos buscando una maquetadora web, o maquetador. Necesitamos a alguien con al menos 2 años de experiencia.
+Trabajará integrado en los equipos de diseño y programación. 
+Requisitos Mínimos:
+Experiencia mínima 2 años en los proyectos online, preferiblemente Web 2.0.
+Maquetación con estándares (código semántico) XHTML y CSS sin tablas con la correcta visualización en los navegadores.
+Validación Código bajo estándares (W3C) 
+Maquetación de mailings multiplataforma
+jQuery a nivel de uso e implementación de componentes
+Utilización básica de packs de edición de imagen 
+Se valorará positivamente:
+Experiencia o conocimientos de FBML
+Experiencia o conocimientos de sistema de plantillas Wordpress, Drupal, etc.
+Experiencia o conocimientos de Javascript
+Optimización para los motores de busquedas

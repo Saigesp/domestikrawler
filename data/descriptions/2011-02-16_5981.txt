@@ -1,0 +1,16 @@
+
+The Best Match Francia forma parte de un grupo anglosajón de gran  crecimiento, creador de sitios Web 2.0 dirigidos a comunidades de consumidores  y gestionado por pioneros de internet con éxito en múltiples empresas tecnológicas desde 1995.
+-	Eres un apasionado de Internet
+-	Te interesan las tecnologías Open Source, las Webs Services y Rich User interfaces
+-	Eres riguroso para crear un Site Web de calidad (seguridad, respeto de los estándares, documentación  y gestión de las fuentes)
+-	Dominas la gestión de los servicios y de seguridad bajo Windows para tu aplicativo.
+-	Posees una buena experiencia consolidada por los desarrollos C# (Internet Web Services, servicios Windows, gestión de derechos de los usuarios, acceso a las carpetas, base de registro…)
+-	Dominas C#
+-	Estas a gusto con las tecnologías .NET y las limitaciones de explotación (entornos Windows, diferentes OS)
+-	Hablas francés o inglés fluido.
+Misión:
+En colaboración con nuestros diferentes trabajadores, tus misiones serán las siguientes:
+-	Desarrollo de nuestra aplicación C#
+-	Concepción técnica y desarrollo de proyectos
+-	Usted sale fiador de la concreción técnica de proyectos hasta el entrega  y responsable del seguimiento. 
+

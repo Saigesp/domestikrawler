@@ -1,0 +1,9 @@
+
+Buscamos una persona apasionada y experta, idealmente tanto de los videojuegos como de la programación.
+Como requerimientos mínimos esperamos que tengas experiencia substancial en al menos uno de estos dos entornos de desarrollo:
+- Flex SDK / Actionscript 3.0.
+- C# / .NET
+Somos flexibles en las condiciones, tanto económicas (bonus, horas extras remuneradas) como de horarios y disponibilidad (idealmente querríamos un trabajador con contrato indefinido y presencia en nuestra oficina, pero aceptaríamos colaboración freelance).
+También nos gustaría ver muestras de tu trabajo. Consideramos que trabajar en videojuegos es algo pasional y por lo tanto valoraremos muy positivamente ver cosas que hagas por tu cuenta... experimentos, colaboración en proyectos Open Source, etc.
+ http://www.unusualstudios.com
+ http://www.unusualwonder.com

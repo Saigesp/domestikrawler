@@ -1,0 +1,36 @@
+
+La oferta es para una empresa en NYC, asi que la copio tal y como esta descrita, en ingles. Si alguien esta interesado y contacta, por favor, mencionad que habeis sido recomendados por Jim Mora.  Gracias  :)
+ActionScript Developer – IndustryNext 
+
+IndustryNext is a technology and design firm delivering innovative products and services to clients and consumers.  Our clients include Comcast, NBC Universal and Bill Joy and the interactive consumer experiences we have created are being used by millions of people. These experiences leverage and run on the latest devices, technologies, frameworks, and platforms.
+
+Whether building a 3-inch solution for a hand-held device, a 10-foot experience for a set-top box, or a cross-platform interface for the desktop or web, we never bind ourselves to any specific technology and will always pick the tool best suited for the solution.
+
+IndustryNext is looking for a Flash developer who is passionate about developing cutting edge user interfaces.  The ideal candidate has worked on large-scale, professional web applications built in AS3.  
+
+Responsibilities:
+
+•            Program clean and re-usable AS3 code
+•            Create code and process documentation
+•            Participate and add value with ideas and input on products and features
+•            Learn quickly in a fast paced and agile environment
+•            Work well with senior staff by executing specifications and processes in a manner that will enhance the ability of the team to get projects done on time or early.
+
+Requirements:
+
+•            B.S. in Computer Science (or equivalent)
+•            3 or more years experience programming in ActionScript
+•            Strong working knowledge of AS3 and Flash
+•            Experience with XML, JavaScript, HTML and CSS
+•            Solid understanding of object oriented principles and design patterns
+•            Some experience with standard development processes and procedures
+•            Ability to work in a highly collaborative environment while also being able to focus on independent work
+•            Demonstrates flexibility and openness to incorporate input from all levels within the organization 
+•            Excited to participate in any task in the development process
+•            Strong analytical and problem solving skills, attention to detail, desire to learn, excel, and contribute
+•            Experience using the Flex Framework and working with Adobe AIR is a plus 
+•            Sending us code examples is a big plus
+
+Salary is commensurate with experience and we offer a comprehensive benefit package.
+
+To apply for this position please send resume, cover letter and salary requirements to candidates@industrynext.com.  We thank you for your interest but only short listed candidates will be contacted.

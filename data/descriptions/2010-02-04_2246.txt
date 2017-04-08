@@ -1,0 +1,10 @@
+
+Estamos buscando un desarrollador backend con experiencia en Ruby on Rails, PHP y SQL para un proyecto de plataforma de ventas.
+Necesitamos que esté disponible en Barcelona ciudad para reuniones de trabajo y entregas (definidas en calendario).
+Skills:
+-Es muy importante para nosotros que tengas pensamiento creativo y dedicación a la hora de solucionar problemas y afrontar deadlines.
+-Es deseable también tener apertura a nuevas tecnologías y fácil adaptación a ellas.
+- Ruby on Rails
+- PHP 5
+- XHTML, CCS, Javascript/AJAX
+- Valoraremos experiencia en Interfaces de Usuario

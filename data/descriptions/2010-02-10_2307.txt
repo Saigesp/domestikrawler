@@ -1,0 +1,12 @@
+
+Buscamos un persona con mucho talento, ilusion, capacidad de trabajo y decisión para poder llevar el sólo la responsabilidad técnica de una startup web.
+Se trata de un proyecto web innovador con multitud de partes críticas, transacciones, pagos, ingresos, red social, etc... La web está desarrolla en codeigniter y se encuentra en fase beta privada.
+El candidato se deberá encargar del desarrollo de nuevas funcionalidades de la web y mantenimiento de la misma. Además deberá administrar los servidores en los que se aloja la web y que se encuentran en Malta.
+Al tratarse de una startup, otra de las funciones del candidato será el crear un equipo a su cargo durante una primera etapa, según vaya avanzando el proyecto, se estima superar esta primera fase en un corto plazo, ya que el proyecto cuenta con financiación e importantes asesores líderes del mercado, para desarrollar un proyecto de referencia a nivel mundial.
+Demandamos el siguiente perfil:
+- Conocimientos avanzados de php
+- Conocimientos de frameworks en php
+- Conocimiento del framework codeigniter en php
+- Conocimientos en administración de servidores (Linux) ya que tendrá que llevar la administración remota de los servidores.
+Al menos 2 años de experiencia
+Sueldo renegociable a medida que vaya creciendo el proyecto y por tanto el equipo y responsabilidades dentro del proyecto.

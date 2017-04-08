@@ -1,0 +1,4 @@
+
+Estamos ampliando nuestro departamento de desarrollo y seleccionamos varios perfiles, Analistas/Programadores, Programadores, Administradores DB, Desarrolladores Web...
+Se valorarán conocimientos de .NET, SQL server, AJAX, Nhibernate, MVC.
+Buscamos personas proactivas y que valoren el trabajo en equipo.

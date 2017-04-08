@@ -1,0 +1,14 @@
+
+Buscamos una persona proactiva y con iniciativa para desarrollos en entorno LAMP en oficina de Madrid (Las Rozas). Nivel mínimo de estudios FP2 Informática.
+Conocimientos requeridos:
+-Entorno LAMP
+-PHP 5
+-xhtml/css
+-Mysql
+-Javascript
+-Maquetación web.
+Deseable:
+-Plataforma de E-commerce
+-Action script 2.0 y 3.0
+-Conocimientos photoshop o fireworks
+-Java 

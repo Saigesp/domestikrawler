@@ -1,0 +1,19 @@
+
+Just Landed (http://www.justlanded.com) is creating ‘the’ online destination for people moving country and living abroad.
+There are more than 200 million people living abroad worldwide, so we still have a lot to do. We’re looking for brilliant people who want to grow with our project and build a true market leader.You will be working on a high traffic site and your work will affect the lives of millions of people who visit our site every month.
+You'll get to work and learn from skilled developers in our office in Madrid that has a garden with a barbecue ;)
+We have flat hierarchy in the team and the atmosphere is startup,not big company.
+If you are looking for a challenging environment where you can develop professionally and build technology which people use and enjoy, we want to talk to you.
+What are we working with?
+Ruby / Rails, Python, Git, Cucumber, Rspec, Selenium, Memcached,Squid, Capitstrano, Hudson, Redmine, Google App Engine, Amazon EC2 and S3, and a bunch of other stuff.
+Who we are looking for?
+We have several positions open so we are recruiting from senior /experienced developers down to high-potential individuals with little experience. What all candidates will have in common is a passion for software development and a strong appreciation of the
+importance of the user experience. You have to be able to learn quickly, communicate well and co-operate effectively in a team.
+I'm a Frontend developer - does this fit?
+Yes. We have open positions for Web Designer / Frontend Developers. This position does not require all of the programming skills above, but it does require a high level of proficiency with HTML, JavaScript, CSS and extensive UI experience on complex web applications.
+Do I need to know Ruby on Rails?
+We are developing on Ruby on Rails, so experience with Rails is preferred. We will consider candidates with a high level of competence in another web development framework. You should have a broad knowledge of programming concepts (classes, inheritance, coding practices, etc) and be capable of producing high-quality functional, maintainable and logical code.
+What should you already know?
+You are not expected to be an expert in all of the following, but you should have basic competence in: Unix / Linux environment, relational databases, HTML, CSS and JavaScript, HTTP protocol, etc. You should be able to defend yourself from different browsers and be able to make a good attempt at conceptualising how UI and user workflow should work for individual processes.
+Which languages do we speak in the office?
+12 nationalities in the office means the common language is English. You should be able to write and speak to a level where you can communicate clearly, but fluency is not a requirement. Knowledge of Spanish is not a requirement.

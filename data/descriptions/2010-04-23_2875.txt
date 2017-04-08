@@ -1,0 +1,10 @@
+
+Technical requirements:
+Flash 8+/AS2 development, compliled using MTASC.    AS3 where appropriate.
+Client/server XML integration and debugging.
+New extensible application design, and also working within existing code bases.
+Experience of working with localised text and different character sets.
+Thorough knowledge of Flash IDE. User interfaces and animations are generally authored in FLA; all code is inyected with MTASC.
+Working with 3rd party service APIs.
+Version control with Subversion.
+Gambling experience.

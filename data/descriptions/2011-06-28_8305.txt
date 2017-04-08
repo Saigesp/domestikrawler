@@ -1,0 +1,18 @@
+
+En Uolala! estamos buscando contratar a un desarrollador full-time que se encargue del desarrollo tecnológico de la plataforma. Estamos formando un equipo muy competitivo y estamos buscando una persona proactiva, con capacidad de tomar decisiones,  con ganas de pasárselo bien y hacer crecer un proyecto con mucho potencial.
+Sus tareas y responsabilidades serán:
+·         Desarrollar las nuevas características de la plataforma online (Asp.NET y Mysql)
+·         Analizar el rendimiento de la plataforma, detectar los cuellos de botella y mejorar su escalabilidad en entornos con mucho tráfico.
+·         Gestionar las Bases de Datos y los servidores.
+·         Desarrollar una API para la versión móvil (Iphone y Android) y widgets de terceros de la plataforma.
+·         Aportar ideas y mejoras a nivel de usabilidad y funcionalidades.
+Requisitos mínimos:
+·         Experiencia en Asp.NET/C# y MySQL
+·         Se valorará experiencia en desarrollo de alguna aplicación móvil.
+·         Se valorará haber trabajado previamente en una empresa de Internet.
+·         Se valorará un buen nivel de Inglés.
+
+Sobre Uolala:
+Uolala! es una nueva plataforma para conocer gente nueva a través de planes  de ocio.
+En Uolala! nuestros usuarios proponen planes y actividades de ocio y conocen gente nueva con los mismos intereses para poder compartir las actividades más les gustan.
+Si crees que eres la persona indicada te queremos conocer!

@@ -1,0 +1,12 @@
+
+- Experiencia minima de 2 años como responsable web
+- Conocimientos técnicos y de negocio (marketing online)
+- Conceptos de accesibilidad y usabilidad 
+- Experiencia con gestores de contenido CMS, preferiblemente con Wordpress 
+- Maquetación de emails, newsletters, CRM
+- Interés en Social Media: Integración y/o conocimiento de API's de webs sociales (facebook, twitter) 
+- Nivel avanzado de inglés
+- Conocimiento de librerías de Javascript como Prototype, jQuery 
+- Experiencia en programación orientado a objetos (OOP), JSON y/o Ajax 
+- Experiencia en uso de Subversion (CVS/SVN) en proyectos grandes, y uso de SMARTY 
+- Conocimientos en HTML5 y CSS3 

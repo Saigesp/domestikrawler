@@ -1,0 +1,20 @@
+
+Nuestro departamento de Desarrollo necesita incorporar un Diseñador Web que tendrá como misión la conceptualización y el diseño de los proyectos web de nuestros clientes, realizando las correspondientes entregas de layout y facilitando una ágil implementación de los diseños realizados.
+Sus funciones principales serán:
+ - Diseño y maquetación web.
+ - Documentación de proyectos.
+ - Participación en reuniones con clientes, especialmente en la fase de conceptualización de los proyectos.
+ - Puntual trato con el cliente.
+ - Estimaciones de alcance de tareas.
+ - Seguir las lineas generales de diseño y aplicar estilos, y aportar mejoras en los mismos.
+Requisitos:
+ - Mínimo 2 años de experiencia como diseñador senior front-end.
+ - Se requieren conocimientos de maquetación CSS – HTML.
+ - Dominio de herramientas de diseño: Photoshop, Illustrator-Freehand, etc.
+ - Solidos conocimientos en usabilidad, accesibilidad y experiencia de usuario.
+Ofrecemos:
+ - Retribución en base a candidatura
+ - Formar parte de un equipo multidisciplinar
+ - Horario flexible
+ - Plan de Retibución Flexible
+ - Entorno joven y dinámico

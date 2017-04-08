@@ -1,0 +1,5 @@
+
+Buscamos un programador con experiencia en desarrollo de aplicaciones web. 
+El entorno de trabajo es  JAVA/J2EE/Struts  interaccionando con diversas fuentes como base de datos relacional tipo Oracle, webservices, etc.
+Se requiere conocimientos en JAVA/J2EE/ Struts/SQL /HTML/CSS/JavaScript/Ajax. 
+Y se valorarán también conocimientos de sistemas de agregación (mashup) y arquitecturas sobre cloud computing.

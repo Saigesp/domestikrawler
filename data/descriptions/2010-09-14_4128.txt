@@ -1,0 +1,15 @@
+
+En ideup!, consultora especializada en experiencia de usuario, diseño web, desarrollo y marketing online, buscamos un maquetador web con experiencia para que se incorpore a nuestro equipo de producción.
+Buscamos a alguien con experiencia en maquetación XHTML+CSS y con sólidos conocimientos de ActionScript y Flash. Necesitamos un diseñador/maquetador todoterreno que sea capaz de gestionar diferentes tipos de aplicaciones web y que tenga ganas de aprender, para dedicarse al mantenimiento de sites en producción y al desarrollo de nuevos proyectos.
+Debe tener una experiencia mínima de al menos 3 años y cumplir los siguientes requisitos:
+•	Experto en maquetación XHTML+CSS
+•	Conocimientos avanzados de Flash y ActionScript
+•	Desarrollo con código limpio, semántico y reutilizable
+•	Conocimientos de accesibilidad y estándares W3C
+Bola extra:
+•	Buenos conocimientos de javascript
+•	jQuery a nivel de uso e implementación de componentes
+•	Familiarización con las APIs de documentos web (DOM)
+•	Conocimientos de XML
+•	Experiencia con Drupal y Wordpress
+Ofrecemos un contrato en una empresa en constante crecimiento. Puesto de trabajo en Las Rozas (A6 - km23). Horario: Lunes a jueves de 9h a 19h; Viernes de 9h a 14h. Julio y Agosto de 8 a 15h.

@@ -1,0 +1,8 @@
+
+Se requiere programador web freelance no junior de entorno LAMP (linux, ajax, mysql, php, jquery, que este acostumbrado a trabajar con un CMS propio para la creacion de un servicio web 2.0.
+Consta de unas 10 paginas y un servicio de busqueda interno que debera de estar basado tambien en PHP.
+Se valorará experiencia en el uso de APIs de otros servicios web 2.0 como youtube, linkedin, twitter, facebook, slideshare, etc... 
+La maquetacion y diseño ya estan realizados.
+Se requiere persona con disponibilidad para mantener reuniones presenciales semanales (1 por semana) en Madrid centro por las tardes.
+Es el primero de una serie de trabajos para este proyecto de start-up y para otros proyectos similares.
+Se pide responsabilidad, comunicacion diaria via mail o chat estilo skype, y cumplimiento de objetivos conforme a planificación.

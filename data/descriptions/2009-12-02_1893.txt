@@ -1,0 +1,30 @@
+
+Descripción de la oferta: 
+Buscamos un/una programador/a Web PHP, HTML/CSS y Javascript para desarrollar proyectos web.
+Lugar de trabajo: 
+Barcelona
+Experiencia mínima: 
+2 años
+Requisitos mínimos: 
+• REQUISITO: Tres años mínimo de experiencia profesional en Web/PHP/MySQL
+• Dos años de experiencia con HTML, Javascript (AJAX), frameworks javascript
+• Experiencia en maquetación de webs (XHTML , CSS , cross-browser , Javascript ...)
+• Programación usando la librería PEAR y siguiendo sus estándares de escritura
+• Seguridad del código: conocimiento de los ataques web -inyección SQL, etc- y su prevención
+• Conocimiento medio de administración de servidores GNU/Linux (gestión y configuración de servidores web, de correo, ftp, mysql, gestión de usuarios y permisos, crontab, etc)
+• Resolutividad e Iniciativa para la innovación
+Requisitos deseados: 
+• Experiencia en e-commerces (pasaralas de pago)
+• Se valorará conocimiento de inglés (especialmente leído)
+• Se valorará conocimiento de catalán(hablado y escrito) inglés(escrito)
+• Aplicación de criterios de accesibilidad y usabilidad web
+• Conocimientos de administración de servidores avanzados (iptables, optimización de recursos, chrooting de servicios, etc)
+• Interés por el I+D
+• Aplicación de estándares web 2.0 y de w3.org
+Tipo de contrato: 
+Indefinido
+Jornada laboral: 
+Completa
+Salario: 
+variable según valía del candidato (16.000 - 24.000 euros brutos anual)
+

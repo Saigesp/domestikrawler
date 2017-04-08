@@ -1,0 +1,7 @@
+
+Buscamos a un/una desarrollador/a web para proyecto web 2.0 multiplataforma:
+Requisitos mínimos:
+- PHP5 
+- Base de datos MySQL.
+- XHTML + CSS.
+- Maquetación según los estándares de la W3C.

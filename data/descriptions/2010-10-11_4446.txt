@@ -1,0 +1,22 @@
+
+Buscamos un programador desarrollador web con experiencia contrastada, para nuestro departamento interactivo en agencia de marketing online ubicada en Barcelona. 
+Buscamos a una persona con capacidad de trabajo en equipo y muchas ganas de seguir aprendiendo en una empresa joven, dinámica y creativa, para formar parte del equipo y participar activamente en la creación y mantenimiento de páginas web y proyectos interactivos.
+Requisitos:
+- Actitud proactiva y mentalidad creativa.
+- Capacidad para trabajar en equipo y bajo dirección.
+- Capacidad de afrontar retos y encontrar soluciones a problemas dentro del entorno web.
+Experiencia mínima:
+- Al menos 3 años demostrables
+Requisitos mínimos:
+- Programación en Apache-MySQL-PHP.
+- Javascript-Ajax-XML
+- Conocimientos avanzados en Wordpress, HTML, CSS &amp; jQuery.
+- Joomla, Facebook, Oscomerce
+- Desarrollo Móvil.
+- APIs de desarrollo 2.0.
+Se valorará positivamente:
+- Action Script
+- Flash-Flex
+- Posicionamiento Web
+Si no eres un pica teclas, tan rápido y habíl como Billy el niño, NO mandes tu CV!
+

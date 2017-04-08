@@ -1,0 +1,23 @@
+
+Somos una empresa joven con gran proyección que precisa un programador orientado a desarrollos web para desarrollar las siguientes tareas:
+· Desarrollo conceptual de soluciones web.
+· Bases de datos.
+· Programación de módulos dinámicos.
+Ofrecemos:
+· Integración en una empresa en crecimiento.
+· Desarrollo profesional.
+· Buen ambiente de trabajo.
+· Posibilidad de contrato de autónomo.
+Requerimientos del puesto de trabajo:
+Buscamos un desarrollador web capaz de dar respuesta a los requerimientos específicos de un proyecto proponiendo las soluciones técnicas apropiadas.
+Una persona responsable, resolutiva y flexible; una persona que le guste su trabajo, capaz de trabajar en equipo y comprometerse con el proyecto.
+Se requieren conocimientos de:
+· PHP
+· MySQL/SQL Server
+· E-commerce: Magento o OSCommerce
+Se valorarán conocimientos de:
+· ASP
+· Simphony
+· Joomla
+· Otros Frameworks
+Experiencia: Más de 3 años

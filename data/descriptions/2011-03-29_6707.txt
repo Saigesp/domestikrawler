@@ -1,0 +1,9 @@
+
+Buscamos programador Flash en la agencia de publicidad 101.
+Las cualidades básicas que debe tener son:
+- Que sea programador.
+- Que sepa programar.
+- Que le guste programar.
+Aunque principalmente el trabajo se desarrolla en entorno Flash, será positivo conocer bien el ciclo de comunicación web Cliente-Servidor-BD y estar familiarizado con HTML, CSS, JS, PHP y MySQL.
+También se tendrá que estar al día e investigar diferentes Api's de desarrollo: Facebook, Twitter, Google Maps, etc. Por lo que una experiencia previa en este aspecto será tenida en cuenta.
+Por todo esto, ofrecemos un ambiente de trabajo agradable, un horario más agradable si cabe (9:30 - 18:30), trabajar en proyectos interesantes, para clientes también interesantes (J&amp;B Global, Pepe Jeans, Guia Repsol, Germinal), donde solemos compilar proyectos flash de más de 5000 líneas de código, con tiempos de producción razonables.

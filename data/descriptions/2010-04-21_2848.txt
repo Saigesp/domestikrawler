@@ -1,0 +1,14 @@
+
+Buscamos un diseñador web para incorporación inmediata.
+Somos un start-up basado en Madrid. Somos rentables y tenemos ya más de 100 clientes internacionales. Nuestra misión es ayudar a jóvenes con talento (nuestros usuarios) a descubrir e interactuar con las mejores empresas (nuestros clientes). Creemos que las bolsas de empleo y los “headhunters”, tal y como los conocemos hoy, pronto formarán parte del pasado. Para ello estamos construyendo un modelo más sencillo, transparente y en pocas palabras, mejor. 
+Necesitamos un desarrollador web con energía y talento para ayudarnos a redefinir jobandtalent.com y para guiar nuestro producto hacia una nueva etapa. Trabajarás en un equipo pequeño y con pasión por la usabilidad, la elegancia y la sencillez en producto. Tu misión en este equipo es ser el dueño de todo lo relativo al front-end de nuestro producto, desde el diseño y la usabilidad hasta la maquetación.
+Es muy importante que seas capaz de…
+* Crear wireframes y flujos de UI para aplicaciones web interpretando nuestros requisitos de negocio
+* Diseñar, implementar (HTML / CSS), y mejorar a través de iteraciones el “look and feel” de nuestra aplicación web
+* Entender las peculiaridades de nuestro framework (Ruby on Rails) para adaptar tu diseño
+Además, sería increíble si …
+* Puedes mejorar páginas estáticas utilizando Javascript (preferiblemente JQuery). Idealmente has escrito tus propios plugins con JQuery.
+* Has trabajado antes con Ruby on Rails y no no te asustan los ERb templates.
+* Eres fan del diseño de interacción y minimalista orientado al usuario final
+Idealmente, a lo largo de tu vida professional has utilizado…
+* HTML (clean and semantic) / CSS / Fireworks / Photoshop / Illustrator / the Work of Mr. E. Tufte / Javascript / jQuery / git(hub) / Ruby on Rails / MacOSX / Linux.

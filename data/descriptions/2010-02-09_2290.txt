@@ -1,0 +1,15 @@
+
+¡Hola! Soy artista y voy a presentar un proyecto a una convocatoria. Busco asesoramiento acerca de la creación de una página web de subastas y el presupuesto para tal. Necesito incluirlo como parte del proyecto ya que, si me dan el dinero de la beca, el proyecto se llevará a cabo y contrataré a un programador web.
+El proyecto se desarrollará en Madrid y la duración prevista es de 5 meses (entre el 2 de agosto 2010 y el 31 de diciembre 2010).
+El proyecto consiste en la creación de una página web de subastas en la que los objetos expuestos tengan una historia o un gran valor emocional para sus dueños. 
+Los objetos se presentarán mediante fotografías y texto.
+Cuando el objeto haya sido subastado, permanecerá en la página web y pasará a la sección ARCHIVO. Ordenados según la fecha de venta, los objetos y las historias que hayan formado parte del proyecto crearán un archivo que se mantendrá abierto en la Red después de que haya finalizado el periodo hábil de la subasta.
+La página web constará de cuatro secciones (QUÉ ES, ARCHIVO, SUBASTA y REGÍSTRATE).
+Para pujar, el interesado deberá registrarse facilitando su correo electrónico, nombre de usuario y teléfono de contacto.
+Durante los 5 meses de proyecto, el trabajo del programador consistirá en lo siguiente;
+- En los dos primeros meses: Creación de la web. (es bastante tiempo porque estaré seleccionando los objetos a subastar)
+- El tercer mes: Activación de las subastas.
+- Cuarto y quinto mes: Actualizaciones y cierre del servicio de subasta.
+Estaré muy agradecida si alguien me puede ayudar.
+Necesito un presupuesto aproximado pero también me interesan vuestras opiniones y asesoramiento en si hay cosas que me dodáis detallar en los lenguajes de programación necesarios, si hay algo importante que deba incluir, si las fases de trabajo son factibles, etc...
+Saludos

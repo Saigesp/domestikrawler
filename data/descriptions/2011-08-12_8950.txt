@@ -1,0 +1,30 @@
+
+At TravelClick, we help hotels maximize profits from e-commerce. Serving the hospitality industry since 1999, we are a service-based company with leading products that increase revenue and profitability for hotels of all kinds, from international brands and ownership groups to high-profile independents and regional chains.
+We seek a sharp, motivated and dependable developer to work as part of he Digital Agency's Web Development and Content Management System (CMS) team, primarily as an application developer to enhance our commercial CMS product, and secondarily as a web developer focusing on using the 
+CMS to define build and enhance client website functionality.
+Job Description:
+• Perform application development work on our PHP- and Ajax-based commercial Content Management System: introducing new functionality, 
+• Extending existing functionality and maintaining the existing codebase.
+• Produce regular monthly stable releases of the CMS, folding in your recent changes and those of other application developers.
+• Document your development work, both in the code and in our internal documentation.
+• Act as project owner of the CMS codebase, providing guidance and feedback to other developers who are working on CMS code or implementing CMS features in client websites.
+• Work with the Product managers to define the future directions of our CMS product.
+• Develop websites for Digital Agency clients based on the CMS.
+• Manage simple domain pointing and hosting issues.
+• Follow our testing and QA process to help ensure client satisfaction.
+Requirements:
+• A Degree or equivalent in a technical subject is valued but not essential.
+• A collection of live web and web application projects to review.
+• Experience in developing complex web applications; experience in 
+• CMS development is an asset.
+• Advanced knowledge and experience of PHP; experience in maintaining applications written by others is a bonus.
+• Familiarity with PHPMyAdmin browser-based MySQL administration software, and some knowledge of MySQL.
+• At least 2 years of experience programming in standards-compliant HTML, CSS and JavaScript, and an understanding of the &amp;quot;progressive enhancement&amp;quot; philosophy of web development.
+• A good knowledge of working with and around browser-specific behaviors.
+• Experience in using CMS products.
+• Experience of version control systems such as Subversion is an asset.
+• An understanding of web and web application usability concerns is valued.
+• Good teamworking skills are essential, since the successful candidate will be working closely with various teams to develop and plan the CMS product.
+• A proactive approach to responding to problems is highly valued.
+• Experience in co-ordinating development work with other developers is desirable.
+• A disciplined attitude towards code stability and documentation is essential. 

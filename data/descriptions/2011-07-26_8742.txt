@@ -1,0 +1,4 @@
+
+Se necesita desarrollador/programador web freelance en Valencia para terminar un proyecto que comencé yo mismo, pero que no puedo finalizar por falta de tiempo.
+El proyecto está desarrollado en HTML 5 y utilizando CodeIgniter.
+Habilidades requeridas, las de siempre: html, css, js, php y mysql...

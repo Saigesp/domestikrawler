@@ -1,0 +1,6 @@
+
+Agencia de publicidad de Barcelona con más de 10 años y con grandes cuentas, busca programador interactivo-multimedia para incorporar en plantilla.
+Buscamos una persona proactiva y que le guste trabajar en equipo. Las tareas a realizar consisten en desarrollar aplicaciones en entorno web utilizando tecnologías PHP, Javascript, XHTML, CSS, XML y bases de datos MySQL.
+Otras tecnologías y/o lenguajes de programación utilizados de los cuales se valorará experiencia son Flash (Action Script), Html5, JQUERY, AJAX.
+Buscamos una persona con iniciativa y capaz de liderar tecnológicamente los proyectos en los que participe.
+Se valorarán conocimientos en el desarrollo de aplicaciones de Facebook o iPhone. 

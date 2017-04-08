@@ -1,0 +1,26 @@
+
+Necesitamos un Programador PHP para la provincia de Madrid que tenga experiencia en la implementación de portales web y gestores de contenido, y conocimientos en el desarrollo y funcionalidad de comunidades virtuales y redes sociales. Además de esto se valorará la implantación de plataformas eLearning (MOODLE) y la integración/modificación de sistemas tipo  CMS.
+Requisitos técnicos:
+    * PHP
+    * MYSQL
+    * XHTML, CSS, javaScript, XML
+    * Flash (AS v2.0 y v3.0)
+Requisitos deseados:
+    * Experiencia mínima 1 año.
+    * Trabajo en equipo
+    * Proactividad
+    * Incorporación inmediata
+Se valorará:
+    * Metodología AJAX o JSON
+    * Frameworks tipo jQUERY
+    * Intercambio de datos con Servicios WEB o APIS externas.
+    * RSS, ATOM
+    * Plataformas e-Learning (MOODLE)
+    * CMS (WORDPRESS, JOOMLA, DRUPAL o similares)
+    * OSCOMMERCE
+Te ofrecemos:
+    * Estabilidad laboral.
+    * Proyectos de larga duración.
+    * Equipo joven y dinámico.
+    * Integración en una empresa en continuo crecimiento y comprometida con sus empleados.
+ 

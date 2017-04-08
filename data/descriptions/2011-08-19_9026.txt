@@ -1,0 +1,14 @@
+
+Our client is a world reference company in social gaming.
+Responsibilities:
+- Build great, flash-based multi-player games
+- Passion for building viral consumer products
+- Work in a dynamic, fast-paced environment 
+Requirements: 
+- 3+ years of solid software development experience
+- Expertise in Flash Development: Actionscript, CPU/Memory optimization, JavaScript/Flash bridging, Cross-browser compatability.
+- Extensive design and game development experience
+- Strong knowledge of software development lifecycle
+- Strong analytical skills and ability to assist other team members in problem solving.
+-High level of English. 
+

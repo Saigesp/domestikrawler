@@ -1,0 +1,20 @@
+
+(Cómo soy yo el que paga) No quiero:
+Empresas! pasaré de vosotros.
+No quiero gente que no sea de Barcelona (España).
+Que trabajes a distancia (no quiero!).
+Que buscamos?
+Buscamos una persona con más de 3 años de experiencia demostrada en PHP/MySQL para un proyecto de unos dos meses de duración.
+Imprescindible:
+Trabajar en oficina y cumplir un horario mínimo de 8 horas (horario negociable).
+Imprescindible sentirse muy muy cómodo con PHP, y SQL. Y cuando digo "muy cómodo" es que programar sea el pan de cada dia para ti.
+Vivir en barcelona.
+Que te guste el SQL!! importante!
+No te haremos exámen, pero si que querremos ver cosas hechas por ti, incluso desearemos ver algo de código fuente de los proyectos que nos enseñes. Me da igual que esos proyectos no estén online.
+Ventajas:
+No es necesario que sepas maquetar.
+No trabajarás solo.
+Se paga bastante bien.
+El ambiente es perfecto.
+Deseado:
+Si dominas javascript, perfecto! utilizamos jQuery.

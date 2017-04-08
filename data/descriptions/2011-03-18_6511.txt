@@ -1,0 +1,2 @@
+
+Para proyecto interno, necesitamos desarrollar en un corto periodo de tiempo un sitio web estático con capacidad de pasarela de pagos mediante Caja Madrid.

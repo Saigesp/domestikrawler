@@ -1,0 +1,25 @@
+
+HTML/PHP Developer
+
+What we are looking for
+We are looking for a HTML/PHP-developer who is interested in further exploring and expanding his/her skills in a creative environment. Standards are important, but knowing how to bend them to the will of a project is at least as, if  not more important for the creation of innovative and high-impact solutions for our clients.
+You should have an interest in design and branding and enjoy working in a close-knit team environment. Attention to detail and a logical structure should be integral aspects of your development process. 
+Who we are
+Code d'Azur is a growing, close-knit team that does strategy, concept, design and development. We create “interactivecreativerichmediadesignsolutions”. We specialize in flash/HTML5/mobile websites / RIA's and work for both global A-Brands such as LG, Smart, Coca-Cola, Supperclub, KLM and McGregor as well as local brands and other companies who require a high standard online presence. We are highly focused on design and pixel perfection along with innovative interactive development. Both are considered essential parts to produce unique and appropriate solutions.
+Our projects range from advertising campaigns to product platforms to institutional sites to web/mobile/desktop applications and custom content management systems. Ideally you have a feeling for interaction and design and can discuss the technical possibilities with a designer / team in order to determine the best solution.
+We currently have offices in Amsterdam and Barcelona, and are expanding agressively.
+Responsibilities
+- Development, implementation, and maintenance of web based services
+- Collaborate closely with creatives and developers in other offices
+- Server-side development for diverse projects
+- Development of custom reusable libraries
+- Carrying out research/experiments in order to develop solutions that can be applied in projects for clients
+Capabilities
+- Excellent knowledge of HTML, JavaScript + CSS
+- Excellent knowledge of PHP 5 and MySQL
+- Good knowledge of both English and Spanish, both written and spoken
+- Excellent knowledge of OOP coding practices.
+- Good knowledge of Zend Framework and in particular ZendAMF
+- Good knowledge of Apache and Unix based systems
+- Experience with content delivery for ActionScript ( AMF, JSON, XML, etc... )
+- Experience with Web Services is a plus (XML-RPC, SOAP, etc...)

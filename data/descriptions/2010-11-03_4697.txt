@@ -1,0 +1,13 @@
+
+At TRAVELCLICK, we help hotels maximize profits from ecommerce. Serving the hospitality industry since 1999, we are a service-based American company with leading-edge products that increase revenue and profitability for hotels.
+Currently we are seeking for a well-skilled, English speaking Web Developer;
+Job Description:
+Work as part of the Digital Agency's web development team to build and maintain client website features using standard web technologies and our commercial Content Management System product.
+Requirements:
+- Good knowledge of HTML, CSS, JavaScript and PHP is essential.  Also, familiarity with PHPMyAdmin browser-based MySQL adminstration software, and basic knowledge of MySQL.
+- Experience of building standards-compliant websites, and an understanding of the &amp;amp;amp;quot;progressive enhancement&amp;amp;amp;quot; philosophy of web development.
+- Experience of building websites which work effectively in all major browsers including Internet Explorer 6 and above.
+- Time-management skills are essential, since the successful candidate will be expected to prioritize the tasks that arrive and estimate how long these tasks will take to complete.
+- Good teamworking skills are required, since the successful candidate will be working closely with the Project Management and Web Support management teams to define and schedule website build tasks.
+- Familiarity with Content Management Systems desirable
+

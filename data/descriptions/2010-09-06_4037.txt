@@ -1,0 +1,13 @@
+
+Hola a todos!
+Somos una empresa de diseño web que busca programadores freelance para trabajar por proyecto.
+Desarrollamos desde pequeños websites corporativos hasta portales, tiendas on-line...
+Tenemos más de 7 años de experiencia en el sector y ofrecemos seriedad tanto en el planteamiento de los proyectos como en los pagos. 
+Buscamos programadores/maquetadores para implementar tanto la maquetación como el desarrollo de herramientas on-line como galerias dinámicas, control de usuarios, BBDD, tiendas on-line...
++Desarrollador PHP, MySQL.
++ XML, XHTML, HTML5 y CSS.
+Se valorará conocimientos avanzados de Actionscript 3 para desarrollo de herramientas en entorno Flash.
+No presencial, remuneración en función de cada proyecto.
+En disposición de facturar.
+Mandanos tu sitio web o un resumen de links donde podamos ver tu trabajo y nos pondremos en contacto para diversos proyectos ya en marcha.
+Gracias y saludos!

@@ -1,0 +1,5 @@
+
+Grupo ECCO, Empresa Española de informática de desarrollo e integración de sistemas con más de 300 profesionales en España y + 2000 en Méjico.
+Estamos llevando a cabo diversos proyectos de outasking para la Banca Española y tenemos por objetivo ampliar e incorporar nuevos profesionales de Base de Datos.
+En estos momentos Grupo ECCO precisa: 
+- Administradores DB2 UDB sobre AIX y Windows. Administración avanzada, instalación, configuración, parametrización y tunning. Deseable experiencia en entornos complejos, más de 100 instancias, cluster, y réplicas de cabinas); Se (desea) requiere experiencia en Consolidaciones, Traslados y Migraciones, tanto físicas como lógicas.

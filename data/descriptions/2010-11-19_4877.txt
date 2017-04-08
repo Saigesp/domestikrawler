@@ -1,0 +1,5 @@
+
+Se busca desarrollador web con experiencia en: PHP, HTML, JS, CSS.
+Un plus si ha trabajado con algún framework MVC del tipo Ruby on Rails, Django, Symfony, CakePHP, etc. Lo mismo si conoce jQuery.
+Puesto presencial.
+

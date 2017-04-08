@@ -1,0 +1,5 @@
+
+Apoyo al equipo de desarrollo de front end, en proyecto MVC participando en la evolucion de una aplicacion para financiacion al consumo.
+- Experto en Javascript/HTML, Ajax, jQuery,… 
+- Amplia experiencia XHTML, CSS y estándares Web.
+Durancion estimada entre 8-10 semanas, presencial en la sede central de Efron en Madrid 

@@ -1,0 +1,4 @@
+
+Buscamos programador PHP y MySQL para trabajar a jornada completa en MySofa en nuestras oficinas de Barcelona. 
+MySofa es una red social de ocio donde usuarios comparten opiniones y debaten sobre música, libros, cine y videojuegos. El sistema genera recomendaciones afines a los gustos de cada usuario.
+Esperamos encontrar una persona responsable, con ganas de aprender, buen nivel de programación (algoritmia, PHP5) y bases de datos, conocimientos de javascript, JQuery, css, ajax, APIs, webservices, parseos, y que haya trabajado con control versiones, bugs y documentación de código.

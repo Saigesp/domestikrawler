@@ -1,0 +1,28 @@
+
+Formarás parte del equipo de maquetación de la Web de la empresa (www.groupalia.com). Tus cometidos principales estarán relacionados con la nueva restructuración de la Web, control y mejoras de contenido, envío de Newsletters y la gestión de las mismas.
+Responsabilidades
+Maquetación de paginas web a partir de gráficos e integración con CMS.
+Corrección y mejoras de paginas web, aplicando la correcta semántica sobre nuevos diseños.
+Maquetación y configuración de las newsletters en función del libro de estilos de la empresa.
+Aptitudes mínimas
+Experiencia demostrable de un mínimo de 2 años en el área de Front End Development.
+Altos conocimientos de XHTML y CSS con los standards W3C (se valora el código limpio).
+Conocimientos de JavaScript (aplicando o no alguna librería).
+Experiencia específica y demostrable en cross-browsing e integración con CMS.
+Otras aptitudes muy valoradas
+Formación reglada en Multimedia o similares.
+Experiencia en proyectos de eCommerce.
+Experiencia en envío y creación de e-mails y newsletters.
+Conocimentos de jQuery, HTML 5.0 y CSS 3.0.
+Conocimientos de programación en PHP, Zend Framework y Magento.
+Practica de trabajo en diferentes ramas (branches), a través de SVN.
+Inglés fluido.
+Actitud deseada
+Rápido aprendizaje.
+Pro-actividad.
+Sin miedo al trabajo duro.
+Vocación de equipo.
+Orientación a resultados.
+Se ofrece...
+Equipo joven, multicultural y con ganas de hacer cosas nuevas.
+Contrato indefinido con 6 meses de prueba.

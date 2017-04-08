@@ -1,0 +1,6 @@
+
+En Santa Mónica buscamos un programador web con conocimientos de diseño web para que se incorpore a nuestro departamento de diseño y desarrollo (www.reflejovirtual.com), que tenga:
+ - Conocimientos medios/altos de PHP5 y MySQL, con capacidad para adaptarse a una base de trabajo de programación con clases. Se valorarán conocimientos de Actionscript (carga de datos dinámicos principalmente).
+- A nivel de diseño simplemente tiene que ser resolutivo con un mínimo de gusto. Sería para cosas muy puntuales y proyectos web pequeños llegado el caso, para ayudar al área de diseño solo en puntas de trabajo muy grandes.
+No buscamos una persona para todo, pero sí un programador que pueda ayudar de forma muy puntual al área de diseño.
+Jornada completa, puesto presencial.

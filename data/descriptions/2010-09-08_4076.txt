@@ -1,0 +1,6 @@
+
+Estamos buscando un programador en Barcelona para trabajar en proyectos de redes sociales, geolocalización, smartphones. 
+Aptitudes:
+- Web: Programación en Ruby on Rails. Si no se conoce el framework se valorará experiencia en otros lenguajes como PHP, Python, Perl o Java. 
+- iPhone: Dessarrollo Apps con Objective-C. 
+- Android: Java.

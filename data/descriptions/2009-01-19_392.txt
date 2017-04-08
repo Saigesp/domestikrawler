@@ -1,0 +1,10 @@
+
+Desde FactorSim (http://www.factorsim.com), estamos buscando un programador para incorporación en plantilla.
+Sus funciones serían:
+- Adaptación de diseños a su versión css/javascript/html. 
+- Programación de funcionalidades php/javascript en CMS propios y open source.
+- Creación de interacciones en Flash y su comunicación con javascript.
+- Generación de contenidos partiendo de estructuras XML, integrándolos con intérpretes XSLT.
+Requisitos: Interés en innovar y experimentar nuevas tecnologías web. Capacidad de trabajo en equipo. Capacidad para analizar y solucionar problemas. Buen programador. Cuidado por el detalle y conocimientos de usabilidad. Iniciativa y proactividad. Experiencia en un puesto similar al ofertado
+Incorporación inmediata.
+FactorSim es una companía pequeña (5 trabajadores) orientada a la formación y generación de contenidos de aprendizaje. Buscamos crear un buen ambiente de trabajo, serio y organizado.

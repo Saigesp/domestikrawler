@@ -1,0 +1,8 @@
+
+Descripción de la oferta: Somos una agencia de marketing online dedicada a la generación de nuevos usuarios en Internet. Ayudamos grandes empresas grandes a desarollar su base de datos emails.
+Buscamos un becario de fin de carrera en programación para varios proyectos que tenemos pendientes: Creación de web, landing page, implementación de webservicios, integraciones con facecbook...
+Requisitos:
+-Imprescindible: Programación PHP, CSS, Html, buen nivel
+-Manejo de Access, SQL
+- Se valora mucho el Diseño web: Dreamweaver, Photoshop
+Posibilidad de contratación después de la práctica.

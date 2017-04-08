@@ -1,0 +1,14 @@
+
+We are looking for a bright, intelligent and eager to learn Rails developer. A person who loves pushing the state-of-the-art in web technology, and is willing to contribute to create revolutionary web products.
+Experience required:
+Ruby on Rails for more than a year
+Proficient level in git
+Good level in testing, with RSpec and Capybara
+Most common Rails gems, such as Compass, Haml and Devise
+Web standards
+Javascript abilities
+Agile methodologies
+Must be comfortabe working with:
+Ruby and its meta-programming system
+Gem building
+Caching and optimization techniques

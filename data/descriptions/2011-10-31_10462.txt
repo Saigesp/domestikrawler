@@ -1,0 +1,8 @@
+
+Desarrollo de aplicación web con lenguaje de programación Java basada en Spring, RichFaces, Hibernate y MySQL.
+Se busca:
+-Experiencia mínima de 1 año en programación con Java.
+-Persona responsable, con buena capacidad de trabajo y alto grado de autonomía e iniciativa.
+-Salario a definir en función del perfil del candidato.
+-Residencia en la zona o movilidad geográfica para residir en Pamplona o alrededores.
+

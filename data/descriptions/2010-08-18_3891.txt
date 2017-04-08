@@ -1,0 +1,25 @@
+
+Just Landed http://www.justlanded.com  is creating ‘the’ online destination for people moving country and living abroad. Today we have 2 million visits/month. There are more than 200 million people living abroad worldwide, so we still have a lot to do. After having added functionality to our site for various years, we're now planning a complete redesign. Goals of this project include:
+    * Improve design consistency across the site (CSS &amp; site elements)
+    * Improve User Experience (UI, Site Structure, Navigation)
+    * Modernize Look &amp; Feel of the site
+What's the exact scope?
+    * Redesign of Main-Navigation (incl. language handling of Main language + additionals, Location setting)
+    * Restructuring of content navigation (Topics + Tools, including Small Ads, Community, Forums etc., "My" Pages: Account / Business Account, Posts etc.)
+    * Logo redesign (optional, only if necessary)
+    * Page Grid, Page breakups &amp; banner placements
+    * Styleguide/CSS (Color Scheme, Fonts, Standard Elements like Forms, Pagination, Images, Navigation Elements, Ratings etc.), Icons, Lightboxes, Emails
+Why is this a challenge?
+Due to the complexity of our site, we are facing some challenges in terms of navigation and interface design:
+    * Site comprises various applications (ranging from country guides to small ads to a community)
+    * Navigation levels in multiple countries and/or regions (e.g. users interested in Spain or just in Madrid)
+    * Site works in multiple languages (multilingual users get content displayed in all languages they speak/understand)
+    * Design needs to work for RTL (right to left), Asian and wide languages.
+What are the requirements?
+    * Extensive experience on UI design (for web applications, not just brochureware)
+    * High level of capability with HTML, JavaScript, CSS, page optimization and browser compatibility issues
+    * Experience with efficient markup for page speed (use of CSS selectors, minimise onpage elements, sprites, ...)
+    * Able to use Compass framework, with Saas and Blueprint - http://compass-style.org/
+    * jQuery (Site runs currently on Prototype and script.aculo.us, might change with Redesign)
+How will we run this project?
+Our company is based in Madrid. For our ongoing development, we're currently looking for a long-term frontend developer onsite. For the redesign project, we need an experienced UI-Designer that will join our team on a temporary base (depending on project length). The "chore design" (mockups, site structure etc.) should be done in quick iterations with company management, so you need to be present in Madrid during this time (aprox. 1-2 months). 

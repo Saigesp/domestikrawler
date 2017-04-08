@@ -1,0 +1,5 @@
+
+Buscamos un programador con capacidad para desarrollar un software para PC. El programa debe servir para realizar reservas, con distintos horarios, avisos y que esté conectado en red con diferentes ordenadores.
+Se valorarán conocimientos de programación web y de aplicaciones para terminales móviles, para futuros proyectos.
+Es necesario que esté dado de alta de autónomos y nos gustaría que realizase el trabajo de forma presencial.
+Se valorarán proyectos que se hayan realizado previamente, así que agradeceríamos que nos manden alguna referencia para valorar vuestro trabajo.

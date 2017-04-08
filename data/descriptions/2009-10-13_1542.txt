@@ -1,0 +1,18 @@
+
+As a Web Interface Designer, you will work closely with engineers and user experience designers through all stages of the design and implementation cycle. You will be responsible for designing and implementing the visual interface layer used by millions of people every day and think critically about how to make this highly usable, intuitive and elegant.
+Responsibilities:
+    * Work closely with engineering and user experience design to define and implement visual design,
+    * Create fully comprehensive and elegant design solutions taking into account extensive cases and additional functionality,
+    * Implement design solutions, writing and maintaining high-quality and clean CSS/XTHML code that adheres to web standards,
+    * Define, implement and extend style guidelines with rest of team.
+Requirements:
+    * Solid academic background, with degree in design or related field,
+    * Demonstrated experience in designing and building web-based applications,
+    * Expertise in cross-browser HTML/XHTML and CSS architecture, with fast, optimized code,
+    * Deep understanding of social internet technology and AJAX-based interfaces,
+    * Excellent communication and teamwork skills and ability to explain rationale behind design solutions,
+    * Conceptual skills and ability to multi-task and be proactive in a start-up environment,
+    * Strong, clean visual design sense and pixel-perfect attention to detail, demonstrated with portfolio,
+    * Expertise in Photoshop / Fireworks, Illustrator / Freehand, InDesign, and Powerpoint/Keynote,
+    * Working knowledge of Javascript is a large plus.
+

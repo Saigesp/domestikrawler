@@ -1,0 +1,28 @@
+
+En 100x100.net estamos buscando una persona que nos ayude y aporte valor en nuestros proyectos on-line.
+Valoramos a las personas proactivas y perfiles todoterreno que tengan ganas y predisposición para innovar en la web.
+Requisitos imprescindibles con sus preguntas imprescindibles:
+- Amplios conocimientos XHTML, CSS
+¿cuándo fue la última vez que utilizaste un tabla para maquetar? ;) ¿compruebas en firefox, luego en chrome y luego en explorer -aunque acabes odiando el número 6-?
+¿sabes cómo optimizar html para que google lea mejor?
+- Amplios conocimientos Javascript + frameworks (MooTools, jQuery, Prototype)
+¿bendeciste el día en el que se acabó hacer una versión del script para cada navegador?
+¿sabes cuando dom ready y cuando load?
+¿serías capaz de calcular el tiempo que te has ahorrado utilizándolos?
+- Amplios conocimientos de PHP
+¿hacen falta palabras?
+- MySQL
+¿sabes qué es un índice y para qué sirve?
+¿utilizas letras para identificar registros o no sabes qué es una pk y una fk?
+- Sentido común y buenas prácticas
+¿sabes qué es un include?
+¿sabrías decir qué es el diseño descendente o las siglas MVC?
+¿documentas tu código?
+Requisitos deseables:
+- Experiencia con Ext JS (realmente interesante)
+- Conocimientos de Flash/AS2/AS3
+- Uso de frameworks PHP (CodeIgniter / Symphony / etc.)
+- Capacidad de búsqueda, selección y adaptación de aplicaciones Open Source según proyecto
+- Haber trabajado con Wordpress, Drupal, etc.
+Envíanos un mail a info@100x100.net y nos pondremos en contacto contigo. 
+Valoramos que la experiencia sea demostrable ;)

@@ -1,0 +1,6 @@
+
+Somos una empresa de servicios en plena expansión. Necesitamos disponer de un programa asistencia técnica (SAT)  que abarque desde el inicio del aviso por el cliente hasta su ejecución y cierre. El programa,  potente, de calidad, deberá contener todos los campos necesarios para una máxima información  (desde la hora que se produce el aviso a utilizar, presupuesto previo, etc…) 
+	El encargo en cuestión deberá estar hecho en lenguaje VisualBasic.net y seguimiento en Internet y accesible desde i-phone y androide.
+Estamos pensando en un programador serio, creativo, entusiasta y que disponga de los medios necesarios para hacer realidad este proyecto en un plazo máximo de un mes. No importa que modelación final sea sobre código fuente de programas ya existentes cuyos derechos ostente nuestro programador creativo. 
+Recibiremos (y contestaremos) las ofertas que se dirijan a la siguiente dirección de email:  elevenaldava@gmail.com  pudiendo ser este el primero de una cadena de encargos.
+

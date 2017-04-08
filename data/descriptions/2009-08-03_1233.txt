@@ -1,0 +1,7 @@
+
+Queremos incorporar un informático más a nuestra actual plantilla. Chico o chica, nos da igual, los requisitos que le pedimos son:
+· Titulado universitario en Informática, de grado superior o medio, con conocimientos profundos de PHP y MySQL, HTML, Javascript y CSS. 
+· Será interesante que tengas experiencia en la administración de servidores (Linux y Apache) y hayas programado en Flash. 
+· Para nuestro trabajo, es importante el inglés, sobre todo leído y escrito.
+· Para poder solicitar una ayuda I+D+i, es necesario que hayas realizado prácticas en empresas o entidades, justificables por el COIE o una institución similar.
+La tarea principal que queremos encomendarte, una vez formado y suelto en nuestra metodología de trabajo, es el proyecto de innovación XL conecto. Una solución de software como servicio para el control colaborativo de proyectos. Se trata de nuestra aplicación interna más ambiciosa y está muy madura, aunque queremos desarrollarla aún mucho más entre el último trimestre de 2009 y el año 2010. Por tanto, la incorporación a la empresa sería inmediata. 

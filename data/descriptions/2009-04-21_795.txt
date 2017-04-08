@@ -1,0 +1,15 @@
+
+La Moderna en su división de Always Pocket Marketing, agencia especializada en marketing móvil, busca un programador para site móviles y también para páginas web.
+Descripción de funciones.
+Busco a un programador que se integrará en el departamento creativo, y que se encargará de: Programación de páginas para móvil,  páginas web, emailings, y banners .
+- Programación para site en móvil: estándares de dev.mobi, javascript, xhtml
+- Nivel sólido en programación Javasript (Yahoo YUI, jquery), webservices, xhtml, css y ajaz. Id
+- Conocimientos en las siguientes tecnologías relacionadas: AdoDB, Smarty, PHP5, XHTML, XSD, UML, simpleXML, MultiCURL, MVC Design Pattern, etc.
+- Técnicas de optimización de código PHP y consultas SQL
+Además se valorará:
+- Conocimientos en programación flash, javascript
+- Conocimientos en otros lenguajes de script (Bash, C-Shel, Perl, Python)
+- Conocimientos en otros lenguajes orientados a objetos (java, C++)
+- Conocimientos a nivel de administrador UNIX (Linux, FreeBSD, Solaris)
+- Conocimientos en administración de BBDD (Mysql, Oracle).
+- Posicionamiento en buscadores SEO

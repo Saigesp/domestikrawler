@@ -1,0 +1,11 @@
+
+Hola a todos!
+En AQUENT estamos buscando para uno de nuestros clientes en MADRID un Programador Front-End con conocimientos avanzados en Actionscript. 
+Requisitos
+-Dominio de Action Script 2 y 3
+-Papervision
+-Conocimientos de programación servidor (PHP, XML, Java)
+-Experiencia en proyectos Flash media Server (interacción entre usuarios a tiempo real)
+-Dos o más años en agencia interactiva o estudio de diseño
+Si os interesa, me encantaría recibir vuestros cv a: mmontavez@aquent.com
+Un saludo!

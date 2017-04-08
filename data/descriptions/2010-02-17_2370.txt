@@ -1,0 +1,28 @@
+
+Hola somos Eyeblaster 
+Nuestra oficina de Madrid busca analista programador web que lidere el departamento de soluciones a soporte. Es decir, serás la persona técnica de contacto en Eyeblaster para todos los soportes publicitarios digitales en los que se sirven nuestros anuncios.
+Generarás código, supervisarás el del soporte y resolverás incidencias técnicas. Propondrás mejoras y soluciones y darás apoyo.
+Será responsable de comunicarte tanto con soportes externos como con equipos internos locales e internacionales. Recibirás peticiones por mail y teléfono que resolverás directamente o escalarás a los grupos necesarios para su resolución.
+DEBERAS SER CAPAZ DE:
+•	To analyze different types of code (i.e. HTML, XML, CSS, JavaScript) required
+•	Identify types of ads (i.e. Image, Flash, Text/Content, Rich Media, Video, Search, etc.) required
+•	Troubleshoot, locate, and resolve ad delivery problems autonomously in order to reduce escalations to the management team
+•	Ability to analyze, research, troubleshoot, reproduce, and debug delivery of search, contextual, display, and rich media (Flash) advertisements
+•	Identify and understand nuances between various popular web browsers and operating systems as they relate to online advertising and delivery
+•	Explain technical concepts to technical and non-technical staff and customers in an effective and respectful manner
+•	Successfully deal with ambiguity and excel at identifying ambiguous problems and ad platforms
+•	Excellent written and oral communication skills
+•	Ability to work well and excel in a team environment and with moderate supervision
+DEBERAS TENER:
+•	 3 + years of experience in web development - a Must
+•	Experience with or understanding of web debugging tools
+•	High level Java Script (a must)
+•	XHTML, CSS
+•	Adobe Flash required (coding not required)
+•	Browsers
+•	ASP/.NET and other server side scripting languages
+•	Databases – Advantage
+•	Fluent written and spoken English 
+•	Solid problem solving and troubleshooting skills
+•	Strong customer service and prioritization skills.
+•	Familiarity with Microsoft Office Suite

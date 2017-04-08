@@ -1,0 +1,28 @@
+
+Tenemos un puesto disponible para:
+Diseñador/a gráfico/a con conocimientos de maquetación y programación PHP
+-------------------------------------------------------------------------
+* Varios años de experiencia, orientado a resultados.
+* Muy buenos conocimientos de uno de los programas Adobe Photoshop o Fireworks.
+* Conocimientos medios de PHP, HTML, CSS, y Flash.
+* Capacidad de transformar ideas dibujadas sobre papel en diseños profesionales y atractivos.
+* Trabajo en equipo, aportar e intercambiar conocimientos que mejoren el desarrollo.
+* Cuidado por el detalle.
+* Iniciativa y proactividad.
+* Nivel alto de Castellano escrito, es el idioma de la interfaz de las aplicaciones.
+* Trabajar 40 horas semanales en nuestra oficina de Sabadell situada cerca de la estación de FGC.
+* Querer trabajar en un equipo joven, responsable pero flexible y con sentido del humor y tener la oportunidad de crear sitios web que ocupen un buen puesto en el mercado.
+Responsabilidades del puesto:
+-----------------------------
+* Diseñar interfaces de los sitios web y maquetarlas a XHTML y CSS.
+* Diseñar logotipos o iconos.
+* Crear banners en Flash.
+* Apoyar al equipo de programación cuando estén finalizadas las tareas de diseño.
+* Colaborar con otros programadores / diseñadores para mejorar el resultado final.
+Los siguientes no son obligatorios pero si un plus:
+---------------------------------------------------
+* Experiencia en Yii u otros frameworks PHP.
+* Subversion.
+* Smarty.
+* Conocer geografía de España.
+* Experiencia previa en sitios de inmobiliaria, empleo, o redes sociales.

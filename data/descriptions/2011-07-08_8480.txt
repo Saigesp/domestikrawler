@@ -1,0 +1,30 @@
+
+Perfil
+Empresa especializada en desarrollo  Web y marketing on line necesita Programador Web.
+Estamos ampliando nuestra Departamento de Desarrollo  y buscamos un/a programador/a con experiencia demostrable 
+Abstenerse freelances
+
+Requisitos
+Necesitamos a un/a profesional que tenga ganas de crecer dentro de la empresa y que reúna las siguientes características:
+-	Especialmente, conocimientos avanzados en las siguientes tecnologías:
+-	PHP
+-	framework CakePHP o haber trabajado con otros frameworks
+-	MySQL 
+-	Jquery
+-	Maquetación HTML + CSS
+-	Conocimientos en gestores de contenido como Magento, Joomla y Wordpress
+-	Conocimientos en diseño de base de datos para MySQL
+-	Conocimientos básicos, a nivel usuario, de GNU/Linux, preferiblemente sistemas basados en Debian
+-	Aptitudes para trabajar en equipo
+-	Tener facilidad comunicativa
+Imprescindible para contrato, estar apuntado/a  en la oficina de empleo, mínimo desde  enero ininterrumpidamente.
+Se valorará:
+-	Conocimientos Diseño Web
+-	Conocimientos API Facebook
+-	Conocimientos API googleMaps
+-	Conocimientos Community Manager
+-	Tener iniciativa
+Se ofrece:
+-	Incorporación inmediata a un equipo joven y dinámico. 
+-	Agradable ambiente de trabajo 
+-	Jornada de trabajo intensiva

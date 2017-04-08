@@ -1,0 +1,13 @@
+
+Profile Software Services empresa con más de diez años ofreciendo servicios de Consultoría, Desarrollo, Diseño e Implantación de Tecnologías de la Información, necesita incorporar PROGRAMADORES SÉNIOR EN PHP con experiencia en dichas plataformas.
+Se requiere:
+Mínimo 3 años de experiencia en PHP.5
+Experiencia MVC
+Experiencia en programación de enntornos WEB
+Conocimientos de C/C++, Soap, Ajax, Zend, CVS y SVN
+Conocimientos de Myql o Oracle
+Se desea:
+Valoralbe experiencia en SEO
+Experiencia Zend Framework
+Nivel alto de inglés
+Experiencia con Zend Framework

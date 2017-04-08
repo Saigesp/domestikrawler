@@ -1,0 +1,5 @@
+
+Tenemos un proyecto en curso para el que buscamos alguien que además de elegante código en PHP y eficientes joins en MySQL tenga por sobre todo sentido común y productividad.
+Pensamos aligerarnos la carga del desarrollo (no es pequeño) basándonos en un CMS, nos gusta MODX, pero estamos abiertos a sugerencias.
+Necesitamos dedos y neuronas cuanto antes, por lo menos por unas 10 semanas si hay amor somos de comprometernos.
+Rápido, el email está justo aquí al lado   ???

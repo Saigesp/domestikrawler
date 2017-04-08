@@ -1,0 +1,19 @@
+
+(abstenerse freelance)
+Abstenerse freelance
+Queremos una persona muy creativa y motivada, que se incorpore a nuestro equipo de trabajo para contribuir con su experiencia al desarrollo del frontend web de la aplicación que estamos desarrollando y que lanzaremos a nivel internacional.
+Se requiere nivel experto en en HTML, XHTML y CSS.
+Cualidades personales:
++ Que seas ciudadano o residente europeo
++ Que seas una persona en contínua formación
++ Conocimientos de inglés técnico que te permitan trabajar con personas que no hablan español muy bien
+Cualidades Técnicas Imprescindibles:
++ Mínimo 3 años de experiencia en maquetación web
++ Nivel experto en CSS y HTML
++ Conocimiento de los estándares web y usabilidad
+Qué valoraríamos además:
++ Conocimientos en Javascript, jQuery, AJAX y JSON
++ Conocimientos en Grid 960, HTML5 y CSS3
++ Conocimientos en maquetación para frameworks (Ruby on Rails, Struts, Spring)
++ Experiencia en el desarrollo de interfaces gráficas
++ Una titulación universitaria de perfil tecnológico o artístico. Esto no es un requerimiento, ya que en Besol valoramos más el conocimiento y la experiencia que los títulos.

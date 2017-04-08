@@ -1,0 +1,16 @@
+
+We are looking for a bright, intelligent and eager to learn JS developer. A person who loves pushing the state-of-the-art in web technology, and is willing to contribute to create a revolutionary web product.
+Experience required in:
+- OO Javascript, very good experience in pure JS.
+- Pure JS apps.
+- Frameworks such as NodeJS (npm/Ender) and Backbone.
+- BDD/Testing (Jasmine)
+- jQuery
+- HTML5 (canvas, local storage) and cross-browser compatibility.
+Must be comfortabe working with:
+- Ruby/Rails
+- GIT
+We will value experience in:
+- Multi-device web-based applications
+We offer very good work conditions, flexibility and the
+

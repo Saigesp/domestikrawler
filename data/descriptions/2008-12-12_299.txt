@@ -1,0 +1,10 @@
+
+Estamos buscando un freelance que haga un catálogo de productos para una web.
+El resto de la web sería estática en html, pero la sección catálogo necesita tener un administrador para que el cliente pueda editar la información de los productos, y dar de alta/baja productos y ofertas.
+No lleva venta online, solo catalogo.
+Cada producto lleva una foto pequeña, una que se amplía,  y los datos típicos: nombre, precio, descripcion, color, etc...  y a lo mejor un campo de "Enviar a un amigo" (dependiendo del precio)
+Sólo necesitamos la parte del catálogo (el adminstrador y la programación del HTML necesario). El diseño y el HTML no nos hace falta.
+Por favor enviadnos un email a garciasusana2@gmail.com con el asunto ADMINISTRADOR-CATÁLOGO con presupuesto, plazos, ejemplos de otros trabajos similares...
+o cualquier duda.
+El puesto es de freelance por lo que nos da igual la provincia de la que seais.
+gracias

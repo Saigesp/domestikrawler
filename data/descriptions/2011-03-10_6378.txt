@@ -1,0 +1,10 @@
+
+Buscamos persona dinámica capaz de maquetar sitios web basados en XHTML, HTML , CSS2,CSS3 con experiencia.
+Principales funciones: 
+-La función a realizar será la maquetación de páginas web a partir de psd, generar los html, javascript y estilos necesarios y garantizar la compatibilidad en los distintos navegadores.
+-Maquetación de temas para WORDPRESS a partir del psd.
+Requisitos:
+-Deber estar validado por W3C, es imprescindible.
+-Conocimientos de diseño gráfico y uso de herramientas como Photoshop será valorado.
+-Poder facturar.
+Interesados envien portfolio y a ser posible indiquen precios aproximados.

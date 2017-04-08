@@ -1,0 +1,6 @@
+
+Programación en ActionScript 3.0 y Papervision 3D
+Flash builder o Flex builder.
+Integración de elementos 3D (collada) en proyectos flash.
+Conocimiento en modelación 3D.
+Se valora experiencia en proyectos de Realidad Aumentada.

@@ -1,0 +1,39 @@
+
+Buscamos un Maquetador (no diseñador), especialista en XHTML/CSS con conocimientos de javascript.
+Se pedirá proyectos en los que se ha participado y ejemplos de código.
+Requisitos mínimos:
+
+ Sólidos conocimientos Maquetación HTML, XHTML
+
+ Especialista en CSS, CSS2, CSS3
+
+ Interés en innovación y nuevas tecnologías web.
+
+ Capacidad de trabajo en equipo.
+
+ Capacidad para analizar y solucionar problemas.
+
+ Conocimiento de Javascript (jQuery)
+ Inquietud por los desarrollos interactivos.
+
+ Cuidado por el detalle.
+
+ Iniciativa y proactividad
+
+ Experiencia en un puesto similar al ofertado
+
+
+Requisitos deseados: 
+
+ Incorporación inmediata
+
+ Conocimientos en SVN
+
+ Conocimientos básicos de PHP
+
+ Trabajo en entorno Smarty
+
+ Conocimientos con plataformas CMS (Wordpress, Drupal, Joomla).
+ Buen programador
+
+

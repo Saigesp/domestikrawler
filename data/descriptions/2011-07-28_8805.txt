@@ -1,0 +1,9 @@
+
+Hola, estamos buscando una persona capaz de desarrollar una aplicación para:
+Usuario entra en la web y quiere hacer un video.
+La aplicación conecta con webcam audio y escritorio.
+El video se guarda en su escritorio  y se cuelga en la web.
+Interesados favor de escribir a hanse151183@gmail.com
+Con el asunto webcam.
+Gracias
+

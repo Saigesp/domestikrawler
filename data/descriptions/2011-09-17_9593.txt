@@ -1,0 +1,13 @@
+
+Hola
+Necesitamos un programador flash(As3 , As2) para poder realizar una seccion,  para una web.
+Tenemos una web de calzado a la que queremos añadirle una seccion de tiendas como la que aparece en la web de lacoste( se puede ver pinchando en el boton tiendas)
+ http://www.lacoste.com/es/
+La web ya la tenemos terminada, solamente nos hace falta esta seccion que la incorporariamos en una ventana html nueva.
+La informacion os la pasariamos nosotros: Paises,provincias ,Tiendas e información de las tiendas
+Por lo que necesitariamos 2 presupuestos:
+Uno de ellos seria la de realizar esta seccion de tiendas y que la podamos actualizar mediante un fichero xml , un txt o desde el propio flash.
+Un segundo presupuesto de esta seccion, seria  teniendo la opcion de poder actualizarla mediante un panel de control
+La persona encargada de realizar el trabajo , la tendremos en cuenta para realizar futuros proyectos
+Interesados, podeis contactar mediante esta direccion de email:
+juanjolopezgrau@gmail.com

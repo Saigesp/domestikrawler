@@ -1,0 +1,21 @@
+
+Tuenti is the most trafficked website in Spain, and the country's leading private social platform. Based in Madrid, Tuenti has rapidly grown in three years with millions of active daily users and was one of the most searched terms in 2008 in Google's annual zeitgeist.
+Tuenti Technologies is seeking talented JavaScript Engineers to implement and maintain the primary of user interface of the Tuenti web application. Tuenti's rich user experience, built entirely with an AJAX paradigm, uses no traditional web page requests after login, greatly expanding the range of interface possibilities that Tuenti can provide to our users. JavaScript engineers are directly responsible for leveraging these possibilities to build cutting-edge interfaces for the Tuenti web application. Ideal candidates will be passionate about building innovative web applications with meticulous attention to quality of both the UI and underlying code. This is a full-time position in our office in central Madrid.
+Responsibilities:
+implement and maintain features of the Tuenti web application, primarily focused on the JavaScript/AJAX user interface
+re-factor existing JS and PHP code to improve performance, clarity, and extensibility
+ensure cross-browser compatibility for all modern browsers (IE 6+, FF, etc)
+write and maintain automated tests of Tuenti user interface
+write code and test documentation
+analyze and eliminate security vulnerabilities
+debug JavaScript / interface issues, based on user reports
+Requirements:
+extensive knowledge of JavaScript, CSS/HTML, DOM structure and manipulation
+1-2+ years experience with AJAX-based web applications
+knowledge of PHP/comparable scripting language
+experience with use of JSON/XML
+strong analytical and problem-solving abilities
+BA/BS in Computer Science or equivalent experience
+participation in code stabilization and release schedules, including early morning hours
+fluency in written and spoken English.
+We offer multicultural work environment, rapid professional growth and an excellent salary.

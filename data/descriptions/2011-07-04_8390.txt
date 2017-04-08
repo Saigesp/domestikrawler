@@ -1,0 +1,11 @@
+
+Knoid es una empresa que trabaja en el sector retail y que pretende ser un reto para aquellos a los que les guste la innovación basada en las nuevas tecnologías. Somos una start-up localizada en Esade Creapolis (Sant Cugat del Vallès) que ofrece soluciones al mundo de retail a través  de aplicaciones tecnológicas propias, basadas en; tecnología móvil, Internet, y redes sociales. Trabajamos con un porfolio de compañías multinacionales y en proyectos con impacto directo en el negocio de éstas.
+Estamos buscando una persona con conocimientos en programación Web y aplicaciones móviles (valorable HTML5), que quiera desarrollar su carrera en un sector en pleno crecimiento.
+Requisitos:
+- Habilidad en el diseño y codificación de
+aplicaciones. HTML5
+- Búsqueda de la calidad
+- Dominio del modelo orientado a objeto y a los
+patrones de diseño
+- Buen nivel de: JAVA, PHP, MySQL, Javascript
+Si has acabado la universidad y buscas un proyecto donde desarrollarte y crecer, envíanos tu CV.

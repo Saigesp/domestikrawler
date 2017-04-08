@@ -1,0 +1,8 @@
+
+Programador/maquetador.
+Apoyo al equipo creativo para la programacion y maquetacion de Paginas web y desarrollo de campañas de Marketing en internet, redes sociales, Plataformas Android y Iphone, etc...
+Requisitos necesarios.
+Maquetar Html,Xml CSS y PHP bajo los nuevos estandares, partiendo de un boceto.
+Flash AS 2.0 / AS 3.0. 
+JavaScript (Ajax, jQuery).?
+

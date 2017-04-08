@@ -1,0 +1,3 @@
+
+Busco programador capaz de desarollar un app de juego complejo, alejado del mundo de gaming, haciendo uso de OpenGl ES 2.0 (discutible). Se trata de una colaboración sin remuneración en esta fase, invirtiendo tiempo y trabajando con un diseñador que hace lo mismo. 
+

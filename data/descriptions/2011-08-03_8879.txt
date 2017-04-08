@@ -1,0 +1,28 @@
+
+Hola
+Buscamos un Diseñador/Programador Web Para realizar un proyecto completo
+Ya hemos hablado con el cliente y tenemos una web de referencia, que nos ha gustado a todos
+queremos algo muy similar a esto:
+ http://www.riu.com/
+Los iconos,tipografias y colores ya se iran definiendo, pero de momento nos sirve para que veais
+la estructura, queremos el mismo numero de secciones y los mismos modulos en cada una de ellas,,modulo de reservas, los mismos idiomas...
+vamos a necesitar en definitiva todo lo que tiene esta web.
+La informacion,logotipo y las fotografias, tambien las traducciones de idiomas os las pasariamos nosotros.
+Nos interesaria que el panel de control sea en joomla o drupal( si esto supone abaratar el coste de la web)
+ya que hay muchos programadores que tienen panel de propio...
+Este proyecto queremos llevarlo con un freelance
+Capacidad de facturar 
+¿que vamos a necesitar?
+1. La web tiene que ser en Xhtml y Css(estandares web)
+2. Tener panel de control ( joomla o drupal) indicar que version de cms utilizais
+3. Referencias de webs que hayais realizado (basadas en estandares web, que dispongan de panel de control) , que sean parecidas 
+al ejemplo que os pasamos 
+4. PRESUPUESTO ( Necesitamos que nos paseis presupuesto teniendo en cuenta todo lo anterior y la web de referencia que hemos pasado
+ Necesitaremos que nos paseis 2 presupuestos uno de ellos con la web en 8 idiomas( como en la web de riu) y otro exactamente igual pero
+solamente en 3 idiomas(español,ingles y frances)
+No necesitamos curriculums, solamente referencias de webs y los 2 presupuestos
+Abstenerse Juniors, solo para Diseñadores/programadores con experiencia en proyectos del mismo rango.
+La persona que se encargue de realizar este trabajo, la tendremos en cuenta para 
+realizar futuros proyectos con nosotros.
+Interesados contactar con nosotros en esta direccion de email
+programadorflashphp@gmail.com

@@ -1,0 +1,10 @@
+
+Universia Holding S.L. es una empresa multinacional de Internet perteneciente al Grupo Santander y con presencia en 11 países. Estamos especializados en portales destinados al público universitario (becas, empleo, movilidad, ferias virtuales) y combinamos desarrollos de producción propia con proyectos externos.
+Te ofrecemos la posibilidad de formar parte de un equipo joven y dinámico con amplios conocimientos técnicos para colaborar en la creación y mantenimiento de aplicaciones globales de última tecnología: redes sociales, comunidades, podcasting, RSS, etc.
+- Los desarrolladores en Flex participan en la definición y posteriomente en la implementación de las aplicaciones de internet, solicitadas desde otras áreas, ó desde la propia tecnología.
+REQUISITOS
+Ingeniero en Informática - Ingeniero Técnico en Informática de Sistemas- Técnico en Informática de Sistemas - Física – Matemáticas. 
+También valdrían candidatos de Formación Profesional en materias similares si su experiencia profesional es adecuada.
+- Experiencia previa de al menos un año trabajando en proyectos FLEX con SDK 3 y 4 (Frameworks Cairngorm y Swiz Deeplinking con SWFAdress o URLKIT)
+- Experiencia y conocimientos en Desarrollos J2EE: Spring, Hibernate, AOP, Maven
+- Dominio de SQL, XML, servicios web

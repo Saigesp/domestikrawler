@@ -1,0 +1,5 @@
+
+Se precisa persona para cubrir la vacante de analista/programador con capacidad demostrada de trabajar en equipo y bajo presión.
+El candidato se encargaria de la completa programación y desarrollo de proyectos web 2.0 además de realizar tareas de análisis y diseño de aplicaciones en el entorno Internet.
+Se valorara positivamente los conocimientos y la experiéncia que el candidato disponga en alguno/s de los siguientes lenguajes y/o entornos:
+PHP, Ez-Publish, ZEND Framework, MYSQL, Apache, Linux.

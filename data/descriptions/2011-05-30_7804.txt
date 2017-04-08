@@ -1,0 +1,13 @@
+
+Grupo Eñe de Comunicación busca un maquetador-programador a tiempo completo para incorporarse a su oficina de Madrid.
+Requerimos experiencia de 2 de años en un puesto similar.
+Requisitos técnicos:
+Conocimientos avanzados de HTML, CSS y estándares web.
+Conocimientos avanzados de un Framework de Javascript (jQuery, mootools, dojo,...) 
+Programación PHP y MySQL.
+Conocimientos medios de Flash (animación y ActionScript 2).
+Se valorará:
+Creación de temas y gestión de contenidos en WordPress.
+Conocimientos de ActionScript 3.
+Conocimientos avanzados de HTML5.
+

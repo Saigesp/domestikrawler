@@ -1,0 +1,33 @@
+
+Buscamos:
+Buscamos un programador con experiencia en desarrollo de aplicaciones web en entorno Java J2EE.
+¿Qué tipo de aplicaciones? Usamos principalmente Spring Framework en todas las capas de la aplicación, dejando a Hibernate 3 el mapeo y el acceso a la base de datos. También disponemos de almacemaniento NoSQL para búsquedas rápidas y funcionalidades AJAX, usando Apache Lucene para almacenar la información.
+Trabajamos siguiendo la filosofía ágil de desarrollo de aplicaciones, lo más cercano a SCRUM que las condiciones nos permiten. El sprint tipo dura tres semanas, dos de desarrollo y una de pruebas en preproducción, usamos Hudson como servidor de Integración Continua y Maven para la gestión de empaquetados y releases, y por supuesto tratamos de tener la máxima cobertura posible en test unitarios para todas las capas de la aplicación.
+Esta es a grandes rasgos nuestra metodología de trabajo, si eres uno de los nuestros no dudes en apuntarte en la oferta.
+Ofrecemos:
+- Incorporación a la plantilla de desarrollo formada por 6 programadores y 1 analista funcional
+- Entorno de trabajo donde destaca el interés por las nuevas tecnologías y metodologías de desarrollo
+- Formación continua
+- Remuneración según experiencia
+Requerimos:
+- Frameworks de Desarrollo: Spring Framework, Hibernate 3, Apache Lucene.
+- Herramientas de Testing: Junit, DbUnit, Selenium
+- Programación Front: JQuery, AJAX, CSS
+- Servidores de Aplicaciones: Tomcat, Resin o Jboss
+- Integración Continua: Hudson, Maven2
+- Base de Datos: MySQL
+- Sistemas Operativos: Linux usuario avanzado
+Deseamos:
+- Más de tres años de experiencia en desarrollo de aplicaciones web entorno J2EE
+- Experiencia demostrada en encontrar soluciones de arquitectura fiables para nuevos requisitos
+- Facilidad en el trato con cliente, toma de requisitos y análisis de los desarrollos
+- Experiencia en desarrollo con metodologías ágiles
+Salario:
+30.000-35.000 €
+Experiencia:
+3 a 5 años
+Idiomas:
+Inglés
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa

@@ -1,0 +1,25 @@
+
+Somos una consultora tecnológica en plena expansión, con proyección internacional, líderes en innovación y aplicación de nuevas tecnologías al desarrollo del capital humano. 
+Nuestros clientes, grandes empresas de todos los sectores (entre las que se encuentran más del 50% de las empresas del IBEX 35) apuestan por nosotros en el desarrollo de proyectos de última generación, implementando soluciones tecnológicas innovadoras en gestión del conocimiento, formación y entrenamiento, desarrollo del talento, productividad y desempeño e innovación: plataformas de gestión y evaluación, comunidades en red, herramientas colaborativas, simuladores virtuales, aplicaciones web 2.0, juegos en red, ... tecnología de última de generación aplicada al mundo de las empresas. 
+Buscamos un programador/a de aplicaciones WEB, aplicaciones RIA Flex y programación multimedia con Flash.
+Posibilidad de desarrollo para tecnología móvil (iPhone, iPad, Android...)
+FUNCIONES: 
+- Desarrollo e implementación de módulos para aplicaciones WEB, tanto de parte de Front, como la de Back (aunque más orientado a Front).
+- Desarrollo e implementación de interactivos, juegos formativos, sistemas multimedia para formación.
+- Integración en plataformas LMS.
+Requisitos:
+Ingeniería informática.
+Conocimientos específicos en : 
+-Programación orientada a objetos.
+-Bases de datos.
+-Programación WEB.
+REQUISITOS VALORABLES: 
+Flash
+Action Script
+flex
+PHP
+MySQL
+AIR
+Desarrollos para móviles.
+
+ 

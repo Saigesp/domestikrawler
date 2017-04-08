@@ -1,0 +1,32 @@
+
+International company based in California is currently seeking a Web Developer who can do hands-on coding and production juggling multiple projects in the fast-paced, in-house creative department in Madrid.
+Job Responsibilities:
+- Translate visual mock-ups and specifications into fully functional web pages
+- Hand-code cross-browser layouts utilizing JavaScript, XHTML/HTML5 and CSS
+- Use jQuery library and native JavaScript to enhance user experience through web page interaction
+- Use some basic JavaScript and PHP with guidance/support for templating markups
+- Provide product managers and visual designers input for improving user experience
+- Provide web page architecture guidance to product managers and visual designers for SEO purposes
+- Provide support for the integration of front-end and the back-end code
+- Stay up-to-date on the most recent web trends and technologies to foster innovation
+Requirements:
+- Knowledge of cross-browser development techniques and browser degradation strategies.
+- Be able to hand-code HTML and CSS
+- Expert knowledge in JavaScript, HTML,CSS and/or jQuery Framework.
+- Excellent communication skills and attention to details.
+- Ability to multi-task and complete deadlines when requested
+- Ability to thrive under pressure and deliver high-quality work against deadlines.
+- Able to work effectively alone and as part of a team.
+- Bilingual (English/Spanish)
+Desired Skills:
+- Experience with AJAX
+- Working knowledge of PHP or other back-end languages.
+- Working knowledge of Photoshop CS5
+- 3 to 5 years of professional web development experience.
+- BS/BA degree in relevant field a plus but not required.
+Job Submission Requirements:
+- Resume
+- Salary history (or expected salary)
+- Cover letter – tell us why you offer something unique to this job position
+- Portfolio links
+This is a full-time opportunity. We offer a competitive compensation and benefits package in a casual, fun and creative work environment.  Madrid - local candidates only.	

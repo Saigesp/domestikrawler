@@ -1,0 +1,10 @@
+
+En Teaser *BTL (www.teaser.es) estamos buscando programador para incorporación inmediata.
+Buscamos gente con entusiasmo, orientada al trabajo en equipo y con iniciativa en la búsqueda de soluciones con experiencia en el análisis y desarrollo de aplicaciones Internet. 
+Requisitos:
+Tecnología ASP, ASP.NET y en programación PHP 
+SQL Server y MYSQL 
+Html y CSS2 
+Flash y Action Script 
+Ajax, Usabilidad, Accesibilidad, Estándares, Xml. 
+Photoshop

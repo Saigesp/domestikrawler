@@ -1,0 +1,19 @@
+
+El Grupo Mercantis necesita incorporar a su equipo de trabajo un programador Senior de forma indefinida.
+Requisitos Mínimos:
+• 3 años de Experiencia en desarrollo de aplicaciones en entorno LAMP (Linux, Apache, MySql y PHP)
+• Herramientas de Análisis a nivel de programación y BBDD.
+• Verificación de funcionalidades (test de pruebas).
+• Experiencia en POO.
+• Conocimiento de las siguientes tecnologías: HTML, CSS, XML, XLS, JAVASCRIPT, AJAX
+• Interés en “Filosofía” WEB 2.0
+• Metodología de Programación en 3 capas en PHP.
+• Experiencia en algún FrameWork de desarrollo PHP.
+Otros Requisitos:
+• Conocimientos en otros lenguajes de programación: JAVA, C++, PERL.
+• Nivel usuario: Linux, Unix.
+• Servidor de Aplicaciones Web: Apache, Tomcat.
+No interesados en outsourcing.
+Jornada completa
+Horario de trabajo Flexible
+Contrato indefinido

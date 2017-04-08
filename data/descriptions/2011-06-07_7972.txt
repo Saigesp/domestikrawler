@@ -1,0 +1,11 @@
+
+Buscamos un analista programador con experiencia demostrable de mínimo 3 años desarrollando aplicaciones web en PHP / MySQL.
+Se encargará de realizar la planificación, análisis/ diseño y programación de aplicaciones web.
+- Maquetación y programación de websites en colaboración con el equipo de diseño.
+- Análisis y diseño de bases de datos SQL y MySQL
+- Desarrollo de websites sobre sistemas de gestión de contenidos y de comunidades 2.0 (p. ej. Wordpress, Drupal, Joomla, etc.).
+- Maquetación con CSS
+Se valorará:
+- Creatividad (Photoshop, etc.) Symfony u otros frameworks
+- Administración Linux
+Interesado/as inscribirse en la oferta en Quiero empleo: http://www.quieroempleo.com/ofertas/Analista-Programador-_-Disenador-Web-8615.aspx

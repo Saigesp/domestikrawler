@@ -1,0 +1,33 @@
+
+Gameloft is a leading international publisher and developer of video games for mobile phones, smart phones and downloadable games for consoles. Established in 1999, it has emerged as one of the top innovators in its field and is recognized by its peers and its clients for the quality of its games.
+Following its strategy of constantly delivering top games to players worldwide, Gameloft is now opening a new creation studio in Madrid, Spain. 
+In order to create the successes of tomorrow, Gameloft Madrid is hiring: 
+               C++ DEVELOPPER / iPhone &amp; iPad
+Job Description &amp; Environment:
+As a member of our engineering team, assist in the full cycle development of video games for iPhone/iPad from start to finish. 
+Daily responsibilities include overseeing development and code debugging, and integrating graphics, sound and network components.
+Minimum requirements: 
+-	2-3 years of professional programming experience for Senior positions(strong knowledge of C or C++).
+-	Experience in OpenGL/DirectX. 
+-	Knowledgeable in 3D rendering algorithms (Strong 3D math skills.
+-	Experience in 3D graphics engine programming in games.
+-	Degree in Computer Science or Computer Engineering, or equivalent professional experience.
+-	Motivated, ambitious, able to work independently or as part of a team.
+-	Good written and verbal communication skills.
+-	Personal interest in video games and a solid understanding of its culture.
+-	Fluent English. 
+Extras: 
+-	programming experience on the iPhone, Xbox, PS3™, PSP® and Nintendo DS 
+Benefits:
+-	Opportunity to work in a newly created studio and learn in a professional environment with people who have a passion for creating video games;
+-	Open working climate with young, dynamic teams from around the world;
+-	Salary based upon experience and merit;
+-	Promotion possibilities: Lead Programmer, Senior Programmer 
+-	Permanent contract, full-time job and additional merit pay system;
+-	W are offering relocation support for candidates willing to move to Madrid.
+About Gameloft Madrid:
+-	The Madrid studio is being opened to create ambitious and cool video games of any genre on iPhone/iPad and mobile phones. Those games will be distributed in more than 150 countries.
+-	To join us in this adventure, we are looking for talented and motivated people willing to participate to the creation of tomorrow’s successes! 
+-	Over 50 Gameloft titles in catalogue have already sold over one million copies.
+Interested applicants should send their CV (and samples or demo reel)  to recruitment.madrid@gameloft.com. Reference: “PROG C++”
+

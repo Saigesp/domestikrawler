@@ -1,0 +1,3 @@
+
+Requisitos ideales:
+html, css, Javascript, jquery y con ganas de empezar html5  y maquetación para dispositivos.

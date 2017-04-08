@@ -1,0 +1,13 @@
+
+
+¿QUÉ REQUISITOS DEBES CUMPLIR?
+- Experiencia demostrable en Programación Web en PHP y MySql.
+- Conocimiento avanzados de JQuery, aunque se valorará la experiencia con otros frameworks.
+- Experiencia demostrable en maquetación XHTML/CSS válido y limpio.
+- Por supuesto, saber recortar las imágenes del diseño de Photoshop (archivo PSD).
+- Ser capaz de solucionar problemas de compatibilidad con exploradores (Sobre todo de nuestro querido Internet Explorer).
+TAMBIEN SE VALORARÁ…
+- Si has trasteado con tiendas virtuales bajo osCommerce sin duda eres la persona que buscamos.
+- Si trabajas con Frameworks como Yii, Symfony, Codeigniter… para las programaciones a medida.
+- Si a la vez que maquetas vás pensando y optimizando la web para posicionamiento (SEO ON PAGE).
+- Si estás ya metido con HTML5, CSS3 y microformatos...

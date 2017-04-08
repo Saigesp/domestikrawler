@@ -1,0 +1,42 @@
+
+With a strong technical/game development background, the Technical Director is responsible for the entire studio programming department. 
+In close relationship with studio manager, producers and worldwide technical director, the technical director ensures projects are delivered on time while targeting the best experience and quality.
+As part of an already established team (Game Designers, Game Developers, Graphic Designers, Producer), your mission will be to drive and participate to the development of all our 3D and 2D projects on multiple platforms Ios/Android/Web.
+Responsibilities :
+-	Responsible for all technology/architecture and processes choices. 
+-	Supervise/participate to all projects from staffing, technology/tools choices, risks evaluation, dependencies with other projects to ensure the best quality is achieved.
+-	Recommends solutions and approves plans and roadmaps.
+-	Ensure code quality , code reviewing. 
+-	Drives staff capabilities &amp;amp; career path : performance/expertise tracking, training , recruiting &amp;amp; succession planning in coordination with HR.
+-	Work in relation with other worldwide studios technical directors to improve the company programming standards and engines.
+Requirements:
+Technical Profile:
+-	Degree in Computer Engineering/Science or equivalent professional experience
+-	Expertise in C/C++ , OOP Design , programming practices
+-	Working knowledge on working knowledge on game development entire pipeline
+-	Strong knowledge in several domains (Rendering , Animation , Multiplayer, Sound, Tools, AI , Scripting , Optimisation) 
+-	Able to understand any task performed by a developer
+-	Problem solving skills : identifying issues and promoting solutions and optimizations
+Nice to have:
+-	6 years of technical experience in game development / several game titles already shipped 
+-	Experience with middlewares ( UDK /Unity )
+-	Experience with scripting/interpreted language ( Python / Lua /C# / Java ) 
+-	Experience with graphics tools ( 3dsMax, Photoshop)
+-	Experience in social gaming 
+Management:
+-	You are autonomous, dynamic, and you love working in a team. 
+-	Your interpersonal and organizational skills allow you to lead a project to completion within given time constraints. 
+-	You have a solid understanding of the English language in order to follow up on projects handled by English-speaking teams.
+We offer:
+-	An exceptional, dynamic, demanding and motivating work environment in a rapidly expanding company. 
+-	An international position in daily contact with numerous affiliates in countries on every continent in the world. 
+-	A company that knows how to develop its potential executives in Spain and elsewhere. 
+-	The position is located in Madrid.
+-	Permanent contract, full-time position.
+-	We are offering relocation support.
+About Gameloft:
+-	The Madrid studio has been opened to create ambitious and cool video games of any genre on iPhone/iPad and mobile phones. Those games will be distributed in more than 150 countries.
+-	To join us in this adventure, we are looking for talented and motivated people willing to participate to the creation of tomorrow’s successes! 
+- Over 50 Gameloft titles in catalogue have already sold over one million copies
+Contact:
+Please submit your application with the reference “TECHNICAL DIRECTOR” by email to the following address: recruitment.madrid@gameloft.com

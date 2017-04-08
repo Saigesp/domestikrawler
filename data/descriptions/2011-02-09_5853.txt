@@ -1,0 +1,13 @@
+
+Buscamos a un maquetador web para desarrollar websites con Drupal. El candidato deberá ser una persona proactiva, acostumbrada a trabajar por objetivos y muy organizada, con conocimientos avanzados en usabilidad y maquetación web. Un nivel alto de inglés es imprescindible para este puesto. 
+Requisitos:
+-	Conocimiento a nivel experto de XHTML y CSS, acostumbrado a trabajar sin tablas y cumpliendo estándares W3C.
+-	Conocimientos básicos de php.
+-	Conocimientos de Javascript y Jquery.
+-	Nivel avanzado en uso de PhotoShop u otro programa de edición  de imágenes.
+-	Se valorará experiencia en la construcción de webs con Drupal (no son necesarios conocimientos de programación) y conocimiento de Views y CCK.
+-	Se valorará experiencia con archivos tpl de Drupal y template.php.
+-	Experiencia en el desarrollo de soluciones web optimizadas para SEO y en
+el desarrollo de campañas gráficas a partir de un perfil gráfico (briefing) predefinido.
+-	Se valorarán conocimientos de Flash/Silverlight.
+-	Nivel avanzado de inglés.

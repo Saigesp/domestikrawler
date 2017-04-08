@@ -1,0 +1,4 @@
+
+2beMAG es una revista interactiva de contenidos de arte, moda, videoarte... 
+Se necesita desarrollador para dispositivos Apple (iPhone, iPad, iPod Touch y Mac OSX) para adaptar nuestras revistas que actualmente funcionan en FLASH.
+Optativo no presencial aunque se requiere tener disponibilidad para hacer reuniones periódicas con el equipo de trabajo.

@@ -1,0 +1,18 @@
+
+¿Quieres trabajar en un ambiente muy agradable y joven, con algunos de los mejores profesionales en entorno LAMP de Barcelona?
+Te enriquecerás del know-how de grandes profesionales de diferentes disciplinas, y por supuesto queremos que tú también aportes tu granito de arena.
+Somos una empresa joven, apasionada por nuestro producto: ocio urbano y vacacional a los mejores precios.
+NOS GUSTARÍA:
+Que tuvieras un nivel solido en programación (algoritmia, PHP5) y bases de datos, y que te supieras manejar bien en Javasript (Yahoo YUI, jquery), webservices, xhtml, css y ajaz. Idealmente tendrías que haber trabajado previamente en equipo (control de versiones, ticketing de bugs, documentación del código, etc).
+Buscamos una presona responsable y detallista con el resultado de su trabajo, proactiva, comunicativa y con muchas ganas de aprender.
+Si esto te describe, Ven corriendo!! En caso contrario, no te preocupes, valoramos la experiencia que tengas.
+Requisitos deseados: 
+- Conocimientos en las siguientes tecnologías relacionadas: AdoDB, Smarty, PHP5, XHTML, XSD, UML, simpleXML, MultiCURL, MVC Design Pattern, etc.
+- Experiencia en proyectos web de gran envergadura (millones de páginas vistas/mes), preferiblemente proyectos de comercio electrónico 
+- Técnicas de optimización de código PHP y consultas SQL
+- Conocimientos en otros lenguajes de script (Bash, C-Shel, Perl, Python)
+- Conocimientos en otros lenguajes orientados a objetos (java, C++)
+- Conocimientos a nivel de administrador UNIX (Linux, FreeBSD, Solaris)
+- Conocimientos en administración de BBDD (Mysql, Oracle).
+- Inglés nivel medio 
+

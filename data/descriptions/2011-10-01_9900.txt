@@ -1,0 +1,14 @@
+
+Somos una agencia de comunicación en Barcelona con un equipo joven y multidisciplinar.
+Necesitamos incorporar un programador con experiencia en objective-c con 
+conocimientos en entorno web. 
+Requisitos:
+- Experiencia en desarrollo de aplicaciones nativas para iOS.
+- Conocimientos sólidos css,javascript,PHP5,MySQL
+- Actionscript 3 en Flash o Flex.
+Se valorará muy positivamente:
+- Zendframework
+- Dominio de jQuery
+- Conocimientos de phone-gap.
+- control de versiones en GIT
+Experiencia mínima de 2 años

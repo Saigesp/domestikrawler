@@ -1,0 +1,32 @@
+
+
+GAMELOFT, presente en 20 países en Europa, Norte América y Asia (4,000 personas), una compañía de creación y distribución de videojuegos líder internacional, está buscando para su estudio de creación de Barcelona un/a:
+Programador/a Multiplayer
+Misión:
+Como miembro del equipo de desarrollo deberás involucrarte en el ciclo de creación de los videojuegos de principio a fin del proceso, buscando en todo momento soluciones creativas.
+Las responsabilidades principales incluyen el diseño e implementación de todo lo relacionado con la parte del servidor para juegos multijugador online, así como ofrecer al resto del equipo el soporte adecuado para que el funcionamiento y la interacción con el cliente sea óptima (en cuanto a funcionalidad, debug, rendimiento y uso de memoria) conforme a las restricciones existentes.
+Requisitos mínimos: 
+-Alta motivación y pasión por los videojuegos.
+-Facilidad para trabajar en grupo e iniciativa.
+-Alta creatividad y capacidad de análisis
+-Imprescindible Conocimientos profundos de C++
+-Titulación universitaria
+-Experiencia programando en aplicaciones cliente-servidor
+-Experiencia programando en redes
+-Conocimientos de Linux
+Valorable:
+-Se valorará experiencia en Unity 
+-Muy valorable experiencia desarrollando videojuegos multiplayer
+-Buenas habilidades comunicativas
+Se ofrece:
+Puesto de trabajo en Barcelona ciudad
+La oportunidad de trabajar y aprender en un entorno profesional, con gente apasionada por crear grandes juegos. Ofrecemos un clima de trabajo que
+ofrece apoyo, con un equipo joven y dinámico y con un estilo de
+comunicación abierta. 
+-Salario motivante, contrato indefinido a tiempo completo y un sistema de pago por méritos
+Gameloft es una compañía líder internacional en publicación y desarrollo de videojuegos descargables. Desde hace 10 años, Gameloft se ha establecido como una de las principales innovadoras en su campo. La compañía crea juegos para teléfonos móviles, smartphones, iPhone, iPod touch e  IPAD. Los juegos de Gameloft también están disponibles para los jugadores en WiiWare ®, DSiWare, Microsoft ® Xbox LIVE ® Arcade y PlayStation ® Network.
+Las asociaciones con  licencias líderes como UNO ®, Ferrari, Shrek ®, ™ CSI, Spider-Man ® Iron Man ®, y Brothers In Arms ® permiten a Gameloft formar relaciones sólidas con marcas internacionales. Además de las asociaciones, Gameloft posee y dirige títulos como Real Football, Asfalto y Brain Challenge ®.
+Gameloft está presente en todos los continentes con sus propios estudios de producción, que dan trabajo a  más de 3.500 desarrolladores, y distribuye sus juegos en más de 100 países. Gameloft cotiza en Euronext París (ISIN: FR0000079600, Bloomberg: GFT FP, Reuters: GLFT.PA)
+Más información en http://www.gameloft.es/
+
+

@@ -1,0 +1,6 @@
+
+Buscamos un programador PHP para trabajar con frameworks CodeIgniter o similares basados en MVC, AMF, AJAX y JS frameworks (jQuery, Mootools, Extjs..).
+Buscamos a una persona con claro un enfoque hacia Internet y con gran motivación para formar parte de una startup.
+Además del sueldo se ofrece participación en los beneficios y bonos por resultados en los distintos proyectos.
+Se valorarán también muy positivamente conocimientos sobre la API de Google Maps e inglés fluido.
+Participaría en proyectos como Sym.posium.com y Whilewairport.com

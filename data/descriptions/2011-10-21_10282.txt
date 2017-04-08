@@ -1,0 +1,4 @@
+
+Necesidad de cubrir 2 puestos de programadores expertos en symfony.
+Conocimientos de symfony, php y mysql imprescindibles.
+Deseable git, svn.

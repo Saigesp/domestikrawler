@@ -1,0 +1,4 @@
+
+Agencia internacional de marketing digital y publicidad busca maquetador html con más de un año de experiencia para nuestras oficinas de Madrid para el periodo 15 de junio al 15 de julio.
+Buscamos una persona capaz de desarrollar sitios web basados en XHTML, HTML y CSS2/3 cuidando los estándares de accesibilidad (W3C, WAI) y usabilidad y la interpretación del código en cada una de las plataformas y navegadores además de los últimos avances en SEO.
+Se valorarán conocimientos de backend (PHP, MySQL, Apache, CMSs...) el uso de técnicas Ajax y el uso de librerías Javascript (JQuery).

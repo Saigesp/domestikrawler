@@ -1,0 +1,15 @@
+
+Empresa líder en la Comunidad Valenciana busca para Alicante programador LAMP con experiencia para incorporación inmediata.
+Requisitos:
+- Programador Back End y Front End con + 3 años de experiencia
+- PHP/Mysql/Javascript
+-  Actionscript 3.0
+- Maquetación HTML+CSS
+- Experiencia programando aplicaciones para Facebook
+- Conocimientos de CMSs como Wordpress, Joomla o Drupal
+Valorable:
+- Experiencia programando juegos
+-  Conocimientos de PostgreSQL
+- Administración de servidores
+Horario: 8-2 y de 3-5. Viernes de 8-3
+

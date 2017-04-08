@@ -1,0 +1,23 @@
+
+Blueknow, empresa líder en el sector de las recomendaciones personalizadas para comercios electrónicos, precisa incorporar un Ingeniero en Informática o tecnólogo con experiencia demostrable en PHP.
+Tareas a desempeñar
+Desarrollo de plugins para:
+Plataformas de comercio electrónico.
+Plataformas de email marketing.
+Requisitos
+Experiencia en el desarrollo de aplicaciones con:
+PHP5.
+Frameworks PHP: Zend Framework o CakePHP.
+HTML, CSS y JavaScript.
+Bases de datos relacionales como MySQL 5.x.
+Se valorará positivamente que conozca o haya trabajado en:
+Ruby on Rails.
+Maven for PHP.
+Testeo unitario: PHPUnit o similares.
+Plataformas de comercio electrónico.
+Idiomas
+Español e inglés fluidos.
+Ofrecemos
+Contrato indefinido.
+Trabajar con un equipo joven, dinámico y con una amplia experiencia en tecnología.
+Plan de formación profesional.

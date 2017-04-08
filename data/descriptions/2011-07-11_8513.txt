@@ -1,0 +1,3 @@
+
+Profesor clases particulares (Alto Nivel, XML...):
+Creación de catálogos interactivos desde excel (xml), automatización, crear catálogo de productos desde archivo, base de datos (excel)..., fichas...

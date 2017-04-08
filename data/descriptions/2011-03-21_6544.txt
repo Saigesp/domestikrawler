@@ -1,0 +1,11 @@
+
+Responsabilidades
+Programación de la evolución de la plataforma en Prestashop.
+Identificar tendencias, oportunidades y riesgos relacionados con la tecnología
+Evaluar las plataformas tecnológicas idóneas para el negocio. Implementar las mejores practicas.
+Establecer los procedimientos de desarrollo y seguridad
+Monitorizar y optimizar los requerimientos funcionales de hardware.
+Mejorar la usabilidad web.
+Desarrollar aplicaciones para el des
+Dirigir los proyectos de integración de la plataforma (SAP, marketing online, etc.)
+

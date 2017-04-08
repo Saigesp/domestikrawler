@@ -1,0 +1,11 @@
+
+Para un proyecto puntual (y puede ser el inicio de una estrecha colaboración), necesitamos un diseñador senior, con amplia experiencia en maquetación y desarrollo de páginas HTML + CSS `JavaScript de forma accesible, (siguiendo estándares europeos y americanos, 508 compliant). 
+Requisitos: 
+Alto  nivel de HTML4 y conocimiento de estándares
+Conocimientos de Accesibilidad web
+Capacidad de trabajo en equipo
+Conocimiento avanzado del Framework YUI
+Control de tiempos y planificación de dealines
+Deseable: 
+Muy buen nivel de inglés
+Capacidad de crear copys cuando sea necesario

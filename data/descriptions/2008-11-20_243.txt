@@ -1,0 +1,7 @@
+
+Precisamos incorporar en Zaragoza un analista programador en entorno web que colabore en el desarrollo de nuestros sitios web
+( www.elperiodicodearagon .com, www.redaragon .com, www.diarioequipo .com, www.enciclopedia-aragonesa .com, www.periodicodelestudiante.net), así como en los desarrollos que hacemos para nuestros clientes.
+Buscamos una persona con un perfil claramente orientado hacia el desarrollo web, a la que le apasione Internet y que siga con interes las ultimas novedades: blogs, web 2.0, AJAX, etc ..
+- Experiencia en toma de requisitos, análisis y desarrollo en plataforma PHP/MYSQL y plataforma Microsoft (ASP, SQL Server, NET/C#)
+- Conocimiento de HTML, XHTML, CSS y Javascript.
+Ofrecemos contrato indefinido, un sueldo de entre 18.000-21.000 euros brutos/año, jornada completa (excepto viernes solo mañanas) y un buen ambiente de trabajo.

@@ -1,0 +1,12 @@
+
+Buscamos un analista-programador con un mínimo de 3 años de experiencia desarrollando software en entornos LAMP.
+Requisitos:
+Titulación Académica: Informática de gestión / Ingeniería informática
+Años de experiencia: 3 años
+Detalle de experiencia requerida: Desarrollo de proyectos PHP
+Conocimientos requeridos:
+Base de Datos: MySQL, PostgreSQL
+Lenguajes: PHP, XML, XSL, WebServices, JavaScript
+Sistemas Operativos: Linux, Windows
+Otras herramientas: Frameworks PHP (CodeIgniter, Zend Framework, ...), Frameworks JavaScript (jQuery, Mootools)
+Inglés: Medio

@@ -1,0 +1,19 @@
+
+En SocialCo buscamos un diseñador y desarrollador front end freelance.
+Tareas:
+-Se encargará del diseño de las páginas webs de nuestros clientes y de la maquetación de las mismas con estándares web y respentando la usabilidad y accesibilidad del sitio. 
+-También se encargará de la integración de las plantillas con un CMS propio (http://www.ecliente.com/productos/gestorweb/)
+Requisitos:
+-	Experto en maquetación con estándares web CSS / XHTML /HTML5 y programación javascript (Jquery es nuestro Framework favorito).
+-	Capacidad de hacer un diseño web centrado en el usuario, primando la usabilidad del sitio. (Dominio de PhotoShop o Fireworks)
+-	Creación de themes de Wordpress personalizados. 
+-	Conocimientos básicos de PHP, Rails, Smarty o cualquier otro lenguaje de plantillas para poder integrar las maquetas en nuestro CMS.
+-   Disponibilidad para trabajar presencialmente al menos un día a la semana en nuestras oficinas de Móstoles
+Se valorará:
+-	Conocimientos de Drupal
+-	Elaboración de Workflows y prototipado de interfaces (UX)
+-	Dominio de Illustrator y de creación de logomarcas y otras piezas gráficas.
+Indispensable:
+
+Solo se valorarán solicitudes que adjunten muestras de trabajos (portfolio online o enlaces a sitios elaborados) y que realicen la prueba de selección que se describe a continuación.
+

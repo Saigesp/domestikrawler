@@ -1,0 +1,10 @@
+
+Se ofrece la posibilidad de colaborar con un equipo joven y dinámico con amplios conocimientos técnicos para colaborar en el diseño y creación de una aplicación de última tecnología.
+REQUISITOS
+Ingeniero en Informática - Ingeniero Técnico en Informática de Sistemas- Técnico en Informática de Sistemas.
+También valdrían candidatos de Formación Profesional en materias similares si su experiencia profesional es adecuada y demostrable.
+Experto en FLEX y AS3 con experiencia demostrable trabajando en este tipo de proyectos.
+Buscamos un programador freelance para desarrollar una aplicación Web de tipo CRM (herramienta interna para la gestión de usuarios, tareas...).
+Se facilitará toda la especificación de requisitos para el desarrollo de la interfaz de usuario de dicha aplicación.
+Se debe entregar una aplicación con al menos 3 pantallas completas con todas sus transacciones.
+No se requiere trabajo presencial.

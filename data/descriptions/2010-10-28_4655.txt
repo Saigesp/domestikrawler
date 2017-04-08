@@ -1,0 +1,21 @@
+
+Just Landed http://www.justlanded.com is creating ‘the’ online destination for people moving country and living abroad. 
+Today we have 2 million visits/month. There are more than 200 million people living abroad worldwide, so we still have a lot to do. We’re looking for brilliant people who want to grow with our project and build a true market leader.
+•	You will be working on a high traffic site with fast, iterative development cycles
+•	You will have the opportunity to design, build and get new stuff in front of people can use it seconds after your code hits production
+•	As a relatively small team, you will get exposure to engineering decision-making, responsibility for making things work, recognition for success and wide variety of different projects
+If you are looking for a challenging environment where you can develop professionally and build technology which people use and enjoy, we want to talk to you.
+What are we working with?
+Ubuntu, MySQL, Apache, Passenger, Ruby on Rails, Memcached, Squid, Capitstrano, Hudson, Cucumber, Rspec, Selenium, Redmine, Google App Engine, Amazon S3, Python, Munin, Nagios and a bunch of other stuff. 
+Who we are looking for?
+We have several positions so we are recruiting from senior/experienced tech leads down to high-potential individuals with little experience. What all candidates will have in common is a wide general knowledge of computing and Internet, in addition to a strong appreciation of the importance of the user experience. You will be a self-starter who is capable of understanding problems, mapping out the best route to a solution, reacting when things go wrong and willing to take responsibility to successfully conclude each project or task. You will be able to learn quickly, communicate well and co-operate effectively in a team. 
+I'm a Frontend developer - does this fit?
+Besides our programming positions, we also have an open position for a Web Designer / Frontend Developer. This position does not require all of the programming skills below, but it does require a high level of capability with HTML, JavaScript, CSS and Graphics programmes (Photoshop, Illustrator &amp; Co) and extensive UI experience on complex web applications (not broschureware).
+Do I need to know Ruby on Rails?
+We are developing on RoR, so actual practical experience with Rails is something which will prioritise candidates. We will consider candidates with a high level of competence in another high-level language. You should have a broad knowledge of programming concepts (classes, inheritance, coding practices, etc) and be capable of producing high-quality functional, maintainable and logical code. 
+What should you already know? 
+You are not expected to be an expert in all of the following, but should have basic competencies: on a Linux command line, Apache/Application server configuration, SQL and databases, HTML, CSS and JavaScript, in addition to the nuts and bolts of the processes of the Internet, such as HTTP requests, headers, etc. You should be able to defend yourself against different browsers and be able to make a good attempt at conceptualising how UI and user workflow should work for individual processes. 
+Which language do we speak?
+10 nationalities in the office mean the common language is English. You should be able to write and speak to level where you can communicate clearly, but high fluency is not a requirement. Knowledge of Spanish is not a requirement.
+Where are we based? 
+Just Landed is based in Madrid. Our office has a garden with barbecue. We have a flat hierarchy in the team and the atmosphere is startup, not big company. What you do and earn initially will be based on the first evaluation of ability. Future opportunities and earnings will be directly linked to your performance, effectiveness and personal contribution.

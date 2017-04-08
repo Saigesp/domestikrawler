@@ -1,0 +1,6 @@
+
+Se requiere programador WEB con experiencia demostrable para incorporarse a equipo de desarrollo. Buscamos persona responsable y detallista con el resultado de su trabajo, proactiva, comunicativa, con ganas de aprender y desarrollar proyectos de alto nivel.
+Nivel sólido de programación PHP, Python y Java
+Java: J2SE (JDK 1.4/1.5), JSP, Servlets, EJB
+Base de datos: MySQL, PostgreSQL, Oracle
+XML, XSL

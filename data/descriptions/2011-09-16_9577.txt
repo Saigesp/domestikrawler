@@ -1,0 +1,29 @@
+
+iPlan es un Laboratorio de innovación turística que diseña, desarrolla y comercializa servicios de consultoría y soluciones tecnológicas para la distribución directa de productos entre usuarios y principales.
+iPlan está buscando verdadero talento para su nuevo, radical y divertivo proyecto: Hall Street ¿Te atreves?
+Actualmente nos encontramos en la necesidad de incorporar un programador para el departamento de front, cuyas funciones principales serán:
+Analizar y implantar nuevas funcionalidades.
+Mantener la plataforma actual.
+Optimización de consultas MySQL.
+Gestionar los riesgos tecnológicos del proyecto.
+
+Para ello te ofrecemos:
+Integración en un equipo de alto rendimiento, cohesionado y en fase de crecimiento
+Participar en un proyecto de desarrollo de tecnología avanzado 
+Disfrutar de un entorno de trabajo con un amplio know-how tecnológico
+Un trabajo creativo con un amplio margen de libertad de acción
+Ocupar una posición con un peso muy importante en la organización y en la construcción de la nueva plataforma 
+
+Buscamos personas con gran capacidad de abstracción y tolerancia a la ambigüedad, responsables y que muestren una actitud positiva frente a nuevos retos. Queremos personas creativas, curiosas y con muchas ganas de aprender.
+Estudios mínimos: Ingeniero Técnico
+Experiencia mínima: 2 años
+Requisitos mínimos:
+Experiencia desarrollando proyectos LAMP.
+Experiencia en Orientación a objetos y patrón MVC.
+Experiencia en Frameworks de desarrollo PHP como Symfony, Zend o CakePHP.
+Capacidad analítica y trabajo en equipo
+Requisitos deseados:
+1 año de experiencia en framework Symfony
+Conocimientos desarrollo bajo metodología SCRUM.
+Experiencia en frameworks Javascript, idealmente jQuery.
+Disponibilidad de incorporación inmediata.

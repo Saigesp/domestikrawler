@@ -1,0 +1,11 @@
+
+Estamos buscando un programador freelance PHP/MYSQL para realizar webs de contenido dinámico.
+Imprescindible:
+- Experiencia
+- Compromiso
+Se tendrán en cuenta conocimientos en:
+- JavaScript
+- Ajax
+- ActionStript 
+- CMS (Drupal, Joomla...)
+- Experiencia en Frameworks.

@@ -1,0 +1,18 @@
+
+ http://www.pulpolab.com busca contratar a un desarrollador web backend y/o frontend para trabajar desde nuestras oficinas 
+Nivel: intermedio o alto 
+Tecnologías (no hace falta saber de todo): 
+PHP, MySQL 
+Frameworks PHP 
+Configuración de servidores linux
+CMS Wordrpess 
+HTML, HTML5 
+CSS 
+Javascript 
+JQuery 
+Jquery Mobile 
+Frameworks para apps móviles con HTML 
+... 
+Se valorará tener buena base en programación (clases, algún lenguaje tipo C, JAVA, C++, ...) 
+Nivel de inglés: intermedio o superior
+Saludos

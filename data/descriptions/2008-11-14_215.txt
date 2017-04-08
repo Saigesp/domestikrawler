@@ -1,0 +1,9 @@
+
+Somos una red social en pleno proceso de evolución de look&amp;feel y arquitectura de información. 
+Buscamos un maquetador /diseñador web que colabore en contínuo con nosotros como freelance desde casa realizando las adaptaciones del nuevo look&amp;feel del site y maquetando todas las plantillas del mismo.
+Requisitos:
+- Conocimientos avanzados de Xhtml, CSS, Javascript y estándares web.
+- Conocimientos de criterios básicos de accesibilidad y usabilidad.
+- Capacidad para crear html semántico y compatible con los principales navegadores del mercado.
+- Dominio de herramientas de diseño y edición de imágenes (Fireworks, Photoshop, Ilustrator)
+- El proceso de selección incluirá un test de CSS que deberá realizarse en una hora.

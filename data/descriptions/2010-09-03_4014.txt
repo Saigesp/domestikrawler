@@ -1,0 +1,5 @@
+
+Buscamos un desarrollador web con perfil técnico para desarrollar, mantener y gestionar los contenidos web de nuestro portal. 
+Jornada completa. Incorporación inmediata.
+Conocimientos: entornos LAMP (Linux, Apache, MySQL y PHP), JavaScript/AJAX (especialmente jQuery) y maquetación con XHTML y CSS. Base de dato SQL Server.
+Se valorarán conocimientos en prestashop. 

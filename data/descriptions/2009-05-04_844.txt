@@ -1,0 +1,45 @@
+
+OBJETIVO:
+- Prestar y llevar a cabo acciones de desarrollo web.
+ÁMBITO GEOGRÁFICO
+- Madrid. Imprescindible residir en provincia del puesto     
+ORGANIGRAMA:
+- Dependencia directa del responsable de proyectos Web 
+FUNCIONES:
+-,Ejecutar y controlar el análisis, desarrollo, implementación y pruebas de web a través de aplicaciones. 
+-Programar, desarrollar, documentación, mantenimiento y actualización.
+- Configuración y maquetación XHTML, CSS
+- Elaborar y corregir programación HTML, PHP, MySQL. 
+- Instalar y/o supervisar la instalación de herramientas.
+- Realización de guías de apoyo usuarios.
+- Seguimiento e implementación de proyectos
+- Realización y gestión de informes web
+- Asesoría técnica a usuarios.
+- Cualquier otra requerida por el Dpto. de desarrollo web
+PERFIL COMPETENCIAL
+- Rigor y adaptabilidad: implicación en proyectos.
+- Persona proactiva y autodidacta. Capacidad de aprendizaje.
+- Espíritu de equipo, facilidad de trato e iniciativa. 
+- Buena comunicación oral y escrita.
+- Gran motivación  y vocación por desarrollar su actividad hacia lo social.
+- Capacidad de diagnóstico y de resolución de conflictos. 
+- Capacidad e iniciativa para buscar soluciones.
+CONOCIMIENTOS
+- Experto en Joomla gran experiencia en configuración  de componentes y extensiones. Creación, modificación y personalización de módulos, extensiones y plantillas.
+-Dominio de tecnologías CMS Joomla, Moodle y Wordpress.
+- Experiencia en PHP y MySQL para Joomla 1.5, Ajax y XML
+- Conocimientos de frameworks Javascript -- Mootools, Jquery
+ 
+FORMACIÓN REQUERIDA
+- Académica: ingeniero informático 
+-   O autodidacta con experiencia demostrable en el campo.
+- Idiomas: Inglés conocimientos base para el desarrollo de su trabajo.
+EXPERIENCIA
+- Experiencia previa de al menos un año en el trabajo y desarrollo de proyectos en desarrollo de aplicaciones en entorno LAMP.
+- Iniciativa personal. 
+-Se solicitará portfolio con los trabajos desarrollados.
+Puedes enviar el CV. al mail equipo@creatividad.org.es con la siguiente 
+Referencia: Técnico  web
+- Salario: 1037 euros brutos mensuales.
+- Jornada: 35 horas / Contrato inicial 3 meses / Incorporación Inmediata 
+- Horario continuo de 08:00 a 15:00.

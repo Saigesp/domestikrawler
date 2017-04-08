@@ -1,0 +1,10 @@
+
+Buscamos un programador web especializado en el desarrollo front de la web (Front-End Developer) para nuestro área de Web Development. Se responsabilizará de garantizar la calidad del código html,css y js de nuestras webs, así como la maquetación de nuestros newsletters y emails, y ofrecer soluciones técnicas para social media y/o de marketing.
+Formará parte de un equipo jóven y especializado en Front-End, y trabajará codo a codo con el equipo de diseño y IT (dept. técnico). Buscamos un candidato con los conocimientos técnicos necesarios para el perfil pero que además tenga interés en la usabilidad, accesibilidad, innovar con la web y los navegadores web.
+Requisitos Mínimos:
+    * Nivel muy alto de CSS y XHTML.
+    * Nivel medio-alto en Javascript.
+    * Desarrollo con código limpio y semántico.
+    * Proactividad y motivación por aprender.
+    * Trabajar en equipo.
+    * Gusto por el detalle.

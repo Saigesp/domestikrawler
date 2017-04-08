@@ -1,0 +1,11 @@
+
+Virati, la agencia de comunicación interactiva de Alisys Software requiere, para mantener y desarrollar la componente front-end de los servicios, productos y nuevos desarrollos de la empresa, un Desarrollador Front-End.
+Se requiere experiencia profesional contrastada de al menos 2 años en las siguientes áreas:
+- Maquetación con CSS empleando estándares web W3C
+- Desarrollo cliente XHTML, incluyendo conocimientos avanzados de una o varias de las librerías JS habituales (JQuery, mootools, dojo, YUI, prototype, SproutCore, etc...)
+- Desarrollo con ActionScript 2 y 3 sobre Flash y/o Flex
+Se valorará:
+- Experiencia trabajando con estándares de accesibilidad W3C WAI
+- Conocimientos de tecnologías y entornos de desarrollo para dispositivos móviles
+- Conocimientos HTML 5
+- Interés en tecnologías, métodos y bases teóricas del diseño e implementación de algoritmos para la interacción y visualización en tiempo real, tales como programación 3D, procesamiento de imagen, rutinas de IA, arquitecturas cliente-servidor, etc...

@@ -1,0 +1,25 @@
+
+Summary: 
+The Senior Interface Developer's role is to implement web-based graphical user interfaces to expand the functionality of our online product offering.
+Responsibilities:
+•	Participate in creative brainstorming
+•	Research user requirements through discussions with key stakeholders
+•	Produce prototypes to communicate user interactions and design ideas
+•	Validate designs with customers
+•	Work with Software Development team to ensure correct implementation of designs
+•	Maintain personal test environment (Apache with JSP and PHP)
+•	Apply user interaction principles, helping the end users meet their goals
+•	Maintain a good understanding of target audience and industry UI trends
+Requirements:
+•	4+ years experience working in a web design/product development environment
+•	Hands on production experience with Flash, Actionscript, HTML, CSS, JavaScript, JSP, XSL, XML, JSTL, and PHP
+•	Demonstrated ability to debug front end applications
+•	Strong understanding of the SDLC
+•	Basic understanding of design principles
+•	Good understanding of application servers (e.g., JBoss, Tomcat, etc.)
+•	Demonstrated knowledge of version control tools (e.g., CVS / SVN)
+•	Experience with image editing and tools such as Photoshop
+•	Strong attention to detail
+•	Ability to work both collaboratively and with limited supervision
+•	University degree in Computer Science or a related field
+

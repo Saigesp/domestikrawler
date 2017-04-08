@@ -1,0 +1,3 @@
+
+Buscamos un programador de Action Script 3, que pueda implementar un componente generador de PDFs (AlivePDF) desde una película flash dentro de un CD multimedia.
+Es bastante urgente.

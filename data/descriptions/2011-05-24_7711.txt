@@ -1,0 +1,19 @@
+
+Se encargará del control de calidad de nuestras aplicaciones, validando que cubren los requisitos establecidos, diseñando e implementando el plan de pruebas (incluye tanto verificación de funcionalidad, tests de regresión, detección de bugs, pruebas de carga, etc.) y gestionando las incidencias/problemas encontrados realizando el seguimiento de su finalización.
+Requisitos:
+
+ 2+ años realizando tests de aceptación, de carga, unitarios y de integración (JUnit, PHP Unit, HTMLUnit, JMeter, etc.)
+ Experiencia elaborando documentos funcionales
+
+ Atención al detalle, facilidad para elaborar informes, gestionar requerimientos/incidencias, etc.
+
+
+Se valorará:
+
+ Experiencia en el ámbito del comercio electrónico
+
+ Experiencia en el ámbito de las redes sociales
+
+ Experiencia con herramientas de integración continua (Hudson, Cruise Control, etc.)
+ Conocimientos de herramientas de build management (Ant, Maven, make, etc.), control de versiones (Subversion, etc.), gestión de proyectos (Redmine, Bugzilla, Trac, RT, etc.)
+

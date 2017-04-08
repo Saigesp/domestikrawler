@@ -1,0 +1,11 @@
+
+knorbit.com, the next generation social collaboration system, is looking for a Software Architect
+We expect 10+ years of experience in developing web based applications, including architecture, management of requirements, UX design and cloud deployment.
+In more detail:
+    Development in Ruby on Rails, preferable version 3, Node.js, J2EE.
+    RDBMS, SQL, and NoSQL - CouchDB, MongoDB
+    Web Analytics
+    UX design experience. HTML5, JavaScript, JQuery, AJAX
+    Experience in Cloud deployment - Amazon AWS, Heroku
+    Fluid on web technologies: OAuth,  SocialGraph
+If you are interested in becoming a partner in a start-up, working on an challenging project and working in the amazing city of Barcelona (Spain), please send us some examples of sites you have developed, demos, etc,

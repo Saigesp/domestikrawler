@@ -1,0 +1,8 @@
+
+En Teprefierocomoamigo buscamos un programador freelance con al menos 4 años de experiencia, para trabajar presencialmente en nuestro estudio de manera indefinida (no es para un proyecto concreto).
+Desempeñaría las siguientes funciones:
+- Adaptar diseños a HTML (CSS2+javascript). 
+- Programar en PHP editores de contenidos personalizados
+- Mantenimiento diario de portal de noticias
+- Creación de newsletter semanal
+Nos encantaría (aunque no es indispensable) que conociese "Magnolia" (CMS). Cualquier conocimiento extra será muy bien recibido.

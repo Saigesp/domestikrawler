@@ -1,0 +1,25 @@
+
+Nivel de estudios: 	Formación Profesional grado medio 
+Área 1: 	Tecnología - Informática - Internet
+Profesión 1: 	Informática: Programador
+Área 2: 	Sin Especificar
+Profesión 2: 	Sin Especificar
+_________________________________
+Requisitos: 	
+-Solidos conocimientos de programación orientada a Objetos con C# .NET
+- Solidos conocimientos del ADO.NET Entity Framework 4.0
+- Experiencia Framework .Net 2.0/3.5/4.0 
+- Lenguaje C#
+- SQL Server 2005/2008
+- Windows Server 2003/2008 y 64 Bits
+- Visual Studio 2008 (Cómo Mínimo), 2010 (opcional)
+- Experiencia en metodologías de desarrollo, técnicas de análisis y diseño orientado a objetos y uso de herramientas relacionadas. 
+_______________________________
+Experiencia: 2-3 años
+________________________________
+Funciones a desarrollar: 	
+Necesitamos incoporar un Analista Programador en .NET para trabajar en nuestro proyecto, realizando las siguientes tareas:
+1. Evolutivos de un nuevo Portal en Fase I, Fase II y sucesivas
+Programador encargado de realizar análisis y programación de las nuevas funcionalidades que se van a incorporar en el portal.
+2. Mantenimiento/Incidencias del Portal.
+Encargado del mantenimiento y resolución de posibles incidencias en el portal.

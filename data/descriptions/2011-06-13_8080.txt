@@ -1,0 +1,7 @@
+
+· Balanceadores: ALTEON principalmente y F5 
+· Gestor de vulnerabilidades: herramienta Qualys 
+· DNS Bind y Directorio Activo 
+· Proxys de navegación: Ironport 
+· Frontales de correo: Ironport
+Experiencia: al menos 2 años

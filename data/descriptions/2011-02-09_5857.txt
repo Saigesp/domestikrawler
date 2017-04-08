@@ -1,0 +1,26 @@
+
+¿Te gusta la tecnología? ¿Te gustaría trabajar en una empresa joven donde se abordan temas tan punteros como Machine Learning y Data Mining?
+Blueknow, empresa líder en el sector de las recomendaciones personalizadas para comercios electrónicos, precisa incorporar un Ingeniero en Informática o tecnólogo con experiencia demostrable en JEE.
+Tareas a desempeñar
+Mantenimiento y desarrollo de nuevas funcionalidades de nuestro portal del cliente (JEE).
+Diseño e implementación de una herramienta para poder administrar todas las cuentas activas de clientes (Groovy on Grails).
+Análisis de datos masivos para el cálculo de estadísticas (Spring Batch y Apache Hadoop).
+Requisitos
+Experiencia en el desarrollo de aplicaciones con:
+J2SE 6.0 y JEE 5.0 (Servlet 2.5).
+Spring Framework (deseable 3).
+Hibernate3.
+Metodologías TDD (JUnit4).
+Modelado de proyectos utilizando Maven.
+Se valorará positivamente que conozca o haya trabajado en:
+Apache Hadoop.
+Bases de datos noSQL como Apache HBase o Apache Cassandra.
+Spring Batch.
+Groovy on Grails.
+jQuery (DHTML).
+Idiomas
+Español e inglés fluidos.
+Ofrecemos
+Contrato indefinido.
+Trabajar con un equipo joven, dinámico y con una amplia experiencia en tecnología.
+Plan de formación profesional.

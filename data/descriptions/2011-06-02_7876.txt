@@ -1,0 +1,15 @@
+
+Somos una agencia de marketing online de ámbito nacional con clientes de primera línea, deseamos incorporar a nuestro equipo un/una director/a de Proyectos con alta motivación y experiencia en proyectos de comunicación con una gran carga de diseño y experiencia de usuario.
+Funciones: 
+- Liderar y coordinar equipos (internos y externos) de desarrollo.
+- Definir y desarrollar proyectos web de tipo comunicación y comercio electrónico.
+- Garantizar la calidad y la fecha de entrega de los proyectos en cartera.
+- Gestionar herramientas y procesos de planificación y análisis de proyectos
+- Interlocución con clientes, toma de requisitos y definición funcional.
+Requisitos: 
+- Formación en Ingeniería Informatica o similar. 
+- 5 años de experiencia en programación PHP y .NET 
+- Amplia experiencia en proyectos front end.
+- Experiencia en BBDD MySql y SQL Server 
+- Se valorara experiencia en plataformas de email marketing.
+- Nivel alto de inglés.

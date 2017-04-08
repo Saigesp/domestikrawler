@@ -1,0 +1,17 @@
+
+Activity Description
+ChangeYourFlight.com is a Barcelona based start-up that provides an online platform allowing air travellers to recover part of the money spent on a ticket that they will not be using to fly. Our clients are main European low-cost airlines that are interested in having information on passengers who will not show up for boarding (“no-shows”) in order to efficiently adjust and manage their bookings for each flight. CYF is a turn-key solution that is directly integrated to the airlines booking software handling all flight related data. We’re a small and strong team from various backgrounds that shares a passion for well-crafted products and just entered an exciting expansion phase with CYF.  
+Job description
+CYF is looking for a dedicated front-end developer with knowledge of the latest web development tools and methodologies. You are an excellent team player and keen on new challenges in an exciting start-up environment. 
+Some of your activities:
+- Optimize the user interface and enhance the overall experience
+- Along with senior developers, implement the existing platform to new clients and integrate to their booking systems
+- Help develop the front end of new key features as well as new applications
+Skills
+Our ideal candidate:
+- Strong fluency in HTML/CSS/Javascript
+- CMS opensource skills (Joomla) would be great plus
+- Experience with PHP, MySQL
+- An eye for perfect user interfaces and usability
+- Very high level of English
+- Takes work seriously while having fun!

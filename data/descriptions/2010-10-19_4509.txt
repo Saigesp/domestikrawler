@@ -1,0 +1,21 @@
+
+Bodaclick / Eventoclick es una multinacional española presente en España, Portugal, Itália, Porto Rico, Republica Dominicana, México y Brasil. 
+Somos una empresa joven y dinamica, líder indiscutible en nuestro sector.
+La persona que buscamos tendrá que desarrollar, bajo la coordinación de la Dirección Internacional de Marketing online, con sede en Madrid, la programación necesaria para la optimización de nuestra paginas web (www.bodaclick.com, www.eventoclick.com, www.bodaclick.com.mx, www.casamentoclick.com, www.bodaclickpr.com, www.bodaclick.com.do).
+Sus principales cometidos serán:
+- Optimización técnica de los portales 
+- Estudio e identificación de errores de indexación en buscadores  
+- Desarrollo de nuevos proyectos dirigidos a mejorar el posicionamiento natural en buscadores
+- Control y mantenimiento de la arquitectura de los portales (urls, enlaces, navegación etc.)
+Requisitos
+Estudios mínimos:	Ingeniería técnica
+Experiencia mínima:      2 años de programación en PHP/MySQL y optimización SEO
+Requisitos mínimos: 
+- Imprescindible: conocimientos de posicionamiento natural y experiencia demostrable
+- Pleno dominio del medio Internet
+- Programación en PHP/MySQL, AJAX, JAVASCRIPT, HTML, CSS…
+- Se requiere autonomía en el desempeño de sus funciones
+- Persona acostumbrada a trabajar por objetivos
+- Pasión por Internet y dominio de las evoluciones del medio
+- Actitud constante de aprendizaje
+- Motivación para trabajar en un equipo internacional con sede en Madrid, de gente joven, preparada y apasionada de Internet.

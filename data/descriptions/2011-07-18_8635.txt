@@ -1,0 +1,19 @@
+
+Unaymedia es una empresa que desarrolla nuevos formatos para TV y otros soportes.
+La persona que buscamos debería cumplir el siguiente perfil:
+SENIOR iOS Developer (f/m)
+Tipo de trabajo: Full-time
+Responsabilidades
+* Escribir código libre de errores para una aplicación innovadora basado en  geo-localización y video.
+* Actuar en coordinación con los diseñadores y los animadores
+* Desarrollar el prototipo de aplicación para su aprobación.
+* Documentación de todas las iniciativas de código.
+* Mantenimiento y mejora del código existente.
+* Preparar el código para la migración a dispositivos móviles con Android o WindowsMobile.
+* Dirigir y asistir al equipo de programación
+Habilidades y Calificaciones
+* Experiencia con IOS 4.3 para el iPhone y el IPAD y el uso de Xcode y el SDK de iOS
+* Experiencia de programación con C, C + + y Objective-C o en otros lenguajes
+* Por lo menos 3-5 años de experiencia trabajando con tecnologías de programación
+* Familiaridad con otras plataformas móviles (Android o WindowsMobile) es una ventaja
+* Dominio de Inglés hablado y escrito

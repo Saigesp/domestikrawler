@@ -1,0 +1,10 @@
+
+En eMascaró Crossmedia estamos buscando dos programadores senior PHP con al menos 3 años de experiencia en desarrollo de proyectos web para la incorporación en nuestras oficinas en Barcelona.
+Las características de los perfiles que buscamos son:
+- Licenciado o Ingeniero informática o telecomunicaciones
+- Programación en lenguaje PHP (se valorarán otros lenguajes)
+- Experiencia en el desarrollo de gestores de contenidos, intranets i proyectos a medida.
+- Experiencia en desarrollo en Ajax.
+- Maquetación en CSS
+Se requiere que los candidatos tengan mucha experiencia en el desarrollo de proyectos PHP con bases de datos MYSQL, SQL, Oracle.
+Se incorporará a una empresa consolidada en plena expansión y con un equipo de 24 profesionales de máximo nivel. El equipo actual de desarrollo está formado por un equipo de 5 programadores.

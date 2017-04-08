@@ -1,0 +1,28 @@
+
+Formación Estudios superiores en informática 
+Experiencia 3 años (Descripción)
+
+Ofertix está buscando ingeniero de QA para incorporarse al equipo de ingeniería IT.
+El candidato ideal es aquella persona con predisposición para aprender, crecer profesionalmente y con capacidad de trabajo en equipo. Que le apasione la creación de código que permita a sus compañeros desarrollar sus funciones con la máxima calidad.
+Responsabilidades
+- Ser el responsable de la calidad de las funcionalidades que se liberan.
+- Participar en el proceso de elaboración de nuevas funcionalidades de inicio a fin siempre teniendo presente la calidad y su verificación.
+- Desarrollar test automáticos para el control de calidad.
+- Desarrollo y operación de test de rendimiento.
+- Participar en los procesos de mejora contínua.
+Requisitos
+- Buen nivel PHP5 y OO
+- Conocimiento de JavaScript, JSON, manejo de eventos, estructura DOM y manipulación.
+- 1-2+ años de experiencia con aplicaciones web complejas.
+- Sólidas habilidades analíticas y de resolución de problemas.
+- Participación en la estabilización de código y programación de releases.
+- MySQL
+- PHPUnit
+- Herramientas de integración contínua.
+Conocimientos deseados:
+- Control de versiones (GIT)
+- Gestión de incidencias
+- Documentación código
+- Symfony
+Lugar de trabajo Oficinas centrales de Barcelona (Sant Just Desvern)
+

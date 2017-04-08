@@ -1,0 +1,30 @@
+
+Buscamos un especialista de nivel alto para desarollar un proyecto actual basado en Parsing de recursos web y de los proyectos nuevos.
+El puesto es presencial, se desempeñará en la oficina situada en Mijas Costa, Malaga, en una zona tranquilla y recreativa. 
+Se puede alojarse gratis en el apartamiento de 1 dorm. al lado de la oficina compartiendo con otro empleado, o solo, pero con deducción del salario. 
+REQUISITOS GENERALES 
+Estudios mínimos: Formación Profesional Grado Superior - Informática
+Experiencia mínima: Al menos 1 año (en requisitos obligatorios)!
+Nivel alto de manejo en Internet
+Persona trabajadora y con espíritu de equipo
+Persona organizada y escrupulosa en su trabajo
+Motivación por aprender mas
+REQUISITOS MINIMOS OBLIGATORIOS
+1. Nivel alto en Programación PHP 5
+2. Conocimiento de Expresiones Regulares !
+3. Conocimiento de Kohana o Yii Frameworks
+4. Nivel alto en Bases de datos MySQL 
+5. Experiencia en “Parsers”
+REQUISITOS DESEADOS
+1. Dominio SVN
+2. Dominio XML
+3. Conocimiento de Joomla
+4. Programación en Javascript
+5. Maquetación HTML/CSS
+6. Conocimiento de entornos Linux
+7. Perfil geek
+CONTRATO
+Duración: de 4 meses. Con posibilidad de prolongación asta 1 año o mas.
+Jornada laboral: Completa
+Horario: L-V: 8 horas p/dia
+Salario: 1100€ - 1600€ Neto/mes, depende del nivel y de la calidad de trabajo.

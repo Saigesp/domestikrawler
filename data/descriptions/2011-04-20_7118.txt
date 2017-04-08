@@ -1,0 +1,20 @@
+
+idealista.com, portal inmobiliario líder en españa, busca un analista programador java para su equipo de web, tecnología
+encuadrado dentro del equipo de web, se encargará de colaborar en el análisis y nuevos desarrollos de idealista.com e idealista.it en java 
+buscamos a un apasionado del mundo java y sus frameworks más potentes, con experiencia sólida en desarrollo web, gusto por estar a la última y con ganas de enrolarse en el core business de un proyecto desafiante dentro de una puntocom líder 
+requisitos:
+- formación tecnológica universitaria (mínimo ingeniería técnica)
+- experiencia superior a 2 años en desarrollo de aplicaciones web de entornos java/j2ee - spring - hibernate - struts
+- conocimiento de tecnologías de internet: html, javascript, css, ajax...
+- conocimiento en bases de datos relacionales: oracle, sql
+- conocimiento de servidores de aplicaciones: tomcat, apache...
+- gusto por el análisis y el desarrollo web 
+si crees que cumples el perfil y te interesa nuestra oferta en idealista tendrás:
+contrato indefinido con idealista.com
+25.000-32.000 brutos anuales
+jornada completa: lunes a viernes 9-18 horas (1h para comer)
+plan de retribución flexible (alquiler, tickets restaurant, seguro médico...)
+formación inicial y continuada
+posibilidades de desarrollo profesional
+buen ambiente de trabajo en un entorno joven e informal dentro de una puntocom de referencia utilizando las últimas tecnologías
+oficina en el centro de madrid (plaza de las cortes, metro sevilla o banco de españa) 

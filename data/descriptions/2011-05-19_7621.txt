@@ -1,0 +1,18 @@
+
+Buscamos programador web con 2 años mínimos de experiencia, para trabajar in situ en nuestras oficinas. Pasaras a formar parte de un equipo dinámico y en continuo crecimiento, nos interesa contactar con aquellos profesionales motivados que quieran implicarse para su desarrollo profesional, con ganas de aprender y de participar activamente en un ambiente de trabajo que destaca por la diversificación de proyectos.
+Requisitos mínimos:
+Entorno LAMP (PHP Clásico y Orientado a objetos) 
+        Javascript 
+        Modelo Vista Controlador 
+        CMS's o Frameworks PHP (tipo Drupal, Joomla, Symfony, eZPublish, ....) 
+
+Se valorará: 
+MySQL (Modelización de datos) 
+        Conocimientos en Drupal 
+        Ajax 
+        jQuery 
+        Redes Sociales 
+        XML 
+        Control de Versiones (subversion) 
+        Tecnologías Móviles
+

@@ -1,0 +1,21 @@
+
+Ekosistema Creative Btq. , agencia de publicidad busca programador web Senior.
+Exclusivamente puesto presencial en Barcelona.
+Tareas a realizar:
+- Desarrollo y mantenimiento de páginas web
+- Desarrollo y actualización de tiendas online
+Requiere domínio de:
+- HTML + CSS + JavaScript
+- AJAX
+- jQuery
+- XML/ JSON
+- PHP Orientado a Objetos
+- Analisis funcional de aplicación web
+- Diseño base de datos relacional
+- MySQL (Uso habitual de phpMyAdmin)
+Se valorará experiencia con:
+- Prestashop
+- Wordpress u otros CMSs
+- Flash + ActionScript 2 &amp; 3
+- Domínio de herramientas Adobe Creative Suite
+

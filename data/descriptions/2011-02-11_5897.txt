@@ -1,0 +1,9 @@
+
+Maspixel es una nueva revista on-line de diseño y programación web. Necesitamos incorporar un web manager capaz de realizar proyectos web en todas sus áreas (diseño, desarrollo y sistemas).
+Requisitos:
+* Programacion PHP / ASP
+* HTML + CSS
+* Manejo de CMS tipo Joomla, Word Press, Drupal...
+* Flash + Action Script 3
+* SEO / Usabilidad / Arquitectura de la información
+Se valorarán conocimientos de programas de diseño gráfico, ilustración, photoshop, premiere, etc...

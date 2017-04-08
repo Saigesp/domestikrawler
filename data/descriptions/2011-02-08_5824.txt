@@ -1,0 +1,25 @@
+
+iPlan es un Laboratorio de innovación turística que diseña, desarrolla y comercializa servicios de consultoría y soluciones tecnológicas para la distribución directa de productos entre usuarios y principales.
+iPlan está buscando verdadero talento para un nuevo, radical y divertivo proyecto: Hall Street ¿Te atreves?
+Actualmente nos encontramos en el punto de partida de un proyecto en el que requerimos cubrir un puesto cuyas funciones principales serán:
+•	Definición de la arquitectura de la plataforma
+•	Seleccionar las herramientas y los entornos de trabajo para desarrollarla
+•	Definir la Solución, modelos, componentes e interfaces
+•	Implantar la solución y validar su funcionamiento
+•	Gestionar los riesgos tecnológicos del Proyecto
+Para ello te ofrecemos:
+•	Integración en un equipo de alto rendimiento, cohesionado y en fase de crecimiento
+•	Participar en un proyecto de desarrollo de tecnología avanzado 
+•	Disfrutar de un entorno de trabajo con un amplio know-how tecnológico
+•	Un trabajo creativo con un amplio margen de libertad de acción
+•	Ocupar una posición con un peso muy importante en la organización y en la construcción de la nueva plataforma 
+Buscamos personas con gran capacidad de abstracción y tolerancia a la ambigüedad, responsables y que muestren una actitud positiva frente a nuevos retos. Queremos personas creativas, curiosas y con muchas ganas de aprender.
+Requerimos:
+•	Experiencia desarrollando proyectos en tecnología PHP o  J2EE
+•	Experiencia en MySQL o Oracle.
+•	Experiencia en Orientación a objetos y patrón MVC.
+•	Experiencia en las siguientes tecnologías: XHTML, XML, CSS, JS
+•	Soluciones open source como Drupal, Joomla o Magento.
+•	Experiencia en Frameworks de desarrollo PHP como Zend framework, Symfony o CakePHP
+•	Experiencia en frameworks Javascript, idealmente jQuery.
+

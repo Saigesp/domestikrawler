@@ -1,0 +1,15 @@
+
+Buscamos un desarrollador back-end (PHP-MySQL) para incorporación en un equipo de trabajo multidisciplinar: diseñadores de interacción, jefes de producto, brand managers y desarrolladores.
+Las funciones son:
+- Desarrollo back-end en PHP y MySQL
+- Labores de administración de usuarios y sistemas
+Aspectos generales requeridos:
+• Poseer interés en estandares web, tecnologías abiertas, microformatos.. 
+• Interes por desarrollar sistemas de alto rendimiento y disponibilidad.
+• Participar en el diseño, revisión del código y test unitarios.
+• Interactuar con otros miembros del equipo con el objetivo de incorporar innovaciones de producto para la plataforma.
+• Haber trabajado con alguna API (JSON, XML, etc).
+• Proactividad.
+• Organización.
+• Capacidad de gestión de su tiempo y prioridades.
+• Ganas de aprender 

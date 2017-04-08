@@ -1,0 +1,19 @@
+
+Nuestro departamento de Desarrollo necesita incorporar a dos  Programadores PHP que tendrán como misión el desarrollo de e-shops para nuestros clientes.
+Funciones principales:
+ - Desarrollo de e-shops en PHP (administración, desarrollo, evolución y conexión con aplicaciones de terceros (Facebook, medios de pago, etc)
+ - Integración de e-shops con aplicaciones de ERP’s, CRM’s, gestión de stock, etc.
+ - Colaborará en la realización de ofertas, evaluando la viabilidad técnica de los proyectos.
+ - Integración de los requisitos de los departamentos gráficos, MK online  y Social Media.
+Requisitos:
+ - Mínimo 2 años de experiencia en programación PHP
+ - Manejo en javascript, librerias javascript (prototype, jquerly), ajax, zend framework, webservice, xhtml.
+ - Conocimientos de MySQL
+ - Experiencia en trabajo previamente en equipi (control de versiones, ticketing de bugs, documentación del codigo, etc)
+ - Maquetación avanzada en CSS y HTML
+Ofrecemos:
+ - Retribución en base a candidatura
+ - Formar parte de un equipo multidisciplinar 
+ - Horario flexible
+ - Plan de Retibución Flexible
+ - Entorno joven y dinámico

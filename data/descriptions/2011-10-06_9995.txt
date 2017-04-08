@@ -1,0 +1,32 @@
+
+Qué buscamos:
+Buscamos un programador con experiencia en desarrollo de proyectos web. Una persona organizada, dinámica, creativa. Que le motive trabajar en equipo, dispuesto a desarrollarse tanto a nivel profesional como a nivel personal. Con experiencia demostrable en:
+- Dominio de maquetación bajo estándares HTML/XHTML y CSS/CSS3 (multinavegador / accesibilidad A+).
+- Se requiere experiencia probada de PHP y MySQL en proyectos de Internet
+- Conocimiento avanzados de JQuery: Utilización y adaptación de las librerías JQuery
+- Saber maquetar a través de diseños en Photoshop
+- Detectar y solucionar los problemas de compatibilidad con exploradores.
+- Capacidad creativa e interés en el mundo de la tecnología.
+- Conocimientos de la plataforma de eCommerce Magento.
+Se valorará:
+- Uso de frameworks de PHP (Zend, Simphony...)
+- Criterio en diseño y acabados web.
+- Manejo de CURL, SOAP
+- Conocimientos de AJAX
+- Conocimientos de HTML5
+- Conocimientos de usabilidad web (UI)
+- Conocimientos avanzados de Javascript y DOM
+- Uso de las API más comunes: Google, Twitter, Facebook...
+- Conocimientos de los lenguajes de Facebook: FBML y FBXML
+- Conocimiento y uso de las redes sociales: Twitter, Quora, Facebook, etc
+Qué trabajo se va a desempeñar:
+- Desarrollador Web
+- Participará en proyectos de clientes de distintos sectores.
+- El puesto de trabajo es presencial
+- Integración en un equipo de profesionales con un alto grado de motivación
+- Ambiente de trabajo innovador y dinámico.
+Ofrecemos:
+- Formación continua con plan de desarrollo personalizado
+- Salario según valía
+- Contrato indefinido y estabilidad laboral.
+- Se garantiza la confidencialidad en el proceso de selección. 

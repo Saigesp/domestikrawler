@@ -1,0 +1,5 @@
+
+Buscamos ilustradores y animadores flash que sean capaces de generar ilustración que posteriormente habrá que animar en flash. Diferenciamos entre movimiento de escenarios (ej: olas o nubes) y decorativos (ej: un barril moviéndose en la cubierta de un barco, olas de fondo) y animación de diferentes personajes. 
+Se trata de un proyecto en el que vamos a realizar varias aplicaciones interactivas basadas en ilustración e interactividad (manejadas a través sensores de movimiento). Es un proyecto que tendrá una duración aproximada de tres o cuatro meses por lo que es necesario trabajar en Madrid e incluso inicialmente desde nuestro estudio, para coordinar mejor al equipo de trabajo. (habrá un ilustrador puro y duro en el equipo de trabajo)
+Es importante que sepan manejar y optimizar las ilustraciones ya que el peso y la calidad de la animación son cuestiones básicas para conseguir el objetivo del proyecto.
+

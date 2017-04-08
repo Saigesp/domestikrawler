@@ -1,0 +1,19 @@
+
+Nuestro departamento de Desarrollo necesita incorporar un Maquetador Web con conocimientos de diseño que tendrá como misión la maquetación de diseños ya realizados así como la colaboración con el equipo de diseño en la creación de banners o cualquier otro elemento siguiendo líneas gráficas.
+Sus funciones principales serán:
+ - Diseño y maquetación web.
+ - Documentación de proyectos.
+ - Puntual trato con el cliente.
+ - Estimaciones de alcance de tareas.
+ - Seguir las lineas generales de diseño y aplicar estilos, y aportar mejoras en los mismos.
+Requisitos:
+ - Mínimo 1 año de experiencia como maquetación CSS – HTML.
+ - Dominio de herramientas de diseño: Photoshop, Illustrator-Freehand, etc.
+ - Valorable conocimientos de usabilidad, accesibilidad y experiencia de usuario.
+ - Conocimientos de programas OpenSource como Wordpress, Drupal, Magento, etc.
+Ofrecemos:
+ - Retribución en base a candidatura
+ - Formar parte de un equipo multidisciplinar
+ - Horario flexible
+ - Plan de Retibución Flexible
+ - Entorno joven y dinámico

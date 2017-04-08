@@ -1,0 +1,10 @@
+
+Empresa en plena expansión busca para incorporar a su plantilla programador.
+Como requisitos mínimos:
+PHP 
+ASP.NET 
+Visual BAsic .net 
+javascript, 
+CSS 
+Requisitos deseados:
+Conocimiento de algun framework de PHP en MVC.

@@ -1,0 +1,4 @@
+
+Buscamos programadores de PHP, MySQL, CSS y javascript para incorporarse a nuestro equipo en Madrid.
+Nos dedicamos a desarrollar juegos masivos de navegador.
+Requerido tener más de tres años de experiencia en PHP y MySQL.

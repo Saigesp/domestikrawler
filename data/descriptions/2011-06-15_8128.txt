@@ -1,0 +1,11 @@
+
+Grupo ECCO, Empresa Española de informática de desarrollo e integración de sistemas con más de 300 profesionales en España y más 2000 en Méjico.
+Estamos llevando a cabo diversos proyectos de outasking para la Banca Española y tenemos por objetivo ampliar e incorporar nuevos profesionales .
+Buscamos Admnistradores WAS con experiencia en administración IBM Websphere Application Server (Varias versiones), 
+Experiencia en manejos de MQ  o al menos conocimientos. 
+Sist. Operativos AIX, UNIX, SOLARIS, etc.. 
+Experiencia en administración entornos cluster en alta disponibilidad.
+Se requiere capacidad de trabajo en equipo 
+Capacidad de análisis de los problemas y actitud orientada hacia la mejora continúa de los sistemas y procesos. 
+Muy Valorable CONOCIMIENTOS de JBOSS (Pero no Imprescindible). 
+

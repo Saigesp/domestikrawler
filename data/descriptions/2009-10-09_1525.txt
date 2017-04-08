@@ -1,0 +1,3 @@
+
+Se requiere animador 3D con experiencia para desarrollo de secuencias de animación utilizando técnicas de cinemática directa e inversa IK/FK, animación facial, skinning, character setup, etc, y con conocimientos en herramientas de exportación de animaciones para plataformas software en tiempo real.
+

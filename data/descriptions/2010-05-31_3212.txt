@@ -1,0 +1,22 @@
+
+Buscamos un Maquetador, especialista en CSS y con amplio dominio en XHTML, para incorporarse en nuestro departamento de Usabilidad y Diseño
+Se pedirá proyectos en los que se ha participado y ejemplos de código.
+Requisitos mínimos:
+- Con sólidos conocimientos Maquetación HTML, XHTML
+-Especialista en CSS, CSS2, CSS3
+- Interés en innovación y nuevas tecnologías web.
+- Capacidad de trabajo en equipo.
+- Capacidad para analizar y solucionar problemas.
+- Conocimiento de Javascript, Yui (deseado)
+- Inquietud por los desarrollos interactivos.
+- Cuidado por el detalle.
+- Iniciativa y proactividad
+-Experiencia en un puesto similar al ofertado
+Requisitos deseados:
+-Incorporación inmediata
+-Conocimientos en CVS / SVN
+-Conocimientos básicos de PHP
+-Trabajo en entorno Smarty
+-Conocimientos básico con plataformas CMS (Wordpress, Drupal, Joomla).
+-Buen programador
+-Linux

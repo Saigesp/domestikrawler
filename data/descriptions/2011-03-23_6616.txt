@@ -1,0 +1,53 @@
+
+Descripción del puesto:
+Perfil mixto de grafista/programador 3d con conocimientos tanto 
+artísticos como técnicos en todo lo relacionado
+con la generación de imagen sintética en tiempo real.
+Se integrará en el departamento de I+D, en el grupo de desarrollo de un motor 3d multiplataforma de tecnología própia.
+Su función será estar al día de las diferentes técnicas para graficos en tiempo real, investigarlas, probarlas mediante la realización de escenas, animaciones 
+etc... y  finalmente integrarlas en un motor con la ayuda
+del equipo de programación.
+Experiencia mínima: Al menos 1 año en creación de videojuegos
+Requisitos:  
+- Persona resolutiva, responsable, capaz de trabajar en equipo y con muchas ganas de participar en el desarrollo de un motor 3d.
+- Experiencia en modelado, texturado y animación para tiempo real con Maya, 3d Studio, Photoshop, Zbrush o similares.
+- Conocimientos e interés en el mundo de los graficos por ordenador: videojuegos, hardware gráfico, apis  y técnicas graficas ( normalmapping, antialiasing, iluminación, etc.. )
+- Experiencia en programación relacionada con graficos 3d.
+Otros requisitos:
+- Aportar ejemplos, demo reel de trabajos realizados
+- Experiencia con motores en tiempo real de ultima generación ( Unity, UDK, etc..)
+- Conocimientos de matemáticas / física aplicables a 3d en tiempo real.
+- Programación en C++, GLSL, HLSL o cualquier otro lenguaje.
+- Inglés técnico
+A continuación marca la respuesta correcta a las siguientes preguntas:
+¿Cual de los siguientes no es un motor 3d?
+  Bravia Engine
+  ID Tech 5
+  Unreal Engine
+  Unity
+ ¿Con qué palabra asociarías el término Deferred?
+  Bluring
+  Mipmapping
+  Shading
+  Texturing
+  ¿Cual de estas técnicas es más adecuada para simular relieve en tiempo real en una tarjeta NVidia de la serie 200?
+  Relief mapping
+  Displacement mapping
+  Ambient Occlusion
+  Parallax occlusion mapping
+  ¿ Que información ha de ir asociada a cada vertice de una malla animada mediante skinning ?
+  Hueso al que afecta
+  Peso respecto a los huesos
+  Color respecto a los huesos
+  Oclusión respecto a los huesos
+  ¿ En memoria de video...en que formato ha de ir una textura de normales para que ocupe lo minimo posible ?
+  JPG
+  BC5
+  YUV
+  DXT3
+¿ Cual de las siguientes no es GLSL ?
+  uniform
+  float4x4
+  float
+  vec3 
+

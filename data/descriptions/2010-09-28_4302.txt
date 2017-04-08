@@ -1,0 +1,5 @@
+
+Para proyecto intranet se busca:
+Desarrollador PHP con experiencia demostrable, el proyecto se desarrollará en PHP 5 orientado a objetos,  y Java Scripts con bases de datos MySQL, por lo que es imprescindible el dominio de éstos.
+Se trata de un proyecto que se llevará a cabo en nuestras oficinas en Barcelona.
+

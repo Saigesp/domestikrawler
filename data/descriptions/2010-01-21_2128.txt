@@ -1,0 +1,8 @@
+
+Buscamos un programador con experiencia en Coldfusion de Adobe o PHP.
+Los requisitos deseados son:
+- Coldfusion o PHP.
+- SQL Server y MySQL.
+- AJAX / Javascript.
+Se valorarán conocimientos en Actionscript.
+Se realizará un contrato indefinido con tres meses de pruebas.

@@ -1,0 +1,21 @@
+
+Desde Zooluck estamos buscando desarrolladores freelance residentes en
+España, con experiencia en Symfony, para colaborar en varios proyectos.
+Conocimientos mínimos:
+· Symfony 1.2
+· PHP 5 OOP
+· MySQL 5
+. XHTML
+Otros conocimientos deseables:
+· CSS
+· JavaScript (Ajax, jQuery, Prototype...)
+· Zend Framework
+· Sistemas de control de versiones (CVS, SVN, Git...)
+· phpDocumentor
+Otros conocimientos valorados:
+· Magento
+· Facebook Apps
+· ActionScript
+· Linux
+Valoramos positivamente la participación en medios sociales, proyectos
+opensource y el desarrollo de proyectos propios.

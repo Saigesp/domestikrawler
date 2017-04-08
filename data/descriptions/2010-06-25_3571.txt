@@ -1,0 +1,6 @@
+
+Buscamos un desarrollador multidisciplinar capaz de desarrollar prototipos de aplicaciones para iPhone/iPad/Android y de instalaciones. 
+Idealmente llevas varios años trabajando en algun tipo de agencia o estudio haciendo todo tipo de proyectos interactivos y dominas HTML, Javascript, CSS y, Flash, pero desde hace un par de años te mueres de ganas de dar el salto a hacer aplicaciones mobiles e instalaciones y ya has hecho algunos experimentos en esa direccion.
+En tus bookmarks deberias tener links a, como minimo tres de las siguientes categorias:  proyectos de Arduino, iPhone, Objective C, Unity3D, openframeworks, Processing, openCV.
+Se valoraran conocimientos de lenguage servidor, arquitectura de la informacion y otros (3D, sonido, motion graphics, etc...)
+Sueldo a convenir en funcion de experiencia.

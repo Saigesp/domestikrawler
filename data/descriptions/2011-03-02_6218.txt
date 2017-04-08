@@ -1,0 +1,22 @@
+
+Buscamos analista - programador experto en PHP5, con dominio de la programación orientada
+a objetos y la optimización al máximo de MySQL.
+Experiencia mínima: 4 años.
+Requisitos mínimos:
+· Experto en PHP5 y MySQL, con experiencia profesional demostrable.
+· Experiencia en OOP (orientación a objetos).
+· Capacidad de análisis y creación de modelos de bases de datos.
+· Soltura en entorno Linux. Capacidad de creación y gestión de CronJobs.
+· Procesamiento / importación de ficheros CSV vía PHP.
+· Optimización de recursos de servidor.
+· Profundo conocimiento de XHTML y CSS (crossbrowser)
+· Conocimientos de AJAX, JQuery
+Requisitos deseados:
+· Experiencia en desarrollo de plataformas de e?commerce, pasarelas de pago.
+· Experiencia con APIs Facebook, YouTube.
+· Conocimientos sobre Testeo unitario (Unittesting), control de versiones (CVS),
+Smarty, SEO, Usabilidad, Accesibilidad.
+· Experiencia con plataformas OpenSource del tipo Drupal, Joomla, Magento.
+· Accesibilidad Web (WCAG 2.0)
+· Inglés.
+Jornada laboral: Completa

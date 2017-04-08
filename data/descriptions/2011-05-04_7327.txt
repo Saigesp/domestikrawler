@@ -1,0 +1,12 @@
+
+Nuestro cliente es una importante empresa en fase de expansión nacional e internacional, que opera en internet.
+Perfil:
+- Deberá aportar 2 años de experiencia como Analista Programador
+- Nivel alto en programación: MySQL, SQL, PL/SQL
+- Nivel alto en BBDD: MySQL , SQL Server, Oracle
+- Windows, Linux
+- ETL Tools
+- Data Warehouse
+- Data Modeling
+- Nivel alto en Excel, Access
+

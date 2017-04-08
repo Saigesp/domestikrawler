@@ -1,0 +1,24 @@
+
+DosYogures.es es una start-up de comercio electrónico en telecomunicaciones. Queremos ser el principal portal de venta de telecomunicaciones de España. Tras una primera ronda de financiación y con el apoyo de Telecor (Grupo El Corte Inglés), estamos completando nuestro equipo.
+Qué tienes que hacer en dosyogures.es:.
+- Analizar e implementar la política servidores, seguridad y de SLA de la plataforma.
+- Implantar las métricas y metodologías de monitorización y seguimiento de los servidores
+- Definir el roadmap de evolución de la plataforma y su impacto en costes
+- Coordinar las nuevas versiones del portal y su correcto despliegue
+- Gestionar el equipo de desarrollo y maquetación
+- Analizar  y optimizar el trafico web: conversión como objetivo
+- Mejorar usabilidad y conversión de cada de la página web
+No cualquiera sirve….
+- Mínimo de 2 años de experiencia técnica en desarrollo de webs
+- Conocimiento de servidores de aplicaciones/web: Apache, Tomcat
+- Experiencia con bases de datos: PosgreSQL ó MySQL
+- Conocimiento de  javascript (especialmente Jquery) y AJAX
+- Conocimiento de HTML, CSS, XHTML
+- Dominio de analítica Web (analytics, omniture, conversion funnel, etc)
+- Visión de la Arquitectura Web en un sistema de comercio electrónico
+- Conocimientos profundos de SEO y su relación con la arquitectura de la Web
+- Programación, especialmente si es en Ruby-on-Rails
+- Experiencia en desarrollo de comercio electrónico
+- Buen gestor de proyectos, incluyendo proveedores externos (diseñadores, maquetadores, etc)
+- Creativo, entusiasta, proactivo, con autonomía para poner en marcha un proyecto, y habilidad de coordinar equipos. 
+

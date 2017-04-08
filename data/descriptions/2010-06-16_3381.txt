@@ -1,0 +1,9 @@
+
+Diseño e implementación de aplicaciones Windows usando .NET FRAMEWORK 3.5
+ADO .NET 3.5 VISUAL Studio 2008 
+Presentación en Windows (Windows Presentation Foundation)
+Comunicaciones con Windows (Windows Communication Fundation, Web services, comunicaciones out of band)
+Programación concurrente, multithreading, procesos distribuidos, etc.
+Flujos de Trabajo en Windows WWF
+Experiencia en integraciones con DNIe 
+Proyecto de 4 meses prorrogables.

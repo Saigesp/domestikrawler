@@ -1,0 +1,15 @@
+
+En ideup!, consultora especializada en experiencia de usuario, diseño web, desarrollo y marketing online, buscamos maquetadores web freelance para realizar colaboraciones puntuales en proyectos importantes. 
+Buscamos profesionales con mucha experiencia en maquetación XHTML+CSS y con buenos conocimientos de jQuery. Que piensen que el futuro pasa irremediablemente por HTML5 y ya haya trasteado con él. Que estén al día de cualquier nueva tecnología aplicable al desarrollo de interfaces y que entiendan perfectamente que esas interfaces van a ser usadas por personas. 
+La experiencia mínima requerida es de al menos 3 años y también deben cumplir los siguientes requisitos:
+* Experto en maquetación XHTML+CSS
+* Desarrollo con código limpio, semántico y reutilizable
+* Conocimientos de accesibilidad y estándares W3C
+* Conocimientos de microformatos
+* Buenos conocimientos de javascript
+* jQuery a nivel de uso e implementación de componentes
+* Familiarización con las APIs de documentos web (DOM)
+Bola extra:
+* Experiencia en integración de plantillas Drupal/Wordpress
+* Experiencia en desarrollo de apps para iPhone/iPad o Android
+* Conocimientos básicos de programación PHP

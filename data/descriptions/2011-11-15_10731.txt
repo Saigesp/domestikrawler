@@ -1,0 +1,24 @@
+
+Buscamos:
+Un desarrollador con experiencia en web y en aplicaciones móviles, tanto iOS como Android (y si controlas de Windows Mobile también, ¡genial!).
+En definitiva, alguien con verdadera inquietud por el desarrollo, al que le guste trastear con tecnologías móviles y que se sienta cómodo trabajando en equipo (desarrollamos con SCRUM y TDD). Con muchas ganas de aprender cosas nuevas (aquí siempre estamos probando cosas chulas, Amazon Web Services, Sphinx, lectores de códigos QR, geolocalización, HTML5, etc.)
+Ofrecemos:
+Trabajar en un equipo joven en una empresa en fuerte crecimiento (con participación de ATRAPALO), en nuestra oficina en el centro de Madrid.
+Tendrás participación activa en el desarrollo, tanto en lo relativo a plataformas móviles (en las que tenemos muchas ideas por desarrollar) como en la plataforma web.
+Requerimos:
+Pasión por el desarrollo y atención al detalle.
+Cursando, o con estudios universitarios en Informática.
+Conocimientos de Objective-C (iOS) y Java (Android).
+HTML5, CSS y jQuery.
+Programación orientada a objetos.
+Soltura con sistemas de control de versiones (nosotros usamos GIT, pero si vienes de SVN no te costará adaptarte).
+Deseamos:
+PHP (aplicaciones MVC)
+Haber trabajado con tests.
+ 
+Experiencia:
+0 a 1 año
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+

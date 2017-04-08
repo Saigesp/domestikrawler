@@ -1,0 +1,12 @@
+
+Se requiere programador ASP.NET Freelance jornada de 8 diarias de lunes a viernes, para trabajar en nuestras instalaciones.
+Funciones a desempeñar:
+Análisis, desarrollo y mantenimiento de los diferentes módulos y áreas del portal.
+Mantenimiento y soporte de la web.
+Pruebas, testeos y documentación de los diferentes proyectos que se llevan acabo en el portal.
+Realizará la supervisión de proyectos, estimación de tiempos y presupuestos, conjuntamente con el Responsable Técnico.
+Autoformación e investigación de nuevas tecnologías aplicables a nuestro negocio. 
+Conocimientos:
+Lenguajes de programación: ASP.NET, C#, Visual Basic Script, Transact SQL, HTML, XML.
+Bases de datos: SQL server
+Conocimientos de usabilidad y accesibilidad. Entorno Web

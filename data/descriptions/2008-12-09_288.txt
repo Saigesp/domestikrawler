@@ -1,0 +1,14 @@
+
+Hola.
+Busco un programador en php y mysql con experiencia que me ayude por un lado a complementar mi trabajo como diseñador web para futuros proyectos de desarrollo web y por otro para terminar y arreglar varios trabajos incompletos.
+El nivel es avanzado para realizar trabajos como administrador de contenidos de noticias, de imágenes, buscador en la web, urls amigables, tienda virtual, catálogos de productos, registro de usuarios.
+En principio los trabajos sin terminar son:
+- Administrador de contenidos para galería de imágenes.
+- Portal con administrador e inserción de empresas, con listado de categorías, buscador sin funcionar, urls amigables.
+Futuros proyectos:
+- Administrador de contenidos de noticias e imágenes para web ya realizada (solo apartado de noticias e imágenes parecido a un blog).
+- Administrador de contenidos de noticias e imágenes para portal de noticias.
+- Tienda virtual bien con instalación de oscommerce o desarrollo personalizado desde 0.
+- Curso particular online php y mysql desde 0 hasta llegar a nivel avanzado. (En principio orientado para dos diseñadores web xhtml + css con nivel 0 en programación via messenger o correo electrónico)
+Presupuestos, formas de pago, horarios y medios a convenir según el caso, todo ello por email y msn.
+Si es posible indicar experiencia, ubicación y disponibilidad.

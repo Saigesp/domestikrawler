@@ -1,0 +1,7 @@
+
+Freedom Factory desarrolla videojuegos para Xbox 360, PS3, Wii, DS, PSP y PC. Actualmente trabajamos en varios proyectos multiplataforma para el mercado internacional y estamos buscando candidatos para cubrir los puestos de PROGRAMADORES SENIOR FLASH.
+Requisitos:
+- Programador Senior Flash/AS3
+- 3+ años experiencia en ActionScript y entornos de desarrollo con Flex/Flash Builder y Flash (Editor).
+- Experiencia previa en videojuegos (valorable MMO), experiencia previa con algún framework MVC (Cairgorm, PureMVC, etc).
+Ofrecemos formar parte de un grupo de trabajo único, en el que desarrollarte profesionalmente, participando en el desarrollo de un estudio en crecimiento. Oficinas ubicadas en el centro de Madrid, en un ambiente de trabajo distendido y un salario acorde con el mercado y tu valía.

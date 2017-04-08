@@ -1,0 +1,11 @@
+
+DRAFTFCB, agencia de publicidad con oficinas en Madrid y Barcelona, busca Programador Front-end para trabajar como freelance.
+
+Requisitos:
+Conocimientos avanzados de XHTML, CSS2 y estándares web.
+Conocimientos avanzados de Javascript y jQuery
+Experiencia en webs accesibles y estándares (W3C)
+Interesado en nuevas tecnologías HTML5 y CSS3.
+Experiencia en adaptación de las normas WCAG 1.0 y 2.0 de W3C.
+Porfolio online actualizado
+

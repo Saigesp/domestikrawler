@@ -1,0 +1,12 @@
+
+Adecco IT and Engineering is currently looking for an actionscript developer
+- Key Responsibilities:
+- Develop a clean code base of ActionScript-driven Flash applications according to specifications and creative requirements
+- Fix bugs and test new code
+- Work closely with Designers and Programmers to solve technical and usability issues and execute solutions
+- Understand new Flash technologies and recommend where and how to implement them
+- Understand consistent user experience across various devices and platforms
+- Knowledge of native device SKDs and APIs
+- Work with team leads to provide insight on new technologies, standards and best practices
+- Participate in brainstorms for advertising campaigns being able to contribute with fresh and new ideas from a technological point of view.
+- Knowledge in marketing and advertising campaigns. 

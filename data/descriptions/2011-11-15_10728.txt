@@ -1,0 +1,28 @@
+
+Buscamos:
+Buscamos Desarrolladores J2EE para incorporarse en nuestros proyectos, en los que utilizamos tecnologías como: Struts y Spring MVC, Spring Framework, Hibernate, Maven y utilizamos como metodología de desarrollo; Scrum.
+Buscamos a alguien apasionado por el mundo de las tecnologías, con muchas ganas de convertirse en experto en nuevas tecnologías y que disfrute compartiendo sus conocimientos con sus compañeros de trabajo. Alguien que, a pesar de tener como prioridad las nuevas tecnologías, sepa que en realidad lo más importante son las personas.
+OFRECEMOS:
+- Contrato indefinido.
+- Jornada laboral completa.
+- Lugar de trabajo bien comunicado, tanto en transporte público como privado
+- Integración en un equipo de alto rendimiento con un alto grado de motivación y ambiente de trabajo innovador y dinámico.
+ 
+Requerimos:
+Experiencia en alguna de las siguientes tecnologías:
+-Spring
+-Struts
+-Hibernate
+-EJB´s...
+Deseamos:
+Valoraremos tener conocimientos de metodologías ágiles y haberlas utilizado en algún proyecto.
+Salario:
+27.000-30.000 €
+Experiencia:
+1 a 3 años
+Idiomas:
+Inglés, cuanto más mejor, aunque no es imprescindible.
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+

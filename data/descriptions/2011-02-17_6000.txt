@@ -1,0 +1,9 @@
+
+Tamakum! Interactive busca:
+Técnico/Informático con experiencia en instalar/configurar Servidores de Medios y/o Servidores Web:
+1. Instalación, configuración y optimización de software servidor de medios Wowza Media Server 2 en Linux y Windows.
+2. Configuración de Servidores Web Linux/Apache - Windows/IIS: Configuración de DNS, SMTP, POP, FTP, etc, en servidores dedicados.
+Imprescindible:
+- Seriedad y compromiso.
+- Experiencia.
+

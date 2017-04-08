@@ -1,0 +1,9 @@
+
+Buscamos desarrolladores Web con experiencia demostrable en framework CodeIgniter y/o Symfony. Han entrado varias propuestas de proyecto que habría que realizar de cero. Se trabajaría en equipo (siguiendo metodología Scrum; si no te suena no importa) realizando tareas de análisis, diseño y desarrollo de un nuevo proyecto. El rerequisito, a parte de gustarte dar el callo en equipo, es haber trabajado antes en algún proyecto (profesional o no) habiéndotelas visto con la configuración de entornos LAMP, la línea de comandos (un poco al menos), estar acostumbrado a usar control de versiones (Subversion) y sobretodo saber desenvolverse bien con PHP5 y el framework PHP de marras (los ya citados, pero si te conoces mejor otro también podría valer :))
++ Requisitos deseados:
+- Experiencia demostrable en desarrollo web con PHP5, SQL y al menos un framework PHP5 (deseables CodeIgniter, Symfony, CakePHP)
+- Conocimientos sólidos en programación orientada a objetos (OOP, OOD)
+- Tecnologías XHTML, CSS, Javascript, AJAX, jQuery, XML, PHP5, MySQL, framework
+- Trabajo en equipo
+- Deseable: configuración de entornos LAMP, línea de comandos (un poco al menos), estar acostumbrado a usar control de versiones, conocimientos de metodología ágil (Scrum)
+Preferible gente de la Zona de Alicante y cercanías.

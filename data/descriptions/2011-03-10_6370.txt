@@ -1,0 +1,15 @@
+
+En el Grupo Difusión, grupo de empresas centradas en el sector Editorial y de Formación para el mundo jurídico, necesitamos incorporar a un técnico de sistemas con sólidos conocimientos de programación PHP/SQL.
+Dependiendo del responsable de Tecnología y Sistemas se ocupará principalmente de dar soporte de primer nivel a usuarios, solucionar incidencias y monitorizar el estado de los sistemas. Para ello necesitamos que tenga experiencia en
+
+ - Mantenimiento de hardware: PCs y redes ethernet (TCP/IP)
+ - Sistemas operativos: Win XP y 7. Win server 2003/2008 (Active Directory) y linux.
+ - Atención a usuarios
+
+
+Además colaborará en el mantenimiento/mejora de las webs públicas e intranet del grupo por lo que deberá contar con conocimientos de:
+
+ - Programación PHP orientado a objetos (patrón MVC)
+ - SQL (consultas básicas a bases de datos)
+ - Manejo nivel usuario avanzado de la plataforma habitual de este tipo de desarrollo (Linux, Apache, Mysql, PHP)
+

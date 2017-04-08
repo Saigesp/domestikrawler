@@ -1,0 +1,9 @@
+
+Seleccionamos una persona con las siguientes características requeridas para incorporación en proyecto de importante empresa financiera:
+- Programador nivel experto en PHP orientado a objetos.
+-Programación nivel experto en JavaScript (AJAX, JSON,...)
+- Conocimiento en desarrollo con librerías js. jQuery, Prototype,..
+- Maquetación en HTML, XHTML, XML, XSL.
+- Manejo de servidor de base de datos MySQL.
+- Manejo de herramientas de diseño orientadas a web: Photoshop, GIMP,...
+- Desarrollo de Web Services.

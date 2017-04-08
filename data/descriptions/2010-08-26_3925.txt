@@ -1,0 +1,12 @@
+
+Somos una consultora tecnológica en plena expansión, con proyección internacional, líderes en innovación y aplicación de nuevas tecnologías al desarrollo del capital humano. 
+Nuestros clientes, grandes empresas de todos los sectores (entre las que se encuentran más del 50% de las empresas del IBEX 35) apuestan por nosotros en el desarrollo de proyectos de última generación, implementando soluciones tecnológicas innovadoras en gestión del conocimiento, formación y entrenamiento, desarrollo del talento, productividad y desempeño e innovación: plataformas de gestión y evaluación, comunidades en red, herramientas colaborativas, simuladores virtuales, aplicaciones web 2.0, juegos en red,... tecnología de última de generación aplicada al mundo de las empresas.
+Actualmente buscamos profesionales exigentes, responsables, con ganas de demostrar y aportar valor para colaborar con nosotros como Responsable Desarrollo FrontEnd, siendo un perfil de Programador Flex Senior con capacidad de coordinación técnica de equipos multidisciplinares (Front &amp;amp; Back) y experiencia en plataformas Web 2.0.
+REQUISITOS MINIMOS 
+- Altos conocimientos de Flex (Action Script 3), PHP 5, MySQL 5, Javascript, Ajax, CSS, XHTML, XML, Programación Orientada a Objetos y Patrones de Diseño, Frameworks de desarrollo (Front y Back), Web Services (SOAP,  REST, JSON), APIs de desarrollo 2.0, infraestrucutras Web de alta disponibilidad
+- Experiencia gestionando proyectos y equipos
+REQUISITOS VALORABLES 
+- Conocimientos de Oracle, SQL Server,  de otros lenguajes como Perl, Python o Ruby.
+- Alto nivel de Inglés
+Si eres una persona exigente y responsable, si buscas nuevos retos que te permitan seguir aprendiendo y desarrollándote como profesional, envíanos tu candidatura. 
+

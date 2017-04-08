@@ -1,0 +1,3 @@
+
+Desarrollo de aplicaciones Flex, con acceso a BBDD (Mysql). Deseable Java, PHP, C#, ...
+Interesante conocimientos de servidores Linux

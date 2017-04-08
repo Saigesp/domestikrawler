@@ -1,0 +1,10 @@
+
+Buscamos a alguien que tenga una sólida base creativa y buena base técnica a la hora de implementar conceptos creativos. Deseamos que sea un perfíl polivalente tanto para crear nuevos diseños como para rediseñar y maquetar lo existente.
+El trabajo en si incluye tanto el diseño visual de las páginas web(photoshop o similar) como la maquetación de las mismas en HTML/CSS.
+Requisitos:
+FP grado superior en multimedia/diseño web o formación autodidacta similar.
+Especialización en diseño web
+Perfecto conocimiento de estandares web: HTML,CSS2 y XHTML
+Otros conocimientos en PHP,Flash y Action Script
+Experiencia en el manejo de plantilla Smarty, XTemplates y experiencia con gestores de contenidos Joomla, Drupal, TYpo3.
+

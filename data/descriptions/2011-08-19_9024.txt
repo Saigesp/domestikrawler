@@ -1,0 +1,7 @@
+
+Empresa tecnológica dedicada a la Investigación, Diseño y Desarrollo para el sector gambling, ubicada en Barcelona. 
+¿Quiéres participar en una empresa, curyo business son los proyectos de investigación, desarrollo e implementación tanto software como hardware?
+Buscamos un/a profesional artístic@-técnic@ con experiencia en materias relacionadas con la generación de imagen sintética en TIEMPO REAL ( videojuegos, simuladores, etc.. )
+Se integrará en el departamento de I+D, en el grupo de desarrollo de un motor 3d multiplataforma de tecnología propia.
+Realizaras escenas, animaciones, shaders, además de apoyar la integración en la plataforma de gráficos de la empresa.
+

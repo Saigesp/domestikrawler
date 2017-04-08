@@ -1,0 +1,19 @@
+
+GTO Europe, Agencia de Marketing on-line con oficinas en Nueva York y en Madrid, busca un programador para sus oficinas de Madrid.
+
+Buscamos a un profesional  acostumbrado a trabajar por objetivos,  con deadline de entrega de proyectos web y que tengas grandes conocimiento en Drupal.
+Impescindible:
+titulación técnica (cc, ingeniería técnica o superior)
+conocimientos de php
+conocimientos de Drupal 6 (muy valorado)
+experiencia en el manejo de Drupal
+conocimientos de html, (x)html, javascript, jquery, css, apache
+soltura con consultas para mysql
+inglés técnico 
+Trabajo presencial diario
+Deseados:
+escabilidad (memcached, apc)
+Haya trabajado en grandes corporaciones 
+Ingles hablado y escrito (Será un plus)
+Experto en temas relacionados con internet, en constante actualización, con participación en blogs, foros tecnológicos, social media y con gusto por navegar en búsqueda de nuevos conocimientos.
+Dinamismo, creatividad, entusiasmo, capacidad de trabajo en equipo.

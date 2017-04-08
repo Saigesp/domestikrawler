@@ -1,0 +1,32 @@
+
+Se busca responsable de informática para formación de nuevo departamento. Se requiere persona seria y responsable con experiencia en:
+- Gestión de proyectos, captura de requisitos y diseño funcional y técnico de aplicaciones, así como desarrollo de sistemas software.
+- Configuración y gestión de redes.
+- Gestión de incidencias.
+- Soporte a usuarios.
+- Mantenimiento y configuración de equipos.
+- Experiencia en ERP
+- Experiencia en CMS.
+- Maquetación Web
+Las tecnologías requeridas para el puesto son:
+- Windows Server 2008 (IIS, RDM).
+- SQL Server.
+- Visual Studio 2005, trabajando con ASP.NET bajo framework 2.0 mediante lenguaje C#.
+- AJAX.
+- XSLT.
+- Jquery.
+- Javascript.
+- CSS.
+- XML.
+Muy valorable persona perteneciente a desarrollo web en sector comercial con conocimientos en:
+- SEO/SEM
+- Plataformas de pago y certificados de confianza.
+- Actionscript.
+- Optimización del código para seguimiento de estándares W3C.
+- Redireccionamiento sites y url rewriter.
+Se ofrece:
+- Puesto Estable.
+- Buen ambiente de trabajo.
+- Comida.
+- Crecimiento profesional.
+- Salario entre 24.000 y 27.000 € brutos/año según experiencia y conocimientos aportados

@@ -1,0 +1,34 @@
+
+Health Solutions Online busca un programador Front End Senior para trabajar a tiempo completo en el desarrollo de una nueva start-up internet, para incorporarse de manera inmediata.
+Health Solutions Online
+Health Solutions Online fue creada por 4 profesionales con experiencia en empresas punteras (McKinsey, Heineken, Sony, British Telecom), experiencia como emprendedores de éxito habiendo vendido ya parte de su primera empresa, y siendo graduados del Instituto de Empresa,  ICADE y Pontificia Salamanca.
+La empresa ha ganado un prestigioso concurso de start-ups respaldado por los mayores fondos de inversión de España y Europa. También está asesorada por reconocidos profesionales y empresarios de éxito demostrado en el sector de healthcare e internet.
+El candidato podrá entrar a formar parte de uno de los proyectos más ambiciosos del sector de healthcare de los últimos años con un equipo joven, multi-disciplinar, con espíritu ganador y confianza mutua. Health Solutions Online nace con el objetivo de facilitar la relación entre médico privado y paciente, ofreciendo a las dos partes funcionalidades para optimizar tiempo y recursos.
+Funciones del puesto
+El candidato formará parte de un equipo de trabajo dirigido por ingenieros con más de 10 años de experiencia en el sector. 
+Las funciones del puesto consisten en:
+- Responsable de la parte visual de la aplicación
+- Prototipado de interfaces
+- Desarrollo de interfaces
+- Testing en diferentes interfaces
+Todo esto lo llevará a cabo empleando creatividad, sentido de la estética, metodología y trabajo en equipo.
+Requisitos
+Experiencia laboral demostrable en:
+- 2 años en desarrollo front-end
+- Conocimientos avanzados de photoshop
+- HTML-HTML5
+- CSS
+- Usabilidad
+- Accesibilidad
+- Javascript
+- AJAX
+ - Alto grado de responsabilidad, pro-actividad e implicación en el proyecto.
+Las oficinas están ubicadas en el centro de Madrid por lo que deberá residir en Madrid.
+Se ofrece
+Se ofrece:
+-	un sueldo fijo + variable
+-	beneficios salariales adicionales
+Si tu perfil encaja con nuestra búsqueda nos pondremos en contacto contigo.
+Muchas gracias,
+Un saludo,
+El equipo de Health Solutions Online

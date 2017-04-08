@@ -1,0 +1,15 @@
+
+Empresa extranjera esta interesada en sumar Programadores con el siguiente perfil:
+•	Sólidos conocimientos y experiencia de modelos de  ciclo de vida de de desarrollo de software,  incluyendo Agile y  SCRUM  (conocimientos de otros modelos ayuda pero no excluyente)
+•	Conocimiento y Experiencia de PHP, AJAX, JavaScript, HTML, XML, arquitectura de base de datos de  MySQL y Subversión
+•	Se valora experiencia en Cake PHP y/ o  entorno  Ruby on Rails 
+•	Conocimiento y Comprensión de Perl, Ruby, Python. Cloud server technologies (i.e., Amazon Web Services – AWS) es preferible pero no excluyente. 
+•	Experiencia de trabajo en entorno de LAMP
+•	Solido conocimiento de construcción de API e integración de facturación
+•	Excelente comprensión del proceso de desarrollo de software a nivel empresarial
+•	Experiencia en construcción de SaaS systems
+•	Fuerte habilidad de organización 
+•	Experiencia en codificación para la  optimización de base de datos, en un entorno de desarrollo de software.
+El ambiente laboral es  divertido  y orientado a obtener siempre buenos resultados. Nuestro candidato ideal tendría que saber manejar esta dicotomía.
+Ideal candidatos residentes en el sur del Gran Bs. As.
+

@@ -1,0 +1,16 @@
+
+En Totbits buscamos un programador web con experiencia que nos ayude a desarrollar nuevos proyectos.
+Estamos especializados en proyectos de venta online y trabajamos en un entorno LAMP.
+Requisitos básicos:
+- Programación PHP y MySQL
+- Maquetación XHTML, CSS
+- Experiencia mínima de 1 año en desarrollos similares
+- Trabajo presencial. No buscamos freelance.
+Se valorará:
+- Experiencia en framework MVC
+- Conocimientos estándares W3C
+- Perfil responsable y organizado
+Se ofrece:
+- Trabajo a jornada completa
+- Incorporación inmediata
+- Buen ambiente laboral y proyectos variados

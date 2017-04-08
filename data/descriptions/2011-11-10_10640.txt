@@ -1,0 +1,19 @@
+
+Se busca un perfil de desarrollador  que debe cumplir los siguientes requisitos:
+Nivel Medio-Avanzado (experiencia mínima de 3 años) en:
+- Visual Studio / Mono
+- .NET Framework 3.5 (y 4.0)
+- Programación en C# (WebForms, WebServices, etc...)
+- ASP.NET
+- LINQ
+- JavaScript y varios frameworks (jQuery, Prototype y Mootools)
+- T-SQL (Transact-SQL)
+- IIS (Internet Information Services)
+- SQL Server / MySQL
+- XML, XHTML, CSS, AJAX
+- Control de versiones (SVN, Git, ...)
+Tener conocimientos de:
+- XSLT
+- Entity Framework
+- NHibernate
+- NUnit

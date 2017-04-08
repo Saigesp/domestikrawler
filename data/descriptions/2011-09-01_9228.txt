@@ -1,0 +1,3 @@
+
+Buscamos una persona con amplia experiencia en desarrollos escalables basados en PHP/MySQL.
+Conocimientos de arquitectura de sistemas e inglés nivel avanzado.

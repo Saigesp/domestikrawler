@@ -1,0 +1,7 @@
+
+Necesitamos un programador para generar una aplicación para Facebook con experiencia probada!
+App:
+La aplicación es del tipo "de qué equipo eres"
+a través de un cuestionario la persona accede a saber de qué equipo es.
+La respuesta le da la opción de acceder a un microsite para pedir una camiseta gratis
+Además se le da la opción de entrar en un sorteo si publica en su muro (necesitamos saber por tanto quién ha publicado para poder sortear el premio)

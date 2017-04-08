@@ -1,0 +1,26 @@
+
+Fitness Data Record somos una empresa que nos dedicamos a la fabricación de hardware (tarjetas) incluído dentro de aparatos de fitness. Estas tarjetas capturan los datos de los ejercicios y los envía vía IP a las bases de datos del servidor a través de una aplicación PHP en un centro de control.
+Por ello estamos buscando, para nuestro centro de control situado en Las Rozas (Madrid), un perfil de Programador PHP / MySQL Senior con las siguientes características:
+
+ Nivel alto de PHP / MySQL
+
+ Nivel alto de Joomla
+
+ Nivel alto de HTML y JavaScript
+
+ Conocimientos de Redes
+
+ No es imprescindible, pero si sabe ActionScript, mejor.
+
+ El puesto es presencial, no freelance.
+
+
+Ofrecemos:
+
+ Sueldo bruto anual 22.000 €
+
+ Jornada continua
+
+ Periodo de prueba con contrato.
+
+

@@ -1,0 +1,10 @@
+
+Nuestro cliente es una importante empresa en fase de expansión nacional e internacional, que opera en internet.
+En dependencia del director de IT, tendrá las siguientes responsabilidades: 
+Funciones:
+-Será el responsable de desarrollar la aplicaciones web de la empresa para Iphone, android...
+- Gestionará un equipo de desarrollo.
+- Deberá aportar conocimientos y experiencia previa como manager de aplicaciones móviles
+- Aportará experiencia y conocimientos de metodologías de desarrollo (Scrum)
+- Conocimientos de PHP, Zendframeword, 
+- Se valorará experiencia previa en una .com

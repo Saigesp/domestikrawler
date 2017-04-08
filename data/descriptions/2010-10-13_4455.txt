@@ -1,0 +1,9 @@
+
+Buenos días amigos de DOM EST IKA :) 
+Somos un grupo de emprendedores que estamos creando una start-up, estamos en proceso de crear nuestra propia empresa de seguridad. 
+¿Que necesitamos? pues es sencillo, necesitamos nuestra imagen corporativa Logo, Business Cards, etc... 
+¿Que ofrecemos? como aún no hemos recibido la inyección de capital y necesitamos tener una imagen de cara  los inversores, pues ofrecemos un completo hacking ético para tu web. 
+¿Cómo? hacking qué? para qué?pues eso el servicio por el que intercambiariamos vuestros servicios consiste en descubrir las deficiencias relativas a seguridad y las vulnerabilidades de vuestra web, analizarla y calibrar su grado de riesgo de manera que podamos recomendar las soluciones más apropiadas para cada una de ellas.
+En definitiva el hacking ético consiste en una penetración controlada en los sistemas informáticos de vuestra empresa de la misma forma que lo haría un hacker o pirata informático pero de forma ética :) 
+El resultado es un informe donde se identifican las vulnerabilidades de vuestra web.
+Espero que esto sea interesante para alguno de vosotros que tenéis vuestra propia empresa o página web y estéis interesados en evaluar la seguridad y como mitigar el riesgo.

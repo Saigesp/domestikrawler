@@ -1,0 +1,6 @@
+
+Hola!
+necesitamos especialista freelance con Wordpress. 
+Básicamente se trataría de implementar themes adhoc y desarrollar funcionalidades específicas en dicho theme bajo el codex de wp. Hasta el momento no hemos precisado del desarrollo de plugins adhoc.
+No se trata de un proyecto puntual, la idea es que nos prestes ayuda de forma recurrente.
+Gracias!

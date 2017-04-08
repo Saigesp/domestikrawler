@@ -1,0 +1,16 @@
+
+Start-Up con importante financiación y accionistas de referencia en el mundo online español busca un CTO con los siguientes requisitos:
+Experiencia
+- Mínimo dos años de experiencia en el desarrollo de webs
+- Experiencia en webs tipo directorio (Ejemplo: Páginas Amarillas, 11870, Idealista... )
+- Haber trabajado en webs en las que el tráfico sea una métrica relevante para el negocio. 
+- Web en la que el SEO haya sido relevante para la compañía. 
+Conocimientos
+- Avanzados: PHP, MySQL
+- Básicos: Lucene, Memcache (u otro sistema de Caching)
+- Software de control de versiones (ejemplo: SVN)
+- Conocimientos de sistemas básicos
+	- Instalación de un server
+	- Configuración y Tunning
+Cualidades
+- Experiencia en gestión de personas

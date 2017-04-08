@@ -1,0 +1,17 @@
+
+Our company's aim is to design, develop and implement educational projects in the field of Information and Communication Technologies.
+We are currently working on the development of a global educational project based on Drupal.
+We are looking for a Drupal developer with at least 6 months of experience with Drupal 6.x, who is willing to join our team and who has the following skills:
+- Experience in the development of LAMP web solutions
+- Experience in requirements gathering and analysis
+- Good knowledge of Views, CCK, i18n, migrate, drush, etc.
+- Custom module development
+- Good communication skills in English and Spanish
+- Experience with migration to Drupal is fully appreciated
+The conditions are as follows:
+- Permanent full-time job
+- Work Schedule: 9.30am-6.30pm from Monday to Thursday and 9.30am-2.30pm on Friday.
+- Location: Madrid Downtown (Serrano Street)
+- Salary: 21-23k €
+If you are an ambitious developer that is looking forward to fully develop your professional skills in a work environment full of passion and creativity, this is a perfect position for you.
+

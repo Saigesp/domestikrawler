@@ -1,0 +1,19 @@
+
+FUNCIONES:
+Soporte al Manager del Departamento de IT
+.- Diseño básico de maquetas para e- mail masivo
+.- Gestor de BBDD de Marketing y ventas: BBDD para enriquecimiento, filtrado, extracción y carga de datos, asi como control de calidad.
+.- Colaborador en procesos de Marketing directo para IVC y clientes: lanzamiento de campañas vía erial y reporting de sus resultados. Reportará el estatus de las mismas ( envíos-devoluciones-errores- un subscribe) así como las inscripciones y/o acceso a los enlaces patrocinados y de información, según lo requieran las campañas. 
+.- Apoyo en la integración de CRM IVC a SQL
+              .- Creación de Tablas
+              .- Carga de Datos
+              .- Testeo de la BBDD resultante
+REQUISITOS IMPRESCINDIBLES:
+.- Inglés (valorable otros idiomas)
+.- SQL
+.- HTML
+.- MS Access
+   Lenguaje Programación entorno web
+.- HTLM
+.- PHP
+

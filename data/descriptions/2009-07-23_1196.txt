@@ -1,0 +1,15 @@
+
+Somos una start-up, fundada y dirigida por 2 ex alumnos de la universidad de Harvard, con base en Barcelona que busca un programador (senior/semi-senior) para involucrarse en un proyecto dirigido al mercado del ocio.
+Se requiere como mínimo:
+- Experiencia intensa con PHP 4/5 y MySQL (LAMP environment)
+- Se valorará muy positivamente experiencia previa con Ruby On Rails.
+- Javascript (Prototype y jQuery)
+- Linux administration
+- Apache administration
+- Wordpress
+Valoramos sobre todo tus aptitudes.
+- Persona creativa, proactiva, de total confianza, autoexigente, buscando siempre la excelencia.
+- Dinámico, pragmatico, organizado, y metódico
+- Conocimientos de inglés es un plus, aunque no es imprescindible.
+Gracias,
+Max

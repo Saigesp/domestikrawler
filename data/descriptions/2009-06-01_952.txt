@@ -1,0 +1,21 @@
+
+En Wunderman Madrid estamos ampliando el equipo de programación creativa.
+Buscamos programador Flash senior creativo que tenga experiencia en agencias y que le guste estar a la última en interactividad, banners, entornos 3D, realidades aumentadas, etc, o por lo menos tenga ilusión por conocerlas y aplicarlas a la cartera de clientes.
+ Requisitos mínimos:
+- Sólidos conocimientos de Flash y ActionScript 2 (OOP).
+- Experiencia en campañas interactivas y Eyeblasters.
+- Manejo de herramientas de diseño como Photoshop, etc..
+- Capacidad de trabajo en equipo con programadores y creativos.
+Requisitos deseados:
+- Experiencia con ActionScript 3 y Flex. 
+- Conocimiento de tecnologías web HTML, CSS, AJAX, etc.
+- Cierta experiencia en PHP, ASP, u otros lenguajes de servidor son deseables.
+Contrato
+Tipo de contrato: Indefinido.
+Jornada laboral:
+Completa.
+Mas información y contacto:
+Sergio López / Keycode
+Coordinador Programación Creativa
+sergio.lopez@es.wunderman.com
+

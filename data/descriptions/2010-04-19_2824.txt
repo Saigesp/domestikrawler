@@ -1,0 +1,14 @@
+
+Hola a todos, necesitamos freelance para proyecto en específico. A continuación descripción del curro a realizar. interesados enviar CV y book con trabajos. abstenerse gente fuera de Madrid. Muchas gracias a todos.
+Site en:
+Flash + XML  +PHP 5.x +MySQL 5.x.
+El web gráficamente está orientada a la venta de  colecciones de moda, con diversos productos, categorizados, y realizar venta on-line. 
+La web es multidioma con publicación de productos idenpendientes del mismo.
+El front tendrá secciones fijas que serán modificadas mediante XML (textos e imágenes), y secciones dinámicas que son básicamente la de los productos, que se alimentarán con XML desde el backoffice.
+Desde el backoffice se tendrán que poder:
+• El contenido que administre el backofice debe ser 100% realizado con el mismo.
+• Administrar Colecciones, categorias,  subcategorias y productos (con todos sus elementos subidos desde el mismo backoffice)
+• Administrar los usuarios registrados (alta y bajas de newsleters, y envío).
+• Administrar las ventas on-line, configuración de formas de pago.
+• Estadísticas de ventas.
+• Administración de pedidos realizados.

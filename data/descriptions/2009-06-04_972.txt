@@ -1,0 +1,8 @@
+
+Hola, estoy buscando algún diseñador voluntario y voluntarioso que quiera "compartir" conmigo la creación de una aplicación de escritorio hecha en Adobe AIR.
+En principio, la tarea de la persona requerida sería la de diseñar la interfaz, el icono de la aplicación y la web de la misma, aunque, por supuesto se valorarán opiniones para la mejora de la aplicación.
+La aplicación está practicamente terminada (fase beta) y es una herramienta de creación y organización de proyectos, tanto para desarrolladores web como para diseñadores.
+Se presentará en una conferencia en septiembre, así que espero que la usen bastantes personas relacionadas con el diseño y desarrollo web.
+La aplicación será totalmente gratuita, por tanto, ninguno de los dos recibiremos ningún aporte económico, y aquí supongo que es donde todo el mundo dejará de leer la oferta :).
+Lo único que espero conseguir con esta aplicación es aprender creándola y que la use el mayor número de personas, si te apetece meterte en este fregao mándame un mail y hablamos :).
+Muchas gracias.

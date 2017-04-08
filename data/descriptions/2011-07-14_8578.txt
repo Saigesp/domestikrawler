@@ -1,0 +1,13 @@
+
+Visual Engineering es una ingeniería de software joven e innovadora que busca gente con ganas de aprender y evolucionar en el mundo de las tecnologías de la información y los entornos móviles. 
+En esta ocasión, buscamos a un/a desarrollador/a con un año de experiencia para la incorporación en un proyecto web 2.0 tecnológicamente puntero para una gran compañía española. 
+Se requieren conocimientos en:
+ - Desarrollos en J2EE/jsp
+ - Conocimiento de JavaScript
+ - Gestión de bases de datos SQL
+Así mismo, se valorará:
+ - Oracle
+ - Flash
+ - HTML5
+ - Desarrollos en plataformas móviles (iOS, Android, etc.)
+

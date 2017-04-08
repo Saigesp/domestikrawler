@@ -1,0 +1,28 @@
+
+Encargados del diseño y desarrollo de funcionalidades software en los proyectos y su posterior despliegue.
+Tareas
+Comprender y evaluar necesidades en infraestructura técnica.
+Evaluar requisitos de software e iniciar el diseño de soluciones.
+Desarrollo e implementación de soluciones en proyectos web.
+Utilizar y administrar sistemas de versionado de código fuente.
+Investigar, identificar y resolver problemas operativos.
+Configurar, optimizar, desplegar y administrar infraestructura web.
+Competencias necesarias
+Desarrollo PHP, SQL (MySQL).
+Fundamentos sólidos de HTML, CSS y Javascript (Mootools).
+Desarrollo en CMS's en general.
+Bases sólidas en Ingeniería de Software, Sistemas Operativos, Bases de datos, redes y protocolos de Internet.
+Modelado, análisis y diseño, de sistemas de información aplicando UML.
+Aplicación de metodologías de desarrollo de software.
+Elaboración de documentación de proyecto, tanto técnica como funcional.
+Competencias deseables
+Desarrollo de extensiones para TYPO3.
+Desarrollo Ruby y Ruby on Rails.
+Administración LAMP, Debian.
+Perfil
+Licenciados  en Ingeniería Técnica Informática y similares, o experiencia similar demostrable.
+Habilidad para manejar proyectos complejos, las expectativas de los clientes, y la rápida evolución de las necesidades del usuario.
+Experiencia mínima de 2 años, acostumbrados a trabajar en equipo, que demuestren gran capacidad de aprendizaje, superación y clara orientación a la consecución de objetivos de proyecto. 
+Nivel medio-alto de inglés
+Capacidad de innovar, priorizar, trabajar en varias tareas y trabajar bajo presión para entregar proyectos a tiempo
+Aptitudes técnicas y habilidades para resolver problemas mediante métodos de cooperación

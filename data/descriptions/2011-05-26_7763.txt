@@ -1,0 +1,6 @@
+
+Se busca programador con los siguientes requisitros:
+- Experiencia en programación: Python / Django, php, html, etc.
+- Conocimientos en integración de API´s.
+Posibilidad de trabajar como freelance.
+Se valorará conocimientos en diseño web

@@ -1,0 +1,3 @@
+
+Busco experto en sistemas de Microsoft, freelance que resida en la Comunidad de Madrid. Para dar soporte remoto (por horas al mes) de un servidor bajo Windows Server 2003 y SQL Server.
+Para realizar los servicios de mantenimiento y seguridad que el servidor requiera y pueda revisar los logs, resolver la optimización, el rendimiento del servidor y supervisar la seguridad del mismo.

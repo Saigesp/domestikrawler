@@ -1,0 +1,14 @@
+
+necesitamos incorporar 2 programadores php con experiencia demostrable de forma inmediata. En regimen de autonomo dependiente.
+Requisitos mínimos
+- Experto en PHP5 y MySQL
+- Cocimiento de pruebas unitarias, PHPUnit.
+- Experto en JavaScript, AJAX y de jQuery.
+- Conocimientos de XHTML y CSS
+- Conocimiento de algún Framework, preferiblemente Zend Framework.
+- Conocimiento de apache
+Se valorara
+- Capacidad de Trabajo en Equipo
+- Experiencia con algún CVS. 
+Lugar de trabajo: Madrid. Metro Santiago Bernabeu / Nuevos Ministerios.
+

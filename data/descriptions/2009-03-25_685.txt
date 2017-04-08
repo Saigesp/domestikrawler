@@ -1,0 +1,8 @@
+
+En Quince, agencia de publicidad  de Madrid (www.15publicidad.com) buscamos un diseñador / maquetador web.
+Imprescindible:
+-	Experiencia de al menos 2 años en proyectos web
+-	Buscamos a alguien con gusto y amor por el detalle, que desarrolle con mucha calidad el diseño tanto de un microsite en flash como de un site  tipo portal en HTML.
+-	Técnicamente fundamental el manejo tanto de herramientas de edición web como de diseño: photoshop, Ilustrator, flash y Dreamweaver.
+-	Algo de video y After effects son un plus
+-	Necesitamos a alguien capaz no sólo de hacer el diseño sino de además generar las páginas en HTML o flash. Así que es fundamental dominar perfectamente: HTML, CSS y tener nociones de php y XML

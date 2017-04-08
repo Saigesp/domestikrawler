@@ -1,0 +1,5 @@
+
+Buscamos empresas o profesionales independientes con experiencia demostrable en las siguientes áreas:
+- Implementación y desarrollo de plataformas Mediawiki.
+- Programación de skins a partir de PSD
+- Personalización de plantillas de artículos

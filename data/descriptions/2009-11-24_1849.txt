@@ -1,0 +1,10 @@
+
+Buscamos diseñador web junior. Alguien con un perfil amplio que sienta cómodo diciendo frases como:
+- &amp;quot;Una página web no se planea con el photoshop&amp;quot;
+- &amp;quot;El nombre de una clase en css no debe ser 'texto12pxAzul'&amp;quot;
+- &amp;quot;La usabilidad no se pelea con el diseño&amp;quot;
+- &amp;quot;Esto en ie6 no se va a ver bien, pero se puede hacer de otra forma para que se vea&amp;quot;
+- &amp;quot;La solucción que busquemos para este formulario debe extenderse a todos los formularios de la web&amp;quot;
+- &amp;quot;Aquí sobran etiquetas HTML...&amp;quot;
+En definitiva, alguien que se maneje bien (aunque no sea un experto) con: photoshop (o fireworks), (X)HTML, CSS, librerias de javascript y que crea que la usabilidad no es su enemiga sino más bien lo contrario.
+

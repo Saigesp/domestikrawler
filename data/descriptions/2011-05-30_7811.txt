@@ -1,0 +1,12 @@
+
+Startup de venta online de material deportivo y fitness deporvillage.com, recientemente premiada en SeedRocket, busca programador senior de php y mysql para responsabilizarse del desarrollo tecnológico del webiste realizado en Magento. En función del desarrollo puede optar a CTO y a un plan de acciones.
+El trabajo consisitirá en responsabilizarse del área tecnológica de deporvillage. Entre las tareas estarán optimizar el funcionamiento y rendimiento del site, implementar todas las mejoras y desarrollos para la evolución del negocio y asegurarse de la disponibilidad de la tienda 24/7.
+Se busca persona con perfil emprendedor e iniciativa propia con experiencia mínima de 3 años en plataformas de e-commerce.
+- Experto php / mysql
+- Imprescindible experiencia en e-commerce
+- Carácter emprendedor
+- Conocimientos maquetación html y entornos ajax
+- Preferiblemente conocimientos Magento o Zend Framework
+- Valorable residencia en Manresa o la comarca del Bages.
+Altas posibilidades de desarrollo profesional en una empresa joven en fase de crecimiento. Considerable creación de plan de acciones para la retención del talento.
+Deporvillage.com es una tienda online de material deportivo y fitness lanzada en verano del 2010 y que recientemente ha ganado el campus SeedRocket que premia a las mejores startups de internet. La misión de deporvillage es convertirse en el líder europeo de venta online de material deportivo y fitness en Europa.

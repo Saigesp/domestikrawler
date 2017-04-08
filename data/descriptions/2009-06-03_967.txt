@@ -1,0 +1,13 @@
+
+La persona seleccionada se encargará de realiza el mantenimiento preventivo y correctivo, así como la evolución de los sistemas de las diferentes entidades de acuerdo a los cuadernos de carga.
+Realizará pequeños análisis evolutivos de las soluciones existentes, en coordinación con los responsables de desarrollo de cada uno de los procesos de negocio.
+Además se encargará de desarrollar en las diferentes tecnologías existentes las soluciones y aplicaciones demandadas por las áreas de negocio.
+Funciones:
+Mantenimiento de las soluciones verticales, portales específicos y temáticos, desarrollados para las diferentes iniciativas.
+Mantenimiento y soporte en los portales y soluciones desarrolladas como parte del proyecto de publicidad y clasificados.
+Especialización en MT4.
+Requisitos mínimos;
+Técnico en informática de sistemas
+Experiencia mínima de al menos un año
+Experiencia en programación PHP con MYSQL, J2EE, Oracle y conocimientos de HTML,DHTML,CSS,Javascrip, XML y de Apache.
+Se valorará el conocimiento de herramientas de maquetación web y de diseño gráfico, asi como el conocimiento de dominios y administración de servidores.

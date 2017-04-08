@@ -1,0 +1,11 @@
+
+Buscamos a un programador freelance (incorporación inmediata con contrato mercantil) para el front-end de  Questionity, una nueva red social, con experiencia sólida en el desarrollo de aplicaciones web sobre en entorno LAMP. El puesto requiere mucha experiencia en CSS, maquetación y compatibilidad con los distintos browsers:
+- Framework CakePHP. 
+- JQuery 1.4 o superior. 
+- PHP5
+- Plugins: fancybox (http://fancybox.net). 
+- Otros: XHTML, XML, etc. 
+- Conocimientos en herramientas de desarrollo de software: Subversion, Bugzilla, Firebug, ... 
+- Se valorará experiencia en el desarrollo de proyectos software siguiendo metodologías ágiles (SCRUM). 
+- Se valorará experiencia en proyectos web de gran envergadura (millones de páginas vistas/mes), especialmente si tienen perfil de red social 
+

@@ -1,0 +1,10 @@
+
+Perfil	
+- Al menos 2 años de experiencia realizando tareas similares.
+- Conocimientos avanzados de XHTML, CSS2 y estándares web. 
+- Conocimientos básicos de PHP (entender el código PHP y fundamentos de programación). 
+- Experiencia en webs accesibles, usables y estándares.
+- Conocimientos de Javascript y jQuery.
+- Formación Ciclo formativo superior.
+Puesto
+Dentro del departamente de Front End, la persona seleccionada se hará cargo de la maquetación de la página web, mails, etc. así como de la gestión de los contenidos de la misma.

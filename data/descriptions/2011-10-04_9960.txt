@@ -1,0 +1,13 @@
+
+Desarrollo de aplicación movil en un framework que con un solo codigo soporte distintas plataformas (iOS, android, etc.).
+La web está en proceso de desarrollo, se ha utilizado una plantilla de wordpress usando custom posts para los artículos y están categorizados (utilizaremos categorías para las categorías, y etiquetas para las ciudades).
+Necesitamos:
+Webservices
+Registro(email y contraseña)
+Códigos para los cupones(son generados en la web también)
+Ofertas geolocalizadas. Localización del usuario y de las ofertas en el mapa.
+Ofertas por categorias: ocio, comida, etc.
+Mi cuenta: mis cupones, en vigor, caducados...
+Notificaciones para los usuarios cuando hay nuevas ofertas que le interesen
+Compartir ofertas(Facebook, twitter, email, etc.)
+Diseño(muy parecido a groupon por lo que llevaría poco esfuerzo)

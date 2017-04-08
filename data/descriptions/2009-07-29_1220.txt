@@ -1,0 +1,12 @@
+
+Buscamos un programador web con las siguientes habilidades
+- Mínimo un año de experiencia
+- trabajar en la agencia
+- Conocimientos arquitectura cliente - servidor
+- Conocimientos administración en alguno de los siguientes servidores: Apache / tomcat 5 o 6
+- Experiencia demostrable en desarrollos web en alguno de los siguientes lenguajes de servidor: PHP 4 / php 5 o Java 5/6
+- habilidades en programación orientada a objetos
+- Experiencia en lenguajes/ tecnologías cliente: XHTML CSS 2.0 y Javascript, XML, AJAX
+- Experiencia en creación y/o gestión de alguna de las siguientes bases de datos: Mysql u oracle
+- Capacidad de trabajar en equipo, proactividad
+- Residente en Barcelona

@@ -1,0 +1,23 @@
+
+Estamos buscando un Desarrollador Web. Necesitamos un programador creativo y que le apasione el diseño, on y off line. 
+Requisitos:
+- Dominio de uno o varios de los siguientes lenguajes de programación (PHP5, Javascript). Si sabes otros 
+- Dominio de maquetación bajo estándares XHTML/HTML5 - CSS2/CSS3 (multinavegador)
+- Conocimiento de AJAX
+- Conocimiento de MySQL
+Tendremos en cuenta:
+- Gran dominio de JQuery y plugins de Javascript
+- Conocimiento de programación orientada a redes sociales
+- Conocimiento de Frameworks PHP (Yii, Cake, Joomla, Wordpress, Magento, etc.)
+- Programación PHP orientada al MVC (Modelo Vista Controlador)
+- Manejo del API de Google Maps
+- SEO (Optimización de motores de búsqueda)
+- Iniciativa para innovar
+Tareas a desarrollar:
+- Programar aplicaciones web para clientes.
+- Retocar aplicaciones existentes corrigiendo errores y optimizando resultados.
+- Maquetar interfaces basadas en diseños gráficos teniendo cuidado en la usabilidad.
+- Estar al dia en nuevas tecnologías y metodologías de desarrollo web.
+Experiencia: mínimo un año 
+Sueldo a convenir
+Enviar email con CV y proyectos de referencia.

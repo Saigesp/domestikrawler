@@ -1,0 +1,15 @@
+
+Perfil del candidato:
+Se busca una persona responsable, dinámica, organizada y con alta capacidad de gestión y planificación. Con capacidad de superación y gusto por el detalle.
+Su trabajo consistirá en desarrollar aplicaciones web y multimedia a partir de una propuesta de concepto y diseño previamente definida. Paralelamente puede desarrollar trabajos de apoyo y complementar al departamento de diseño en labores de retoque fotográfico, maquetación de textos y otras funciones relacionadas con este campo.
+Conocimientos indispensables:
+- Html avanzado: ser autosuficiente en maquetación y estructuración de sites
+- Creación de Hojas de estilos CSS
+- Programación JavaScript: desarrollo de funciones con programación orientada a objetos
+- Tecnología Flash nivel avanzado: composición grafica, animación y programación ActionScript
+- Posicionamiento web e indexación de sites de cara a buscadores. SEO
+- Conocimientos de hosting, dominios y gestión de FTPs y cuentas de correo POP/SMTP
+- Bases de Datos: principalmente XML y Access. Se valorará muy positivamente conocimientos de MySQL o SQL Server
+- Se valorarán especialmente conocimientos en PHP o ASP y ASP.NET
+- Experiencia en el desarrollo de aplicaciones multimedia: CDs y DVDs interactivos, presentaciones multimedia, etc
+- El candidato ha de tener conocimientos avanzados en el uso de herramientas de diseño y composición gráfica con el paquete Adobe (Photoshop, Illustrator, InDesign ...)  entre otros.

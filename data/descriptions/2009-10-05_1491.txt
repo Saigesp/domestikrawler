@@ -1,0 +1,13 @@
+
+Buscamos un programador web (especialista en Actionscript), con experiencia demostrable, para incorporarse a nuestro equipo de trabajo en Madrid y trabajar en el desarrollo de aplicaciones concretas y distintos proyectos online; con amplios conocimientos en:
+Actionscript (2.0 y 3.0)
+Flex-Air
+Php
+MySQL
+Gestores de Contenidos (CMS)
+Se valorará positivamente el dominio de:
+Html - Css
+Javascript
+Frameworks: jQuery, Mootools...
+Se tendrá en consideración dominio de Photoshop, illustrator y Flash.
+A parte de los conocimientos técnicos necesarios, deberá de tener inquietudes y facultades en el campo del diseño digital. 

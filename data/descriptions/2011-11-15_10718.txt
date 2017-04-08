@@ -1,0 +1,35 @@
+
+Buscamos:
+Empresa del sector juguete situada en área metropolitana de Barcelona está buscando un programador AS3 con experiencia, versado en Flash y especialmente en programación juegos AS3 para que se una a nuestro equipo. El candidato ideal deberá tener una base sólida en ingeniera del software e intereses en diseño y experiencia de usuario.
+Responsabilidades
+• Desarrollo, y mantenimiento de nuestros juegos AS3 (móviles y web), aplicaciones basadas en Flash y contribuir a producir nuevos productos innovadores.
+• Seguir las best-practices  y realizar código optimizado para asegurar que las aplicaciones operan eficientemente frente a alto tráfico.
+• Trabajar con QA para asegurar el diseño de software testeable y sostenible.
+Ofrecemos:
+El contrato será para el proyecto inicial del juego AS3 con altas posibilidades de incorporarse a la plantilla al acabar.
+Presencial, para incorporación inmediata.
+Salario a convenir acorde a la experiencia aportada por el candidato.
+Requerimos:
+Requisitos
+• Licenciado en Informática o experiencia/nivel equivalente.
+• 2+ años de desarrollo de software en Flash o Flex usando ActionScript 3.0 y experiencia con Adobe Air.
+• Nivel sólido en programación orientada a objetos y patrones básicos de diseño de software y videojuegos.
+• Debe mostrar código/juegos AS3 previos para ser considerado para el puesto.
+ 
+Deseamos:
+Se valorarán
+• Experiencia con motores como Box2D, Flare3D, Papervision, etc.
+• Experiencia en comunicación AS3 con web services, bases de datos y SQL
+• Experiencia programación funcionalidades online.
+• Experiencia con tecnologías de lado del servidor como PHP.
+• Inglés.
+Salario:
+28.000-32.000 €
+Experiencia:
+1 a 3 años
+Idiomas:
+Inglés
+Condiciones:
+Tipo de contrato: Por obra
+Jornada: Completa
+

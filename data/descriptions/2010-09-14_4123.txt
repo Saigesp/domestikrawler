@@ -1,0 +1,14 @@
+
+- Responsable del diseño de los desarrollos web (nuevos sites, nuevas secciones, páginas de marketing y publicidad).
+- Construir y depurar el HTML y los estilos CSS de los desarrollos web.
+- Dar soporte a los departamentos de comercial y/o marketing para la creación de soluciones web (adaptaciones de banners, páginas de promociones, landing pages de campañas, ....)
+REQUISITOS
+- Nivel avanzado en XHTML y CSS trabajando sin tablas y cumpliendo los stándares de la W3C.
+- Nivel avanzado en uso de PhotoShop u otro programa de edición de imágenes.
+- Experiencia con JavaSript y JQuery.
+- Conocimientos de Flash/Silverlight.
+- Experiencia previa en sites de contenidos con alto volumen de tráfico.
+- Experiencia en el desarrollo de soluciones web optimizadas para SEO y en el desarrollo de campañas gráficas a partir de un perfil gráfico (briefing) predefinido.
+- Se valorará experiencia en la construcción de webs con  Drupal (no son necesarios conocimientos de programación).
+- Nivel avanzado de inglés.
+

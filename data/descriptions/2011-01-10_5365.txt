@@ -1,0 +1,5 @@
+
+-Conocimientos sólidos de (x)HTML, CSS 2.1, CSS 3, JavaScript, AJAX y Accesibilidad Web
+-Experiencia en desarrollo de páginas testando en varios navegadores (IE 6, 7, 8, Firefox, Chrome, Safari, Opera, etc)
+-Experiencia y conocimiento de las aplicaciones habituales de la Suite de Adobe, como Photoshop o Illustrator, domine también Flash y ActionScript (si es 3.0 mucho mejor). Valoraremos mucho vuestros trabajos de edición no lineal de vídeo.
+Buscamos a alguien capaz de diseñar y maquetar la interfaz web de un proyecto en Internet.

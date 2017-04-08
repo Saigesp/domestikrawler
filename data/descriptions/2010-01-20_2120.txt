@@ -1,0 +1,17 @@
+
+-Seleccionamos candidatos para practicas con las siguientes funciones a realizar:
+Desarrollo de aplicaciones sociales
+Integración de canales sociales
+Explotación/Integración de API's sociales (YouTube, Facebook)
+Gestión/Integración de BBDD
+Adaptación/Integración/Desarrollo de Themes/Plugins para plataformas de blogging (WP)
+-Con los siguiente conocimientos:
+AJAX
+PHP 5
+MySQL 5
+Actionscript 3
+XHTML+CSS3
+XML
+Persona con ganas de aprender e iniciativa.
+Posibilidades reales de contratación en empresa despues de las practicas. 
+Para comenzar el 15 de Febrero

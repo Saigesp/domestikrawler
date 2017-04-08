@@ -1,0 +1,11 @@
+
+Somos una consultoría de usabilidad y diseño centrado en el usuario. Ofrecemos soluciones para mejorar la experiencia de las personas en cualquier tipo de interfaz (sitios web, intranets, terminales financieros, cajeros, dispositivos móviles…).
+Necesitamos incorporar a una persona en contrato de prácticas a media jornada, que colabore con nosotros para realizar tareas de diseño de interacción y maquetación en HTML + CSS en nuestras oficinas de Sant Cugat (Barcelona). 
+Ofrecemos la posibilidad de incorporarse definitivamente en plantilla una vez finalizado el contrato de prácticas.
+Requisitos:
+ - Gusto por el diseño sencillo, limpio y simple.
+ - Conocimientos de HTML + CSS
+ - Estar matriculado en alguna escuela con la quepodamos establecer un convenio para la beca.
+Requisitos deseados:
+ - Participar de la filosofía del diseño de la sencillez o simplicidad
+ - Conocer y tener sensibilidad por la accesibilidad

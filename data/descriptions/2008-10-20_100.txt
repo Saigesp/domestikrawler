@@ -1,0 +1,16 @@
+
+Hola!
+AQUENT está buscando a un programador PHP (preferiblemente v.5) para incorporarse durante 2/3 meses a un proyecto de uno de nuestros clientes. El talento deberá trabajar la jornada completa en las oficinas de nuestro cliente, situadas en Barcelona.
+Sus funciones se centrarán en dos áreas de desarrollo distintas:
+- Customización a nivel de desarrollo de interfaz de usuario de un portal de empleo
+- Programación de un agregador de ofertas de empleo
+Requisitos
+Formación Profesional Grado Superior - Informática
+Experiencia: Al menos 2 años
+Requisitos imprescindibles
+- Lenguajes de programación: PHP (v.5), Java y HTML
+- CSS
+- Haber trabajado con sistema de plantillas Smarty (o similar)
+- Experiencia en la programación estructurada por capas
+- Haber trabajado con software de sistema de control de versiones (Subversion preferiblemente)
+- Entorno de desarrollo UNIX (servidor de pruebas)

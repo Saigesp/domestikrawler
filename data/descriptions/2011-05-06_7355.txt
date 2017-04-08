@@ -1,0 +1,13 @@
+
+Buscamos un perfil de freelance de diseño gráfico con experiencia previa y portfolio en diseño de aplicaciones o juegos para dispositivos móviles.
+El trabajo no es presencial, aunque requerirá de reuniones periódicas para el seguimiento del proyecto mediante video-conferencia. Aún así valorará residencia en Madrid.
+Se solicita prespuesto para la realización de:
+- Logotipo 
+- Pantalla splash o de presentación de la aplicación
+- Fondo, cromática de la aplicación y tipografías
+- 4 botones o imágenes para pantalla principal  
+- Pantalla de listado de resultados y la creación de 5 iconos 
+- Pantalla de vista en detalle con mapa geolocalización
+- Pantalla visualización RSS  
+Gracias.
+ 

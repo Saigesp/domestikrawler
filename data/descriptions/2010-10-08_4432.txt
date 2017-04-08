@@ -1,0 +1,6 @@
+
+Buscamos un programador web para incorporarse a nuestro equipo.
+Imprescindible experiencia en PHP, programación orientada a objetos y estructura Modelo-Vista-Controlador. MySql. Html + CSS + Jquery. 
+Se valorarán conocimientos en ASP, .Net, y SQLServer. 
+Si además has trabajado con Actionscript 3 y SDK Apple, mejor que mejor. 
+Buscamos a alguien implicado, responsable, con dotes para trabajar en equipo y con muchas, muchas ganas de aprender. 

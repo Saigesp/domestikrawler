@@ -1,0 +1,5 @@
+
+Buscamos un programador con experiencia en .NET para colaboración en proyecto durante los meses de Julio - Diciembre con posibilidad de incorporación.
+Se requieren conocimientos en: Framework .NET (mínimo 2.0 deseable 3.5), Manejo avanzado de bases de datos desde .NET, Bases de datos SQL (preferiblemente mySQL).
+Zona de residencia: Comunidad de Madrid.
+Para realizar la evaluación se solicitarán ejemplos de proyectos realizados. 

@@ -1,0 +1,8 @@
+
+Programador PHP .
+Mobile Dreams Factory, agencia líder en Mobile Marketing, con oficinas en Madrid y Nueva York, necesita incorporar en sus oficinas en Madrid por un periodo de TRES MESES un Programador PHP para participar en varios de los proyectos que la compañía tiene en marcha.
+Se ofrece una remuneración atractiva y la posibilidad de participar en interesantes proyectos con grandes marcas.
+Requisitos:
+Experiencia en desarrollo en entorno LAMP (PHP, MySQL sobre servidor Apache).
+Con experiencia en desarrollo con XHTML, CSS, Javascript (empleando algún framework tipo JQuery).
+Familiarizado con la creación y manejo de WebServices (SOAP)

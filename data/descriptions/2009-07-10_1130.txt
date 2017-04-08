@@ -1,0 +1,18 @@
+
+We're an international interactive agency and we're looking for a great flash developer with experience on high profile digital marketing campaigns, including microsites and rich media advertising.
+Skills Required:
+- Perfect knowledge of AS2 and AS3 (at least 2-3 years experience).
+- Capability to create completely dynamic and scalable sites (XML/database).
+- Advanced programming skills, well structured and organized.
+- Good OOP with examples to prove it.
+- Experience working with sound and video.
+- Coded animation experience (TweenLite, Tweener, gTween, etc.)
+- Experience with 3D engines or Physics engines.
+Other Desired Skills:
+- Familiar with Flex Builder, Eclipse + Flex SDK or FlashDevelop.
+- Familiar with PureMVC or Gaya Frameworks.
+- SVN working experience. 
+- SWFAddress
+- Experience with banner platforms.
+- Flash Media Server or red5 platform knowledge.
+If you think you are the right candidate and would like to join a very dynamic studio in central Barcelona, then send us your details and examples of your work.

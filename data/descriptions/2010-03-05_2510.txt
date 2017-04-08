@@ -1,0 +1,20 @@
+
+You are not a super php rock star, but you know how to write working, maintainable, tested php source code?
+You are not a CSS ninja, but you know how to write tableless HTML pages?
+Your last name is not AJAX, but you know how to use Prototype or jQuery to code ajax?
+You are not necessarily a sysadmin, but you know how to setup your own linux machine including LAMP?
+You are passionate about what you do and especially developing hot web application?
+You are reliable, honest and willing to keep on learning and improving every day?
+You speak english and you understand all of the above?
+Then maybe you are the right person to join our development team in modelmanagement.com?
+If you also meet the following requirements, we would like to receive your CV:
+Coding experience:
+- PHP5 experience: 3+ years - OR -
+OR
+- RoR experience: 2+ years and PHP experience: 1+ years
+Furthermore:
+- Experience with a php framework: symfony, cake, zend, akelos
+- Experience with: prototype or jquery
+- Experience with CSS
+- Experience with Mysql
+- Experience with Linux 

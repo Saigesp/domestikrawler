@@ -1,0 +1,13 @@
+
+Ingeniero Técnico
+Requisitos mínimos:	
+- Experiencia al menos de 4 años en entorno de desarrollo y definición.
+ - Sólida experiencia en programación J2EE, liderenado y supervisando proyectos
+- Conocimientos en Spring, JSON, Javascript, Ajax 
+- Experiencia en desarrollo de portlets con conocimientos en liferay, Vignette portal, Tridion, Fatwire
+Requisitos deseados:	
+- Orientación a resultados y clientes
+- Conocimiento de Portlets y experiencia en framework
+- Inglés Medio-Alto
+- CERTIFICACIONES OFICIALES
+

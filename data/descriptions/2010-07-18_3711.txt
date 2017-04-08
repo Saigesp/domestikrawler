@@ -1,0 +1,30 @@
+
+Gameloft , compañía líder a nivel mundial de videojuegos para móviles y consolas Fundada en 1999, se ha convertido en uno de los principales innovadores en su campo y es reconocido mundialmente  por la calidad de sus juegos.
+A raíz de su estrategia de constante entrega de los mejores juegos a los jugadores de todo el mundo, Gameloft está abriendo ahora un nuevo estudio de creación en Madrid.
+PROGRAMADOR VIDEOJUEGOS 3D (C++)
+Misión:
+Como miembro del equipo de desarrollo deberás involucrarte en el ciclo de creación de los videojuegos 3D de principio a fin del proceso, buscando en todo momento soluciones creativas.
+Las responsabilidades diarias incluyen el desarrollo y debug del código, integración de gráficos, sonido y componentes de red, formando parte de un equipo dinámico y con autonomía.
+Se ofrece:
+• La oportunidad de trabajar en un estudio de nueva creación y aprender en un entorno profesional con personas apasionadas por la creación de videojuegos.
+• Clima de trabajo que ofrece apoyo, con un equipo joven, dinámico, internacional  y con un estilo de comunicación abierta.
+• Posibilidades de desarrollo profesional: Lead Programmer
+• Contrato indefinido
+Requisitos mínimos:	
+• 2-3 años de experiencia profesional de programación para programadores Senior 
+• Experiencia en algoritmos 3D para motores gráficos (habilidades de
+matemáticas 3D)
+• Experiencia en OpenGL/DirectX
+• Conocimientos profundos de C, C++ y experiencia programando en ello
+• Alta motivación y pasión por los videojuegos
+• Titulación académica
+• Facilidad para trabajar en grupo e iniciativa
+• Alta creatividad y capacidad de análisis
+• Disponibilidad para residir en Madrid
+• Se requerirá la realización de un test técnico
+Requisitos deseados:	
+• Experiencia previa en desarrollo de videojuegos en consola
+• Experiencia en sdk de desarrollo para plataformas moviles o consolas, como iphone, nintendo ds, etc
+• Experiencia en el uso de cualquier engine 3D (commercial o no) como Unreal Engine o Unity
+Interesados/as enviar CV con referencia “Programador C++” a recruitment.madrid@gameloft.com
+

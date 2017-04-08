@@ -1,0 +1,16 @@
+
+Somos una empresa joven en expansión que busca formar un equipo estable de programadores.Ahora mismo estamos buscando profesionales autónomos que estén disponibles para trabajar en nuestras oficinas de Madrid.
+La idea es formar un equipo estable para trabajar en este y todos los proyectos futuros.Buscamos programadores auto-suficientes que posean conocimientos sólidos en:
+- programación orientada a objetos.
+- programación PHP4 y PHP5.
+- Conocer algún framework PHP.
+- programación con Javascript, jQuery, etc...
+- Tener nociones de HTML y CSS.
+- Diseño de bases de datos MySQL.
+- Conocimientos en SQL.
+- Familiarizado con entornos Linux.
+- Conocer algún control de versiones, preferiblemente Subversion.
+- Saber usar APIs de terceros, ejemplo Facebook, Google Maps, Paypal, etc....
+- Capacidad de aprendizaje auto-didacta.
+- Conocimientos de inglés técnico leído y escrito.
+La incorporación sería inmediata.

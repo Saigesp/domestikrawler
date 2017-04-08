@@ -1,0 +1,21 @@
+
+MISIÓN
+Desarrollo y programación FrontEnd de creatividades rich media y microsites con mucha interactividad.
+Asesoría y soporte técnico sobre desarrollo del lado cliente para el departamento creativo.
+FUNCIONES PRINCIPALES
+•	Trabajar en equipo con diseñadores y desarrolladores para el correcto funcionamiento de las creatividades.  
+•	Programación ActionScript de microsites completos, tanto la parte de movimientos interactivos como envío y recepción de datos a una BBDD.
+•	Idea y código de la interactividad en banners rich media.
+•	Desarrollo de la estructura de las páginas web y su comunicación con servidor.
+•	Montaje de piezas de publicidad online asignadas.
+•	Asesoría y soporte técnico.
+PERFIL PROFESIONAL –  FORMACIÓN Y CONOCIMIENTOS REQUERIDOS
+Titulación Superior en Informática o conocimientos similares.
+Dominio de Flash a nivel de desarrollo.
+Nivel avanzado de programación en ActionScript.
+Conocimientos medios de desarrollo con programas de diseño (Photoshop, Freehand, Illustrator…)
+Maquetación HTML y programación JavaScript.
+Conocimientos medios sobre el entorno web, css, gestión de capas, navegadores web…
+EXPERIENCIA PREVIA
+Al menos 3 años de experiencia programando en ActionScript y desarrollando en Flash con trabajos demostrables.
+

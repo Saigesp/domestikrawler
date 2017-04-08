@@ -1,0 +1,7 @@
+
+En ideateca buscamos programadores expertos, principalmente, en PHP/MySQL y que sean unos apasionados de los servicios web 2.0 que se van desarrollando en la empresa. 
+ideateca NO trabaja para terceras empresas. Los proyectos de ideateca con propios, y el equipo de desarrollo del que formará parte el candidato colaborará en la mejora de los servicios, así como en la investigación y creación de nuevos, en áreas como los blogs, las redes sociales, geolocalización, mobile web y Second Life. 
+-Imprescindible: PHP 
+-Se valorará: Programación web en general, CSS, AJAX.
+Lugar de trabajo: Bilbao, centro. Se valorarán candidaturas de personas que vivan o estén dispuestas a vivir a menos de 100 km de Bilbao, ya que el acudir a diario no es imprescindible. 
+Se incorporarán 10 programadores de diferentes niveles, y su sueldo irá en relación a su valía.

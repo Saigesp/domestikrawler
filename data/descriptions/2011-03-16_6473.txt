@@ -1,0 +1,5 @@
+
+Hola a todos: buscamos a alguien que tire el render de un plano en 2K (2.048 x 1.024). He visto varias granjas de render pero se van de precio. La media del render en un Intel Xeon 5500 es de 40 minutos por frame.
+El plano está en Maya 2011. Necesitaríamos que estuviera renderizado en unos 7 días, más o menos. 
+Los interesados, por favor contactad conmigo en: micorto@yahoo.es
+Muchas gracias.

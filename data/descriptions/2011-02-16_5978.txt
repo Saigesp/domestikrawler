@@ -1,0 +1,25 @@
+
+eMascaró especializada en la consultoría, creatividad y desarrollo de proyectos de marketing y comunicación Interactivos busca incorporar un nuevo perfil profesional en su equipo de las oficinas de Barcelona.
+eMascaró es una empresa líder en el sector de servicios de Internet y trabaja con grandes organizaciones y empresas.
+Apuesta por los tres pilares de servicio basados en Estrategia, Creatividad e Innovación, ofreciendo un servicio de valor añadido que le ha permitido ganar una gran reputación en el mercado.
+Somos un equipo de 30 personas, formados por expertos en diferentes materias como Consultoría, Creatividad, Desarrollo e Innovación.
+Ofrecemos un lugar de trabajo donde podrás crecer y desarrollar sus actitudes y aptitudes profesionales, trabajando con los proyectos más interesantes y rodeados de un equipo de máximo nivel.
+Perfil: Programador PHP Senior
+Requisitos mínimos
+- Experto en PHP5 y MySQL, con experiencia profesional de más de 3 años.
+- Experiencia y dominio en programación orientada a objetos.
+- Conocimientos en patrón MVC.
+- Conocimientos avanzados de XHTML, CSS2.
+- Conocimientos avanzados en Javascript, jQuery librerías similares.
+- Conocimientos básicos de Photoshop y Flash.
+Requisitos deseados
+- Muy valorado:  conocimientos en configuración de servidores y módulos Apache
+- Experiencia en el manejo de plantillas (Smarty, PowerTemplate...). 
+- Dominio de Frameworks PHP (Zend, Symfony, etc)
+- Conocimientos en Unittesting, software de control de versiones y otras herramientas  de los procesos de desarrollo.
+- Uso avanzado de Photoshop, Flash y ActionSript.
+- Conocimientos en desarrollo de aplicaciones móviles (Android, iPhone)
+- Nivel intermedio de inglés
+Tipo de contrato: 6 meses + Duración Indetermina
+Horario: Lunes a Viernes de 9h a 18h
+

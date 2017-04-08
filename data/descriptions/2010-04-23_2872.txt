@@ -1,0 +1,9 @@
+
+Necesitamos un programador/a para un periodo de 2 meses en nuestras oficinas de Madrid:
+Requisitos deseados:
+- Programación en ASP, PHP
+- SQLServer, MySQL.
+- Lenguajes como XHTML, CSS y Javascript (jquery,mootools)
+Se valorarán muy positivamente conocimientos de VISUAL BASIC.NET
+Horario de Lunes a Jueves de 9.30 a 14.30 y de 16 a 19.
+El viernes de 9 a 15.

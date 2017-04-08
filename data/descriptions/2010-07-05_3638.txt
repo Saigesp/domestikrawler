@@ -1,0 +1,7 @@
+
+Near Technologies precisa incorporar un testeador Selenium con experiencia en:
+Unit testing
+Selenium
+Pruebas de carga
+Conocimientos de PHP
+Se incorporará en uno de nuestros clientes con mayor proyeccion (E-commerce).

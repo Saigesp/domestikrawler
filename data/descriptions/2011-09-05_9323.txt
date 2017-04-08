@@ -1,0 +1,2 @@
+
+Se trata de un proyecto de grandes dimensiones que combina características de redes sociales, portales de contenido e internet TV. Buscamos un programador muy experto en Ruby y RoR que pueda liderar su evolución ejerciendo al mismo tiempo de CTO.

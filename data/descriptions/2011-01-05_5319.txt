@@ -1,0 +1,21 @@
+
+El Caso Winslow anda tras la pista de un  Maquetador/Programador Web. 
+Puede ser Freelance presencial o tener ganas de incorporarse al equipo de la investigación.
+Los requisitos mínimos que debe cumplir para poder resolver los enigmáticos casos que nos plantean nuestros clientes son:
+- Experiencia demostrable en maquetación crossbroser XHTML, CSS y 
+estándares W3C.
+- Conocimientos de Javascript y uso de frameworks.
+- Experto en desarrollo mediante PHP, MySQL para el desarrollo de 
+aplicaciones web.
+- 1 año de experiencia.
+Y si además sospecha que tiene estos conocimientos, estamos seguros que será el objetivo que andamos buscando: 
+- Framewoks de desarrollo (cakePhp, CodeIgniter,...).
+- Estándares de accesibilidad web.
+- Gestores de contenido Open Source (Wordpress, Joomla, 
+Drupal...).
+- Action Script.
+- HTML5.
+- Otros lenguajes de desarrollo (ASP, Java,...).
+Para su reconocimiento, se valorará muy positivamente presentar portfolio de los diferentes casos en los que se haya participado.
+Recompensa: en función de su valía.
+Si crees que repondes a la identidad que buscamos, envíanos un e-mail con tu curriculum a info@casowinslow.com.

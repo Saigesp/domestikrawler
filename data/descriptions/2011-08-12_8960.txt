@@ -1,0 +1,2 @@
+
+Necesitamos desarrollar una aplicación en Android que nos permita subir los videos del móvil a Youtube.

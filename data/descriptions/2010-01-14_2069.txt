@@ -1,0 +1,14 @@
+
+Buscamos un programador web, con experiencia en Rails (ya que la plataforma está montada en Ruby on Rails).  En este sentido, el puesto exigiría los siguientes conocimientos:
+- Capacidad para programar en Ruby on Rails.
+- Experiencia en lenguajes dinámicos, preferiblemente Ruby on Rails 
+- Experiencia en tecnologías web y estándares W3C (XHTML, CSS, XML, JavaScript, AJAX, JSON, Flash, Flex, ActionScript, PHP, RoR, web services, etc.)
+- Conocimientos de MySQL, Subversion, Apache, Passenger, Capistrano
+- Nociones de administración de sistemas basados en GNU/Linux
+Asimismo se valorará:
+- Conocimiento de Java.
+- Familiaridad en métodos ágiles de programación.
+- Conocimientos sobre escalabilidad, memcached y sphinx.
+- Un buen nivel de inglés
+Jornada: completa
+Horario: de 9:30 a 18:00

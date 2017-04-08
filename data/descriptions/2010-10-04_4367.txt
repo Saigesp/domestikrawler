@@ -1,0 +1,11 @@
+
+Agencia de publicidad, ubicada en Madrid, busca desarrollador de tiendas virtuales de comercio electrónico.
+Se requiere:
+- Experto en desarrollo de tiendas virtuales.
+- Conocimientos de gestores de contenidos.
+- Integración e instalación de módulos de pago electrónico.
+Se valorarán conocimientos de:
+- PHP, MySQL, JavaScript, Flash.
+- Sistemas de seguridad.
+- L.O.P.D.
+Envíanos tu CV y portfolio, a nuestro correo electrónico y nos pondremos en contacto contigo, para concertar una entrevista presencial.

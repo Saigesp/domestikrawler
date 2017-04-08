@@ -1,0 +1,8 @@
+
+- Experiencia en programación orientada a objetos (C++,C#,Java)
+- Conocimientos de protocolos de red TCP/UDP i sockets.
+- Conocimientos de programación de videojuegos.
+- Deseable conocimientos en Unity.
+Funciones:
+- Estudiar y ampliar el servidor del videojuego. El servidor ya está implementado, pero se necesita ampliar de cara a nuevas funcionalidades que se requieran.
+- Desarrollo de módulos en la parte cliente del videojuego. Sincronización entre usuarios, gameplay, etc.

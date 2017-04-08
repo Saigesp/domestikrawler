@@ -1,0 +1,17 @@
+
+We’re looking for a passionate User Interface Designer who wants to take a leading role in the interface development of www.justlanded.com. This is a position for interested designing user interfaces of complex interactive applications (preferably with experience in Web 2.0 projects), not just nice artwork. If you can combine usability with the artistic aspect of UI design and want to get your work in front of 2 million visitors per month we want to talk to you. 
+Basic requirements (Musts)
+•	High level of capability with HTML, JavaScript, CSS and Graphics programmes (Photoshop, Illustrator &amp;amp; Co) 
+•	Good level of proficiency in reading English. Fluency in spoken English is an advantage, but the minimum requirement is a medium level. Spanish knowledge is not a requirement.
+•	3+ years design experience in Interface design (for web applications, not just brochureware)
+•	Ability to quickly prototype and iterate
+•	Strong attention to details, including cross-browser compatibility and browser-specific quirks
+•	EU citizenship or work permit
+Desired skills (Pluses)
+•	Understanding of search engine optimization (SEO)
+•	Some experience with Ruby on Rails, XML, Linux/*NIX environments and development processes (e.g. SVN/source control, IDEs, etc).
+•	Ability to love your enemy (IE6) 
+•	A portfolio of at least 3 large Web 2.0 applications (design lead)
+Why Just Landed? 
+Just Landed is the worldwide leading online destination for people moving countries. Our multilingual audience and interface (&amp;gt;20 languages) offers a unique challenge for people interested in multilingual interface design. 
+We offer an international work environment, a competitive salary and challenging projects in a rapidly growing company. We work as a team, but you will be directly responsible for large parts of the user experience. You will be working closely with company management to build ambitious functionality – and to define a new interface experience for an increasingly multilingual web audience.

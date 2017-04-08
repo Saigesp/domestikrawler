@@ -1,0 +1,6 @@
+
+Hola, soy Nicolas, desarrollador web freelance y para la web de un cliente necesitaria un 3D programado en viewpoint media player (www.viewpoint.com) con Enliven o un software equivalente .
+Se trata de programar un menu que aplique texturas a un modelo 3D.
+Lo que el cliente quiere ha sido ya implementado en otro sitios de muebles tipo flou: http://www.flou.it/gioca00.asp
+Gracias
+Nicolas

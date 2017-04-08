@@ -1,0 +1,3 @@
+
+Hola a todos. 
+Desde Edittio buscamos diseñador freelance para una web corporativa, estatica (sin BBDD) a dos idiomas. Es necesario conocimientos de php, jquery y acesibilidad (AA)

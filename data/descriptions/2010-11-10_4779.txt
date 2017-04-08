@@ -1,0 +1,4 @@
+
+Buscamos un programador web para una tienda virtual ya creada.
+Sería añadir el carrito de compra, base de datos,etc.
+Nos gustaría tener un presupuesto aproximado.

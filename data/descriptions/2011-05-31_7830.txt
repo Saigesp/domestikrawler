@@ -1,0 +1,15 @@
+
+Importante empresa localizada en Barcelona busca: Gestor de Proyectos WEB 
+Funciones: 
+- Gestionar y coordinar un equipo responsable del lanzamiento de campañas de marketing online. 
+- Desarrollar y gestionar campañas, sistemas de alerta y mejora de procesos. 
+- Gestionar herramientas y procesos de lanzamiento de campañas de emailmarketing. 
+- Análisis de capacidades, limitaciones y problemas de entrega de la infraestructura actual. 
+Requisitos: 
+- Formación en Ingeniería Informatica o similar. 
+- 3 años de experiencia en programación PHP 
+- Experiencia en creación de paginas web o intranet. 
+- Experiencia contrastada utilizando alguno de estos frameworks: Jquery, Zend, Symfony, Cake. 
+- Experiencia en BBDD MySql. 
+- Se valorara experiencia utilizando plataformas de emailmarketing y lanzamiento de .com 
+Si encajas con el perfil, vives en la provincia de Barcelona y te interesa trabajar con un equipo joven y dinámico, envíanos tu CV.

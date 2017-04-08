@@ -1,0 +1,23 @@
+
+Senior / Semi-Senior; 3 Vacantes, Incorporación inmediata, permanente.
+La posición require un nivel avanzado de lectocomprensión en inglés, por lo que la descripción continúa en ese idioma:
+The .Net Developer will be responsible for analyzing, designing, developing, testing &amp;amp; implementing new application components, maintaining and optimizing current applications to all phases of the Software Development Life Cycle.
+Requirements:
+* 2 to 4 years experience in web development/design, with a minimum of 1 year producing table-free, XHTML standard cross browser compliant websites
+* 1 to 2 years of quality VB.NET experience
+* Required to extend support and assistance to other team members involved with web services, custom applications and development solutions
+* Code &amp;amp; style web pages utilizing XHTML and CSS that follow the latest industry standards
+* Knowledge and experience with several programming languages including HTML, XML, SQL Server, ASP.NET, VB.NET, and JavaScript as well as combinations of languages such as AJAX
+* Review, analyze and modify web systems including designing, developing, testing, monitoring, documenting, and maintaining applications as specified by management
+* Work &amp;amp; interact with Microsoft IIS web servers using FTP, Telnet, and SSH protocols
+* Responsible for meeting set goals and deadlines timely and as scheduled
+* Possess Strong UI capabilities
+* Superior knowledge of standards-based XHTML and CSS coding (not WYSIWYG)
+* Advanced knowledge of XHTML, CSS, and of digital imaging and illustration with Adobe Creative Suite
+* Experience with web-based software applications
+* Above average written and verbal communication skills
+* Strong time management and organizational skills with the ability to multitask
+* Knowledge of SiteCore CMS is a plus.
+REF: “.NET Developer”
+Remun. pretendida, excl.
+cv@media8.com

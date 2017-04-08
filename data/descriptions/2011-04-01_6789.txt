@@ -1,0 +1,12 @@
+
+Buscamos programador PHP/MySQL con experiencia para ayudar con picos de trabajo en empresa en crecimiento. Tendrá posibilidades de desarrollo y la posibilidad de trabajar en un excelente ambiente laboral.
+REQUISITOS MINIMOS
+Programador freelance presencial de PHP + MySQL, capaz de integrar la programación con la maquetación ya realizada sin romper muchas cosas ;), con conocimiento de JavaScript, AJAX, y XML para momentos puntuales.
+Preferiblemente con conocimientos de programación en Flash. Se necesita que pueda coger un proyecto a medias, entender la programación y seguir avanzándolo. 
+Conocimientos de administración de sistemas en lo que refiere a Apache y su relación con PHP y MySQL.
+Capaz de crear Gestores de Contenidos para que la web pueda actualizarse y mantenerse por alguien que no posea conocimientos de programación o maquetación.
+Capacidad de realizar y gestionar su trabajo con una mínima supervisión. 
+REQUISITOS DESEADOS
+Valoraremos que se maneje en términos de Accesibilidad, Usabilidad y Posicionamiento Web, así como de cualquier otro lenguaje de programación (Actionscript, p.e.). 
+Deseable capacidad de autogestión, iniciativa y, como nosotros, ganas de seguir creciendo personal y profesionalmente.
+

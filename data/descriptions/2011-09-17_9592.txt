@@ -1,0 +1,14 @@
+
+Se busca programador (Ingeniero técnico en informática de sistmemas o similar) con sólidos conocimientos de php y mysql para desarrollo de back end de aplicaciones web. 
+Trabajaría en entorno codeigniter conjuntamente con un front end developer (así que nada de preocuparse por esos malditos css's y javascript's) y un product manager.
+Se valorará igualmente conocimientos en desarrollo front end. Idealmente el perfil buscado debería tener alguna experiencia demostrable y sites en vivo utilizando estas tecnologías.
+Se valorará mucho:
+· Conociemientos de wordpress
+· Conocimientos en opencart (o otras plataformas e-commerce)
+· Experiencia en integración paypal
+· Iniciativa y ganas de aprender
+Su labor consistiría en:
+1. Programar el back-end de una aplicación que será lanzada en ferero
+2. Desarrollo puntual de algún site en wordpress.
+El trabajo es presencial, por favor abstenerse freelance no presenciales.
+Be strong, be free, be happy.

@@ -1,0 +1,7 @@
+
+Seleccionamos técnico con experiencia en:
+- Diseño y maquetación web, 
+- Adaptación de los trabajos al nivel AA de accesibilidad web.
+- HTML, XHTML, CSS2, Estándares W3C.
+- Directrices de Accesibilidad Web.
+- Conocimientos en tecnología ASP.NET, Sharepoint (MOSS 2007).

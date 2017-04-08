@@ -1,0 +1,7 @@
+
+Buenas!
+Estoy buscando un programador Flash/ SCORM para echarme una mano en posible nuevo proyecto. 
+Se trataría de una presentación sencilla, con un índice de secciones, vídeo y área de contenidos. Básicamente como un Powerpoint con las secciones siempre presentes, un vídeo flv por sección y un player tipo vídeo para toda la presentación. La idea sería empaquetarlo todo en XML y que cargue los contenidos de forma externa (vídeo, foto, estructura).
+Imprescindible poder facturar.
+Interesados, por favor escribidme un mail.
+Gracias de antemano y un saludo.

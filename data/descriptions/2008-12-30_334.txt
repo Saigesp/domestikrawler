@@ -1,0 +1,14 @@
+
+Para proyecto en marcha de plataforma Elearning basada en tecnología Flash, buscamos un DESARROLLADOR/A SENIOR  freelance con el siguiente perfil:
+-	Conocimiento avanzado de Adobe flash.
+-	Programación avanzada de Action Script (AS2 y AS3).
+-	Manejo de BB.DD.
+-	Dominio del protocolo de comunicación RTE (RunTime Environment ), para implementación en cursos con base en flash y la plataforma LMS.
+-	Experiencia mínima demostrable (Sitios web y aplicaciones) de 5 años.
+-	Hablar español (castellano) correctamente.
+-	Preferiblemente con residencia en Madrid o posibilidad de viajar a esta de forma asidua.
+-	Se valorará conocimientos de PHP y  java script.
+Interesad@s, escribir a: info@lopezmarcos.com 
+Incluyendo portafolio o muestras de trabajos realizados (URL´s). 
+Se busca a alguien para colaboración a medio plazo y posible integración a largo plazo, no para un trabajo ocasional, sin embargo, aún no está definido el tiempo en cuestión.
+Un saludo a tod@s.

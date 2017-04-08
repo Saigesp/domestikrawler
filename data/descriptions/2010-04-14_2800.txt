@@ -1,0 +1,5 @@
+
+Buscamos desarrolladores Java, preferiblemente Freelance, con al menos 2 años de experiencia. Puedes estar teletrabajando, siempre que podamos contar con reuniones periódicas.
+Nosotros trabajamos con Spring e Hibernate con lo cual seria necesario que lo controles tú también. 
+Sería deseable que te sintieras cómodo con Linux y si controlas un poco jQuery, perfecto.
+Gracias.

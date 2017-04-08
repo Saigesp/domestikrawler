@@ -1,0 +1,25 @@
+
+Quiénes somos
+Somos un estudio de diseño gráfico ubicado en el centro de Barcelona. Nuestra web está en construcción (ya, ya...), aunque en ella encontraréis un PDF con una selección de trabajos realizados: www.meltemi.info
+En cualquier caso aquí van directamente enlaces de alguno de los trabajos web que hemos hecho:
+http://inicia.gencat.cat
+http://www.porta22.com
+http://ibc.lynxeds.com/
+http://www.resa.es/
+http://www.barcelona.cat/innova
+Aparte de esto, somos los impulsores de BlooSee (www.bloosee.com), que es actualmente nuestra niña de los ojos. Se trata de un proyecto web 2.0 para los amantes del mar, en el que se puede publicar y compartir información geográfica, y en el que desarrollaremos una comunidad vertical tipo Facebook para el mar. Ahora mismo estamos en fase de beta privada, pero esperamos abrir en un mes aproximadamente.
+Qué buscamos
+Dicho esto, buscamos diseñador/a, con conocimientos y experiencia en diseño web basado en estándares:
+  - XHTML
+  - CSS
+Se valorarán también:
+  - Utilización de frameworks Javascript (JQuery --preferentemente--, Prototype, o Motools)
+  - Accesibilidad y usabilidad web
+  - Conocimientos acerca del proceso de desarrollo en servidor (lenguajes de programación, gestores de contenido, herramientas web 2.0, etc.) 
+  - Conocimientos de Flash (diseño y/o programación)
+ Otros
+Aunque buscamos esencialmente un diseñador/a en el área web, se valorarán así mismo conocimientos en otras áres de diseño (editorial, logotipos, etc.):
+  - InDesign
+  - Illustrator
+
+Lo ideal será poder aportar un portafolio con trabajos realizados.

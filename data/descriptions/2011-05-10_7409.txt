@@ -1,0 +1,13 @@
+
+Estamos buscando un programador Senior experto en Joomla y/o wordpress! 
+- Experto en Joomla. Creación, adaptación y modificación de plantillas.
+- Creación, adaptación y modificación de componentes personalizados Joomla.
+- Mantenimiento de webs Joomla.
+- Migración de Joomla 1.0.x a Joomla 1.5.x.
+- Migraciones de Joomla entre servidores.
+- Traduccion de componentes.
+Actualizaciones de Joomla! o extensiones
+Requisitos deseados
+Altos conocimientos en Base de datos MySql.
+Desarrollo de componentes y plugins en Joomla, bajo MVC.
+Indispensable enviar mail con proyectos realizados a oceanicos@gmail.com 

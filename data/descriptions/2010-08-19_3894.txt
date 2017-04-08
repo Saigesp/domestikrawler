@@ -1,0 +1,26 @@
+
+ 	En Rentalia buscamos un programador senior PHP con conocimientos de administración en Linux.
+Si te gusta el desarrollo web, tanto frontend como backend, sin perder de vista la escalabilidad y rendimiento del site.
+Si te defiendes con sistemas Linux (Debian y CentOS).
+Si te agrada saber que todos en la oficina usan linux y software libre: (http://blog.rentalia.com/2008/05/nosotros-usamos-linux.html).
+Creemos que aquí puedes tener tu lugar.
+Experiencia mínima:  	Al menos 3 años
+Requisitos mínimos: 	Los requisitos mínimos son:
+- Tener capacidad analítica y cuidado por los detalles.
+- Experiencia demostrable en otros proyectos en Internet.
+- Conocimientos de XHTML, CSS y Javascript (jquery, prototype).
+- Bases de datos postgresql.
+- Estar habituado a usar herramientas de control de versiones como: Mercurial, GIT, SVN.
+- Experiencia desarrollando con PHP5, Perl, python.
+- Estándares web y buenas prácticas.
+- Virtualización de sistemas con XEN.
+Se valorará:
+- Nociones de bases de datos NoSQL.
+- Nociones de coldfusion
+- Conocimientos de Solr/Lucene.
+- Desarrollo de apps con API de Facebook
+- Conocimientos de Amazon Web Services (S3)
+- Conocimientos Java para futuros desarrollos de aplicaciones Android.
+Las tecnologías con las que trabajará son:
+xen, qmail, memcached, moxi, postgresql, tokyo tyrant, nginx, apache, mogilefs, sphinx
+También valoramos que el candidato sea sociable, con buenas capacidades para trabajar en equipo y sobre todo mucho interés

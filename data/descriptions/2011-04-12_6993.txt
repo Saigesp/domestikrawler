@@ -1,0 +1,34 @@
+
+Formación Estudios superiores en informática 
+Experiencia 3 años Descripción 
+Ofertix está buscando ingeniero PHP para incorporarse al equipo de ingeniería IT.
+El candidato ideal es aquella persona con predisposición para aprender, crecer profesionalmente y con capacidad de trabajo en equipo. Que le apasione la creación de código que permita a sus compañeros desarrollar sus funciones con la máxima calidad.
+Responsabilidades
+- Responsable de desarrollo de proyectos de inicio a fin responsabilizándose de la puesta en funcionamiento.
+- Elaboración de nuevas funcionalidades.
+- Participar en los procesos de mejora contínua.
+- Análisis, planificación y ejecución de refactorización de proyectos.
+Requisitos
+- Buen nivel PHP5 y OO
+- Conocimiento de JavaScript, JSON, manejo de eventos, estructura DOM y manipulación.
+- 3+ años de experiencia con aplicaciones web complejas.
+- Sólidas habilidades analíticas y de resolución de problemas.
+- Participación en la estabilización de código y programación de releases.
+- CSS
+- MySQL
+Conocimientos deseados:
+- Conceptos de diseño/arquitectura OO.
+- Control de versiones (GIT)
+- Gestión de incidencias
+- Documentación código
+- Symfony
+- jQuery
+- ExtJS (Sencha)
+Lugar de trabajo Oficinas centrales de Barcelona (Sant Just Desvern) Observaciones 
+PUESTO:
+Se ofrece un puesto de programador en un ambiente de colaboración dónde todo el equipo participa en diversos proyectos y tecnologías.
+JORNADA:
+Jornada completa
+TIPO CONTRATO:
+Indefinido
+

@@ -1,0 +1,15 @@
+
+Buscamos maquetador html + CSS. 
+El contrato sería temporal, hasta final de proyecto (unos 3 meses).
+El perfil puede ser Junior y desarrollará su labor bajo la supervisión de un Jefe de proyecto.
+Las tareas en las que participaría serían:
+-	Integrar desde PSD´s las imágenes y elementos gráficos (teniendo en cuenta la típica optimización de peso y calidad).
+-	Maquetar en CSS
+-	Integrar o desarrollar alguna función javascript
+Dependiendo del nivel, tendrá a su disposición una persona de apoyo para resolver dudas y/o consejos.
+Se valorará:
+-	Conocimientos de JavaScript.
+-	Manejo de plugins como Firebug, etc.
+Para más información contactar con Jimmy:
+jimmy.collazos@storm.es
+Un saludo

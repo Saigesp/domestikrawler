@@ -1,0 +1,31 @@
+
+ENREDA es una empresa compuesta por gente joven que está experimentando un gran crecimiento.
+Ofrecemos participación en proyectos con grandes clientes y generalmente asociados a la innovación dentro del sector TIC.
+Se buscan trabajadores con ganas de aprender y con gran versatilidad. Los proyectos en los que formarán parte serán de implantación o desarrollo de sistemas Web. Se valorará conocimientos de sistemas de Software Libre.
+ENREDA actualmente implanta y desarrolla sistemas de gestión de contenido(CMS), gestores documentales(ECM), desarrollos personalizados, etc. Todo ello, en tecnologías de Software Libre.
+Posibilidad de progresión dentro de la empresa, trabajo en grupo, muy buen ambiente. Oportunidad de trabajar con grandes profesionales y aprender de su experiencia.
+Gran flexibilidad y trabajo por objetivos.
+Estudios mínimos: 	
+Formación Profesional Grado Medio - Informática
+Experiencia mínima: 	
+Al menos 2 años
+Requisitos mínimos: 	
+Que tenga experiencia demostrada en alguna de las siguientes funciones:
+-Programación
+-Implantación de Sistemas
+Se valorará acreditar experiencia en alguna de las siguientes:
+-Desarrollador en CMS: Liferay, Drupal, openCMS, Joomla.
+-Experiencia con ECM especialmente en Alfresco o Nuxeo.
+-PHP y MySQL.
+-Programación Java
+-Conocimientos medios o altos en CSS, XHTML y AJAX.
+-Conocimientos de Sistemas GNU/Linux, especialmente entornos LAMP.
+-Experiencia de implantación en sistemas GNU/Linux, como Centos o OpenBOX.
+-Conocimientos de algún framework de desarrollo Rails, Zen, Django.
+Experiencia en el desarrollo en plataformas de otros entornos funcionales, como DMS, CRM ó LMS.
+-Conocimiento de estándares de usabilidad y accesibilidad web.
+-Se valorará especialmente la visión y conocimientos de internet entornos de redes sociales.
+Contrato Indefinido
+Jornada laboral: Indiferente
+18.000 € - 24.000 € Bruto/año
+Saludos!

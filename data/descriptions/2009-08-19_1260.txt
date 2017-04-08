@@ -1,0 +1,11 @@
+
+Necesitamos un programador flash especialista en generar banners especiales para eyeblaster incluyendo en ellos , video, 3d, etc:: ver las sigueintes referencias
+DEMOS
+ http://creativezone.eyeblaster.com/#ItemName=Mercedes%20Clase%20B
+ http://creativezone.eyeblaster.com/?ItemName=Samsung%20Choose%20Skin
+ http://creativezone.eyeblaster.com/#ItemName=Nissan%20Qashqai%20skin
+1) RollOver 1, Release 2
+Primera expansión onRollOver, resto de expansiones onRelease. Ha de llevar botón de cierre, sonido desactivado por defecto
+DEMOS
+ http://demo.eyeblaster.com/europe/manu/Vodafone.Alta/
+ http://www.eyeblaster.com/newsletter/archive/08/May/demos/LKXA/start.htm

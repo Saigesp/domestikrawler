@@ -1,0 +1,17 @@
+
+Se encargará de la infrastructura de producción y preproducción de nuestras aplicaciones, incluyendo configuración, puesta a punto y mantenimiento de servidores y servicios, despliegue de aplicaciones, soporte al departamento de testing en la realización de pruebas automatizadas y de carga.
+Requisitos:
+
+ 2+ años gestionando sistemas en producción con Linux (Debian, RHEL)
+ 2+ años gestionando sistemas web en producción (Apache, PHP)
+ 2+ años gestionando bases de datos (MySQL)
+
+Se valorará:
+
+ Conocimientos de soluciones de comercio electrónico (Magento, ATG Dynamo, etc.)
+ Experiencia realizando pruebas de carga y tuning, especialmente de Apache/PHP/MySQL
+
+ Experiencia con herramientas de integración continua (Hudson, Cruise Control, etc.)
+ Experiencia con herramientas de testing (JUnit, PHP Unit, HTMLUnit, JMeter, etc.)
+ Conocimientos de herramientas de build management (Ant, Maven, make, etc.), control de versiones (Subversion, etc.), gestión de proyectos (Redmine, Bugzilla, Trac, RT, etc.)
+

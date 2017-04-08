@@ -1,0 +1,12 @@
+
+Somos una start-up con mucha experiencia en interface web, gráfica, 3d y Video, y Buscamos:
+Desarrolladores para hacer aplicaciones iphone, ipad, ipod, Android
+Es necesario
++1 año de experiencia en desarrollo para iOS y/o Android
+- Dominio C, C++ y Objective-C
+- Dominio de Xcode y herramientas del SDK de iOS
+- Aplicaciones publicadas en la App Store o Prototipos funcionales
+Nos interesa que integre muy bien gráficamente las apps 
+Requisitos deseados
+Desarrollo de aplicaciones en entorno Windows Phone
+Desarrollo de aplicaciones en entornos Blackberry

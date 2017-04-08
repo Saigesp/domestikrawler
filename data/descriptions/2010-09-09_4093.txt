@@ -1,0 +1,10 @@
+
+En el área de Educación de Telvent se desarrollan simuladores y serious games (videojuegos con finalidad formativa/educativa), como por ejemplo, entre otros simuladores de habilidades sociales, simulación de buques mercantes o pesqueros, videojuegos educativos,e tc. El equipo de desarrollo busca la forma de incluir nuevas tecnologías en sus aplicaciones, como realidad aumentada o estereoscopia. Para completar el equipo de producción de contenidos necesitamos incorporar un Programador Unity3D. 
+Precisamos experiencia en programación Unity3D.
+Nivel profesional en el manejo de los lenguajes de programación C#/C++.
+Metodología de programación orientada a objetos. 
+Capacidad de análisis, plantear soluciones creativas y eficientes. 
+Conocimiento en elaboración de documentos de diseño de videojuegos. 
+Experiencia en programación OpenGI o DirectX.
+Experiencia con motores de videojuegos opensource. 
+

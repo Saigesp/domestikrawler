@@ -1,0 +1,10 @@
+
+Smallfish es una agencia de publicidad italiana especializada en comunicación estratégica y publicitaria online y new media.
+Buscamos para nueva oficina de Barcelona:
+PROGRAMADOR para MOBILE (iPhone/iPad/Android).
+Imprescindible:
+Experiencia de desarrollo C/C++/ Java
+Experiencia de mínimo un año en plataformas iPhone/iPad/Android con portfolio de aplicaciones realizadas
+Buen conocimiento de Tools de desarrollo y frameworks en iPhone/iPad (Xcode, iPhone SDK, Cocoa, ULKit, OpenGL)
+Experiencia en interfaces con base de datos relacionales
+Completa el perfil un buen conocimiento del lenguaje HTML5-Flash-AS3-PHP para el desarrollo de sitios web, dotes de análisis y problem solving.

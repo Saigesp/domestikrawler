@@ -1,0 +1,3 @@
+
+Programación de proyectos web en PHP y/o ASP, Access, MySQL. Maquetación HTML y CSS 
+Se valorará conocimiento de: Comercio electrónico, AS2, AS3, XHTML,.NET, AJAX, 

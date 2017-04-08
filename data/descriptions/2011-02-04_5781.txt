@@ -1,0 +1,6 @@
+
+Buscamos flasheador para desarrollo puntual.
+El diseño es nuestro, necesitamos:
+- Front: animaciones, inclusión de vídeos.
+- Back: gestión de contenidos (carga de power point, pdf, enlaces de interés).
+

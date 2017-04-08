@@ -1,0 +1,18 @@
+
+Estamos buscando desarrolladores PHP motivados que quieran involucrarse en su desarrollo profesional y participar activamente en una empresa  dinámica y de rápida expansión.
+Opción para comenzar de inmediato para la persona adecuada, como miembro del equipo de Desarrollo dentro de la empresa  líder en  soluciones de e-marketing en Europa.
+El candidato ideal es programador PHP con sólidas habilidades de analista, experiencia en programación comercial y capacidad a trabajar dentro de un equipo de Desarrollo de nivel alto.
+Requisitos:
+    * Experiencia demostrada en creación de páginas dinámicas con PHP 5.
+    * Experiencia en la configuración y despliegue de aplicaciones web PHP.
+    * Experiencia con bases de datos relacionales.
+    * Conocimiento de los sistemas Linux y capacidad para realizar tareas básicas de administración de sistemas.
+    * Conocimiento de un Framework  PHP (Symfony, Zend, etc)
+    * Habilidad para escribir “unittests”.
+Puntos de bonificación: 
+    * Conocimiento de otros lenguajes de programación, especialmente funcional.
+    * Conocimientos de idiomas adicionales, especialmente Inglés, Francés, Portugués, Italiano, Alemán y Neerlandés.
+    * Experiencia en métodos de desarrollo “Agile” (Scrum, programación Xtreme).
+    * Deseo de aprender y utilizar las nuevas tecnologías a medida que avanzamos.
+    * Exposición a la automatización y las herramientas tal como Selenium y Bamboo.
+ 

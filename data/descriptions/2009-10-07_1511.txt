@@ -1,0 +1,11 @@
+
+Programador con nociones de diseño para trabajar en aplicaciones multimedia, web y audiovisuales. 
+Se valorará la experiencia de los candidatos en trabajos de este ámbito  realizados para exposiciones, museos y campañas de marketing para empresas.  
+• Lenguajes de Programación requeridos:
+C, C++, Java, Pascal.
+• Programación Web:
+HTML, Javascript, Flash (Actionscript), Frontpage, Dreamweaver.
+Programas de edición y 3d:
+Pack ADOBE CS4, 3DStudioMax, Autocad.
+Bases de datos:
+MySQL y Oracle

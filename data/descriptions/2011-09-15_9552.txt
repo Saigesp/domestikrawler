@@ -1,0 +1,11 @@
+
+ensegna studio busca un programador Front-end multimedia. Su labor principalmente será la de desarrollar trabajos digitales en flash AS3, html5, mobile, aplicaciones de facebook, etc.
+Requisitos mínimos:
+Experiencia demostrable de al menos un año en publicidad digital.
+Altos conocimientos de AS3, XML, HTML, CSS, Javascript, PHP y MySQL.
+Conocimientos con API´s: Facebook, Google Maps, Youtube.
+Requisitos deseados:
+Experiencia en proyectos FLEX.
+Conocimientos de frameworks as3 como Robotlegs o PureMVC
+Experiencia en Objective-c o Java para el desarrollo de aplicaciones móviles para IOS y Android.
+

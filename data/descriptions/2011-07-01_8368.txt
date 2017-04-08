@@ -1,0 +1,17 @@
+
+Developpeur PHP/ Ingénieur de développement PHP
+The Best Match France fait partie d'un groupe anglo-saxon en forte croissance, éditeur de sites web 2.0 s'adressant à des communautés de consommateurs ciblés, et managé par des pionniers de l'internet qui ont réussi dans de multiples entreprises du net depuis 1995.
+Nous sommes situés à Sitges - Barcelona
+ 
+- Vous êtes passionné par Internet;
+- Vous êtes tourné(e) vers les technologies open source, les web services et les interfaces riches;
+- Vous êtes attentif(ve) à la rigueur que demande un site de qualité (sécurité, respect des standards, documentation, gestion des sources);
+- Vous possédez une première expérience confirmée des développements web en PHP (gestion de contenu, e-commerce ou applications métier);
+- Vous maitrisez PHP5, SQL et XML;
+- Vous êtes à l'aise avec les technologies front office (X)HTML et CSS2 et les contraintes d'exploitation (UNIX/Linux, configurations Apache, PHP 5, MySQL);
+- La connaissance de Framework, CMS, interfaçage serveur ainsi que la maîtrise de l’anglais ou du français seront néccésaires.
+- Vous êtes curieux(se) et à l'écoute des autres métiers;
+- Vous êtes force de proposition et de conseil;
+- Vous savez exposer vos contraintes et besoins;
+- Très motivé(e), vous aimez le travail en équipe;
+- Prêt(e) à vous intégrer dans une équipe, esprit start-up.

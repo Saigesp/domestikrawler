@@ -1,0 +1,12 @@
+
+Buscamos un desarrollador preferiblemente freelance para el desarrollo de ciertos módulos evolutivos sobre una aplicación ya existente. Estos módulos están desarrollados sobre .NET y están correctamente documentados y se cuenta con nuestro asesoramiento.
+El desarrollador deberá responsabilizarse: 
+
+· De la comprensión del proyecto actual y de la lógica de programación interna
+· De la instalación de un entorno de desarrollo basándose en lo que ya existe para trabajar.
+· De la realización de los siguientes módulos.
+   Módulo nueva promoción
+   Módulo interactividad subir fotos
+   Módulo interactividad localización de conexiones
+   Módulo gestión de colas de interactividad.
+Disponibilidad para el proyecto desde el 24 de mayo hasta el 17 de junio. Provisionando una bolsa de horas para reports y otras tareas que se contemplan más allá de la fecha de fin.

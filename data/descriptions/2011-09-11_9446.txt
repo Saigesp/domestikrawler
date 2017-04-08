@@ -1,0 +1,7 @@
+
+Dot-com es una agencia creativa especializada en internet, buscamos a un desarrollador web interactivo freelance, al que le apasione la web interactiva y la animación, para que colabore en nuestros proyectos.
+los requisitos que le demandamos son:
+· Titulado universitario en Informática, con conocimientos profundos en  jQuery y JavaScript,  PHP y MySQL,  
+· Será valorará conocimientos de Processing
+· Trabajos realizados
+· Enviar CV, lo más completo posible, a info@dot-com.es

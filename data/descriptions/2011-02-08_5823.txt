@@ -1,0 +1,16 @@
+
+Importante consultaría digital busca programador para el desarrollo de una gran plataforma de comercio electrónico.
+Descripción de las tareas:
+Tareas de apoyo en el desarrollo del comercio electrónico, mediante la programación de módulos y aplicaciones para el mismo.
+Perfil:
+-Programador Web especializado en PHP, MySQL, jQuery y CSS.
+-Conocimientos en desarrollo de e-commerce (desarrollos propios o soluciones open-source).
+-Se valorara tener conocimientos de ingles (sobre todo a nivel técnico).
+-Experiencia mínima de 3 años.
+Condiciones:
+-Contrato freelance o por obra y servicio (contrato laboral) en función de la duración del proyecto.
+-Trabajo presencial a jornada completa o semi-presencial (media jornada en la oficina, o días alternos) en función del tipo de contrato.
+-Oficina ubicada en el centro de Madrid (plaza de Neptuno).
+-Condiciones económicas a negociar en función de la experiencia y tiempo de ejecución del proyecto.
+-En caso de ser positiva la experiencia por ambas partes, hay bastantes posibilidades de continuar trabajando en proyectos posteriores.
+

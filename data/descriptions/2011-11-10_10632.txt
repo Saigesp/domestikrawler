@@ -1,0 +1,10 @@
+
+Propuesta de trabajo parcial, pero con posibilidad de ampliarse a un período más largo o incluso a un contrato a tiempo completo. Somos una agencia de marketing con un departamento de contenidos orientado a ofrecer servicios de comunicación estratégica (branding, publicidad, piezas creativas, newsletters, etc). Es una empresa bastante solvente y dinámica, cada mes tenemos nuevos proyectos y suelen ser muy variados. Nuestros clientes son marcas de gran consumo, trabajamos directamente con los departamentos de marketing para implementar estrategias y campañas. Hacemos sencillas webs presenciales, aplicaciones interactivas, plataformas e-commerce y complejas herramientas de consulta de bases de datos. Buscamos programadores jóvenes para formar un equipo pequeño pero ágil, polivalente y resolutivo.
+Básicamente buscamos un programador con conocimientos php, mysql y front-end para un proyecto de visualización de datos online. Queremos a alguien que pueda venir a la oficina presencialmente, porque el proyecto necesita apoyo constante por parte de nuestro equipo (diseño, usabilidad, redacción, etc) y nuestro sector requiere entregas constantes. 
+Valoramos los siguientes conocimientos: 
+1. Experiencia en proyectos PHP
+?2. Experiencia en entorno CSS, XHTML, Javascript, Flash.?
+3. Experiencia en diseño y montaje de Layouts Front-End?
+4. Conocimientos CSS, XHTML, JAVASCRIPT, algo de FLASH?
+5. Conocimientos ACTIONSCRIPT
+No todos estos puntos son imprescindibles, pero sí nos gustaría cotejar los conocimientos y la experiencia mediante entrevista. 

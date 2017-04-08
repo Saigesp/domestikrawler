@@ -1,0 +1,23 @@
+
+eMascaró especializada en la consultoría, creatividad y desarrollo de proyectos de marketing y comunicación Interactivos busca incorporar un nuevo perfil profesional en su equipo de las oficinas de Barcelona.
+eMascaró es una empresa líder en el sector de servicios de Internet y trabaja con grandes organizaciones y empresas.
+Apuesta por los tres pilares de servicio basados en Estrategia, Creatividad e Innovación, ofreciendo un servicio de valor añadido que le ha permitido ganar una gran reputación en el mercado.
+Somos un equipo de 30 personas, formados por expertos en diferentes materias como Consultoría, Creatividad, Desarrollo e Innovación.
+Ofrecemos un lugar de trabajo donde podrás crecer y desarrollar sus actitudes y aptitudes profesionales, trabajando con los proyectos más interesantes y rodeados de un equipo de máximo nivel.
+Perfil: Desarrollador XHTML+CSS+JS
+Requisitos mínimos
+- Conocimientos avanzados de XHTML, CSS2, y estándares web.
+- Conocimientos básicos en PHP (entender el código,  fundamentos de programación como manejar un array, etc)
+- Conocimientos en estándares web (WCAG, Validación HTML, etc)
+- Experiencia en webs accesibles, usables y estándares.
+- Conocimientos de JavaScript y alguna librería como jQuery.
+- Conocimientos de Photoshop y Flash.
+Requisitos deseados
+- Conocimientos avanzados de otras librerías Javascript o frameworks.
+- Experiencia en el manejo de plantillas (Smarty, PowerTemplate...). 
+- Uso avanzado en Photoshop
+- Conocimientos avanzados en Flash.
+- Nivel intermedio de inglés[/list]
+Tipo de contrato: 6 meses + Duración Indetermina
+Horario: Lunes a Viernes de 9h a 18h
+

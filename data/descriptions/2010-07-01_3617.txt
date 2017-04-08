@@ -1,0 +1,2 @@
+
+Estamos buscando una persona cuya labor consistirá en la implementación en los diferentes adservers (Doubleclick (dfa), Eyeblaster, Atlas, Admotion, Eyewonder...) las campañas de medios online

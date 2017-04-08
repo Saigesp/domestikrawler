@@ -1,0 +1,16 @@
+
+Buscamos programador PHP y MySQL.
+Experiencia mínima: 1 año.
+Requisitos mínimos:
+· Experiencia demostrable en proyectos web entorno PHP y MySQL,
+· Conocimientos de Javascript (Ajax, Jquey)
+· Conocimientos de XHTML y CSS (Crossbrowser)
+Requisitos deseados:
+· Experiencia en Orientación a objetos y patrón MVC..
+· Experiencia con APIs Facebook, YouTube.
+· Conocimientos sobre Testeo unitario (Unittesting), control de versiones (CVS),
+Smarty, SEO, Usabilidad, Accesibilidad.
+· Experiencia con plataformas OpenSource del tipo Drupal, Joomla, Magento.
+· Accesibilidad Web (WCAG 2.0)
+· Inglés
+Jornada laboral: Completa

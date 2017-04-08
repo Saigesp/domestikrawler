@@ -1,0 +1,14 @@
+
+En eyeOS estamos buscando los mejores front-end developers para trabajar en la interfaz de usuario de nuestro producto e unirse a nuestro equipo en Barcelona.
+eyeOS no es sólo un sitio web. eyeOS es un complejo y capaz Cloud Desktop utilizado por miles de usuarios alrededor del mundo.
+Tus tareas aquí se centraran en el desarrollo de la interfaz de nuestra plataforma.
+Trabajando estrechamente con el equipo de diseño de producto, tu principal tarea será hacer realidad los diseños propuestos.
+La interfaz gráfica de eyeOS esta basada en una librería gráfica de código libre llamada Qooxdoo, programada principalmente en Javascript. Será muy importante que aprendas bien como funciona, ya que el 99% de tus desarrollos se basaran en esta librería. 
+Requisitos:
+- Fluidez programando con Javascript, HTML y CSS
+- Conocimientos de PHP y Programación Orientada a Objetos
+- Conocimientos de Fireworks. No lo usaras para diseñar, pero si para entender los entregables del equipo de diseño.
+- Fluidez maquetando con retículas. eyeOS es mucho más complejo que un sitio web, pero las retículas són siempre la base.
+- Obsesión por los detalles, cada pixel cuenta!
+- Un profundo conocimiento de tipografía digital / analógica es un plus.
+Reportaras directamente al Responsable de desarrollo.

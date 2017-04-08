@@ -1,0 +1,17 @@
+
+Buscamos un programador Asp.Net para aplicaciones Web. Pero no un programador al uso o cualquiera. Es necesario que tenga:
+Una mente creativa y sin limitaciones; 
+Que sea una persona a la que le guste que le guste su trabajo;
+Que sepa aprender y que sepa buscar una solución;
+Que sepa que debe innovar, que debe automatizar procesos y que debe formarse continuamente;
+Que le agrade participar y aprender de equipos multidisciplinarios;
+Y que sea muy responsable.
+Tecnologías que debe conocer:
+Asp.Net (C y VB)
+SQL Server 2008
+IIS 6 y 7
+JQuery y Javascript
+HTML y CSS 2 (y 3)
+Interés por HTML5
+AS3 será un plus.
+Contrato inicial de duración determinada.

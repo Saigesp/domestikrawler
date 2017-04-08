@@ -1,0 +1,4 @@
+
+Buscamos programador especializado en AS3 y habituado a la creación de aplicaciones AIR para mantenimiento y mejora de una aplicación ya creada.
+Esta aplicación interactua con una BD MySQL, por lo que son necesarios conocimientos de SQL.
+Los interesados deberán tener disponibilidad para realizar jornadas presenciales en Madrid.

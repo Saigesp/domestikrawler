@@ -1,0 +1,15 @@
+
+Se precisa programador en prácticas con experiencia en HTML, PHP, AJAX .NET C#
+
+Tareas: 
+Dentro del proceso de desarrollo de software su misión es la de desarrollar módulos de programación acorde con la documentación del proyecto, testearlos y subirlos a producción.
+
+Requisitos: 
+Experiencia mínima: Al menos 1 año
+Conocimientos mínimos:
+- Tecnologías web: buen conocimiento de html, dhtml, css, PHP, :NET C#, jquery, javascript, ajax ... 
+- Conocimiento del funcionamiento de los navegadores web más usados tanto en entorno Windows como en Mac.
+- Conocimiento de bases de datos MSSQL y MySQL. 
+- Disponibilidad para realizar el trabajo de modo presencial en la empresa.
+- Otros conocimientos deseados: Ingles, francés
+

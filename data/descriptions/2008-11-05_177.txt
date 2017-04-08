@@ -1,0 +1,12 @@
+
+Me gustaría recibir presupuestos aproximados (en base a esto pediré presupuestos más concretos dándoos más información, así no perdemos el tiempo ni vosotros ni yo) para una página Web con las siguientes características.
+Secciones:
+- Quienes somos (página plana con texto e imágenes)
+- Materiales: un catalogo de productos con categorías, subcategorías y producto (cada producto con imagen, descripción, precio...)
+- Obras (página plana con texto e imágenes)
+- Donde estamos (con un mapa de Google Maps)
+- Contacto
+Tecnologías: XHTML y CSS, Drupal
+Diseño gráfico: barajamos optar por un diseño exclusivo o una plantilla, podéis presupuestar en base a lo que queráis pero indicándolo.
+Insisto en que lo que quiero recibir son presupuestos aproximados.
+Muchas gracias

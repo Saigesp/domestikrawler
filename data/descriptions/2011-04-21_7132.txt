@@ -1,0 +1,4 @@
+
+Atmira precisa incorporar desarrolladores PHP con experiencia en:
+-Mas de dos años en PHP (ZEND).
+-SQL.

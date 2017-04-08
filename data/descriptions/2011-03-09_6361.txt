@@ -1,0 +1,6 @@
+
+Buscamos un programador Php/Mysql especializado en CMS. Requerimos un perfil con conocimientos para implementar CMS tales como Joomla o Wordpress a partir de diseños maquetados en XHTML/CSS.
+Requisitos mínimos:
+· Experiencia demostrable en proyectos web con CMS
+· Conocimientos de Javascript 
+· Conocimientos de XHTML y CSS (Crossbrowser)

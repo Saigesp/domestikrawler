@@ -1,0 +1,9 @@
+
+Buscamos un administrador de sistemas Linux senior con contrastada experiencia en servidores de aplicaciones y redes y comunicaciones. Deseable LPIC.
+Ofrecemos incorporación a proyecto estable, buen ambiente de trabajo, jornada de trabajo flexible y beneficios sociales, formación continua a cargo de la empresa, tanto en aspectos técnicos como en metodologías de trabajo (gestión de proyectos, Scrum, Kanban, ITIL), plan de carrera.
+- Administración de infraestructuras (comunicaciones y entornos Linux).
+- Desarrollo de proyectos y despliegue de sistemas (virtualización de puestos de trabajo, despliegue de redes y servidores, migraciones, etc.).
+- Resolución de peticiones e incidencias de segundo nivel (infraestructuras) en el marco de nuestros servicios de service desk interno y para clientes.
+- Definición, elaboración y revisión de documentación (planes de mantenimiento, planes de contingencia, diagramas de red, etc.).
+- Formación interna al equipo en aspectos técnicos.
+Lu-Ju: 8:00 a 14:00 y 16:00 a 18:00 | Vi: 8:00 a 15:00 | Jornada intensiva del 15/06 al 15/09

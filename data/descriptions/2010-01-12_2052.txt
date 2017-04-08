@@ -1,0 +1,6 @@
+
+Se busca programador para incorporación a la empresa:
+Programador en tecnologías PHP, MySql y con conocimientos demostrables en AJAX.
+Desarrollador de actionscript, maquetación xhtml, css, JavaScritp con conocimientos de accesibilidad.
+Elaboración de documentación técnica.
+IMPORTANTE: experiencia demostrable en proyectos web con PHP, MySql, librerías de JavaScript y AJAX.

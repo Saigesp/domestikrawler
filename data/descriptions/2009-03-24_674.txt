@@ -1,0 +1,21 @@
+
+Se requiere la incorporación de un programador senior con afán de incorporarse a una empresa de desarrollo de software con un altísimo componente de innovación. Compartir conocimiento y sobre todo aprender de un equipo multidisciplinar y con una larga experiencia. 
+1. Conocimientos
+Requisitos:
+Java - J2EE
+ActionScript 2.0 y 3.0
+Se valorará positivamente conocimientos de:
+SQL
+XML
+WebServices
+PHP
+AJAX
+2. Herramientas
+Requisitos:
+Eclipse
+Flex Builder 3.0
+Flash CS3
+Se valorará positivamente conocimientos de:
+Flash CS4
+Apache - Tomcat
+MySQL

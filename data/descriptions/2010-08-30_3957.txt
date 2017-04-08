@@ -1,0 +1,10 @@
+
+Buscamos un Programador / Maquetador Senior HTML - CSS - PHP(abstenerse junior o personas con poca experencia) principalemente para realización de web promocionales / Mailing / Banner siguiendo los estándares actuales.
+Requisitos:
+- Alto nivel de HTML4, marcado semántico y conocimientos de estándares.
+- Conocimientos de Accesibilidad web.
+- Dominio de CSS2 y conocimientos de crossbrowsing.
+- Conocimientos de JavaScript (DOM, AJAX y jSon).
+- Conocimiento de Flash AS2
+- Nociones de SEO.
+Enviar link a proyectos realizados

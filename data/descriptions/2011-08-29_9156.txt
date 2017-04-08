@@ -1,0 +1,39 @@
+
+Tyba
+Job Type: Full Time/Permanent
+Positions: 1
+Location: Madrid, Spain
+Tyba is a young dynamic startup that has recently received a round of funding. We are moving into a new office in Madrid and are looking to expand our team. We build personal brands for students at top business schools and universities across Europe. To do this we leverage cloud platforms such as Amazon web services and are big fans of Wordpress. Our clients are universities and our users are students.
+Looking for:
+We are looking for a developer who wants to be part of a young startup and feels comfortable working with a great deal of responsibility. Someone who is great at and loves using PHP / MySQL / HTML / CSS/ Javascript / jQuery.
+Experience is valued but also talent, enthusiasm, intelligence and determination. We are looking for someone who loves technology and programming. Someone who doesn't just consider programming a job but has worked on his own ideas and maybe even contributed to open-source projects.
+If you are a problem solver and enjoy a good challenge, we are looking for you!
+We offer:
+
+- Dynamic and young working environment within a highly international team
+
+- Salary according to ability, knowledge, skills, and experience
+
+- Opportunity to be the first hire and be the lead developer
+
+Requirements:
+Real examples of projects you'll be working on: developing a new Wordpress backend, plugins for Wordpress, changes in Wordpress themes, layout with XHTML/CSS, development of a specific functionality in jQuery. There will be many different small projects, which will require a bright mind who will do research, read, understand, find and produce solutions to problems and needs.
+It is therefore important that the right candidate is able to read fluently in English and is used to finding solutions quickly. The minimum requirements for this position are:
+
+- Ability to communicate sufficiently in English (our working language)
+- PHP
+
+- MySQL
+
+- WordPress (customizing themes &amp; plugins)
+- High-performance JavaScript (jQuery)
+- Performance-oriented CSS
+
+- Proficiency in *NIX operating systems
+
+- Sense of humor
+
+- Great Googling skills
+
+Languages:
+English

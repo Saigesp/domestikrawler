@@ -1,0 +1,2 @@
+
+Necesitamos urgentemente un programador para la realización de 2 juegos en javascript (sencillos) y conectados a una base de datos. Los usuarios de los juegos han de poder registrarse con usuario de facebook y la base de datos ha de memorizar el estado del usuario dentro del juego.

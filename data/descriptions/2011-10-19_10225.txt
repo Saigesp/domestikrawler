@@ -1,0 +1,3 @@
+
+Aquí en Processing Café tenemos planes para conquistar el mundo… del Processing. En esta misión echamos en falta a un profesional del modelado 3D que sepa usar Blender. El objetivo es encontrar alguién para dos proyectos comerciales y a la vez crear un repositorio libre (Creative Commons) de modelos listos para usar en la creación de animaciones 3D a trevés de Processing.
+En particular estamos interesados en personas con experiencia en Character Design y modelado de personajes animados.

@@ -1,0 +1,19 @@
+
+En Unic Agency, agencia de marketing digital especializada en web 2.0, e-commerce y marketing on-line, estamos ampliando nuestro departamento de desarrollo y buscamos un/a programador/a con experiencia demostrable para programar CMS.
+Requerimientos:
+-HTML5
+-CSS3
+-Gestores de Contenido (Wordpress, Drupal...)
+-E-commerce (Magento, Prestashop,...)
+Imprescindible:
+-HTML
+-CSS
+-PHP
+-MySQL
+-Javascript
+-jQuery
+Ofrecemos:
+- Equipo joven y buen ambiente de trabajo.
+- Retribución acorde a tus capacidades
+- Se valorará experiencia
+

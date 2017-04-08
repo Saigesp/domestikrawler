@@ -1,0 +1,18 @@
+
+Unience es una start-up fundada en Sep-07 que va a explotar en el sector financiero los conceptos de colaboración masiva a través de Internet.
+Estamos buscando una persona que resuelva problemas y que saque trabajo adelante en el ámbito del desarrollo del front-end web. Se unirá a un equipo pequeño que está utilizando Scrum como método “Agile” de desarrollo. Colaborará en el diseño de interfaces de usuario que sean elegantes y usables y que estén desarrollados con Javascript, XHTML, AJAX y java del lado de servidor. El candidato ideal tiene al menos tres años de experiencia, tiene ganas de asumir responsabilidades y es capaz de enfrentarse a problemas para resolverlos con un alto grado de implicación y de libertad para cumplir los objetivos marcados, todo ello en el entorno dinámico de una start-up.
+Responsabilidades
+• Desarrollo, implantación y puesta en producción de interfaces de usuario elegantes e interactivos con Javascript, XHTML, AJAX y Java.
+• Ser un miembro activo del equipo de técnicos que está utilizando Scrum como método “Agile” de desarrollo. 
+• Proponer mejoras y optimizar la solución existente.
+Experiencia y requisitos
+Necesario
+• Al menos tres años de experiencia profesional en ámbitos relacionados con el puesto
+• J2EE, Javascript, Ajax, XHTML, CSS, XML, JSON.
+• Conocimiento de frameworks Java Struts, Hibernate y Spring o similares.
+• Capacidad para desarrollar, codificar, realizar pruebas unitarias y depurar aplicaciones.
+Muy recomendados
+• Conocimientos de frameworks como GWT, DWR, Prototype, Dojo, JQuery, YUI o Mootools.
+• Conocimiento de redes sociales en internet y del mundo web2.0
+• Familiarizado con aplicaciones financieras
+Si estás interesado, envía tu CV y una carta de presentación diciendo por qué debemos contratarte a jobs@unience.com

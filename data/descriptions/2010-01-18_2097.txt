@@ -1,0 +1,3 @@
+
+Hola, busco programador de Flash Air con conocimientos de ActionScript.
+El proyecto a corto término es breve (uno o dos meses). Deberá acabarse una aplicación que ya está hecha en Flash de tal manera que, programada en Flash Air, pueda utilizarse como una aplicación stand-alone. La aplicación relaciona textos con clips de vídeo. Requiere conocimientos en temas de archivos de video y metadata. Una vez la aplicación esté acabada, se pasará a otro proyecto de dos años de duración (posibilidad de nómina). También se valoran personas que, aunque no conozcan mucho Flash Air, tengan conocimientos consolidados  en Flash y mucho interés en adentrarse en Flash Air.  

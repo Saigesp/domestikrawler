@@ -1,0 +1,16 @@
+
+Buenas a todos,
+Actualmente por carga de trabajo me hace falta una persona seria (yo lo soy y me tomo bastante en serio mi trabajo) para realizar 10 tiendas Prestashop con diseño y programación similares. Me haría falta una persona que me diseñara y programara dichas tiendas (me da igual si utilizáis plantillas siempre que se adapten al diseño que tengo pensado). 
+Necesito saber cuánto me costaría cada y una y el plazo de entrega estimado de dicha tienda (no me hace falta alojamiento ya que dispongo).
+Si la primera colaboración sale bien seguramente se ampliaría a otras líneas de negocio que tengo pendientes.
+Las funcionalidades de las tiendas serán las siguiente:
+•	Gestión de clientes (típica de Prestashop)
+•	Gestión de pedidos (típica de Prestashop)
+•	Gestión de productos (típica de Prestashop)
+•	Auto-Sitemap (típica de Prestashop)
+•	Integración con Facebook(típica de Prestashop)
+•	Métodos de pago (Paypal y otro similar)
+Todo ya implementado con Prestashop.
+PD: Imprescindible enviar CV y portafolio de los trabajos realizados.
+Un saludo.
+

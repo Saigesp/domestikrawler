@@ -1,0 +1,8 @@
+
+Empresa especializada en la venta on-line de cursos de idiomas, busca un programador web y dispositivos móviles para incorporación inmediata.
+Se requiere conocimientos y/o experiencia en:
+Programación server-side (PHP, MySQL).
+Programación client-side (Javascript, jQuery).
+ActionScript (AS2 y AS3).
+Dispositivos móviles (Iphone, Ipad, Android). 
+Se ofrece incorporación inmediata a un equipo altamente cualificado y a un proyecto de alto nivel profesional.

@@ -1,0 +1,20 @@
+
+Descripción del empleo
+
+Buscamos a un desarrollador en IOS que quiera FORMAR PARTE ACTIVA de una apasionante start-up con un gran recorrido, con todo lo que ello implica (implicación, compromiso, entusiasmo, proactividad, etc.)
+Experiencia y aptitudes deseadas
+
+Desarrollo y mantenimiento de una evolución del portal de T-RETO.com que incluirá Geolocalización y Contenidos para IOS y Android. Conocimiento de vídeo/audio bajo descarga progresiva, gestión efectiva de memoria, evitar memory leaks, testing, geolocalización.- Experiencia en desarrollo del software, buenas prácticas de programación.
+Se valorarán conocimientos en otras plataformas como Blackberry, Windows Mobile,...
+Descripción de la empresa
+
+T-RETO es una red social que pronto saldrá a la luz en versión beta y que pretende convertirse en uno de los mayores generadores de contenidos de la red. En T-RETO los usuarios crean retos / competiciones de todo tipo a la vez que tratan de demostrar de lo que son capaces subiendo fotos y vídeos. Tenemos planes ambiciosos en el corto plazo, y uno de nuestros principales objetivos es tener una posición líder en las plataformas móviles.
+
+Actualmente tenemos una versión pre-beta lanzada en Costa Rica: cr.t-reto.com
+ 
+Puedes ver una presentación del proyecto aquí: http://www.wntc.es/docs/T-RETO.pdf o disfrutar de nuestro vídeo de presentación: http://youtu.be/Gz69xGVlink
+ 
+Ubicación: Nuestra oficina está en la calle del Codo (28005),  junto a la Plaza de la Villa y el Mercado de San Miguel. Estamos a 5 minutos de las paradas de metro de: Ópera, Tirso de Molina, La Latina y Sol (también Cercanías) No te mentimos si te decimos que te enamorarás de las oficinas y del entorno.
+El equipo de T-RETO es nuestra principal activo. Está formado por jóvenes talentos con una gran carrera profesional, muy emprendedores y amantes de las nuevas tecnologías.
+
+

@@ -1,0 +1,22 @@
+
+Profile Requirements: 
+Experience: min. 3-5 years as Senior Programmer 
+Programming expertise in PHP, Ajax (jQuery or similar), xHTML and CSS2, XML, Smarty library. Experience with some MVC Framework.
+Excellent capacity to analyze problems and define proper technical solutions
+Strong database administration, design and functionality knowledge in MySQL
+Abilities to work with code version control (CVS/SVN), design implementation and web/software applications development security guidelines.
+Knowledge of Agile Methodologies (Scrum, XP) beneficial
+Good system administrator / server-side web development skills (Apache configuration, servers administration, network monitoring)
+Ability to work in team on projects, and with diverse actors (external companies and providers, content providers and designers)
+Ability to work on own initiative and project management aptitudes
+Excellent Internet knowledge and proactive interest on tools, methodology and technology profitable to the business
+SEO and SEM, traffic analysis and user usability and behavior understanding appreciated
+High level of English beneficial
+Duties: 
+New developments of the core in-house business in e-commerce and web applications: analysis, design, implementation, testing, releases, documentation and maintenance
+Development and maintenance of billing / on-line payment gateways
+Maintenance and enhancements of live websites, and assistance to the Customer Service department on technical operations and issues
+Interaction with providers for maintenance of outsourced websites, billing providers, video streaming /download servers, Datacenter maintenance third-party company
+Responsibility over the monitoring, tracking, reporting, statistics tools and metrics systems
+Reports to: 
+Project Manager

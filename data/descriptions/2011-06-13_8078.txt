@@ -1,0 +1,26 @@
+
+The ideal candidate is someone with the following profile:
+Qualifications and Experience
+o Two (2) to five (5) years of Flash development experience.
+o Extensive knowledge of Flash CS3, AS2 and AS3 is required.
+o Understanding of OOP.
+o Up to date on Flash trends and best practices; Design patterns, Flex, FABridge, Apollo.
+o Experience on integration with web technologies such as XML, JSON, Javascript, Web Services, ASP, NET.
+o Development or customization of authoring-efficiency tools (Flash-based WYSIWYG tools to author XML-based content) using Flash, and xml technologies.
+o Knowledge of Flash video development is required. Other video experience is a plus.
+
+o Experience with optimizing design for various bandwidth and platform requirements.
+o Collaborative development experience.
+o Experience in all aspects of the software development lifecycle
+o Team-oriented experience highly desired
+o Knowledge of user-centered UI design, human factors, human-computer interaction, and usability highly desired.
+o Good oral and written communication skills
+
+Education and Skills.
+o Good organizational and communication skills.
+o Ability to assess problems and solve them with a strong sense of urgency.
+o Ability to handle aggressive deadlines and juggle multiple responsibilities.
+o Analytical and creative thinker.
+o Client-oriented (internal and external).
+o Good English language skills (speaking and writing).
+ 

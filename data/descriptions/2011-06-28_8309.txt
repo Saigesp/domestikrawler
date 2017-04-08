@@ -1,0 +1,5 @@
+
+	Migración de documentación actual en Interleaf / Word / Publisher a nuevo sistema documental en Adobe FrameMaker.
+	Mantenimiento y actualización de la documentación técnica.
+Formación de Personal en FrameMaker y punto de referencia para solución de problemas.
+

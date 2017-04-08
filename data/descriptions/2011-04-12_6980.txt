@@ -1,0 +1,33 @@
+
+Buscamos un Desarrollador Front-end con ganas de incorporarse al equipo de The Cocktail. Alguien con experiencia en esta área, con una vida digital muy activa, que sepa trabajar en equipo y sienta gusto por lo que hace.
+
+Qué ofrecemos
+Nuestro equipo está formado por Diseñadores de UX, Gestores de Comunidad, Programadores, Analistas de métricas Web, Administradores de Sistemas, expertos en Marketing Online y demás apasionados por Internet.
+
+Trabajamos en un entorno joven y distendido, con un alto nivel de profesionalidad, donde se fomenta la responsabilidad individual. Nunca te irás a casa sin haber aprendido algo nuevo de tus compañeros.
+
+Qué esperamos de ti
+* Manejo de XHTML, CSS. Nivel experto.
+* Javascript. Nivel avanzado.
+* Dominio práctico de HTML5 y CSS3.
+* Desarrollo cross-browser.
+* Apasionado por los estándares Web.
+* 3 años de experiencia.
+* Espíritu inquieto.
+* Aptitud y actitud positiva hacia el trabajo en equipo.
+Y muy valorable si además tienes
+* Conocimiento de Sistemas de control de versiones: SVN, Git
+* Conocimiento de Ruby On Rails
+* Criterio estético y conceptual.
+* Experiencia en utilización de herramientas que agilicen los desarrollos y faciliten el mantenimiento de los mismos. (nanoc).
+Que puedas
+
+* Convertir diseños a XHTML y CSS estandar, compatibles con todos los navegadores.
+* Mantener sites desarrollados sobre herramientas propias (en Ruby on Rails), que incluyen rediseños, integración de nuevas funcionalidades y mejoras de funcionamiento.
+* Fomentar el uso de buenas prácticas y difundir cultura de innovación y equipo.
+* Colaborar con los jefes de proyecto, diseñadores, programadores e ingenieros de software para garantizar un proyecto de altísima calidad desde su conceptualización a su entrega final.
+* Investigación de nuevas tecnologías que nos ayuden a mejorar el desarrollo de nuestros productos.
+Deseable
+
+Que no seas alérgico a los perros (tenemos a Maggie en la oficina).
+

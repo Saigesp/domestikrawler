@@ -1,0 +1,11 @@
+
+Near Technologies precisa incorporar un desarrollador Web para uno de sus clientes (Online Retail). 
+Será responsable del diseño, desarrollo, lanzamiento y mantenimiento global de la tecnología corporativa e-commerce que interactua con  todas las aplicaciones back-office (ERP, CRM) y productos digitales asegurando los objetivos de venta.
+Requisitos:
+-3-4 años de experiencia en desarrollo web.
+-Interés por trabajar con departamentos y áreas de ventas y atención al cliente.
+-Experiencia con plataformas de comercio eletrónico (Magento).
+-Experiencia en HTML, CSS, XML, SOAP; Javascript, AJAX.
+-Conocimientos y experiencia en PHP/MySQL.
+-Ingles y castellano fluidos.
+

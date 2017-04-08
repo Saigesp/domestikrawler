@@ -1,0 +1,13 @@
+
+Empresa líder de venta por internet de productos de moda y deporte de primeras marcas. Con presencia en España, Italia y Brasil. Más de 1 millón de usuarios y 200.000 compradores únicos. Proporciona una oportunidad inmejorable para el desarrollo profesional en una empresa internacional, joven y con alto potencial de crecimiento.
+Programador con amplia experiencia en PHP, para empresa en expansión.
+Se incorporará dentro de la plantilla a un equipo de IT con un total de 18 personas. Al menos 1 año de experiencia es Imprescindible.
+Requisitos mínimos:
+Amplios Conocimientos de PHP.
+Amplios Conocimientos de Mysql
+Conocimientos de Linux
+Amplios conocimientos de Javascript
+Requisitos deseados:
+Administración y Diseño de Bases de datos.
+Programación para AJAX.
+Servicios Web.

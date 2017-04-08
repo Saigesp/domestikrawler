@@ -1,0 +1,16 @@
+
+Buscamos programadores web senior con experiencia en la programación tanto de servidor como de cliente. Es necesario que sean personas inquietas, con sentido crítico y capacidad para imaginar soluciones a los problemas que plantea el negocio del cliente. Que hayan trabajado en entornos de alta concurrencia, gestionando pagos, integraciones con redes sociales y proveedores e implementando y diseñando flujos de trabajo.
+Tenemos un ambiente de colaboración donde nuestro equipo multidisciplinar participa en diversos proyectos y tecnologías compartiendo conocimiento y esfuerzo.
+Conocimientos mínimos:
+- OOP
+- PHP
+- Linux a nivel de usuari
+- Javascript
+- CSS
+- SQL (MySQL)
+Conocimientos deseados:
+- JQuery, Prototype
+- Symfony
+- Linux avanzado (scripts, sistema)
+- SVN y netbeans
+- CSS avanzado

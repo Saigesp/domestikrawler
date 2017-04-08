@@ -1,0 +1,17 @@
+
+Buscamos un programador senior con experiencia en desarrollos en entorno LAMP que esté interesado en formar parte de una startup desde el inicio. 
+Responsabilidades claves:
+- Gestionar y dirigir la parte tecnológica 
+- Liderar el desarrollo de la plataforma 
+- Apoyo en la definición, diseño y desarrollo de nuevas funcionalidades
+- Selección, contratación y formación del equipo técnico
+Cualidades Técnicas obligatorias: Experiencia profesional y dominio de PHP en entorno LAMP
+Cualidades Técnicas deseadas:
+- Experiencia profesional relevante en el desarrollo de módulos de Drupal
+- Experiencia profesional relevante en programación frontend, diseño y maquetación
+Cualidades no técnicas pero igualmente importantes:
+- Actitud autónoma, positiva y proactiva ante los retos
+- Visión de negocio, ganas y capacidad de tomar decisiones técnicas complejas
+- Habilidad para trabajar en equipo y gestionar equipos técnicos
+- Espíritu emprendedor demostrable, bien con proyectos propios o habiendo trabajado en otras startups
+- Conocimiento avanzado de inglés y uso del idioma para trabajar

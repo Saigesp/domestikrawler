@@ -1,0 +1,20 @@
+
+IMASTE es una empresa joven y dinámica, con presencia internacional, que trabaja en el desarrollo de plataformas de contacto innovadores entre sus clientes y potenciales usuarios. Conócenos en www.imaste.es 
+¿Estás buscando aprender en un ambiente de trabajo joven y divertido, con los mejores profesionales del desarrollo multimedia, y utilizando las tecnologías más novedosas?.
+ Esperamos de ti que seas capaz de aprender rápidamente y de modo continuo y que sepas trabajar en equipo, con expertos en diferentes especialidades (diseño interfaces, creatividad, postproducción, infografía, desarrollo funcional…). Juntos, desarrollaremos proyectos web innovadores a nivel internacional. 
+- Colaborarás en el Diseño de Planes de Pruebas para todas las aplicaciones desarrolladas por Imaste
+ - Ejecución de Pruebas: Unitarias, de Regresión, de Integración. - Control de Calidad del Software.
+ - Seguimiento y Control de Incidencias. 
+Buscamos estudiantes con gran capacidad de aprendizaje, comunicación e interés por los desarrollos multimedia dirigidos hacia el usuario final. Valoramos: 
+- Conocimientos técnicos para desarrollar Automatización de Pruebas. 
+- Conocimiento funcional, capacidad de documentación. Organizado y sistemático, con habilidad para anticipar posibles problemas. 
+- Conocimientos de programación orientada a objetos (preferentemente Java, Actionscript) 
+- Deseables conocimientos de desarrollo J2EE, Flex, Unix, FlexUnit, JUnit…
+ - Conocimiento y experiencia con los siguientes proyectos open source: Tomcat, Spring
+ Buscamos personas con iniciativa, que tengan muchas ganas de aprender estas tecnologías dentro de nuestra organización. Si te interesa, inscribete en nuestra oferta, para que podamos citarte a una entrevista en nuestras oficinas del centro de Madrid.
+Requisitos: 	
+- Conocimientos técnicos para desarrollar Automatización de Pruebas. 
+- Conocimiento funcional, capacidad de documentación. Organizado y sistemático, con habilidad para anticipar posibles problemas. 
+- Conocimientos de programación orientada a objetos (preferentemente Java, Actionscript)
+ - Deseables conocimientos de desarrollo J2EE, Flex, Unix, FlexUnit, JUnit… 
+- Conocimiento y experiencia con los siguientes proyectos open source: Tomcat, Spring

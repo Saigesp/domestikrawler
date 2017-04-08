@@ -1,0 +1,38 @@
+
+Buscamos:
+The Front End Web Developer will be a vital member of the team in implementing major new features and ongoing improvements to GetApp.com, ensuring that the web interface is highly usable, easily navigable and optimized for SEO and performance. 
+The Front End Web Developer will collaborate with our product management team and UX/Interaction Manager to create and refine user interfaces.
+Candidates must be passionate about distilling complex technologies into intuitive, simple and compelling user interfaces that provide an exceptional user experience.
+Ofrecemos:
+Contrato indefinido
+Requerimos:
+Ability to work in a team environment, from making pixel perfect sites that meet the design requirements to integrating code with the back-end development team.
+Solve user problems through useable and innovative web experiences
+Candidates should have 2-3 years in web development, with concrete experience in building groundbreaking UX sites.
+Real pragmatic experience with client side programming and designing, such as skills and interest in 
+• HTML (semantic Xhtml &amp;amp; Html5)
+• CSS (cross-browser v.2 &amp;amp; v.3)
+• JavaScript (unobtrusive DOM manipulation with jQuery)
+• Ajax (XML/XSLT &amp;amp; JSON)
+• Graphics drawing (Canvas &amp;amp; SVG)
+• W3C Standards
+• WAI Accessibility
+• SEO Compliance
+Basic PHP
+A good understanding of Google Analytics and the ability to orchestrate A/B testing campaigns with Google Analytics or other tools
+Good knowledge of web design standard (W3C etc,..)
+Deseamos:
+Web design and wireframe skills a plus
+Experience working on large, complex sites that are B2B-centric
+Previous work in the online marketplace space will be an advantage
+Experience dealing with multicultural teams and collaborating online is essential.
+Good English communication skills are a must.
+Salario:
+25.000-30.000 €
+Experiencia:
+3 a 5 años
+Idiomas:
+Ingles, Castellano
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa

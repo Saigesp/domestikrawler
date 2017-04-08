@@ -1,0 +1,16 @@
+
+Sintesys Outsourcing Strategy S.L. situada en A Coruña, requiere 6 programadores en entorno J2EE para proyectos de desarrollo con importante cliente del sector tecnológico educativo.
+Se precisa:
+Experiencia mínima de dos años con J2EE.
+Conocimientos de frameworks java como Spring, Struts2.
+Conocimientos de frameworks O/R preferiblemente HIBERNATE.
+Acostumbrado a trabajar con IDE´s como Eclipse, IntellJ Idea, Netbeans.
+Conocimientos de SQL y diseño de bases de datos relacionales.
+Se valorará:
+Tapestry 
+Inglés
+Responsabilidades:
+Ser miembro activo del equipo de desarrollo
+Desarrollar, codificar, realizar pruebas unitarias y depurar aplicaciones complejas
+Diseño de aplicaciones orientadas a objetivos.
+Incorporación en 3 semanas.

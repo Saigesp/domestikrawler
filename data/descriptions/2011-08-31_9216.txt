@@ -1,0 +1,7 @@
+
+Precisamos incorporar Un Maquetador en un equipo de desarrollo en Madrid.
+Se requiere:
+* Experiencia demostrable de al menos 2 años en proyectos web, maquetación HTML, Css, integración con gestores contenidos, accesibilidad AA, etc.
+* Facilidad para interpretar y seguir una línea de estilo.
+* Experiencia HTML 5, Javascripting, CSS, XHTML, retoque de imágenes
+*Se valorará conocimientos en Flash, PHP, otros..

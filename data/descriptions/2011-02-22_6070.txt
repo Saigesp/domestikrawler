@@ -1,0 +1,8 @@
+
+Para interesante proyecto buscamos Programador PHP.
+-Zend Framework
+-Programación orientada a objetos
+-Experiencia en BBDD MySql
+-Webservice
+-Control versiones.
+

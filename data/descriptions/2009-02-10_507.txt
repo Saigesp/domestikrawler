@@ -1,0 +1,10 @@
+
+Zapiens, estudio de producción y diseño en Madrid, busca un programador  frontend.
+Requisitos:
+- Nivel alto de XHTML, CSS y Javascript
+Se valorará:
+- Conocimientos de accesibilidad (W3C, WAI)
+- Conocimiento de técnicas AJAX
+- Conocimientos de backend (PHP, MySQL, Apache, CMSs,etc...)
+- Desarrollo crossbrowser
+Media jornada o jornada completa.

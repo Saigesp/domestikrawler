@@ -1,0 +1,9 @@
+
+Pixelfarm busca un Programador Senior Flash AS2/AS3 para incorporación imediata al equipo de producción web.
+Se requiere:
+- Mínimo de 4 años de experiencia programando ActionScript.
+- Gran conociemiento de ActionScript y Flash
+- Experiencia con XML, JavaScript, HTML y CSS
+Se valorará:
+- Conociemientos de Gaia Framework, Papervision, FlashPaper, Flex Framework, Adobe AIR.
+- Inglés- nivel alto

@@ -1,0 +1,19 @@
+
+Somos una empresa joven de ámbito internacional con sede en Barcelona. Actualmente estamos buscando un programador con buena experiencia en entorno web para un proyecto en crecimiento. 
+Qué ofrecemos: 
+• Formar parte de un pequeño equipo colaborativo y dinámico en una empresa en expansión. 
+• Oficinas cerca de Plaça Catalunya. 
+• La posibilidad de aprender nuevas tecnologías: sistemas de pago, virtualización de servidores y ERP. 
+• Jornada completa de 40 horas semanales de lunes a viernes y horario flexible. 
+• Contrato temporal de tres a seis meses.
+• Salario negociable, según valía, de 21000€ a 25000€ por año.
+Requisitos mínimos: 
+• Experiencia en entorno PHP, Mysql y SVN.
+• Buen conocimiento en el desarrollo de software de sitios web. 
+• Amplia comprensión de tecnologías web (HTML, Javascript, CSS, etc). 
+Requisitos deseados: 
+• Conocimientos de Linux.
+• Nivel medio de inglés.
+El puesto requiere tanto trabajo en equipo como autonomía. Capaz de aceptar responsabilidades, superar los detalles técnicos por uno mismo y una buena comunicación con el resto del equipo. Deseamos que el candidato sea capaz de escribir código simple, legible y eficiente y que esté acostumbrado a trabajar con fechas de entrega. 
+Interesados mandar curriculum vitae (o URL) con experiencia y proyectos realizados a constanza@zenanasl.com 
+

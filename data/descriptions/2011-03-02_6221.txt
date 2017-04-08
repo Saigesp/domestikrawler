@@ -1,0 +1,20 @@
+
+Buscamos a un especialista en maquetación web con CSS-XHTML y programación Javascript
+con amplios conocimiento de algún framework JS (preferencia jquery)
+Experiencia mínima: 4 años.
+Requisitos mínimos:
+· Perfecto conocimiento deCSS2 y compatibilidad entre navegadores.
+· Conocimientos avanzados de Javascript: AJAX y soltura con frameworks tipo JQuery.
+· Dominio de XHTML Transitional, capacidad de leer DTDs. Estructuración semántica de
+código.
+· Conocimientos de ActionScript 3
+· Manejo fluido de archivos PSD
+· Capacidad de interpretación de wireframes.
+· Experiencia comprobada en agencias de publicidad
+Requisitos deseados:
+· Experiencia con el API JS de Facebook
+· Experiencia con Flash ActionScript 3
+· Conocimientos HTML5 dinámico (canvas)
+· Conocimientos SEO, usabilidad, accesibilidad
+· Inglés
+Jornada laboral: Completa

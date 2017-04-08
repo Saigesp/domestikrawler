@@ -1,0 +1,14 @@
+
+Buscamos una persona para incorporar a nuestro equipo de desarrollo. 
+Nuestra empresa es una agencia de marketing online en la que los desarrollos web tienen un componente visual muy destacado. 
+Abstenerse de suscribir a esta oferta desarrolladores específicos de backend o sin sensibilidad en los aspectos del frontend.
+Nivel: intermedio o alto 
+Tecnologías (no hace falta saber de todo): 
+.NET, PHP, MySQL 
+ Frameworks PHP 
+HTML, HTML5 
+CSS 
+Javascript 
+JQuery 
+Jquery Mobile 
+Frameworks para apps móviles

@@ -1,0 +1,4 @@
+
+buscamos un programador/a XCODE, para la creación de un framework de trabajo tipo http://www.lakercompendium.com/ , con xcode.
+pero solucionando el tema del loading de cada pagina. somos conscientes de la complejidad tecnica y de los problemas actuales, pero buscamos a alguien capaz de dar soluciones: preloading con xml?, jpgs de base y layers con las interactividades....
+Se trata de crear una APP

@@ -1,0 +1,5 @@
+
+Buscamos un programador freelance especializado en front-end (CSS, JavaScript, DHTML, Ajax, PHP...) para desarrollar el rediseño de una conocida red social musical.
+Necesitamos que tenga experiencia y criterio para definir e implementar interfaces de usuario ágiles. Que domine CSS y XHTML, con especial cuidado con el acabado y la compatibilidad entre navegadores. Que se sienta cómodo trabajando junto a un equipo de diseño y tratando cara a cara con el cliente.
+El trabajo será presencial en nuestro estudio junto a la calle Alcalá (Madrid). Contemplamos la posibilidad de que trabajes desde casa algunos días, pero la mayor parte del trabajo se hará junto al equipo. El sitio es amplio y el ambiente tranquilo.
+La duración estimada del proyecto será de 6-8 semanas, empezando a principios de Junio y terminando, idealmente, a finales de Julio. Escríbenos a info@rivolta.es si te interesa entrar en detalle.

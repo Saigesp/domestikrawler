@@ -1,0 +1,19 @@
+
+Analista-Programador JAVA amb experiència en desenvolupament i implantació de solucions web en entorns J2EE.
+Funcions
+En dependència del Director del àrea de Desenvolupament i Integració de Sistemes és responsable del:
+•Anàlisi i disseny de solucions de software. 
+•Desenvolupament d'aplicacions en diverses tecnologies: JAVA, PHP, .Net
+•Disseny i execució de plans de proves.
+Es requereix
+•Titulació tècnica en informàtica o similar. 
+•Experiència com a programador, analista en diversos sectors. 
+•Capacitat d'adaptació a noves tecnologies. 
+•Capacitat de treball en equip. 
+•Orientació a client. 
+•Autonomia, iniciativa i capacitat resolutiva. 
+•Comunicació.
+Es valorarà
+•Experiència en servidors d’aplicacions JBOSS, Apache i en servidors de bases de dades: MySQL, Oracle i SQL Server.
+•Coneixements en XML, Javascript, Ajax, Webservices….
+

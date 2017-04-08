@@ -1,0 +1,2 @@
+
+Buscamos programador PHP para desarrollar un gestor de archivos. El cliente necesita subir documentos (PDF, DOC...) y compartirlos con sus empleados. Será muy parecido a un FTP, pero vía web, con carpetas, archivos y descripciones. En cuanto a diseño te entregaríamos una plantilla en Fireworks con la maquetación de contenidos.

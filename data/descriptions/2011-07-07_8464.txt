@@ -1,0 +1,11 @@
+
+Plataforma online b2b de grandes y pequeñas empresas que combina funcionalidades de las redes sociales y otras funcionalidades avanzadas. 
+El entorno está desarrollado con las últimas tecnologías Web del mercado.
+Experiencia en el Diseño y Mantenimiento de plataformas Web 
+Experiencia mínima de 3 años en programación ASP.NET
+Experiencia en manejo de Metodologías ágiles
+Experiencia en manejo de AJAX, jQuery/Javascript, LINQ, Server, Oracle, Css/Html y SQL
+Se valorará experiencia en otros lenguajes de programación como PHP y MySQL
+Estar al día en novedades y tecnologías
+Con conocimientos de arquitectura de software/patrones de diseño
+Con interés en conocer nuevas tendencias/tecnologías

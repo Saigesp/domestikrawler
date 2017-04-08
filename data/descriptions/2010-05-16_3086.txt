@@ -1,0 +1,12 @@
+
+Empresa de tecnología incorpora en su agencia de Barcelona colaboradores expertos en Java/J2EE, para participar en el desarrollo de proyectos para sus clientes basados en Lérida en proyectos a largo plazo.
+Descripción: 
+La empresa es un actor mayor en Consultoría en Alta Tecnología, colaboramos con grandes grupos industriales y/o terciarios innovadores y líderes en su dominio de actividad.
+En estos momentos incorporamos en nuestra agencia de Barcelona colaboradores expertos en Java/J2EE, para participar con nosotros en el desarrollo de proyectos para nuestros clientes basados en Lérida en proyectos a largo plazo
+Formación: Ingeniería superior
+Contrato: Indefinido
+Jornada: Completa
+Requisitos mínimos: 
+- Ingeniero superior informático
+- Experiencia profesional de entre 2 y 5 años en el análisis y/o desarrollo en tecnologías JAVA/J2EE.
+- Conocimientos avanzados en las principales tecnologías servlets, JSP, EJB, servidores de aplicaciones (Weblogic, Websphere), Frameworks (Struts, Spring, Ant, Hibernate).

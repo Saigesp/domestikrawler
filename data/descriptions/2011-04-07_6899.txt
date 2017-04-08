@@ -1,0 +1,12 @@
+
+En Artelista buscamos desarrolladores Frontend para incorporar a nuestro equipo full time en nuestras oficinas de Sant Cugat.
+Valoramos:
+- Altos conocimientos en X/HTML y CSS
+- Conocimientos en Javascript, JQuery, Ajax.
+- Integración de templates en código PHP.
+- Conocimientos en browser independent designs y cross-browser issues (IE, Firefox, Safari etc. ) en todas las plataformas.
+- Conocimiento de estándares de web: accesibilidad, usabilidad y estandardización.
+- Conocimientos de Photoshop.
+- Sensibilidad por el diseño.
+- Capacidad de comunicación y trabajo en equipo.
+

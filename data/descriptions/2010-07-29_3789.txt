@@ -1,0 +1,9 @@
+
+ Precisamos incorporar a nuestra plantilla un analista de usabilidad/accesibilidad. 
+•Experiencia en test de usuarios en laboratorio de Usabilidad 
+•Diseño de interacción y prototipado: wireframing, diagramas de flujo.
+•Realización de evaluaciones heurísticas
+•Desarrollo de libros de estilo
+•Definición de requerimientos funcionales
+•Metodologías de Card sorting
+•Experiencia en análisis heurísticos 

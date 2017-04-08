@@ -1,0 +1,15 @@
+
+Somos una empresa joven con gran proyección que precisa un programador freelance orientado a desarrollos web para desarrollar las siguientes tareas:
+· Desarrollo conceptual de soluciones web.
+· Bases de datos.
+· Programación de módulos dinámicos.
+Uno de los primeros trabajos, seria el desarrollo de una barra de herramientas (toolbar) de una web.
+Conocimientos:
+· PHP
+· MySQL/SQL Server
+· E-commerce: Magento o OSCommerce
+Se valorarán conocimientos de:
+· ASP
+· Simphony
+· Joomla
+· Otros Frameworks

@@ -1,0 +1,14 @@
+
+Hola domestik@s
+En BINOCEAN estamos seleccionado varios programadores para un interesante proyecto de desarrollo en Madrid capital, que tiene una duración estimada de 8 meses.
+Como requisitos deseables buscamos:
+- Conocimientos de XML, SOAP/REST
+- Experiencia demostrable en desarrollo de aplicaciones web de alguna envergadura
+- Uso habitual de frameworks de desarrollo agil
+Como requisitos básicos:
+- Conocimientos avanzados de HTML/JS, CSS
+- Conocimientos avanzados de uno o mas motores de DB (MySQL, Postgres, ...)
+- Programación LAMP
+El salario es variable en función de la experiencia + beneficios sociales.
+Si estás interesado, ponte en contacto con recursos humanos y te haremos una entrevista para conocerte.
+Gracias!

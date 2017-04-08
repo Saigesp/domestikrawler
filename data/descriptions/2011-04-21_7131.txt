@@ -1,0 +1,4 @@
+
+Atmira precisa incorporar para cliente del sector telecomunicaciones, un Desarrollador WEB con conocimientos avanzados de:
+-HTTP, HTML, CSS, Javascript y PHP.
+Se valorará experiencia en el uso de jquery, Zend framework y Subversion.

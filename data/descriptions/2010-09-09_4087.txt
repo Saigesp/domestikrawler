@@ -1,0 +1,28 @@
+
+Población: Sant Cugat del Vallès
+Provincia: Barcelona
+País:España
+profile Software Services empresa con más de diez años ofreciendo servicios de Consultoría, Desarrollo, Diseño e Implantación de Tecnologías de la Información, necesita incorporar 2 ANALISTAS PROGRAMADORES EN JAVA-J2EE
+Ofrecemos:
+- Incorporación inmediata.
+- Contrato indefinido.
+- Incorporación a un equipo altamente cualificado y dentro de un proyecto de alto interés profesional.
+- Remuneración de acuerdo a los conocimientos y experiencia aportados
+Estudios mínimos:	Ingeniero Técnico
+Experiencia mínima:	Al menos 2 años
+Imprescindible residente en:	Provincia Puesto Vacante
+Requisitos mínimos:	- Amplia experiencia en programación J2EE
+- Experiencia en XML, JSP y TAGS
+- AndroMDA
+- JBoss
+- Experiencia en Ajax (ExtJs+jQuery+JSON)
+- Maven Ant
+- Spring-Hibernate
+- UML
+- MySQL
+- Idea Intellij
+- Apache Axis
+Tipo de contrato:	Indefinido
+Duración:	Estable
+Jornada laboral:	Completa
+Horario:	8:30 a 18:00 horas 

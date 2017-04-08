@@ -1,0 +1,6 @@
+
+Soy un particular que está realizando un pequeño juego para android sin ninguna pretensión. Necesito algún png para el aspecto gráfico. El juego es en perspectiva isométrica y la ambientación a lo "silent hill", pero tipo naif. 
+Necesito que alguien me cree los sprites para los mapas. 
+Ejemplo: Mapa Hospital. Personaje, dos enemigos, un par de tiles del suelo, tiles de las paredes (lisa y ventana), puerta, sprites camas... Variando entre ellos yo podría configurar distintas estancias.
+La entrega sería un documento Flash con los png transparentes montados en clips de película.
+Busco a alguien que le guste la idea más que otra cosa, aunque podrían salir más cosas. Ofrezco salir en los créditos (se sube al mercado android) o precio anti crisis por mapa (son muy muy sencillos).

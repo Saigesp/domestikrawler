@@ -1,0 +1,11 @@
+
+Hola, 
+Se trata de un proyecto interesante, multimedia y relacionado con la experiencia de usuario. Los requisitos pueden variar en funcion del perfil pero a grandes rasgos se necesita lo siguiente:
+     - Flash (AS 3.0) 
+     - Conocimientos de diseño
+    Deseables:
+     - Php (5.0 poo framework propio)
+     - Adobe Air (la aplicacion esta desarrollada en un 40% en air)
+Buscamos perfiles con mucha experiencia, por favor abstenerse si no se dispone. La incorporacion es inmediata (si puedes claro) y las condiciones son muy buenas.
+Muchas gracias
+PanchO

@@ -1,0 +1,11 @@
+
+Buscamos un diseñador web, y un desarrollador front end para colaborar con nuestra agencia en modo de freelance.
+El diseñador web, es necesario que conozca el medio online, y que no tenga miedo a diseñar paginas de una cierta complejidad, ya que los proyectos que tenemos van actualmente por esa linea.
+El desarrollador front, deberia tener muy claro lo siguiente:
+- XHTML 
+- CSS 
+- Directrices basicas de accesibilidad
+- SEO (nociones basicas)
+y seria muy deseable, aunque no imprescindible, conocer las librerias jQuery.
+Imprescindible que nos hagas llegar muestras de trabajos realizados, (tu portfolio por ejemplo), y los precios en los que te mueves. 
+Gracias y te esperamos.

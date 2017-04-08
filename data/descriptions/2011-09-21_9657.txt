@@ -1,0 +1,13 @@
+
+Denox es una empresa ubicada en Cádiz y Madrid con experiencia de mas de seis años en el sector del comercio electrónico y desarrollo de tiendas virtuales.
+Por la apertura de nuestra nueva oficina en Madrid hace 3 meses, buscamos nuevos perfiles para incorporación al nuevo equipo en el próximo mes de Octubre 2011, que se encarguen de la programación web.
+¿QUÉ REQUISITOS DEBES CUMPLIR?
+- Que sea Programador PHPero (Frontend/Backend) y que controle de bases de datos MySQL.
+- Que tenga conocimientos avanzados de MooTools/JQuery, aunque se valorará la experiencia con otros frameworks.
+- Que sepa maquetar en XHTML/CSS los diseños desde el PSD facilitado por el diseñador, con capacidad de solucionar problemas de compatibilidad con exploradores (Sobre todo de nuestro querido Internet Explorer).
+TAMBIEN SE VALORARÁ…
+- Si ha trasteado con tiendas virtuales bajo osCommerce, o algún otro CMS
+- Si trabaja o por lo menos conoce los Frameworks como Yii, Symfony, Codeigniter… para las programaciones a medida.
+- Si a la vez que maqueta vá pensando y optimizando la web para posicionamiento (SEO ON PAGE).
+- Si está ya metido con HTML5, CSS3 y microformatos...
+- Si programa para móviles iOS/Android 

@@ -1,0 +1,4 @@
+
+PRISMA MPA requiere incorporar a su equipo de trabajo DESARROLLADORES ANALISTAS EN PHP (Seniors/Juniors).
+Los candidatos seleccionados deberán tener perfecto conocimiento en todo lo referente al proceso de desarrollo de sites (maquetación XHTML, CSS, PHP, MySQL), así como conocimientos en frameworks de PHP (CodeIgniter, Symfony, cakephp, zend, etc), y frameworks de Javascript (Jquery).
+Se valorarán los conocimientos demostrados en Flash Builder (FLEX), ActionScript 3 y desarrollo de APPs.

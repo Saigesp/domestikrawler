@@ -1,0 +1,4 @@
+
+Seleccionamos distintos perfiles (6 vacantes) en entorno Java/J2EE para proyectos de larga duración en el área financiera y de seguros.
+Conocimientos de Java, Struts, Spring, Hibernate.
+

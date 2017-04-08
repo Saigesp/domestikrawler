@@ -1,0 +1,9 @@
+
+Buscamos a una persona proactiva, responsable, a la que le guste innovar y que se involucre con su trabajo, alguien con muchas ganas de aprender y trabajar en un ambiente amigable y moderno, con interés por desarrollar su carrera profesional en el ámbito del desarrollo software para colaborar en los proyectos de la compañía.
+Se integrará dentro del equipo de tecnología donde participará en los diferentes proyectos en cartera.
+Requerimientos básicos:
+- Esperiencia mínima 1 año en programación PHP
+- Conocimientos Básicos de CSS3, HTML5 y jQuery
+- Conocimiento avanzado de PHP
+Valorable conocimientos en Bases de datos (Oracle, SQL Server, mySQL, otras) y otros lenguajes de programación, JAVA, ASP, XML y JavaScript.
+Mandar Cv a rrhh@negociainternet.com asunto: programador PHP

@@ -1,0 +1,34 @@
+
+Buscamos:
+Personas con ganas de aprender, de estar a la última en tecnologías web.
+Gente con capacidad para trabajar en equipo, investigando, innovando y aportando para que el negocio sea referente a nivel mundial.
+
+Ofrecemos:
+Formar parte de una de las start-ups más prometedoras del momento, con alto nivel de crecimiento, con gran presencia internacional actual y expansión futura.
+Colaborar con un equipo de trabajo de alto nivel, aprender y aportar tu conocimiento para desarrollar todo lo nuevo que está por venir.
+Tu cliente es tu propia empresa, no más proyectos que no tienen nada que ver entre sí y para clientes caducos y obsoletos que no te dejan disfrutar de tu trabajo.
+Usa tu propio entorno de desarrollo, cuanto más cómodo estés mejor para todos.
+Tecnologías que nos definen:
+Grails
+JQuery
+Hudson
+SVN
+TDD
+Cloud con Amazon AWS
+Otros puntos que te interesan:
+Flexibilidad de horario, confiamos en tu responsabilidad
+Normalmente trabajamos en la oficina, pero si un día lo necesitas puedes trabajar desde casa.
+Requerimos:
+3 años de experiencia
+Conocimientos avanzados de J2EE, Spring, Hibernate
+Intregración contínua con SVN + Jenkins (hudson)
+Deseamos:
+Titulación Ingeniería Informática
+Grails
+JQuery
+TDD
+Experiencia:
+3 a 5 años
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa

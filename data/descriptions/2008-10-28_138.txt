@@ -1,0 +1,21 @@
+
+Buscamos programador cliente para incorporarse en el departamento Interactivo de DoubleYou en Barcelona.
+Buscamos perfiles tanto de programación en actionscript (2 y 3) y como también en maquetación HTML y programación javascript.
+Buscamos a una persona que encaje en alguno (o ambos!) de los dos perfiles, ya sea total o parcialmente. 
+Perfil Flash
+- Programación en AS3 o en AS2 con ganas de aprender AS3
+- Uso de librerías externas
+Perfil HTML
+- Maquetación HTML / CSS
+- Uso javascript
+- Conocimiento de librerías como jQuery
+- Nociones de accesibilidad y SEO
+
+Se tendrá en cuenta en ambos perfiles que también sean:
+- Conocimientos en XML
+- Creativos
+- Capacidad de liderazgo
+- Afinidad publicitaria
+Nos interesa gente que con talento y emotividad ya sea experta o no. No te preocupes pues aquí podrás aprender. 
+Si quieres ver nuestros trabajos en http://www.doubleyouworks.com podrás ver una pequeña parte de lo que hacemos.
+Gracias!

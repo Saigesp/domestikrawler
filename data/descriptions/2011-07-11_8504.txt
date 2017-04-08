@@ -1,0 +1,6 @@
+
+- En estos momentos requerimos incorporar en plantilla un becario para el equipo de diseño
+Los requisitos son los siguientes: 
+1) Paquete Adobe: Photoshop, Illustrator, Flash, Dreamweaver...
+2) Lenguajes de programación: HTML, CSS, ActionScript.
+3) Posibilidad de firmar convenio de prácticas con la escuela donde esté estudiando o contrato en prácticas (4 años máximo desde la obtención del título) 

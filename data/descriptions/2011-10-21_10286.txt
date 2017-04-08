@@ -1,0 +1,10 @@
+
+Se precisa incorporación inmediata en un proyecto de larga duración y  con proyección de futuro en un entorno de Banca.
+Se precisa:
+Experiencia demostrable en proyectos entorno: 
+JavaEE 5, Spring
+Bases de datos: Oracle y DB2
+XHTML, jQuery, Ajax...
+XSL-FO
+IDEs: Rational Software Architect y/o Eclipse
+Se valorará la experiencia que pueda aportar el candidato en otros entornos como WAP, Gestores de contenidos (Vigenette, Tridion...), contenidos para Operadores Móviles, Conocimientos HTML, CSS2, Javascript, maquetación con estandares, y experiencia en desarorrollo de páginas Accesibles, Testeo...

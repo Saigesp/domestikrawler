@@ -1,0 +1,3 @@
+
+Hola.
+Estamos buscando un programador PHP para implementar una serie de cambios en nuestra web, www.galdecon.com, destinados a mejorar el SEO de la misma.

@@ -1,0 +1,13 @@
+
+Grupo ECCO, Empresa Española de informática de desarrollo e integración de sistemas con más de 300 profesionales en España y + 2000 en Méjico.
+Estamos llevando a cabo diversos proyectos de outasking para la Banca Española y tenemos por objetivo ampliar e incorporar nuevos profesionales .
+Operating System LINUX - SuSe (SLES 8, 9, 10, 11)	
+Application servers (JBOSS, Was, Jrun, Weblogic….)
+Web Servers (Apache, HIS)	3
+Cluster (Linux heartbeat, Veritas Cluster)	
+Storage data management: Logical Volume Manager	
+VMWARE	
+Communication protocols: TCP/IP, SNMP	
+Net Services: NFS, DNS, DHCP, Sendmail, Samba	Shell script programming	
+Hardware basis knowledge	
+

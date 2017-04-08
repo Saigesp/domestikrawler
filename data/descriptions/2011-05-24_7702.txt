@@ -1,0 +1,8 @@
+
+Be part of the startup team in charge of developing the Front End features of koowall.com
+The applicant needs to be an expert in:
+-Javascript with OOP
+-CSS and HTML (3 &amp; 5 preferable)
+It's valuable to have a knowledge of:
+-UX &amp; UI Design
+-PHP

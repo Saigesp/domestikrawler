@@ -1,0 +1,10 @@
+
+We need a passionate technologist for the development of web applications for http://www.justlanded.com. You should be brilliant, motivated, ready to make a difference and able of managing a team within 6 months. 
+Basic requirements: high level of capability with HTML, JavaScript &amp;amp; CSS is a must. You should have a good understanding and appreciation of the user experience. 
+Programming skills: hands-on Ruby/Rails experience is what we are looking for. We would also consider individuals with broad experience with one or more other high-level programming languages. You should have a broad knowledge of programming concepts (classes, inheritance, coding practices, etc) and be capable of producing high-quality functional, maintainable and logical code.
+Application stack: You should be comfortable in a command-line Linux/*NIX environment and understand development processes (e.g. SVN/source control, IDEs, etc). Decent SQL and grasp of databases is a help, especially when this impacts on scalability.
+We are looking for an intelligent and pragmatic problem solver: You should have a high level of analytical capability, be able to quickly understand problems and work through them to qualify potential solutions and balance pros and cons to different approaches. 
+You should have a high level of proficiency in reading English. Fluency in spoken English is an advantage, but the minimum requirement is a medium level.
+What do we offer?
+We offer a dynamic, multinational environment, a proven product in growing market segment and opportunities to grow for outstanding candidates. Your applications will get in front of our 2 million visitors per month.
+

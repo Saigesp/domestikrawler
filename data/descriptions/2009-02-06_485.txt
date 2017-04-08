@@ -1,0 +1,10 @@
+
+Hola a todos!
+En AQUENT buscamos, para uno de sus clientes en Barcelona, a dos programadores LAMP (Linux, Apache, MySQL, PHP). La persona que se incorpore pasará a ser parte de un pequeño pero muy dinámico equipo, trabajando con tecnologías LAMP, streaming de video, sistemas de pago on-line, sms gateways, creación y manejo de front y back-end para sitios web dinámicos.
+Nuestro cliente es una empresa internacional de entretenimiento basada en Barcelona. Actualmente gestionan varios sitios web en distintos idiomas.
+Conocimientos avanzados de las siguientes tecnologías:
+- Servidor: PHP, MySQL, Apache, Linux
+- Cliente: Javascript, AJAX, XHTML y CSS 
+- Conocimiento de algún tipo de CMS (Typo3, Drupal, Joomla...)
+El puesto es para PLANTILLA. 
+Ya sabeis, si os interesa, enviadme un mail con vuestro cv: mmontavez@aquent.com

@@ -1,0 +1,4 @@
+
+Hola! busco programador freelance.
+El trabajo consiste en implementar un cms a dos links del sitio que actualmente estoy preparando, lo que abría que poder administrar en cada link será: titulo, subtitulo, fecha, texto y foto.
+Muchas gracias a los interesados.

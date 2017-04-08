@@ -1,0 +1,10 @@
+
+Estamos buscando para un nuevo proyecto a tres maquetadores Seniors, no nos importa que sean Free-Lances, pero la realización del mismo se realizarán en nuestras oficinas, el desarrollo está estimado en 4 meses, posteriormente evaluaremos el trabajo que tendremos de maquetación para el mantenimiento de estos perfiles.
+Requisitos:
+- Nivel alto en maquetación en HTML semántico y CSS
+- Se valorará muy positivamente experiencia con jQuery, Html5 y CSS3
+- Que esté acostumbrado a ver código PHP o haber trabajado con Smarty o algún CMS que lo utilice tipo Wordpress, Joomla o Drupal, no para trabajar con ello.
+- Trabajo directo con editores de texto, tipo TextMate, Coda, UltraEdit, etc...
+- Acostumbrado a trabajar con control de versiones CVS.
+- Acostumbrado a trabajar con algún CRM tipo Pivotal para la asignación de trabajos.
+- Que sea usuario de Mac será un plus.

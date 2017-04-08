@@ -1,0 +1,8 @@
+
+Hola a todos!
+Estamos buscando para uno de nuestros clientes, empresa de entretenimiento, en Barcelona a dos programadores LAMP (Linux, Apache, MySQL, PHP). 
+Conocimientos avanzados de las siguientes tecnologías:
+- Servidor: PHP, MySQL, Apache, Linux
+- Cliente: Javascript, AJAX, XHTML y CSS
+- Otros: Subversión (Experiencia con Typo3 sería una gran ventaja)
+Si este es tu caso ponte en contacto con nosotros, envíanos tu CV y tu portfolio y estaremos encantados de poder contar contigo en nuestro proceso

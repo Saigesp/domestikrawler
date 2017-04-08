@@ -1,0 +1,16 @@
+
+Empresa de reciente creación, formada por jóvenes emprendedores, busca programador web para trabajar en un proyecto dinámico, activo y moderno. Buscamos un perfil de trabajador comprometido, que sea creativo, autosuficiente y preparado para el desarrollo de aplicaciones informaticas online como paginas web, gestores de contenidos, etc.
+Pretendemos que la persona a incorporar se identifique con el perfil de empresa y trabajos a desarrollar. Con la intención por nuestra parte de que forme plenamente parte del proyecto.
+Perfil:
+-Posibilidad de trabajar presencialmente el equivalente de media jornada en Barcelona.
+-Experiencia
+    -Más de un año de experiencia
+    -Porfolio de trabajos que podamos consultar
+-Conocimientos de programación en:
+    -PHP
+    -MySQL
+-Se valorarán también:
+    -javascript
+    -jQuery
+    -otros lenguajes o conocimientos
+El cargo presenta opciones de ascenso y promoción interna y participará directamente de los beneficios de la empresa.

@@ -1,0 +1,9 @@
+
+Necesitamos un ¨web developer¨ que pueda añadir funciones en nuestro sitio web. Tiene que tener experiencia con el programa Ruby on Rails (ejemplo de codigo abajo) y preferentemente Smartadserver. 
+Sample Ruby on Rails Code:
+# Everything, including a literal, is an object, so this works:
+-199.abs                                                # 199
+&amp;quot;ruby is cool&amp;quot;.length                               # 12
+&amp;quot;Your mother is nice.&amp;quot;.index(&amp;quot;u&amp;quot;)             # 2
+&amp;quot;Nice Day Isn't It?&amp;quot;.downcase.split(&amp;quot;&amp;quot;).uniq.
+sort.join  # &amp;quot; '?acdeinsty&amp;quot;[email=null][/email]

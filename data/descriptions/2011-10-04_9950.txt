@@ -1,0 +1,32 @@
+
+Agencia Web británica busca equipo de programadores con talento y experiencia para abrir oficina en Madrid. Trabajamos en un ambiente relajado e informal.
+Los candidatos ideales tienen que ser capaces de trabajar en equipo pero a la vez aportar sus propias ideas y conocimientos en tecnología avanzada.
+Se requiere:
+
+Excelente conocimiento de PHP5 y OOP
+
+Buen entendimiento de XHTML/CSS
+
+Buen entendimiento de MySQL y database relacional
+
+Javascript
+
+Integración con  CMS o E-commerce
+
+Nivel alto de inglés
+
+Se valorará:
+
+AJAX o Google Maps
+
+Uso de Prototype o JQuery JavaScript framework
+
+Zend Framework u otro PHP MVC framework
+
+Sistema Linux
+
+SOAP/XML Servicios Web
+
+Uso de subversión para versión control
+
+

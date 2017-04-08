@@ -1,0 +1,5 @@
+
+Buscamos programador freelance PHP Senior, para proyecto de 6 meses, con posibilidad de ampliación.
+Los requisitos son: 
+Experiencia probada en desarrollo en entornos Unix/PHP/MySql, muy valorable haber trabajado con algún framework de desarrollo MVC (CakePHP, CodeIgniter, Symfony...) 
+Ofrecemos retribución económica competitiva, posibilidad de trabajar remotamente, equipo de trabajo dinámico.

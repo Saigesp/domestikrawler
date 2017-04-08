@@ -1,0 +1,17 @@
+
+Tourist Eye crece cada día y queremos crear un equipo fuerte y profesional para ofrecer las mejores aplicaciones móviles de viajes del mercado. Estamos buscando un desarrollador Android para incorporarse de forma inmediata a la empresa.
+¿Qué es Tourist Eye?
+Tourist Eye es una guía de viajes Web &amp; Móvil personalizada para cada persona y para cada viaje particular. Ofrecemos contenido personalizado en función de los hábitos del usuario, de sus viajes anteriores y de su grafo social. Tourist Eye ayuda al usuario en todas las fases del viaje: al inspirarse y decidir su destino(s), cuando planifica su viaje (hotel, vuelos, coches, etc), al acceso a la información mientras viaja (lugares de interés, restaurantes, ocio, mapas, descripciones y imágenes; 100% offline, sin necesidad de Internet) y a compartir la experiencia en tiempo real (incluso se puede conectar a su cuenta con Twitter, Facebook, Flickr, etc.)
+Somos uns startup con un equipo de 5 personas con sede en Madrid (España), nos apasiona viajar y animamos a nuestro equipo a hacerlo y así probar y seguir mejorando nuestro propio producto. Pensamos en grande, queremos crear un gran producto y convertirnos en una referencia en el sector online de viajes en los próximos años.
+Estamos buscando desarrolladores que estén apasionados por el gran potencial de las aplicaciones móviles, que disfruten de la tecnología y a los que les apasione viajar. Ambos puesto se ofrecen para trabajar en Madrid (España).
+Desarrollador Android
+Su objetivo será continuar con el desarrollo de la aplicación para Android de  Tourist Eye con el objetivo de convertirla en la mejor aplicación de viajes para Android. Se venden más de 50.000 teléfonos Android al día y queremos estar en una gran parte de ellos.
+Requisitos:
+- Nivel alto de programación Java.
+- Conocimiento de programación para Android (se valorarán aplicaciones previas).
+- Se valorará el trabajo previo con APIs, Thread, Almacenamiento, Mapas, problemáticas de rendimiento en el móvil, compatibilidad entre distintas versiones de Android y distintos tamaños de pantallas.
+Condiciones:
+- Incorporación inmediata en la empresa.
+- Jornada completa.
+- Trabajo presencial en Madrid (nuestras oficinas están en Moncloa).
+- Sueldo fijo + Participaciones en la empresa en función de objetivos.

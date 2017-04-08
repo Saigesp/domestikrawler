@@ -1,0 +1,4 @@
+
+Buscamos un programador freelance con dominio de Perl y Php con capacidad para desarrollar un buscador avanzado y siguiente un algoritmo que nosotros especificaremos.
+Preferiblemente nos gustaría que viviera en Madrid para poder reunirnos de vez en cuando. 
+El proyecto se llevará a cabo entre los meses de Diciembre y Febrero.

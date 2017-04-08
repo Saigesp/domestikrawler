@@ -1,0 +1,28 @@
+
+Tenemos un puesto disponible para:
+Programador/a web en entorno PHP y MySQL, que cumpla con los siguientes requisitos:
+-----------------------------------------------------------------------------------
+* Varios años de experiencia, orientado a resultados.
+* Muy buenos conocimientos de PHP (OOP), MySQL, XHTML, CSS, Javascript/Ajax.
+* Capacidad de desarrollar sitios web flexibles y de grande escala desde principio a fin.
+* Trabajo en equipo, aportar e intercambiar conocimientos que mejoren el desarrollo.
+* Analizar y solucionar problemas.
+* Cuidado por el detalle.
+* Iniciativa y proactividad.
+* Nivel alto de Castellano escrito, es el idioma de la interfaz de las aplicaciones.
+* Trabajar 40 horas semanales en nuestra oficina de Sabadell situada cerca de la estación de FGC.
+* Querer trabajar en un equipo joven, responsable pero flexible y con sentido del humor y tener la oportunidad de crear sitios web que ocupen un buen puesto en el mercado.
+Responsabilidades del puesto:
+-----------------------------
+* Encargarse de la programación y el desarrollo del proyecto principal asignado (buscador empleo / red social).
+* Participar en otros proyectos cuando sea necesario.
+* Colaborar con otros programadores / diseñadores para mejorar el resultado final.
+Los siguientes no son obligatorios pero si un plus:
+---------------------------------------------------
+* Experiencia en Yii u otros frameworks PHP.
+* Conocimientos básicos de Flash.
+* Conocimientos para crear Servicios Web / APIs.
+* Subversion.
+* Smarty.
+* Conocer geografía de España.
+* Experiencia previa en sitios de inmobiliaria, empleo, o redes sociales.

@@ -1,0 +1,12 @@
+
+En Iskiam Jara Agencia Creativa estamos buscando programadores web expertos en php.
+¿Te gustaría trabajar en el desarrollo de una red social y todo lo que ello conlleva?¿Quieres experimentar en una plataforma con muchos usuarios? ¿Te gustaría crear una aplicación para diferentes móviles?
+Buscamos una persona responsable, capaz de autogestionar su trabajo y comprometida con los tiempos de entrega.
+    * Desarrollador en entorno Apache, PHP, MySQL-PostgreSQL.
+    * Acostumbrado a trabajar con CVS, subversión y experiencia en framework de desarrollo de PHP.
+    * Ruby on Rails
+    * Web Services, JSON
+    * Con conocimientos de estándares de XML, XHTML, HTML y CSS. 
+Se valorará:
+    * Experiencia o conocimientos en tecnologías orientadas a aplicaciones móviles. 
+P.D. Sólo buscamos enamorados del código dispuestos a experimentar.

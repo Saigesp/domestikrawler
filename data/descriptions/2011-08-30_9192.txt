@@ -1,0 +1,9 @@
+
+Amaranto Consultores precisa incorporar C#.NET Developer para proyecto en Barcelona.
+Se requiere:
+- Formación en Ingeniería informática o Telecomunicaciones.
+- Experiencia mínima de 1 a 3 años en . NET 3 + y C#. y en XML / XSL y WPF y WCF.
+- Inglés fluido hablado y escrito.
+Se valorará:
+- Conocimientos en laboratorio de analísis clínico
+- Conocimientos en MS Workflow Foundation, SQL, MS Entity Framework, Oracle and .NET 4.0

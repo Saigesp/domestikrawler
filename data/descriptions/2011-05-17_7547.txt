@@ -1,0 +1,11 @@
+
+Puesto: Programador en PHP
+Sigojoven.com es una red social de habla hispana para mayores de 40 orientada a conocer nuevas personas. El proyecto nace Marzo del 2009 y desde entones no hemos parado de trabajar para desarrollar un producto de éxito. 
+En estos momentos necesitamos que un nuevo miembro se una al proyecto y nos ayude con las funciones de programación.
+Funciones
+La persona que buscamos se encargará del desarrollo y revisión de nuevas aplicaciones  en PHP en facebook por lo que se requiere:
+Requisitos
+Conocimientos avanzados en PHP, MySQL, JavaScript, HTML y CSS
+Experiencia en la utilización del api de Facebook (graph api y FQL)
+Muchas granas de trabajar y de incorporarse a un equipo joven y dinámico.
+Horario de media jornada

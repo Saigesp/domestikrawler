@@ -1,0 +1,12 @@
+
+QBOMedia, agencia interactiva de Prisma Grupo busca programadores web para su equipo de desarrollo. (delegación Santander)
+Requisitos:
+- Nivel medio/alto en PHP y bases de datos SQL
+- Nivel medio de XHTML y CSS 
+Se valorará:
+- Nivel alto en XHTML, CSS, javascript y accesibilidad.
+- Técnicas AJAX
+- Desarrollo crossbrowser
+- ActionScript 3
+Jornada completa. 
+Abstenerse Freelance.

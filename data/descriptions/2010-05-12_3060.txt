@@ -1,0 +1,5 @@
+
+Debido al rápido crecimiento del proyecto online Comuniges.com, buscamos incorporar un profesional para el desarrollo de nuevas funcionalidades así como el mantenimiento de las actuales. 
+Son necesarios sólidos conocimientos en desarrollos avanzados en PHP con motores de plantillas, MySQL, CSS2, XHTML, Javascript. 
+El perfíl del candidato tiene que responder a: seriedad, responsabilidad, flexibilidad, proactividad, metodología, programación, optimización, standards.
+Te ofrecemos un espacio donde puedas desarrollarte profesionalmente sin limitaciones a tu creatividad técnica incorporándote a nuestro equipo jóvenes profesionales.

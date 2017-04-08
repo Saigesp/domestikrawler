@@ -1,0 +1,7 @@
+
+Estamos creando una start-up de Internet y buscamos a un programador con ganas de hacer proyectos de gran calidad basados en tecnología AS3/Flex/Air de Adobe y con dotes para la gestión. 
+Esperamos que tengas experiencia en desarrollo de aplicaciones Web, Iphone o Android y que te interese embarcarte en esta aventura con nosotros.
+Requisitos mínimos: cursando o habiendo terminado la carrera de ingeniero informático o de telecomunicaciones. Conocimientos de POO. 
+Requisitos deseables: conocimientos de ActionScript3, Adobe Flex, Air, Java, Spring, BlazeDS, Cairngorm.
+Conocimientos demostrables en APIs públicas (Facebook, Google maps, Youtube, Twitter...)
+Quien no se arriesga no gana.

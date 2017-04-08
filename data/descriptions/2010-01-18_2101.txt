@@ -1,0 +1,3 @@
+
+Hola,
+Busco una programadora o un programador con experiencia en  Ruby on Rails que resida en Barcelona o en sus alrededores. Se trata de una página web que integrará una búsqueda eficiente entre el contenido de múltiples textos. Se valora conocimientos e interés en algoritmos de búsqueda (conocimientos en Perl). Proyecto muy interesante en este ámbito. Horarios más que flexibles. 

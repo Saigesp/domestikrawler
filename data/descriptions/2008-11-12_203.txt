@@ -1,0 +1,10 @@
+
+Deseamos incorporar a nuestro equipo un maquetador WEB para trabajar con el equipo de informaticos y el director creativo.
+Imprescindible conocimientos avanzados de (x)HTML y CSS
+Se valorará:
+- Conocimientos edición y optimización imagen para web
+- Conocimientos de accesibilidad, usabilidad y estándares web
+- Conocimientos de Photoshop / Fireworks / Freehand / Illustrator
+- Nivel medio de inglés hablado y escrito
+- Conocimientos de AJAX, JSon
+- Nociones básicas de programación web

@@ -1,0 +1,11 @@
+
+En ideateca estamos trabajando como locos en los servicios que tenemos entre manos y también en los que tenemos rondando por la cabeza. Y como se nos acumulan, para que no se nos atasquen, seguimos a la caza de más cabezas pensantes.
+De forma más urgente, andamos buscando a un:
+Analista desarrollador de juegos en J2SE
+(Lugar de trabajo: Bilbao)
+Si en principio crees que podrías encajar, lo que esperamos como mínimo es que tengas:
+* Experiencia y conocimientos en J2SE
+* Conocimientos medios con librería gráfica Swing
+* Gusto e interés por el mundo de los juegos online
+Nos encantaría que, además, tuvieras conocimientos de programación en red (consumo de sockets, web services…) e interés en la algoritmia orientada a juegos.
+También valoraremos si sabes algo de Java FX. Y si eres o has sido usuario de portales de juegos multijugador, pues perfecto, ya que nos ayudarías también en otros aspectos del proyecto.

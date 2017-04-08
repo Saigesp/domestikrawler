@@ -1,0 +1,14 @@
+
+En Buzz Marketing Networks buscamos un programador PHP para trabajar en proyectos internos y de clientes desde nuestras oficinas en BARCELONA. Si te encanta experimentar con mashups, estar a la última de lo que permiten las APIs y Librerías de Facebook, Twitter, Foursquare... e incluso si has llevado a cabo algún proyecto web, y no hay nada que no sepas hacer (y si no sabes, sabes cómo aprenderlo), queremos conocerte.
+Buscamos un perfil, que además de conocimientos, sume al equipo siendo proactivo, se atreva a proponer cosas nuevas y que además viva de lleno en las redes sociales.
+Por nuestra parte te invitamos a unirte a un grupo de más de una veintena de apasionados por los Social Media, en el centro de Barcelona y entrar de lleno en el desarrollo de aplicaciones creativas, poniendo al límite las posibilidades de las redes sociales e innovando día a día.
+Requisitos:
+-Programador PHP5 y MYSQL
+-Experiencia de al menos 2 años en el trabajo con objetos PHP
+-Haber trabajado con algún framework PHP mejor si es Zend Framework
+-Maquetación web con XHTML+CSS
+-Programación Javascript y haber trabajado con librerías (jQuery, Mootools)
+Requisitos deseables:
+-Haber desarrollado aplicaciones facebook.
+-Nivel alto de inglés
+La oferta es para trabajo presencial en nuestras oficinas en Barcelona. 

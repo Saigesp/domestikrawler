@@ -1,0 +1,13 @@
+
+Unaymedia es una empresa que desarrolla nuevos formatos para TV y otros soportes.
+La persona que buscamos debería cumplir el siguiente perfil:
+iOS PROGRAMADOR [f/m]
+Tipo de trabajo: Full-time
+Responsabilidades
+* Programación en Objective-C
+* Trabajar en equipo con los diseñadores y los animadores 3D
+* Documentación del código creado.
+Habilidades y Calificaciones
+* Experiencia con IOS 4.3 para el iPhone y el IPAD y el uso de Xcode y el SDK de iOS
+* Familiaridad con otras plataformas móviles (Android o WindowsMobile) es un plus
+* Dominio de Inglés hablado y escrito es plus

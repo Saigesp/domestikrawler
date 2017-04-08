@@ -1,0 +1,22 @@
+
+Grupo Intercom, empresa líder en el sector de las nuevas tecnologías, precisa contratar un Director Técnico para Finday.com. 
+Esta persona se hará cargo de la gestión y del mantenimiento de un sistema web 2.0 basado en tecnología LAMP (Linux, Apache, MySQL, PHP).
+El candidato seleccionado se encargará de aportar su conocimiento para plantear todo tipo de mejoras a la idea actual y convertirse en el “alma mater” del desarrollo técnico del proyecto y de su posterior gestión y crecimiento.
+Buscamos personas con las características siguientes:
+• Espíritu emprendedor
+• Proactividad y actitud positiva
+• Alta capacidad de compromiso 
+• Pragmático y organizado 
+• Capaz e ilusionado por trabajar en equipo
+Requisitos:
+• Titulados en Ingeniería técnica o superior de Informática.
+• Experiencia: de 3 a 5 años
+• Experiencia en negocios Internet
+• Experiencia liderando un equipo de trabajo
+• Experiencia en las siguientes tecnologías: XHTML, XML, CSS, AJAX
+• Mucha experiencia en PHP5 con POO y MVC
+• Experiencia en frameworks PHP5, idealmente Symfony
+• Experiencia en frameworks Javascript, idealmente jQuery y Prototype
+• Experiencia en MySQL
+• Conocimientos de inglés nivel medio alto-alto
+

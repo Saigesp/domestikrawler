@@ -1,0 +1,4 @@
+
+Buscamos cubrir un puesto como empleado.
+Es imprescindible la programación en php y conocimientos más que básicos de drupal.
+También sería interesante conocimiento de javascript/ajax y algo de flash.

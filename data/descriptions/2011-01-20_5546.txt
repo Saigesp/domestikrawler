@@ -1,0 +1,14 @@
+
+Empresa de comunicación online especializada en desarrollo de software a medida para web y dispositivos busca programador para puesto de jornada completa con los siguientes requisitos: 
+Conocimientos básicos requeridos: 
+• XHTML/CSS 
+• PHP/MySQL 
+• JavaScript (AJAX, jQuery)
+Otros conocimientos valorados: 
+• SEO/SEM
+• ASP/ASP .NET
+• Objetive-C (desarrollo de aplicaciones para iPhone/iPad).
+• CMS (Drupal, Magento, etc.) 
+• POO (Java, .NET, C#, etc.) 
+Experiencia requerida: 
+• 1 año de experiencia en el desarrollo de proyectos web.

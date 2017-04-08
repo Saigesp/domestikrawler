@@ -1,0 +1,7 @@
+
+Necesitamos 1 informático para mantener nuestro TPV terminal punto de venta, desarrollado en C# Alaska con MySql.
+El puesto consiste en depurar posibles errores que puedan surgir de la aplicación, en la instalación de los terminales a los clientes, así como adaptar la aplicación a diferentes bares, pubs, y comercios.
+Se requiere: C# y MySql
+Jornada: presencial o freelance
+Duración: Incorporación inmediata a la plantilla de forma indefinida
+Contacto: tpvsoft@gmail.com

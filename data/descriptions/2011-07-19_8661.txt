@@ -1,0 +1,22 @@
+
+T-RETO es una red social, que pronto saldrá a la luz en versión beta, donde los usuarios retan a sus amigos y crean competiciones. Buscamos analistas programadores de PHP5 - Symfony que quieran FORMAR PARTE ACTIVA de una apasionante start-up con un gran recorrido. Buscamos personas proactivas, creativas, implicadas, y apasionadas con su trabajo.
+Responsabilidades:
+- Implementación, mantenimiento y optimización de las aplicaciones y servicios
+- Desarrollo de mejoras y novedades
+- Desarrollo y diseño de funcionalidades de backoffice
+- Colaboración en el diseño de interfaces de usuario y nuevas aplicaciones web
+- Desarrollo y diseño de mecanismos de optimización
+- Producción de código de alta calidad y mantenible haciendo uso de patrones de diseño y buenas prácticas de programación
+Requisitos:
+- Experto en php5 - Symfony
+- Buenas prácticas de programación
+- Experiencia en desarrollo de software
+- Conocimiento y uso de patrones de diseño, MVC.
+- Conocimiento de Javascript, Jquery
+- Conocimiento de BBDD MySQL 5, Doctrine
+Se valorará:
+- Conocimientos de desarrollo en flash
+- Conocimientos de JWPlayer
+- Conocimientos de HTML5, CSS3
+Ubicación: 
+- Nuestra oficina está en el centro de Madrid, junto a la Plaza de la Villa y el Mercado de San Miguel. Estamos a 5 minutos de las paradas de metro de: Ópera, Tirso de Molina, La Latina y Sol (también Cercanías) 

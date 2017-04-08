@@ -1,0 +1,20 @@
+
+Se encargará del desarrollo de aplicaciones web en PHP/MySQL, incluyendo soluciones de comercio electrónico e integración con APIs de redes sociales (Facebook, Twitter, etc.).
+Requisitos:
+
+2+ años de experiencia programando en PHP (incluye XML)
+2+ años de experiencia con MySQL
+
+2+ años implantando soluciones de comercio electrónico (Magento, ATG Dynamo, Prestashop, OsCommerce, etc.)
+1+ años de experiencia en programación web (HTML, Javascript, CSS, jQuery, etc.)
+
+Se valorará:
+
+
+Experiencia trabajando en integración con redes sociales (desarrollo de aplicaciones para Facebook, integración con APIs de Facebook, Twitter, etc.)
+ Conocimientos de administración de sistemas Linux/Unix
+
+ Conocimientos de herramientas de build management (Ant, Maven, make, etc.), control de versiones (Subversion, etc.), gestión de proyectos (Redmine, Bugzilla, Trac, RT, etc.)
+ Experiencia con Java, Python/Django
+
+

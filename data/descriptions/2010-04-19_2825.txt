@@ -1,0 +1,22 @@
+
+GPM Innovación y Desarrollo es una empresa de desarrollo de software, con la innovación como motor de su crecimiento, referente por su calidad y eficiencia, con el mejor equipo humano, utilizando y liderando la adopción de nuevas tecnologías de Internet.
+Buscamos un animador/a - programador/a multimedia para incorporarse en nuestro centro de Salamanca al equipo Multimedia.
+Tareas y responsabilidades:
+Trabajará junto con el resto del equipo en el desarrollo de animaciones y producciones según las directrices de los creativos
+Asesorará a los diseñadores en cuanto a los requisitos técnicos de los diseños. 
+Colaborará en el desarrollo de Story Boards. 
+Aportará soluciones a requerimientos de un cliente. 
+Analizará e implementará nuevas herramientas de trabajo para la animación/producción audiovisual y ante problemas técnicos. 
+Requisitos:
+Conocimiento y experiencia demostrable (se valorarán trabajos aportados) en 
+- Animación Flash
+- Producción audiovisual en Adobe Premiere / Adobe After Effects
+- Programación en AS3 y AS2 con nivel alto (tanto Flash como Flex)
+Adicionalmente, se valorará:
+Diseño de interfaces web.
+- Ilustración y diseño de personajes. 
+- Conocimiento en 3D. 
+- Conocimiento de lenguajes de servidor como PHP / base de datos y su conexión con Flash/Flex
+Ofrecemos incorporación inmediata a nuestro equipo Multimedia para el desarrollo de aplicaciones y producciones audiovisuales.
+Condiciones en función de la experiencia aportada.
+Trabajo estable y posibilidad de desarrollo de carrera.

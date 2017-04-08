@@ -1,0 +1,21 @@
+
+Algoritmouse es una startup formada por expertos en analítica web y marketing online.
+Buscamos a un desarrollador PHP con experiencia para completar el equipo de desarrollo de una ambiciosa aplicación web de ámbito global.
+Estudios mínimos:
+Ingeniero Técnico
+Experiencia mínima:
+Al menos 3 años
+Requisitos mínimos:
+- Experiencia en desarrollos web profesionales con tecnologías PHP y MySQL.
+- Conocimientos de patrones de diseño y frameworks PHP.
+- Conocimientos de JavaScript y Ajax.
+- Experiencia en testing.
+- Experiencia en uso de sistemas de versiones.
+- Buen nivel de inglés.
+Requisitos deseados:
+- Se valorará experiencia en WebServices y conocimiento de otras tecnologías como J2EE o ASP.NET.
+- Se valorará experiencia en trabajos de publicidad y marketing.
+Tipo de contrato:
+Contrato de 4-6 meses con posibilidad de indefinido
+Jornada laboral:
+Completa 

@@ -1,0 +1,18 @@
+
+ENVIAR CURRICULUM SOLO QUIEN SE AJUSTE AL PERFIL Y VIVA EN BARCELONA
+Smallfish es una agencia de publicidad italiana especializada en comunicación estratégica y publicitaria online y new media. Buscamos para nueva oficina de Barcelona:
+Web designer con experiencia de 2/3 años en proyectos web.
+Imprescindible conocimientos de (en orden de importancia):
+- PHP
+- Gestión de base de datos MySQL
+- HTML/CSS
+- JavaScript y mínimo un Framework (JQuery, Mootools, o parecidos)
+- flash para banner y animaciones
+- as3 e OOP
+Se valora el conocimiento de uno de estos aplicativos:
+Creative suite cs 3/4 o PhotoShop e illustrator cs 3/4
+ASP
+CMS (Joomia, wordpress, Magento o parecidos)
+Zend Framework para PHP
+as2
+Salario según experiencia. No Freelance

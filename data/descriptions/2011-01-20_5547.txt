@@ -1,0 +1,16 @@
+
+Empresa de comunicación online especializada en desarrollo de software a medida para web y dispositivos busca diseñador gráfico con conocimientos en maquetación web para puesto de jornada completa o media jornada con los siguientes requisitos: 
+Conocimientos básicos requeridos: 
+• Diseño web (Illustrator, InDesign, Photoshop, ...)
+• XHTML/CSS 
+• JavaScript (AJAX, jQuery)
+Otros conocimientos valorados: 
+• PHP/MySQL 
+• SEO/SEM
+• ASP/ASP .NET
+• Objetive-C (desarrollo de aplicaciones para iPhone/iPad).
+• CMS (Drupal, Magento, etc.) 
+• POO (Java, .NET, C#, etc.) 
+Experiencia requerida: 
+• 1 año de experiencia en el diseño de proyectos web.
+

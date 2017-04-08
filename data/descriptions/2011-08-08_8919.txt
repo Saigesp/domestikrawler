@@ -1,0 +1,24 @@
+
+Glamourum es un servicio de internet que se dedicada a promocionar productos de cosmética.
+Se trata de una empresa ubicada en Barcelona y apoyada por SeedRocket y varios business
+angels especializados en el sector de internet. Está impulsada por un equipo de jóvenes
+emprendedores con mucha iniciativa y más de 10 años de experiencia en el sector de las
+nuevas tecnologías y el gran consumo.
+Buscamos a un Junior Developer con iniciativa, sentido de la responsabilidad, compromiso y
+ganas de aprender y desarrollar su carrera profesional y su talento en una startup de internet
+con grandes expectativas de crecimiento.
+Se incorporará a nuestro departamento de IT y las tareas principales están relacionadas con el
+desarrollo de la web. Asimismo, el candidato/a tendrá la oportunidad de aprender mucho
+tanto del sector como de nuestro equipo de desarrolladores.
+Requisitos
+• Conocimiento de PHP y javascript
+• Programación orientada a objetos y conocimiento del patrón MVC
+• Haber trabajado con algún framework MVC (Zend, Codeigniter, Symfony, ...)
+• Conocimiento de Bases de datos relacionales (MySQL)
+• Conocimiento de sistema operativo Linux
+• Conocimiento plataforma LAMP
+• Iniciativa, ganas de aprender y saber trabajar en equipo
+Se valorará conocimientos de maquetación y diseño.
+Qué ofrecemos
+Ofrecemos un contrato indefinido a tiempo completo y un horario flexible en función de las
+necesidades del candidato/a. La incorporación es inmediata.

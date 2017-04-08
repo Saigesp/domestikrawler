@@ -1,0 +1,36 @@
+
+yuilop is an innovative, international startup based in Barcelona, developing a mobile app based communication service that allows its users to communicate for free with any phone, any phone number and all their friends.
+Within 1 month after launch of the iOS version in Germany we reached the Top 3 spot in the Social Networking category right next to Facebook and Skype. Our aim is to not only allow users to talk for free, but also create the best communication experience app in the world.
+We’ re looking for creative, passionate new friends who want to share the startup experience of a new company with fresh ideas and big ambitions.
+Job title: PHP Developer BackOffice &amp; Web
+You will be responsible for designing and developing the BackOffice of yuilop, as well as collaborating on the web interface and web app of yuilop. You’ll be expected to work collaboratively with the marketing and development teams.
+Key Responsibilities:
+Design and development of routing optimization mechanics
+Design and development BackOffice functionalities
+Collaboration on design and development of web interface and web app
+Design and Development of Business Intelligence solution, including Data Warehouse, ETL, OLAP Data marts and Reporting
+Production of high quality, maintainable code using latest technologies
+Requirements:
+5+ years experience creating interfaces, large scale websites, or applications. Mobile experience a plus
+A hard-earned bachelor’s degree in design or a related subject – or the equivalent on-the-job experience
+Experience in PHP5 programming with CodeIgniter and ideally also HipHop framework
+Experience in web programming with Javascript, JSON, HTML5, CSS
+Experience with database extraction MySQL, and ideally also NoSQL (e.g. MongoDB or CouchDB)
+Knowledge of other languages like Java, node.js, C#, C++ and/or Python preferred
+Experience in developing high performance, high availability systems
+Good understanding of application servers
+Experience and knowledge of agile software development methodologies
+Strong attention to detail
+Demonstrated ability to work in a highly collaborative environment
+Language skills: fluent English oral and written, as well as fluent oral Spanish skills
+Self dependent, responsible, reliable, proactive, result-oriented, team player, flexible
+Ambitious, smart, drive to grow and excitement to be part of a young, innovative and fast growing StartUp
+Please provide us with a link to your portfolio in your application.
+We’re looking for someone with passion, experience and proven success that will enhance our team of hard working, fun playing, passionate professionals to provide people around the world the yuilop service so they can communicate for free.
+If you agree that the world is changing and want to be right at the forefront of these changes, we want to get to know you.
+Start date: asap
+Location: Barcelona
+Offer: We offer creative freedom, competitive salary including employee stock option program, as well as fun work environment in Barcelona city center with a fruit stocked kitchen and more
+About yuilop
+Founded in November 2010 yuilop has been the first company to provide unlimited free SMS to mobile users in its first step to fulfill yuilop’s vision of a world with free mobile communication.
+Recently in April 2011 yuilop launched the service in its first market Germany and is preparing the rollout to more international markets in Europe and the rest of the world.

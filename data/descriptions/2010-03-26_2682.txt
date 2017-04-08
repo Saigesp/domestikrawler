@@ -1,0 +1,15 @@
+
+Estamos buscando un programador web con experiencia creando blogs. 
+El trabajo sería in house en Madrid para empezar en los próximos días y consistiría en crear un site con apariencia de blog o un blog en wordpress. Nuestra referencia es la web de la Wikipeli de Mahou.
+Por favor, solo aquellos con estos conocimientos enviar el currículum y links a trabajos a:  canitafilms@yahoo.com
+Abstenerse programadores web en general sin experiencia visible en blogs. 
+Estos son los requisitos técnicos:
+•	Conocimiento en profundidad de la version más reciente de Wordpress.
+•	HTML con alto nivel de CSS 
+•	Javascript
+•	PHP 4.3 o superior
+•	MySQL 4.1.2 o superior
+•	Host usando Apache o Nginx
+•	Capacidad para diseñar temas customizables de Wordpress que sean fácilmente adaptables desde el escritorio. Esto incluye añadir post y contenido en páginas estáticas. 
+•	Ser capaz de crear un sistema de registro previo al acceso de la página. 
+Muchas gracias!

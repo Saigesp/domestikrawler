@@ -1,0 +1,10 @@
+
+Buscamos una persona con entre 1 y 3 años de experiencia que pueda aportar, junto a programadores y creativos, soluciones innovadoras en el desarrollo de proyectos interactivos. 
+Pensamos en alguien que se desenvuelva bien con la programación orientada a objetos y le interesen el diseño y la publicidad. Los proyectos en los que trabajará abarcan front y back-end, por lo que sería deseable que tuviera conocimientos de actionscript, javascript, css, xhtml, php y sql.
+No es necesario ser un experto en todo, pero sí estar familiarizado con la arquitectura de una web y el intercambio de datos entre cliente y servidor.
+Sueldo sujeto a experiencia. Interesados enviar CV a  cv@grey.es con muestras de trabajos o urls. (Por favor, incluid la referencia: PROG).
+--
+Grey es uno de los grupos de comunicación más importantes de España y trabaja de forma integrada para marcas  como Pringles, Albal, Cruz Roja, El Ayuntamiento de Madrid o Frenadol, entre muchas otras, pero lo mejor será  que veas algunos de nuestros últimos trabajos interactivos:
+ http://www.compraestaactitud.es
+ http://www.losapanaosdealbal.com
+ http://www.quierounacamisetacomoestaoparecida.com

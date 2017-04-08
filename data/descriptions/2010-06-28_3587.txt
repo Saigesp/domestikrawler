@@ -1,0 +1,9 @@
+
+Se busca un desarrollador web con experiencia en entornos LAMP de al menos 2 años.
+Requisitos:
+- PHP 4/5 (programación orientada a objetos)
+- Experiencia en Frameworks para PHP
+- Administracion básica de servidores linux / apache.
+- Experiencia en librerías javascript (Jquery , Mootools, ...)
+- Conocimientos de SQL y PL/SQL.
+Valorable conocimientos de web service y XML.

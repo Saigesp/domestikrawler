@@ -1,0 +1,8 @@
+
+Buscamos programadores Front/back-end con experiencia en:
+- PHP
+- SQL
+- Librerías AJAX, JQERY..
+- Maquetación xHTML/CSS según estándares (crossBrowser, accesibilidad)
+Valoraremos otros conocimientos para futuros proyectos
+Enviarnos web/portfolio con trabajos realizados.

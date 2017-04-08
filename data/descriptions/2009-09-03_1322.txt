@@ -1,0 +1,8 @@
+
+Debido a la creciente carga de trabajo estoy buscando a un actionscripter freelance que le pegue bien al AS3, con buen toque para animar interfaces gráficas a base de código, serio y cumplidor con las entregas.
+Si la única línea, o casi, de código que hay en tus movies es el path a la clase base estás tardando en llamarme, en cambio si tus flashes son de los de 1500 frames y eres el rey del gotoAndStop() te acompaño en el sentimiento.
+Necesario e imprescindible : SVN, Eclipse o Flex builder, Flash CS4.
+La idea es tener a alguien con el que colaborar asiduamente en el desarrollo de proyectos flash bastante majos.
+Si tienes portafolio genial, si no, no hay problema, me cuentas qué es lo que haces, como trabajas y si hay "feeling" te llevas un proyecto que tengo el el horno para ya.
+Ahí queda eso ;)
+ 

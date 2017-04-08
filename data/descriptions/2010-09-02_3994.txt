@@ -1,0 +1,10 @@
+
+-Diseño y maquetación CSS de todas las webs bajo estándar de Yahoo YUI
+-Diseño y maquetación HTML de todas las webs con DIVs
+-Diseño banners en formatos Flash (SWF), GIF, etc… respetando estándares de IAB y de proveedor
+-Diseño y maquetación de mailings según las normas para evitar la clasificación SPAM y que sean admitidos por todos los clientes de correo. Manejo de herramienta de emailing.
+-Retoque fotográfico con PhotoShop y optimización gráficos para web con Fireworks.
+-Creación de estructura básica SEO: robots.txt, sitemap.xml, etiquetas ALT, etiquetas &lt;h&gt;,uso de nofollow, etc…
+-Implantación de proyectos de: Google Analytics, herramientas para webmaster de Google
+-Apoyo en diseño a cualquier área que lo necesite (iconos, ilustraciones, grafismo para PowerPoints, etc…)
+

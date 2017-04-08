@@ -1,0 +1,5 @@
+
+GEOMOBILE, start up tecnológica focalizada en el lanzamiento de productos de última generación sobre dispositivos móviles iPhone, Android y Blackberry, precisa incorporar ingenieros de software para el desarrollo de diversos productos en fase de concepto. Los candidatos deben ser capaces de, en base a una especificación funcional, implementar la solución tecnológica óptima de forma independiente y con total calidad.
+Requisitos:
+- Pasión por la tecnología para dispositivos móviles.
+- Experiencia previa demostrable en el diseño de aplicaciones para iPhone, Android y/o RIM.

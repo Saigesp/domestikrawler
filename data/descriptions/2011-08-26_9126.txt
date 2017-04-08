@@ -1,0 +1,6 @@
+
+
+Amaranto Consultores precisa incorporar a un proyecto en Barcelona un Programador J2EE.
+Se requieren conocimientos en: J2EE, arquitectura Struts y conocimiento de Hibernate. 
+Se valorará: BD Oracle, Arquitectura Spring, Open frame.
+Se ofrece incorporación inmediata

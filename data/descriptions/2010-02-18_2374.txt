@@ -1,0 +1,8 @@
+
+Nommac es una empresa joven y dinámica dedicada a las nuevas tecnologías.
+Necesitamos un diseñador web / gráfico.
+Las tareas principales serán: 
+Diseño y desarrollo de webs con html + css
+Diseño de imagen corporativa: logotipos, tarjetas, folletos, etc..
+Imprescindible: mostrar portfolio con algún trabajo HTML y de diseño.
+Deseable: JQuery y conocimientos en Flash

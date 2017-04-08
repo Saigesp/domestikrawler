@@ -1,0 +1,16 @@
+
+Su función será participar en la definición y ejecución de proyectos de desarrollo utilizando las últimas tecnologías .Net:
+- Visual Studio 2008
+- Asp.Net, Ajax
+- Test Driven Development
+- SQL Server 2008
+- Biztalk Server 2006 R2
+- Silverlight
+- Desarrollo para dispositivos móviles
+Se ofrece:
+- Contrato indefinido
+- Plan de formación complementado por certificaciones oficiales.
+- Integración en equipos de trabajo de alto rendimiento
+- Activa participación en proyectos y eventos tecnológicos.
+- Remuneración Salarial acorde a la experiencia y conocimientos que se aporten
+Se requiere que el candidato posea experiencia al menos 6 meses en alguna de estas tecnologías :C#, ASP.Net, ADO.Net, XML. Se valorará que el candidato haya tenido contacto o experiencia, y con Biztalk Server 2006 R2, o asistido a algún tipo de formación relacionado. También se valorará que tenga experiencia en patrones de diseño, web services o que esté en posesión de alguna certificación de Microsoft.

@@ -1,0 +1,11 @@
+
+Tiene que ser una persona joven (edad comprendida entre 26 y 30 años) con ganas de afrontar el proyecto que se le asigna, tener inquietudes por investigar y solucionar los problemas que le surgen utilizando Internet, también tiene que tener interés por estar al día con las últimas novedades, en cuanto a diseño, estándares Web, aplicaciones etc.… La persona sería contratada para cubrir el tiempo que dure el  proyecto de la realización de las Web de Motor Press Ibérica, se integraría físicamente en el equipo de Diseño Online, o estaría eventualmente de forma presencial según necesidades. 
+Conocimientos: Ha de conocer y saber manejar el paquete de Microsoft Office (PowerPoint, Excel, Word, ).
+Tiene que saber ver y maquetar código Xhtml, CSS2, siguiendo los estándares Web.
+Tiene que saber identificar códigos de programación, así como saber manipular estos, JavaScript, PHP, Librerías JQuery, Prototype, etc.… sobre cosas ya programadas, no es necesario hacerlo desde 0.
+Ha de conocer alguno de los CMS más utilizados para gestionar webs, Joomla, Wordpress, Drupal etc…
+Tiene que manejar programas de diseño Web, tales como Dreamweaver, PhotoShop, conocimientos de Flash, conocimientos de edición de vídeo, ya sea con premiere, final cut o algún otro editor de vídeo.
+Tiene que saber desenvolverse perfectamente con diferentes navegadores, estar al día de sus novedades y poder usar los plug-ins y ayudas que estos brindan de cara a la solución de errores en tiempo real sobre las webs que se trabajan, Firefox, Safari, Explorer, Chrome,…
+También tiene que saber ver los posibles errores de las webs en los navegadores anteriormente mencionados.
+Experiencia: Tiene que demostrar su experiencia, con proyectos en los que haya participado, o que haya realizado por si mismo, relacionados con los conocimientos comentados anteriormente.
+

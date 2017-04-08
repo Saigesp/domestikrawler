@@ -1,0 +1,13 @@
+
+Desarrollo de aplicaciones sobre plataformas Microsoft .NET Framework, Visual Studio, ASP .NET, SQL Server, y el mantenimiento correctivo software, versionado, generación de documentación técnica y de usuario.
+Requisitos mínimos: Experiencia demostrable de 2 años en análisis y programación .NET :
+- Plataforma Microsoft .NET, Visual Studio 2005/2008.
+- Programación C#, ASP.NET, Compact Framework.
+- Programación bases de datos, SQL Server.
+- Conocimientos medios administración Windows 2003 Server, Sql Server 2005, IIS.
+Persona con capacidad para trabajar en equipo, resolutiva, trabajadora y con ánimo de asentarse profesionalmente en la zona.
+Se valorará además experiencia en :
+- Arquitecturas distribuidas SOA : Web Services, WCF, Remoting, TCP/IP.
+- Desarrollo ASP .NET 3.5, AJAX, MVC.
+- Desarrollo aplicaciones GIS (MapInfo, ESRI, Google Maps).
+- Programación de sistemas móviles : GPS, GPRS.

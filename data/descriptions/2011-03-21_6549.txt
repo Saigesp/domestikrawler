@@ -1,0 +1,16 @@
+
+El puesto
+El trabajo a realizar consiste en el desarrollo de una plataforma web, formando parte de un equipo de trabajo dirigido por ingenieros con más de 10 años de experiencia en el sector. 
+Tendrán que ser informáticos con conocimiento en las siguientes tecnologías:
+Imprescindible:
+- Javascript 
+-JAVA / J2EE 
+- AJAX
+-CSS 
+- HTML 
+Deseable:
+-POSTGRES
+-SQL
+-PHOTOSHOP
+Para entrar en el proceso de selección es necesario poder firma un contrato de prácticas con una universidad. 
+Las oficinas están ubicadas en el centro de Madrid por lo que deberá residir en Madrid.

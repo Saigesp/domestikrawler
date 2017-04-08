@@ -1,0 +1,19 @@
+
+Somos una empresa dedicada a dar servicios informáticos a corporaciones educativas.
+Buscamos profesionales entusiastas, con preferencia por el trabajo en equipo, con gran capacidad de trabajo, iniciativa y alta motivación por incorporarse en una empresa inmersa de lleno en un proceso de expansión y crecimiento.
+Formarán parte de un grupo joven, dinámico y altamente cualificado, con importantes posibilidades de evolución y crecimiento personal.
+Más concretamente buscamos un analista/programador para una línea de
+productos desarrollados con RubyOnRails.
+Conocimientos Mínimos:
+- Ruby on Rails
+- HTML, XHTML y CSS.
+Se valorarán positivamente los siguientes conocimientos:
+- Control de versiones: git
+- Ajax (prototype, jQuery, etc) y javascript.
+- Otros lenguajes de Internet: PHP, ASP, etc.
+- Base de datos: SQL Server, Access y MySQL
+- Conocimientos de Linux
+- XML, XSL, XPath, etc.
+- Diseño web: Photoshop, Flash, Freehand, etc.
+- Adobe Flash
+- Gestores de contenido: Drupal, Joomla, etc.

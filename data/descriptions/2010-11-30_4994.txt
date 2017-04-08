@@ -1,0 +1,5 @@
+
+Damas y Caballeros, 
+Se busca actionscripter freelance que pueda participar en la arquitectura y desarrollo de una serie de juegos de cartas online.
+Los juegos serán multiplayer y se conectarán a la plataforma UNION PLATFORM http://www.unionplatform.com/
+Se valorará tambien la posibilidad de compra de motores ya desarrollados.

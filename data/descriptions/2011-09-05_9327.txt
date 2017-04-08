@@ -1,0 +1,24 @@
+
+Company Profile: 
+We are the leading provider of ecommerce solutions for hotels, servicing more than 15,000 hotel customers in 147 countries. We help hotels maximize profits from e-commerce. Serving the hospitality industry since 1999, we are a service-based company with leading products that increase revenue and profitability for hotels of all kinds, from international brands and ownership groups to high-profile independents and regional chains. Our headquarters are in New York (United States) and we have offices and customer care services globally based in Schaumburg (United States), Barcelona (Spain), Melbourne (Australia), Dubai (United Arab Emirates), Tokyo (Japan) and Shanghai (China).
+Department: Web Solutions – Web Development Team 
+Working Hours: Full time 
+Location: Barcelona
+Position summary
+We seek an experienced, motivated and dependable web developer to work as part of the Web Solutions production team, producing client websites using our in-house CMS, and extending the functionality of the PHP-based CMS as necessary. Candidates should have excellent front-end development skills based on an advanced knowledge of HTML, CSS and JavaScript, including experience of building complex layouts using CSS 2.1.  The web development team works closely with the project management team, and so good team working skills and the ability to meet deadlines are essential.
+Essential functions
+• Develop websites for clients based on our in-house CMS, primarily using front-end languages such as HTML, CSS and JavaScript.
+• Manage simple domain pointing and hosting issues.
+• Follow our testing and QA process to help ensure client satisfaction.
+• Introduce modifications and new features to the CMS as necessary to meet client requirements.
+Requirements
+• A Degree or equivalent in a technical subject is valued but not essential.
+• Experience in developing websites using advanced knowledge of HTML, CSS and JavaScript, and an understanding of the "progressive enhancement" philosophy of web development.
+• Experience with jQuery is an asset.
+• A good knowledge of working with and around browser-specific behaviors.
+• Familiarity with PHP MyAdmin browser-based MySQL administration software, and some knowledge of MySQL.
+• Experience of version control systems such as Subversion is an asset.
+• An understanding of web and web application usability concerns is valued.
+• Good team working skills are essential, since the successful candidate will be working closely with Project Managers to deliver websites to agreed deadlines.
+• A proactive approach to responding to problems is highly valued.
+

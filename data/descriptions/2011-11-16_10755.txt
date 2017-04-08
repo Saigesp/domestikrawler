@@ -1,0 +1,43 @@
+
+Programador Web PHP
+Empresa FastKloud
+Localidad Madrid
+Buscamos:
+- Experto en PHP
+    - Scripting general
+    - Generación de HTML dinámico
+    - Acceso a datos MySQL
+    - Depuración de software
+    - Pruebas unitarias phpUnit
+    - Registro de trazas en logs
+    - No imprescindible conocimientos de frameworks PHP (Symfony, CakePHP) pero sería un plus
+- Experto en SQL
+    - No hay framework. Las queries, por eficiencia, se construyen a mano
+- Experto en Javascript
+    - JQuery
+    - Ajax
+- Experto en CSS y HTML
+- Conocimientos de administración de Apache Web Server
+   - Seguridad (ACLs y control de acceso)
+   - Configuración de Virtual Hosts
+- Conocimientos básicos de administración DNS
+- Capacidad para resolver problemas y buscar soluciones imaginativas
+- Capacidad para operar un sistema web en producción:
+    - Automatización de monitorización de logs
+    - Mantenimiento de la web
+Ofrecemos:
+Empresa pequeña, start-up, lanzando proyecto ecommerce muy interesante e innovador.
+Serás parte del equipo inicial.
+Buscamos a un muy buen programador pero además que tenga ganas de ser parte de la "familia" ya que estamos creando algo con mucha proyección desde cero.
+Requerimos:
+Salario:
+28.000-36.000 €
+Experiencia:
+3 a 5 años
+Idiomas:
+español
+Condiciones:
+Tipo de contrato: Indefinido
+Jornada: Completa
+¿Te interesa? Apúntate aquí: http://bit.ly/oRdbof
+

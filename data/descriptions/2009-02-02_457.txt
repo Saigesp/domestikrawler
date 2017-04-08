@@ -1,0 +1,14 @@
+
+Buscamos empresas yo/ autonomos para desarrollo de microsites, sites y portales RIA. Desarrollos llave en mano.
+Deben residir en Barcelona o alrededores
+requisitos mínimos:
+Dominio de xhtml + css 2.0 + ajax
+Dominio de adobe Flash (AS2, AS3) 
+Tecnologías de servidor J2EE (Caso portales) 
+requisitos deseados:
+Dominio librerias Flash 3D (papervision)
+Implementación FW J2EE (Spring, Struts 2, hibernate...)
+Conocimiento en CMS bajo tecnología opensource (openCMS, vyre...)
+El objetivo es tener un pool de empresas / freelances que actuen como partners en proyectos online de alto contenido tecnológico.
+A corto plazo contamos con la entrada de un portal y un site como proyectos a externalizar.
+Un saludo.

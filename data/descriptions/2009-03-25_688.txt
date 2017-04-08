@@ -1,0 +1,13 @@
+
+Necesitamos a un desarrollador web.
+Requisitos mínimos:
+	- PHP5 mediante POO.
+	- Base de datos MySQL.
+	- XHTML + CSS.
+	- Maquetación según los estándares de la W3C.
+Requisitos deseados:
+	- Experiencia con algún framework php (deseable symfony).
+	- Experiencia con el framework de JS JQuery.
+Horario:
+	- De lunes a jueves de 9:00 - 14:00 y de 16:00 - 19:00
+	- Viernes de 8:00 - 15:00

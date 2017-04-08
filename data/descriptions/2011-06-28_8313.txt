@@ -1,0 +1,3 @@
+
+Integración de sistemas e interfaces software radiológicos en diferentes teconologías RS232, Sockets, WCF, DLLs. 
+Desarrollo de aplicaciones .NET. y experiencia en WPF

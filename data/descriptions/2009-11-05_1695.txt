@@ -1,0 +1,16 @@
+
+Buscamos Programador Animador Flash para su integración en plantilla en agencia de publicidad.
+Sus principales actividades serán:
+ - Soporte al equipo creativo a nivel de ideas, iniciativas y viabilidad en la ejecución de las propuestas. Es tan importante su capacidad para proponer ideas como la de dimensionar el esfuerzo en la ejecución de las mismas.
+ - Intervención en la preparación de piezas para concursos, festivales, .. Así como la ejecución de pequeñas producciones
+ - Interlocución con productoras on-line para el desarrollo de acciones y campañas.
+Para el puesto se requiere experiencia en animación Flash con Actionscript y programación de interfaces interactivos. Imprescindible presentar trabajos realizados.
+Buscamos una persona creativa, proactiva y resolutiva. Capaz de ilusionarse con los proyectos y facilidad para trabajar en equipo.
+Conocimientos mínimos:
+- Animación y programación Flash.
+- Comunicación Flash con XML y lenguajes de servidor (PHP, ASP, etc.)
+- Photoshop y Freehand (o similar) a nivel de manipulación de capas y trazados.
+Conocimientos valorados:
+- Experiencia en maquetación HTML con estándares XHTML/CSS.
+- Experiencia en 3D y edición de vídeo (Final Cut, Premiere,After Effects).
+- Familiaridad con herramientas y lenguajes de desarrollo Web (PHP, MySQL, Javascript). 

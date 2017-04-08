@@ -1,0 +1,23 @@
+
+El trabajo consistirá en el diseño y desarrollo de piezas interactivas multimedia de alto impacto pedagógico, utilizando Adobe Flash como herramientas base (estas piezas se componen mediante audio, imágenes, animaciones, locuciones, foto retoque, maquetación, ilustración, sincronización, vídeo, etc....).
+Conocimientos altos de diseño
+Responsabilidad, creatividad y capacidad de trabajo en equipo
+Buen nivel de ingles hablado y escrito
+Conocimiento de maquetación con XHTML y CSS.
+Experiencia con programas de diseño grafico/web:
+- Edicion web (Dreamweaver o similar)
+- Retoque fotográfico: Photoshop, Fireworks o similar
+- Diseño vectorial: Freehand, Corel Draw o Illustrator
+- Presentaciones multimedia: Flash, ActionScript
+Alto conocimiento y experiencia en los siguientes programas:
+- Adobe Flash (nivel de ActionScript bajo)
+- Adobe Photoshop
+- Adobe Premier, Sony Vegas o similar
+- Microsoft Office (Paquete 2003 o 2007)
+Valoraremos positivamente:
+Experiencia en arte final
+Nociones de Javascript
+Conocimientos sobre SEO y usabilidad
+Conocimiento de estándares del W3C
+Experiencia en webs accesibles: A, AA, AAA
+

@@ -1,0 +1,15 @@
+
+Se precisa programador para desarrollo de aplicaciones web en gestor de contenidos Joomla, y creación de templates, componentes, módulos y plugins. Imprescindible conocimientos avanzados y experiencia demostrable en programación PHP, entornos Linux, Apache, y MySQL.
+Se ofrece remuneración acorde al puesto y las características del candidato, alta en plantilla con contrato fijo y estabilidad en el puesto.
+Requisitos
+Experiencia mínima: 2 años
+Requisitos mínimos:
+Programación de entornos web (XHTML, CSS, Javascript, XML)
+Conocimiento de CMS Joomla 1.5. Desarrollo de templates, componentes, módulos y plugins.
+Dominio de lenguaje de programación PHP.
+Conocimiento de servidores Web Apache.
+Elaboración y documentación de Proyectos.
+Se valorarán conocimientos de .Net y CMS opensource alternativos.
+Experiencia o conocimientos demostrables en el desarrollo de proyectos web con PHP/Joomla.
+Requisitos deseados:
+Conocimiento de software gráfico 

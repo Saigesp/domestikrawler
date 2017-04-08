@@ -1,0 +1,10 @@
+
+Se busca programador con los siguientes requisitos:
+- Experto en PHP y MySQL
+- Experto en maquetación HTML y CSS
+- Conocimientos altos de JavaScript.
+- Conocimientos administrador servidores Lynux.
+Requisitos deseados:
+- Conocimientos Flash AS3
+- Photoshop, ilustrator, etc...
+- Conocimientos de XML

@@ -1,0 +1,14 @@
+
+Buscamos un programador senior con ganas de incorporase a un equipo de trabajo recién formado para afrontar un proyecto orientado a móviles y web.
+Te ofrecemos:
+•	Una entorno de trabajo flexible.
+•	Proyecto propio, desde el principio, sin arrastrar desarrollos ajenos.
+Buscamos:
+•	Conocimientos en REST
+•	Capacidad para trabajar a distancia (gestión de proyecto online, manejo de repositorios Git, etc.)
+•	Persona con iniciativa, que enriquezca los proyectos.
+•	Que trabaje en entorno Mac ;)
+Se valorará:
+•	Manejo de servidores, control de deploy, conocimientos de la infrastructura de Amazon
+•	Conocimientos de maquetación (para comunicarse con los de front con soltura, no para comerse el marrón ;)
+Vamos a cambiar de oficina, y estamos buscando por la zona centro (Gran Vía, Tribunal, etc.)

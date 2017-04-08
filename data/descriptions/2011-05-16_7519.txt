@@ -1,0 +1,10 @@
+
+Buscamos un profesional con formación académica acorde al puesto y experiencia superior a 3 años en maquetación de contenidos y/o desarrollos PHP orientados a la gestión de contenidos.
+Deseamos incorporar a nuestro equipo de desarrollo un
+profesional para dar soporte y evolucionar nuestra plataforma de gestión de contenidos basada en la tecnología Drupal
+Tareas a desarrollar dentro del equipo de trabajo:
+- Maquetación periódica de contenidos en HTML/CSS
+- Desarrollo de nuevas funcionalidades en forma de módulos
+- Desarrollo puros a nivel de PHP y Zend para integración con el resto de nuestros sistemas
+- Pruebas, revisión y pasos a producción
+Se busca un profesional comprometido con la metodología de desarrollo, orientado a la calidad del producto final y con capacidad de adaptarse a las nuevas tecnologías.

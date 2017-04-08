@@ -1,0 +1,6 @@
+
+Hola, buscamos un desarrollador backend de buen nivel que nos ayude a finalizar el CMS de una aplicación web innovadora.
+En 1-2 meses lanzamos la versión alpha y en 4 meses salimos con la versión comercial.
+Es un CMS muy visual. Se tiene que optimizar muy bien a nivel de llamadas, velocidad, bases de datos. Pero también se tiene que ser detallista a la hora de maquetar,  ya que como digo es muy visual.
+Es importante que a parte de conocer bien PHP, mySQL, optimización y frameworks, sepa configurar servidores Linux
+Envíar el CV y portfolio por email. Sólo desarrolladores

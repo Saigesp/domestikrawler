@@ -1,0 +1,28 @@
+
+Empresa con mas de 6 años de trayectoria en el sector adulto.
+Plantilla actual: 7 personas.
+Buscamos incorporar un desarrollador en Barcelona. Ofrecemos un lugar
+donde poder crecer, investigar y desarrollar conocimientos nuevos.
+Necesitamos una persona con conocimientos y proactividad.
+Las funciones de la persona que ocupe este puesto serán:
+- Desarrollo de aplicaciones PHP/Mysql
+- Trabajo en profundidad con APIs, facebook, twitter ...
+Requisitos:
+- 3 años de experiencia mínimo en puesto similar (demostrable)
+- Amplios conocimientos de PHP5 y MySql
+- Experiencia y dominio en programación orientada a objetos.
+- Conocimientos avanzados en Javascript, jQuery librerías similares
+- Haber desarrollado integraciones con APIs
+Deseable:
+- Conocimientos de maquetación XHTML/CSS2 y HTML5
+- Experiencia en el manejo de plantillas (Smarty, PowerTemplate…).
+- Dominio de Frameworks PHP (Zend, Symfony, etc)
+- Mínimos conocimientos de SEO
+- Ingles (hablado y escrito)
+ABSTENERSE FREELANCE Y EMPRESAS. Es un puesto InHouse.
+Contrato:
+6meses + Fijo
+Horario:
+Flexible
+Sueldo:
+entre 30.000 y 40.000 € brutos según valia

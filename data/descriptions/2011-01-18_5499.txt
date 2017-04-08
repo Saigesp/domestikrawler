@@ -1,0 +1,17 @@
+
+Buscamos una persona con experiencia demostrable en la programación y desarrollo de aplicaciones para Facebook.
+Qué esperamos de ti:
+- Proactividad
+- Capacidad para desarrollar proyectos desde cero, y coordinarlos con un equipo de trabajo externo.
+- Creatividad para generar nuevas ideas a nuestros clientes y buscar las mejores soluciones para cada situación.
+- Ambición para crecer dentro de la empresa y asumir un puesto responsable a medio plazo, con la posibilidad de participar de forma activa en futuros proyectos propios de la empresa. 
+Requisitos
+- Experiencia demostrable en programación y desarrollo de aplicaciones para Facebook.
+Requisitos técnicos:
+- Experiencia con Action Script 3; Adobe Flash CS; Adobe Flex, PHP5 y MySQL.
+- Conocimiento de lenguaje Fbml; JavaScript y de jQuery; XHTML y CSS.
+- Experiencia con el desarrollo de soluciones basadas en APis externas de servicios sociales como Twitter, Google Maps, Foursquare.
+Lugar de trabajo: Madrid
+Jornada laboral: Completa
+El sueldo ira en función de la experiencia del candidato.
+

@@ -1,0 +1,22 @@
+
+¡Buenas! Somos 47 Degrees, una compañía estadounidense afincada en Seattle que se está expandiendo en España. Buscamos un desarrollador Android para que se una al equipo de trabajo en nuestra oficina de San Fernando, Cádiz.
+Estamos creciendo como empresa y esperamos encontrar nuevos miembros para nuestro equipo que:
+Sean capaces de asumir diferentes responsabilidades
+Les guste una cultura relajada y de startup
+Sepan mezclar el trabajo y la diversión.
+¿QUÉ HARÍAS EN 47 DEGREES?
+Desarrollarías aplicaciones móviles y portales para clientes en diversas industrias como viajes, entretenimiento, vídeojuegos… Además de Android desarrollarás ObjectiveC para iOS y aplicaciones Web en Java.
+¿QUÉ DEBES TENER?
+- Experiencia en Java o Android.
+¿QUÉ ESTARÍA BIEN QUE TUVIERAS?
+- Aplicaciones publicadas en el Android Market 
+- Experiencia con ObjectiveC / iOS
+- J2EE / Spring
+- JPA / Hibernate
+- C / C++
+- Conocimientos de Patrones de diseño de Software 
+- Tapestry
+- Inglés
+¿CUÁNTO GANARÍAS?
+47 Degrees ofrece un salario muy competitivo, incentivos basados en logros y una amena cultura de Startup. Nuestra oficina esta situada encima del popular Bar 44 en la Plaza del Rey en San Fernando y no faltarán las cervecitas y los churros!
+¿Interesado? Envíanos tu CV a jobs@47deg.com

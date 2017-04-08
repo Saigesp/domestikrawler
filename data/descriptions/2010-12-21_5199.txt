@@ -1,0 +1,10 @@
+
+Massimo Dutti busca un Informático para su Departamento de Sistemas que dará apoyo a los empleados de central, al personal de tienda y que tendrá relación directa con proveedores. Imprescindible buenos conocimientos de bbdd y automatización de procesos. 
+Requisitos mínimos: 
+- Programación en .NET (VB y C#)
+- Dominio ACCESS y EXCEL (BBDD y automatización de procesos)
+- Programación en Java (J2EE)
+Requisitos deseados: 
+- Conocimientos en Microstrategy
+- Idioma Inglés
+

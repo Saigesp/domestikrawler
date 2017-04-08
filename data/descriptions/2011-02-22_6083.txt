@@ -1,0 +1,30 @@
+
+The Technical Project Manager ensures the successful delivery of multiple, concurrent software projects.  As a facilitator the TPM ensures everyone on the team is on track by helping to solve problems in a professional, objective way.  He/she often draws on previous and extensive technical experience to make decisions, take on and delegate responsibilities quickly and motivate people to achieve project related objectives.   The TPM must be able to cooperate with all team members and remain objective regarding his/her own responsibilities which are closely related with and yet parallel to the responsibilities of the Software Development Manager, Technical Lead and Software Architect.  The TPM role is crucial to enable other such roles as well as developers, testers and stakeholders to perform their specific function in each project in the most effective way possible.
+Responsibilities:
+•	Drive process change and be able to challenge all contributing delivery teams.
+•	Run projects across multiple locations
+•	Work with key stakeholders to determine requirements and establish project plan
+•	Establish procedures and systems for managing and tracking change, taking the SDLC process into account
+•	Define and break down scope of work, managing project tradeoffs and balancing scope change against time and risk
+•	Generate schedules from team estimates and determine task sequencing, matching resources to tasks, applying statistical techniques, and schedule maintenance
+•	Manage project resources; determine resource requirements, participate in recruitment, facilitate team building, resolve conflict, and participate in career development
+•	Plan for upwards and outwards communication and provide regular project status reports
+•	Identify and develop mitigation/contingency plans, facilitate the risk management process, and maintain risk tracking documentation
+•	Vendor management as required, including preparation of RFPs, management of vendors or subcontractors, management and negotiation of contracts
+•	To contribute to the ongoing SDLC and broader project / programme management process improvement.
+•	Work with the all delivery groups to define standards and performance KPIs 
+Requirements:
+•	5+ years of technical project management experience working in a service driven Product Development environment.
+•	Working knowledge of as many technologies as possible from the following: Java, J2EE, Javascript, CSS, HTML, Jboss, Spring, Tomcat, MFC, EJB2, JUnit, SQL, C++
+•	Objective approach to tasks
+•	Firm character, able to obtain respect from colleagues and likeable manner to drive people
+•	Demonstrated proficiency with project management software tools (e.g., MS Project, AceProject, various issue tracking systems, etc.)
+•	Strong analytic skills (including analyzing KPIs and drawing conclusions)
+•	Proven ability to initiate, recognize, and manage change
+•	Exceptional communication (oral/written) and skills.  Strong English is a must-have.
+•	Ability to multi-task and manage multiple projects.
+•	Practical experience with a number of Structured and Agile project management methodologies.
+•	Broad experience, open minded
+•	Undergraduate degree; Computer Science or Business is an asset
+•	Formal Project Management certification is an asset
+

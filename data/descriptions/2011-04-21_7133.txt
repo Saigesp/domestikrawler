@@ -1,0 +1,2 @@
+
+Atmira precisa incorporar un desarrollador frontend con experiencia en desarrollo de aplicaciones móviles (preferentemente plataforma Android). Se valorará conocimiento de la metodologia SCRUM asi como los conocimientos en DJANGO.

@@ -1,0 +1,15 @@
+
+Estamos buscando un programador PHP + JS + AJAX para el desarrollo de backends y CSS + XHTML para frontends.
+Y que tenga cierta experiencia en frameworks como mootools, jquery, zend, etc..
+Se requiere:
+    - Experiencia mínima de 2 ó 3 años 
+    - Desarrollo orientado a objetos.
+    - Dominio de lenguaje de frontend HTML, CSS, JavaScript, XML, AJAX, etc.
+Se valorará:
+    - Conocimientos de Framework Zend.
+    - Otros entornos orientados a web
+    - Gusto estético y cuidado por los detalles
+    - Capacidad resolutiva
+Se ofrece:
+- Horario: de 9:00 a 14:00 y de 16:00 a 19:00 
+- Incorporación inmediata dentro de un buen ambiente y un happy equipo de trabajo ;)

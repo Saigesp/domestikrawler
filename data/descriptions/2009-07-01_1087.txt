@@ -1,0 +1,11 @@
+
+Equipo de Java Jedis vuelve a buscar Java Padawans para adiestrarlos en el camino de la programación verdadera. Visita el campo de entrenamiento en www.doubleyou.com
+Requisitos mínimos:
+- Sentir la fuerza.
+- Pensar que no hay límites.
+- Capacidad para desaprender lo aprendido.
+- No tener miedo. El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento.
+Requisitos deseados: 	
+- Desarrollo de aplicaciones: JAVA (J2EE), javascript, HTML, XML, Web Services, Hibernate, Spring, SOAP, AJAX, Mysql,..
+- Herramientas: Eclipse, JUnit, Ant, CVS/Subversión.
+- Procesos y metodologías: OO, UML, metodologías ágiles.

@@ -1,0 +1,5 @@
+
+Buscamos un programador senior para desarrollos en PHP con MySQL. Debe tener más de 5 años de experiencia en proyectos de internet de alto nivel.
+Se valorará especialmente  experiencia en configuración servidores Linux con Apache o similar... Conocimientos de Java y Servidores Tomcat.
+Se pide experiencia sobre  plataformas Open Source tipo Joomla OsCommerce etc....
+Se integrará en un equipo de programadores de varias disciplinas de programación back end y front end

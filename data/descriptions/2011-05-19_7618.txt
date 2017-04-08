@@ -1,0 +1,29 @@
+
+Buscamos un ingeniero senior con experiencia en desarrollos en .NET para contrato indefinido a jornada completa en Barcelona
+Requisitos:
+•	Ingeniero Informático
+•	3+ años de experiencia en tecnología Microsoft ASP.NET
+•	Desarrollos en C# (webforms,winforms,…) Frmk 4.0
+•	HTML, CSS, jQuery.
+•	Bases de datos: SQL Server 2008
+•	IIS 7
+•	Team Foundation Server
+•	Experiencia en metodologías ágiles de desarrollo de software
+•	Habilidad para trabajar y colaborar en equipo.
+•	Inglés hablado y escrito
+Funciones:
+•	Participar en todas las fases del ciclo de vida del producto software:
+        Análisis
+        Diseño
+        Implementación
+        Test
+        Análisis de rendimiento
+        Optimización
+•	Definir y planificar el trabajo y los recursos necesarios para desempeñar el trabajo diario
+•	Realizar y proponer soluciones ingeniosas o innovadoras para el diseño e implementación del desarrollo de SW.
+Se valorará:
+•	Conocimiento base de datos mongoDB (NOSQL)
+•	Experiencia en desarrollo de aplicaciones para móviles (Android, IOS, WP7, …)
+•	Implantaciones en entornos Cloud (Amazon, Rackspace…)
+•	Conocimiento de redes inalámbricas de sensores (802.15.4, Zigbee, RFID, WiFi, Bluetooth,…)
+•	Comunicaciones TCP/IP, UDP, Syslog…

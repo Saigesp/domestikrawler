@@ -1,0 +1,5 @@
+
+Buscamos incorporar a nuestro equipo de trabajo programadores de C# de perfil junior y senior. 
+El candidato debe tener buenos conocimientos de: 
+- C# (Framework 3.5/4.0), ASP.NET/ASP MVC y LINQ/EntityData
+Nuestras oficinas se encuentran en Sant Cugat de Valles en frente de la estación de FFCC de Volpelleres

@@ -1,0 +1,6 @@
+
+Empresa multinacional líder en el mercado de las nuevas tecnologías precisa:
+Persona con disponibilidad inmediata y conocimientos avanzados en CSS, Javascript (JQuery) y html, para proyecto de maquetación
+Funciones:
+Maquetacion de elementos que componen una página (su diseño ya está definido) ej. cabeceras, cajas, listados, calendarios etc. 
+Contará con el apoyo de otra persona con una visión/conocimientos más globales.

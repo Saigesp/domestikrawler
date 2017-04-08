@@ -1,0 +1,22 @@
+
+Maquetador  grafista HTML con conocimientos de CSS. 
+Sumo cuidado del detalle y respete el estilo gráfico.
+Capacidad resolutiva a la hora de maquetar.
+Funciones: 
+Maquetación de contenidos soporte online 
+Selección y edición de imágenes
+Desarrollo de recursos multimedia en flash animaciones, simulaciones 
+Montaje y maquetación de pantallas en flash y html
+Diseño de recursos multimedia nuevos y a partir de plantillas
+Diseño y desarrollo de gráficos y animados y estáticos
+Organizar los párrafos en capas ocultas, popups y otros recursos para garantizar que el contenido más importante queda a un primer nivel y la información complementaria queda accesible para el usuario a través de elementos interactivos como textos subrayados, imágenes o botones que abren ventanas emergentes o dejan ver capas ocultas.
+Edición e integración de audio y vídeo.
+Debe tener un amplio conocimiento de  las siguientes herramientas:
+Maquetación con CSS2, CSS3 y conocimientos de HTML5.
+Photoshop.
+Flash con AS2 (y AS3) y animación en línea de tiempo. (Nivel medio/alto)
+Manejo de XML.
+Manejo de Adobe Captivate para hacer simulaciones (o programa similar).
+Indesign.
+Ilustrator
+

@@ -1,0 +1,36 @@
+
+&lt;!DOCTYPE html&gt;
+&lt;html lang="es"&gt;
+&lt;head&gt;
+&lt;meta name="freelance, empresas" content="nofollow"&gt;
+&lt;meta name="author" content="101, agencia de publicidad
+especializada en creatividad, estrategias digitales y social media" /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;header&gt;
+&lt;h1&gt;Programador frontend junior&lt;/h1&gt;
+&lt;/header&gt;
+&lt;section&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;XHTML, CSS2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;HTML5, CSS3&lt;/li&gt;
+&lt;li&gt;Javascript, AJAX&lt;/li&gt;
+&lt;li&gt;Desarrollo con código limpio, semántico&lt;/li&gt;
+&lt;li&gt;Conocimientos APIs Javascript: jQuery, Mootools...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;
+&lt;aside&gt;
+&lt;ul&gt;
+&lt;li&gt;Desarrollo para móviles&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Experiencia en integración de plantillas&lt;/li&gt;
+&lt;li&gt;Conocimientos de microformatos&lt;/li&gt;
+&lt;li&gt;SEO&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;footer&gt;
+&lt;time datetime="Incorporación inmediata" pubdate="pubdate"&gt;L-J:9:30-18:30/V:8:00-15:00&lt;/time&gt;
+&lt;address&gt;&lt;a rel="contact"&gt;css@101.es&lt;/a&gt;&lt;/address&gt;
+&lt;/footer&gt;
+&lt;/body&gt;
+&lt;/html&gt;

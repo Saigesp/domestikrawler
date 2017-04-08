@@ -1,0 +1,13 @@
+
+Se busca programador web backend de buen nivel para entrar en el equipo de pulpolab.com. 
+Tareas: programar un CMS y la lógica de un SAAS innovador que estamos desarrollando en pulpolab.com. Ayudar en otros proyectos de clientes 
+Imprescindible: 
+PHP/MySQL/HTML/CSS 
+Algún framework 
+Javascript 
+Optimización 
+Configuración de servidores linux 
+Se tendrá en cuenta: 
+Alguna carrera como ingeniería informática 
+Referencias: 37signals.com 
+Gracias!

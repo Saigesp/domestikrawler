@@ -1,0 +1,15 @@
+
+Somos una joven start-up dedicada a desarrollar y comercializar sistemas de recomendación y buscadores que sean fácilmente integrables con otras plataformas via Software as a Service. Actualmente somos 6 personas con distintos perfiles, y buscamos integrar a nuestro equipo a un auténtico crack de desarrollo web, para el desarrollo del front-end de nuestra plataforma. El candidato debe de ser una persona proactiva, resolutiva, y muy motivada, para trabajar en un proyecto innovador. Si quieres saber más de nosotros puedes echar un vistazo a varios de los posts de que hemos publicado en nuestro blog sobre nosotros.
+Requisitos:
+Ingeniero en Informática (Técnico o Superior)
+Experiencia mínima de 3 años en proyectos de desarrollo web
+Conocimientos avanzados de PHP, JavaScript, JQUERY, AJAX
+Maquetación XHTML/CSS
+Conocimientos de SQL
+Deseable:
+Conocimientos de diseño web
+Otros lenguajes (Ruby, Java)
+Que ofrecemos:
+Trabajo en una joven start-up, dinámica, y con muy buen ambiente
+Proyecto innovador
+Salario según valía en el rango 24.000€-30.000€ brutos anuales

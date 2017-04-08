@@ -1,0 +1,6 @@
+
+Estamos buscando a un experto en Flex para un interesante proyecto. Los requerimientos son:
+     - Experiencia demostrable en Flex / AS3 y desarrollo de aplicaciones multimedia
+     - Conexion con base de datos (mysql) 
+Muchas gracias,
+Pancho

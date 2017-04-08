@@ -1,0 +1,8 @@
+
+Programador en Microsoft.Net para proyecto temporal
+Estamos buscando a programadores para un proyecto de una aplicación Facebook. Requisitos indispensables:
+- Microsoft .Net environment
+- EPiServer 
+- Flash
+- FBML/Facebook 
+- Alto nivel de inglés hablado y escrito

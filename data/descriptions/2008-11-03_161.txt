@@ -1,0 +1,12 @@
+
+Buscamos un programador de nivel muy alto en desarrollo en Flash y lenguaje ActionScript.
+Requisitos mínimos:
+•	Nivel alto en Flash y ActionScript
+•	Experiencia con XML para la transmisión de datos
+•	Conocimientos contrastados en programación orientada a objetos y patrones de diseño
+•	Carácter dinámico, versátil e interés por las últimas tendencias del sector
+•	Capacidad de organización y gestión del tiempo
+Se valorará:
+•	XHTML y experiencia en la inserción de películas Flash de acuerdo a los estándares de la W3C
+•	JavaScript y CSS
+•	Adobe Flex

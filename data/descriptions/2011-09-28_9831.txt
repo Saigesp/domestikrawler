@@ -1,0 +1,21 @@
+
+Our company's aim is to design, develop and implement social, cultural and educational projects using information and communication technologies.
+ 
+We are looking for a Drupal Team Leader with at least 1 years experience with Drupal 6.x and the following skills:
+ General Skills:
+- High level of written and spoken English
+- Ability to multitask, be flexible and work autonomously
+- Availability to travel
+- Team work and coordination skills are required
+Technical Skills
+- Experience in the development of LAMP web solutions
+- Experience in requirements gathering and analysis
+- Good knowledge of Views, CCK, i18n, migrate, drush, etc.
+- Custom module development
+- Experience with Software Engineering techniques and tools
+- Experience with Drupal 7 (is considered an advantage)
+The conditions are as follows:
+- Permanent contract
+- Work schedule: 9am-6pm from Monday to Thursday and 9am-2pm on Friday.
+- Location: Madrid (Serrano street)
+- Salary: 25k-27k €

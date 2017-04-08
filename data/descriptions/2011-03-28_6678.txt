@@ -1,0 +1,24 @@
+
+Somos una agencia de publicidad de servicios plenos con una amplia experiencia en el sector y con una importante cartera de clientes. 
+Estamos buscando un programador frontend con conocimientos de Joomla o Wordpress o ambos para trabajar media jornada de 5 o 6 horas.
+Sus labores típicas serán maquetar e integrar con Joomla o Wordpress webs a partir de briefing, diseño y contenido dados, maquetar y gestionar envio de newsletter, mantenimiento de webs, etc.
+Requisitos mínimos:
+- Experiencia demostrable con XHTML, CSS y JS.
+- Conocimientos de Javascript y uso de JQuery.
+- Buen manejo de Joomla, Wordpress o incluso Drupal (si manejas 2 mucho mejor).
+- Conocimientos SEO y Analytics.
+-Al menos 3 años de experiencia.
+-Ser autónomo.
+Se valorará:
+- Conocimientos de Flash y Actionscript básicos.
+- Conocimientos de PHP.
+- Criterio estético.
+- Conocimientos de alguna plataforma de comercio electrónico (Magento o Prestashop).
+Ofrecemos:
+- Remuneración según valía.
+- Contrato por obra renovable cada seis meses (buscamos una relación a largo plazo)
+- Posibilidad de crecimiento en un departamento en expansión.
+- Jornada de 5 horas con flexibilidad en el horario (nos va bien si la media jornada es de mañana o de tarde o si algunos días es de mañana y otros de tarde)
+- Incorporación inmediata en nuestras oficinas en el centro de Madrid.
+Mandanos tu cv y portfolio o referencia a trabajos más relevantes que hayas realizado.
+

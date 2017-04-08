@@ -1,0 +1,35 @@
+
+Detalles del perfil :
+Se requiere de una persona capaz de cambiar rápidamente de objetivos y que aporte soluciones a
+problemas técnicos cotidianos. Se desea que el candidato tenga la capacidad de asumir
+responsabilidades y pueda aceptar un guión técnico estricto que pueda cambiar en el transcurso del
+proyecto.
+El trabajo incluye diseño de software y desarrollo de front y backend para sitios dinámicos así como el
+mantenimiento de las bases de datos usadas para este propósito.
+El puesto es presencial, abstenerse proveedores y freelances.
+Interesados mandar currículum vítae (o URL) con previa experiencia y proyectos trabajados.
+Buenas comunicaciones, transporte público a 5 min de la estación y parking gratuito si se viene en coche
+La principales tareas a desarrollar serán :
+• Programación y mantenimiento de herramientas para la gestión de sites ,
+• desarrollo de aplicaciones web bajo documentación técnica o de cliente,
+• mantenimiento de servidores web,
+• participación en el proceso de análisis de nuevos proyectos.
+Requisitos :
+• Experiencia demostrable en programación PHP (mínimo 3 años),
+• experiencia en el uso del patrón MVC (CakePHP o ZendFramework),
+• experiencia en programación «client-side» (javascript y algún framework),
+• experiencia con CMS Drupal y Wordpress (creación de módulos),
+• experiencia en el desarrollo de clientes y servidores de servicios web (SOAP, JSON...),
+• maquetación avanzada con CSS,
+• Administración de servidores Linux.
+• Conocimientos del sistema de virtualización proxmox.
+• Conocimientos en herramientas linux como Bacula, nagios etc.
+• Conocimientos en BBDD (mysql preferiblemente), postfix.
+Requisitos valorados :
+• Conocimientos de HTML5 y CSS3,
+• web semántica y standares W3C,
+• uso de herramientas de «profiling»,
+• creación/utilización de test unitarios,
+• utilización de herramientas de generación de documentación,
+• conocimiento de «Design Patterns»
+• Francés hablado y escrito e ingles imprescindible

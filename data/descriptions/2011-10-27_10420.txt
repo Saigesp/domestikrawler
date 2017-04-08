@@ -1,0 +1,20 @@
+
+Seleccionamos dos programadores con una experiencia de dos años en entornos PHP con conocimientos de Jquery + HTML y CSS para participar en un interesante proyecto en uno de nuestros clientes en Madrid capital.
+Si tienes las siguientes aptitudes:
+	- Conocimientos de PHP5 con conocimientos de Oracle y de aplicaciones MVC
+	- Habilidad para desarrollar y documentar el código necesario de funcionalidades básicas para la construcción de la aplicación web siguiendo las pautas marcadas por los documentos de requisitos y análisis
+	- Cumplir con todos los estándares marcados dentro del departamento de programación
+Cumples estos requisitos mínimos:
+	- PHP5/MySQL
+	- Ajax/Jquery/Javascript
+	- CSS/HTML/XML
+	- Programador estructurado y metódico.
+	- Empatía y capacidad comunicativa.
+Y aportas estos adicionales:
+	- JSON
+	- ORACLE
+Te ofrecemos:
+        - Una interesante remuneración
+	- Beneficios laborales
+	- Flexibilidad horaria y organizativa
+Envianos tu cv!

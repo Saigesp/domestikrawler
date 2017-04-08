@@ -1,0 +1,11 @@
+
+Se busca programador web para incorporarse de forma inmediata en el equipo de Tourist Eye. Somos una startup con una visión integradora del mercado turístico y la tecnología. Desarrollamos una guía de turismo social, web y móvil que abarca las distintas fases del viaje: inspiración, planificación y acceso a la información, pudiendo compartir en todo momento la actividad del viaje en redes sociales: nuevos viajes, lugares descubiertos, check-in’s en los lugares visitados, fotos, mensajes, reseñas, etc.
+Perfil:
+Estudiantes de último curso de la carrera o recién titulados, con experiencia en desarrollo web. Dominio de inglés.
+El candidato deberá participar en el desarrollo del frontend de la web del producto, trabajando en los aspectos de diseño de interacción, usabilidad, maquetación y programación.
+Conocimientos necesarios:
+HTML, CSS, Javascript, jQuery, Ajax, PHP, algún framework PHP (preferiblemente Symfony), MySQL.
+Oferta:
+Incorporación de forma inmediata en una startup liderada por un equipo joven y ambicioso. Retribución variable en función de la experiencia del candidato y opción a un plan de stock-options dentro de la empresa. Posibilidad de realizar en PFC en la empresa y de trabajar en un futuro en el equipo local de San Francisco.
+Horario:
+Total flexibilidad para adaptar la jornada a las necesidades del candidato. Jornada mínima de 4 horas.

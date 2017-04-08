@@ -1,0 +1,13 @@
+
+El diario Público busca un programador web para su redacción en Madrid, cercano al siguiente perfil:
+- PHP, PHP frameworks
+- AJAX (jQuery, Prototype, JSON)
+- SQL (mySql)
+- (X)HTML
+- XML, XSLT, XPATH
+- Control versiones (SVN)
+- Administración básica de servers Linux
+Se valorarán conocimientos en:
+- CSS 2, 3
+- Dispositivos móviles
+- Experiencia en sitios de tráfico intenso

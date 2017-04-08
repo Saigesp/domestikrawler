@@ -1,0 +1,9 @@
+
+Buscamos un freelance programador web  Joomla para  realizar cambios de usabilidad y arquitectura web.Es una  web para adultos.
+Requisitos mínimos:
+- PHP y framewoks de desarrollo (preferiblemente Joomla)
+- SQL/MySQL
+- XHTML/CSS
+- Geolocalización
+- Sobi2
+ 

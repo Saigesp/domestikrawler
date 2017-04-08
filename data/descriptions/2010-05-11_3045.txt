@@ -1,0 +1,14 @@
+
+Buscamos un programador front sénior para incorporarse al departamento de desarrollo de la agencia. 
+Requisitos:
+-      AS3 y AS2 con nivel muy alto.
+-      Conexión de Flash con BBDD.
+-      HTML, CSS y Javascript 
+Se valorará:
+-      Librerías de programación 3d (PaperVision, away3D…).
+-      Animación flash.
+-      Motores de física
+-      Conocimientos de lenguajes back (php, asp, .net)
+Buscamos una persona con especial interés por la programación grafica, con gusto por el detalle y especial interés por todas las disciplinas que rodean a la programación.
+Ofrecemos interesantes proyectos para clientes de primer nivel y la posibilidad de experimentar con las últimas tecnologías del mercado en un ambiente de trabajo excelente.
+ 

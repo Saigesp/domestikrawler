@@ -1,0 +1,8 @@
+
+Para el desarrollo de nuestra nueva versión; requerimos un programador Java senior para la realización de un proyecto puntual encaminado a optimizar el sistema de conteo y de reparto de dinero producido por los eventos publicitarios generados por nuestro player.
+Dicho proyecto consiste en la creación de una aplicación (entorno shell de sistemas GNU/Linux en cloud computing), dedicada a la lectura (desde DB y CSV), procesado y escritura de GRANDES VOLUMENES de datos de manera ágil y eficiente.
+Condiciones económicas a convenir por proyecto o por semana, dependiendo de la experiencia y valía del candidato.
+Para ello se requiere la siguiente experiencia
+Experiencia en desarrollos de alta carga
+Experiencia en sistemas escalables
+Struts, JSP, JDBC, JSTL, Hybernate.

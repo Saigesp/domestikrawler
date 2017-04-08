@@ -1,0 +1,13 @@
+
+En LuckyPig buscamos un desarrollador BackEnd Freelance para trabajar en multiples proyectos.
+Necesitamos imprescindible:
+- Php
+- .NET
+- Bases de datos
+- XML
+- Integracion TPV bancario (para tienda online)
+- XHTML + CSS
+- Estaria bien JSON
+Tambien me gustaria saber si seriais capaces de crear un GCD personalizado para cliente y que se comunique con Flash via XML o JSON. Si teneis alguno ya creado, me gustaria poder verlo.
+Es muy importante que tenga muy buena disponibilidad y que seria den Madrid o alrededores.
+Un saludo a todos. Esperamos vuestros portfolios.

@@ -1,0 +1,13 @@
+
+•	Conectividad flash - bases de datos (ASP, PHP)
+•	Flash – Java / Coldfusion a través de Flash Remoting
+•	Flash – XML
+•	Programación orientada a objetos en ActionScript 3.0  (Clases, paquetes etc). 
+•	Programación específica y optimización Flash para dispositivos móviles (PDA, Symbian, etc).
+•	Dominio del entorno y la herramienta Flash en todos sus aspectos, desde las herramientas de diseño hasta los diferentes tipos de programación (Procedural, Orientada a objetos, estructurada en frames).
+•	Creación de componentes.
+•	Integración de audio y vídeo en diferentes formatos.
+•	Creación de herramientas de autogestión de contenidos 100% flash.
+•	Diseño de interfaces, flujo de datos y  usabilidad
+•	Optimización para publicación en diferentes soportes (Web, CD Rom, etc)
+•	Dominio de diferentes técnicas de animación basadas tanto en programación como en fotogramas.

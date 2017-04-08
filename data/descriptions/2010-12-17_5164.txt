@@ -1,0 +1,16 @@
+
+amaranto Consultores precisa incorporar un Arquitecto de Sistemas Java-Oracle para controlar el avance de los proyectos y apoyar a nivel técnico al equipo de desarrolladores de diversos niveles en el desarrollo de los proyectos. Proyectos de negocio que se orientan al desarrollo de aplicaciones e implantación de sistemas abarcando las diferentes fases de planificación, diseño, construcción y mantenimiento de los sistemas de información, procesos de negocio, arquitecturas e infraestructuras.
+Se requiere experiencia en la definición de arquitectura como solución técnica a problemas de negocio, y en la interacción con clientes técnicos. Alata capacidad de resolución de problemas técnicos, incluyendo rencimiento, concurrencia, escalabilidad e integración. Alta capacidad y autonomía de investigación y experiencia en formación. Experiencia en revisión y auditoría de sistemas y definición de estrategias de corrección, evolución y mejora de productividad de desarrollo
+REQUISITOS:
+- JAVA: Estándar Java EE (J2EE), Frameworks Spring, STRUCT 2, Struts, Hibernate, EJBs, Servlets, JSP, JSF
+- IDE: Eclipse, Oracle JDeveloper, NetBeans
+- Servidores de aplicaciones: Oracle WebLogic Application Server, Apache Server, IBM WebSphere Application Server, JBoss, Tomcat
+- Herramientas de desarrollo: ANT, Maven
+- Bases de datos: Oracle 10g
+- Otras: Web Services, SOAP, XML, Axis2, Apache JMeter, Hibernate, etc.
+- Entornos web sobre JAVA: JSPs, JSFs, Facelets, AJAX, EJBs
+- Persistencia: XML, JDBC
+- Gestor de portales: Portlet, Liferay Portal, JBoss Portal, Oracle Portal. 
+- Metodologías y paradigmas propios de arquitectura del software (UML, modelado de sistemas, definición de mapas de arquitectura)
+- Integración arquitectura Java con bbdd Oracle
+- Disponibilidad para viajar.

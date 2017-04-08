@@ -1,0 +1,37 @@
+
+Job Description &amp; Environment:
+As part of the Programming Department, you will work on developing tools and engines for creating online games.
+You will be in charge of creating and developing the architecture of our multiplayer network games for different platforms (iPhone, consoles, etc.).
+Within this framework, your main tasks will include:
+- Defining and programming/developping the network portion of our games currently in development while working closely with the creation teams.
+- Creating the architecture of the server and overseeing its rollout.
+- Assisting gameplay and other developers in coding the server-side features of games.
+- Suggesting the best techniques to offer players the best network experience (optimizing client/server exchanges and reducing waiting times).
+- Client/server programming.
+- Producing relevant documentation.
+- Permanent contract.
+Minimum requirements:
+- A Bachelor’s degree with 5 additional years of higher education (Bac +5) with specialization in computer networks and multimedia communications from a computer science institute.
+- At least 2-3 years’ professional experience in developping and launching online multiplayer game projects.
+- Motivated and passionate about video games.
+- Independent, dynamic, thorough and enjoy working as part of a team.
+- Excellent C/C++/java programming skills.
+- Experience with programming network games from simple client/server titles to MMORPGs (currently active or not) through audio/video feed streaming.
+- Excellent Sockets programming skills (UDP/TCP).
+- Thorough and ambitious, with interpersonal and organizational skills that allow you to complete projects within given deadlines.
+- Creative, practical, and able to find and apply the best solutions to carry out your tasks.
+- Fluent in English.
+- Knowledge in PHP/MySQL an asset.
+- A technical test will be required as the first step of the selection process.
+Benefits:
+- Opportunity to work in a newly created studio and learn in a professional environment with people who have a passion for creating video games.
+- Open working climate with young, dynamic teams from around the world.
+- Salary based upon experience and merit.
+- Promotion possibilities: Lead Programmer.
+- Permanent contract, full-time job and additional merit pay system.
+- We are offering relocation support for candidates willing to move to Madrid.
+About Gameloft Madrid:
+- The Madrid studio is being opened to create ambitious and cool video games of any genre on iPhone/iPad and mobile phones. Those games will be distributed in more than 150 countries.
+- To join us in this adventure, we are looking for talented and motivated people willing to participate to the creation of tomorrow’s successes!
+- Over 50 Gameloft titles in catalogue have already sold over one million copies.
+Interested applicants should send their CV (and samples) to recruitment.madrid@gameloft.com. Reference: "Online Programmer”

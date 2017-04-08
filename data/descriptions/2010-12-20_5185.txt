@@ -1,0 +1,7 @@
+
+Buscamos Administradores de Sistemas UNIX ( HP-UX ) para incorporación inmediata en un equipo de trabajo para una importante empresa multinacional ubicada en Madrid.
+- Administrador de Sistemas operativos HP-UX.
+- Instalación, administración y soporte tecnico de sistemas HP-UX gestionando NPAR y VPAR.
+- Conocimientos de VERITAS CLUSTER
+- Conocimiento y manejo de servidores Superdome.
+- Conocimientos de sistema operativo Linux. Distribuciones RedHat y Suse.

@@ -1,0 +1,39 @@
+
+Gameloft is a world leader in the development and publishing of downloadable video games. In 10 years, the company has established itself as one of the top innovators in its field. Gameloft designs games for all digital platforms, mobile phones, smartphones (iPhone), as well as consoles and tablets. The quality of their products is recognized internationally. Created in 1999, the company has offices in 30 countries across Europe, North America and Asia (4.500 employees). Gameloft Madrid studio is looking to recruit a:
+LEAD PROGRAMMER 
+Summary:
+The position involves working with Gameloft’s World Programming Director and consists of following up on all the iPhone projects developed in Gameloft Madrid studio. 
+Profile:
+Technical:
+-	You have a degree in Computer Engineering Bac+ 5. 
+-	You are adept at programming in C, C++, Objective C, Cocoa. 
+-	You have already worked on several high-quality 3D games. 
+-	You have excellent knowledge of 3D programming, you have already written/participated in the development of a 3D engine for software (preferably) or hardware and you are familiar with Open GL ES. 
+-	You have mastered the Apple (Xcode) programming environment. 
+Creative:
+-	You are motivated and passionate about video games. 
+-	Your creativity and practical approach helps you to find and apply the best solutions to succeed. 
+Management: 
+-	You are autonomous, dynamic, and you love working in a team. 
+-	Your interpersonal and organizational skills allow you to lead a project to completion within given time constraints. 
+-	You have a solid understanding of the English language in order to follow up on projects handled by English-speaking teams. 
+Detailed Mission: 
+Working with the programming department, you will work on the development of all our iPhone applications (tools and engines). 
+As part of an already established team (Game Designers, Game Developers, Graphic Designers, Producer), your mission will be to take part in the development of all our 3D projects on iPhone/iPad. 
+Your primary goal will be to participate in the technical development of our iPhone projects: FPS, graphical rendering, physics; particularly, on the new iPhone 3GS. 
+We offer:
+-	The opportunity to join the fast-growing digital sector. 
+-	An exceptional, dynamic, demanding and motivating work environment in a rapidly expanding company. 
+-	Varied projects with short development periods. 
+-	An international position in daily contact with numerous affiliates in countries on every continent in the world. 
+-	A company that knows how to develop its potential executives in Spain and elsewhere.   
+-	The position is located in Madrid.
+-	Permanent contract, full-time position.
+-	We are offering relocation support.
+About Gameloft:
+-	The Madrid studio is being opened to create ambitious and cool video games of any genre on iPhone/iPad and mobile phones. Those games will be distributed in more than 150 countries.
+-	To join us in this adventure, we are looking for talented and motivated people willing to participate to the creation of tomorrow’s successes! 
+       -    Over 50 Gameloft titles in catalogue have already sold over one million copies
+Contact:
+Please submit your application with the reference “LEAD DEVELOPER” by email to the following address: recruitment.madrid@gameloft.com
+IMPORTANT: LIST ALL 3D GAME-RELATED WORK YOU HAVE DONE IN YOUR CV OR EMAIL. 

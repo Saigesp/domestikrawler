@@ -1,0 +1,8 @@
+
+Administrador de sistemas para explotación e implantación de multiplataforma. 
+Conocimientos:
+- Virtualización 
+- Sistemas Operativos: RedHat, Windows 2008. 
+- Middleware: Apache, JBoss, IIS. 
+- Bases de datos: SQL Server, Oracle. 
+- Biztalk y Vignette

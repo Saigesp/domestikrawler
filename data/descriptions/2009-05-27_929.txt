@@ -1,0 +1,5 @@
+
+Buscamos un programador de server especialmente enfocado en LAMP, sus tareas principales serán aportar soluciones de server a los distintos proyectos que puedan plantearse. 
+Pasando por el desarrollo de gestores de contenidos, comunicación con server y bases de datos para sites promocionales...
+Conocimientos de otros lenguajes serán considerados positivamente.
+

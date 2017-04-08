@@ -1,0 +1,6 @@
+
+Buscamos un artista 3D con experiencia en dinámicas y partículas, especialmente con los plugins Rayfire y/o FumeFX para 3D Max.
+En ambos es necesario poder demostrar un conocimiento avanzado de shadding e iluminación, así como manejo de los motores de render Vray o MentalRay
+Es para un proyecto de 2 meses, con incoproración inmediata.
+Por favor abstenerse a contactar si no poseen conocimientos de estos dos plugins (o uno equivalente).
+

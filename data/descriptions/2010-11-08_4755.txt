@@ -1,0 +1,12 @@
+
+Se precisa programador PHP experimentado y con disponibilidad inmediata para incorporarse.
+Imprescindible experiencia en el desarrollo de e-commerce realizados con magento. Se valorará portofolio y referencias.
+Conocimientos en:
+- PHP
+- Mysql
+- Maquetación HTML/CSS
+- Javascript/Ajax
+Se valorará:
+- conocimientos de otros CMS (joomla, drupal, wordpress,...)
+- Nivel alto de inglés.
+- Frameworks de php com Zend Framework o Code Igniter. 

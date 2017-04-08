@@ -1,0 +1,22 @@
+
+Nuestra compañía 
+HelpMyCash.com es una empresa de Internet con un objetivo claro: proporcionar una recomendación, imparcial y de alta calidad, a los consumidores que buscan productos financieros. 
+Estamos creando un equipo multicultural, proactivo, pragmático, exigente y divertido. Buscamos candidatos que se unan a nosotros para realizar prácticas de 6 meses con la esperanza de identificar el talento necesario para hacer crecer nuestro negocio.
+Funciones a desarrollar
+•	Ayudar a mejorar la usabilidad y la conversión en la web creando páginas web para A/B testing lo que incluye trabajar con photoshop, HTML/CSS, y JQuery
+•	Ayudar a desarrollar e implementar nuevas funcionalidades para la web
+•	Dar soporte al equipo de product management para agilizar la producción y el testing de páginas y funcionalidades
+Personalidad/ Ética profesional
+•	Pasión por Internet (se valorará muy positivamente experiencia previa demostrable creando páginas webs)
+•	Implicación y actitud positiva
+•	Ganas de construir y aprender 
+•	Ideas claras y pragmáticas, creatividad y seguridad en sí mismo
+•	Capacidad de desarrollar soluciones simples y fáciles de mantener por otras personas
+
+Habilidades técnicas/Experiencia anterior
+•	Amplios conocimientos de HTML, Javascript (AJAX), frameworks javascript 
+•	Conocimientos básicos en usabilidad y SEO 
+•	Español o Inglés fluido 
+•	Capacidad de pensar como el usuario
+•	Experiencia en maquetación de webs (XHTML , CSS , cross-browser , Javascript ...) 
+

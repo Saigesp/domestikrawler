@@ -1,0 +1,6 @@
+
+- Designing A/B and mutivariate testing plans (define, execute, analyse, follow-up).
+- Identify mesurable KPI's for testing.
+- Develop and implement best practices for A/B and multivariate testing.
+- Develop relevant user experiences based on various hypotheses and create measureable test plans.
+- Monitor and analyze test results, and create actionable reports for implementation and/or futher testing.

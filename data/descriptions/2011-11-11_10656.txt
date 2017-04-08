@@ -1,0 +1,14 @@
+
+Empresa
+Wings for Media es una start-up que ofrece a los medios de comunicación productos y servicios innovadores para el transporte de contenidos sobre 3G.
+Perfil
+Buscamos un buen programador que se integre en nuestro equipo de ingeniería con otros informáticos, telecos, electrónicos y industriales. Tiene que ser una persona que aprenda rápido, que se adapte y al que le guste asumir retos técnicamente complejos.
+Trabajará en el desarrollo de las futuras versiones uno de nuestros principales productos: WingsManager, que es la aplicación web que permite configurar y monitorizar en tiempo real el funcionamiento de otros productos.
+Aunque el desarrollo estará centrado en WingsManager, implica la comunicación con diferentes  aplicativos que tienen los productos y con los servidores, por lo que es necesario conocer la arquitectura entera y intervenir otras partes del desarrollo.
+Requisitos
+-Ingeniero Informático Superior
+-Experiencia mínima de 2 años en programación PHP, MySQL, HTML y Javascript
+-Conocimientos avanzados en Linux
+Oferta
+-Incorporación inmediata
+-Contrato indefinido con periodo de prueba

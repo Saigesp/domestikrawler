@@ -1,0 +1,13 @@
+
+Agencia Interactiva busca programador PHP/MySQL con experiencia en el sector, preferiblemente en el desarrollo completo de websites, incluyendo BackOffice con elementos como: catálogos, agendas, carro de la compra, pasarela de pago, etc.
+Buscamos una persona, lógica a la vez que creativa (seguro que eso es posible!), que disfrute del trabajo en equipo pero que tendrá que programar sin ayuda los proyectos que se le asignen.
+Se valorará, además:
+- JavaScript, principalmente AJAX.
+- Maquetación HTML con CSS.
+- Adobe Flash (scripting).
+- SOAP, XML.
+- FBML.
+- Sensibilidad por el Diseño.
+- Sentido del Humor ;-)
+Ofrecemos un excelente ambiente laboral y posibilidades de desarrollo.
+

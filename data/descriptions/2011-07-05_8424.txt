@@ -1,0 +1,6 @@
+
+Buscamos un titulado reciente con formación profesional ciclo superior (informática), ingeniería técnica o superior en informática, que pueda incorporarse a partir del próximo mes de septiembre.
+Sus funciones principales consistirán en:
+- Programación en entornos Web: PHP, CSS, Javascript, Ajax, MySQL
+- Desarrollo y personalización de blogs y webs con CMS (Wordpress)
+

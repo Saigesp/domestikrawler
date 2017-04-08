@@ -1,0 +1,12 @@
+
+Hola a todos,
+estamos buscando programadores que deseen aumentar sus conocimientos en entornos LAMP.
+Requisitos:
+*Residir en Antequera.
+*No es necesaria experiencia laboral anterior, pero será valorada.
+*Posibilidad de contrato según el rendimiento.
+*Tener una base mínima en PHP.
+*Tener una base mínima en servidores Apache.
+*Tener una base mínima en bases de datos MySQL.
+*Tener una base mínima en maquetación HTML+CSS.
+*Ganas de aprender y de trabajar.

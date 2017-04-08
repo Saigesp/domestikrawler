@@ -1,0 +1,8 @@
+
+Estamos buscando un programador o programadora web a tiempo completo. Los requisitos son los siguientes:
+- Experiencia 2/3 años
+- Maquetacion: XHTML + CSS2
+- Javascript (jquery, scriptaculous, mootools,...)
+- ActionScript 2/3
+- PHP y MySQL...
+Deseable: Joomla, Flex2/3, Papervision...

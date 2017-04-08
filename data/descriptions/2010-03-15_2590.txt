@@ -1,0 +1,35 @@
+
+Hola, 
+Estamos buscando un programador de front-end para una serie de productos propios, tanto para escritorio como para móvil. Se unirá a un equipo de 5 personas desarrollando en Rails, iPhone y Android.
+Concretamente:
+
+ * W3C a rajatabla
+
+ * Webkit para iPhone/Android
+
+ * jQuery
+
+ * Manejo de Git
+
+ * Entorno Mac
+
+
+Adicionalmente:
+
+ * jQuery Touch, Titanium o semejante
+
+ * HTML5, CSS3
+
+ * Experiencia integrando con Rails
+
+
+Nosotros ponemos:
+
+ * Un iMac de 27''
+
+ * Un iPod Touch
+
+ * Lunes y Viernes puedes currar desde casa
+
+
+Si te apetece, mándanos un email, nos tomamos una caña y vemos si podemos trabajar juntos.

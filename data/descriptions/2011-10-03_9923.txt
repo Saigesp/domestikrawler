@@ -1,0 +1,14 @@
+
+Sokoweb Technologies S.L. es una start-up fundada en Barcelona en 2011 que ofrece servicios de marketing y publicación online a distribuidores y marcas a través de innovadoras herramientas web y móvil. Queremos revolucionar la forma en la que la gente prepara las compras y accede a las tiendas. Buscamos a gente entusiasta que esté buscando nuevos retos!	
+Qué te ofrecemos?
+-	Ser el responsable de la administración de los servidores de aplicación Tomcat 
+-	Ayudar en la administración de la base de datos Postgres SQL utilizando las extensiones de geo-localización Postgis
+-	Contribuir al mantenimiento y la mejora de la escalabilidad de nuestra plataforma web 
+-	Participar de una fuerte cultura de equipo donde podrás tener impacto y aportar ideas
+-	Trabajar con un equipo de profesionales jóvenes de primer nivel especializados en desarrollo de innovadoras tecnologías web y móvil 
+-	Un nuevo reto con una oportunidad de aprendizaje muy valiosa para tu desarrollo profesional 
+Qué esperamos de ti?
+-	Experiencia en administración Linux; conocimiento de servidores de aplicaciones Java como Apache Tomcat 
+-	Se valorará experiencia previa en administración y optimización de bases de datos, Postgres SQL
+-	Motivación y ganas de aprender
+

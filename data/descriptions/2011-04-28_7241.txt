@@ -1,0 +1,15 @@
+
+Se necesita programador frontend y multimedia en Storm (www.storm.es) (presencial, abstenerse freelance y/o empresas privadas), agencia digital del Grupo Nostrum.
+Buscamos gente con ganas, que conozca el sector de la publicidad y el ritmo de trabajo.
+Ambiente de trabajo genial y equipo joven.
+INCORPORACIÓN INMEDIATA
+Aptitudes
+-           Amplios conocimientos programación client-side: XHTML+CSS y estandares web. Experiencia en maquetación por capas y cross-browsing
+-           Gran conocimiento en programación AS2 y muy valorable en AS3
+-           Dominio de programación en PHP y nociones de sql.
+-          Alto conocimiento de Javascript (no librerías) (ajax, hijax, animación); y se valorará el uso de jQuery
+-           Amplios conocimientos de SEO y con habilidades para resolver las incompatibilidades en versiones y navegadores.
+-           Experiencia en trabajo con APIs de Facebook, Google Maps, Youtube, Twitter..
+Se valorará
+Conocimientos en desarrollo de aplicaciones para iPhone/Androide            
+

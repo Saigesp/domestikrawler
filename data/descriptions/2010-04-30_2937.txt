@@ -1,0 +1,3 @@
+
+Buscamos programador con experiencia con el cms OpenCart.
+Queremos extender la funcionalidad del modulo de reseñas. Quieremos añadir la funcionalidad de la evaluación de las reseñas de los productos.

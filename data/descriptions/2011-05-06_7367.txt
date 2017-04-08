@@ -1,0 +1,23 @@
+
+Somos una empresa de ámbito internacional orientada al gambling o los juegos online en Castelldefels. Actualmente estamos buscando un programador con buena experiencia en desarrollo PHP. 
+Las principales tareas a desarrollar serán:
+•	Programación y mantenimiento de herramientas para la gestión de sites, (cms, aplicación de envió de emails, servidor de publicidad...).
+•	Participación en la programación de server de microsites promocionales para el sector gambling.
+•	Programación a nivel de front de posibles proyectos web.
+•	Coordinación de proyectos con el departamento técnico en Marruecos de 6 personas
+•	Documentación de activo y de procedimientos técnicos
+Requisitos necesarios:
+•	El programador debe tener experiencia en programación basada en entorno LAMP (Linux, Apache, Mysql, PHP). 
+•	Experiencia demostrable en PHP (mínimo 2 años). 
+•	Experiencia en programación de aplicaciones usando el patrón MVC (Modelo-Vista-Controlador).
+•	Experiencia en programación de aplicaciones usando alguno de los frameworks de PHP. (Zend) 
+•	Conocer las prácticas de programación de front-end y tener la capacidad de usarlas (Javascript, AJAX) 
+•	Conocimiento y capacidad en las prácticas comunes en la programación de WebServices (SOAP,XML,JSON,REST,etc..)  
+•	 Ingles medio-alto. 
+•	Capacidad para trabajar de forma tanto autónoma y en equipo. 
+Requisitos valorados: 
+•	Conocimiento básico de usabilidad/accesibilidad Web (Standards). 
+•	Otros lenguajes de programación o aptitudes serán valoradas positivamente. 
+•	Conocimientos de gestión de servidores linux. 
+•	Nivel medio-alto en Francés
+

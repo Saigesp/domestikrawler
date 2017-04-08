@@ -1,0 +1,16 @@
+
+Description:
+As a User Experience Designer, you will work closely with engineers and product managers throughout all stages of the product cycle. You will be responsible for designing the functional and interactive layer of innovative web interfaces and features used by millions of people every day and think critically about how to make these highly usable, intuitive, and elegant.
+Responsibilities:
+* Work closely with product management to define requirements and prototype and design new features for millions of users
+* Develop high level and/or detailed user flow diagrams, wireframes, storyboards, mockups and prototypes to effectively communicate interaction and functional design
+* Create and maintain specifications such as interface guidelines and standards across products
+* Translate usability test results into product design improvements
+Requirements
+* Solid academic background, ideally with experience in HCI or formal visual design
+* Demonstrated experience in designing web-based or client applications
+* Deep understanding of social internet technology and AJAX-based interfaces
+* Solid knowledge of Adobe Fireworks, Photoshop and Illustrator; a working knowledge of CSS and HTML and other advanced prototyping tools such as Omnigraffle or Axure is a large plus.
+* Excellent communication and teamwork ability with great attention to detail
+* Conceptual skills and ability to multi-task and be proactive in a start-up environment.
+* Strong, clean visual design sense.

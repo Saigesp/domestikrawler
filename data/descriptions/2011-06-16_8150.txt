@@ -1,0 +1,11 @@
+
+En Nexmot digital, empresa start-up de desarrollo de aplicaciones web basada en Barcelona estamos buscando un programador para nuestro equipo de desarrollo.
+Requisitos:	
+- Programación orientada a objetos. El trabajo será en PHP 
+- Javascript / Ajax
+- MySQL
+- HTML/CSS
+- Metodologías de programación y frameworks (CakePHP, CodeIgniter, Symfony,etc...)
+- Gestores de versiones (svn, git)
+- Se valorará experiencia de administración web con Apache en servidores Linux
+

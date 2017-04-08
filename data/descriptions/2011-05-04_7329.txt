@@ -1,0 +1,18 @@
+
+Nuestro cliente es una importante empresa en fase de expansión nacional e internacional, que opera en internet.
+El Analista Funcional de Datos trabajará en el departamento de datos, reportando al responsable de área.
+Perfil: 
+- Aportará calidad de los modelos de datos
+- Definirá las reglas de negocio
+- Elaboración de documentación con catálogos de tablas generales
+- Planificación , seguimiento y control de las evoluciones previstas en los sistemas de explotación de información
+Experiencia en:
+- Cuadros de mando
+-  Soluciones BI
+- APIS
+- Web Services
+-  Integración de formularios y procesos para recopilar información
+-  Importar y exportar información a bases de datos
+-  Consultas a bases de datos para obtener información e integrarla en distintos formatos
+- Creación de reportes en Excel y uso de macros
+

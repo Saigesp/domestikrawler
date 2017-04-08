@@ -1,0 +1,18 @@
+
+En 100x100.net estamos buscando un web developer Java con suficiente capacidad y experiencia para poder ayudarnos a ampliar un interesante proyecto ya desarrollado, pero que se ha de adaptar a nuevos requerimientos del cliente. Los características de éste son:
+- Desarrollado sobre JDK 6
+- MySQL 5.0.5
+- Funciona sobre Apache Tomcat 5.5, a la vez sobre IIS 6. Nuestra configuración permite redireccionar ciertas url de IIS a Tomcat.
+Estamos abiertos a la posibilidad de utilziar otra infraestructura
+- Para el desarrollo utilizamos IDE Eclipse 3.3.1.
+Total libertad para utilizar y 'migrar' el proyect a otro IDE.
+- Para la capa de persistencia hemos utilizado la potencia del framework Hibernate 3 + Hibernate Tools para Eclipse Es imprescindible gran experiencia en este framework para poder entender y mejorar esta capa de la aplicación.
+- Utiliza librerías de Apache Commons (como email, fileupload), log4j, jstl + otras librerías open source para el cumplimiento de ciertos requisitos del cliente:
+* Quartz (cron jobs)
+* iText (generación dimánimca de PDF)
+* jCharts
+Tota libertad para utilizar cualquier otra librería o substituir las existentes para mejorar las funcionalidades.
+- El código del cual partir está comentado e indentado, así como la aplicación compilada está libre de bugs.
+Las librerías propias disponen de código fuente.
+Interesados básicamente en un desarrollador FREELANCE.
+Si estás interesado/a envíanos un mail a info@100×100.net y nos pondremos en contacto contigo.

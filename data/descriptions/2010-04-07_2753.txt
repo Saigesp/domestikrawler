@@ -1,0 +1,6 @@
+
+Requisitos:
+-AS3 y AS2 nivel alto o muy alto.
+-Conexión de Flash con BBDO.
+-HTML, CSS y Javascripts.
+Buscamos un programador freelance para colaborar en  proyectos puntuales que debemos empezar a desarrollar en un corto plazo de tiempo. Se requerirá la realización de una prueba de muestra para valorar la capacidad y conocimientos técnicos.

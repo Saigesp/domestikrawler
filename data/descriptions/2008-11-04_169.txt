@@ -1,0 +1,12 @@
+
+En BermiLabs buscamos un freelancer apasionado por el diseño de interfaces usables y que tenga un buen sentido de la estética.
+Requisitos:
+
+Dominio de CSS, XHTML y Javascript.
+
+Experiencia demostrable en el  diseño de interfaces para aplicaciones web o intranets siguiendo los estándares.
+ 
+Agilidad con Fireworks/Photoshop/Illustrator.
+
+Si estás acostumbrado a trabajar con Akelos, Django o Ruby on Rails, mucho mejor.
+Si te interesa colaborar con nosotros envíanos tu currículum y enlaces a trabajos que hayas hecho.

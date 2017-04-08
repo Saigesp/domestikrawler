@@ -1,0 +1,23 @@
+
+Su función principal consistirá en: análisis, diseño e implementación de software de gestión de la información.
+El entorno tecnológico del puesto será el siguiente:
+- Tecnología de desarrollo plataforma .NET y ASP.NET, lenguaje C#.
+- Desarrollo de entornos Web, aplicaciones de escritorio y aplicaciones para dispositivos móviles.
+- Sql Server. T-SQL.
+- Share Point
+- Team System Visual Studio
+- Se valoraran conocimientos de Silverlight y WPF
+Las condiciones son:
+- Tipo de contrato: Indefinido
+- Jornada laboral: Completa
+- Puesto de trabajo estable en un excelente ambiente laboral.
+- Incorporación a un equipo joven y dinámico.
+Requisitos imprescindibles:
+- Ingeniería en Informática
+- Al menos 1 año de experiencia en el desempeño de puestos similares
+- Disponibilidad inmediata
+Se valorará alto nivel de competencia / habilidad:
+- Orientación a resultados
+- Gestión de proyectos
+- Diseño de interfaces gráficos
+Se ofrece integración en equipo de trabajo, con interesantes perspectivas de desarrollo profesional.

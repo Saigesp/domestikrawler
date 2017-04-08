@@ -1,0 +1,30 @@
+
+Globaliza.com portal inmobiliario participado por el Grupo Unidad Editorial necesita incorporar en su plantilla a programadores en JAVA/J2EE.
+Globaliza está especializada en la publicidad online y en el diseño de arquitecturas Java J2EE. Nos dedicamos a dar soluciones de valor añadido para el ámbito de portales corporativos e inmobiliarios.
+Ofrecemos la posibilidad de integrarse en un proyecto de larga duración.
+
+Mínimo: 
+
+- Experiencia demostrable de más de 2 años en entornos Java/J2EE.
+- Experiencia con JSP, JDBC y RMI. 
+- Experiencia con Frameworks: Web Services y SOA - Maquetación en HTML, DHTML y CSS 
+- JavaScript (jQuery,dojo, FOSSG...) 
+- AJAX 
+- Conocimientos sobre entornos de base de datos: MySQL y ORACLE 
+- Experiencia con Tomcat. 
+- Experiencia en el uso de framework Eclipse 
+- Perfil proactivo, dinámico y con capacidad para el trabajo en equipo.
+
+Deseado:
+- Experiencia con el API Lucene y motor de búsqueda Solr. - Experiencia en programación de Oracle, funciones, procedimientos, optimización de consultas, gestión de servidor, etc. 
+- Conocimientos en tratamiento de PDF con iText 
+- Conocimientos de UNIX/LINUX
+ - Conocimientos de PHP 
+- Conocimientos de Wordpress 
+- Conocimientos de CRM 
+- SEO/SEM 
+- Nivel alto de inglés.
+Jornada:
+Completa, L-J 9:00 - 18:30 / V 9:00 - 15:00
+Reducida en verano: 8:00-15:00
+

@@ -1,0 +1,7 @@
+
+Buscamos un desarrollador freelance de aplicaciones para Facebook. Nuestras oficinas están en Madrid y queremos conocer a los candidatos en persona. Si resides en Madrid y te interesa, envíanos tu portfolio y CV a operationspain@lewispr.com
+Conocimientos requeridos:
+- PHP, SQL
+- FBML, FBJS, FQL
+- ActionScript, FLEX
+ Se valorarán conocimientos de AJAX y maquetación en XHTML y CSS.

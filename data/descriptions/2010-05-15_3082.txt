@@ -1,0 +1,4 @@
+
+Hola,
+estamos desarrollando una red social de eventos, llamada Weclic. Es una red social enfocada a un nicho de mercado, con una estrategia comercial clara no basada en publicidad.
+Necesitamos desarrolladores senior y un lead developer en ruby on rails.  

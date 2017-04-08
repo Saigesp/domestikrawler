@@ -1,0 +1,19 @@
+
+En Codigomedia (Agencia de contenido editorial), estamos buscando un experto en joomla para colaboraciones como freelance, a poder ser que viva en Madrid para poder tratar personalmente.
+Resumo un poco las necesidades principales que luego explico abajo:
+Una web en la que se pueda insertar vídeo, que tenga un carrousel de imágenes y vídeos cada cual con su texto, y pueda adaptarse a DISPOSITIVOS MÓVILES.
+Si estás interesado ¿podrías enviarme un presupuesto estimado, el tiempo que te llevaría y algunos ejemplos de tu trabajo?
+gracias,
+ainhize@codigomedia.es
+La explicación de la web se entiende mejor si se ve el pantallazo de la home, pero no puedo subirlo aquí. Lo enviaría por mail.
+1- La plantilla debe ajustarse exactamente al diseño (los html y css los haremos nosotros )
+2- El diseño es básicamente en la cabecera una banda blanca en la que irá la botonera principal, con menús desplegables .
+Los dos primeros botones son secciones normales , la tercera de vídeos y la cuarta una especie de Foro/Comunidad, en la que los usuarios registrados propondrán sus temas, preguntas, etc.
+Las respuestas las meteremos nosotros como administrador.
+3- En la cabecera, debajo de esa banda con los logos y el MENÚ principal, va una galería de tres fotos que van pasando.
+4- Debajo hay un segundo menú ÚLTIMAS NOTICIAS, AGENDA Y NUESTROS EXPERTOS y al lado una barra de BUSCAR.
+5- Debajo de esto un siguiente módulo con un carrousel en el que van pasando distintos temas con imagen y texto, alguno (como el cuarto en el ejemplo será vídeo en vez de imagen).
+6- El último módulo son los links a facebook, youtube y rss.
+7- Formulario de registro.
+8- un módulo para banner de publicidad que linkará a su página.
+9- La parte de copyright, mapa de sitio, etc

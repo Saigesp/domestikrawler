@@ -1,0 +1,22 @@
+
+Sobre la empresa
+eyeOS es un escritorio virtual multiplataforma, basado sobre el estilo del escritorio de un sistema operativo, nacido en Barcelona el año 2005.
+Se trata de un nuevo concepto en almacenaje virtual, el cual se considera como revolucionario al ser un servicio clave para el Web 2.0 ya que dentro de una web que combina el poder del actual HTML, PHP, AJAX y JavaScript para crear un entorno gráfico de tipo desktop.
+Algunas referencias:
+el Periódico, Read Write Web, el País...
+Estamos buscando...
+Un diseñador de interacción experto en usabilidad, con una obsesión casi enfermiza por el diseño de interfaces, y el trabajo bien hecho.
+Responsabilidades
+- Mejorar la usabilidad y la interacción de las interfaces actuales.
+- Crear wireframes de cómo fluye el usuario por partes concretas de la aplicación.
+- Documentar todos y cada uno de los detalles sobre los procesos: feedback que recibe el usuario, etc.
+- Continua aportación de sus conocimientos para ayudar a mejorar el producto.
+Requisitos
+- 3+ años trabajando en diseño de la interacción y usabilidad.
+- Tener buena capacidad analítica: que se comprometa en los plazos de entrega.
+- Disponer de un portafolio (cuanto más extenso mejor) con wireframes y otros trabajos de diseño de interacción y usabilidad.
+- Buena capacidad para entender diagramas de flujo (workflow’s)
+- Gran dominio de Adobe Illustrator y otras herramientas de diseño.
+Condiciones
+- Jornada laboral completa (40 horas semanales)
+- Trabajo presencial. La oficina esta ubicada en el centro de Barcelona.

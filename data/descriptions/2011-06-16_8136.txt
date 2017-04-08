@@ -1,0 +1,9 @@
+
+Necesitamos programador multimedia, trabajo presencial. Para realizar tareas de programación y mantenimientos de piezas en flash, efectos y montaje de vídeo entre otras tareas.
+Requisitos:
+- Fundamental, conocimiento y experiencia demostrable en programación AS3 (con un mínimo de dos años de experiencia)
+- Utilización de los siguientes programas: After Effect, Premiere, PhotoShop, Ilustrator.
+- Nociones de php, xml y html y javaScrypt
+- Saber trabajar en equipo
+Es un +:
+- Papervsion3D , Flex, utilización de Subversion, worpPress, APIs, DB, SQL, predisposición a aprender y trabajar en grupo.

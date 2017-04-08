@@ -1,0 +1,5 @@
+
+Precisamos incorporar en Zaragoza un analista programador para trabajar en el desarrollo de nuestros sitios web, así como en los desarrollos que hacemos para otros clientes.
+Requisitos:
+- Experiencia en toma de requisitos, análisis y desarrollo en plataforma PHP/MYSQL
+- Conocimiento de HTML, XHTML, CSS y Javascript 

@@ -1,0 +1,25 @@
+
+Se requiere la contratación de un Programador para cubrir el aumento de la demanda de los trabajos de la agencia.
+Imprescindible:
+- Dominio de PHP5 y MySQL - nivel medio-alto.
+- Uso de Frameworks MVC en PHP5 (preferiblemente CodeIgniter).
+- Javascript con jQuery.
+- XHML/HTML5 semántico.
+- CSS.
+Se valorarán:
+- Conocimientos de AS3, FLEX, ASPX, .NET, configuración de entornos LAMP e IIS.
+- Capacidad aprendizaje y trabajo en equipo.
+- Programación Internet para teléfonos móviles (iPhone, Android, Windows Phone, etc...).
+Experiencia mínima:  Al menos 2 años.
+REQUISITOS DESEADOS
+Programación Orientada a Objetos.
+Uso de librerías open source.
+Creación de 'plugins' para Wordpress.
+Desarrollo de Webservices y API's.
+Codeigniter, Magento, Social Media.
+Configuracion de WebServers (LAMP).
+Subversión.
+Uso de herramientas de colaboración.  
+Dominio del Inglés.
+Buena presencia.
+

@@ -1,0 +1,18 @@
+
+Funciones:
+El candidado tendrá un profundo conocimiento de xhtml, CSS, y JavaScript y se tendrá que incorporar en plantilla. Por lo tanto candidados con disponibilidad de freelance serán descartados.
+Las tareas principales son el desarrollo de templates y implementacion en entorno de frontend, configuraciones de tiendas online y resolución de frontend bugs.
+Requisitos mínimos:
+• Dominio de xhtml y CSS (semantico, W3C compliant, crossbrowser)
+• Dominio de JavaScript y jQuery
+• 2+ años de experiencia en sector IT 
+• Capacidad de respectar fechas de entregas
+• Dominio del Ingles
+• Conocimiento de ActionScript
+Requisitos deseados:
+• Conocimientos de version control systems serian apreciados
+• Experiencia en template systems (i.e.: smarty) y CMS
+• Experiencia y interés en web, nuevas tecnologías
+• Persona proactiva y autodidacta. Capacidad de aprendizaje
+• Experiencia de entorno Mac OS
+• Espíritu de equipo

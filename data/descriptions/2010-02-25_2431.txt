@@ -1,0 +1,19 @@
+
+Blit Software, compañía dedicada al desarrollo de software para PC y móviles, busca programador de aplicaciones y juegos de móviles para su oficina en el centro de Barcelona (Pl. Molina).  
+DESCRIPCION DEL PERFIL:
+El candidato debe tener una base sólida en el desarrollo de aplicaciones para móviles. 
+Valoraremos especialmente aquellos candidatos que hayan trabajado en productos que estén finalizados y se hayan distribuido comercialmente, especialmente en iPhone y Android, aunque también en Windows Mobile. 
+Debe ser capaz de integrarse en un equipo de desarrollo, aprender a usar la tecnología propia de la empresa y desarrollar por sí mismo en función de las especificaciones recibidas.
+REQUISITOS:
+- Ingeniería informática (o finalizando).
+- Dominio de C++ y Objective-C.
+- Dominio de OpenGL o DirectX.
+EXTRAS:
+- Interacción con herramientas gráficas (3DSMax, Photoshop, etc).
+- Programación con Web Services.
+- Dominio de Java.
+- Dominio de C#
+OFRECEMOS
+Trabajo a jornada completa.
+Entorno de trabajo consolidado y profesional. 
+Posibilidad de estar contacto con múltiples tecnologías y de trabajar en proyectos variados.

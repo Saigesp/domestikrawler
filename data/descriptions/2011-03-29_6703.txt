@@ -1,0 +1,15 @@
+
+Requisitos mínimos
+• Experto/a en tecnología LAMP (Linux, Apache, MySQL, PHP)
+• Experiencia en el desarrollo de aplicaciones Web y PHP
+• Conocimientos de flash y action script
+• Conocimientos de HTML, JavaScript y AJAX
+• Experiencia en herramientas de gestión de contenidos Web (MOOS, Joomla, Drupal, Tridion)
+• Conocimientos de maquetación XHTML Y CSS
+• Conocimientos de accesibilidad y estándares web
+• Conocimientos de arquitectura cliente/servidor
+Valorable
+• Conocimientos en desarrollo con software de control de versiones
+• Experiencia en ASP, ASP.NET y SQL Server
+• Administración de servidores WEB IIS
+• Conocimientos de SEO

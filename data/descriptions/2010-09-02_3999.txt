@@ -1,0 +1,6 @@
+
+Hola, 
+Estamos sondeando la busqueda de un freelance en .NET para un desarrollo en esta plataforma. Trabajara con mSQL 2005 y servicios Web.
+El proyecto es gestionar la promoción de un concierto y estreaming de este en directo.  
+Obligatorio residente en Barcelona o alrededores.
+Un saludo.

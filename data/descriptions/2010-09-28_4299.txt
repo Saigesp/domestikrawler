@@ -1,0 +1,2 @@
+
+FullSIX, agencia digital en Madrid, busca maquetador html con conocimientos de php y mySQL con más de un dos años de experiencia para nuestras oficinas de Madrid. Una persona capaz de desarrollar sitios web basados en XHTML, HTML y CSS2/3, cuidando los estándares de accesibilidad [W3C, WAI] y usabilidad, y la interpretación del código en cada una de las plataformas y navegadores. Se valorará experiencia en redes sociales, conocimientos de backend el uso de Ajax y el uso de librerías Javascript.

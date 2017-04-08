@@ -1,0 +1,13 @@
+
+Maquetador con nociones básicas de PHP.
+- Maquetación de la página web, e-mails..., así como de la gestión de los contenidos de la misma.
+- Conocimientos avanzados de XHTML, CSS2 y estándares web.
+- Conocimientos básicos de PHP: entender el código PHP y fundamentos de programación.
+- Experiencia en webs accesibles, usables y estándares.
+- Conocimientos de Javascript y jQuery.
+- Conocimientos avanzados de otras librerías Javascript o similar.
+- Experiencia en webs de alto rendimiento, más de un millón de usuarios.
+- Experiencia en gestores de contenido.
+- Mínimo 2 años de experiencia.
+- Estudios mínimos Ciclo Formativo Grado Superior.
+- Inglés fluido.

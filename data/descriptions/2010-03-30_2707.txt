@@ -1,0 +1,8 @@
+
+BITOON GAMES es una empresa especializada en el desarrollo y puesta en marcha de juegos multijugador gratuitos y comunidades online de entretenimiento.
+Necesitamos incorporar a nuestro equipo de producción un Programador Junior Web a jornada completa que cumpla los siguientes requisitos:
+- Conocimientos de desarrollo con J2EE, Struts, Hibernate, JSP, Postgresql
+Se valorará:
+- Experiencia previa
+- Conocimientos de Javascript y AJAX
+Ofrecemos Contrato a jornada completa y salario acorde con la valía del candidato.

@@ -1,0 +1,24 @@
+
+Ganas. Muchas ganas. Algo de experiencia, un mínimo de 1 año. Entusiasta, atrevido/a y con afán de superación. Así es la persona que buscamos en BeRepublic para incorporar al departamento de tecnología.
+Tendrás la oportunidad de participar en el lanzamiento de campañas de marketing online para anunciantes de primer nivel y, todavía más emocionante, en campañas para start-ups que serán grandes marcas en un abrir y cerrar de ojos. Para ello, deberán gustarte los retos, ser polivalente, no conformarte con lo que conoces hoy y estar dispuesto a aprender día a día para seguir en primera línea.
+¿Cuál será tu misión? 
+Incorporándote al equipo de tecnología de BeRepublic-MaiTai:
+- Desarrollar campañas de marketing online con todo lo que el proyecto conlleva… preparar bbdd, estructurar landings, preparar las herramientas de análisis y seguimiento
+- Supervisión de campañas de emailmarketing y permission marketing.
+- Desarrollo de campañas de comunicación interactiva, microsites, aplicaciones Facebook.
+- Desarrollo y mantenimiento de proyectos web.
+- Y… si te gustan las aplicaciones móviles, te dejaremos trastear con alguna…
+- Y… ¿Realidad aumentada? ¿geolocalización?... son solo algunos ejemplos de posibles misiones imposibles en un futuro no muy lejano.
+Conocimientos
+- Programación orientada a objetos (POO)
+- PHP
+- MySQL
+- JavaScript utilizando librerías tipo jQuery, Prototype, etc
+- CSS
+- XML, XHTML, JSON
+- Conocimientos de Flash as2
+- Conocimientos y experiencia utilizando alguna herramienta de email marketing
+- Herramientas de edición gráfica (PhotoShop…)
+- Conocimientos y experiencia en algún CMS (Joomla, Drupal, WordPress…)
+- Experiencia en procesos de testing y validación de estándares
+- Control de versiones, preferentemente subversión[/b][/b]

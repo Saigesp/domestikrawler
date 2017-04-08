@@ -1,0 +1,14 @@
+
+Hola a todos.
+En 2dmayo buscamos un programador multimedia, que esté iniciado en la programación y maquetación de páginas para Internet. Estaría en contacto con el equipo de diseño y con especialistas externos en diversas tecnologías que utilizamos para nuestros desarrollos.
+Conocimientos imprescindibles:
+-Php/MySQL (nivel alto).
+-Javascript
+Conocimientos deseados:
+-Maquetación con CSS2 
+-Flash AS 2 ó 3
+-Nociones de diseño.
+Horario
+9:00-2:00/15:00 18:00
+Viernes: 8:00-15:00
+Estamos en Rios Rosas con Bravo Murillo.

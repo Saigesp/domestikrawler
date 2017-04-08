@@ -1,0 +1,6 @@
+
+ www.huaris.com 
+Huaris, nace con la misión de crear soluciones completas para la utilización de sistemas informáticos por medio de ayuda remota. Ofrecemos soluciones únicas y de calidad que permiten resolver de una manera novedosa el uso de las nuevas tecnológicas e Internet.
+Para dar apoyo en el desarrollo de soluciones web, precisamos incorporar un Programador de páginas web,  que programe y desarrolle contenidos de páginas web.
+Se requiere conocimiento en programación lenguajes web: PHP, Smarty, JQuery y base de datos MySQL.
+El horario es jornada intensiva de 8 a 15:00 horas, excepto los martes que también se trabaja por las tardes.

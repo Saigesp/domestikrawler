@@ -1,0 +1,12 @@
+
+Zapiens, estudio interactivo busca en Madrid un programador AS3 avanzado.
+Requisitos:
+-Programación en Lenguaje AS3
+-Buenas bases de POO
+-Experiencia en metodologías de desarrollo en equipo (FDT, Subversion)
+-Patterns 
+Se valorará:
+- Experiencia en clases  y APIs tipo PV3D, facebook live connect, google maps, etc.
+- Conocimientos de backend (PHP, MySQL, Apache, CMSs,etc...)
+-Conocimientos básicos XHTML
+Jornada completa.

@@ -1,0 +1,5 @@
+
+Estamos buscando a una persona o empresa para desarrollar un juego online para su integración en Facebook.
+Visualmente, pseudo 3D con perspectiva isométrica.
+Que guarde estadísticas para ranking.
+ntegrado en Facebook para viralización.

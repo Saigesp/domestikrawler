@@ -1,0 +1,5 @@
+
+Buscamos incorporar a nuestro equipo de trabajo varios programadores de .Net de perfil junior y senior.
+El candidato debe tener buenos conocimientos de:
+- C# , ASP.NET o ASP MVC y LINQ
+Nuestras oficinas se encuentran en Sant Cugat de Valles en frente de la estación de FFCC de Volpelleres. 

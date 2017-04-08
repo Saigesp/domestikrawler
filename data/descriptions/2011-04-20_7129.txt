@@ -1,0 +1,22 @@
+
+Buscamos un programador web con conocimientos avanzados de php para trabajar a media jornada en nuestras instalaciones.
+Requisitos mínimos
+• Experiencia mínima de 1 año demostrable.
+• Programación PHP orientada a objetos.
+• Experto en desarrollo web mediante PHP, MySQL .
+• Experiencia en Php con desarrollo con clases .
+• Experiencia con pasarelas de pago y TPV´s bancarias.
+• Experiencia en CMS´s Wordpress y Prestashop.
+• Experiencia en desarrollo de paneles de administración sin CMS.
+Requisitos deseados
+Dominio y uso de librerías o frameworks como jQuery o similares ...
+• Conocimientos básicos de herramientas de diseño como Photoshop.
+• Conocimientos sobre SEO.
+• Conocimientos administración servidores PLESK, CPANEL, DIRECTADMIN.
+• Experto en SMARTY y AdobDB
+• Arquitectura ActiveRecords.
+• Conocimiento en HTML, CSS y JavaScript.
+• Maquetaciones validadas W3C.
+Horario
+10-14h
+

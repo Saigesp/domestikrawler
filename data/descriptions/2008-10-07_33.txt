@@ -1,0 +1,5 @@
+
+hola,
+buscamos programador web con nivel avanzado de Flash (AS3 deseable),
+conocimientos de PHP, mySQL y experiencia en proyectos web. 
+Se valorará conocimientos de Javascript (jQuery, ...), CSS y HTML.

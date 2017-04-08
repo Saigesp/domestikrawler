@@ -1,0 +1,26 @@
+
+EVOLUCIÓN IBERIA filial WEB del Grupo de comunicación EVOLUCIÓN SA en Bélgica busca un desarrollador web PHP/MYSQL en período de prácticas. 
+Bajo la responsabilidad del responsable de desarrollo se encargará de la realización de sitios WEB mediante SYMFONY, Drupal o Prestashop. 
+Gracias a sus conocimientos técnicos, garantiza la calidad técnica de la aplicación que se le habrá confiado. Se comprometerá a respetar la documentación técnica y funcional proporcionada.
+Personalidad :
+- Facilidad para trabajar en un equipo
+- Capacidad satisfacer las necesidades de los clientes
+- Curiosidad técnica / abierto al análisis de la competencia
+Habilidad técnica
+Conocimiento de lenguaje Web :
+- PHP/MYSQL
+- CSS
+- Java
+- XHTML
+- AJAX
+- JQuery
+Conocimiento del entorno informático :
+- Redes, servidores…
+- Materiales
+- Aplicaciones y programas informáticos
+Uso de aplicaciones especiales  :
+- CMS, Prestashop, Drupal,
+- Framework : Symfony
+Idiomas:
+Ingles imperativo + Francés (opcional)  
+Buenos conocimientos en integración HTML/CSS serán también necesarios.

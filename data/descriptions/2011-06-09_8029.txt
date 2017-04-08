@@ -1,0 +1,13 @@
+
+Agencia interactiva con sede en Madrid busca programador web con conocimientos de programación servidor (preferiblemente PHP, .NET o Java) y programación cliente (estándares web, JavaScript).
+Se valorará experiencia con Zend Framework, JQuery, Joomla y Umbraco.
+Trabajará dentro del departamento de desarrollo, tanto en proyectos nuevos como manteniendo los ya existentes. 
+Requisitos mínimos:
+•	Maquetación con estándares web y accesibilidad: HTML, CSS.
+•	Programación servidor (PHP, .NET o Java).
+•	Programación cliente (JavaScript).
+Requisitos deseados:
+•	Experiencia con gestores de contenido y frameworks PHP.
+•	Programación para dispositivos móviles.
+•	ActionScript 3 para Flash.
+•	Facilidad para trabajar en equipo y aportar.

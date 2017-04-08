@@ -1,0 +1,11 @@
+
+Hola,
+somos una agencia de marketing interactivo, buscamos colaboradores Freelance para proyectos Internacionales enfocados a la publicidad. 
+Necesitamos perfiles con mucha experiencia en el diseño de proyectos web y que tenga pasión por cuidar los detalles.
+Debe tener una experiencia mínima de al menos 3 años (no junior).
+- Conocimientos elevados de AS2 y, sobre todo, AS3
+- Construcción de clases bien estructuradas y reusables
+- XML
+- Papervision y uso de APIs (youtube, flickr, gmaps, etc.)
+- Habilidades de dirección de arte y manejo de Photoshop, Illustrator.
+Vamos, que estamos buscando a alguien como tú. 

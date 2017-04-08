@@ -1,0 +1,2 @@
+
+Es para realizar una migración de una aplicación ya desarrollada, pasarla de un servidor coldfusion a otro con railo, los datos ya estan migrados, solo hay que hacerla funcionar. el precio es orientativo

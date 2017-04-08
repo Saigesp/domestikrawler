@@ -1,0 +1,2 @@
+
+Necesitamos un ¨web developer¨ que pueda añadir funciones en nuestro sitio web. Tiene que tener experiencia con el programa Ruby on Rails (ejemplo de codigo abajo) y preferentemente Smartadserver.

@@ -1,0 +1,3 @@
+
+Precisamos formador con dominio de PHP, MySQL, XML, ActionScript y JavaScript.
+Se valorará conocimientos de Ajax y Flex.

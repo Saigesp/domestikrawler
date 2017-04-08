@@ -1,0 +1,6 @@
+
+En Binocean buscamos un Desarrollador PHP para nuestra oficina en Madrid centro. Aportamos soluciones innovadoras de calidad en nuestros desarrollos e incorporamos tecnologías de última generación. Somos una empresa joven y dinámica. 
+El candidato deberá conocer la arquitectutra y estar acostumbrado a trabajar con Frameworks PHP MVC, preferiblemente Symfony. 
+Se valorará experiencia y conocimientos en programación front-end con Javascript (preferiblemente JQuery), CSS, HTML(5) y Flash y conocimientos de CMS's como WordPress y Jommla.
+Experiencia mínima:	Al menos 2 años
+Requisitos mínimos:	Experiencia en entorno de desarrollo Web, se valorará el uso de múliples tecnologías en este entorno.

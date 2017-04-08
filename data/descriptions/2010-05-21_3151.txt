@@ -1,0 +1,10 @@
+
+Hola a todos,
+hace tiempo que no me paso por aquí, la vida ha dado vueltas y ahora me dedico a otros temas (elearning) pero eso es otra historia. 
+El caso es que estoy ayudando a mi cuñado a montar la página web de su empresa y necesitaría un poco de ayuda para la parte de programación. Por ello, estoy buscando un programador web para realizar las siguientes tareas:
+- Instalar un wordpress o similar y crear o adaptar una plantilla (opensource o de pago) a los requerimientos de la página (sencilla, un idioma, tres secciones, logo y colores corporativos)
+- Instalar una tienda electrónica opensource o de pago que se adapte a los requerimientos (catálogo de productos pequeño, pero necesidad de establecer diferentes tarifas y descuentos por volumen) y linkarla con la web, para que se puedan hacer compras online, con su backoffice correspondiente.
+- Instalar un phplist para poder realizar envío de emails a los clientes.
+Timing - La idea es que esté todo terminado a final de junio o mediados de julio, para insertar los contenidos durante agosto y lanzar en septiembre.
+Si estás interesado y crees que puedes hacer un buen trabajo, por favor, envíame tu propuesta a anacalzada at gmail.com, junto con una pequeña muestra de tus trabajos. Si necesitas más detalles, también podemos hablarlo. 
+Muchas gracias a todos de antemano por vuestro interés

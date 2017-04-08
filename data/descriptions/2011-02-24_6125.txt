@@ -1,0 +1,5 @@
+
+Buscamos en programador con dominio en Ruby on Rails 3.0 y conocimientos avanzados de html, css, javascript, Ajax, cgi-scripting y conocimientos en Apache Server.
+Somos una start up al final del proceso previo al lanzamiento de una aplicación web.
+Necesitamos una dedicación de 4 horas diarias.
+

@@ -1,0 +1,16 @@
+
+Coated sigue buscando ampliar a su equipo. Debido al crecimiento que estamos experimentado y, para seguir haciéndolo, necesitamos personas que contribuyan a ampliar y mejorar nuestro equipo ¿eres tu? ¿te vienes?
+Las funciones de la persona que ocupe esta vacante serán las siguientes:
+-	Realización de aplicaciones PHP en Zend Framework
+-	Dar soporte al equipo que formará parte, tanto en PHP como en HTML en caso de integraciones
+Requisitios:
+-	Amplios conocimientos de PHP5
+-	Conocimientos de POO
+-	Manejo en bases de datos, entre ellas MySQL.
+-	Conocimientos y uso de Zend Framework
+-	Capacidad de aprendizaje y de trabajo en equipo.
+Deseable:
+-	Conocimientos del IDE Eclipse y haberlo usado como entorno de desarrollo junto con plugins como Subversive.
+-	Conocimientos de HTML para realizar integraciones
+-	Nociones de plataformas open-source como WordPress, Magento, etc.
+-	Conocimientos de JavaScript

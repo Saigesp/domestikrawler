@@ -1,0 +1,22 @@
+
+ABOUT THE COMPANY
+Flumotion provides live and on demand streaming services that enrich content and simplify video processing for delivery to any screen. The Software as a Service portfolio includes live transcoding, adaptive bitrate delivery and WebTV service, providing significant cost reductions and 100% audience reach. Flumotion’s award-winning technology offers clients market unique features that maximize monetization and create community around content and brand. World leading telcos such as NTT, British Telecom and Telefónica rely on Flumotion’s multi-format, open source based streaming technology. Clients include Cuatro, Nestlé, L’Oreal, Appliances Online, FIBA, GNOME and the Open Video Alliance. 
+CANDIDATE PROFILE
+In order to support its constant growth, Flumotion is hiring software engineers with different specialties: 
+· Python software engineers: We are looking for intelligent, self-directed developers who can quickly learn their way around our systems, and take a major role in expanding our feature-set, while maintaining a focus on quality and reliability.
+Our streaming media platform is a loosely-coupled cluster system, designed to deliver tens to hundreds of gigabits per second to clients across the globe. It is written mostly in Python (using Twisted), and runs on Linux servers. 
+· Flex Developer: Part of the Web TV Team, that prototypes and develops a continuously evolving Web TV solution for management and distribution of video on-line and directly reporting to Web TV Product Manager, this person will be responsible of the Flex/Action Script 3 development. 
+· Professional services developers: We are looking for 2 developers who are responsible for designing and developing new tailor-made features for specific customer needs. This person is also responsible for the maintenance and the support of these features over time.
+This is a highly technical as well as facing customer role focused on short and long term engagements.
+One of the profiles will be dedicated to Flumotion's streaming platform (python development) and the other focused on our webTV product (Flex / Flash development). 
+RESPONSIBILITIES 
+The main responsibilities of the position are: 
+· Developing new features for both our streaming server platform and the webTV product. 
+· Delivering, training and supporting integration of developed features. 
+· Using the defined APIs and following the development policies. 
+MINIMUM REQUIREMENTS
+· Experienced with software development in: multimedia systems, Flash / Flex, Linux/UNIX, Python, Twisted, Web services, distributed systems. 
+· Excellent English communication skills. 
+Ability to learn new programming languages and libraries rapidly. 
+· Autonomous, able to work and deliver with little management or direction.
+

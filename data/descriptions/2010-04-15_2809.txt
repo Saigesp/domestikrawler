@@ -1,0 +1,10 @@
+
+We’re looking for a passionate developer to develop applications for www.justlanded.com. You should be brilliant, motivated and ready to make a difference. If you are looking for a challenge and the opportunity to work on projects which will get in front of our 2 million visitors per month we want to talk to you. 
+Basic requirements: high level of capability with HTML, JavaScript &amp;amp;amp;amp; CSS is a must. You should have a good level of proficiency in reading English. Fluency in spoken English is an advantage, but the minimum requirement is a medium level. Spanish knowledge is not a requirement.
+Programming skills: hands-on Ruby/Rails experience and/or broad experience with one or more other high-level programming languages. You should have a broad knowledge of programming concepts (classes, inheritance, coding practices, etc) and be capable of producing high-quality functional, maintainable and logical code. 
+Desired skills - Application stack: You should be comfortable in a command-line Linux/*NIX environment and understand development processes (e.g. SVN/source control, IDEs, etc). Decent SQL and grasp of databases is a help, especially when this impacts on scalability. 
+About Just Landed: Just Landed is a multilingual online destination for people moving countries (currently &amp;amp;amp;gt;20 languages). Our site includes more than 40 country guides, marketplaces for jobs and property and a growing community. 
+What we offer:
+•	Challenging projects in a rapidly growing company 
+•	International work environment
+•	Competitive salary

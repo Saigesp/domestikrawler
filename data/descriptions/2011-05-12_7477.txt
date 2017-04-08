@@ -1,0 +1,11 @@
+
+Precisamos incorporar a nuestra plantilla un@ analista de usabilidad/accesibilidad, con experiencia demostrable en:
+- Test de usuarios en laboratorio de Usabilidad
+- Diseño de interacción y prototipado: wireframing, diagramas de flujo.
+- Realización de evaluaciones heurísticas
+- Desarrollo de libros de estilo
+- Definición de requerimientos funcionales
+- Metodologías de Card sorting
+- Análisis heurísticos
+- Accesibilidad Web según pautas WAI-WCAG y UNE 139803:2004
+El proyecto tendrá una duración estimada de 7 meses en A Coruña. Se admitirán candidaturas de cualquier lugar de España de profesionales interesados en participar en nuestro proyecto.

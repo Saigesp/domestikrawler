@@ -1,0 +1,12 @@
+
+Hola,
+Mi nombre es Icíar Boudes. 
+Os comento un poco por encima las caraterísticas que esta ha de tener:
+- Se trata de desarrollar una v-web o web.tv (os dejo un ejemplo http://venuspluton.com/tv/) que ha de permitir la incorporación de textos, gráficos y distintos formatos descargables
+- La estructura ha de ser abierta, es decir, que permita la incorporación de nuevos materiales de manera muy sencilla y autónoma (casi como un v-blog pero que la ordenación sea categorial en vez de por fecha de entrada)
+- No preciso ni el dominio ni el hosting
+- El diseño gráfico se proporcionaría desde la productora.
+- Hay que ponerse manos a la obra de inmediato
+Si a priori os parece una oferta que pudiera interesaros, ruego contestéis.
+Saludos,
+Icíar
