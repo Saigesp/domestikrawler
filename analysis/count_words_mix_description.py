@@ -24,8 +24,8 @@ def count_words_description():
 	# }
 
 	words = {
-		'lenguage':		['html', 'css', 'java', 'php', 'flash'],
-		'software':		['photoshop', 'illustrator', 'indesign'],
+		'web':			['web'],
+		'photoshop':	['photoshop'],
 	}
 
 	with open(output_file, 'w') as write_csv:
@@ -33,11 +33,11 @@ def count_words_description():
 		last_date = ''
 		data = ['yyyymm']
 		seen = {}
+		data.append('both')
+		seen['both'] = 0
 		for key in sorted(words):
 			data.append(key)
 			seen[key] = 0
-		data.append('both')
-		seen['both'] = 0
 		writer.writerow(data)
 
 		for file in sorted(glob.glob(os.path.join(input_path, '*.txt'))):
@@ -67,6 +67,6 @@ def count_words_description():
 						data.append(seen[key])
 					writer.writerow(data)
 					print(data)
+					seen['both'] = 0
 					for key in words:
 						seen[key] = 0
-					seen['both'] = 0
